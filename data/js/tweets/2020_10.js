@@ -1,6 +1,464 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 10 21:58:54 +0000 2020",
+		"id": 1315049190137888800,
+		"id_str": "1315049190137888768",
+		"full_text": "❝ 젊은 세대의 소셜미디어 흐름이 바뀌고 있다. 일상을 공유하고 인맥을 잇는 SNS에서 벗어나 자기 계발에 집중하거나, 기존의 SNS를 대체하는 새로운 플랫폼으로 옮겨가기도 한다. 온라인에서도 현실의 인간관계에 접속하기보다는 개인의 취미에 집중하는 것이다.\n\n연결 플랫폼→콘텐츠 소비 채널",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1315048740269379600,
+		"in_reply_to_status_id_str": "1315048740269379584",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 965,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "❝ 젊은 세대의 소셜미디어 흐름이 바뀌고 있다. 일상을 공유하고 인맥을 잇는 SNS에서 벗어나 자기 계발에 집중하거나, 기존의 SNS를 대체하는 새로운 플랫폼으로 옮겨가기도 한다. 온라인에서도 현실의 인간관계에 접속하기보다는 개인의 취미에 집중하는 것이다.\n\n연결 플랫폼→콘텐츠 소비 채널"
+	},
+	{
+		"created_at": "Sat Oct 10 21:57:06 +0000 2020",
+		"id": 1315048740269379600,
+		"id_str": "1315048740269379584",
+		"full_text": "SNS에 ‘인맥’이 사라지고 있다? - The PR\nhttps://t.co/NHIX7qk1Fj\n\n#SNS #소셜미디어 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SNS",
+					"indices": [
+						54,
+						58
+					]
+				},
+				{
+					"text": "소셜미디어",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						66,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NHIX7qk1Fj",
+					"expanded_url": "http://www.the-pr.co.kr/news/articleView.html?idxno=45737",
+					"display_url": "the-pr.co.kr/news/articleVi…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 965,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SNS에 ‘인맥’이 사라지고 있다? - The PR\nhttps://t.co/NHIX7qk1Fj\n\n#SNS #소셜미디어 #minfav"
+	},
+	{
+		"created_at": "Sat Oct 10 21:55:10 +0000 2020",
+		"id": 1314573671420182500,
+		"id_str": "1315048253017059330",
+		"full_text": "흔한 아이돌들의\n팬클럽 모집 방법...https://t.co/L88VPJ3n7g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314540924546904000,
+					"id_str": "1314540924546904070",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314540924546904070/pu/img/TdU6F-3YQNo_WGvJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314540924546904070/pu/img/TdU6F-3YQNo_WGvJ.jpg",
+					"url": "https://t.co/L88VPJ3n7g",
+					"display_url": "pic.twitter.com/L88VPJ3n7g",
+					"expanded_url": "https://twitter.com/aldagadomolla/status/1314541244349997056/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 936,
+							"h": 628,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 936,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1314541244349997000,
+					"source_status_id_str": "1314541244349997056",
+					"source_user_id": 1098272681147822100,
+					"source_user_id_str": "1098272681147822080"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314540924546904000,
+					"id_str": "1314540924546904070",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314540924546904070/pu/img/TdU6F-3YQNo_WGvJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314540924546904070/pu/img/TdU6F-3YQNo_WGvJ.jpg",
+					"url": "https://t.co/L88VPJ3n7g",
+					"display_url": "pic.twitter.com/L88VPJ3n7g",
+					"expanded_url": "https://twitter.com/aldagadomolla/status/1314541244349997056/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 936,
+							"h": 628,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 936,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1314541244349997000,
+					"source_status_id_str": "1314541244349997056",
+					"source_user_id": 1098272681147822100,
+					"source_user_id_str": "1098272681147822080",
+					"video_info": {
+						"aspect_ratio": [
+							234,
+							157
+						],
+						"duration_millis": 71907,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314540924546904070/pu/vid/936x628/_pvlzVqcBadlEsOL.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1314540924546904070/pu/pl/wX9yzW6J0EEcFMWP.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314540924546904070/pu/vid/402x270/WqS0ilr5_yuuF8pe.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314540924546904070/pu/vid/536x360/sNDp1KlGBgt11zHe.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1098272681147822100,
+							"id_str": "1098272681147822080",
+							"name": "잡식☀️",
+							"screen_name": "aldagadomolla",
+							"location": "BH",
+							"description": "",
+							"url": "https://t.co/Pzm64ytKON",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/Pzm64ytKON",
+											"expanded_url": "https://peing.net/me/home",
+											"display_url": "peing.net/me/home",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 65,
+							"friends_count": 29,
+							"listed_count": 0,
+							"created_at": "Wed Feb 20 17:26:26 +0000 2019",
+							"favourites_count": 7,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 2236,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1256993350898466816/lkjaGQsd_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1256993350898466816/lkjaGQsd_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1098272681147822080/1595865160",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1263457065789350000,
+			"id_str": "1263457065789349888",
+			"name": "심각한 과몰입",
+			"screen_name": "goa_mol_ip",
+			"location": "비팔 알림 off☹️",
+			"description": "안녕하세요. 아가페적 사랑(뉴프)와 에로스적 사랑(상프)을 동시에 하는 욕심쟁이 입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1889,
+			"friends_count": 122,
+			"listed_count": 8,
+			"created_at": "Thu May 21 13:10:22 +0000 2020",
+			"favourites_count": 1151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1302577472286810113/n3n5zgeP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1302577472286810113/n3n5zgeP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1263457065789349888/1599676723",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 777,
+		"favorite_count": 331,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "흔한 아이돌들의\n팬클럽 모집 방법...https://t.co/L88VPJ3n7g"
+	},
+	{
 		"created_at": "Sat Oct 10 16:24:01 +0000 2020",
 		"id": 1314964915648520200,
 		"id_str": "1314964915648520192",
