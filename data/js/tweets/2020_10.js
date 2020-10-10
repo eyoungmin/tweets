@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 10 12:27:05 +0000 2020",
+		"id": 1314886821063528400,
+		"id_str": "1314905288777043968",
+		"full_text": "201010🔍 [예능연구소 4K 직캠]\n#쇼음악중심 #음중 #블랙핑크 #BLACKPINK #PrettySavage @BLACKPINK\n\n'블랙핑크(BLACKPINK) - Pretty Savage’ \n▶ https://t.co/Ys87dDnxzM https://t.co/ivt0Nzq1Cw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						22,
+						28
+					]
+				},
+				{
+					"text": "음중",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						33,
+						38
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						39,
+						49
+					]
+				},
+				{
+					"text": "PrettySavage",
+					"indices": [
+						50,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						64,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ys87dDnxzM",
+					"expanded_url": "https://youtu.be/XymH8tRxOcs",
+					"display_url": "youtu.be/XymH8tRxOcs",
+					"indices": [
+						113,
+						136
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314886647217942500,
+					"id_str": "1314886647217942528",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej9qcGdUcAA0ZNw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej9qcGdUcAA0ZNw.jpg",
+					"url": "https://t.co/ivt0Nzq1Cw",
+					"display_url": "pic.twitter.com/ivt0Nzq1Cw",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1314886821063528448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314886647217942500,
+					"id_str": "1314886647217942528",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej9qcGdUcAA0ZNw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej9qcGdUcAA0ZNw.jpg",
+					"url": "https://t.co/ivt0Nzq1Cw",
+					"display_url": "pic.twitter.com/ivt0Nzq1Cw",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1314886821063528448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 839879,
+			"friends_count": 5,
+			"listed_count": 795,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6402,
+		"favorite_count": 22390,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "201010🔍 [예능연구소 4K 직캠]\n#쇼음악중심 #음중 #블랙핑크 #BLACKPINK #PrettySavage @BLACKPINK\n\n'블랙핑크(BLACKPINK) - Pretty Savage’ \n▶ https://t.co/Ys87dDnxzM https://t.co/ivt0Nzq1Cw"
+	},
+	{
 		"created_at": "Sat Oct 10 10:45:37 +0000 2020",
 		"id": 1314868338208637000,
 		"id_str": "1314879755469160448",
