@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 10 01:00:05 +0000 2020",
+		"id": 1314717279251296300,
+		"id_str": "1314732402208505856",
+		"full_text": "🔴 [LIVE]: @aclfestival 2020 is streaming all weekend long 🙌 Tune in to #ACLFest's channel for classic performances from @billieeilish, @twentyonepilots, @Alabama_Shakes, new sets from @BlackPumasMusic + more → https://t.co/DPWiS8TDQz https://t.co/BjI4URIVki",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ACLFest",
+					"indices": [
+						71,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aclfestival",
+					"name": "ACL Festival",
+					"id": 25830909,
+					"id_str": "25830909",
+					"indices": [
+						10,
+						22
+					]
+				},
+				{
+					"screen_name": "billieeilish",
+					"name": "billie eilish",
+					"id": 2150327072,
+					"id_str": "2150327072",
+					"indices": [
+						120,
+						133
+					]
+				},
+				{
+					"screen_name": "twentyonepilots",
+					"name": "twenty one pilots",
+					"id": 59325073,
+					"id_str": "59325073",
+					"indices": [
+						135,
+						151
+					]
+				},
+				{
+					"screen_name": "Alabama_Shakes",
+					"name": "Alabama Shakes",
+					"id": 374129770,
+					"id_str": "374129770",
+					"indices": [
+						153,
+						168
+					]
+				},
+				{
+					"screen_name": "BlackPumasMusic",
+					"name": "Black Pumas",
+					"id": 983445740436541400,
+					"id_str": "983445740436541441",
+					"indices": [
+						184,
+						200
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DPWiS8TDQz",
+					"expanded_url": "https://yt.be/music/ACL2020",
+					"display_url": "yt.be/music/ACL2020",
+					"indices": [
+						210,
+						233
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314620979503681500,
+					"id_str": "1314620979503681536",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314620979503681536/pu/img/1Vk3ARJ7yvNYmjEV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314620979503681536/pu/img/1Vk3ARJ7yvNYmjEV.jpg",
+					"url": "https://t.co/BjI4URIVki",
+					"display_url": "pic.twitter.com/BjI4URIVki",
+					"expanded_url": "https://twitter.com/youtubemusic/status/1314717279251296269/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314620979503681500,
+					"id_str": "1314620979503681536",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314620979503681536/pu/img/1Vk3ARJ7yvNYmjEV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314620979503681536/pu/img/1Vk3ARJ7yvNYmjEV.jpg",
+					"url": "https://t.co/BjI4URIVki",
+					"display_url": "pic.twitter.com/BjI4URIVki",
+					"expanded_url": "https://twitter.com/youtubemusic/status/1314717279251296269/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 10042,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314620979503681536/pu/vid/720x720/8lX88ZAh465TbVST.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1314620979503681536/pu/pl/5_x_WI6tslbSynzY.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314620979503681536/pu/vid/480x480/lju19FHO7xI-wWLr.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314620979503681536/pu/vid/320x320/qL1vmTBbHxL6CXDS.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 880142286176231400,
+			"id_str": "880142286176231425",
+			"name": "YouTube Music",
+			"screen_name": "youtubemusic",
+			"location": "",
+			"description": "The new music streaming app. Made by @youtube.",
+			"url": "https://t.co/pN2tJsK3Yf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pN2tJsK3Yf",
+							"expanded_url": "http://music.youtube.com",
+							"display_url": "music.youtube.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 677320,
+			"friends_count": 512,
+			"listed_count": 1510,
+			"created_at": "Wed Jun 28 19:14:08 +0000 2017",
+			"favourites_count": 2972,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1287783609697308674/fw5BWKHB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1287783609697308674/fw5BWKHB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/880142286176231425/1600452267",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🔴 [LIVE]: @aclfestival 2020 is streaming all weekend long 🙌 Tune in to #ACLFest's channel for classic performances from @billieeilish, @twentyonepilots, @Alabama_Shakes, new sets from @BlackPumasMusic + more → https://t.co/DPWiS8TDQz https://t.co/BjI4URIVki"
+	},
+	{
 		"created_at": "Sat Oct 10 00:02:07 +0000 2020",
 		"id": 1314717811860738000,
 		"id_str": "1314717811860738050",
