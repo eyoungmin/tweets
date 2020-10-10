@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 10 01:45:37 +0000 2020",
+		"id": 1314732379194310700,
+		"id_str": "1314743857809108992",
+		"full_text": "[KCON:TACT season 2] LIVE PREMIERE w #LOONA\n\n@loonatheworld is going LIVE at KCON official YT channel for the 1st LIVE PREMIERE!\nDon't forget to watch at 12:00PM KST / 10/9 20:00PDT!\n\n▶ KCON official: https://t.co/3htPBHA6xK\n▶ Mnet K-pop: https://t.co/r2LY9mGrzA\n#KCON #KCONTACT https://t.co/LdE30p4O1B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						37,
+						43
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						263,
+						268
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						269,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						45,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3htPBHA6xK",
+					"expanded_url": "http://youtube.com/KCON/join",
+					"display_url": "youtube.com/KCON/join",
+					"indices": [
+						201,
+						224
+					]
+				},
+				{
+					"url": "https://t.co/r2LY9mGrzA",
+					"expanded_url": "http://youtube.com/Mnet/join",
+					"display_url": "youtube.com/Mnet/join",
+					"indices": [
+						239,
+						262
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314596108924903400,
+					"id_str": "1314596108924903427",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej5iMi-UYAMFigR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej5iMi-UYAMFigR.jpg",
+					"url": "https://t.co/LdE30p4O1B",
+					"display_url": "pic.twitter.com/LdE30p4O1B",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1314732379194310664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314596108924903400,
+					"id_str": "1314596108924903427",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej5iMi-UYAMFigR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej5iMi-UYAMFigR.jpg",
+					"url": "https://t.co/LdE30p4O1B",
+					"display_url": "pic.twitter.com/LdE30p4O1B",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1314732379194310664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 285141,
+			"friends_count": 67,
+			"listed_count": 883,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 57,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7960,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 173,
+		"favorite_count": 518,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT season 2] LIVE PREMIERE w #LOONA\n\n@loonatheworld is going LIVE at KCON official YT channel for the 1st LIVE PREMIERE!\nDon't forget to watch at 12:00PM KST / 10/9 20:00PDT!\n\n▶ KCON official: https://t.co/3htPBHA6xK\n▶ Mnet K-pop: https://t.co/r2LY9mGrzA\n#KCON #KCONTACT https://t.co/LdE30p4O1B"
+	},
+	{
 		"created_at": "Sat Oct 10 01:00:05 +0000 2020",
 		"id": 1314717279251296300,
 		"id_str": "1314732402208505856",
