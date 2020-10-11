@@ -1,6 +1,613 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 11 08:27:21 +0000 2020",
+		"id": 1315196009236971500,
+		"id_str": "1315207346814160903",
+		"full_text": "#THANKUBLINK \n#BLACKPINK 의 #LovesickGirls  이 #인기가요 에서 1위를 수상하였습니다!🥇 첫 1위를 선물해준 BLINK 여러분 너무 감사합니다!🖤💖\n\n#블랙핑크\n#THEALBUM #1stFULLALBUM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THANKUBLINK",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"text": "LovesickGirls",
+					"indices": [
+						27,
+						41
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "THEALBUM",
+					"indices": [
+						108,
+						117
+					]
+				},
+				{
+					"text": "1stFULLALBUM",
+					"indices": [
+						118,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/c2mkxA118z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c2mkxA118z",
+							"expanded_url": "https://blink.blackpinkofficial.com/",
+							"display_url": "blink.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5341911,
+			"friends_count": 2,
+			"listed_count": 5678,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1601269396",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13120,
+		"favorite_count": 36264,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#THANKUBLINK \n#BLACKPINK 의 #LovesickGirls  이 #인기가요 에서 1위를 수상하였습니다!🥇 첫 1위를 선물해준 BLINK 여러분 너무 감사합니다!🖤💖\n\n#블랙핑크\n#THEALBUM #1stFULLALBUM"
+	},
+	{
+		"created_at": "Sun Oct 11 08:27:12 +0000 2020",
+		"id": 1315195020060684300,
+		"id_str": "1315207308490797056",
+		"full_text": "맞아❣ 아프더라도 블핑이들만 있으면 돼(*ฅ́˘ฅ̀*)♡\n\n@BLACKPINK #블랙핑크 #BLACKPINK #LovesickGirls #인기가요 #안방1열직캠\n\n👉https://t.co/5TxxpSGoNS https://t.co/o3RFglPXJ9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						50,
+						60
+					]
+				},
+				{
+					"text": "LovesickGirls",
+					"indices": [
+						61,
+						75
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "안방1열직캠",
+					"indices": [
+						82,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						33,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5TxxpSGoNS",
+					"expanded_url": "https://youtu.be/t7OWcaz6uCQ",
+					"display_url": "youtu.be/t7OWcaz6uCQ",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1315194876485488600,
+					"id_str": "1315194876485488640",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EkCCxZ9U0AAEE1_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkCCxZ9U0AAEE1_.jpg",
+					"url": "https://t.co/o3RFglPXJ9",
+					"display_url": "pic.twitter.com/o3RFglPXJ9",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1315195020060684288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315194876485488600,
+					"id_str": "1315194876485488640",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EkCCxZ9U0AAEE1_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkCCxZ9U0AAEE1_.jpg",
+					"url": "https://t.co/o3RFglPXJ9",
+					"display_url": "pic.twitter.com/o3RFglPXJ9",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1315195020060684288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/qapZ7nOCns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qapZ7nOCns",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168588,
+			"friends_count": 74,
+			"listed_count": 189,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 1415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1339,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1602394863",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9227,
+		"favorite_count": 25874,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "맞아❣ 아프더라도 블핑이들만 있으면 돼(*ฅ́˘ฅ̀*)♡\n\n@BLACKPINK #블랙핑크 #BLACKPINK #LovesickGirls #인기가요 #안방1열직캠\n\n👉https://t.co/5TxxpSGoNS https://t.co/o3RFglPXJ9"
+	},
+	{
+		"created_at": "Sun Oct 11 08:27:05 +0000 2020",
+		"id": 1315194357138354200,
+		"id_str": "1315207278589509632",
+		"full_text": "자태부터 다른 블랙핑크의 퍼포먼스에 심장 뚜두뚜두 저격당했다(｡💖‿🖤｡)\n\n@ygofficialblink #블랙핑크 #BLACKPINK #PrettySavage #인기가요 #안방1열직캠\n\n👉https://t.co/Ni4GxvWJ37 https://t.co/wXkY6HUkh7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"text": "PrettySavage",
+					"indices": [
+						76,
+						89
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "안방1열직캠",
+					"indices": [
+						96,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						42,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ni4GxvWJ37",
+					"expanded_url": "https://youtu.be/I3t1l2UqQ2c",
+					"display_url": "youtu.be/I3t1l2UqQ2c",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1315194303967228000,
+					"id_str": "1315194303967227905",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EkCCQFKVcAEvWoH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkCCQFKVcAEvWoH.jpg",
+					"url": "https://t.co/wXkY6HUkh7",
+					"display_url": "pic.twitter.com/wXkY6HUkh7",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1315194357138354178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315194303967228000,
+					"id_str": "1315194303967227905",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EkCCQFKVcAEvWoH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkCCQFKVcAEvWoH.jpg",
+					"url": "https://t.co/wXkY6HUkh7",
+					"display_url": "pic.twitter.com/wXkY6HUkh7",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1315194357138354178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/qapZ7nOCns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qapZ7nOCns",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168588,
+			"friends_count": 74,
+			"listed_count": 189,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 1415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1339,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1602394863",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10448,
+		"favorite_count": 27812,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자태부터 다른 블랙핑크의 퍼포먼스에 심장 뚜두뚜두 저격당했다(｡💖‿🖤｡)\n\n@ygofficialblink #블랙핑크 #BLACKPINK #PrettySavage #인기가요 #안방1열직캠\n\n👉https://t.co/Ni4GxvWJ37 https://t.co/wXkY6HUkh7"
+	},
+	{
 		"created_at": "Sun Oct 11 06:37:06 +0000 2020",
 		"id": 1315179600050360300,
 		"id_str": "1315179600050360329",
