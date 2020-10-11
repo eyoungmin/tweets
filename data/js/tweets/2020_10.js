@@ -1,6 +1,753 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 11 02:01:55 +0000 2020",
+		"id": 1315006595877798000,
+		"id_str": "1315110350040133632",
+		"full_text": "트럼프가 재임기간 동안 얼마나 과학을 망쳐 놓았는지를 정리한 네이쳐 기사. 환경 문제로 시작해서 코비드까지 트럼프는 자신의 정치적 목적을 위해 과학적인 증거와 사실을 다 개무시하고 비웃어 왔죠. 일부는 그에 환호했고요. 이렇게 미국은 퇴보했습니다. ㅠㅠ\nhttps://t.co/Iyr9oQsasI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Iyr9oQsasI",
+					"expanded_url": "https://www.nature.com/articles/d41586-020-02800-9?utm_source=twt_nnc&utm_medium=social&utm_campaign=naturenews&sf238675684=1",
+					"display_url": "nature.com/articles/d4158…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18530666,
+			"id_str": "18530666",
+			"name": "박치욱",
+			"screen_name": "chiw00k",
+			"location": "Indiana, USA",
+			"description": "Professor. Biochemist/Biophysicist. Purdue University, Indiana. Protein Folding. Classical Music, Math Puzzles, Cooking.",
+			"url": "https://t.co/a975GRI7Iu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a975GRI7Iu",
+							"expanded_url": "https://web.ics.purdue.edu/~park6/",
+							"display_url": "web.ics.purdue.edu/~park6/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10680,
+			"friends_count": 1088,
+			"listed_count": 197,
+			"created_at": "Thu Jan 01 16:44:46 +0000 2009",
+			"favourites_count": 4516,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26857,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/669634329488830465/81CXDn1N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/669634329488830465/81CXDn1N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18530666/1601820585",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 705,
+		"favorite_count": 323,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트럼프가 재임기간 동안 얼마나 과학을 망쳐 놓았는지를 정리한 네이쳐 기사. 환경 문제로 시작해서 코비드까지 트럼프는 자신의 정치적 목적을 위해 과학적인 증거와 사실을 다 개무시하고 비웃어 왔죠. 일부는 그에 환호했고요. 이렇게 미국은 퇴보했습니다. ㅠㅠ\nhttps://t.co/Iyr9oQsasI"
+	},
+	{
+		"created_at": "Sun Oct 11 02:01:43 +0000 2020",
+		"id": 1314772782228607000,
+		"id_str": "1315110298206957568",
+		"full_text": "주4일 근무를 한다면 무슨 요일에 쉬어야 할까?\n\n금요일 휴일이 가장 나쁜 결과를 냈다. 3일간 휴일을 보내고 오면 월요병은 더 심해졌고 목요일은 예전의 금요일로 체감됐다.\n\n수요일이 휴일이면 월화/목금 이틀씩 일을 해치워야 해서 업무효율성이 극대화 돼 주5일 근무보다 더 높은 성과를 냈다고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1268972558503653400,
+			"id_str": "1268972558503653376",
+			"name": "라엘",
+			"screen_name": "artskykiss",
+			"location": "발 길 닿는대로 가고 싶다",
+			"description": "도자기 같은 인연이 되고 싶다. 순수한 흙으로 비롯돼 숨죽여 형태를 만들고 가마 속 고열을 버텨 마침내 누구도 흠집내지 못할 금속성 견고함으로 다시 태어나는 그런 우리인연",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4869,
+			"friends_count": 335,
+			"listed_count": 13,
+			"created_at": "Fri Jun 05 18:27:06 +0000 2020",
+			"favourites_count": 14444,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312752500492005376/1957mGTN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312752500492005376/1957mGTN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1268972558503653376/1596438501",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10240,
+		"favorite_count": 3874,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "주4일 근무를 한다면 무슨 요일에 쉬어야 할까?\n\n금요일 휴일이 가장 나쁜 결과를 냈다. 3일간 휴일을 보내고 오면 월요병은 더 심해졌고 목요일은 예전의 금요일로 체감됐다.\n\n수요일이 휴일이면 월화/목금 이틀씩 일을 해치워야 해서 업무효율성이 극대화 돼 주5일 근무보다 더 높은 성과를 냈다고."
+	},
+	{
+		"created_at": "Sun Oct 11 01:34:03 +0000 2020",
+		"id": 1315103336341803000,
+		"id_str": "1315103336341803008",
+		"full_text": "유튜브 영상 아카이빙용 노션 쓸려고 했는데 노션에 영상 업로드하면 embed 표시 뜨고 업로드가 안 됨. 짧은 영상은 상관없음. 이슈 있는 영상들 아카이빙 하는 용도로 사용할 수 없음.\n\n#노션 #Notion",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "노션",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "Notion",
+					"indices": [
+						109,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 967,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "유튜브 영상 아카이빙용 노션 쓸려고 했는데 노션에 영상 업로드하면 embed 표시 뜨고 업로드가 안 됨. 짧은 영상은 상관없음. 이슈 있는 영상들 아카이빙 하는 용도로 사용할 수 없음.\n\n#노션 #Notion"
+	},
+	{
+		"created_at": "Sun Oct 11 01:31:14 +0000 2020",
+		"id": 1315102626090901500,
+		"id_str": "1315102626090901505",
+		"full_text": "앨범 컨셉에 맞게 컬러감을 맞추는 거랑 상관없이 색감 역시 과하다고 생각이 듦.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1315101982844022800,
+		"in_reply_to_status_id_str": "1315101982844022785",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 967,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "앨범 컨셉에 맞게 컬러감을 맞추는 거랑 상관없이 색감 역시 과하다고 생각이 듦."
+	},
+	{
+		"created_at": "Sun Oct 11 01:28:40 +0000 2020",
+		"id": 1315101982844022800,
+		"id_str": "1315101982844022785",
+		"full_text": "이달소는 팬덤 내에서도 과한 보정 이야기가 여러차례 나온 걸로 아는데 바뀐 것이 없다. 턱을 왜 이렇게 뾰족하게 깎는 거지...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 967,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이달소는 팬덤 내에서도 과한 보정 이야기가 여러차례 나온 걸로 아는데 바뀐 것이 없다. 턱을 왜 이렇게 뾰족하게 깎는 거지..."
+	},
+	{
+		"created_at": "Sun Oct 11 01:10:59 +0000 2020",
+		"id": 1315097533115318300,
+		"id_str": "1315097533115318272",
+		"full_text": "#피닉스 #세인트빈센트 #라디오헤드 https://t.co/OPoVdy2Xvs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "피닉스",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "세인트빈센트",
+					"indices": [
+						5,
+						12
+					]
+				},
+				{
+					"text": "라디오헤드",
+					"indices": [
+						13,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OPoVdy2Xvs",
+					"expanded_url": "https://twitter.com/ArtManagementKR/status/1315097145301639169",
+					"display_url": "twitter.com/ArtManagementK…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 967,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1315097145301639200,
+		"quoted_status_id_str": "1315097145301639169",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OPoVdy2Xvs",
+			"expanded": "https://twitter.com/ArtManagementKR/status/1315097145301639169",
+			"display": "twitter.com/ArtManagementK…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 11 01:09:27 +0000 2020",
+			"id": 1315097145301639200,
+			"id_str": "1315097145301639169",
+			"full_text": "ACL Fest 2020 - Saturday\nhttps://t.co/Ho6bxLCzyy\n@aclfestival\n\n#페스티벌 #Festival #공연\n#온라인 #스트리밍 #라이브스트리밍 #집콕문화생활",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				110
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "페스티벌",
+						"indices": [
+							63,
+							68
+						]
+					},
+					{
+						"text": "Festival",
+						"indices": [
+							69,
+							78
+						]
+					},
+					{
+						"text": "공연",
+						"indices": [
+							79,
+							82
+						]
+					},
+					{
+						"text": "온라인",
+						"indices": [
+							83,
+							87
+						]
+					},
+					{
+						"text": "스트리밍",
+						"indices": [
+							88,
+							93
+						]
+					},
+					{
+						"text": "라이브스트리밍",
+						"indices": [
+							94,
+							102
+						]
+					},
+					{
+						"text": "집콕문화생활",
+						"indices": [
+							103,
+							110
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "aclfestival",
+						"name": "ACL Festival",
+						"id": 25830909,
+						"id_str": "25830909",
+						"indices": [
+							49,
+							61
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Ho6bxLCzyy",
+						"expanded_url": "https://youtu.be/HqJrDKy56RA",
+						"display_url": "youtu.be/HqJrDKy56RA",
+						"indices": [
+							25,
+							48
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 778313051929911300,
+				"id_str": "778313051929911296",
+				"name": "문화공연예술 정보",
+				"screen_name": "ArtManagementKR",
+				"location": "문의: contact@solplparty.com",
+				"description": "#예술경영 #뮤직비지니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업\n#영화제 #북토크 #전시 #어워드 #문화공간\n\n채용/공모: https://t.co/IgycVSHsP9\n공연정보 및 앨범발매 안내: @SOLPLPARTY\n티켓오픈 소식: @TicketOpen",
+				"url": "https://t.co/hGE8N4Kde4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hGE8N4Kde4",
+								"expanded_url": "https://culture.solpl.party",
+								"display_url": "culture.solpl.party",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/IgycVSHsP9",
+								"expanded_url": "http://bit.ly/Ent-Recruit",
+								"display_url": "bit.ly/Ent-Recruit",
+								"indices": [
+									81,
+									104
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 332,
+				"friends_count": 44,
+				"listed_count": 0,
+				"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+				"favourites_count": 8,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15055,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1586084627",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#피닉스 #세인트빈센트 #라디오헤드 https://t.co/OPoVdy2Xvs"
+	},
+	{
 		"created_at": "Sun Oct 11 00:30:03 +0000 2020",
 		"id": 1315087231195914200,
 		"id_str": "1315087231195914240",
