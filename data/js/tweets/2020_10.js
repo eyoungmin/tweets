@@ -1,6 +1,1020 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 11 00:30:03 +0000 2020",
+		"id": 1315087231195914200,
+		"id_str": "1315087231195914240",
+		"full_text": "이 생각을 한지 오래되었다. 그래서 여러차례 계정을 옮겼다. 그리고 필요 이상의 멘션을 주고받지도 않는다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1315049190137888800,
+		"in_reply_to_status_id_str": "1315049190137888768",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 966,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이 생각을 한지 오래되었다. 그래서 여러차례 계정을 옮겼다. 그리고 필요 이상의 멘션을 주고받지도 않는다."
+	},
+	{
+		"created_at": "Sun Oct 11 00:22:31 +0000 2020",
+		"id": 1315085336171561000,
+		"id_str": "1315085336171560961",
+		"full_text": "\"특허를 똑 잘라서 쓸 수 없다\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 966,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "\"특허를 똑 잘라서 쓸 수 없다\""
+	},
+	{
+		"created_at": "Sun Oct 11 00:18:41 +0000 2020",
+		"id": 1315084369657122800,
+		"id_str": "1315084369657122816",
+		"full_text": "갤럭시에 붙여 나오는 기본 액정보호필름이 중소기업 기술이고 삼성이 기술탈취했다고 지적.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 966,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "갤럭시에 붙여 나오는 기본 액정보호필름이 중소기업 기술이고 삼성이 기술탈취했다고 지적."
+	},
+	{
+		"created_at": "Sun Oct 11 00:11:36 +0000 2020",
+		"id": 1314880304838971400,
+		"id_str": "1315082586868183040",
+		"full_text": "국회가 국회 안에서 취재 허가를 내줘야 출입할 수 있고, 기자가 국회에 출입할 때는 국회가 기자가 사전에 약속 잡은 의원실에 확인 전화를 꼭 하는 절차를 거치죠. 기자라도 의원회관에 들어가기 위해선 정해진 절차를 거쳐야 하는데, 기업 임원이 출입기자증으로 국회 출입한 건 매우 심각한 문제.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1314879693007417300,
+		"in_reply_to_status_id_str": "1314879693007417346",
+		"in_reply_to_user_id": 124734560,
+		"in_reply_to_user_id_str": "124734560",
+		"in_reply_to_screen_name": "kinejun",
+		"user": {
+			"id": 124734560,
+			"id_str": "124734560",
+			"name": "김성훈",
+			"screen_name": "kinejun",
+			"location": "서울",
+			"description": "씨네21기자 Journalist from CINE21, Korean Film Weekly Magazine.",
+			"url": "https://t.co/2oKMERpkOg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2oKMERpkOg",
+							"expanded_url": "http://www.cine21.com",
+							"display_url": "cine21.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3183,
+			"friends_count": 235,
+			"listed_count": 63,
+			"created_at": "Sat Mar 20 11:26:46 +0000 2010",
+			"favourites_count": 2332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1279974877240254465/5yBDh0uh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1279974877240254465/5yBDh0uh_normal.jpg",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 150,
+		"favorite_count": 65,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "국회가 국회 안에서 취재 허가를 내줘야 출입할 수 있고, 기자가 국회에 출입할 때는 국회가 기자가 사전에 약속 잡은 의원실에 확인 전화를 꼭 하는 절차를 거치죠. 기자라도 의원회관에 들어가기 위해선 정해진 절차를 거쳐야 하는데, 기업 임원이 출입기자증으로 국회 출입한 건 매우 심각한 문제."
+	},
+	{
+		"created_at": "Sun Oct 11 00:11:33 +0000 2020",
+		"id": 1314879693007417300,
+		"id_str": "1315082573261885440",
+		"full_text": "앞서 류호정 의원이 폭로한, 삼성 임원이 국회출입기자로 행세해 국회를 출입한 게 얼마나 심각한 문제냐면, 일단 국회 출입 허가를 받는 절차가 간단치가 않습니다. 국회에 언론 담당 부서에 가서 1. 기자 개인 정보 2. 언론 매체 정보 3. 해당 언론의 국회 관련 보도를 증명해야 출입증이 나와요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1314836385929465900,
+		"in_reply_to_status_id_str": "1314836385929465858",
+		"in_reply_to_user_id": 124734560,
+		"in_reply_to_user_id_str": "124734560",
+		"in_reply_to_screen_name": "kinejun",
+		"user": {
+			"id": 124734560,
+			"id_str": "124734560",
+			"name": "김성훈",
+			"screen_name": "kinejun",
+			"location": "서울",
+			"description": "씨네21기자 Journalist from CINE21, Korean Film Weekly Magazine.",
+			"url": "https://t.co/2oKMERpkOg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2oKMERpkOg",
+							"expanded_url": "http://www.cine21.com",
+							"display_url": "cine21.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3183,
+			"friends_count": 235,
+			"listed_count": 63,
+			"created_at": "Sat Mar 20 11:26:46 +0000 2010",
+			"favourites_count": 2332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1279974877240254465/5yBDh0uh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1279974877240254465/5yBDh0uh_normal.jpg",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 198,
+		"favorite_count": 80,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "앞서 류호정 의원이 폭로한, 삼성 임원이 국회출입기자로 행세해 국회를 출입한 게 얼마나 심각한 문제냐면, 일단 국회 출입 허가를 받는 절차가 간단치가 않습니다. 국회에 언론 담당 부서에 가서 1. 기자 개인 정보 2. 언론 매체 정보 3. 해당 언론의 국회 관련 보도를 증명해야 출입증이 나와요"
+	},
+	{
+		"created_at": "Sun Oct 11 00:11:26 +0000 2020",
+		"id": 1314836385929465900,
+		"id_str": "1315082545541775361",
+		"full_text": "류호정 의원 질의의 포인트는 녹취록을 공개한 뒤 곧바로 박영선 중소벤처기업부 장관에게 “어떻게 생각하냐”고 물은 것. 정부가 다음 스텝으로 무엇을 해야 하는지 공을 넘김.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1314828059535523800,
+		"in_reply_to_status_id_str": "1314828059535523843",
+		"in_reply_to_user_id": 124734560,
+		"in_reply_to_user_id_str": "124734560",
+		"in_reply_to_screen_name": "kinejun",
+		"user": {
+			"id": 124734560,
+			"id_str": "124734560",
+			"name": "김성훈",
+			"screen_name": "kinejun",
+			"location": "서울",
+			"description": "씨네21기자 Journalist from CINE21, Korean Film Weekly Magazine.",
+			"url": "https://t.co/2oKMERpkOg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2oKMERpkOg",
+							"expanded_url": "http://www.cine21.com",
+							"display_url": "cine21.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3183,
+			"friends_count": 235,
+			"listed_count": 63,
+			"created_at": "Sat Mar 20 11:26:46 +0000 2010",
+			"favourites_count": 2332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1279974877240254465/5yBDh0uh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1279974877240254465/5yBDh0uh_normal.jpg",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 216,
+		"favorite_count": 92,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "류호정 의원 질의의 포인트는 녹취록을 공개한 뒤 곧바로 박영선 중소벤처기업부 장관에게 “어떻게 생각하냐”고 물은 것. 정부가 다음 스텝으로 무엇을 해야 하는지 공을 넘김."
+	},
+	{
+		"created_at": "Sun Oct 11 00:11:23 +0000 2020",
+		"id": 1314828059535523800,
+		"id_str": "1315082531847380993",
+		"full_text": "오랫동안 국감 현장을 취재해온 기자로서 류호정 의원의 질의 태도는 양반입니다. ㅎㅎㅎ https://t.co/bI5shsRCHn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bI5shsRCHn",
+					"expanded_url": "https://twitter.com/climb_chairman/status/1314778807488839680",
+					"display_url": "twitter.com/climb_chairman…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124734560,
+			"id_str": "124734560",
+			"name": "김성훈",
+			"screen_name": "kinejun",
+			"location": "서울",
+			"description": "씨네21기자 Journalist from CINE21, Korean Film Weekly Magazine.",
+			"url": "https://t.co/2oKMERpkOg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2oKMERpkOg",
+							"expanded_url": "http://www.cine21.com",
+							"display_url": "cine21.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3183,
+			"friends_count": 235,
+			"listed_count": 63,
+			"created_at": "Sat Mar 20 11:26:46 +0000 2010",
+			"favourites_count": 2332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1279974877240254465/5yBDh0uh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1279974877240254465/5yBDh0uh_normal.jpg",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1314778807488839700,
+		"quoted_status_id_str": "1314778807488839680",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bI5shsRCHn",
+			"expanded": "https://twitter.com/climb_chairman/status/1314778807488839680",
+			"display": "twitter.com/climb_chairman…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 10 04:04:29 +0000 2020",
+			"id": 1314778807488839700,
+			"id_str": "1314778807488839680",
+			"full_text": "류호정 삼성전자 16분짜리 국감 동영상에 달린 댓글인데 너무 충격적임. 국감 처음보는건가 아님 젊은 여자가 논리로 남자한테 이겨먹은걸 처음보는건가..? 국감에서 이정도 태토를 지적하다니 쉽지않네 ㅋㅋㅋ https://t.co/zUzUtfvP7S",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				112
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1314778798164856800,
+						"id_str": "1314778798164856832",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/Ej8IWdbU0AA6Tm-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ej8IWdbU0AA6Tm-.jpg",
+						"url": "https://t.co/zUzUtfvP7S",
+						"display_url": "pic.twitter.com/zUzUtfvP7S",
+						"expanded_url": "https://twitter.com/climb_chairman/status/1314778807488839680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1493,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 512,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 904,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1314778798164856800,
+						"id_str": "1314778798164856832",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/Ej8IWdbU0AA6Tm-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ej8IWdbU0AA6Tm-.jpg",
+						"url": "https://t.co/zUzUtfvP7S",
+						"display_url": "pic.twitter.com/zUzUtfvP7S",
+						"expanded_url": "https://twitter.com/climb_chairman/status/1314778807488839680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1493,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 512,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 904,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4655630088,
+				"id_str": "4655630088",
+				"name": "산악회장 시시포스",
+				"screen_name": "climb_chairman",
+				"location": "From the Bottom of my bottom",
+				"description": "어이가무 재미가노",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8105,
+				"friends_count": 276,
+				"listed_count": 20,
+				"created_at": "Sat Dec 26 14:27:49 +0000 2015",
+				"favourites_count": 22202,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 158333,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1262397961650266114/TdW98Ld7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262397961650266114/TdW98Ld7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4655630088/1566325931",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1754,
+			"favorite_count": 493,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 991,
+		"favorite_count": 381,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오랫동안 국감 현장을 취재해온 기자로서 류호정 의원의 질의 태도는 양반입니다. ㅎㅎㅎ https://t.co/bI5shsRCHn"
+	},
+	{
+		"created_at": "Sun Oct 11 00:09:56 +0000 2020",
+		"id": 1315082167509155800,
+		"id_str": "1315082167509155840",
+		"full_text": "도대체 뭐가 문제인건지 하나도 못찾았는데 또 KIBUN을 거스른건가?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 966,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "도대체 뭐가 문제인건지 하나도 못찾았는데 또 KIBUN을 거스른건가?"
+	},
+	{
 		"created_at": "Sat Oct 10 22:19:18 +0000 2020",
 		"id": 1066829488246280200,
 		"id_str": "1315054324074967040",
