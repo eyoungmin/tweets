@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 11 14:58:09 +0000 2020",
+		"id": 1315267851834409000,
+		"id_str": "1315305694124412928",
+		"full_text": "내일 정오, 4집[다녀왔습니다]가 음원사이트에 발매됩니다. 진짜 나를 찾고싶다는 생각으로 곡을 쓰기 시작한 2018년, CD로 발표했던 2019년, 디지탈발매를 앞둔 요즘. 각기 다른 마음이네요. 오늘은 노래가 되도록 많은 사람에게 사랑받기를 바라는 마음으로 글 남깁니다. 모두 좋은 밤 보내요 굿나잇",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116421374,
+			"id_str": "116421374",
+			"name": "시와 🏳️‍🌈",
+			"screen_name": "withsiwa",
+			"location": "우리집",
+			"description": "4집 ‘다녀왔습니다’ 디지털싱글이 두달에 한곡씩 나오고있지요 섭외요청은 메일로 주세요! withsiwa@hanmail.net",
+			"url": "https://t.co/VlYZXa9Sf7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VlYZXa9Sf7",
+							"expanded_url": "http://linktr.ee/withsiwa",
+							"display_url": "linktr.ee/withsiwa",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8401,
+			"friends_count": 421,
+			"listed_count": 301,
+			"created_at": "Mon Feb 22 11:29:47 +0000 2010",
+			"favourites_count": 2363,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13686,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/930242998444572672/hfM41xrE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/930242998444572672/hfM41xrE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116421374/1495071753",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 46,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "내일 정오, 4집[다녀왔습니다]가 음원사이트에 발매됩니다. 진짜 나를 찾고싶다는 생각으로 곡을 쓰기 시작한 2018년, CD로 발표했던 2019년, 디지탈발매를 앞둔 요즘. 각기 다른 마음이네요. 오늘은 노래가 되도록 많은 사람에게 사랑받기를 바라는 마음으로 글 남깁니다. 모두 좋은 밤 보내요 굿나잇"
+	},
+	{
 		"created_at": "Sun Oct 11 13:38:41 +0000 2020",
 		"id": 1315285697415327700,
 		"id_str": "1315285697415327744",
