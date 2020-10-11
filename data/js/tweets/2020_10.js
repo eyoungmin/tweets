@@ -1,6 +1,1011 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 11 09:32:10 +0000 2020",
+		"id": 1315223656373444600,
+		"id_str": "1315223656373444608",
+		"full_text": "#블랙핑크 #BLACKPINK\nBLACKPINK - ‘Lovesick Girls’ 1011 SBS Inkigayo : NO.1 OF THE WEEK\nhttps://t.co/0Wc0vYywiL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						6,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0Wc0vYywiL",
+					"expanded_url": "https://youtu.be/Fwg9-MXdBYA",
+					"display_url": "youtu.be/Fwg9-MXdBYA",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 967,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#블랙핑크 #BLACKPINK\nBLACKPINK - ‘Lovesick Girls’ 1011 SBS Inkigayo : NO.1 OF THE WEEK\nhttps://t.co/0Wc0vYywiL"
+	},
+	{
+		"created_at": "Sun Oct 11 09:32:09 +0000 2020",
+		"id": 1315223652233703400,
+		"id_str": "1315223652233703428",
+		"full_text": "#블랙핑크 #BLACKPINK\nBLACKPINK - ‘Pretty Savage’ 1011 SBS Inkigayo\nhttps://t.co/azXIXJF63X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						6,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/azXIXJF63X",
+					"expanded_url": "https://youtu.be/gU2HqP4NxUs",
+					"display_url": "youtu.be/gU2HqP4NxUs",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 967,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#블랙핑크 #BLACKPINK\nBLACKPINK - ‘Pretty Savage’ 1011 SBS Inkigayo\nhttps://t.co/azXIXJF63X"
+	},
+	{
+		"created_at": "Sun Oct 11 09:27:37 +0000 2020",
+		"id": 1315215904762781700,
+		"id_str": "1315222512033173504",
+		"full_text": "10대의 마지막 날 BGM으로 틀고 싶은 노래\n?? : 그러니까 n년 전으로 돌려보내줘..☆\n\n@ygofficialblink #블랙핑크 #LovesickGirls #인기가요 #페이스캠 #안방1열직캠\n\n#제니: https://t.co/BtMzl50Xlx\n#로제: https://t.co/VVJ8JImxog\n#지수: https://t.co/SewsaZa1AQ\n#리사: https://t.co/ZpeZGvDFPb https://t.co/RM2YUzep3j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "LovesickGirls",
+					"indices": [
+						76,
+						90
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "페이스캠",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "안방1열직캠",
+					"indices": [
+						103,
+						110
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						199,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						53,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BtMzl50Xlx",
+					"expanded_url": "https://youtu.be/KkQtNIlxfxY",
+					"display_url": "youtu.be/KkQtNIlxfxY",
+					"indices": [
+						117,
+						140
+					]
+				},
+				{
+					"url": "https://t.co/VVJ8JImxog",
+					"expanded_url": "https://youtu.be/0LMBk0S8zMY",
+					"display_url": "youtu.be/0LMBk0S8zMY",
+					"indices": [
+						146,
+						169
+					]
+				},
+				{
+					"url": "https://t.co/SewsaZa1AQ",
+					"expanded_url": "https://youtu.be/5ot59CCQQSg",
+					"display_url": "youtu.be/5ot59CCQQSg",
+					"indices": [
+						175,
+						198
+					]
+				},
+				{
+					"url": "https://t.co/ZpeZGvDFPb",
+					"expanded_url": "https://youtu.be/FM3YiJJYBxU",
+					"display_url": "youtu.be/FM3YiJJYBxU",
+					"indices": [
+						204,
+						227
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1315215812689424400,
+					"id_str": "1315215812689424384",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/EkCV0DZUcAAYTL7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkCV0DZUcAAYTL7.jpg",
+					"url": "https://t.co/RM2YUzep3j",
+					"display_url": "pic.twitter.com/RM2YUzep3j",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1315215904762781698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315215812689424400,
+					"id_str": "1315215812689424384",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/EkCV0DZUcAAYTL7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkCV0DZUcAAYTL7.jpg",
+					"url": "https://t.co/RM2YUzep3j",
+					"display_url": "pic.twitter.com/RM2YUzep3j",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1315215904762781698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/qapZ7nOCns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qapZ7nOCns",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168793,
+			"friends_count": 74,
+			"listed_count": 187,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 1415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1339,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1602394863",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4642,
+		"favorite_count": 15413,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "10대의 마지막 날 BGM으로 틀고 싶은 노래\n?? : 그러니까 n년 전으로 돌려보내줘..☆\n\n@ygofficialblink #블랙핑크 #LovesickGirls #인기가요 #페이스캠 #안방1열직캠\n\n#제니: https://t.co/BtMzl50Xlx\n#로제: https://t.co/VVJ8JImxog\n#지수: https://t.co/SewsaZa1AQ\n#리사: https://t.co/ZpeZGvDFPb https://t.co/RM2YUzep3j"
+	},
+	{
+		"created_at": "Sun Oct 11 09:27:32 +0000 2020",
+		"id": 1315215224757133300,
+		"id_str": "1315222490415849472",
+		"full_text": "짠! 블랙핑크 납셨다✨😎\n카펫 깔겠습니다💖🖤\n\n@ygofficialblink #블랙핑크 #PrettySavage #인기가요 #페이스캠 #FACECAM #안방1열직캠\n\n#제니: https://t.co/1F4Nv8iF4D\n#로제: https://t.co/jFi3nWyLdL\n#지수: https://t.co/cX6zKHjucs\n#리사: https://t.co/hwFoBSP5Sb https://t.co/M22cQl6WdH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "PrettySavage",
+					"indices": [
+						49,
+						62
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "페이스캠",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "FACECAM",
+					"indices": [
+						75,
+						83
+					]
+				},
+				{
+					"text": "안방1열직캠",
+					"indices": [
+						84,
+						91
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						180,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						26,
+						42
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1F4Nv8iF4D",
+					"expanded_url": "https://youtu.be/nZa2XAokxRk",
+					"display_url": "youtu.be/nZa2XAokxRk",
+					"indices": [
+						98,
+						121
+					]
+				},
+				{
+					"url": "https://t.co/jFi3nWyLdL",
+					"expanded_url": "https://youtu.be/whE7IZyrDlY",
+					"display_url": "youtu.be/whE7IZyrDlY",
+					"indices": [
+						127,
+						150
+					]
+				},
+				{
+					"url": "https://t.co/cX6zKHjucs",
+					"expanded_url": "https://youtu.be/dlM__jLG7yI",
+					"display_url": "youtu.be/dlM__jLG7yI",
+					"indices": [
+						156,
+						179
+					]
+				},
+				{
+					"url": "https://t.co/hwFoBSP5Sb",
+					"expanded_url": "https://youtu.be/lzSWml4Ii8o",
+					"display_url": "youtu.be/lzSWml4Ii8o",
+					"indices": [
+						185,
+						208
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1315215065847459800,
+					"id_str": "1315215065847459841",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EkCVIlMUcAEs0BF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkCVIlMUcAEs0BF.jpg",
+					"url": "https://t.co/M22cQl6WdH",
+					"display_url": "pic.twitter.com/M22cQl6WdH",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1315215224757133313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315215065847459800,
+					"id_str": "1315215065847459841",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EkCVIlMUcAEs0BF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkCVIlMUcAEs0BF.jpg",
+					"url": "https://t.co/M22cQl6WdH",
+					"display_url": "pic.twitter.com/M22cQl6WdH",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1315215224757133313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/qapZ7nOCns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qapZ7nOCns",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168793,
+			"friends_count": 74,
+			"listed_count": 187,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 1415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1339,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1602394863",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4569,
+		"favorite_count": 15837,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "짠! 블랙핑크 납셨다✨😎\n카펫 깔겠습니다💖🖤\n\n@ygofficialblink #블랙핑크 #PrettySavage #인기가요 #페이스캠 #FACECAM #안방1열직캠\n\n#제니: https://t.co/1F4Nv8iF4D\n#로제: https://t.co/jFi3nWyLdL\n#지수: https://t.co/cX6zKHjucs\n#리사: https://t.co/hwFoBSP5Sb https://t.co/M22cQl6WdH"
+	},
+	{
+		"created_at": "Sun Oct 11 09:27:22 +0000 2020",
+		"id": 1315209827681890300,
+		"id_str": "1315222451282878471",
+		"full_text": "Thank you, we love you so much💗 https://t.co/OfKQ9hjVOW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1315209817464565800,
+					"id_str": "1315209817464565761",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/EkCQXFcU8AE6mXB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkCQXFcU8AE6mXB.jpg",
+					"url": "https://t.co/OfKQ9hjVOW",
+					"display_url": "pic.twitter.com/OfKQ9hjVOW",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1315209827681890305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1478,
+							"h": 1108,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315209817464565800,
+					"id_str": "1315209817464565761",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/EkCQXFcU8AE6mXB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkCQXFcU8AE6mXB.jpg",
+					"url": "https://t.co/OfKQ9hjVOW",
+					"display_url": "pic.twitter.com/OfKQ9hjVOW",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1315209827681890305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1478,
+							"h": 1108,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1315209817460359200,
+					"id_str": "1315209817460359168",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/EkCQXFbUwAAxa45.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkCQXFbUwAAxa45.jpg",
+					"url": "https://t.co/OfKQ9hjVOW",
+					"display_url": "pic.twitter.com/OfKQ9hjVOW",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1315209827681890305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1478,
+							"h": 1108,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/mhaOteBGUV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mhaOteBGUV",
+							"expanded_url": "https://youtu.be/dyRsYk0LyA8",
+							"display_url": "youtu.be/dyRsYk0LyA8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2112628,
+			"friends_count": 0,
+			"listed_count": 2846,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1601491826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42271,
+		"favorite_count": 123777,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you, we love you so much💗 https://t.co/OfKQ9hjVOW"
+	},
+	{
 		"created_at": "Sun Oct 11 08:27:21 +0000 2020",
 		"id": 1315196009236971500,
 		"id_str": "1315207346814160903",
