@@ -1,6 +1,388 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 12 17:12:54 +0000 2020",
+		"id": 1315547426934018000,
+		"id_str": "1315701992304463873",
+		"full_text": "#WhosNext4TwitterBlueroom?! \n\n🗣Hi, Global BLINK @ygofficialblink~! #Ask_BLACKPINK, @BLACKPINK will answer via \"#TwitterBlueroom LIVE Q&amp;A with #BLACKPINK \" program on Oct 14th 1PM KST https://t.co/LFxdfM56sd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WhosNext4TwitterBlueroom",
+					"indices": [
+						0,
+						25
+					]
+				},
+				{
+					"text": "Ask_BLACKPINK",
+					"indices": [
+						67,
+						81
+					]
+				},
+				{
+					"text": "TwitterBlueroom",
+					"indices": [
+						111,
+						127
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						146,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						48,
+						64
+					]
+				},
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						83,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LFxdfM56sd",
+					"expanded_url": "https://twitter.com/blackpink/status/1314098199544635392",
+					"display_url": "twitter.com/blackpink/stat…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 216531294,
+			"id_str": "216531294",
+			"name": "Twitter Korea",
+			"screen_name": "TwitterKorea",
+			"location": "대한민국",
+			"description": "트위터 코리아의 공식 계정입니다. 트위터 서비스 관련 문의는 https://t.co/jTMg7YsLw5 을, 광고 관련 문의는 @TwitterMktgKR 계정을 이용해 주세요.",
+			"url": "https://t.co/SvWUEpsmUj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SvWUEpsmUj",
+							"expanded_url": "https://blog.twitter.com/korea",
+							"display_url": "blog.twitter.com/korea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jTMg7YsLw5",
+							"expanded_url": "https://support.twitter.com",
+							"display_url": "support.twitter.com",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1220943,
+			"friends_count": 292,
+			"listed_count": 1987,
+			"created_at": "Tue Nov 16 23:59:11 +0000 2010",
+			"favourites_count": 3009,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311075559582044160/56qq5tAH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311075559582044160/56qq5tAH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/216531294/1601419747",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1314098199544635400,
+		"quoted_status_id_str": "1314098199544635392",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LFxdfM56sd",
+			"expanded": "https://twitter.com/blackpink/status/1314098199544635392",
+			"display": "twitter.com/blackpink/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 08 07:00:00 +0000 2020",
+			"id": 1314098199544635400,
+			"id_str": "1314098199544635392",
+			"full_text": "🖤10월 14일 오후 1시 (KST) #블랙핑크 와 함께하는 트위터 블루룸 라이브💖\n#Ask_BLACKPINK 해시태그와 함께 트윗으로 질문을 보내주시면 블랙핑크가 라이브에서 직접 답변해드려요🎁💘\n\n#Ask_BLACKPINK #TwitterBlueroom LIVE Q&amp;A with #BLACKPINK https://t.co/SxEmIdoVru",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				171
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "블랙핑크",
+						"indices": [
+							21,
+							26
+						]
+					},
+					{
+						"text": "Ask_BLACKPINK",
+						"indices": [
+							47,
+							61
+						]
+					},
+					{
+						"text": "Ask_BLACKPINK",
+						"indices": [
+							111,
+							125
+						]
+					},
+					{
+						"text": "TwitterBlueroom",
+						"indices": [
+							126,
+							142
+						]
+					},
+					{
+						"text": "BLACKPINK",
+						"indices": [
+							161,
+							171
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1314067897661055000,
+						"id_str": "1314067897661054977",
+						"indices": [
+							172,
+							195
+						],
+						"media_url": "http://pbs.twimg.com/media/EjyBymrU4AEhrb3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjyBymrU4AEhrb3.jpg",
+						"url": "https://t.co/SxEmIdoVru",
+						"display_url": "pic.twitter.com/SxEmIdoVru",
+						"expanded_url": "https://twitter.com/BLACKPINK/status/1314098199544635392/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1314067897661055000,
+						"id_str": "1314067897661054977",
+						"indices": [
+							172,
+							195
+						],
+						"media_url": "http://pbs.twimg.com/media/EjyBymrU4AEhrb3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjyBymrU4AEhrb3.jpg",
+						"url": "https://t.co/SxEmIdoVru",
+						"display_url": "pic.twitter.com/SxEmIdoVru",
+						"expanded_url": "https://twitter.com/BLACKPINK/status/1314098199544635392/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1273850774380884000,
+				"id_str": "1273850774380883975",
+				"name": "BLACKPINKOFFICIAL",
+				"screen_name": "BLACKPINK",
+				"location": "",
+				"description": "BLΛƆKPIИK",
+				"url": "https://t.co/mhaOteBGUV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mhaOteBGUV",
+								"expanded_url": "https://youtu.be/dyRsYk0LyA8",
+								"display_url": "youtu.be/dyRsYk0LyA8",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2138053,
+				"friends_count": 0,
+				"listed_count": 2869,
+				"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 147,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1601491826",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29527,
+			"favorite_count": 148332,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1873,
+		"favorite_count": 4751,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#WhosNext4TwitterBlueroom?! \n\n🗣Hi, Global BLINK @ygofficialblink~! #Ask_BLACKPINK, @BLACKPINK will answer via \"#TwitterBlueroom LIVE Q&amp;A with #BLACKPINK \" program on Oct 14th 1PM KST https://t.co/LFxdfM56sd"
+	},
+	{
 		"created_at": "Mon Oct 12 15:45:03 +0000 2020",
 		"id": 1315629179497455600,
 		"id_str": "1315679885030051841",
