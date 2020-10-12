@@ -1,6 +1,1341 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 12 12:43:31 +0000 2020",
+		"id": 1315577951203754000,
+		"id_str": "1315634202893639680",
+		"full_text": "제3회 #카라동물영화제 축하합니다!\n카라동물영화제를 반겨준 첫 번째 게스트는, 유기동물 입양을 위해서 따뜻한 마음을 함께 해주시는 #레드벨벳 '조이' 님입니다.\n동물들의 이야기로 가득한 제3회 카라동물영화제! \n많이 참여해주시고 함께 알려주세요! :)\nhttps://t.co/thT7iRwqc7 https://t.co/m9RtS3haFw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "카라동물영화제",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						73,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/thT7iRwqc7",
+					"expanded_url": "http://karaedu.org",
+					"display_url": "karaedu.org",
+					"indices": [
+						141,
+						164
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1315575719246749700,
+					"id_str": "1315575719246749698",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1315575719246749698/pu/img/OjDUw1Ntw2vVyMTr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1315575719246749698/pu/img/OjDUw1Ntw2vVyMTr.jpg",
+					"url": "https://t.co/m9RtS3haFw",
+					"display_url": "pic.twitter.com/m9RtS3haFw",
+					"expanded_url": "https://twitter.com/ekara_org/status/1315577951203753996/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315575719246749700,
+					"id_str": "1315575719246749698",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1315575719246749698/pu/img/OjDUw1Ntw2vVyMTr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1315575719246749698/pu/img/OjDUw1Ntw2vVyMTr.jpg",
+					"url": "https://t.co/m9RtS3haFw",
+					"display_url": "pic.twitter.com/m9RtS3haFw",
+					"expanded_url": "https://twitter.com/ekara_org/status/1315577951203753996/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30625,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1315575719246749698/pu/vid/480x270/bkwiAuZQg5ONy2yR.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1315575719246749698/pu/pl/z0ZZItFyjGR_NmBd.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1315575719246749698/pu/vid/1280x720/F_3IrYuMSGlyDMvO.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1315575719246749698/pu/vid/640x360/ytGA1zFZ1oLROBHQ.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 177415321,
+			"id_str": "177415321",
+			"name": "동물권행동 카라",
+			"screen_name": "ekara_org",
+			"location": "서울시 마포구 서교동 잔다리로122",
+			"description": "동물권행동 카라의 공식트위터입니다 :)",
+			"url": "https://t.co/jBcdwpNSQW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBcdwpNSQW",
+							"expanded_url": "http://www.ekara.org",
+							"display_url": "ekara.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32945,
+			"friends_count": 188,
+			"listed_count": 222,
+			"created_at": "Thu Aug 12 02:19:04 +0000 2010",
+			"favourites_count": 300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5989,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "03AAEC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087504768832925696/k0G-cb-6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087504768832925696/k0G-cb-6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/177415321/1581908492",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "9CD645",
+			"profile_text_color": "9E009E",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 829,
+		"favorite_count": 1200,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제3회 #카라동물영화제 축하합니다!\n카라동물영화제를 반겨준 첫 번째 게스트는, 유기동물 입양을 위해서 따뜻한 마음을 함께 해주시는 #레드벨벳 '조이' 님입니다.\n동물들의 이야기로 가득한 제3회 카라동물영화제! \n많이 참여해주시고 함께 알려주세요! :)\nhttps://t.co/thT7iRwqc7 https://t.co/m9RtS3haFw"
+	},
+	{
+		"created_at": "Mon Oct 12 12:42:35 +0000 2020",
+		"id": 1315496017886761000,
+		"id_str": "1315633966917984256",
+		"full_text": "‘카카오페이 포인트’ 생긴다 https://t.co/rGdRwM8Uzh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rGdRwM8Uzh",
+					"expanded_url": "http://www.bloter.net/archives/462205",
+					"display_url": "bloter.net/archives/462205",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54713,
+			"friends_count": 9,
+			"listed_count": 2356,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘카카오페이 포인트’ 생긴다 https://t.co/rGdRwM8Uzh"
+	},
+	{
+		"created_at": "Mon Oct 12 12:42:32 +0000 2020",
+		"id": 1315492397803925500,
+		"id_str": "1315633954062385155",
+		"full_text": "파이썬 3.9 릴리스와 주요 변경 사항 https://t.co/cmYphmtmuv \n딕셔너리 \n- 병합(merge) 연산자 |\n- 갱신(update) 연산자 |=\n문자열의 접두사, 접미사를 삭제하는 removeprefix(), removesuffix() 메서드 추가\nIANA 시간대를 지원하는 zoneinfo 모듈 추가\n구문 분석기가 LL 기반에서 PEG 기반...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cmYphmtmuv",
+					"expanded_url": "https://j.mp/3iRNAGM",
+					"display_url": "j.mp/3iRNAGM",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4164,
+			"friends_count": 0,
+			"listed_count": 62,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "파이썬 3.9 릴리스와 주요 변경 사항 https://t.co/cmYphmtmuv \n딕셔너리 \n- 병합(merge) 연산자 |\n- 갱신(update) 연산자 |=\n문자열의 접두사, 접미사를 삭제하는 removeprefix(), removesuffix() 메서드 추가\nIANA 시간대를 지원하는 zoneinfo 모듈 추가\n구문 분석기가 LL 기반에서 PEG 기반..."
+	},
+	{
+		"created_at": "Mon Oct 12 12:42:24 +0000 2020",
+		"id": 1315487353046270000,
+		"id_str": "1315633922068213760",
+		"full_text": "#뷰티쁠_스타\n촬영 내내 밝은 미소로 사람들의 마음을 훔친 웬디(@RVsmtown)! 웬디가 써본 아티스트리 스튜디오 스킨은 어땠을까요? 웬디처럼 맑고 건강한 피부의 비결이 궁금하다면, 지금 바로 영상으로 만나보세요.\n\nhttps://t.co/Nlyiw43T69\n\n#뷰티쁠 #레드벨벳 #웬디 #아티스트리스튜디오스킨 https://t.co/t4OZPGsvIm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뷰티쁠_스타",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "뷰티쁠",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						159,
+						162
+					]
+				},
+				{
+					"text": "아티스트리스튜디오스킨",
+					"indices": [
+						163,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						36,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Nlyiw43T69",
+					"expanded_url": "http://bit.ly/36RYUQY",
+					"display_url": "bit.ly/36RYUQY",
+					"indices": [
+						123,
+						146
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1315164365109092400,
+					"id_str": "1315164365109092353",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EkBnBaOUYAER5r9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkBnBaOUYAER5r9.jpg",
+					"url": "https://t.co/t4OZPGsvIm",
+					"display_url": "pic.twitter.com/t4OZPGsvIm",
+					"expanded_url": "https://twitter.com/beautyplmania/status/1315487353046269952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315164365109092400,
+					"id_str": "1315164365109092353",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EkBnBaOUYAER5r9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkBnBaOUYAER5r9.jpg",
+					"url": "https://t.co/t4OZPGsvIm",
+					"display_url": "pic.twitter.com/t4OZPGsvIm",
+					"expanded_url": "https://twitter.com/beautyplmania/status/1315487353046269952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 245726999,
+			"id_str": "245726999",
+			"name": "뷰티쁠  BEAUTY+",
+			"screen_name": "beautyplmania",
+			"location": "Korea",
+			"description": "우리의 일상을 바꾸는 (뷰티+라이프) 매거진 뷰티쁠입니다. 코스메틱 브랜드의 신제품과 행사, 이벤트 소식을 매일 매일 업데이트하고 잘 나가는 뷰티 에디터들의 뷰티 노하우를 폭풍 전수합니다.",
+			"url": "https://t.co/kSUQZnUqY7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kSUQZnUqY7",
+							"expanded_url": "http://www.beautypl.co.kr/",
+							"display_url": "beautypl.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18667,
+			"friends_count": 6385,
+			"listed_count": 100,
+			"created_at": "Tue Feb 01 10:13:18 +0000 2011",
+			"favourites_count": 1243,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1310776136188616704/Ya39shxn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1310776136188616704/Ya39shxn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/245726999/1601348359",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1582,
+		"favorite_count": 2700,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#뷰티쁠_스타\n촬영 내내 밝은 미소로 사람들의 마음을 훔친 웬디(@RVsmtown)! 웬디가 써본 아티스트리 스튜디오 스킨은 어땠을까요? 웬디처럼 맑고 건강한 피부의 비결이 궁금하다면, 지금 바로 영상으로 만나보세요.\n\nhttps://t.co/Nlyiw43T69\n\n#뷰티쁠 #레드벨벳 #웬디 #아티스트리스튜디오스킨 https://t.co/t4OZPGsvIm"
+	},
+	{
+		"created_at": "Mon Oct 12 12:41:51 +0000 2020",
+		"id": 1315577952235663400,
+		"id_str": "1315633782259503104",
+		"full_text": "&lt;청춘기록&gt; OST Part.8\n'제이레빗(J Rabbit)  - 너로 가득해'\n제목처럼 청춘이들로 가득한 뮤직비디오 공개!\n⠀\n매주 [월화] 밤 9시 tvN 방송 🌿✨\n#tvN #월화드라마 #청춘기록\n#박보검 #박소담 #변우석 https://t.co/nYjuoqEamb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tvN",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "월화드라마",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "청춘기록",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "박보검",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "박소담",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "변우석",
+					"indices": [
+						129,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1315542069092393000,
+					"id_str": "1315542069092392960",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EkHY6k9VoAEd4tP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkHY6k9VoAEd4tP.jpg",
+					"url": "https://t.co/nYjuoqEamb",
+					"display_url": "pic.twitter.com/nYjuoqEamb",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1315577952235663360/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1151,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315542069092393000,
+					"id_str": "1315542069092392960",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EkHY6k9VoAEd4tP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkHY6k9VoAEd4tP.jpg",
+					"url": "https://t.co/nYjuoqEamb",
+					"display_url": "pic.twitter.com/nYjuoqEamb",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1315577952235663360/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1151,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 230689,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315542069092392960/vid/640x360/7U_lPvWKrJ2EM5BP.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315542069092392960/vid/1280x720/1QMGPvWBwSpF3KDL.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315542069092392960/vid/480x270/k-SoHJjSNGezFaxg.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1315542069092392960/pl/GN5etjlBQy9kHY0M.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 335749973,
+			"id_str": "335749973",
+			"name": "tvN 드라마",
+			"screen_name": "CJnDrama",
+			"location": "",
+			"description": "tvN 드라마 공식 계정 #tvN #티비엔 #청춘기록 #악의꽃 #비밀의숲2 #구미호뎐 #스타트업",
+			"url": "https://t.co/Em6okU1Ysx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Em6okU1Ysx",
+							"expanded_url": "http://www.youtube.com/user/CJENMDRAMA",
+							"display_url": "youtube.com/user/CJENMDRAMA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 403765,
+			"friends_count": 40,
+			"listed_count": 598,
+			"created_at": "Fri Jul 15 05:15:36 +0000 2011",
+			"favourites_count": 180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/335749973/1599449849",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 530,
+		"favorite_count": 952,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;청춘기록&gt; OST Part.8\n'제이레빗(J Rabbit)  - 너로 가득해'\n제목처럼 청춘이들로 가득한 뮤직비디오 공개!\n⠀\n매주 [월화] 밤 9시 tvN 방송 🌿✨\n#tvN #월화드라마 #청춘기록\n#박보검 #박소담 #변우석 https://t.co/nYjuoqEamb"
+	},
+	{
+		"created_at": "Mon Oct 12 12:39:50 +0000 2020",
+		"id": 1315575172011749400,
+		"id_str": "1315633272076918784",
+		"full_text": "‘AR’ 꽂힌 빅히트·YG, 제페토에 120억 투자 https://t.co/vpcQNV4VIY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vpcQNV4VIY",
+					"expanded_url": "http://www.bloter.net/archives/462497",
+					"display_url": "bloter.net/archives/462497",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54713,
+			"friends_count": 9,
+			"listed_count": 2356,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘AR’ 꽂힌 빅히트·YG, 제페토에 120억 투자 https://t.co/vpcQNV4VIY"
+	},
+	{
+		"created_at": "Mon Oct 12 12:38:28 +0000 2020",
+		"id": 1315632930505384000,
+		"id_str": "1315632930505383936",
+		"full_text": "요즘은 앨범이 4종이네. 전부 구입하면 9만원 가까이 됨. 포토카드는 다 넣어주고 4종이면 말을 안하지만 포토카드도 있고 앨범종류도 여러 개라 너무 상업적인. 한편으로는 공연 오프라인 활동이 막혔으니 이해해볼까 싶다가도 과함.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 968,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "요즘은 앨범이 4종이네. 전부 구입하면 9만원 가까이 됨. 포토카드는 다 넣어주고 4종이면 말을 안하지만 포토카드도 있고 앨범종류도 여러 개라 너무 상업적인. 한편으로는 공연 오프라인 활동이 막혔으니 이해해볼까 싶다가도 과함."
+	},
+	{
+		"created_at": "Mon Oct 12 12:33:20 +0000 2020",
+		"id": 1315580005561192400,
+		"id_str": "1315631637711839232",
+		"full_text": "ZANDARI FESTA 2020 [ZANDARI UNREAL]\nOFFICIAL TEASER\n              \nWhenever, wherever\n50 hours nonstop, like a real festival should be.\n당신이 어디에 있든, 무엇을 하든\n진정한 페스티벌답게 50시간 논스톱으로!\n\n https://t.co/fAwMpqWXGO https://t.co/fnn3tD7lZU https://t.co/M6aK8ELRS3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fAwMpqWXGO",
+					"expanded_url": "https://youtu.be/A4q0gElAjxU",
+					"display_url": "youtu.be/A4q0gElAjxU",
+					"indices": [
+						180,
+						203
+					]
+				},
+				{
+					"url": "https://t.co/fnn3tD7lZU",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1315578650733862912/video/1",
+					"display_url": "twitter.com/ZandariFesta/s…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1315579851290493000,
+					"id_str": "1315579851290492929",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1315579851290492929/pu/img/TTLP3_0tIj5xkvTL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1315579851290492929/pu/img/TTLP3_0tIj5xkvTL.jpg",
+					"url": "https://t.co/M6aK8ELRS3",
+					"display_url": "pic.twitter.com/M6aK8ELRS3",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1315580005561192449/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315579851290493000,
+					"id_str": "1315579851290492929",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1315579851290492929/pu/img/TTLP3_0tIj5xkvTL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1315579851290492929/pu/img/TTLP3_0tIj5xkvTL.jpg",
+					"url": "https://t.co/M6aK8ELRS3",
+					"display_url": "pic.twitter.com/M6aK8ELRS3",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1315580005561192449/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 45170,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1315579851290492929/pu/vid/1280x720/BcFHigcMy9AHjgjv.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1315579851290492929/pu/vid/640x360/KPeEZ2AdbTuufN-V.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1315579851290492929/pu/vid/480x270/nug4pDesvLsLpq1F.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1315579851290492929/pu/pl/PuRzncAWMA5AKkPc.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 822764023,
+			"id_str": "822764023",
+			"name": "Zandari Festa",
+			"screen_name": "ZandariFesta",
+			"location": "대한민국 홍대",
+			"description": "Since 2012 ㅣShowcase Festival & ConferencesㅣOctober 08th-11th 2020 📍Hongdae, Seoul South Korea facebook @zandarifesta Instagram @zandarifesta",
+			"url": "https://t.co/TedsJgO7by",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TedsJgO7by",
+							"expanded_url": "http://www.zandarifesta.com",
+							"display_url": "zandarifesta.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2747,
+			"friends_count": 1767,
+			"listed_count": 40,
+			"created_at": "Fri Sep 14 05:51:51 +0000 2012",
+			"favourites_count": 842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240935459586334720/K6esD7zb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240935459586334720/K6esD7zb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/822764023/1584697045",
+			"profile_link_color": "7D7D7D",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ZANDARI FESTA 2020 [ZANDARI UNREAL]\nOFFICIAL TEASER\n              \nWhenever, wherever\n50 hours nonstop, like a real festival should be.\n당신이 어디에 있든, 무엇을 하든\n진정한 페스티벌답게 50시간 논스톱으로!\n\n https://t.co/fAwMpqWXGO https://t.co/fnn3tD7lZU https://t.co/M6aK8ELRS3"
+	},
+	{
 		"created_at": "Mon Oct 12 11:27:05 +0000 2020",
 		"id": 1315604087149191200,
 		"id_str": "1315614965383004161",
