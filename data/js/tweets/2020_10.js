@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 12 13:59:24 +0000 2020",
+		"id": 1315610170756460500,
+		"id_str": "1315653299253600256",
+		"full_text": "#조이 가 사랑하는 것과 싫어하는 것에 대한 짧은 대화를 나누었습니다. 질문마다 솔직하고 사랑스러운 답을 전한 조이의 목소리와 화보 촬영장의 비하인드 컷을 공개합니다. 조이와 사랑에 빠질 준비, 되셨나요?🔈 @RVsmtown\n\n✍🏻이아름 🎬김성재\nhttps://t.co/izPYrtEKDD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조이",
+					"indices": [
+						0,
+						3
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						116,
+						125
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/izPYrtEKDD",
+					"expanded_url": "https://www.youtube.com/watch?v=o1wT8vYoBdo",
+					"display_url": "youtube.com/watch?v=o1wT8v…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 127117031,
+			"id_str": "127117031",
+			"name": "아레나옴므플러스코리아",
+			"screen_name": "arenahommeplus",
+			"location": "Seoul, Korea",
+			"description": "Arena Homme+ Korea\nMen's Fashion & lifestyle Magazine \nFashion & Style, Success, Beauty, Accessories, Car, Tech, Liquor and Party",
+			"url": "https://t.co/G27j8Bhmhg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G27j8Bhmhg",
+							"expanded_url": "https://www.smlounge.co.kr/arena",
+							"display_url": "smlounge.co.kr/arena",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14119,
+			"friends_count": 210,
+			"listed_count": 61,
+			"created_at": "Sun Mar 28 03:26:36 +0000 2010",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5681,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251074669043568640/enbNxDrB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251074669043568640/enbNxDrB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/127117031/1600755726",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 205,
+		"favorite_count": 232,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#조이 가 사랑하는 것과 싫어하는 것에 대한 짧은 대화를 나누었습니다. 질문마다 솔직하고 사랑스러운 답을 전한 조이의 목소리와 화보 촬영장의 비하인드 컷을 공개합니다. 조이와 사랑에 빠질 준비, 되셨나요?🔈 @RVsmtown\n\n✍🏻이아름 🎬김성재\nhttps://t.co/izPYrtEKDD"
+	},
+	{
 		"created_at": "Mon Oct 12 12:43:31 +0000 2020",
 		"id": 1315577951203754000,
 		"id_str": "1315634202893639680",
