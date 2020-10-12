@@ -1,6 +1,1592 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 12 15:00:33 +0000 2020",
+		"id": 1315481078317023200,
+		"id_str": "1315668688557621249",
+		"full_text": "경기도, 공문서 'HWP'로 안 쓴다...\"웹 표준화 추진\" https://t.co/dp3GvLMU1G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dp3GvLMU1G",
+					"expanded_url": "http://dlvr.it/RjPrtF",
+					"display_url": "dlvr.it/RjPrtF",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90776094,
+			"id_str": "90776094",
+			"name": "지디넷코리아",
+			"screen_name": "zdnetkorea",
+			"location": "",
+			"description": "IT 세상을 바꾸는 힘 -  IT 종합 글로벌 미디어",
+			"url": "http://t.co/BamBkLmS1B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/BamBkLmS1B",
+							"expanded_url": "http://zdnet.co.kr",
+							"display_url": "zdnet.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 135241,
+			"friends_count": 103244,
+			"listed_count": 2781,
+			"created_at": "Wed Nov 18 02:00:22 +0000 2009",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 76553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1857047069/zdnetkorae_twitter_icon_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1857047069/zdnetkorae_twitter_icon_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90776094/1411720332",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 900,
+		"favorite_count": 268,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "경기도, 공문서 'HWP'로 안 쓴다...\"웹 표준화 추진\" https://t.co/dp3GvLMU1G"
+	},
+	{
+		"created_at": "Mon Oct 12 14:58:55 +0000 2020",
+		"id": 1315551151538860000,
+		"id_str": "1315668277595578368",
+		"full_text": "활동을 조용히 지켜봐주시는 분들께 언제나 감사드려요. 차근차근 바꿔나가겠습니다. 정의당의 믿음직한 동료 정치인, 그리고 언제나 지켜봐주시는 여러분과 함께! https://t.co/HqWlWq2A6P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HqWlWq2A6P",
+					"expanded_url": "https://twitter.com/hanatoyul/status/1315533845089796097",
+					"display_url": "twitter.com/hanatoyul/stat…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1242741961171202000,
+			"id_str": "1242741961171202048",
+			"name": "장혜영",
+			"screen_name": "janghyeyeong",
+			"location": "",
+			"description": "21대 국회 정의당 국회의원 장혜영입니다. 후원회 계좌는 다음과 같습니다.  농협은행 301-0274-6817-91 국회의원 장혜영 후원회",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7721,
+			"friends_count": 432,
+			"listed_count": 16,
+			"created_at": "Wed Mar 25 09:16:01 +0000 2020",
+			"favourites_count": 145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272051306023186432/iNA8sNaj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272051306023186432/iNA8sNaj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1242741961171202048/1592115641",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1315533845089796000,
+		"quoted_status_id_str": "1315533845089796097",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HqWlWq2A6P",
+			"expanded": "https://twitter.com/hanatoyul/status/1315533845089796097",
+			"display": "twitter.com/hanatoyul/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 12 06:04:44 +0000 2020",
+			"id": 1315533845089796000,
+			"id_str": "1315533845089796097",
+			"full_text": "위 사진 속 장혜영 의원은 동생 혜정의 전시회 때 일곱 개의 계단 때문에 8시간을 들여 수제 경사로를 설치했었음. 이런 접근성을 고려하는 장혜영 의원, 장애 당사자인 배복주 의원 같은 사람이 있어야 국회가 바뀌고 사회가 바뀌는 겁니다. https://t.co/FIJgC2BRrZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				131
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1315533827964428300,
+						"id_str": "1315533827964428288",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/EkG3C-nUYAAPBhe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EkG3C-nUYAAPBhe.jpg",
+						"url": "https://t.co/FIJgC2BRrZ",
+						"display_url": "pic.twitter.com/FIJgC2BRrZ",
+						"expanded_url": "https://twitter.com/hanatoyul/status/1315533845089796097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 427,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 754,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1718,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1315533827964428300,
+						"id_str": "1315533827964428288",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/EkG3C-nUYAAPBhe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EkG3C-nUYAAPBhe.jpg",
+						"url": "https://t.co/FIJgC2BRrZ",
+						"display_url": "pic.twitter.com/FIJgC2BRrZ",
+						"expanded_url": "https://twitter.com/hanatoyul/status/1315533845089796097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 427,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 754,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1718,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1315533832829821000,
+						"id_str": "1315533832829820930",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/EkG3DQvUYAIIf_-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EkG3DQvUYAIIf_-.jpg",
+						"url": "https://t.co/FIJgC2BRrZ",
+						"display_url": "pic.twitter.com/FIJgC2BRrZ",
+						"expanded_url": "https://twitter.com/hanatoyul/status/1315533845089796097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 400,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1073,
+								"h": 1825,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 706,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1315533837833658400,
+						"id_str": "1315533837833658369",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/EkG3DjYU4AEV3Wf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EkG3DjYU4AEV3Wf.jpg",
+						"url": "https://t.co/FIJgC2BRrZ",
+						"display_url": "pic.twitter.com/FIJgC2BRrZ",
+						"expanded_url": "https://twitter.com/hanatoyul/status/1315533845089796097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 700,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1072,
+								"h": 1838,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 397,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1315533842287980500,
+						"id_str": "1315533842287980544",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/EkG3Dz-UcAAxFsY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EkG3Dz-UcAAxFsY.jpg",
+						"url": "https://t.co/FIJgC2BRrZ",
+						"display_url": "pic.twitter.com/FIJgC2BRrZ",
+						"expanded_url": "https://twitter.com/hanatoyul/status/1315533845089796097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1077,
+								"h": 573,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 362,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1077,
+								"h": 573,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1315533816367247400,
+			"in_reply_to_status_id_str": "1315533816367247360",
+			"in_reply_to_user_id": 1081423457814892500,
+			"in_reply_to_user_id_str": "1081423457814892544",
+			"in_reply_to_screen_name": "hanatoyul",
+			"user": {
+				"id": 1081423457814892500,
+				"id_str": "1081423457814892544",
+				"name": "꾸시꾸시",
+				"screen_name": "hanatoyul",
+				"location": "",
+				"description": "짝사랑의 스킬 위장여친 미스테리오소 킬스위치 퇴사를 요청합니다 오피움 타그법 그녀의심청 등 백합웹툰이면 다먹는 계정",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 30,
+				"friends_count": 89,
+				"listed_count": 0,
+				"created_at": "Sat Jan 05 05:33:39 +0000 2019",
+				"favourites_count": 1116,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39192,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1260779848240267265/xikWWMDm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260779848240267265/xikWWMDm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1081423457814892544/1546667709",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 881,
+			"favorite_count": 322,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 502,
+		"favorite_count": 523,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "활동을 조용히 지켜봐주시는 분들께 언제나 감사드려요. 차근차근 바꿔나가겠습니다. 정의당의 믿음직한 동료 정치인, 그리고 언제나 지켜봐주시는 여러분과 함께! https://t.co/HqWlWq2A6P"
+	},
+	{
+		"created_at": "Mon Oct 12 14:58:46 +0000 2020",
+		"id": 1315533845089796000,
+		"id_str": "1315668239322550272",
+		"full_text": "위 사진 속 장혜영 의원은 동생 혜정의 전시회 때 일곱 개의 계단 때문에 8시간을 들여 수제 경사로를 설치했었음. 이런 접근성을 고려하는 장혜영 의원, 장애 당사자인 배복주 의원 같은 사람이 있어야 국회가 바뀌고 사회가 바뀌는 겁니다. https://t.co/FIJgC2BRrZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1315533827964428300,
+					"id_str": "1315533827964428288",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EkG3C-nUYAAPBhe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkG3C-nUYAAPBhe.jpg",
+					"url": "https://t.co/FIJgC2BRrZ",
+					"display_url": "pic.twitter.com/FIJgC2BRrZ",
+					"expanded_url": "https://twitter.com/hanatoyul/status/1315533845089796097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 427,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 754,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1718,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315533827964428300,
+					"id_str": "1315533827964428288",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EkG3C-nUYAAPBhe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkG3C-nUYAAPBhe.jpg",
+					"url": "https://t.co/FIJgC2BRrZ",
+					"display_url": "pic.twitter.com/FIJgC2BRrZ",
+					"expanded_url": "https://twitter.com/hanatoyul/status/1315533845089796097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 427,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 754,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1718,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1315533832829821000,
+					"id_str": "1315533832829820930",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EkG3DQvUYAIIf_-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkG3DQvUYAIIf_-.jpg",
+					"url": "https://t.co/FIJgC2BRrZ",
+					"display_url": "pic.twitter.com/FIJgC2BRrZ",
+					"expanded_url": "https://twitter.com/hanatoyul/status/1315533845089796097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 400,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1073,
+							"h": 1825,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 706,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1315533837833658400,
+					"id_str": "1315533837833658369",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EkG3DjYU4AEV3Wf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkG3DjYU4AEV3Wf.jpg",
+					"url": "https://t.co/FIJgC2BRrZ",
+					"display_url": "pic.twitter.com/FIJgC2BRrZ",
+					"expanded_url": "https://twitter.com/hanatoyul/status/1315533845089796097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1072,
+							"h": 1838,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 397,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1315533842287980500,
+					"id_str": "1315533842287980544",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EkG3Dz-UcAAxFsY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkG3Dz-UcAAxFsY.jpg",
+					"url": "https://t.co/FIJgC2BRrZ",
+					"display_url": "pic.twitter.com/FIJgC2BRrZ",
+					"expanded_url": "https://twitter.com/hanatoyul/status/1315533845089796097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1077,
+							"h": 573,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 362,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1077,
+							"h": 573,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1315533816367247400,
+		"in_reply_to_status_id_str": "1315533816367247360",
+		"in_reply_to_user_id": 1081423457814892500,
+		"in_reply_to_user_id_str": "1081423457814892544",
+		"in_reply_to_screen_name": "hanatoyul",
+		"user": {
+			"id": 1081423457814892500,
+			"id_str": "1081423457814892544",
+			"name": "꾸시꾸시",
+			"screen_name": "hanatoyul",
+			"location": "",
+			"description": "짝사랑의 스킬 위장여친 미스테리오소 킬스위치 퇴사를 요청합니다 오피움 타그법 그녀의심청 등 백합웹툰이면 다먹는 계정",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30,
+			"friends_count": 89,
+			"listed_count": 0,
+			"created_at": "Sat Jan 05 05:33:39 +0000 2019",
+			"favourites_count": 1116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260779848240267265/xikWWMDm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260779848240267265/xikWWMDm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1081423457814892544/1546667709",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 881,
+		"favorite_count": 322,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "위 사진 속 장혜영 의원은 동생 혜정의 전시회 때 일곱 개의 계단 때문에 8시간을 들여 수제 경사로를 설치했었음. 이런 접근성을 고려하는 장혜영 의원, 장애 당사자인 배복주 의원 같은 사람이 있어야 국회가 바뀌고 사회가 바뀌는 겁니다. https://t.co/FIJgC2BRrZ"
+	},
+	{
+		"created_at": "Mon Oct 12 14:54:09 +0000 2020",
+		"id": 1315479781807276000,
+		"id_str": "1315667076229423105",
+		"full_text": "네이버 이어 카카오도 ‘라이브 커머스’ 출사표 https://t.co/7a5py1mGoR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7a5py1mGoR",
+					"expanded_url": "http://www.bloter.net/archives/461977",
+					"display_url": "bloter.net/archives/461977",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54716,
+			"friends_count": 9,
+			"listed_count": 2356,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "네이버 이어 카카오도 ‘라이브 커머스’ 출사표 https://t.co/7a5py1mGoR"
+	},
+	{
+		"created_at": "Mon Oct 12 14:52:20 +0000 2020",
+		"id": 1315502167231398000,
+		"id_str": "1315666617066373121",
+		"full_text": "제25회 부산국제영화제가 사회적 거리두기 1단계 하향조치로 오프라인 개최를 최종 논의 중입니다. 상영작 온라인 예매는 10월 15일부터 시작합니다. https://t.co/QWOFBsIuwU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QWOFBsIuwU",
+					"expanded_url": "https://movie.v.daum.net/v/20201012114548966",
+					"display_url": "movie.v.daum.net/v/202010121145…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4838971693,
+			"id_str": "4838971693",
+			"name": "테일러콘텐츠 TailorContent",
+			"screen_name": "tailorcontents",
+			"location": "",
+			"description": "테일러콘텐츠는 작품과 배우의 데이터를 구축하고 새로운 형태의 콘텐츠를 만드는 일에 늘 도전하는 스타트업입니다",
+			"url": "https://t.co/IOMUmlyIDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IOMUmlyIDN",
+							"expanded_url": "http://tailorcontents.com",
+							"display_url": "tailorcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16422,
+			"friends_count": 735,
+			"listed_count": 88,
+			"created_at": "Sun Jan 31 08:05:08 +0000 2016",
+			"favourites_count": 998,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4838971693/1591696070",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 92,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제25회 부산국제영화제가 사회적 거리두기 1단계 하향조치로 오프라인 개최를 최종 논의 중입니다. 상영작 온라인 예매는 10월 15일부터 시작합니다. https://t.co/QWOFBsIuwU"
+	},
+	{
+		"created_at": "Mon Oct 12 14:51:21 +0000 2020",
+		"id": 1315475282376024000,
+		"id_str": "1315666372748173312",
+		"full_text": "Y Combinator 에서 실패한 스타트업들  https://t.co/eDp9OFUXHh \n지난 15년간 YC가 투자한 2200개중 문닫은 스타트업이 400+개. 그들의 실패사례에서 배우기.\n실패율 20%로 꽤 낮아보이지만 최근 5년간 투자한게 1500개, 즉 아직 문닫기엔 이른 곳이 많음.\n첫 17개의 배치만 놓고 보면 실패율은...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eDp9OFUXHh",
+					"expanded_url": "https://j.mp/2Im4fWD",
+					"display_url": "j.mp/2Im4fWD",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4165,
+			"friends_count": 0,
+			"listed_count": 62,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Y Combinator 에서 실패한 스타트업들  https://t.co/eDp9OFUXHh \n지난 15년간 YC가 투자한 2200개중 문닫은 스타트업이 400+개. 그들의 실패사례에서 배우기.\n실패율 20%로 꽤 낮아보이지만 최근 5년간 투자한게 1500개, 즉 아직 문닫기엔 이른 곳이 많음.\n첫 17개의 배치만 놓고 보면 실패율은..."
+	},
+	{
+		"created_at": "Mon Oct 12 14:33:32 +0000 2020",
+		"id": 1315639576656973800,
+		"id_str": "1315661886004756480",
+		"full_text": "#원보가중계 BTS '한국전쟁' 발언에…중국 네티즌 \"아미 탈퇴\" https://t.co/NfW5LAk1l9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "원보가중계",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NfW5LAk1l9",
+					"expanded_url": "http://news.jtbc.joins.com/html/439/NB11973439.html",
+					"display_url": "news.jtbc.joins.com/html/439/NB119…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 397672819,
+			"id_str": "397672819",
+			"name": "JTBC 뉴스",
+			"screen_name": "JTBC_news",
+			"location": "서울시 마포구 상암산로 48-6",
+			"description": "JTBC 뉴스 공식 트위터입니다!!\n이곳은 트친 여러분의 이야기와 목소리에 귀 기울이는 곳입니다.\n많은 관심과 사랑 부탁드립니다. ^^",
+			"url": "http://t.co/CrCzofZgOd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/CrCzofZgOd",
+							"expanded_url": "http://facebook.com/jtbcnews",
+							"display_url": "facebook.com/jtbcnews",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603915,
+			"friends_count": 43992,
+			"listed_count": 2140,
+			"created_at": "Tue Oct 25 00:50:16 +0000 2011",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 78064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A9A9A9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247039086713425922/oOmR2jkc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247039086713425922/oOmR2jkc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/397672819/1586971432",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#원보가중계 BTS '한국전쟁' 발언에…중국 네티즌 \"아미 탈퇴\" https://t.co/NfW5LAk1l9"
+	},
+	{
+		"created_at": "Mon Oct 12 14:32:05 +0000 2020",
+		"id": 1315640529317621800,
+		"id_str": "1315661523822342147",
+		"full_text": "도킨스 자신도 ‘이기적 유전자’라는 제목을 나중에 후회했다. 철학자 매리 미즐리의 비판. 다윈은 인간 본성을 늘 이기적이라 보지 않았을 뿐 아니라 사회성과 협동심이 결정적이었다고 봤다. 그 후 수백 년 간 개인주의 사고 방식이 지배하면서 외로운 개인 문화를 초래했다.https://t.co/W0ErKm0V11",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W0ErKm0V11",
+					"expanded_url": "https://aeon.co/videos/the-self-is-not-always-selfish-mary-midgley-takes-on-richard-dawkins",
+					"display_url": "aeon.co/videos/the-sel…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101281,
+			"friends_count": 2383,
+			"listed_count": 313,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 48,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "도킨스 자신도 ‘이기적 유전자’라는 제목을 나중에 후회했다. 철학자 매리 미즐리의 비판. 다윈은 인간 본성을 늘 이기적이라 보지 않았을 뿐 아니라 사회성과 협동심이 결정적이었다고 봤다. 그 후 수백 년 간 개인주의 사고 방식이 지배하면서 외로운 개인 문화를 초래했다.https://t.co/W0ErKm0V11"
+	},
+	{
+		"created_at": "Mon Oct 12 14:24:46 +0000 2020",
+		"id": 1315659681046564900,
+		"id_str": "1315659681046564865",
+		"full_text": "카카오도 페이산업 제대로 할 생각인가보네. https://t.co/N2xxv3UYop",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N2xxv3UYop",
+					"expanded_url": "https://twitter.com/bloter_news/status/1315496017886760961",
+					"display_url": "twitter.com/bloter_news/st…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 968,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1315496017886761000,
+		"quoted_status_id_str": "1315496017886760961",
+		"quoted_status_permalink": {
+			"url": "https://t.co/N2xxv3UYop",
+			"expanded": "https://twitter.com/bloter_news/status/1315496017886760961",
+			"display": "twitter.com/bloter_news/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 12 03:34:26 +0000 2020",
+			"id": 1315496017886761000,
+			"id_str": "1315496017886760961",
+			"full_text": "‘카카오페이 포인트’ 생긴다 https://t.co/rGdRwM8Uzh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				39
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rGdRwM8Uzh",
+						"expanded_url": "http://www.bloter.net/archives/462205",
+						"display_url": "bloter.net/archives/462205",
+						"indices": [
+							16,
+							39
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 123416413,
+				"id_str": "123416413",
+				"name": "블로터",
+				"screen_name": "bloter_news",
+				"location": "Seoul",
+				"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+				"url": "http://t.co/iWgIfBB6mF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/iWgIfBB6mF",
+								"expanded_url": "http://bloter.net",
+								"display_url": "bloter.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 54716,
+				"friends_count": 9,
+				"listed_count": 2356,
+				"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+				"favourites_count": 6,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 26937,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "카카오도 페이산업 제대로 할 생각인가보네. https://t.co/N2xxv3UYop"
+	},
+	{
+		"created_at": "Mon Oct 12 14:23:33 +0000 2020",
+		"id": 1315659375399198700,
+		"id_str": "1315659375399198720",
+		"full_text": "‘기레년’ 욕설에 성폭력 위협까지… 여성기자 혐오 피해 ‘심각’ - 미디어오늘\nhttps://t.co/A7sSxem6BM #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "minfav",
+					"indices": [
+						68,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A7sSxem6BM",
+					"expanded_url": "http://www.mediatoday.co.kr/news/articleView.html?idxno=209741",
+					"display_url": "mediatoday.co.kr/news/articleVi…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 968,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘기레년’ 욕설에 성폭력 위협까지… 여성기자 혐오 피해 ‘심각’ - 미디어오늘\nhttps://t.co/A7sSxem6BM #minfav"
+	},
+	{
 		"created_at": "Mon Oct 12 13:59:24 +0000 2020",
 		"id": 1315610170756460500,
 		"id_str": "1315653299253600256",
