@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 12 10:27:05 +0000 2020",
+		"id": 1315578299251187700,
+		"id_str": "1315599865380995072",
+		"full_text": "🌚 팬의점 달 상담소 사연 대모집 🌝\n⠀⠀⠀⠀\n달아, 달아 내 이야기를 들어줘!\n이 ‘달’의 소녀들에게 사연을 말해봐! \n\n🏃‍♀️🏃‍♂️상단 프로필에서 사연 신청하러 가기🏃‍♀️🏃‍♂️\nhttps://t.co/qeBLsLRCum https://t.co/ea4V0E8bYZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qeBLsLRCum",
+					"expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLSfef1wgwy5GjnYanvgvESNY6FYeE6o4iDixnx8OAKkIbGnTcw/viewform?usp=sf_link",
+					"display_url": "docs.google.com/forms/d/e/1FAI…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1315578292187979800,
+					"id_str": "1315578292187979778",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EkHffIwUYAI2R8V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkHffIwUYAI2R8V.jpg",
+					"url": "https://t.co/ea4V0E8bYZ",
+					"display_url": "pic.twitter.com/ea4V0E8bYZ",
+					"expanded_url": "https://twitter.com/fanijeom24/status/1315578299251187713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315578292187979800,
+					"id_str": "1315578292187979778",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EkHffIwUYAI2R8V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkHffIwUYAI2R8V.jpg",
+					"url": "https://t.co/ea4V0E8bYZ",
+					"display_url": "pic.twitter.com/ea4V0E8bYZ",
+					"expanded_url": "https://twitter.com/fanijeom24/status/1315578299251187713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1253561750508548000,
+			"id_str": "1253561750508548097",
+			"name": "fanijeom24.official",
+			"screen_name": "fanijeom24",
+			"location": "",
+			"description": "팬의점24 점장 공식계정 아이돌이 퇴근 후 들리는 곳 ☺︎팬의점24☺︎ ☻ 좋아요💙 구독💙 알림설정💙",
+			"url": "https://t.co/4LDuhecF1y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4LDuhecF1y",
+							"expanded_url": "https://www.youtube.com/channel/UC3b03x7bpOH8hAYoSmE-DAA",
+							"display_url": "youtube.com/channel/UC3b03…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1404,
+			"friends_count": 10,
+			"listed_count": 3,
+			"created_at": "Fri Apr 24 05:49:55 +0000 2020",
+			"favourites_count": 3983,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254657565612367872/ZkbZ68nj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254657565612367872/ZkbZ68nj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1253561750508548097/1602493389",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1052,
+		"favorite_count": 3295,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌚 팬의점 달 상담소 사연 대모집 🌝\n⠀⠀⠀⠀\n달아, 달아 내 이야기를 들어줘!\n이 ‘달’의 소녀들에게 사연을 말해봐! \n\n🏃‍♀️🏃‍♂️상단 프로필에서 사연 신청하러 가기🏃‍♀️🏃‍♂️\nhttps://t.co/qeBLsLRCum https://t.co/ea4V0E8bYZ"
+	},
+	{
 		"created_at": "Mon Oct 12 09:27:42 +0000 2020",
 		"id": 1315584921457524700,
 		"id_str": "1315584921457524738",
