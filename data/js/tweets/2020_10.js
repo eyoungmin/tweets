@@ -1,6 +1,952 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 12 03:01:08 +0000 2020",
+		"id": 1315487641039667200,
+		"id_str": "1315487641039667200",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Oct 12) https://t.co/D1XdFKiLfI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D1XdFKiLfI",
+					"expanded_url": "https://nzzl.us/iERVgRA",
+					"display_url": "nzzl.us/iERVgRA",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 968,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Oct 12) https://t.co/D1XdFKiLfI"
+	},
+	{
+		"created_at": "Mon Oct 12 02:09:17 +0000 2020",
+		"id": 1314133813602082800,
+		"id_str": "1315474589930065920",
+		"full_text": "💗3년 만에 완전체 출격 기념🖤 \n블랙핑크 명장면 모음.zip\n\n영상 보러가기\nhttps://t.co/5Kv8ZHanmS\n\n런닝맨🏃🏻🏃🏻‍♀️🏃🏻‍♂️\n👉🏻 매주 일요일 저녁 5시 본 방송!\n\n#런닝맨 #RunningMan #블랙핑크 #BLACKPINK #지수 #제니 #로제 #리사 #블핑 #블랙핑크런닝맨 https://t.co/xJo4iDYJIW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "런닝맨",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "RunningMan",
+					"indices": [
+						113,
+						124
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						131,
+						141
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						142,
+						145
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						154,
+						157
+					]
+				},
+				{
+					"text": "블핑",
+					"indices": [
+						158,
+						161
+					]
+				},
+				{
+					"text": "블랙핑크런닝맨",
+					"indices": [
+						162,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5Kv8ZHanmS",
+					"expanded_url": "http://youtu.be/7xOIJp8CFNw",
+					"display_url": "youtu.be/7xOIJp8CFNw",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314130324561948700,
+					"id_str": "1314130324561948675",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejy6kVAVcAMJa2A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejy6kVAVcAMJa2A.jpg",
+					"url": "https://t.co/xJo4iDYJIW",
+					"display_url": "pic.twitter.com/xJo4iDYJIW",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1314133813602082816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314130324561948700,
+					"id_str": "1314130324561948675",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejy6kVAVcAMJa2A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejy6kVAVcAMJa2A.jpg",
+					"url": "https://t.co/xJo4iDYJIW",
+					"display_url": "pic.twitter.com/xJo4iDYJIW",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1314133813602082816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113259902,
+			"id_str": "113259902",
+			"name": "SBS",
+			"screen_name": "SBSNOW",
+			"location": "37.5291271,126.873538",
+			"description": "SBS공식트위터 '스브스 나우'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1611070,
+			"friends_count": 4768,
+			"listed_count": 2814,
+			"created_at": "Thu Feb 11 06:04:28 +0000 2010",
+			"favourites_count": 1205,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315443702244892674/-vyL7cwH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315443702244892674/-vyL7cwH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113259902/1602461232",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3423,
+		"favorite_count": 10051,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💗3년 만에 완전체 출격 기념🖤 \n블랙핑크 명장면 모음.zip\n\n영상 보러가기\nhttps://t.co/5Kv8ZHanmS\n\n런닝맨🏃🏻🏃🏻‍♀️🏃🏻‍♂️\n👉🏻 매주 일요일 저녁 5시 본 방송!\n\n#런닝맨 #RunningMan #블랙핑크 #BLACKPINK #지수 #제니 #로제 #리사 #블핑 #블랙핑크런닝맨 https://t.co/xJo4iDYJIW"
+	},
+	{
+		"created_at": "Mon Oct 12 02:09:09 +0000 2020",
+		"id": 1314732382868603000,
+		"id_str": "1315474558208536578",
+		"full_text": "🖤인기가요 블랙핑크 컴백❤️\n\nSBS &lt;인기가요&gt;\n☞ 매주 일요일 오후 3시 30분 방송\n\n#SBS인기가요 #인기가요라인업 #201011출연자 #BLACKPINK #더보이즈 #쪼꼬미 #StrayKids #업텐션 #프로미스나인 #골든차일드 #던 #VAV #위키미키 #EVERGLOW #H&amp;D #트레저 #위아이 #BDC #GHOST9 #루나솔라 https://t.co/95Ycb4VE4J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SBS인기가요",
+					"indices": [
+						57,
+						65
+					]
+				},
+				{
+					"text": "인기가요라인업",
+					"indices": [
+						66,
+						74
+					]
+				},
+				{
+					"text": "201011출연자",
+					"indices": [
+						75,
+						85
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"text": "더보이즈",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "쪼꼬미",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "StrayKids",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"text": "업텐션",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "프로미스나인",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "던",
+					"indices": [
+						139,
+						141
+					]
+				},
+				{
+					"text": "VAV",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "위키미키",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "EVERGLOW",
+					"indices": [
+						153,
+						162
+					]
+				},
+				{
+					"text": "H",
+					"indices": [
+						163,
+						165
+					]
+				},
+				{
+					"text": "트레저",
+					"indices": [
+						172,
+						176
+					]
+				},
+				{
+					"text": "위아이",
+					"indices": [
+						177,
+						181
+					]
+				},
+				{
+					"text": "BDC",
+					"indices": [
+						182,
+						186
+					]
+				},
+				{
+					"text": "GHOST9",
+					"indices": [
+						187,
+						194
+					]
+				},
+				{
+					"text": "루나솔라",
+					"indices": [
+						195,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314131116337500200,
+					"id_str": "1314131116337500166",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejy7SamVkAYS_xZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejy7SamVkAYS_xZ.jpg",
+					"url": "https://t.co/95Ycb4VE4J",
+					"display_url": "pic.twitter.com/95Ycb4VE4J",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1314732382868602881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314131116337500200,
+					"id_str": "1314131116337500166",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejy7SamVkAYS_xZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejy7SamVkAYS_xZ.jpg",
+					"url": "https://t.co/95Ycb4VE4J",
+					"display_url": "pic.twitter.com/95Ycb4VE4J",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1314732382868602881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113259902,
+			"id_str": "113259902",
+			"name": "SBS",
+			"screen_name": "SBSNOW",
+			"location": "37.5291271,126.873538",
+			"description": "SBS공식트위터 '스브스 나우'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1611070,
+			"friends_count": 4768,
+			"listed_count": 2814,
+			"created_at": "Thu Feb 11 06:04:28 +0000 2010",
+			"favourites_count": 1205,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315443702244892674/-vyL7cwH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315443702244892674/-vyL7cwH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113259902/1602461232",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4326,
+		"favorite_count": 15897,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🖤인기가요 블랙핑크 컴백❤️\n\nSBS &lt;인기가요&gt;\n☞ 매주 일요일 오후 3시 30분 방송\n\n#SBS인기가요 #인기가요라인업 #201011출연자 #BLACKPINK #더보이즈 #쪼꼬미 #StrayKids #업텐션 #프로미스나인 #골든차일드 #던 #VAV #위키미키 #EVERGLOW #H&amp;D #트레저 #위아이 #BDC #GHOST9 #루나솔라 https://t.co/95Ycb4VE4J"
+	},
+	{
+		"created_at": "Mon Oct 12 02:06:37 +0000 2020",
+		"id": 1315467496229466000,
+		"id_str": "1315473918547783683",
+		"full_text": "아이엠컬처, 온라인 스트리밍 서비스 시작…‘전설의 리틀 농구단’·‘존경하는 엘레나 선생님’ 상영 https://t.co/ssUGLT4TtO https://t.co/jGqPQrqG0D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ssUGLT4TtO",
+					"expanded_url": "https://bit.ly/3nFWydV",
+					"display_url": "bit.ly/3nFWydV",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1315467428436963300,
+					"id_str": "1315467428436963331",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EkF6qBGU8AMq3iQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkF6qBGU8AMq3iQ.jpg",
+					"url": "https://t.co/jGqPQrqG0D",
+					"display_url": "pic.twitter.com/jGqPQrqG0D",
+					"expanded_url": "https://twitter.com/playdb/status/1315467496229466112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 833,
+							"h": 469,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 833,
+							"h": 469,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315467428436963300,
+					"id_str": "1315467428436963331",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EkF6qBGU8AMq3iQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkF6qBGU8AMq3iQ.jpg",
+					"url": "https://t.co/jGqPQrqG0D",
+					"display_url": "pic.twitter.com/jGqPQrqG0D",
+					"expanded_url": "https://twitter.com/playdb/status/1315467496229466112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 833,
+							"h": 469,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 833,
+							"h": 469,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 127443585,
+			"id_str": "127443585",
+			"name": "playdb",
+			"screen_name": "playdb",
+			"location": "seoul, korea ",
+			"description": "All about Performance! \r\nInterpark Ticket, PlayDB. \r\n공연의 모든것! 인터파크 티켓\r\n공연포털 플레이DB 공식트위터",
+			"url": "http://t.co/y6oZ6IWHE6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/y6oZ6IWHE6",
+							"expanded_url": "http://www.playdb.co.kr",
+							"display_url": "playdb.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71988,
+			"friends_count": 17256,
+			"listed_count": 344,
+			"created_at": "Mon Mar 29 06:25:25 +0000 2010",
+			"favourites_count": 116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/783007035/playdb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/783007035/playdb_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DAEBD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이엠컬처, 온라인 스트리밍 서비스 시작…‘전설의 리틀 농구단’·‘존경하는 엘레나 선생님’ 상영 https://t.co/ssUGLT4TtO https://t.co/jGqPQrqG0D"
+	},
+	{
+		"created_at": "Mon Oct 12 02:05:21 +0000 2020",
+		"id": 1315473599914930200,
+		"id_str": "1315473599914930176",
+		"full_text": "온라인 스트리밍 해시태그 통일했으면 좋겠는데 어느순간 다 안 쓰는 듯. #stayhome #집콕문화생활 #집콕 붙이지도 않고 대체도 없어지고 유튜브 코리아는 만들고 얼마 안되어 라이브봐요 재생목록 없앰.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "stayhome",
+					"indices": [
+						40,
+						49
+					]
+				},
+				{
+					"text": "집콕문화생활",
+					"indices": [
+						50,
+						57
+					]
+				},
+				{
+					"text": "집콕",
+					"indices": [
+						58,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 968,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "온라인 스트리밍 해시태그 통일했으면 좋겠는데 어느순간 다 안 쓰는 듯. #stayhome #집콕문화생활 #집콕 붙이지도 않고 대체도 없어지고 유튜브 코리아는 만들고 얼마 안되어 라이브봐요 재생목록 없앰."
+	},
+	{
 		"created_at": "Mon Oct 12 02:00:16 +0000 2020",
 		"id": 1315472320832520200,
 		"id_str": "1315472320832520192",
@@ -287,7 +1233,7 @@ Grailbird.data.tweets_2020_10 =
 		"created_at": "Mon Oct 12 01:48:21 +0000 2020",
 		"id": 1315457158373310500,
 		"id_str": "1315469324732178435",
-		"full_text": "내일(10/13) 오후 2시부터!\nOCN 유튜브, TVING에서\n밀리터리 스릴러 &lt;써치&gt;의 제작발표회가 생중계됩니다!\n\n많은 관심과 따뜻한 응원 부탁드립니다🙋‍♀️\n#예비_특임대원들_필수_시청🔥\n\n참석 : 장동윤, 정수정, 문정희, 윤박, 이현욱 배우, 임대웅 감독\n\n#써치 10월 17일 (토) 밤 10시 30분 첫 방송 https://t.co/nLqF2Xoc3E",
+		"full_text": "내일(10/13) 오후 2시부터!\nOCN 유튜브, TVING에서\n밀리터리 스릴러 &lt;써치&gt;의 제작발표회가 생중계됩니다!\n\n많은 관심과 따뜻한 응원 부탁드립니다🙋♀️\n#예비_특임대원들_필수_시청🔥\n\n참석 : 장동윤, 정수정, 문정희, 윤박, 이현욱 배우, 임대웅 감독\n\n#써치 10월 17일 (토) 밤 10시 30분 첫 방송 https://t.co/nLqF2Xoc3E",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -457,7 +1403,7 @@ Grailbird.data.tweets_2020_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "내일(10/13) 오후 2시부터!\nOCN 유튜브, TVING에서\n밀리터리 스릴러 &lt;써치&gt;의 제작발표회가 생중계됩니다!\n\n많은 관심과 따뜻한 응원 부탁드립니다🙋‍♀️\n#예비_특임대원들_필수_시청🔥\n\n참석 : 장동윤, 정수정, 문정희, 윤박, 이현욱 배우, 임대웅 감독\n\n#써치 10월 17일 (토) 밤 10시 30분 첫 방송 https://t.co/nLqF2Xoc3E"
+		"text": "내일(10/13) 오후 2시부터!\nOCN 유튜브, TVING에서\n밀리터리 스릴러 &lt;써치&gt;의 제작발표회가 생중계됩니다!\n\n많은 관심과 따뜻한 응원 부탁드립니다🙋♀️\n#예비_특임대원들_필수_시청🔥\n\n참석 : 장동윤, 정수정, 문정희, 윤박, 이현욱 배우, 임대웅 감독\n\n#써치 10월 17일 (토) 밤 10시 30분 첫 방송 https://t.co/nLqF2Xoc3E"
 	},
 	{
 		"created_at": "Mon Oct 12 01:45:48 +0000 2020",
