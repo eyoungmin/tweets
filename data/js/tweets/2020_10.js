@@ -1,6 +1,1140 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 13 04:57:56 +0000 2020",
+		"id": 1315868626239459300,
+		"id_str": "1315879422868615170",
+		"full_text": "잡스, 워즈니악, 쿡 (Build, Sell, Scale) https://t.co/QTsi7oOdBv \n스타트업이 성장하는데 Build/Sell/Scale 3종류의 아키타입(Archetype)이 필요\n한가지를 10x 잘하는 사람도 찾기 힘들지만, 이중 2,3가지를 같이 가진 사람은 더 드뭄.\n보통은 이것들을 3명 또는 그 이상의 사람이 잘하는 핵심...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QTsi7oOdBv",
+					"expanded_url": "https://j.mp/3jUzkOT",
+					"display_url": "j.mp/3jUzkOT",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4172,
+			"friends_count": 0,
+			"listed_count": 62,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잡스, 워즈니악, 쿡 (Build, Sell, Scale) https://t.co/QTsi7oOdBv \n스타트업이 성장하는데 Build/Sell/Scale 3종류의 아키타입(Archetype)이 필요\n한가지를 10x 잘하는 사람도 찾기 힘들지만, 이중 2,3가지를 같이 가진 사람은 더 드뭄.\n보통은 이것들을 3명 또는 그 이상의 사람이 잘하는 핵심..."
+	},
+	{
+		"created_at": "Tue Oct 13 04:54:17 +0000 2020",
+		"id": 1315877492054323200,
+		"id_str": "1315878500893564929",
+		"full_text": "*throws hanky up in the air* HAL👏🏻LAY👏🏻LU👏🏻JAH https://t.co/FFiiJAFB93",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FFiiJAFB93",
+					"expanded_url": "https://twitter.com/nowthisnews/status/1233395932072480768",
+					"display_url": "twitter.com/nowthisnews/st…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21447363,
+			"id_str": "21447363",
+			"name": "KATY PERRY",
+			"screen_name": "katyperry",
+			"location": "",
+			"description": "Love. Light.",
+			"url": "https://t.co/J1C5sIp4vh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J1C5sIp4vh",
+							"expanded_url": "https://linktr.ee/katyperry",
+							"display_url": "linktr.ee/katyperry",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108632376,
+			"friends_count": 224,
+			"listed_count": 130284,
+			"created_at": "Fri Feb 20 23:45:56 +0000 2009",
+			"favourites_count": 7683,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "CECFBC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1299195467301969920/gDTjcVrv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1299195467301969920/gDTjcVrv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21447363/1598644230",
+			"profile_link_color": "D55732",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "78C0A8",
+			"profile_text_color": "5E412F",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1233395932072480800,
+		"quoted_status_id_str": "1233395932072480768",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FFiiJAFB93",
+			"expanded": "https://twitter.com/nowthisnews/status/1233395932072480768",
+			"display": "twitter.com/nowthisnews/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 28 14:18:00 +0000 2020",
+			"id": 1233395932072480800,
+			"id_str": "1233395932072480768",
+			"full_text": "'The only time religious freedom is invoked is in the name of bigotry and discrimination. I'm tired of it' — @AOC just flipped the entire ‘religious freedom’ argument on its head https://t.co/yS57LNnpBb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				178
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AOC",
+						"name": "Alexandria Ocasio-Cortez",
+						"id": 138203134,
+						"id_str": "138203134",
+						"indices": [
+							109,
+							113
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1233131522019991600,
+						"id_str": "1233131522019991555",
+						"indices": [
+							179,
+							202
+						],
+						"media_url": "http://pbs.twimg.com/media/ERz3DydX0AgCbUU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERz3DydX0AgCbUU.jpg",
+						"url": "https://t.co/yS57LNnpBb",
+						"display_url": "pic.twitter.com/yS57LNnpBb",
+						"expanded_url": "https://twitter.com/nowthisnews/status/1233395932072480768/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1233131522019991600,
+						"id_str": "1233131522019991555",
+						"indices": [
+							179,
+							202
+						],
+						"media_url": "http://pbs.twimg.com/media/ERz3DydX0AgCbUU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERz3DydX0AgCbUU.jpg",
+						"url": "https://t.co/yS57LNnpBb",
+						"display_url": "pic.twitter.com/yS57LNnpBb",
+						"expanded_url": "https://twitter.com/nowthisnews/status/1233395932072480768/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 220087,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1233131522019991555/vid/1280x720/PTPUvkX9IF9DLRZV.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1233131522019991555/vid/480x270/l5mR_bokihJNS2vW.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1233131522019991555/vid/640x360/twaiE349cdMls6Bc.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1233131522019991555/pl/WMLGADMTtk2_MlKr.m3u8?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Rep. Alexandria Ocasio-Cortez on Religious Freedom",
+							"description": "'The only time religious freedom is invoked is in the name of bigotry and discrimination. I'm tired of it' — @AOC just flipped the entire ‘religious freedom’ argument on its head\n",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 701725963,
+				"id_str": "701725963",
+				"name": "NowThis",
+				"screen_name": "nowthisnews",
+				"location": "The Internet & NYC",
+				"description": "Stories that move. Send us tips: contact@nowthismedia.com. Subscribe to our daily newsletter: https://t.co/2sCY2rymF7",
+				"url": "http://t.co/1NLX7sJ52o",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/1NLX7sJ52o",
+								"expanded_url": "http://nowthisnews.com/",
+								"display_url": "nowthisnews.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/2sCY2rymF7",
+								"expanded_url": "http://go.nowth.is/KnowThis",
+								"display_url": "go.nowth.is/KnowThis",
+								"indices": [
+									94,
+									117
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2695139,
+				"friends_count": 11922,
+				"listed_count": 8759,
+				"created_at": "Tue Jul 17 20:31:08 +0000 2012",
+				"favourites_count": 12916,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 174872,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "7FDBB6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1197533022263877635/JxM1Ba0d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197533022263877635/JxM1Ba0d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/701725963/1528239770",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31976,
+			"favorite_count": 104727,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 249,
+		"favorite_count": 1884,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "*throws hanky up in the air* HAL👏🏻LAY👏🏻LU👏🏻JAH https://t.co/FFiiJAFB93"
+	},
+	{
+		"created_at": "Tue Oct 13 04:54:12 +0000 2020",
+		"id": 1233395932072480800,
+		"id_str": "1315878480681213952",
+		"full_text": "'The only time religious freedom is invoked is in the name of bigotry and discrimination. I'm tired of it' — @AOC just flipped the entire ‘religious freedom’ argument on its head https://t.co/yS57LNnpBb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AOC",
+					"name": "Alexandria Ocasio-Cortez",
+					"id": 138203134,
+					"id_str": "138203134",
+					"indices": [
+						109,
+						113
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1233131522019991600,
+					"id_str": "1233131522019991555",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/ERz3DydX0AgCbUU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERz3DydX0AgCbUU.jpg",
+					"url": "https://t.co/yS57LNnpBb",
+					"display_url": "pic.twitter.com/yS57LNnpBb",
+					"expanded_url": "https://twitter.com/nowthisnews/status/1233395932072480768/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1233131522019991600,
+					"id_str": "1233131522019991555",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/ERz3DydX0AgCbUU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERz3DydX0AgCbUU.jpg",
+					"url": "https://t.co/yS57LNnpBb",
+					"display_url": "pic.twitter.com/yS57LNnpBb",
+					"expanded_url": "https://twitter.com/nowthisnews/status/1233395932072480768/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 220087,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1233131522019991555/vid/1280x720/PTPUvkX9IF9DLRZV.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1233131522019991555/vid/480x270/l5mR_bokihJNS2vW.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1233131522019991555/vid/640x360/twaiE349cdMls6Bc.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1233131522019991555/pl/WMLGADMTtk2_MlKr.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Rep. Alexandria Ocasio-Cortez on Religious Freedom",
+						"description": "'The only time religious freedom is invoked is in the name of bigotry and discrimination. I'm tired of it' — @AOC just flipped the entire ‘religious freedom’ argument on its head\n",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 701725963,
+			"id_str": "701725963",
+			"name": "NowThis",
+			"screen_name": "nowthisnews",
+			"location": "The Internet & NYC",
+			"description": "Stories that move. Send us tips: contact@nowthismedia.com. Subscribe to our daily newsletter: https://t.co/2sCY2rymF7",
+			"url": "http://t.co/1NLX7sJ52o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1NLX7sJ52o",
+							"expanded_url": "http://nowthisnews.com/",
+							"display_url": "nowthisnews.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/2sCY2rymF7",
+							"expanded_url": "http://go.nowth.is/KnowThis",
+							"display_url": "go.nowth.is/KnowThis",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2695139,
+			"friends_count": 11922,
+			"listed_count": 8759,
+			"created_at": "Tue Jul 17 20:31:08 +0000 2012",
+			"favourites_count": 12916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 174872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7FDBB6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197533022263877635/JxM1Ba0d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197533022263877635/JxM1Ba0d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/701725963/1528239770",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31976,
+		"favorite_count": 104727,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'The only time religious freedom is invoked is in the name of bigotry and discrimination. I'm tired of it' — @AOC just flipped the entire ‘religious freedom’ argument on its head https://t.co/yS57LNnpBb"
+	},
+	{
+		"created_at": "Tue Oct 13 04:48:07 +0000 2020",
+		"id": 1315876951584694300,
+		"id_str": "1315876951584694272",
+		"full_text": "국내 음원 플랫폼도 데이터를 개방하고 다양한 기업들과 데이터협업이 이뤄졌으면 좋겠다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 968,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "국내 음원 플랫폼도 데이터를 개방하고 다양한 기업들과 데이터협업이 이뤄졌으면 좋겠다."
+	},
+	{
+		"created_at": "Tue Oct 13 04:46:55 +0000 2020",
+		"id": 1313889181685309400,
+		"id_str": "1315876649196429312",
+		"full_text": "Comment with your favorite track from @BLACKPINK's new album!! 👇 #TheAlbum https://t.co/E9RzwxMQFt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheAlbum",
+					"indices": [
+						65,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						38,
+						48
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313889086319419400,
+					"id_str": "1313889086319419392",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/EjvfKahU4AAWRUJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjvfKahU4AAWRUJ.jpg",
+					"url": "https://t.co/E9RzwxMQFt",
+					"display_url": "pic.twitter.com/E9RzwxMQFt",
+					"expanded_url": "https://twitter.com/Shazam/status/1313889181685309440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 983,
+							"h": 553,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 983,
+							"h": 553,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313889086319419400,
+					"id_str": "1313889086319419392",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/EjvfKahU4AAWRUJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjvfKahU4AAWRUJ.jpg",
+					"url": "https://t.co/E9RzwxMQFt",
+					"display_url": "pic.twitter.com/E9RzwxMQFt",
+					"expanded_url": "https://twitter.com/Shazam/status/1313889181685309440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 983,
+							"h": 553,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 983,
+							"h": 553,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14772687,
+			"id_str": "14772687",
+			"name": "Shazam",
+			"screen_name": "Shazam",
+			"location": "Worldwide",
+			"description": "#BlackLivesMatter",
+			"url": "https://t.co/RIQ4qDim2d",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RIQ4qDim2d",
+							"expanded_url": "https://www.shazam.com/apps",
+							"display_url": "shazam.com/apps",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 652398,
+			"friends_count": 6442,
+			"listed_count": 2009,
+			"created_at": "Wed May 14 13:03:08 +0000 2008",
+			"favourites_count": 10053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18007,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0088FF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999000042479337472/kZ5Avb6G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999000042479337472/kZ5Avb6G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14772687/1576088329",
+			"profile_link_color": "0088FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4557,
+		"favorite_count": 14766,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Comment with your favorite track from @BLACKPINK's new album!! 👇 #TheAlbum https://t.co/E9RzwxMQFt"
+	},
+	{
+		"created_at": "Tue Oct 13 04:46:27 +0000 2020",
+		"id": 1315875588683387000,
+		"id_str": "1315876531231621123",
+		"full_text": "🧡2020 ZANDARI UNREAL KOREAN ARTIST LINEUP🧡\n2020 잔다리 언리얼 국내 아티스트 라인업을 공개합니다!\n\nREMEMBER, ZANDARI IS REAL.\n               \n잔다리페스타 2020 잔다리 언리얼\nZANDARI FESTA 2020 ZANDARI UNREAL\n               \n2020.10.23(FRI) - 25(SUN)\nhttps://t.co/Iz3sXTJ7hn https://t.co/fjLXpeRQAU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Iz3sXTJ7hn",
+					"expanded_url": "http://live.presented.kr",
+					"display_url": "live.presented.kr",
+					"indices": [
+						216,
+						239
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1315875580156416000,
+					"id_str": "1315875580156416004",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/EkLt3kvVkAQEre6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkLt3kvVkAQEre6.jpg",
+					"url": "https://t.co/fjLXpeRQAU",
+					"display_url": "pic.twitter.com/fjLXpeRQAU",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1315875588683386881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1358,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315875580156416000,
+					"id_str": "1315875580156416004",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/EkLt3kvVkAQEre6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkLt3kvVkAQEre6.jpg",
+					"url": "https://t.co/fjLXpeRQAU",
+					"display_url": "pic.twitter.com/fjLXpeRQAU",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1315875588683386881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1358,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 822764023,
+			"id_str": "822764023",
+			"name": "Zandari Festa",
+			"screen_name": "ZandariFesta",
+			"location": "대한민국 홍대",
+			"description": "Since 2012 ㅣShowcase Festival & ConferencesㅣOctober 23rd -25th 2020 📍Hongdae, Seoul South Korea facebook @zandarifesta Instagram @zandarifesta",
+			"url": "https://t.co/TedsJgO7by",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TedsJgO7by",
+							"expanded_url": "http://www.zandarifesta.com",
+							"display_url": "zandarifesta.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2751,
+			"friends_count": 1766,
+			"listed_count": 39,
+			"created_at": "Fri Sep 14 05:51:51 +0000 2012",
+			"favourites_count": 842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4702,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240935459586334720/K6esD7zb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240935459586334720/K6esD7zb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/822764023/1584697045",
+			"profile_link_color": "7D7D7D",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🧡2020 ZANDARI UNREAL KOREAN ARTIST LINEUP🧡\n2020 잔다리 언리얼 국내 아티스트 라인업을 공개합니다!\n\nREMEMBER, ZANDARI IS REAL.\n               \n잔다리페스타 2020 잔다리 언리얼\nZANDARI FESTA 2020 ZANDARI UNREAL\n               \n2020.10.23(FRI) - 25(SUN)\nhttps://t.co/Iz3sXTJ7hn https://t.co/fjLXpeRQAU"
+	},
+	{
 		"created_at": "Tue Oct 13 03:27:12 +0000 2020",
 		"id": 1315851311166836700,
 		"id_str": "1315856587391725568",
