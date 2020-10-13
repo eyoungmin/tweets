@@ -1,6 +1,1755 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 13 14:30:43 +0000 2020",
+		"id": 1316023567121707000,
+		"id_str": "1316023567121707009",
+		"full_text": "(여자)아이들이 우기 때문에 인내심이 대폭발해버렸다 | 마피아댄스 | MAFIA DANCE | Senorita | (G)I-DLE \nhttps://t.co/5P6pb1OtdU\n\n딩고도 좋음. 그러나 큐브는 안 됨. 하여튼 절대 안 됨, 큐브는 콘텐츠 제작하지말고 제발 외주 주세요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5P6pb1OtdU",
+					"expanded_url": "https://youtu.be/yj4-s_UEQqU",
+					"display_url": "youtu.be/yj4-s_UEQqU",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1316020461055041500,
+		"in_reply_to_status_id_str": "1316020461055041536",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 968,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "(여자)아이들이 우기 때문에 인내심이 대폭발해버렸다 | 마피아댄스 | MAFIA DANCE | Senorita | (G)I-DLE \nhttps://t.co/5P6pb1OtdU\n\n딩고도 좋음. 그러나 큐브는 안 됨. 하여튼 절대 안 됨, 큐브는 콘텐츠 제작하지말고 제발 외주 주세요."
+	},
+	{
+		"created_at": "Tue Oct 13 14:27:19 +0000 2020",
+		"id": 1316015857974169600,
+		"id_str": "1316022712188366849",
+		"full_text": "[KCON:TACT ALL-ACCESS]\n\nEp 12 feat. #CHUNGHA\nQueen Chungha steals the spotlight and reveals stories behind this epic comeback!\n\nWatch it on MNET K-POP @ 11 PM KST\n\n▶ https://t.co/KKr6hxW73M\n\n#KCONTACTALLACCESS #YouTubeOriginals https://t.co/I0musi6mmS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						36,
+						44
+					]
+				},
+				{
+					"text": "KCONTACTALLACCESS",
+					"indices": [
+						191,
+						209
+					]
+				},
+				{
+					"text": "YouTubeOriginals",
+					"indices": [
+						210,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KKr6hxW73M",
+					"expanded_url": "https://youtu.be/z8gHmFV2NDs",
+					"display_url": "youtu.be/z8gHmFV2NDs",
+					"indices": [
+						166,
+						189
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1316001331451097000,
+					"id_str": "1316001331451097088",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1316001331451097088/pu/img/Pih46tII9uUBWpVh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1316001331451097088/pu/img/Pih46tII9uUBWpVh.jpg",
+					"url": "https://t.co/I0musi6mmS",
+					"display_url": "pic.twitter.com/I0musi6mmS",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1316015857974169603/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316001331451097000,
+					"id_str": "1316001331451097088",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1316001331451097088/pu/img/Pih46tII9uUBWpVh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1316001331451097088/pu/img/Pih46tII9uUBWpVh.jpg",
+					"url": "https://t.co/I0musi6mmS",
+					"display_url": "pic.twitter.com/I0musi6mmS",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1316015857974169603/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29988,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1316001331451097088/pu/pl/2k9wWBJENeP-bPf1.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316001331451097088/pu/vid/480x270/hhsQLMMHf38IPtpg.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316001331451097088/pu/vid/1280x720/S_kb5P87VKlBOhP9.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316001331451097088/pu/vid/640x360/-7ke27ZEHHcqk3aB.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/ZHcd08tZVb",
+			"url": "https://t.co/reTg513UFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg513UFX",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZHcd08tZVb",
+							"expanded_url": "https://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								31,
+								54
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 286507,
+			"friends_count": 0,
+			"listed_count": 1746,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1263,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 315,
+		"favorite_count": 1330,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT ALL-ACCESS]\n\nEp 12 feat. #CHUNGHA\nQueen Chungha steals the spotlight and reveals stories behind this epic comeback!\n\nWatch it on MNET K-POP @ 11 PM KST\n\n▶ https://t.co/KKr6hxW73M\n\n#KCONTACTALLACCESS #YouTubeOriginals https://t.co/I0musi6mmS"
+	},
+	{
+		"created_at": "Tue Oct 13 14:27:17 +0000 2020",
+		"id": 1316015840026796000,
+		"id_str": "1316022702746992646",
+		"full_text": "[KCON:TACT ALL-ACCESS]\n\n유튜브 오리지널 12화 Feat. #CHUNGHA\n어디서도 보지 못한 #청하 가 준비한 특별한 무대! 🎁\n히든 스테이지가 공개되기까지의 모든 것\n\nMNET K-POP 유튜브 채널에서 지금 감상하세요!\n\n▶ https://t.co/KKr6hxW73M\n\n#KCONTACTALLACCESS #YouTubeOriginals https://t.co/EvYMv1RODU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						43,
+						51
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "KCONTACTALLACCESS",
+					"indices": [
+						164,
+						182
+					]
+				},
+				{
+					"text": "YouTubeOriginals",
+					"indices": [
+						183,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KKr6hxW73M",
+					"expanded_url": "https://youtu.be/z8gHmFV2NDs",
+					"display_url": "youtu.be/z8gHmFV2NDs",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1316001478415270000,
+					"id_str": "1316001478415269893",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1316001478415269893/pu/img/3fnUnoEv1_MHb1kC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1316001478415269893/pu/img/3fnUnoEv1_MHb1kC.jpg",
+					"url": "https://t.co/EvYMv1RODU",
+					"display_url": "pic.twitter.com/EvYMv1RODU",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1316015840026796032/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316001478415270000,
+					"id_str": "1316001478415269893",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1316001478415269893/pu/img/3fnUnoEv1_MHb1kC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1316001478415269893/pu/img/3fnUnoEv1_MHb1kC.jpg",
+					"url": "https://t.co/EvYMv1RODU",
+					"display_url": "pic.twitter.com/EvYMv1RODU",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1316015840026796032/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29988,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1316001478415269893/pu/pl/8QTOmzYRW_MRjAkP.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316001478415269893/pu/vid/480x270/kCYWZd_Gt2pPm6Il.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316001478415269893/pu/vid/640x360/QWT3dr7o--AMTIBV.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316001478415269893/pu/vid/1280x720/CJKz4KX76RVVtAPU.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/ZHcd08tZVb",
+			"url": "https://t.co/reTg513UFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg513UFX",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZHcd08tZVb",
+							"expanded_url": "https://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								31,
+								54
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 286507,
+			"friends_count": 0,
+			"listed_count": 1746,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1263,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 213,
+		"favorite_count": 1010,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[KCON:TACT ALL-ACCESS]\n\n유튜브 오리지널 12화 Feat. #CHUNGHA\n어디서도 보지 못한 #청하 가 준비한 특별한 무대! 🎁\n히든 스테이지가 공개되기까지의 모든 것\n\nMNET K-POP 유튜브 채널에서 지금 감상하세요!\n\n▶ https://t.co/KKr6hxW73M\n\n#KCONTACTALLACCESS #YouTubeOriginals https://t.co/EvYMv1RODU"
+	},
+	{
+		"created_at": "Tue Oct 13 14:27:10 +0000 2020",
+		"id": 1316015839917736000,
+		"id_str": "1316022672430518272",
+		"full_text": "[KCON:TACT ALL-ACCESS]\n\nYouTubeオリジナル第12話 Feat. #CHUNGHA\nここでしか見れない #CHUNGHA が用意した特別なステージ！🎁\n秘密ステージが公開されるまでの全て\n\nMNET K-POP YouTubeチャンネルから今すぐご覧ください！\n\n▶ https://t.co/KKr6hxW73M\n\n#KCONTACTALLACCESS #YouTubeOriginals https://t.co/aI1If6EYGF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						47,
+						55
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						66,
+						74
+					]
+				},
+				{
+					"text": "KCONTACTALLACCESS",
+					"indices": [
+						173,
+						191
+					]
+				},
+				{
+					"text": "YouTubeOriginals",
+					"indices": [
+						192,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KKr6hxW73M",
+					"expanded_url": "https://youtu.be/z8gHmFV2NDs",
+					"display_url": "youtu.be/z8gHmFV2NDs",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1316001651421974500,
+					"id_str": "1316001651421974530",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1316001651421974530/pu/img/EuXV0qPqREPC_LuI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1316001651421974530/pu/img/EuXV0qPqREPC_LuI.jpg",
+					"url": "https://t.co/aI1If6EYGF",
+					"display_url": "pic.twitter.com/aI1If6EYGF",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1316015839917735936/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316001651421974500,
+					"id_str": "1316001651421974530",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1316001651421974530/pu/img/EuXV0qPqREPC_LuI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1316001651421974530/pu/img/EuXV0qPqREPC_LuI.jpg",
+					"url": "https://t.co/aI1If6EYGF",
+					"display_url": "pic.twitter.com/aI1If6EYGF",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1316015839917735936/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29988,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316001651421974530/pu/vid/640x360/Ksbji5YgXOCXcueF.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316001651421974530/pu/vid/480x270/JJ5aNctCj4yeIxRl.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316001651421974530/pu/vid/1280x720/Ppnjxh4bMumyiGBj.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1316001651421974530/pu/pl/eFzOnSmdMVS4aN9W.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/ZHcd08tZVb",
+			"url": "https://t.co/reTg513UFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg513UFX",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZHcd08tZVb",
+							"expanded_url": "https://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								31,
+								54
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 286507,
+			"friends_count": 0,
+			"listed_count": 1746,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1263,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 118,
+		"favorite_count": 840,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[KCON:TACT ALL-ACCESS]\n\nYouTubeオリジナル第12話 Feat. #CHUNGHA\nここでしか見れない #CHUNGHA が用意した特別なステージ！🎁\n秘密ステージが公開されるまでの全て\n\nMNET K-POP YouTubeチャンネルから今すぐご覧ください！\n\n▶ https://t.co/KKr6hxW73M\n\n#KCONTACTALLACCESS #YouTubeOriginals https://t.co/aI1If6EYGF"
+	},
+	{
+		"created_at": "Tue Oct 13 14:27:05 +0000 2020",
+		"id": 1316000857922719700,
+		"id_str": "1316022650565652480",
+		"full_text": "#Orbit, don’t you wish to witness #LOONA’s preparations for their 1st online show?👀\nGuess what?!\nLOONA will go live on Oct. 16, 10PM KST for the show rehearsal!💣\n\nAll ticket purchasers will get access to this live session!\n🎫 https://t.co/9wpnCmqT8G\n\n#LOONA_Midnight #이달의소녀 https://t.co/JZ69gnOQKh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						34,
+						40
+					]
+				},
+				{
+					"text": "LOONA_Midnight",
+					"indices": [
+						250,
+						265
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						266,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9wpnCmqT8G",
+					"expanded_url": "https://mmt.fans/izgF",
+					"display_url": "mmt.fans/izgF",
+					"indices": [
+						225,
+						248
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1316000856018387000,
+					"id_str": "1316000856018386944",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EkNfzlsWAAAslNe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkNfzlsWAAAslNe.jpg",
+					"url": "https://t.co/JZ69gnOQKh",
+					"display_url": "pic.twitter.com/JZ69gnOQKh",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1316000857922719746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 652,
+							"h": 296,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 652,
+							"h": 296,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 652,
+							"h": 296,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316000856018387000,
+					"id_str": "1316000856018386944",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EkNfzlsWAAAslNe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkNfzlsWAAAslNe.jpg",
+					"url": "https://t.co/JZ69gnOQKh",
+					"display_url": "pic.twitter.com/JZ69gnOQKh",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1316000857922719746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 652,
+							"h": 296,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 652,
+							"h": 296,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 652,
+							"h": 296,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. \nSTOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126434,
+			"friends_count": 111,
+			"listed_count": 252,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1592014887",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1354,
+		"favorite_count": 5452,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Orbit, don’t you wish to witness #LOONA’s preparations for their 1st online show?👀\nGuess what?!\nLOONA will go live on Oct. 16, 10PM KST for the show rehearsal!💣\n\nAll ticket purchasers will get access to this live session!\n🎫 https://t.co/9wpnCmqT8G\n\n#LOONA_Midnight #이달의소녀 https://t.co/JZ69gnOQKh"
+	},
+	{
+		"created_at": "Tue Oct 13 14:26:57 +0000 2020",
+		"id": 1316022617430659000,
+		"id_str": "1316022617430659078",
+		"full_text": "❝ 당초 정부와 업계가 전국적으로 투입을 약속한 분류 작업 인력은 2067명입니다.\n\n하지만 택배노조가 파악한 실제 투입 인원은 350명에 불과합니다.\n\n이런 지원도 사흘 뒤면 끝납니다. https://t.co/kvg3g66WCE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kvg3g66WCE",
+					"expanded_url": "https://twitter.com/JTBC_news/status/1315997676433862657",
+					"display_url": "twitter.com/JTBC_news/stat…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 968,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1315997676433862700,
+		"quoted_status_id_str": "1315997676433862657",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kvg3g66WCE",
+			"expanded": "https://twitter.com/JTBC_news/status/1315997676433862657",
+			"display": "twitter.com/JTBC_news/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 13 12:47:50 +0000 2020",
+			"id": 1315997676433862700,
+			"id_str": "1315997676433862657",
+			"full_text": "#르포 택배 분류 인력 지원한다더니…고작 350명만 https://t.co/ObEpeapGwX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				52
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "르포",
+						"indices": [
+							0,
+							3
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ObEpeapGwX",
+						"expanded_url": "http://news.jtbc.joins.com/html/621/NB11973621.html",
+						"display_url": "news.jtbc.joins.com/html/621/NB119…",
+						"indices": [
+							29,
+							52
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 397672819,
+				"id_str": "397672819",
+				"name": "JTBC 뉴스",
+				"screen_name": "JTBC_news",
+				"location": "서울시 마포구 상암산로 48-6",
+				"description": "JTBC 뉴스 공식 트위터입니다!!\n이곳은 트친 여러분의 이야기와 목소리에 귀 기울이는 곳입니다.\n많은 관심과 사랑 부탁드립니다. ^^",
+				"url": "http://t.co/CrCzofZgOd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/CrCzofZgOd",
+								"expanded_url": "http://facebook.com/jtbcnews",
+								"display_url": "facebook.com/jtbcnews",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 603943,
+				"friends_count": 43991,
+				"listed_count": 2140,
+				"created_at": "Tue Oct 25 00:50:16 +0000 2011",
+				"favourites_count": 302,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 78110,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "A9A9A9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1247039086713425922/oOmR2jkc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247039086713425922/oOmR2jkc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/397672819/1586971432",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 45,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❝ 당초 정부와 업계가 전국적으로 투입을 약속한 분류 작업 인력은 2067명입니다.\n\n하지만 택배노조가 파악한 실제 투입 인원은 350명에 불과합니다.\n\n이런 지원도 사흘 뒤면 끝납니다. https://t.co/kvg3g66WCE"
+	},
+	{
+		"created_at": "Tue Oct 13 14:26:31 +0000 2020",
+		"id": 1315997676433862700,
+		"id_str": "1316022508663971842",
+		"full_text": "#르포 택배 분류 인력 지원한다더니…고작 350명만 https://t.co/ObEpeapGwX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "르포",
+					"indices": [
+						0,
+						3
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ObEpeapGwX",
+					"expanded_url": "http://news.jtbc.joins.com/html/621/NB11973621.html",
+					"display_url": "news.jtbc.joins.com/html/621/NB119…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 397672819,
+			"id_str": "397672819",
+			"name": "JTBC 뉴스",
+			"screen_name": "JTBC_news",
+			"location": "서울시 마포구 상암산로 48-6",
+			"description": "JTBC 뉴스 공식 트위터입니다!!\n이곳은 트친 여러분의 이야기와 목소리에 귀 기울이는 곳입니다.\n많은 관심과 사랑 부탁드립니다. ^^",
+			"url": "http://t.co/CrCzofZgOd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/CrCzofZgOd",
+							"expanded_url": "http://facebook.com/jtbcnews",
+							"display_url": "facebook.com/jtbcnews",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603943,
+			"friends_count": 43991,
+			"listed_count": 2140,
+			"created_at": "Tue Oct 25 00:50:16 +0000 2011",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 78110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A9A9A9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247039086713425922/oOmR2jkc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247039086713425922/oOmR2jkc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/397672819/1586971432",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#르포 택배 분류 인력 지원한다더니…고작 350명만 https://t.co/ObEpeapGwX"
+	},
+	{
+		"created_at": "Tue Oct 13 14:25:43 +0000 2020",
+		"id": 1316020220880810000,
+		"id_str": "1316022309023440896",
+		"full_text": "https://t.co/GMEEoEZmDc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GMEEoEZmDc",
+					"expanded_url": "https://youtu.be/RdzvyvGcOYQ",
+					"display_url": "youtu.be/RdzvyvGcOYQ",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1316020219194667000,
+		"in_reply_to_status_id_str": "1316020219194667010",
+		"in_reply_to_user_id": 1265873983213191200,
+		"in_reply_to_user_id_str": "1265873983213191170",
+		"in_reply_to_screen_name": "leenalchi",
+		"user": {
+			"id": 1265873983213191200,
+			"id_str": "1265873983213191170",
+			"name": "이날치LEENALCHI_official",
+			"screen_name": "leenalchi",
+			"location": "",
+			"description": "이날치 공식 계정입니다. \nLEENALCHI official.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 373,
+			"friends_count": 1,
+			"listed_count": 5,
+			"created_at": "Thu May 28 05:15:46 +0000 2020",
+			"favourites_count": 111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265874850683338752/lcPuagZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265874850683338752/lcPuagZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1265873983213191170/1590651012",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/GMEEoEZmDc"
+	},
+	{
+		"created_at": "Tue Oct 13 14:25:41 +0000 2020",
+		"id": 1316020219194667000,
+		"id_str": "1316022299821182976",
+		"full_text": "https://t.co/RW9LHDpfk0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RW9LHDpfk0",
+					"expanded_url": "https://youtu.be/R2GeUF_xm1Y",
+					"display_url": "youtu.be/R2GeUF_xm1Y",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1316020217328222200,
+		"in_reply_to_status_id_str": "1316020217328222209",
+		"in_reply_to_user_id": 1265873983213191200,
+		"in_reply_to_user_id_str": "1265873983213191170",
+		"in_reply_to_screen_name": "leenalchi",
+		"user": {
+			"id": 1265873983213191200,
+			"id_str": "1265873983213191170",
+			"name": "이날치LEENALCHI_official",
+			"screen_name": "leenalchi",
+			"location": "",
+			"description": "이날치 공식 계정입니다. \nLEENALCHI official.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 373,
+			"friends_count": 1,
+			"listed_count": 5,
+			"created_at": "Thu May 28 05:15:46 +0000 2020",
+			"favourites_count": 111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265874850683338752/lcPuagZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265874850683338752/lcPuagZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1265873983213191170/1590651012",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/RW9LHDpfk0"
+	},
+	{
+		"created_at": "Tue Oct 13 14:25:39 +0000 2020",
+		"id": 1316020217328222200,
+		"id_str": "1316022289733885953",
+		"full_text": "https://t.co/OdCtBrQ2kC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OdCtBrQ2kC",
+					"expanded_url": "https://youtu.be/CitIMlaa8To",
+					"display_url": "youtu.be/CitIMlaa8To",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1316020215918940200,
+		"in_reply_to_status_id_str": "1316020215918940161",
+		"in_reply_to_user_id": 1265873983213191200,
+		"in_reply_to_user_id_str": "1265873983213191170",
+		"in_reply_to_screen_name": "leenalchi",
+		"user": {
+			"id": 1265873983213191200,
+			"id_str": "1265873983213191170",
+			"name": "이날치LEENALCHI_official",
+			"screen_name": "leenalchi",
+			"location": "",
+			"description": "이날치 공식 계정입니다. \nLEENALCHI official.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 373,
+			"friends_count": 1,
+			"listed_count": 5,
+			"created_at": "Thu May 28 05:15:46 +0000 2020",
+			"favourites_count": 111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265874850683338752/lcPuagZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265874850683338752/lcPuagZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1265873983213191170/1590651012",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/OdCtBrQ2kC"
+	},
+	{
+		"created_at": "Tue Oct 13 14:25:36 +0000 2020",
+		"id": 1316020215918940200,
+		"id_str": "1316022279864631309",
+		"full_text": "여러분의 사랑을 듬뿍 받은 한국관광공사 영상 2탄이 공개되었습니다!\n강릉편: 약일레라\n목포편: 별주부가 울며 여짜오되\n안동편: 신의 고향\nImagine Your Korea 유튜브에서 풀영상을 확인하세요!!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1316020213435961300,
+		"in_reply_to_status_id_str": "1316020213435961346",
+		"in_reply_to_user_id": 1265873983213191200,
+		"in_reply_to_user_id_str": "1265873983213191170",
+		"in_reply_to_screen_name": "leenalchi",
+		"user": {
+			"id": 1265873983213191200,
+			"id_str": "1265873983213191170",
+			"name": "이날치LEENALCHI_official",
+			"screen_name": "leenalchi",
+			"location": "",
+			"description": "이날치 공식 계정입니다. \nLEENALCHI official.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 373,
+			"friends_count": 1,
+			"listed_count": 5,
+			"created_at": "Thu May 28 05:15:46 +0000 2020",
+			"favourites_count": 111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265874850683338752/lcPuagZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265874850683338752/lcPuagZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1265873983213191170/1590651012",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "여러분의 사랑을 듬뿍 받은 한국관광공사 영상 2탄이 공개되었습니다!\n강릉편: 약일레라\n목포편: 별주부가 울며 여짜오되\n안동편: 신의 고향\nImagine Your Korea 유튜브에서 풀영상을 확인하세요!!"
+	},
+	{
 		"created_at": "Tue Oct 13 13:45:37 +0000 2020",
 		"id": 1316000739949310000,
 		"id_str": "1316012215523180544",
