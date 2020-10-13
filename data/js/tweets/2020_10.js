@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 13 03:27:12 +0000 2020",
+		"id": 1315851311166836700,
+		"id_str": "1315856587391725568",
+		"full_text": "✔️\n\n🔗 https://t.co/yjI50qGSrl\n\n#청하 #CHUNGHA\n#펜타곤 #PENTAGON\n#키노 #KINO @CUBE_PTG\n#데이지챌린지🌼 #Daisy_Challenge🌼 https://t.co/VhYS9MsXeb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						35,
+						43
+					]
+				},
+				{
+					"text": "펜타곤",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "PENTAGON",
+					"indices": [
+						49,
+						58
+					]
+				},
+				{
+					"text": "키노",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "KINO",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "데이지챌린지",
+					"indices": [
+						79,
+						86
+					]
+				},
+				{
+					"text": "Daisy_Challenge",
+					"indices": [
+						88,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CUBE_PTG",
+					"name": "PENTAGON·펜타곤",
+					"id": 717905524444889100,
+					"id_str": "717905524444889088",
+					"indices": [
+						69,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yjI50qGSrl",
+					"expanded_url": "https://bit.ly/3dlssHW",
+					"display_url": "bit.ly/3dlssHW",
+					"indices": [
+						6,
+						29
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1315851241814016000,
+					"id_str": "1315851241814016000",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1315851241814016000/pu/img/UMSttPZfkstYgGPi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1315851241814016000/pu/img/UMSttPZfkstYgGPi.jpg",
+					"url": "https://t.co/VhYS9MsXeb",
+					"display_url": "pic.twitter.com/VhYS9MsXeb",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1315851311166836738/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315851241814016000,
+					"id_str": "1315851241814016000",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1315851241814016000/pu/img/UMSttPZfkstYgGPi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1315851241814016000/pu/img/UMSttPZfkstYgGPi.jpg",
+					"url": "https://t.co/VhYS9MsXeb",
+					"display_url": "pic.twitter.com/VhYS9MsXeb",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1315851311166836738/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 14100,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1315851241814016000/pu/vid/360x640/fiTB4XCg3m4uzGWc.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1315851241814016000/pu/vid/720x1280/jbeaHevnWAu21qCh.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1315851241814016000/pu/pl/TX66Yv0axzxkhjGa.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1315851241814016000/pu/vid/320x568/c6Wt5kxsFXAsFSBn.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/ZHcd08tZVb",
+			"url": "https://t.co/reTg513UFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg513UFX",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZHcd08tZVb",
+							"expanded_url": "https://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								31,
+								54
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 286347,
+			"friends_count": 0,
+			"listed_count": 1744,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1258,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1909,
+		"favorite_count": 3987,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "✔️\n\n🔗 https://t.co/yjI50qGSrl\n\n#청하 #CHUNGHA\n#펜타곤 #PENTAGON\n#키노 #KINO @CUBE_PTG\n#데이지챌린지🌼 #Daisy_Challenge🌼 https://t.co/VhYS9MsXeb"
+	},
+	{
 		"created_at": "Tue Oct 13 03:01:30 +0000 2020",
 		"id": 1315850118407639000,
 		"id_str": "1315850118407639040",
