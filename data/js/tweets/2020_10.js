@@ -1,6 +1,974 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 13 08:45:43 +0000 2020",
+		"id": 1315932788651032600,
+		"id_str": "1315936743313547267",
+		"full_text": "[#어쩌다화보] #ViVi \n\n&lt;비사이드 2 : 이달의 소녀 편&gt;\n🍓10월 16일 저녁 5시 첫 방송🍓\n\n#B_Side2_LOOΠΔ\n#B_Side2_이달의소녀\n\n#이달의소녀 #LOONA #Midnight @loonatheworld https://t.co/4TdkT9Kem5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "어쩌다화보",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "ViVi",
+					"indices": [
+						9,
+						14
+					]
+				},
+				{
+					"text": "B_Side2_LOOΠΔ",
+					"indices": [
+						65,
+						79
+					]
+				},
+				{
+					"text": "B_Side2_이달의소녀",
+					"indices": [
+						80,
+						94
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						110,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						120,
+						134
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1315895224401498000,
+					"id_str": "1315895224401498112",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EkMQiSZU8AATocn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkMQiSZU8AATocn.jpg",
+					"url": "https://t.co/4TdkT9Kem5",
+					"display_url": "pic.twitter.com/4TdkT9Kem5",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1315932788651032577/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315895224401498000,
+					"id_str": "1315895224401498112",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EkMQiSZU8AATocn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkMQiSZU8AATocn.jpg",
+					"url": "https://t.co/4TdkT9Kem5",
+					"display_url": "pic.twitter.com/4TdkT9Kem5",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1315932788651032577/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 6040,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315895224401498112/vid/720x1280/oYSdzHAjbKG5iqiB.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1315895224401498112/pl/nhJ31I4DnxjUpiQI.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315895224401498112/vid/360x640/EzK_2qQ9QrWW-F37.mp4?tag=13"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315895224401498112/vid/320x568/YUV5NcPhR4qHfbjR.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "<비사이드 2 : 이달의 소녀 편> 10월 16일 저녁 5시 첫 방송!",
+						"description": "<비사이드 2 : 이달의 소녀 편> 10월 16일 저녁 5시 첫 방송!",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/LBtNjC1e4BI"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "🍓비사이드 2 : 이달의 소녀 편🍓\n10월 16일 저녁 5시 첫 방송!\n\n💬 뮤플리는 지금 #딸기벽돌엔터 인턴 투잡 중..",
+			"url": "https://t.co/npNrfLZtFs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/npNrfLZtFs",
+							"expanded_url": "https://www.youtube.com/channel/UC9LcN9O8amxNcfu0fwGqwgQ",
+							"display_url": "youtube.com/channel/UC9LcN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16655,
+			"friends_count": 58,
+			"listed_count": 27,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1597044457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1195,
+		"favorite_count": 2024,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#어쩌다화보] #ViVi \n\n&lt;비사이드 2 : 이달의 소녀 편&gt;\n🍓10월 16일 저녁 5시 첫 방송🍓\n\n#B_Side2_LOOΠΔ\n#B_Side2_이달의소녀\n\n#이달의소녀 #LOONA #Midnight @loonatheworld https://t.co/4TdkT9Kem5"
+	},
+	{
+		"created_at": "Tue Oct 13 08:20:44 +0000 2020",
+		"id": 1315925239998681000,
+		"id_str": "1315930458312458242",
+		"full_text": "[#어쩌다화보] #희진 #HeeJin \n\n&lt;비사이드 2 : 이달의 소녀 편&gt;\n🍓10월 16일 저녁 5시 첫 방송🍓\n\n#B_Side2_LOOΠΔ\n#B_Side2_이달의소녀\n\n#이달의소녀 #LOONA #Midnight @loonatheworld https://t.co/5vpZGWj2FC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "어쩌다화보",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						13,
+						20
+					]
+				},
+				{
+					"text": "B_Side2_LOOΠΔ",
+					"indices": [
+						71,
+						85
+					]
+				},
+				{
+					"text": "B_Side2_이달의소녀",
+					"indices": [
+						86,
+						100
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						116,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						126,
+						140
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1315895134358175700,
+					"id_str": "1315895134358175744",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EkMQeVfVkAAfYrP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkMQeVfVkAAfYrP.jpg",
+					"url": "https://t.co/5vpZGWj2FC",
+					"display_url": "pic.twitter.com/5vpZGWj2FC",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1315925239998681090/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315895134358175700,
+					"id_str": "1315895134358175744",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EkMQeVfVkAAfYrP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkMQeVfVkAAfYrP.jpg",
+					"url": "https://t.co/5vpZGWj2FC",
+					"display_url": "pic.twitter.com/5vpZGWj2FC",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1315925239998681090/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 6040,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1315895134358175744/pl/LgbgFKZn4HdwvABa.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315895134358175744/vid/720x1280/Y3Gv8cty3CzyEDLN.mp4?tag=13"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315895134358175744/vid/320x568/X3uIxZkwc9ojIMeQ.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315895134358175744/vid/360x640/c_ZXXvvLMhSe23cS.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "<비사이드 2 : 이달의 소녀 편> 10월 16일 저녁 5시 첫 방송!",
+						"description": "<비사이드 2 : 이달의 소녀 편> 10월 16일 저녁 5시 첫 방송!",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/LBtNjC1e4BI"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "🍓비사이드 2 : 이달의 소녀 편🍓\n10월 16일 저녁 5시 첫 방송!\n\n💬 뮤플리는 지금 #딸기벽돌엔터 인턴 투잡 중..",
+			"url": "https://t.co/npNrfLZtFs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/npNrfLZtFs",
+							"expanded_url": "https://www.youtube.com/channel/UC9LcN9O8amxNcfu0fwGqwgQ",
+							"display_url": "youtube.com/channel/UC9LcN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16655,
+			"friends_count": 58,
+			"listed_count": 27,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1597044457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1791,
+		"favorite_count": 3108,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#어쩌다화보] #희진 #HeeJin \n\n&lt;비사이드 2 : 이달의 소녀 편&gt;\n🍓10월 16일 저녁 5시 첫 방송🍓\n\n#B_Side2_LOOΠΔ\n#B_Side2_이달의소녀\n\n#이달의소녀 #LOONA #Midnight @loonatheworld https://t.co/5vpZGWj2FC"
+	},
+	{
+		"created_at": "Tue Oct 13 08:19:40 +0000 2020",
+		"id": 1315927920951488500,
+		"id_str": "1315930188954304512",
+		"full_text": "[#부퀘스트 레드벨벳 티저1 #아이린 편🌹]\n\n리마인드 트립 #RedVelvet 의 부퀘스트🚘\n\n첫번째 티저 주인공은 얼굴천재 아이린🥰\n화면도 뚫고 나오는 미모😍\n#레드벨벳 의 뒷바라지를 책임진다❗️\n\n요리하는 아이린 #아이돌라이브 에서 만나요\n🍷링크:  https://t.co/XdEAmaZD6h\n\n@RVsmtown https://t.co/L2501IqMl9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "부퀘스트",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						16,
+						20
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "아이돌라이브",
+					"indices": [
+						122,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						168,
+						177
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XdEAmaZD6h",
+					"expanded_url": "http://idollive.page.link/L5sjibwpYUsJq1C59",
+					"display_url": "idollive.page.link/L5sjibwpYUsJq1…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1315927722074366000,
+					"id_str": "1315927722074365952",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1315927722074365952/pu/img/UwP1lfOBRS_NG5F6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1315927722074365952/pu/img/UwP1lfOBRS_NG5F6.jpg",
+					"url": "https://t.co/L2501IqMl9",
+					"display_url": "pic.twitter.com/L2501IqMl9",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1315927920951488512/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315927722074366000,
+					"id_str": "1315927722074365952",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1315927722074365952/pu/img/UwP1lfOBRS_NG5F6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1315927722074365952/pu/img/UwP1lfOBRS_NG5F6.jpg",
+					"url": "https://t.co/L2501IqMl9",
+					"display_url": "pic.twitter.com/L2501IqMl9",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1315927920951488512/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 16178,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1315927722074365952/pu/vid/640x360/Sz6joXFjYBZyHXaH.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1315927722074365952/pu/pl/vGitd42K55AFfNC-.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1315927722074365952/pu/vid/1280x720/44WaqqkP1EVtXDmb.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1315927722074365952/pu/vid/480x270/xJ3kBZ3AQTfp7z8f.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093324810904432600,
+			"id_str": "1093324810904432640",
+			"name": "아이돌Live",
+			"screen_name": "uplusidollive",
+			"location": "Republic of Korea",
+			"description": "'좋아하는 아이돌 무대를 눈앞에서 보는 것처럼'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72885,
+			"friends_count": 6,
+			"listed_count": 71,
+			"created_at": "Thu Feb 07 01:45:22 +0000 2019",
+			"favourites_count": 116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093324810904432640/1602464402",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1149,
+		"favorite_count": 1169,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#부퀘스트 레드벨벳 티저1 #아이린 편🌹]\n\n리마인드 트립 #RedVelvet 의 부퀘스트🚘\n\n첫번째 티저 주인공은 얼굴천재 아이린🥰\n화면도 뚫고 나오는 미모😍\n#레드벨벳 의 뒷바라지를 책임진다❗️\n\n요리하는 아이린 #아이돌라이브 에서 만나요\n🍷링크:  https://t.co/XdEAmaZD6h\n\n@RVsmtown https://t.co/L2501IqMl9"
+	},
+	{
+		"created_at": "Tue Oct 13 08:11:28 +0000 2020",
+		"id": 1315928125276999700,
+		"id_str": "1315928125276999680",
+		"full_text": "아이돌 쇼케이스에도 이 분이 나오면 아쉽다는 생각을 한다. 일단 쇼케이스이니 앨범 이야기를 영양가 있게 뽑아야 하는데 앨범컨셉에 대한 이야기를 하다 사적인 이야기를 하여 혼합시키는 식이다. 외적 변화를 이야기하면 다음은 앨범에 대한 다른 이야기여야 하는데 맥락이 툭툭 끊긴다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1315927409871351800,
+		"in_reply_to_status_id_str": "1315927409871351808",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 968,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "아이돌 쇼케이스에도 이 분이 나오면 아쉽다는 생각을 한다. 일단 쇼케이스이니 앨범 이야기를 영양가 있게 뽑아야 하는데 앨범컨셉에 대한 이야기를 하다 사적인 이야기를 하여 혼합시키는 식이다. 외적 변화를 이야기하면 다음은 앨범에 대한 다른 이야기여야 하는데 맥락이 툭툭 끊긴다."
+	},
+	{
+		"created_at": "Tue Oct 13 08:08:37 +0000 2020",
+		"id": 1315927409871351800,
+		"id_str": "1315927409871351808",
+		"full_text": "비교하고 싶지 않은데 이 분은 매번 자꾸 주제에서 벗어나는 이야기를 하고 질문도 대답하기 난감한 질문을 던져 곤란하게 한다. 게다가 기획의도나 작품에 집중된 이야기가 아니다. 감독이 나서서 끊는 것을 한 두 번 본 것이 아니다. 그리고 잘 마무리 된 듯한 어색한? 웃음과 인사까지.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 968,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "비교하고 싶지 않은데 이 분은 매번 자꾸 주제에서 벗어나는 이야기를 하고 질문도 대답하기 난감한 질문을 던져 곤란하게 한다. 게다가 기획의도나 작품에 집중된 이야기가 아니다. 감독이 나서서 끊는 것을 한 두 번 본 것이 아니다. 그리고 잘 마무리 된 듯한 어색한? 웃음과 인사까지."
+	},
+	{
 		"created_at": "Tue Oct 13 07:38:40 +0000 2020",
 		"id": 1315919872287621000,
 		"id_str": "1315919872287621120",
