@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 13 22:34:41 +0000 2020",
+		"id": 1315821721212002300,
+		"id_str": "1316145361166237697",
+		"full_text": "끝나지 않은 콘서트의 여운,\n#BTS MAP OF THE SOUL ON:E (오,늘) 온라인 전시로 이어가세요.\n촬영장 스케치 및 비하인드 포토까지, 다양한 콘텐츠를 24시간 동안 관람할 수 있습니다.\n\n🖼관람 기간 : 10/13(화) 12:00 ~ 11/12(목) 11:59 (KST)\n\n전시 티켓 구매하기👉https://t.co/HhwE1uU3cc https://t.co/J8zvBQZO1D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BTS",
+					"indices": [
+						16,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HhwE1uU3cc",
+					"expanded_url": "https://weverseshop.onelink.me/BZSY/9ae7cafb",
+					"display_url": "weverseshop.onelink.me/BZSY/9ae7cafb",
+					"indices": [
+						173,
+						196
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1315818591342612500,
+					"id_str": "1315818591342612480",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/EkK6CY3U0AAwlIV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkK6CY3U0AAwlIV.jpg",
+					"url": "https://t.co/J8zvBQZO1D",
+					"display_url": "pic.twitter.com/J8zvBQZO1D",
+					"expanded_url": "https://twitter.com/weverseshop/status/1315821721212002305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 513,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 513,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 341,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315818591342612500,
+					"id_str": "1315818591342612480",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/EkK6CY3U0AAwlIV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkK6CY3U0AAwlIV.jpg",
+					"url": "https://t.co/J8zvBQZO1D",
+					"display_url": "pic.twitter.com/J8zvBQZO1D",
+					"expanded_url": "https://twitter.com/weverseshop/status/1315821721212002305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 513,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 513,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 341,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1109011576659427300,
+			"id_str": "1109011576659427328",
+			"name": "Weverse Shop",
+			"screen_name": "weverseshop",
+			"location": "대한민국 서울",
+			"description": "All things for Fans　　　　　　　　 \nCopyright by BENX CO., LTD.. All rights reserved.",
+			"url": "https://t.co/l0VjvfxTwq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l0VjvfxTwq",
+							"expanded_url": "https://weverseshop.page.link/AmFB",
+							"display_url": "weverseshop.page.link/AmFB",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1214844,
+			"friends_count": 17,
+			"listed_count": 1803,
+			"created_at": "Fri Mar 22 08:38:59 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1236886162863616000/cf8enYEg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1236886162863616000/cf8enYEg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1109011576659427328/1583731320",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5567,
+		"favorite_count": 31051,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "끝나지 않은 콘서트의 여운,\n#BTS MAP OF THE SOUL ON:E (오,늘) 온라인 전시로 이어가세요.\n촬영장 스케치 및 비하인드 포토까지, 다양한 콘텐츠를 24시간 동안 관람할 수 있습니다.\n\n🖼관람 기간 : 10/13(화) 12:00 ~ 11/12(목) 11:59 (KST)\n\n전시 티켓 구매하기👉https://t.co/HhwE1uU3cc https://t.co/J8zvBQZO1D"
+	},
+	{
 		"created_at": "Tue Oct 13 20:03:28 +0000 2020",
 		"id": 1316107304312483800,
 		"id_str": "1316107304312483840",
