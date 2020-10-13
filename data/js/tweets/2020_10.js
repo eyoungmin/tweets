@@ -1,6 +1,1174 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 13 03:01:30 +0000 2020",
+		"id": 1315850118407639000,
+		"id_str": "1315850118407639040",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Oct 13) https://t.co/3xsXV2FkwT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3xsXV2FkwT",
+					"expanded_url": "https://nzzl.us/Fjk20CO",
+					"display_url": "nzzl.us/Fjk20CO",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 968,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43618,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69680,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Oct 13) https://t.co/3xsXV2FkwT"
+	},
+	{
+		"created_at": "Tue Oct 13 02:27:57 +0000 2020",
+		"id": 1315830426624094200,
+		"id_str": "1315841676917837824",
+		"full_text": "[10/13(화) 엠뮤톡] 1시 29분 시~작! 위키미키/투모로우바이투게더/마마무/더보이즈/레드벨벳/세븐틴/아이즈원/방탄소년단/태연 오늘은 바로바로 톡치니들의 신청곡 특집! 다들 시간맞춰 놀러오기~!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "대한민국 서울",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/3MOZ1S1s4O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MOZ1S1s4O",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1079074,
+			"friends_count": 366,
+			"listed_count": 2,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 720,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1513044943",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 177,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[10/13(화) 엠뮤톡] 1시 29분 시~작! 위키미키/투모로우바이투게더/마마무/더보이즈/레드벨벳/세븐틴/아이즈원/방탄소년단/태연 오늘은 바로바로 톡치니들의 신청곡 특집! 다들 시간맞춰 놀러오기~!"
+	},
+	{
+		"created_at": "Tue Oct 13 02:27:05 +0000 2020",
+		"id": 1315837197908467700,
+		"id_str": "1315841457455083522",
+		"full_text": "Thank you @shazam! https://t.co/rQPoHHELss",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Shazam",
+					"name": "Shazam",
+					"id": 14772687,
+					"id_str": "14772687",
+					"indices": [
+						10,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rQPoHHELss",
+					"expanded_url": "https://twitter.com/Shazam/status/1313889181685309440",
+					"display_url": "twitter.com/Shazam/status/…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/c2mkxA118z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c2mkxA118z",
+							"expanded_url": "https://blink.blackpinkofficial.com/",
+							"display_url": "blink.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5362167,
+			"friends_count": 2,
+			"listed_count": 5680,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1250,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1601269396",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1313889181685309400,
+		"quoted_status_id_str": "1313889181685309440",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rQPoHHELss",
+			"expanded": "https://twitter.com/Shazam/status/1313889181685309440",
+			"display": "twitter.com/Shazam/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 07 17:09:26 +0000 2020",
+			"id": 1313889181685309400,
+			"id_str": "1313889181685309440",
+			"full_text": "Comment with your favorite track from @BLACKPINK's new album!! 👇 #TheAlbum https://t.co/E9RzwxMQFt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				74
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TheAlbum",
+						"indices": [
+							65,
+							74
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BLACKPINK",
+						"name": "BLACKPINKOFFICIAL",
+						"id": 1273850774380884000,
+						"id_str": "1273850774380883975",
+						"indices": [
+							38,
+							48
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1313889086319419400,
+						"id_str": "1313889086319419392",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/EjvfKahU4AAWRUJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjvfKahU4AAWRUJ.jpg",
+						"url": "https://t.co/E9RzwxMQFt",
+						"display_url": "pic.twitter.com/E9RzwxMQFt",
+						"expanded_url": "https://twitter.com/Shazam/status/1313889181685309440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 983,
+								"h": 553,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 983,
+								"h": 553,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1313889086319419400,
+						"id_str": "1313889086319419392",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/EjvfKahU4AAWRUJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjvfKahU4AAWRUJ.jpg",
+						"url": "https://t.co/E9RzwxMQFt",
+						"display_url": "pic.twitter.com/E9RzwxMQFt",
+						"expanded_url": "https://twitter.com/Shazam/status/1313889181685309440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 983,
+								"h": 553,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 983,
+								"h": 553,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14772687,
+				"id_str": "14772687",
+				"name": "Shazam",
+				"screen_name": "Shazam",
+				"location": "Worldwide",
+				"description": "#BlackLivesMatter",
+				"url": "https://t.co/RIQ4qDim2d",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RIQ4qDim2d",
+								"expanded_url": "https://www.shazam.com/apps",
+								"display_url": "shazam.com/apps",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 652345,
+				"friends_count": 6442,
+				"listed_count": 2010,
+				"created_at": "Wed May 14 13:03:08 +0000 2008",
+				"favourites_count": 10053,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 18007,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0088FF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/999000042479337472/kZ5Avb6G_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/999000042479337472/kZ5Avb6G_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14772687/1576088329",
+				"profile_link_color": "0088FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3803,
+			"favorite_count": 12332,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5549,
+		"favorite_count": 27234,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you @shazam! https://t.co/rQPoHHELss"
+	},
+	{
+		"created_at": "Tue Oct 13 02:19:15 +0000 2020",
+		"id": 1315839487386226700,
+		"id_str": "1315839487386226688",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 첫 정규 앨범, 빌보드 2위\nhttps://t.co/OTiSbLomXw\n#블랙핑크 #BLACKPINK https://t.co/U3ZzeKgx9f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						68,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OTiSbLomXw",
+					"expanded_url": "https://yg-life.com/archives/161066?lang=ko",
+					"display_url": "yg-life.com/archives/16106…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1315839486220267500,
+					"id_str": "1315839486220267520",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EkLNCoWXcAAl6TW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkLNCoWXcAAl6TW.jpg",
+					"url": "https://t.co/U3ZzeKgx9f",
+					"display_url": "pic.twitter.com/U3ZzeKgx9f",
+					"expanded_url": "https://twitter.com/fromminn/status/1315839487386226688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 298,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 298,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 298,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315839486220267500,
+					"id_str": "1315839486220267520",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EkLNCoWXcAAl6TW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkLNCoWXcAAl6TW.jpg",
+					"url": "https://t.co/U3ZzeKgx9f",
+					"display_url": "pic.twitter.com/U3ZzeKgx9f",
+					"expanded_url": "https://twitter.com/fromminn/status/1315839487386226688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 298,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 298,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 298,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 968,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43618,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69680,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 첫 정규 앨범, 빌보드 2위\nhttps://t.co/OTiSbLomXw\n#블랙핑크 #BLACKPINK https://t.co/U3ZzeKgx9f"
+	},
+	{
+		"created_at": "Tue Oct 13 02:14:28 +0000 2020",
+		"id": 1315838284237594600,
+		"id_str": "1315838284237594625",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, ‘붐바야’로 세 번째 10억 뷰 MV 대기록…K팝 남녀 그룹 통틀어 최초\nhttps://t.co/qq30fFY9RL\n#블랙핑크 #BLACKPINK https://t.co/yy1b37WD8k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						94,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qq30fFY9RL",
+					"expanded_url": "https://yg-life.com/archives/161063?lang=ko",
+					"display_url": "yg-life.com/archives/16106…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1315838282819870700,
+					"id_str": "1315838282819870720",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/EkLL8lVWoAA667v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkLL8lVWoAA667v.jpg",
+					"url": "https://t.co/yy1b37WD8k",
+					"display_url": "pic.twitter.com/yy1b37WD8k",
+					"expanded_url": "https://twitter.com/fromminn/status/1315838284237594625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315838282819870700,
+					"id_str": "1315838282819870720",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/EkLL8lVWoAA667v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkLL8lVWoAA667v.jpg",
+					"url": "https://t.co/yy1b37WD8k",
+					"display_url": "pic.twitter.com/yy1b37WD8k",
+					"expanded_url": "https://twitter.com/fromminn/status/1315838284237594625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 968,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43618,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69680,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, ‘붐바야’로 세 번째 10억 뷰 MV 대기록…K팝 남녀 그룹 통틀어 최초\nhttps://t.co/qq30fFY9RL\n#블랙핑크 #BLACKPINK https://t.co/yy1b37WD8k"
+	},
+	{
+		"created_at": "Tue Oct 13 02:07:49 +0000 2020",
+		"id": 1315833583194443800,
+		"id_str": "1315836610492035072",
+		"full_text": "두 사람의 멜로 눈빛,,, 유죄.\n서로를 향한 세심한 배려,, 절대 유죄.\n\n오늘 누울 곳은 여기입니다💖\n주은&amp;정환의 첫 데이트 비하인드!\n\n매주 수목 밤 9시 30분 #사생활 본방사수!\n#JTBC수목드라마 #서현 #고경표 https://t.co/eTi9aqxo7y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사생활",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "JTBC수목드라마",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "고경표",
+					"indices": [
+						124,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1315829198347362300,
+					"id_str": "1315829198347362310",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EkLG0tcVcAAdvPV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkLG0tcVcAAdvPV.jpg",
+					"url": "https://t.co/eTi9aqxo7y",
+					"display_url": "pic.twitter.com/eTi9aqxo7y",
+					"expanded_url": "https://twitter.com/jtbclove/status/1315833583194443776/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315829198347362300,
+					"id_str": "1315829198347362310",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EkLG0tcVcAAdvPV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkLG0tcVcAAdvPV.jpg",
+					"url": "https://t.co/eTi9aqxo7y",
+					"display_url": "pic.twitter.com/eTi9aqxo7y",
+					"expanded_url": "https://twitter.com/jtbclove/status/1315833583194443776/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 358124,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1315829198347362310/pl/-HprExpKWZwVJbvP.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315829198347362310/vid/1280x720/ZnS1jzCgiuYz9ahg.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315829198347362310/vid/480x270/_YKfux6IJXKYFmeZ.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315829198347362310/vid/640x360/Sw_s1pl5HyfAHfuS.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[사생활] 메이킹💜 손바닥만한 우산 속에서 피어나는 판교 신혼부부💍",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://bit.ly/3do6tjr"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 440213,
+			"friends_count": 110,
+			"listed_count": 641,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1600066891",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 170,
+		"favorite_count": 218,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "두 사람의 멜로 눈빛,,, 유죄.\n서로를 향한 세심한 배려,, 절대 유죄.\n\n오늘 누울 곳은 여기입니다💖\n주은&amp;정환의 첫 데이트 비하인드!\n\n매주 수목 밤 9시 30분 #사생활 본방사수!\n#JTBC수목드라마 #서현 #고경표 https://t.co/eTi9aqxo7y"
+	},
+	{
 		"created_at": "Tue Oct 13 02:00:33 +0000 2020",
 		"id": 1315834653744398300,
 		"id_str": "1315834780584300544",
