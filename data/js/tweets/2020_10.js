@@ -1,6 +1,1925 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 13 02:00:33 +0000 2020",
+		"id": 1315834653744398300,
+		"id_str": "1315834780584300544",
+		"full_text": "❝ 나우는 촬영 카메라의 위치, 렌즈 등을 통해 1:1로 출연자의 움직임을 실시간 트래킹하고, 그래픽을 합성해 공연의 완성도를 높일 예정이다. XR기술이 라이브 공연에 적용되면 우주공간, 사막, 뉴욕 거리 등 다채로운 무대 구성이 가능\n\n#네이버나우 #NOW #XR기술 #플랫폼비지니스 #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "네이버나우",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "NOW",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "XR기술",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "플랫폼비지니스",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						160,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1315834378883223600,
+		"in_reply_to_status_id_str": "1315834378883223552",
+		"in_reply_to_user_id": 778313051929911300,
+		"in_reply_to_user_id_str": "778313051929911296",
+		"in_reply_to_screen_name": "ArtManagementKR",
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "#예술경영 #뮤직비지니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업\n#영화제 #북토크 #전시 #어워드 #문화공간\n\n채용/공모: https://t.co/IgycVSHsP9\n공연정보 및 앨범발매 안내: @SOLPLPARTY\n티켓오픈 소식: @TicketOpen",
+			"url": "https://t.co/hGE8N4Kde4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hGE8N4Kde4",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IgycVSHsP9",
+							"expanded_url": "http://bit.ly/Ent-Recruit",
+							"display_url": "bit.ly/Ent-Recruit",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 330,
+			"friends_count": 44,
+			"listed_count": 4,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1586084627",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "❝ 나우는 촬영 카메라의 위치, 렌즈 등을 통해 1:1로 출연자의 움직임을 실시간 트래킹하고, 그래픽을 합성해 공연의 완성도를 높일 예정이다. XR기술이 라이브 공연에 적용되면 우주공간, 사막, 뉴욕 거리 등 다채로운 무대 구성이 가능\n\n#네이버나우 #NOW #XR기술 #플랫폼비지니스 #뮤직비지니스"
+	},
+	{
+		"created_at": "Tue Oct 13 02:00:29 +0000 2020",
+		"id": 1315834378883223600,
+		"id_str": "1315834764989992962",
+		"full_text": "❝ 나우는 파티 B를 통해 XR기술로 아티스트와 곡의 컨셉에 최적화된 새로운 형태의 가상 무대를 구현할 계획이다.\n\n#네이버나우 #NOW #XR기술 #라이브영상 #플랫폼비지니스 #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "네이버나우",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "NOW",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "XR기술",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "라이브영상",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "플랫폼비지니스",
+					"indices": [
+						90,
+						98
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						99,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1315833886442545200,
+		"in_reply_to_status_id_str": "1315833886442545154",
+		"in_reply_to_user_id": 778313051929911300,
+		"in_reply_to_user_id_str": "778313051929911296",
+		"in_reply_to_screen_name": "ArtManagementKR",
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "#예술경영 #뮤직비지니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업\n#영화제 #북토크 #전시 #어워드 #문화공간\n\n채용/공모: https://t.co/IgycVSHsP9\n공연정보 및 앨범발매 안내: @SOLPLPARTY\n티켓오픈 소식: @TicketOpen",
+			"url": "https://t.co/hGE8N4Kde4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hGE8N4Kde4",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IgycVSHsP9",
+							"expanded_url": "http://bit.ly/Ent-Recruit",
+							"display_url": "bit.ly/Ent-Recruit",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 330,
+			"friends_count": 44,
+			"listed_count": 4,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1586084627",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "❝ 나우는 파티 B를 통해 XR기술로 아티스트와 곡의 컨셉에 최적화된 새로운 형태의 가상 무대를 구현할 계획이다.\n\n#네이버나우 #NOW #XR기술 #라이브영상 #플랫폼비지니스 #뮤직비지니스"
+	},
+	{
+		"created_at": "Tue Oct 13 02:00:26 +0000 2020",
+		"id": 1315833886442545200,
+		"id_str": "1315834751278751744",
+		"full_text": "❝ 실시간 라이브 공연에 확장현실(XR) 기술을 적용한 라이브 방송 프로그램 ‘파티(Party) B’를 새롭게 선보인다. 파티 B는 최근 신설된 '빌보드 K-POP 100’ 차트에 오른 뮤지션들이 매달 라이브 공연을 펼치는 프로그램이다.\n\n#네이버나우 #NOW #XR기술 #라이브영상 #플랫폼비지니스 #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "네이버나우",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "NOW",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "XR기술",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "라이브영상",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "플랫폼비지니스",
+					"indices": [
+						159,
+						167
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						168,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1315833635946152000,
+		"in_reply_to_status_id_str": "1315833635946151936",
+		"in_reply_to_user_id": 778313051929911300,
+		"in_reply_to_user_id_str": "778313051929911296",
+		"in_reply_to_screen_name": "ArtManagementKR",
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "#예술경영 #뮤직비지니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업\n#영화제 #북토크 #전시 #어워드 #문화공간\n\n채용/공모: https://t.co/IgycVSHsP9\n공연정보 및 앨범발매 안내: @SOLPLPARTY\n티켓오픈 소식: @TicketOpen",
+			"url": "https://t.co/hGE8N4Kde4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hGE8N4Kde4",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IgycVSHsP9",
+							"expanded_url": "http://bit.ly/Ent-Recruit",
+							"display_url": "bit.ly/Ent-Recruit",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 330,
+			"friends_count": 44,
+			"listed_count": 4,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1586084627",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "❝ 실시간 라이브 공연에 확장현실(XR) 기술을 적용한 라이브 방송 프로그램 ‘파티(Party) B’를 새롭게 선보인다. 파티 B는 최근 신설된 '빌보드 K-POP 100’ 차트에 오른 뮤지션들이 매달 라이브 공연을 펼치는 프로그램이다.\n\n#네이버나우 #NOW #XR기술 #라이브영상 #플랫폼비지니스 #뮤직비지니스"
+	},
+	{
+		"created_at": "Tue Oct 13 02:00:23 +0000 2020",
+		"id": 1315833635946152000,
+		"id_str": "1315834737622016001",
+		"full_text": "❝ 앞으로 네이버 나우는 비대면 공연 환경이 다양해지는 만큼 차세대 기술을 결합해 새로운 방식의 뮤직 라이브 방송 플랫폼으로 변화할 방침이다.\n\n#네이버나우 #NOW #XR기술 #라이브영상 #공연영상 #뮤직라이브 #플랫폼비지니스 #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "네이버나우",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "NOW",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "XR기술",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "라이브영상",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "공연영상",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "뮤직라이브",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "플랫폼비지니스",
+					"indices": [
+						119,
+						127
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						128,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1315833230767997000,
+		"in_reply_to_status_id_str": "1315833230767996929",
+		"in_reply_to_user_id": 778313051929911300,
+		"in_reply_to_user_id_str": "778313051929911296",
+		"in_reply_to_screen_name": "ArtManagementKR",
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "#예술경영 #뮤직비지니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업\n#영화제 #북토크 #전시 #어워드 #문화공간\n\n채용/공모: https://t.co/IgycVSHsP9\n공연정보 및 앨범발매 안내: @SOLPLPARTY\n티켓오픈 소식: @TicketOpen",
+			"url": "https://t.co/hGE8N4Kde4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hGE8N4Kde4",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IgycVSHsP9",
+							"expanded_url": "http://bit.ly/Ent-Recruit",
+							"display_url": "bit.ly/Ent-Recruit",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 330,
+			"friends_count": 44,
+			"listed_count": 4,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1586084627",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "❝ 앞으로 네이버 나우는 비대면 공연 환경이 다양해지는 만큼 차세대 기술을 결합해 새로운 방식의 뮤직 라이브 방송 플랫폼으로 변화할 방침이다.\n\n#네이버나우 #NOW #XR기술 #라이브영상 #공연영상 #뮤직라이브 #플랫폼비지니스 #뮤직비지니스"
+	},
+	{
+		"created_at": "Tue Oct 13 02:00:19 +0000 2020",
+		"id": 1315833230767997000,
+		"id_str": "1315834724179275776",
+		"full_text": "네이버 나우 \"XR 기술 접목, 뮤직 라이브 플랫폼으로 도약\" - IT조선\nhttps://t.co/foC7D3krDg\n\n#네이버나우 #NOW #XR기술 #라이브영상 #공연영상 #뮤직라이브 #플랫폼비지니스 #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "네이버나우",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "NOW",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "XR기술",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "라이브영상",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "공연영상",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "뮤직라이브",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "플랫폼비지니스",
+					"indices": [
+						105,
+						113
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/foC7D3krDg",
+					"expanded_url": "http://it.chosun.com/site/data/html_dir/2020/09/25/2020092501647.html",
+					"display_url": "it.chosun.com/site/data/html…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "#예술경영 #뮤직비지니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업\n#영화제 #북토크 #전시 #어워드 #문화공간\n\n채용/공모: https://t.co/IgycVSHsP9\n공연정보 및 앨범발매 안내: @SOLPLPARTY\n티켓오픈 소식: @TicketOpen",
+			"url": "https://t.co/hGE8N4Kde4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hGE8N4Kde4",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IgycVSHsP9",
+							"expanded_url": "http://bit.ly/Ent-Recruit",
+							"display_url": "bit.ly/Ent-Recruit",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 330,
+			"friends_count": 44,
+			"listed_count": 4,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1586084627",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "네이버 나우 \"XR 기술 접목, 뮤직 라이브 플랫폼으로 도약\" - IT조선\nhttps://t.co/foC7D3krDg\n\n#네이버나우 #NOW #XR기술 #라이브영상 #공연영상 #뮤직라이브 #플랫폼비지니스 #뮤직비지니스"
+	},
+	{
+		"created_at": "Tue Oct 13 01:29:23 +0000 2020",
+		"id": 1315826665012879400,
+		"id_str": "1315826936292155393",
+		"full_text": "#전시장 #접근성\n전시장, 공연장 접근성에 대한 이야기. 장혜영 의원이 공연장에 휠체어가 진입하기 어렵자 방안을 고민하고 8시간을 들여 수제경사로를 설치했다는 이야기. https://t.co/S5eOHYgW47",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전시장",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "접근성",
+					"indices": [
+						5,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S5eOHYgW47",
+					"expanded_url": "https://twitter.com/hanatoyul/status/1315533845089796097",
+					"display_url": "twitter.com/hanatoyul/stat…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "#예술경영 #뮤직비지니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업\n#영화제 #북토크 #전시 #어워드 #문화공간\n\n채용/공모: https://t.co/IgycVSHsP9\n공연정보 및 앨범발매 안내: @SOLPLPARTY\n티켓오픈 소식: @TicketOpen",
+			"url": "https://t.co/hGE8N4Kde4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hGE8N4Kde4",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IgycVSHsP9",
+							"expanded_url": "http://bit.ly/Ent-Recruit",
+							"display_url": "bit.ly/Ent-Recruit",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 330,
+			"friends_count": 44,
+			"listed_count": 4,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1586084627",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1315533845089796000,
+		"quoted_status_id_str": "1315533845089796097",
+		"quoted_status_permalink": {
+			"url": "https://t.co/S5eOHYgW47",
+			"expanded": "https://twitter.com/hanatoyul/status/1315533845089796097",
+			"display": "twitter.com/hanatoyul/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 12 06:04:44 +0000 2020",
+			"id": 1315533845089796000,
+			"id_str": "1315533845089796097",
+			"full_text": "위 사진 속 장혜영 의원은 동생 혜정의 전시회 때 일곱 개의 계단 때문에 8시간을 들여 수제 경사로를 설치했었음. 이런 접근성을 고려하는 장혜영 의원, 장애 당사자인 배복주 의원 같은 사람이 있어야 국회가 바뀌고 사회가 바뀌는 겁니다. https://t.co/FIJgC2BRrZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				131
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1315533827964428300,
+						"id_str": "1315533827964428288",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/EkG3C-nUYAAPBhe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EkG3C-nUYAAPBhe.jpg",
+						"url": "https://t.co/FIJgC2BRrZ",
+						"display_url": "pic.twitter.com/FIJgC2BRrZ",
+						"expanded_url": "https://twitter.com/hanatoyul/status/1315533845089796097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 427,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 754,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1718,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1315533827964428300,
+						"id_str": "1315533827964428288",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/EkG3C-nUYAAPBhe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EkG3C-nUYAAPBhe.jpg",
+						"url": "https://t.co/FIJgC2BRrZ",
+						"display_url": "pic.twitter.com/FIJgC2BRrZ",
+						"expanded_url": "https://twitter.com/hanatoyul/status/1315533845089796097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 427,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 754,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1718,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1315533832829821000,
+						"id_str": "1315533832829820930",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/EkG3DQvUYAIIf_-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EkG3DQvUYAIIf_-.jpg",
+						"url": "https://t.co/FIJgC2BRrZ",
+						"display_url": "pic.twitter.com/FIJgC2BRrZ",
+						"expanded_url": "https://twitter.com/hanatoyul/status/1315533845089796097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 400,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1073,
+								"h": 1825,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 706,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1315533837833658400,
+						"id_str": "1315533837833658369",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/EkG3DjYU4AEV3Wf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EkG3DjYU4AEV3Wf.jpg",
+						"url": "https://t.co/FIJgC2BRrZ",
+						"display_url": "pic.twitter.com/FIJgC2BRrZ",
+						"expanded_url": "https://twitter.com/hanatoyul/status/1315533845089796097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 700,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1072,
+								"h": 1838,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 397,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1315533842287980500,
+						"id_str": "1315533842287980544",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/EkG3Dz-UcAAxFsY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EkG3Dz-UcAAxFsY.jpg",
+						"url": "https://t.co/FIJgC2BRrZ",
+						"display_url": "pic.twitter.com/FIJgC2BRrZ",
+						"expanded_url": "https://twitter.com/hanatoyul/status/1315533845089796097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1077,
+								"h": 573,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 362,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1077,
+								"h": 573,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1315533816367247400,
+			"in_reply_to_status_id_str": "1315533816367247360",
+			"in_reply_to_user_id": 1081423457814892500,
+			"in_reply_to_user_id_str": "1081423457814892544",
+			"in_reply_to_screen_name": "hanatoyul",
+			"user": {
+				"id": 1081423457814892500,
+				"id_str": "1081423457814892544",
+				"name": "꾸시꾸시",
+				"screen_name": "hanatoyul",
+				"location": "",
+				"description": "짝사랑의 스킬 위장여친 미스테리오소 킬스위치 퇴사를 요청합니다 오피움 타그법 그녀의심청 등 백합웹툰이면 다먹는 계정",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 30,
+				"friends_count": 89,
+				"listed_count": 0,
+				"created_at": "Sat Jan 05 05:33:39 +0000 2019",
+				"favourites_count": 1116,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39214,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1260779848240267265/xikWWMDm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260779848240267265/xikWWMDm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1081423457814892544/1546667709",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1060,
+			"favorite_count": 393,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#전시장 #접근성\n전시장, 공연장 접근성에 대한 이야기. 장혜영 의원이 공연장에 휠체어가 진입하기 어렵자 방안을 고민하고 8시간을 들여 수제경사로를 설치했다는 이야기. https://t.co/S5eOHYgW47"
+	},
+	{
+		"created_at": "Tue Oct 13 01:27:11 +0000 2020",
+		"id": 1315823151704465400,
+		"id_str": "1315826383805964288",
+		"full_text": "The new JTBC drama ‘HUSH’, starring HWANG JUNGMIN &amp; LIM YOONA, to be aired at 11PM KST every FRI, SAT from Dec 11! \nStay tuned for LIM YOONA's acting as an intern journalist named Lee Jisoo! \n\n#LIMYOONA #임윤아 #소녀시대 #GirlsGeneration #허쉬 #HUSH #이지수 https://t.co/0vhHHz73S6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						197,
+						206
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						207,
+						211
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						212,
+						217
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						218,
+						234
+					]
+				},
+				{
+					"text": "허쉬",
+					"indices": [
+						235,
+						238
+					]
+				},
+				{
+					"text": "HUSH",
+					"indices": [
+						239,
+						244
+					]
+				},
+				{
+					"text": "이지수",
+					"indices": [
+						245,
+						249
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1315823141675888600,
+					"id_str": "1315823141675888640",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/EkK-LQLUcAALfx6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkK-LQLUcAALfx6.jpg",
+					"url": "https://t.co/0vhHHz73S6",
+					"display_url": "pic.twitter.com/0vhHHz73S6",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1315823151704465409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315823141675888600,
+					"id_str": "1315823141675888640",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/EkK-LQLUcAALfx6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkK-LQLUcAALfx6.jpg",
+					"url": "https://t.co/0vhHHz73S6",
+					"display_url": "pic.twitter.com/0vhHHz73S6",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1315823151704465409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8468835,
+			"friends_count": 52,
+			"listed_count": 8258,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1424,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1179,
+		"favorite_count": 4581,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The new JTBC drama ‘HUSH’, starring HWANG JUNGMIN &amp; LIM YOONA, to be aired at 11PM KST every FRI, SAT from Dec 11! \nStay tuned for LIM YOONA's acting as an intern journalist named Lee Jisoo! \n\n#LIMYOONA #임윤아 #소녀시대 #GirlsGeneration #허쉬 #HUSH #이지수 https://t.co/0vhHHz73S6"
+	},
+	{
+		"created_at": "Tue Oct 13 01:27:05 +0000 2020",
+		"id": 1315814745375559700,
+		"id_str": "1315826358153605125",
+		"full_text": "[#예술경영 웹진 : 기획특집①] \n\n&lt;다시 '어디에서나 예술, 누구나 예술가'로&gt;\n-예술사 관점에서 본 코로나 시대의 예술①\n\n455호 기획특집① 더보기👇\nhttps://t.co/5kF056ZRVC\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/z5NHrkFkAW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						129,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5kF056ZRVC",
+					"expanded_url": "https://bit.ly/2GTp373",
+					"display_url": "bit.ly/2GTp373",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1315814738308202500,
+					"id_str": "1315814738308202498",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EkK2iHMVgAIih2e.png",
+					"media_url_https": "https://pbs.twimg.com/media/EkK2iHMVgAIih2e.png",
+					"url": "https://t.co/z5NHrkFkAW",
+					"display_url": "pic.twitter.com/z5NHrkFkAW",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1315814745375559680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 279,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 857,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315814738308202500,
+					"id_str": "1315814738308202498",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EkK2iHMVgAIih2e.png",
+					"media_url_https": "https://pbs.twimg.com/media/EkK2iHMVgAIih2e.png",
+					"url": "https://t.co/z5NHrkFkAW",
+					"display_url": "pic.twitter.com/z5NHrkFkAW",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1315814745375559680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 279,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 857,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6848,
+			"friends_count": 3002,
+			"listed_count": 103,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예술경영 웹진 : 기획특집①] \n\n&lt;다시 '어디에서나 예술, 누구나 예술가'로&gt;\n-예술사 관점에서 본 코로나 시대의 예술①\n\n455호 기획특집① 더보기👇\nhttps://t.co/5kF056ZRVC\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/z5NHrkFkAW"
+	},
+	{
+		"created_at": "Tue Oct 13 01:23:00 +0000 2020",
+		"id": 1315823188165632000,
+		"id_str": "1315825332667052034",
+		"full_text": "“네이버·구글·넷플릭스 등 정보보호현황 공시 의무화한다” https://t.co/rLGu5WGOnN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rLGu5WGOnN",
+					"expanded_url": "http://www.bloter.net/archives/462610",
+					"display_url": "bloter.net/archives/462610",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54715,
+			"friends_count": 9,
+			"listed_count": 2356,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26945,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“네이버·구글·넷플릭스 등 정보보호현황 공시 의무화한다” https://t.co/rLGu5WGOnN"
+	},
+	{
+		"created_at": "Tue Oct 13 01:22:53 +0000 2020",
+		"id": 1315824081829150700,
+		"id_str": "1315825303554416640",
+		"full_text": "삼성출신 스타트업 대표가 12억 날리며 깨달은 것 https://t.co/akVi7F483I \n인공지능 음악 앱 험온이 실패한 이유\n고객이 사랑하는 제품을 만들기 전에 하지 말아야 할 일\n창업 후 3년 뒤…대표 혼자 회사에 남았다. \n쿨잼컴퍼니의 피봇 히스토리\n세 번째 서비스로 피봇하며 풀어야 했던 문제...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/akVi7F483I",
+					"expanded_url": "https://j.mp/2SSlBMw",
+					"display_url": "j.mp/2SSlBMw",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4169,
+			"friends_count": 0,
+			"listed_count": 62,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2914,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "삼성출신 스타트업 대표가 12억 날리며 깨달은 것 https://t.co/akVi7F483I \n인공지능 음악 앱 험온이 실패한 이유\n고객이 사랑하는 제품을 만들기 전에 하지 말아야 할 일\n창업 후 3년 뒤…대표 혼자 회사에 남았다. \n쿨잼컴퍼니의 피봇 히스토리\n세 번째 서비스로 피봇하며 풀어야 했던 문제..."
+	},
+	{
+		"created_at": "Tue Oct 13 01:21:18 +0000 2020",
+		"id": 1315824904302862300,
+		"id_str": "1315824904302862341",
+		"full_text": "이근은 교묘하고 영악한 사람이다. '일관된 진술'이라며 입장문에서 호소한다. 더럽다.\nhttps://t.co/sLOgnBcmQN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sLOgnBcmQN",
+					"expanded_url": "https://www.youtube.com/post/UgwwLL34N4zz1PrmdRZ4AaABCQ",
+					"display_url": "youtube.com/post/UgwwLL34N…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 968,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43618,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이근은 교묘하고 영악한 사람이다. '일관된 진술'이라며 입장문에서 호소한다. 더럽다.\nhttps://t.co/sLOgnBcmQN"
+	},
+	{
 		"created_at": "Tue Oct 13 00:47:53 +0000 2020",
 		"id": 1315816494152859600,
 		"id_str": "1315816494152859648",
