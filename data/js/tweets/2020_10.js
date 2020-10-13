@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 13 05:45:36 +0000 2020",
+		"id": 1315877330808520700,
+		"id_str": "1315891418825662464",
+		"full_text": "라인업 🎁\n골든차일드, 드림캐쳐, 위키미키, 몬스타엑스, X1, 구구단, 희나피아, 파나틱스, 엑소, 슈퍼주니어D&amp;E, 로켓펀치, 이달의소녀, WayV, 에이티즈, 우주소녀, 크래비티, 엔플라잉, (여자)아이들, 펜타곤, AB6IX, CLC, 비투비, 여자친구, 세븐틴, NCT 127, 아이즈원, 스트레이 키즈 https://t.co/AbNXs10xc5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AbNXs10xc5",
+					"expanded_url": "https://twitter.com/allthekpop/status/1315828643562614784",
+					"display_url": "twitter.com/allthekpop/sta…",
+					"indices": [
+						179,
+						202
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/YpjchEd2rf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YpjchEd2rf",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59004,
+			"friends_count": 2505,
+			"listed_count": 232,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5777,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1315828643562614800,
+		"quoted_status_id_str": "1315828643562614784",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AbNXs10xc5",
+			"expanded": "https://twitter.com/allthekpop/status/1315828643562614784",
+			"display": "twitter.com/allthekpop/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 13 01:36:10 +0000 2020",
+			"id": 1315828643562614800,
+			"id_str": "1315828643562614784",
+			"full_text": "올케다방의 띵곡팔이👋🏻\n⏰PM 2:00~3:30\n\n10월 생일 아이돌 빠지면 ㅅㅓㅂ ㅅㅓㅂ ㅎㅐ \n내 최애 생일이 10월이다 하면 ɢɢ\n\n▶https://t.co/OuozjCFDPs\n☝올케팝 유튜브 채널 알림설정하면 띵곡팔이 알림 딩동 https://t.co/Pq2HYsCtUI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				131
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OuozjCFDPs",
+						"expanded_url": "https://youtu.be/GO6Q1LlM3Jg",
+						"display_url": "youtu.be/GO6Q1LlM3Jg",
+						"indices": [
+							78,
+							101
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1315828635304030200,
+						"id_str": "1315828635304030208",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/EkLDLBiVcAA8YZA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EkLDLBiVcAA8YZA.jpg",
+						"url": "https://t.co/Pq2HYsCtUI",
+						"display_url": "pic.twitter.com/Pq2HYsCtUI",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1315828643562614784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1315828635304030200,
+						"id_str": "1315828635304030208",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/EkLDLBiVcAA8YZA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EkLDLBiVcAA8YZA.jpg",
+						"url": "https://t.co/Pq2HYsCtUI",
+						"display_url": "pic.twitter.com/Pq2HYsCtUI",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1315828643562614784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744928926,
+				"id_str": "744928926",
+				"name": "올더케이팝",
+				"screen_name": "ALLTHEKPOP",
+				"location": "",
+				"description": "ALL about ID♡L, ALL THE K-POP",
+				"url": "https://t.co/YpjchEd2rf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YpjchEd2rf",
+								"expanded_url": "http://www.youtube.com/allthekpop",
+								"display_url": "youtube.com/allthekpop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 59004,
+				"friends_count": 2505,
+				"listed_count": 232,
+				"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+				"favourites_count": 7973,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5777,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 77,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 21,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "라인업 🎁\n골든차일드, 드림캐쳐, 위키미키, 몬스타엑스, X1, 구구단, 희나피아, 파나틱스, 엑소, 슈퍼주니어D&amp;E, 로켓펀치, 이달의소녀, WayV, 에이티즈, 우주소녀, 크래비티, 엔플라잉, (여자)아이들, 펜타곤, AB6IX, CLC, 비투비, 여자친구, 세븐틴, NCT 127, 아이즈원, 스트레이 키즈 https://t.co/AbNXs10xc5"
+	},
+	{
 		"created_at": "Tue Oct 13 04:57:56 +0000 2020",
 		"id": 1315868626239459300,
 		"id_str": "1315879422868615170",
