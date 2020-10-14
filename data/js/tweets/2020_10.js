@@ -1,6 +1,1263 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 14 07:01:59 +0000 2020",
+		"id": 1316273025759752200,
+		"id_str": "1316273025759752193",
+		"full_text": "시간에 갇힌 사람들\nhttps://t.co/zt5v057NLq\n#지식채널e #EBS #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지식채널e",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"text": "EBS",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						47,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zt5v057NLq",
+					"expanded_url": "https://www.ebs.co.kr/replay/show?prodId=352&lectId=20377037",
+					"display_url": "ebs.co.kr/replay/show?pr…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 969,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "시간에 갇힌 사람들\nhttps://t.co/zt5v057NLq\n#지식채널e #EBS #minfav"
+	},
+	{
+		"created_at": "Wed Oct 14 07:01:50 +0000 2020",
+		"id": 1316272988619190300,
+		"id_str": "1316272988619190272",
+		"full_text": "#덤덤스튜디오 #DUMDUM_STUDIO #예리한방\n예리한방 태연 출연 기원 🙏 사석에서 만난 예리와 칭구칭긔들 [주간 예림이 모음집 2탄]\nhttps://t.co/CL6a74tGMZ\n#레드벨벳 #RedVelvet #예리 #YERI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "덤덤스튜디오",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "DUMDUM_STUDIO",
+					"indices": [
+						8,
+						22
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						124,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CL6a74tGMZ",
+					"expanded_url": "https://youtu.be/SgbZkCwyvY0",
+					"display_url": "youtu.be/SgbZkCwyvY0",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 969,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#덤덤스튜디오 #DUMDUM_STUDIO #예리한방\n예리한방 태연 출연 기원 🙏 사석에서 만난 예리와 칭구칭긔들 [주간 예림이 모음집 2탄]\nhttps://t.co/CL6a74tGMZ\n#레드벨벳 #RedVelvet #예리 #YERI"
+	},
+	{
+		"created_at": "Wed Oct 14 07:01:27 +0000 2020",
+		"id": 1316272894545141800,
+		"id_str": "1316272894545141761",
+		"full_text": "#뉴닉 #NEWNEEK\n(광고)🦔의대생 국가고시 거부 이후\nhttps://t.co/kbIJK84b5s\n#뉴스레터 #Newsletter",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뉴닉",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "NEWNEEK",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "뉴스레터",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						63,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kbIJK84b5s",
+					"expanded_url": "https://notifier.in/item/gtrfslqamz2kf5bpyhfh4gfarh3csuf3/2141663.html",
+					"display_url": "notifier.in/item/gtrfslqam…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 969,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#뉴닉 #NEWNEEK\n(광고)🦔의대생 국가고시 거부 이후\nhttps://t.co/kbIJK84b5s\n#뉴스레터 #Newsletter"
+	},
+	{
+		"created_at": "Wed Oct 14 06:46:54 +0000 2020",
+		"id": 1316269230845616000,
+		"id_str": "1316269230845616128",
+		"full_text": "카카오가 오픈톡에 아이디 고유값만 추가해주면 관리가 한결 쉬울텐데. 이미 건의한 내용이고 같이 건의한 내용 중의 일부는 업데이트 되었으나 이 부분은 해결이 안됨. 짐작하고 건의했던 것이긴 함.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 969,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "카카오가 오픈톡에 아이디 고유값만 추가해주면 관리가 한결 쉬울텐데. 이미 건의한 내용이고 같이 건의한 내용 중의 일부는 업데이트 되었으나 이 부분은 해결이 안됨. 짐작하고 건의했던 것이긴 함."
+	},
+	{
+		"created_at": "Wed Oct 14 06:33:21 +0000 2020",
+		"id": 1316249057564614700,
+		"id_str": "1316265820209606656",
+		"full_text": "네이버, CJ와 주식 맞교환 검토…왜? https://t.co/rxELM3RF46",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rxELM3RF46",
+					"expanded_url": "http://www.bloter.net/archives/462945",
+					"display_url": "bloter.net/archives/462945",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54713,
+			"friends_count": 9,
+			"listed_count": 2356,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "네이버, CJ와 주식 맞교환 검토…왜? https://t.co/rxELM3RF46"
+	},
+	{
+		"created_at": "Wed Oct 14 06:26:26 +0000 2020",
+		"id": 1316264080194199600,
+		"id_str": "1316264080194199554",
+		"full_text": "뮤트를 해도 인용으로 걸려 있으면 트윗이 공앱에서 보이는구나.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 969,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "뮤트를 해도 인용으로 걸려 있으면 트윗이 공앱에서 보이는구나."
+	},
+	{
+		"created_at": "Wed Oct 14 06:23:10 +0000 2020",
+		"id": 1316227230880526300,
+		"id_str": "1316263259071160320",
+		"full_text": "방탄소년단, 빌보드 '소셜 50' 200주째 1위…차트 사상 처음\nhttps://t.co/BTPC15OhXT\n\n그룹 방탄소년단(BTS)이 온라인 영향력을 보여주는 미국 빌보드 '소셜 50' 차트 사상 처음으로 통산 200주째 정상을 차지한 가수가 됐습니다. https://t.co/oScs0wOYwJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BTPC15OhXT",
+					"expanded_url": "https://www.yna.co.kr/view/AKR20201014045000005?input=tw",
+					"display_url": "yna.co.kr/view/AKR202010…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1316202589797531600,
+					"id_str": "1316202589797531648",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/EkQXSClUwAAIOke.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkQXSClUwAAIOke.jpg",
+					"url": "https://t.co/oScs0wOYwJ",
+					"display_url": "pic.twitter.com/oScs0wOYwJ",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1316227230880526337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 333,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316202589797531600,
+					"id_str": "1316202589797531648",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/EkQXSClUwAAIOke.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkQXSClUwAAIOke.jpg",
+					"url": "https://t.co/oScs0wOYwJ",
+					"display_url": "pic.twitter.com/oScs0wOYwJ",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1316227230880526337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 333,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147451838,
+			"id_str": "147451838",
+			"name": "연합뉴스",
+			"screen_name": "yonhaptweet",
+			"location": "대한민국 서울",
+			"description": "[홈페이지] https://t.co/1xjsaY9KNh  \n제보는 카카오톡, 라인, 위챗 okjebo",
+			"url": "https://t.co/1xjsaY9KNh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								7,
+								30
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 319108,
+			"friends_count": 69642,
+			"listed_count": 4485,
+			"created_at": "Mon May 24 05:08:01 +0000 2010",
+			"favourites_count": 212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 222359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1548822583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 131,
+		"favorite_count": 197,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방탄소년단, 빌보드 '소셜 50' 200주째 1위…차트 사상 처음\nhttps://t.co/BTPC15OhXT\n\n그룹 방탄소년단(BTS)이 온라인 영향력을 보여주는 미국 빌보드 '소셜 50' 차트 사상 처음으로 통산 200주째 정상을 차지한 가수가 됐습니다. https://t.co/oScs0wOYwJ"
+	},
+	{
+		"created_at": "Wed Oct 14 06:12:26 +0000 2020",
+		"id": 1316249741211041800,
+		"id_str": "1316260556119007232",
+		"full_text": "#TwitterBlueroom 과 함께한 #BLACKPINK 의 LIVE Q&amp;A! 모두 즐거우셨나요~? #블랙핑크의 첫 정규앨범 #THE_ALBUM 도 많은 사랑 부탁드려요💕 https://t.co/ZiOyIJKONS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TwitterBlueroom",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						23,
+						33
+					]
+				},
+				{
+					"text": "블랙핑크의",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "THE_ALBUM",
+					"indices": [
+						76,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316249731069173800,
+					"id_str": "1316249731069173760",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EkRCKBgU4AAwilh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkRCKBgU4AAwilh.jpg",
+					"url": "https://t.co/ZiOyIJKONS",
+					"display_url": "pic.twitter.com/ZiOyIJKONS",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1316249741211041793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1478,
+							"h": 1108,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316249731069173800,
+					"id_str": "1316249731069173760",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EkRCKBgU4AAwilh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkRCKBgU4AAwilh.jpg",
+					"url": "https://t.co/ZiOyIJKONS",
+					"display_url": "pic.twitter.com/ZiOyIJKONS",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1316249741211041793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1478,
+							"h": 1108,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/mhaOteBGUV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mhaOteBGUV",
+							"expanded_url": "https://youtu.be/dyRsYk0LyA8",
+							"display_url": "youtu.be/dyRsYk0LyA8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2167419,
+			"friends_count": 0,
+			"listed_count": 2882,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1601491826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28320,
+		"favorite_count": 85897,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#TwitterBlueroom 과 함께한 #BLACKPINK 의 LIVE Q&amp;A! 모두 즐거우셨나요~? #블랙핑크의 첫 정규앨범 #THE_ALBUM 도 많은 사랑 부탁드려요💕 https://t.co/ZiOyIJKONS"
+	},
+	{
+		"created_at": "Wed Oct 14 06:11:02 +0000 2020",
+		"id": 1315945608339837000,
+		"id_str": "1316260206360240128",
+		"full_text": "법무부와 검찰은 음주운전 사범을 엄단함은 물론,\n2018년부터 가석방 심사 기준을 강화하여\n가석방 불허율을 8배 가량 높였습니다.\n#법무부 #사실은_이렇습니다 #음주운전_가석방\n#음주운전_엄정대처 #음주운전_무관용 https://t.co/MB1ujX89Aa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "법무부",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "사실은_이렇습니다",
+					"indices": [
+						78,
+						88
+					]
+				},
+				{
+					"text": "음주운전_가석방",
+					"indices": [
+						89,
+						98
+					]
+				},
+				{
+					"text": "음주운전_엄정대처",
+					"indices": [
+						99,
+						109
+					]
+				},
+				{
+					"text": "음주운전_무관용",
+					"indices": [
+						110,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1315945526521602000,
+					"id_str": "1315945526521602051",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EkMte_QVoAMCtwH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkMte_QVoAMCtwH.jpg",
+					"url": "https://t.co/MB1ujX89Aa",
+					"display_url": "pic.twitter.com/MB1ujX89Aa",
+					"expanded_url": "https://twitter.com/happymoj/status/1315945608339836928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 409,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 1165,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 1165,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315945526521602000,
+					"id_str": "1315945526521602051",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EkMte_QVoAMCtwH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkMte_QVoAMCtwH.jpg",
+					"url": "https://t.co/MB1ujX89Aa",
+					"display_url": "pic.twitter.com/MB1ujX89Aa",
+					"expanded_url": "https://twitter.com/happymoj/status/1315945608339836928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 409,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 1165,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 1165,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 61355799,
+			"id_str": "61355799",
+			"name": "법무부",
+			"screen_name": "happymoj",
+			"location": "korea",
+			"description": "법무부 공식 트위터입니다. 국민여러분의 의견을 귀담아 듣겠습니다.",
+			"url": "https://t.co/qWSkDk5dXT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qWSkDk5dXT",
+							"expanded_url": "https://www.youtube.com/user/mojjustice01",
+							"display_url": "youtube.com/user/mojjustic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75602,
+			"friends_count": 12139,
+			"listed_count": 730,
+			"created_at": "Thu Jul 30 01:43:41 +0000 2009",
+			"favourites_count": 597,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/714714452860477440/_7gfO1AH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/714714452860477440/_7gfO1AH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/61355799/1551061995",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 40,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "법무부와 검찰은 음주운전 사범을 엄단함은 물론,\n2018년부터 가석방 심사 기준을 강화하여\n가석방 불허율을 8배 가량 높였습니다.\n#법무부 #사실은_이렇습니다 #음주운전_가석방\n#음주운전_엄정대처 #음주운전_무관용 https://t.co/MB1ujX89Aa"
+	},
+	{
 		"created_at": "Wed Oct 14 05:27:56 +0000 2020",
 		"id": 1316241603950903300,
 		"id_str": "1316249360586465282",
