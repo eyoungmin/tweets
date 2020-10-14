@@ -1,6 +1,1152 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 14 03:00:26 +0000 2020",
+		"id": 1316212238844297200,
+		"id_str": "1316212238844297216",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Oct 14) https://t.co/uYhWbBZCHJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uYhWbBZCHJ",
+					"expanded_url": "https://nzzl.us/xjpIRw8",
+					"display_url": "nzzl.us/xjpIRw8",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 968,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43646,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69788,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Oct 14) https://t.co/uYhWbBZCHJ"
+	},
+	{
+		"created_at": "Wed Oct 14 02:34:34 +0000 2020",
+		"id": 1316205730760777700,
+		"id_str": "1316205730760777728",
+		"full_text": "WordPress can now turn blog posts into tweetstorms automatically\nhttps://t.co/unUbIRo3QE\n\n워드프레스 플러그인 젯팩이 트윗 타래로 발송해주는 기능을 공개\n\n#워드프레스 #WordPress #젯팩 #Jetpack #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워드프레스",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "WordPress",
+					"indices": [
+						133,
+						143
+					]
+				},
+				{
+					"text": "젯팩",
+					"indices": [
+						144,
+						147
+					]
+				},
+				{
+					"text": "Jetpack",
+					"indices": [
+						148,
+						156
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						157,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/unUbIRo3QE",
+					"expanded_url": "https://tcrn.ch/3dzKWEV",
+					"display_url": "tcrn.ch/3dzKWEV",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "정보를 능동적으로 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 968,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 43646,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69788,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "WordPress can now turn blog posts into tweetstorms automatically\nhttps://t.co/unUbIRo3QE\n\n워드프레스 플러그인 젯팩이 트윗 타래로 발송해주는 기능을 공개\n\n#워드프레스 #WordPress #젯팩 #Jetpack #minfav"
+	},
+	{
+		"created_at": "Wed Oct 14 02:22:30 +0000 2020",
+		"id": 1316202170581090300,
+		"id_str": "1316202692084076549",
+		"full_text": "송경원 기자가 &lt;보건교사 안은영&gt;에 관해 쓴 긴 리뷰를 읽어보시길 추천합니다. 이경미 감독의 세계에서 '시발'이 갖는 미적인 아름다움에 관해 심혈을 기울여 언급하는 첫 문단에서부터 심쿵... https://t.co/fp1ovg5frp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fp1ovg5frp",
+					"expanded_url": "http://www.cine21.com/news/view/?idx=0&mag_id=96310",
+					"display_url": "cine21.com/news/view/?idx…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1316201526856044500,
+		"in_reply_to_status_id_str": "1316201526856044547",
+		"in_reply_to_user_id": 130821868,
+		"in_reply_to_user_id_str": "130821868",
+		"in_reply_to_screen_name": "cine21_editor",
+		"user": {
+			"id": 130821868,
+			"id_str": "130821868",
+			"name": "cine21_editor",
+			"screen_name": "cine21_editor",
+			"location": "서울, 영등포구, 당산",
+			"description": "창간 25주년을 맞은 씨네21입니다. 📙최신호, 과월호 구입 👉 https://t.co/xd30HUeMc5  📕e북, 리디북스, 교보문고, 모아진, 중앙 조인스, 밀리의 서재  https://t.co/d9WYdzC4Xe",
+			"url": "https://t.co/2oKMERpkOg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2oKMERpkOg",
+							"expanded_url": "http://www.cine21.com",
+							"display_url": "cine21.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xd30HUeMc5",
+							"expanded_url": "https://smartstore.naver.com/cine21",
+							"display_url": "smartstore.naver.com/cine21",
+							"indices": [
+								36,
+								59
+							]
+						},
+						{
+							"url": "https://t.co/d9WYdzC4Xe",
+							"expanded_url": "https://www.youtube.com/c/cine21tv/featured",
+							"display_url": "youtube.com/c/cine21tv/fea…",
+							"indices": [
+								99,
+								122
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 446986,
+			"friends_count": 543,
+			"listed_count": 1687,
+			"created_at": "Thu Apr 08 12:28:06 +0000 2010",
+			"favourites_count": 65,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245611566659035136/pjOBmXRZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245611566659035136/pjOBmXRZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/130821868/1602208893",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "송경원 기자가 &lt;보건교사 안은영&gt;에 관해 쓴 긴 리뷰를 읽어보시길 추천합니다. 이경미 감독의 세계에서 '시발'이 갖는 미적인 아름다움에 관해 심혈을 기울여 언급하는 첫 문단에서부터 심쿵... https://t.co/fp1ovg5frp"
+	},
+	{
+		"created_at": "Wed Oct 14 02:22:20 +0000 2020",
+		"id": 1316197031359250400,
+		"id_str": "1316202649247571968",
+		"full_text": "첫 만남부터 첫 키스, 프러포즈, 결혼까지💍\n\n브레이크 고장 난 직진 커플!\n정환(#고경표)❤주은(#서현) 서사 몰아보기\n\n▶매주 수목 밤 9시 30분 #사생활 본.방.사.수! https://t.co/9ngQM4w1If",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고경표",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						85,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1315954557852151800,
+					"id_str": "1315954557852151809",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EkM2CtPVoAAAnVF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkM2CtPVoAAAnVF.jpg",
+					"url": "https://t.co/9ngQM4w1If",
+					"display_url": "pic.twitter.com/9ngQM4w1If",
+					"expanded_url": "https://twitter.com/jtbclove/status/1316197031359250433/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315954557852151800,
+					"id_str": "1315954557852151809",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EkM2CtPVoAAAnVF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkM2CtPVoAAAnVF.jpg",
+					"url": "https://t.co/9ngQM4w1If",
+					"display_url": "pic.twitter.com/9ngQM4w1If",
+					"expanded_url": "https://twitter.com/jtbclove/status/1316197031359250433/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 215449,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315954557852151809/vid/480x270/aaDmco5mEux1xNf5.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1315954557852151809/pl/7KhaksSusbyKxPwz.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315954557852151809/vid/1280x720/kTZQev0PcyHOvyaT.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315954557852151809/vid/640x360/1KfjqSOnR6Gs3ENf.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[사생활 1-2회 몰아보기] 첫 만남부터 결혼까지 쿨내 진동하는 판교신혼부부 스토리💝",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://tv.jtbc.joins.com/clip/pr10011229/pm10060702/vo10421892/view"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 440214,
+			"friends_count": 110,
+			"listed_count": 641,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1600066891",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 102,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "첫 만남부터 첫 키스, 프러포즈, 결혼까지💍\n\n브레이크 고장 난 직진 커플!\n정환(#고경표)❤주은(#서현) 서사 몰아보기\n\n▶매주 수목 밤 9시 30분 #사생활 본.방.사.수! https://t.co/9ngQM4w1If"
+	},
+	{
+		"created_at": "Wed Oct 14 02:18:03 +0000 2020",
+		"id": 1316197285621948400,
+		"id_str": "1316201571898646529",
+		"full_text": "💡 #EVENT!! 콘.고.물 : 콘텐츠 고수들에 물어보자! 💡\n　\n-컨퍼런스 신청 시, 연사님에게 질문을 남겨주세요. 라이브 방송에서 답변을 들으실 수 있습니다.\n-질문을 남겨주신 분들께 추첨을 통해 경품을 드립니다. 🎁\n-당첨자 발표 : 10/20 개별연락\n-❗정확한 메일주소와 휴대폰번호를 남겨주세요. https://t.co/xg43iSXOYE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EVENT",
+					"indices": [
+						2,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316194930562273300,
+					"id_str": "1316194930562273280",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EkQQUNtVkAAeru2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkQQUNtVkAAeru2.jpg",
+					"url": "https://t.co/xg43iSXOYE",
+					"display_url": "pic.twitter.com/xg43iSXOYE",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1316197285621948417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316194930562273300,
+					"id_str": "1316194930562273280",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EkQQUNtVkAAeru2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkQQUNtVkAAeru2.jpg",
+					"url": "https://t.co/xg43iSXOYE",
+					"display_url": "pic.twitter.com/xg43iSXOYE",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1316197285621948417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1316194939479363600,
+					"id_str": "1316194939479363585",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EkQQUu7VkAEFOZk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkQQUu7VkAEFOZk.jpg",
+					"url": "https://t.co/xg43iSXOYE",
+					"display_url": "pic.twitter.com/xg43iSXOYE",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1316197285621948417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1316194947054272500,
+					"id_str": "1316194947054272513",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EkQQVLJVgAEXa4L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkQQVLJVgAEXa4L.jpg",
+					"url": "https://t.co/xg43iSXOYE",
+					"display_url": "pic.twitter.com/xg43iSXOYE",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1316197285621948417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1316197275245244400,
+		"in_reply_to_status_id_str": "1316197275245244416",
+		"in_reply_to_user_id": 128414082,
+		"in_reply_to_user_id_str": "128414082",
+		"in_reply_to_screen_name": "ContentKorea",
+		"user": {
+			"id": 128414082,
+			"id_str": "128414082",
+			"name": "한국콘텐츠진흥원",
+			"screen_name": "ContentKorea",
+			"location": "korea",
+			"description": "대한민국 콘텐츠 산업 진흥 총괄기구, 한국콘텐츠진흥원(KOCCA), 게임,방송영상,애니,캐릭터,만화,패션,음악,문화원형,스마트콘텐츠 등의 제작지원, 수출지원, 연구, R&D 등의 업무를 하고 있습니다. 글로벌 콘텐츠! 스마트 KOCCA!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18930,
+			"friends_count": 13057,
+			"listed_count": 388,
+			"created_at": "Thu Apr 01 01:57:44 +0000 2010",
+			"favourites_count": 623,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6724,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126732960445550593/t5ygDZCD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126732960445550593/t5ygDZCD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128414082/1596504277",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💡 #EVENT!! 콘.고.물 : 콘텐츠 고수들에 물어보자! 💡\n　\n-컨퍼런스 신청 시, 연사님에게 질문을 남겨주세요. 라이브 방송에서 답변을 들으실 수 있습니다.\n-질문을 남겨주신 분들께 추첨을 통해 경품을 드립니다. 🎁\n-당첨자 발표 : 10/20 개별연락\n-❗정확한 메일주소와 휴대폰번호를 남겨주세요. https://t.co/xg43iSXOYE"
+	},
+	{
+		"created_at": "Wed Oct 14 02:17:53 +0000 2020",
+		"id": 1316197275245244400,
+		"id_str": "1316201530425397250",
+		"full_text": "이통 3사의 실감콘텐츠 미래 전략과 영화&lt;#조커&gt;를 만든 마이클우스랜에게 듣는 #DC세계관! 그리고 &lt;#보건교사안은영&gt; 정세랑 작가와 나누는 새로운 감수성 시대의 콘텐츠 이야기까지!\n\n2020 콘텐츠인사이트에 많은 관심과 참여 부탁드립니다!\n\n✅ 콘퍼런스 신청하기 : https://t.co/3iT6AXtEGa https://t.co/PTNUJnYjkx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조커",
+					"indices": [
+						26,
+						29
+					]
+				},
+				{
+					"text": "DC세계관",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "보건교사안은영",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3iT6AXtEGa",
+					"expanded_url": "https://vo.la/Z2Zos",
+					"display_url": "vo.la/Z2Zos",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1316194577657729000,
+					"id_str": "1316194577657729024",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EkQP_rCVkAAetsM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkQP_rCVkAAetsM.jpg",
+					"url": "https://t.co/PTNUJnYjkx",
+					"display_url": "pic.twitter.com/PTNUJnYjkx",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1316197275245244416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316194577657729000,
+					"id_str": "1316194577657729024",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EkQP_rCVkAAetsM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkQP_rCVkAAetsM.jpg",
+					"url": "https://t.co/PTNUJnYjkx",
+					"display_url": "pic.twitter.com/PTNUJnYjkx",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1316197275245244416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1316194588126707700,
+					"id_str": "1316194588126707712",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EkQQASCVgAAvuID.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkQQASCVgAAvuID.jpg",
+					"url": "https://t.co/PTNUJnYjkx",
+					"display_url": "pic.twitter.com/PTNUJnYjkx",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1316197275245244416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1316194602664173600,
+					"id_str": "1316194602664173568",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EkQQBIMVoAAdmgK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkQQBIMVoAAdmgK.jpg",
+					"url": "https://t.co/PTNUJnYjkx",
+					"display_url": "pic.twitter.com/PTNUJnYjkx",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1316197275245244416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1316194615762972700,
+					"id_str": "1316194615762972672",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EkQQB4_VcAAxfDX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkQQB4_VcAAxfDX.jpg",
+					"url": "https://t.co/PTNUJnYjkx",
+					"display_url": "pic.twitter.com/PTNUJnYjkx",
+					"expanded_url": "https://twitter.com/ContentKorea/status/1316197275245244416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1316197264721756200,
+		"in_reply_to_status_id_str": "1316197264721756160",
+		"in_reply_to_user_id": 128414082,
+		"in_reply_to_user_id_str": "128414082",
+		"in_reply_to_screen_name": "ContentKorea",
+		"user": {
+			"id": 128414082,
+			"id_str": "128414082",
+			"name": "한국콘텐츠진흥원",
+			"screen_name": "ContentKorea",
+			"location": "korea",
+			"description": "대한민국 콘텐츠 산업 진흥 총괄기구, 한국콘텐츠진흥원(KOCCA), 게임,방송영상,애니,캐릭터,만화,패션,음악,문화원형,스마트콘텐츠 등의 제작지원, 수출지원, 연구, R&D 등의 업무를 하고 있습니다. 글로벌 콘텐츠! 스마트 KOCCA!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18930,
+			"friends_count": 13057,
+			"listed_count": 388,
+			"created_at": "Thu Apr 01 01:57:44 +0000 2010",
+			"favourites_count": 623,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6724,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126732960445550593/t5ygDZCD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126732960445550593/t5ygDZCD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128414082/1596504277",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이통 3사의 실감콘텐츠 미래 전략과 영화&lt;#조커&gt;를 만든 마이클우스랜에게 듣는 #DC세계관! 그리고 &lt;#보건교사안은영&gt; 정세랑 작가와 나누는 새로운 감수성 시대의 콘텐츠 이야기까지!\n\n2020 콘텐츠인사이트에 많은 관심과 참여 부탁드립니다!\n\n✅ 콘퍼런스 신청하기 : https://t.co/3iT6AXtEGa https://t.co/PTNUJnYjkx"
+	},
+	{
 		"created_at": "Wed Oct 14 01:27:05 +0000 2020",
 		"id": 1316181932456124400,
 		"id_str": "1316188745322950656",
