@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 01 14:45:36 +0000 2020",
+		"id": 1322901599887396900,
+		"id_str": "1322912683545501696",
+		"full_text": "이달의 소녀와 함께한 틱톡 컴백라이브\n이달의 소녀 Why Not? 라이브\n\n틱톡 라이브를 놓쳤다면?\n👉풀버전 시청하기 : https://t.co/T34pvzevQe\n\nWach #LOONA 's TikTok Comeback Live on YOUTUBE! \n\n#이달의소녀 #LOONA #틱톡라이브 #TikTokLive #WhyNot #틱톡 #TikTok https://t.co/ARjn4Kxszs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						143,
+						149
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "틱톡라이브",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "TikTokLive",
+					"indices": [
+						164,
+						175
+					]
+				},
+				{
+					"text": "WhyNot",
+					"indices": [
+						176,
+						183
+					]
+				},
+				{
+					"text": "틱톡",
+					"indices": [
+						184,
+						187
+					]
+				},
+				{
+					"text": "TikTok",
+					"indices": [
+						188,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T34pvzevQe",
+					"expanded_url": "https://youtu.be/DHDfiVUxS0Y",
+					"display_url": "youtu.be/DHDfiVUxS0Y",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1322901240368394200,
+					"id_str": "1322901240368394240",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1322901240368394240/pu/img/0jH1yOgVh3hajIVb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1322901240368394240/pu/img/0jH1yOgVh3hajIVb.jpg",
+					"url": "https://t.co/ARjn4Kxszs",
+					"display_url": "pic.twitter.com/ARjn4Kxszs",
+					"expanded_url": "https://twitter.com/TiktokKR/status/1322901599887396866/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1322901240368394200,
+					"id_str": "1322901240368394240",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1322901240368394240/pu/img/0jH1yOgVh3hajIVb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1322901240368394240/pu/img/0jH1yOgVh3hajIVb.jpg",
+					"url": "https://t.co/ARjn4Kxszs",
+					"display_url": "pic.twitter.com/ARjn4Kxszs",
+					"expanded_url": "https://twitter.com/TiktokKR/status/1322901599887396866/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 32232,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1322901240368394240/pu/vid/360x640/RGWu-rhROeVBpYd3.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1322901240368394240/pu/vid/320x568/45vKaJzgDFr6RYo0.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1322901240368394240/pu/pl/vAQnlCygCjJpzCRw.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1322901240368394240/pu/vid/576x1024/h7J5UjithpJsgbbQ.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 895890154639966200,
+			"id_str": "895890154639966208",
+			"name": "TikTok_Korea",
+			"screen_name": "TiktokKR",
+			"location": "",
+			"description": "그 시작은, 틱톡\nIt starts on TikTok",
+			"url": "https://t.co/yABXy07DNe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yABXy07DNe",
+							"expanded_url": "https://vt.tiktok.com/ZS5PcQag/",
+							"display_url": "vt.tiktok.com/ZS5PcQag/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 212362,
+			"friends_count": 487,
+			"listed_count": 98,
+			"created_at": "Fri Aug 11 06:10:32 +0000 2017",
+			"favourites_count": 755,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1944,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305873722394333184/82mzl3cI_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305873722394333184/82mzl3cI_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/895890154639966208/1600237093",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 198,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이달의 소녀와 함께한 틱톡 컴백라이브\n이달의 소녀 Why Not? 라이브\n\n틱톡 라이브를 놓쳤다면?\n👉풀버전 시청하기 : https://t.co/T34pvzevQe\n\nWach #LOONA 's TikTok Comeback Live on YOUTUBE! \n\n#이달의소녀 #LOONA #틱톡라이브 #TikTokLive #WhyNot #틱톡 #TikTok https://t.co/ARjn4Kxszs"
+	},
+	{
 		"created_at": "Sun Nov 01 13:42:07 +0000 2020",
 		"id": 1322896703607861200,
 		"id_str": "1322896703607861254",
