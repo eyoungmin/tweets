@@ -1,6 +1,162 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 02 01:27:04 +0000 2020",
+		"id": 1323072694493933600,
+		"id_str": "1323074113947185152",
+		"full_text": "안 쎈언니 넉언니와힙합 원정대 '예리한 힙합 스쿨' [EP.20-1] \n\n👉🏻 https://t.co/B5eNVSCmnC \n\n#예리 #YERI #레드벨벳 #RedVelvet #넉살 #NUCKSAL #예리한방",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"text": "넉살",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "NUCKSAL",
+					"indices": [
+						101,
+						109
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						110,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B5eNVSCmnC",
+					"expanded_url": "https://youtu.be/ZBhJxKFxqME",
+					"display_url": "youtu.be/ZBhJxKFxqME",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3360122,
+			"friends_count": 1,
+			"listed_count": 6907,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1533,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1790,
+		"favorite_count": 6418,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안 쎈언니 넉언니와힙합 원정대 '예리한 힙합 스쿨' [EP.20-1] \n\n👉🏻 https://t.co/B5eNVSCmnC \n\n#예리 #YERI #레드벨벳 #RedVelvet #넉살 #NUCKSAL #예리한방"
+	},
+	{
 		"created_at": "Mon Nov 02 01:01:05 +0000 2020",
 		"id": 1323067572691021800,
 		"id_str": "1323067572691021824",
