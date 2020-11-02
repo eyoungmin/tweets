@@ -1,6 +1,612 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 02 03:01:08 +0000 2020",
+		"id": 1323097782941528000,
+		"id_str": "1323097782941528066",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Nov 2) https://t.co/5a6jTxVEHp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5a6jTxVEHp",
+					"expanded_url": "https://nzzl.us/IC064QV",
+					"display_url": "nzzl.us/IC064QV",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "#뮤직비지니스 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 1020,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44009,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Nov 2) https://t.co/5a6jTxVEHp"
+	},
+	{
+		"created_at": "Mon Nov 02 02:47:24 +0000 2020",
+		"id": 1323094326554087400,
+		"id_str": "1323094326554087425",
+		"full_text": "#내한공연 #내한\n유키 구라모토 콘서트 - 울산 (2020.11.21 ~ 2020.11.21) at 울산 현대예술관 대공연장\nhttps://t.co/jTA5glq4Kd\n#플레이DB #PlayDB https://t.co/UdGSkabvZF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "내한공연",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "내한",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "플레이DB",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "PlayDB",
+					"indices": [
+						101,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jTA5glq4Kd",
+					"expanded_url": "http://www.playdb.co.kr/playdb/playdbDetail.asp?sReqPlayno=161144",
+					"display_url": "playdb.co.kr/playdb/playdbD…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323094325660688400,
+					"id_str": "1323094325660688384",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/ElyTR3VXIAAysYE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElyTR3VXIAAysYE.jpg",
+					"url": "https://t.co/UdGSkabvZF",
+					"display_url": "pic.twitter.com/UdGSkabvZF",
+					"expanded_url": "https://twitter.com/fromminn/status/1323094326554087425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 90,
+							"h": 90,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323094325660688400,
+					"id_str": "1323094325660688384",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/ElyTR3VXIAAysYE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElyTR3VXIAAysYE.jpg",
+					"url": "https://t.co/UdGSkabvZF",
+					"display_url": "pic.twitter.com/UdGSkabvZF",
+					"expanded_url": "https://twitter.com/fromminn/status/1323094326554087425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 90,
+							"h": 90,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "#뮤직비지니스 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 1020,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44009,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#내한공연 #내한\n유키 구라모토 콘서트 - 울산 (2020.11.21 ~ 2020.11.21) at 울산 현대예술관 대공연장\nhttps://t.co/jTA5glq4Kd\n#플레이DB #PlayDB https://t.co/UdGSkabvZF"
+	},
+	{
+		"created_at": "Mon Nov 02 02:28:00 +0000 2020",
+		"id": 1323089028078424000,
+		"id_str": "1323089445445390337",
+		"full_text": "[#예리한방] 41-42화 공개💜 \n보러가기🤳https://t.co/8zPMy9DEr7 \n\n솔로로 돌아온 음색 장인 #수현 🛸\n#AKMU 수현X예리의 뮤직박스🎶\n\n📌 매주 월요일 11시 예리한 방 \n#Seezn 에서 무료 선공개💕 \n\n#Seezn오리지널 #덤덤스튜디오 #예리 #YERI #레드벨벳 #RedVelvet https://t.co/bWRCMBn2Bz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리한방",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "수현",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "AKMU",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "Seezn",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "Seezn오리지널",
+					"indices": [
+						131,
+						141
+					]
+				},
+				{
+					"text": "덤덤스튜디오",
+					"indices": [
+						142,
+						149
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						160,
+						165
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						166,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8zPMy9DEr7",
+					"expanded_url": "http://bit.ly/yeri_room",
+					"display_url": "bit.ly/yeri_room",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323088995052445700,
+					"id_str": "1323088995052445696",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/ElyOblRUYAAmCDU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElyOblRUYAAmCDU.jpg",
+					"url": "https://t.co/bWRCMBn2Bz",
+					"display_url": "pic.twitter.com/bWRCMBn2Bz",
+					"expanded_url": "https://twitter.com/my_seezn/status/1323089028078424068/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323088995052445700,
+					"id_str": "1323088995052445696",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/ElyOblRUYAAmCDU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElyOblRUYAAmCDU.jpg",
+					"url": "https://t.co/bWRCMBn2Bz",
+					"display_url": "pic.twitter.com/bWRCMBn2Bz",
+					"expanded_url": "https://twitter.com/my_seezn/status/1323089028078424068/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1323089012928602000,
+					"id_str": "1323089012928602112",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/ElyOcn3U4AAbXCA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElyOcn3U4AAbXCA.jpg",
+					"url": "https://t.co/bWRCMBn2Bz",
+					"display_url": "pic.twitter.com/bWRCMBn2Bz",
+					"expanded_url": "https://twitter.com/my_seezn/status/1323089028078424068/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1194503596139671600,
+			"id_str": "1194503596139671558",
+			"name": "Seezn(시즌)",
+			"screen_name": "my_seezn",
+			"location": "대한민국 어디서나",
+			"description": "Seezn의 공식계정입니다!\n　\n👉Seezn_오리지널_컨텐츠: #아이돌_원더랜드 #여은파 #WayVision #우석이의언박싱 #솔로말고멜로 #빽투더아이돌 #뮤시즌 #기분째니는날 #놓지마정신줄 #아이돌다방 #NCT_LIFE #싱스테이 #예리한방 #예병대캠프 #히든트랙 #고막메이트 etc",
+			"url": "https://t.co/qrz9LR2d3n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qrz9LR2d3n",
+							"expanded_url": "http://bit.ly/Seezn",
+							"display_url": "bit.ly/Seezn",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46376,
+			"friends_count": 6,
+			"listed_count": 60,
+			"created_at": "Wed Nov 13 06:34:16 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 844,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245010163850870786/Lf56Mf63_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245010163850870786/Lf56Mf63_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1194503596139671558/1602731210",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 117,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예리한방] 41-42화 공개💜 \n보러가기🤳https://t.co/8zPMy9DEr7 \n\n솔로로 돌아온 음색 장인 #수현 🛸\n#AKMU 수현X예리의 뮤직박스🎶\n\n📌 매주 월요일 11시 예리한 방 \n#Seezn 에서 무료 선공개💕 \n\n#Seezn오리지널 #덤덤스튜디오 #예리 #YERI #레드벨벳 #RedVelvet https://t.co/bWRCMBn2Bz"
+	},
+	{
 		"created_at": "Mon Nov 02 01:27:04 +0000 2020",
 		"id": 1323072694493933600,
 		"id_str": "1323074113947185152",
