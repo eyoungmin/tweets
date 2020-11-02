@@ -1,6 +1,458 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 02 04:45:42 +0000 2020",
+		"id": 1323122986287681500,
+		"id_str": "1323124099221250048",
+		"full_text": "라인업\nTOO, X1, 구구단, 프리스틴, 뉴이스트, 비투비, 우주소녀, B1A4, 빅스, 걸스데이, CLC, 몬스타엑스, 갓세븐, 시크릿넘버, 이달의 소녀, 에이티즈, 크래비티, 프로미스나인, 러블리즈, 더보이즈, AB6IX, 온앤오프, 위키미키, 에이프릴, 위아이, EXO-K, 트와이스, SF9, 엔시티드림 https://t.co/oaiccKxMz2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oaiccKxMz2",
+					"expanded_url": "https://twitter.com/allthekpop/status/1323082197155278848",
+					"display_url": "twitter.com/allthekpop/sta…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/YpjchEd2rf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YpjchEd2rf",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60926,
+			"friends_count": 2500,
+			"listed_count": 241,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7962,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1323082197155278800,
+		"quoted_status_id_str": "1323082197155278848",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oaiccKxMz2",
+			"expanded": "https://twitter.com/allthekpop/status/1323082197155278848",
+			"display": "twitter.com/allthekpop/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 02 01:59:12 +0000 2020",
+			"id": 1323082197155278800,
+			"id_str": "1323082197155278848",
+			"full_text": "올케다방의 띵곡팔이👋🏻\n⏰PM 2:00~3:30\n\n11월 생일인 아이돌 여기 여기 붙어라 ✋🏻✋🏻\n내 최애 생일이 11월이라면 주-목 🥰💖\n\n▶https://t.co/P1yYXudNi2\n☝올케팝 유튜브 채널 알림설정하면 띵곡팔이 알림 딩동 https://t.co/c3GNIeCKG7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				133
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/P1yYXudNi2",
+						"expanded_url": "https://youtu.be/xD1oxHMDHhY",
+						"display_url": "youtu.be/xD1oxHMDHhY",
+						"indices": [
+							80,
+							103
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1323082190628954000,
+						"id_str": "1323082190628954112",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/ElyIPg0VoAA3piL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElyIPg0VoAA3piL.jpg",
+						"url": "https://t.co/c3GNIeCKG7",
+						"display_url": "pic.twitter.com/c3GNIeCKG7",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1323082197155278848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1323082190628954000,
+						"id_str": "1323082190628954112",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/ElyIPg0VoAA3piL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElyIPg0VoAA3piL.jpg",
+						"url": "https://t.co/c3GNIeCKG7",
+						"display_url": "pic.twitter.com/c3GNIeCKG7",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1323082197155278848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744928926,
+				"id_str": "744928926",
+				"name": "올더케이팝",
+				"screen_name": "ALLTHEKPOP",
+				"location": "",
+				"description": "ALL about ID♡L, ALL THE K-POP",
+				"url": "https://t.co/YpjchEd2rf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YpjchEd2rf",
+								"expanded_url": "http://www.youtube.com/allthekpop",
+								"display_url": "youtube.com/allthekpop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 60926,
+				"friends_count": 2500,
+				"listed_count": 241,
+				"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+				"favourites_count": 7962,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5938,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 88,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 16,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "라인업\nTOO, X1, 구구단, 프리스틴, 뉴이스트, 비투비, 우주소녀, B1A4, 빅스, 걸스데이, CLC, 몬스타엑스, 갓세븐, 시크릿넘버, 이달의 소녀, 에이티즈, 크래비티, 프로미스나인, 러블리즈, 더보이즈, AB6IX, 온앤오프, 위키미키, 에이프릴, 위아이, EXO-K, 트와이스, SF9, 엔시티드림 https://t.co/oaiccKxMz2"
+	},
+	{
+		"created_at": "Mon Nov 02 04:45:37 +0000 2020",
+		"id": 1323116643526930400,
+		"id_str": "1323124077758996488",
+		"full_text": "\"우리 이런 사이 아니잖아?\"😅\n엄마의 폭로에 당황한 쩨리🍒🍒\n\n#아이돌그라운드 #이달의소녀 #LOONA\n#최리 #쩨리 #Choerry #고구마로맨스 \n\nhttps://t.co/omWcixWDtj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌그라운드",
+					"indices": [
+						36,
+						44
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "쩨리",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						67,
+						75
+					]
+				},
+				{
+					"text": "고구마로맨스",
+					"indices": [
+						76,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/omWcixWDtj",
+					"expanded_url": "https://www.youtube.com/watch?v=l7VD9gpUg7M",
+					"display_url": "youtube.com/watch?v=l7VD9g…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906055771921629200,
+			"id_str": "906055771921629184",
+			"name": "나돌(NADOL)",
+			"screen_name": "ae_ssr",
+			"location": "대한민국 중구",
+			"description": "KPOP 스타들의 매력발산 채널 '나도 아이돌이다'",
+			"url": "https://t.co/W4BmT5ww9v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W4BmT5ww9v",
+							"expanded_url": "https://www.youtube.com/channel/UC3pk0eDcZx_oYGCWNyJpjMQ/featured?view_as=subscriber",
+							"display_url": "youtube.com/channel/UC3pk0…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 930,
+			"friends_count": 86,
+			"listed_count": 11,
+			"created_at": "Fri Sep 08 07:25:04 +0000 2017",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1318368541406494720/fyadTBj2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318368541406494720/fyadTBj2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906055771921629184/1603158530",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 92,
+		"favorite_count": 238,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"우리 이런 사이 아니잖아?\"😅\n엄마의 폭로에 당황한 쩨리🍒🍒\n\n#아이돌그라운드 #이달의소녀 #LOONA\n#최리 #쩨리 #Choerry #고구마로맨스 \n\nhttps://t.co/omWcixWDtj"
+	},
+	{
 		"created_at": "Mon Nov 02 03:42:33 +0000 2020",
 		"id": 1323108209633185800,
 		"id_str": "1323108209633185792",
