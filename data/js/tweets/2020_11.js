@@ -1,6 +1,926 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 02 12:34:07 +0000 2020",
+		"id": 1323241979854037000,
+		"id_str": "1323241979854036992",
+		"full_text": "메일이 안가져와지고 가져와도 일부만 가져와진다던가 무료지만 쓰기에는 부적합한 도메인 메일이라 판단. 다음스마트워크는 다음메일에 붙지만 사용자를 500명까지 늘릴 수 있다는 장점이 있으나 이 장점은 위 단점 때문에 장점이라 할 수 없음. #다음스마트워크 #도메인메일",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "다음스마트워크",
+					"indices": [
+						132,
+						140
+					]
+				},
+				{
+					"text": "도메인메일",
+					"indices": [
+						141,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1323241977928851500,
+		"in_reply_to_status_id_str": "1323241977928851456",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "#뮤직비지니스 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "메일이 안가져와지고 가져와도 일부만 가져와진다던가 무료지만 쓰기에는 부적합한 도메인 메일이라 판단. 다음스마트워크는 다음메일에 붙지만 사용자를 500명까지 늘릴 수 있다는 장점이 있으나 이 장점은 위 단점 때문에 장점이라 할 수 없음. #다음스마트워크 #도메인메일"
+	},
+	{
+		"created_at": "Mon Nov 02 12:34:06 +0000 2020",
+		"id": 1323241977928851500,
+		"id_str": "1323241977928851456",
+		"full_text": "이 문제를 카카오에 문의했는데 문제없다고 계속 이야기하고. 대화를 하다보니 mx레코드 설정이 안되있다고 하질 않나. 설정하고 만진 적 없고. 알아보니 [기존에 받은 메일을 포함하여 받음]을 선택하면 오류가 뿜뿜하는 것이었고. 얼마 안가 또 다시 문제가 발생함. https://t.co/2ss75dmsft",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1323241643621843000,
+					"id_str": "1323241643621842944",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/El0ZQ5gVgAAQ8bi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El0ZQ5gVgAAQ8bi.jpg",
+					"url": "https://t.co/2ss75dmsft",
+					"display_url": "pic.twitter.com/2ss75dmsft",
+					"expanded_url": "https://twitter.com/fromminn/status/1323241977928851456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 233,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1574,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 412,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323241643621843000,
+					"id_str": "1323241643621842944",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/El0ZQ5gVgAAQ8bi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El0ZQ5gVgAAQ8bi.jpg",
+					"url": "https://t.co/2ss75dmsft",
+					"display_url": "pic.twitter.com/2ss75dmsft",
+					"expanded_url": "https://twitter.com/fromminn/status/1323241977928851456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 233,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1574,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 412,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1323240315302539300,
+		"in_reply_to_status_id_str": "1323240315302539264",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "#뮤직비지니스 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 문제를 카카오에 문의했는데 문제없다고 계속 이야기하고. 대화를 하다보니 mx레코드 설정이 안되있다고 하질 않나. 설정하고 만진 적 없고. 알아보니 [기존에 받은 메일을 포함하여 받음]을 선택하면 오류가 뿜뿜하는 것이었고. 얼마 안가 또 다시 문제가 발생함. https://t.co/2ss75dmsft"
+	},
+	{
+		"created_at": "Mon Nov 02 12:27:30 +0000 2020",
+		"id": 1323240315302539300,
+		"id_str": "1323240315302539264",
+		"full_text": "고질병인가보네. 개인이메일은 돈주고 다른 곳에서 쓰고 있고 수익이 없는 곳의 도메인 이메일 필요해서 선택했는데 지메일로 메일이 가져오지 않고 누락됨. 다른 지메일 계정에는 들어가는데 본 지메일에는 오질 않는다던가. 서버오류 뿜뿜 하면서 해제하라고 알림뜬다던가. https://t.co/vjMEDAAddY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vjMEDAAddY",
+					"expanded_url": "https://twitter.com/lkaybob/status/1162353047999094784",
+					"display_url": "twitter.com/lkaybob/status…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "#뮤직비지니스 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1162353047999094800,
+		"quoted_status_id_str": "1162353047999094784",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vjMEDAAddY",
+			"expanded": "https://twitter.com/lkaybob/status/1162353047999094784",
+			"display": "twitter.com/lkaybob/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 16 13:18:56 +0000 2019",
+			"id": 1162353047999094800,
+			"id_str": "1162353047999094784",
+			"full_text": "개인 도메인을 다음 스마트워크에 연결시켜서 메일 주소로 그동안 사용하고 있었고, 에이전시 쪽에도 개인도메인 메일 주소를 알려줬다.\n\n근데 웃긴거는 에이전시에서 처리해준 비행기 예매 메일들이 총 6개가 와야하는 것 같은데, 나한테는 딸랑 2통만 오는 넌센스.\nhttps://t.co/PR6fPimBRk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				167
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PR6fPimBRk",
+						"expanded_url": "http://mail.daum.net/hanmailex/domain.html",
+						"display_url": "mail.daum.net/hanmailex/doma…",
+						"indices": [
+							144,
+							167
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1162353046237503500,
+			"in_reply_to_status_id_str": "1162353046237503488",
+			"in_reply_to_user_id": 763926191300456400,
+			"in_reply_to_user_id_str": "763926191300456452",
+			"in_reply_to_screen_name": "lkaybob",
+			"user": {
+				"id": 763926191300456400,
+				"id_str": "763926191300456452",
+				"name": "Sunghyuk Kay",
+				"screen_name": "lkaybob",
+				"location": "대한민국 경기도",
+				"description": "a.k.a Lawrence Kay\n\n석사생이라 불리는 잡부 개발자\n개발 이야기들은 거의 하지 않고, 현생에서 느끼는 감정들을 솔직하게 남기기 위해 트위터 합니다. (나중엔 개발 이야기 많이 할 수 있었으면...)",
+				"url": "https://t.co/rqo2yZo8Ok",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rqo2yZo8Ok",
+								"expanded_url": "https://blog.lkaybob.pe.kr/about",
+								"display_url": "blog.lkaybob.pe.kr/about",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 55,
+				"friends_count": 203,
+				"listed_count": 1,
+				"created_at": "Fri Aug 12 02:32:51 +0000 2016",
+				"favourites_count": 660,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 928,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1245372574520893441/x1jRq1Dj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245372574520893441/x1jRq1Dj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/763926191300456452/1522929893",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "고질병인가보네. 개인이메일은 돈주고 다른 곳에서 쓰고 있고 수익이 없는 곳의 도메인 이메일 필요해서 선택했는데 지메일로 메일이 가져오지 않고 누락됨. 다른 지메일 계정에는 들어가는데 본 지메일에는 오질 않는다던가. 서버오류 뿜뿜 하면서 해제하라고 알림뜬다던가. https://t.co/vjMEDAAddY"
+	},
+	{
+		"created_at": "Mon Nov 02 12:23:27 +0000 2020",
+		"id": 1162353062586962000,
+		"id_str": "1323239295918899200",
+		"full_text": "이러다가 중국 가는데 필요한 일들이 모두 꼬일 것 같아 고심 끝에 오피스 365 비즈니스를 신청해서 메일 서버를 옮기니까, 어제 왔어야할 메일들이 알아서 기어들어오는(?) 기이한 현상을 보이기 시작한 것...\n\n원드라이브 100GB 상품 쓰면서 계속 고민하던 것을 이렇게 충동적으로 해결 완료;; https://t.co/eKOXVij0Po",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1162353053132963800,
+					"id_str": "1162353053132963840",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/ECGB8YOUwAATUE3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECGB8YOUwAATUE3.jpg",
+					"url": "https://t.co/eKOXVij0Po",
+					"display_url": "pic.twitter.com/eKOXVij0Po",
+					"expanded_url": "https://twitter.com/lkaybob/status/1162353062586961921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 780,
+							"h": 1540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 344,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1162353053132963800,
+					"id_str": "1162353053132963840",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/ECGB8YOUwAATUE3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECGB8YOUwAATUE3.jpg",
+					"url": "https://t.co/eKOXVij0Po",
+					"display_url": "pic.twitter.com/eKOXVij0Po",
+					"expanded_url": "https://twitter.com/lkaybob/status/1162353062586961921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 780,
+							"h": 1540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 344,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1162353049697865700,
+		"in_reply_to_status_id_str": "1162353049697865729",
+		"in_reply_to_user_id": 763926191300456400,
+		"in_reply_to_user_id_str": "763926191300456452",
+		"in_reply_to_screen_name": "lkaybob",
+		"user": {
+			"id": 763926191300456400,
+			"id_str": "763926191300456452",
+			"name": "Sunghyuk Kay",
+			"screen_name": "lkaybob",
+			"location": "대한민국 경기도",
+			"description": "a.k.a Lawrence Kay\n\n석사생이라 불리는 잡부 개발자\n개발 이야기들은 거의 하지 않고, 현생에서 느끼는 감정들을 솔직하게 남기기 위해 트위터 합니다. (나중엔 개발 이야기 많이 할 수 있었으면...)",
+			"url": "https://t.co/rqo2yZo8Ok",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rqo2yZo8Ok",
+							"expanded_url": "https://blog.lkaybob.pe.kr/about",
+							"display_url": "blog.lkaybob.pe.kr/about",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 203,
+			"listed_count": 1,
+			"created_at": "Fri Aug 12 02:32:51 +0000 2016",
+			"favourites_count": 660,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245372574520893441/x1jRq1Dj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245372574520893441/x1jRq1Dj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/763926191300456452/1522929893",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이러다가 중국 가는데 필요한 일들이 모두 꼬일 것 같아 고심 끝에 오피스 365 비즈니스를 신청해서 메일 서버를 옮기니까, 어제 왔어야할 메일들이 알아서 기어들어오는(?) 기이한 현상을 보이기 시작한 것...\n\n원드라이브 100GB 상품 쓰면서 계속 고민하던 것을 이렇게 충동적으로 해결 완료;; https://t.co/eKOXVij0Po"
+	},
+	{
+		"created_at": "Mon Nov 02 12:23:19 +0000 2020",
+		"id": 1162353049697865700,
+		"id_str": "1323239261244588033",
+		"full_text": "운좋게도 그 중 한 통은 출국 비행기 예약번호가 있어서 예약이 잘 된 것을 확인했는데, 다른 귀국 비행기에 관한 기본적인 정보만 있고 예약번호는 없었... 삽질을 거쳐 검증을 해본 결과, 다음 메일에서 스팸으로 의심되는 메일들 중 일부는 아예 스팸 메일함에 들이지도 않는 것으로 결론냈다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1162353047999094800,
+		"in_reply_to_status_id_str": "1162353047999094784",
+		"in_reply_to_user_id": 763926191300456400,
+		"in_reply_to_user_id_str": "763926191300456452",
+		"in_reply_to_screen_name": "lkaybob",
+		"user": {
+			"id": 763926191300456400,
+			"id_str": "763926191300456452",
+			"name": "Sunghyuk Kay",
+			"screen_name": "lkaybob",
+			"location": "대한민국 경기도",
+			"description": "a.k.a Lawrence Kay\n\n석사생이라 불리는 잡부 개발자\n개발 이야기들은 거의 하지 않고, 현생에서 느끼는 감정들을 솔직하게 남기기 위해 트위터 합니다. (나중엔 개발 이야기 많이 할 수 있었으면...)",
+			"url": "https://t.co/rqo2yZo8Ok",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rqo2yZo8Ok",
+							"expanded_url": "https://blog.lkaybob.pe.kr/about",
+							"display_url": "blog.lkaybob.pe.kr/about",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 203,
+			"listed_count": 1,
+			"created_at": "Fri Aug 12 02:32:51 +0000 2016",
+			"favourites_count": 660,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245372574520893441/x1jRq1Dj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245372574520893441/x1jRq1Dj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/763926191300456452/1522929893",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "운좋게도 그 중 한 통은 출국 비행기 예약번호가 있어서 예약이 잘 된 것을 확인했는데, 다른 귀국 비행기에 관한 기본적인 정보만 있고 예약번호는 없었... 삽질을 거쳐 검증을 해본 결과, 다음 메일에서 스팸으로 의심되는 메일들 중 일부는 아예 스팸 메일함에 들이지도 않는 것으로 결론냈다."
+	},
+	{
+		"created_at": "Mon Nov 02 12:23:17 +0000 2020",
+		"id": 1162353047999094800,
+		"id_str": "1323239253011177472",
+		"full_text": "개인 도메인을 다음 스마트워크에 연결시켜서 메일 주소로 그동안 사용하고 있었고, 에이전시 쪽에도 개인도메인 메일 주소를 알려줬다.\n\n근데 웃긴거는 에이전시에서 처리해준 비행기 예매 메일들이 총 6개가 와야하는 것 같은데, 나한테는 딸랑 2통만 오는 넌센스.\nhttps://t.co/PR6fPimBRk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PR6fPimBRk",
+					"expanded_url": "http://mail.daum.net/hanmailex/domain.html",
+					"display_url": "mail.daum.net/hanmailex/doma…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1162353046237503500,
+		"in_reply_to_status_id_str": "1162353046237503488",
+		"in_reply_to_user_id": 763926191300456400,
+		"in_reply_to_user_id_str": "763926191300456452",
+		"in_reply_to_screen_name": "lkaybob",
+		"user": {
+			"id": 763926191300456400,
+			"id_str": "763926191300456452",
+			"name": "Sunghyuk Kay",
+			"screen_name": "lkaybob",
+			"location": "대한민국 경기도",
+			"description": "a.k.a Lawrence Kay\n\n석사생이라 불리는 잡부 개발자\n개발 이야기들은 거의 하지 않고, 현생에서 느끼는 감정들을 솔직하게 남기기 위해 트위터 합니다. (나중엔 개발 이야기 많이 할 수 있었으면...)",
+			"url": "https://t.co/rqo2yZo8Ok",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rqo2yZo8Ok",
+							"expanded_url": "https://blog.lkaybob.pe.kr/about",
+							"display_url": "blog.lkaybob.pe.kr/about",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 203,
+			"listed_count": 1,
+			"created_at": "Fri Aug 12 02:32:51 +0000 2016",
+			"favourites_count": 660,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245372574520893441/x1jRq1Dj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245372574520893441/x1jRq1Dj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/763926191300456452/1522929893",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "개인 도메인을 다음 스마트워크에 연결시켜서 메일 주소로 그동안 사용하고 있었고, 에이전시 쪽에도 개인도메인 메일 주소를 알려줬다.\n\n근데 웃긴거는 에이전시에서 처리해준 비행기 예매 메일들이 총 6개가 와야하는 것 같은데, 나한테는 딸랑 2통만 오는 넌센스.\nhttps://t.co/PR6fPimBRk"
+	},
+	{
+		"created_at": "Mon Nov 02 12:15:21 +0000 2020",
+		"id": 1323237257591943200,
+		"id_str": "1323237257591943173",
+		"full_text": "다음스마트워크는 또 서버오류 뿜으면서 지메일로 안가져와짐. 계속 그러니 버려야겠다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "#뮤직비지니스 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "다음스마트워크는 또 서버오류 뿜으면서 지메일로 안가져와짐. 계속 그러니 버려야겠다."
+	},
+	{
 		"created_at": "Mon Nov 02 11:07:51 +0000 2020",
 		"id": 1323220273030746000,
 		"id_str": "1323220273030746113",
