@@ -1,6 +1,1104 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 02 09:02:00 +0000 2020",
+		"id": 1323108041760256000,
+		"id_str": "1323188600834453505",
+		"full_text": "문화란게 참 무섭죠. 촌지와 폭력으로 얼룩진 교육현장을 바꾸기 위한 전교조의 참교육은 어느세 돈두댓과 빠따질로 바뀌어서 폭력을 통한 교정이 되어버렸으니까요 https://t.co/4LPltMV7az",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4LPltMV7az",
+					"expanded_url": "https://twitter.com/beramode_/status/1323107106438868993",
+					"display_url": "twitter.com/beramode_/stat…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 595380266,
+			"id_str": "595380266",
+			"name": "장냥😷",
+			"screen_name": "c_fcat",
+			"location": "어딜 보시는 거죠? 그건 제 잔상입니다만",
+			"description": "굿 묘닝 / 범죄자는 감옥으로, 피해자는 일상으로 / 비팔알림 꺼놨습니다 / 멍함 대신 묘함을 / $yndicate 로의 각성 희망합니다 / 제가 침묵보다 가치없는 말을 했다면 알려주세요 / 굿 냐잇",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 615,
+			"friends_count": 352,
+			"listed_count": 0,
+			"created_at": "Thu May 31 10:44:25 +0000 2012",
+			"favourites_count": 980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 210202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112362299170263040/q4TPlMfL_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112362299170263040/q4TPlMfL_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/595380266/1498213180",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1323107106438869000,
+		"quoted_status_id_str": "1323107106438868993",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4LPltMV7az",
+			"expanded": "https://twitter.com/beramode_/status/1323107106438868993",
+			"display": "twitter.com/beramode_/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 02 03:38:10 +0000 2020",
+			"id": 1323107106438869000,
+			"id_str": "1323107106438868993",
+			"full_text": "네이버웹툰에 &lt;참교육&gt;이라는 제목의 웹툰이 올라온 걸 보고 매우 참담한 기분. '참교육'이라는 단어가 웹상에서 폭력을 미화하는 용어로 쓰인다는 건 알지만, 어쨌든 절망스러워요. 이 단어는 학교의 폭력적이고 일방적인 교육에 반대하고 아이들을 행복하게 하는 교육을 위해 나온 말이었는데.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				164
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3533316680,
+				"id_str": "3533316680",
+				"name": "오렉시스",
+				"screen_name": "beramode_",
+				"location": "사르디나",
+				"description": "웹툰, 만화, 영화, 게임, 일상 및 기타 잡다한 것들에 대해 떠드는 계정. 로오히 트윗 많습니다.\n\n#FreedomHK #StandwithHK #DemocracyHK\n#nthroom_crime_out\n#Remember0416",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 129,
+				"friends_count": 372,
+				"listed_count": 1,
+				"created_at": "Sat Sep 12 02:48:12 +0000 2015",
+				"favourites_count": 2167,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11423,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1195209748922003457/uC9O5K1T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195209748922003457/uC9O5K1T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3533316680/1581696233",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1003,
+			"favorite_count": 311,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 358,
+		"favorite_count": 85,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "문화란게 참 무섭죠. 촌지와 폭력으로 얼룩진 교육현장을 바꾸기 위한 전교조의 참교육은 어느세 돈두댓과 빠따질로 바뀌어서 폭력을 통한 교정이 되어버렸으니까요 https://t.co/4LPltMV7az"
+	},
+	{
+		"created_at": "Mon Nov 02 09:01:53 +0000 2020",
+		"id": 1323107106438869000,
+		"id_str": "1323188571180654592",
+		"full_text": "네이버웹툰에 &lt;참교육&gt;이라는 제목의 웹툰이 올라온 걸 보고 매우 참담한 기분. '참교육'이라는 단어가 웹상에서 폭력을 미화하는 용어로 쓰인다는 건 알지만, 어쨌든 절망스러워요. 이 단어는 학교의 폭력적이고 일방적인 교육에 반대하고 아이들을 행복하게 하는 교육을 위해 나온 말이었는데.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3533316680,
+			"id_str": "3533316680",
+			"name": "오렉시스",
+			"screen_name": "beramode_",
+			"location": "사르디나",
+			"description": "웹툰, 만화, 영화, 게임, 일상 및 기타 잡다한 것들에 대해 떠드는 계정. 로오히 트윗 많습니다.\n\n#FreedomHK #StandwithHK #DemocracyHK\n#nthroom_crime_out\n#Remember0416",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 129,
+			"friends_count": 372,
+			"listed_count": 1,
+			"created_at": "Sat Sep 12 02:48:12 +0000 2015",
+			"favourites_count": 2167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1195209748922003457/uC9O5K1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195209748922003457/uC9O5K1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3533316680/1581696233",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1003,
+		"favorite_count": 311,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "네이버웹툰에 &lt;참교육&gt;이라는 제목의 웹툰이 올라온 걸 보고 매우 참담한 기분. '참교육'이라는 단어가 웹상에서 폭력을 미화하는 용어로 쓰인다는 건 알지만, 어쨌든 절망스러워요. 이 단어는 학교의 폭력적이고 일방적인 교육에 반대하고 아이들을 행복하게 하는 교육을 위해 나온 말이었는데."
+	},
+	{
+		"created_at": "Mon Nov 02 08:57:29 +0000 2020",
+		"id": 1323180843339112400,
+		"id_str": "1323187462995279874",
+		"full_text": "박지선씨는 배려 깊은 MC로 유명하다. \n각종 쇼케이스, 제작발표회, 팬미팅 MC로 활약해온 그는 빈틈없는 사전조사와 상대를 깎아내리지 않는 편안한 웃음과 상대를 배려하는 안정적인 진행으로 '팬미팅 MC 1순위'로 통했다.  \nhttps://t.co/xWI5XPRo7P https://t.co/bDJvFwHb39",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xWI5XPRo7P",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=310&aid=0000081592",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323180669581684700,
+					"id_str": "1323180669581684741",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/ElzhzvgUcAUwsx7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElzhzvgUcAUwsx7.jpg",
+					"url": "https://t.co/bDJvFwHb39",
+					"display_url": "pic.twitter.com/bDJvFwHb39",
+					"expanded_url": "https://twitter.com/wnewskr/status/1323180843339112454/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1988,
+							"h": 1118,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323180669581684700,
+					"id_str": "1323180669581684741",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/ElzhzvgUcAUwsx7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElzhzvgUcAUwsx7.jpg",
+					"url": "https://t.co/bDJvFwHb39",
+					"display_url": "pic.twitter.com/bDJvFwHb39",
+					"expanded_url": "https://twitter.com/wnewskr/status/1323180843339112454/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1988,
+							"h": 1118,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124189138,
+			"id_str": "124189138",
+			"name": "여성신문",
+			"screen_name": "wnewskr",
+			"location": "Korea",
+			"description": "1988년 창간 이래 여성 인권 신장과 성평등 실현을 위해 노력해온 국내 최초 여성정론지. 여러분의 다양한 의견과 제보를 기다립니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196092,
+			"friends_count": 3511,
+			"listed_count": 293,
+			"created_at": "Thu Mar 18 15:07:29 +0000 2010",
+			"favourites_count": 102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124189138/1557730620",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 913,
+		"favorite_count": 511,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "박지선씨는 배려 깊은 MC로 유명하다. \n각종 쇼케이스, 제작발표회, 팬미팅 MC로 활약해온 그는 빈틈없는 사전조사와 상대를 깎아내리지 않는 편안한 웃음과 상대를 배려하는 안정적인 진행으로 '팬미팅 MC 1순위'로 통했다.  \nhttps://t.co/xWI5XPRo7P https://t.co/bDJvFwHb39"
+	},
+	{
+		"created_at": "Mon Nov 02 08:56:51 +0000 2020",
+		"id": 1323187301724250000,
+		"id_str": "1323187301724250114",
+		"full_text": "목숨의 무게는 다 똑같은데.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "#뮤직비지니스 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "목숨의 무게는 다 똑같은데."
+	},
+	{
+		"created_at": "Mon Nov 02 08:30:00 +0000 2020",
+		"id": 1323180546118221800,
+		"id_str": "1323180546118221824",
+		"full_text": "트윗은 이미 상향되었다고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1323178850474360800,
+		"in_reply_to_status_id_str": "1323178850474360837",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "#뮤직비지니스 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "트윗은 이미 상향되었다고."
+	},
+	{
+		"created_at": "Mon Nov 02 08:25:59 +0000 2020",
+		"id": 1323179537073545200,
+		"id_str": "1323179537073545217",
+		"full_text": "스마트홈이야 대안이 많지만 웹훅을 1.9에 제공하는 곳은 그 어디에도 없다. 제대로 지원한다는 가정하에. 유료플랜으로 넘겼거나 웹훅에 붙여야할 서비스가 유료플랜이거나.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1323178850474360800,
+		"in_reply_to_status_id_str": "1323178850474360837",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "#뮤직비지니스 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "스마트홈이야 대안이 많지만 웹훅을 1.9에 제공하는 곳은 그 어디에도 없다. 제대로 지원한다는 가정하에. 유료플랜으로 넘겼거나 웹훅에 붙여야할 서비스가 유료플랜이거나."
+	},
+	{
+		"created_at": "Mon Nov 02 08:23:16 +0000 2020",
+		"id": 1323178850474360800,
+		"id_str": "1323178850474360837",
+		"full_text": "프로 업데이트 추가되는 것중 기대 하는 것\n\n1. 트윗 제한이 25개에서 50개로 상향\n2. 애플릿 복사 추가\n3. 검색 기능 향상 (제발 한국어 검색 지원 좀)\n4. 웹훅 json 분석 및 쿼리 기능 추가\n@IFTTT @ltibbets \n\n#자동화 #Automation #IFTTT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자동화",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "Automation",
+					"indices": [
+						140,
+						151
+					]
+				},
+				{
+					"text": "IFTTT",
+					"indices": [
+						152,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IFTTT",
+					"name": "IFTTT",
+					"id": 75079616,
+					"id_str": "75079616",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"screen_name": "ltibbets",
+					"name": "Linden Tibbets",
+					"id": 8064682,
+					"id_str": "8064682",
+					"indices": [
+						123,
+						132
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1323177469554294800,
+		"in_reply_to_status_id_str": "1323177469554294784",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "#뮤직비지니스 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "프로 업데이트 추가되는 것중 기대 하는 것\n\n1. 트윗 제한이 25개에서 50개로 상향\n2. 애플릿 복사 추가\n3. 검색 기능 향상 (제발 한국어 검색 지원 좀)\n4. 웹훅 json 분석 및 쿼리 기능 추가\n@IFTTT @ltibbets \n\n#자동화 #Automation #IFTTT"
+	},
+	{
+		"created_at": "Mon Nov 02 08:17:46 +0000 2020",
+		"id": 1323177469554294800,
+		"id_str": "1323177469554294784",
+		"full_text": "IFTTT 웹훅 딜레이 길고 안된다는 이슈 꽤 자주 있는 모양이네. 웹훅 1.9면 가격 좋다고 생각해서 프로 계정 늘렸는데 실망스럽군. @IFTTT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IFTTT",
+					"name": "IFTTT",
+					"id": 75079616,
+					"id_str": "75079616",
+					"indices": [
+						76,
+						82
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "#뮤직비지니스 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "IFTTT 웹훅 딜레이 길고 안된다는 이슈 꽤 자주 있는 모양이네. 웹훅 1.9면 가격 좋다고 생각해서 프로 계정 늘렸는데 실망스럽군. @IFTTT"
+	},
+	{
+		"created_at": "Mon Nov 02 08:08:10 +0000 2020",
+		"id": 1323175053954031600,
+		"id_str": "1323175053954031616",
+		"full_text": "#SMTOWN #Artist_News\nSM 신인 걸그룹 aespa, 11월 17일 데뷔 확정! 싱글 'Black Mamba’ 전격 공개!\nhttps://t.co/xJozEnoHnW\n#에스파 #aespa https://t.co/JZaCcS91c4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						106,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xJozEnoHnW",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/4154",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323175053060694000,
+					"id_str": "1323175053060694016",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/Elzcs0VXYAA1c65.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Elzcs0VXYAA1c65.jpg",
+					"url": "https://t.co/JZaCcS91c4",
+					"display_url": "pic.twitter.com/JZaCcS91c4",
+					"expanded_url": "https://twitter.com/fromminn/status/1323175053954031616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323175053060694000,
+					"id_str": "1323175053060694016",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/Elzcs0VXYAA1c65.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Elzcs0VXYAA1c65.jpg",
+					"url": "https://t.co/JZaCcS91c4",
+					"display_url": "pic.twitter.com/JZaCcS91c4",
+					"expanded_url": "https://twitter.com/fromminn/status/1323175053954031616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "#뮤직비지니스 #minfav",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\nSM 신인 걸그룹 aespa, 11월 17일 데뷔 확정! 싱글 'Black Mamba’ 전격 공개!\nhttps://t.co/xJozEnoHnW\n#에스파 #aespa https://t.co/JZaCcS91c4"
+	},
+	{
 		"created_at": "Mon Nov 02 08:01:42 +0000 2020",
 		"id": 1323173426840952800,
 		"id_str": "1323173426840952833",
