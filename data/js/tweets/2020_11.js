@@ -1,6 +1,561 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 03 11:45:36 +0000 2020",
+		"id": 1323588274720436200,
+		"id_str": "1323592160906805250",
+		"full_text": "오빛 덕분에 #이달의소녀 가 빌보드 메인차트인 '빌보드 200'에 진입하게 되었어요🙌 늘 한결같은 응원과 사랑 보내 주는 오빛이 아니었다면 이루어내지 못했을 일이에요🥰 항상 오빛을 떠올리며 더욱 성장하고 날아오를 이달의 소녀를 지켜봐 주세요🐰🐱🕊🐸🦌❤💙💜🍎🍓🦋🐺 고마워요, 오빛!\n\n#LOONA https://t.co/VfpP4NC8ax",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						158,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1323586463364075500,
+					"id_str": "1323586463364075521",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/El5S4DJU0AEO3uw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El5S4DJU0AEO3uw.jpg",
+					"url": "https://t.co/VfpP4NC8ax",
+					"display_url": "pic.twitter.com/VfpP4NC8ax",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1323588274720436224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323586463364075500,
+					"id_str": "1323586463364075521",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/El5S4DJU0AEO3uw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El5S4DJU0AEO3uw.jpg",
+					"url": "https://t.co/VfpP4NC8ax",
+					"display_url": "pic.twitter.com/VfpP4NC8ax",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1323588274720436224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 569815,
+			"friends_count": 0,
+			"listed_count": 5788,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2361,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5383,
+		"favorite_count": 13819,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오빛 덕분에 #이달의소녀 가 빌보드 메인차트인 '빌보드 200'에 진입하게 되었어요🙌 늘 한결같은 응원과 사랑 보내 주는 오빛이 아니었다면 이루어내지 못했을 일이에요🥰 항상 오빛을 떠올리며 더욱 성장하고 날아오를 이달의 소녀를 지켜봐 주세요🐰🐱🕊🐸🦌❤💙💜🍎🍓🦋🐺 고마워요, 오빛!\n\n#LOONA https://t.co/VfpP4NC8ax"
+	},
+	{
+		"created_at": "Tue Nov 03 11:40:12 +0000 2020",
+		"id": 1323590800454770700,
+		"id_str": "1323590800454770688",
+		"full_text": "@xindieticket 덕밍아웃이라는 표현을 다른 표현으로 대체하면 더 좋을 것 같습니다. https://t.co/D26gVzdtOH",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xindieticket",
+					"name": "씬디 티켓라운지",
+					"id": 1220731080,
+					"id_str": "1220731080",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/D26gVzdtOH",
+					"expanded_url": "https://www.hankookilbo.com/News/Read/201701251034601368",
+					"display_url": "hankookilbo.com/News/Read/2017…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1323572534185373700,
+		"in_reply_to_status_id_str": "1323572534185373696",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@xindieticket 덕밍아웃이라는 표현을 다른 표현으로 대체하면 더 좋을 것 같습니다. https://t.co/D26gVzdtOH"
+	},
+	{
+		"created_at": "Tue Nov 03 11:27:05 +0000 2020",
+		"id": 1323575646178566100,
+		"id_str": "1323587497025261568",
+		"full_text": "#BLACKPINK 'How You Like That' DANCE PERFORMANCE VIDEO HITS 400 MILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n'How You Like That' DANCE PERFORMANCE VIDEO\n🎥https://t.co/kDQfGng3tG\n\n#블랙핑크 #HowYouLikeThat #DANCE_PERFORMANCE #안무영상 #400MILLION #YOUTUBE #YG https://t.co/LRnGVw0RaL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						195,
+						200
+					]
+				},
+				{
+					"text": "HowYouLikeThat",
+					"indices": [
+						201,
+						216
+					]
+				},
+				{
+					"text": "DANCE_PERFORMANCE",
+					"indices": [
+						217,
+						235
+					]
+				},
+				{
+					"text": "안무영상",
+					"indices": [
+						236,
+						241
+					]
+				},
+				{
+					"text": "400MILLION",
+					"indices": [
+						242,
+						253
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						254,
+						262
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						263,
+						266
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						78,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kDQfGng3tG",
+					"expanded_url": "https://youtu.be/32si5cfrCNc",
+					"display_url": "youtu.be/32si5cfrCNc",
+					"indices": [
+						170,
+						193
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323575501852569600,
+					"id_str": "1323575501852569605",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/El5I6AVU8AURTpo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El5I6AVU8AURTpo.jpg",
+					"url": "https://t.co/LRnGVw0RaL",
+					"display_url": "pic.twitter.com/LRnGVw0RaL",
+					"expanded_url": "https://twitter.com/ygent_official/status/1323575646178566145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323575501852569600,
+					"id_str": "1323575501852569605",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/El5I6AVU8AURTpo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El5I6AVU8AURTpo.jpg",
+					"url": "https://t.co/LRnGVw0RaL",
+					"display_url": "pic.twitter.com/LRnGVw0RaL",
+					"expanded_url": "https://twitter.com/ygent_official/status/1323575646178566145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6929869,
+			"friends_count": 38,
+			"listed_count": 6989,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10898,
+		"favorite_count": 44827,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 'How You Like That' DANCE PERFORMANCE VIDEO HITS 400 MILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n'How You Like That' DANCE PERFORMANCE VIDEO\n🎥https://t.co/kDQfGng3tG\n\n#블랙핑크 #HowYouLikeThat #DANCE_PERFORMANCE #안무영상 #400MILLION #YOUTUBE #YG https://t.co/LRnGVw0RaL"
+	},
+	{
 		"created_at": "Tue Nov 03 10:37:13 +0000 2020",
 		"id": 1323574950402400300,
 		"id_str": "1323574950402400256",
