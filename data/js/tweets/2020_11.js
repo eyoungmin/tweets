@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 03 03:27:57 +0000 2020",
+		"id": 1323453703026733000,
+		"id_str": "1323466920033689608",
+		"full_text": "2020 #LoveYourW 에서 셀럽들이 직접 남긴 인증샷 모아보기\n\n#장윤주 #안소희 #한지민 #한효주 #이하이 #박신혜 #김영광 #제시카 #아이즈원 #헨리 #로꼬 #그레이 #아이린 #차은우\n\nhttps://t.co/mkrrYQ8VOm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LoveYourW",
+					"indices": [
+						5,
+						15
+					]
+				},
+				{
+					"text": "장윤주",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "안소희",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "한지민",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "한효주",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "이하이",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "박신혜",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "김영광",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "제시카",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "아이즈원",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "헨리",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "로꼬",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "그레이",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "차은우",
+					"indices": [
+						104,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mkrrYQ8VOm",
+					"expanded_url": "http://www.wkorea.com/2020/11/02/%EC%85%80%EB%9F%BD%EB%93%A4%EC%9D%B4-%EB%9E%9C%EC%84%A0%EC%9C%BC%EB%A1%9C-%EC%A0%84%ED%95%9C-2020-love-your-w/?ddw=78268&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2020/11/02/%EC…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/m6zPKg47IM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/m6zPKg47IM",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251272,
+			"friends_count": 0,
+			"listed_count": 765,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 4009,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1603460412",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 98,
+		"favorite_count": 231,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2020 #LoveYourW 에서 셀럽들이 직접 남긴 인증샷 모아보기\n\n#장윤주 #안소희 #한지민 #한효주 #이하이 #박신혜 #김영광 #제시카 #아이즈원 #헨리 #로꼬 #그레이 #아이린 #차은우\n\nhttps://t.co/mkrrYQ8VOm"
+	},
+	{
 		"created_at": "Tue Nov 03 03:00:53 +0000 2020",
 		"id": 1323460109666758700,
 		"id_str": "1323460109666758656",
