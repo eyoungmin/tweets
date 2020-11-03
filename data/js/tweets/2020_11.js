@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 03 15:11:31 +0000 2020",
+		"id": 1323643979641069600,
+		"id_str": "1323643979641069579",
+		"full_text": "#MusicA\n잔다리 페스타의 아시아 뮤지션 #1 with 이수정\nhttps://t.co/gYmiggbUYE\n\n▶ https://t.co/XWaBrIas7H\n\n#ADOY #아도이 #오주환\n#인디음악 #음악추천 #음악\n#팟캐스트 #Podcast",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicA",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "ADOY",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "아도이",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "오주환",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "음악추천",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "음악",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "팟캐스트",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "Podcast",
+					"indices": [
+						127,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gYmiggbUYE",
+					"expanded_url": "https://www.podty.me/episode/14724601",
+					"display_url": "podty.me/episode/147246…",
+					"indices": [
+						37,
+						60
+					]
+				},
+				{
+					"url": "https://t.co/XWaBrIas7H",
+					"expanded_url": "https://cdn-cf.podty.me/meta/episode_audio/100049926/204234_1604385726032.mp3",
+					"display_url": "cdn-cf.podty.me/meta/episode_a…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#MusicA\n잔다리 페스타의 아시아 뮤지션 #1 with 이수정\nhttps://t.co/gYmiggbUYE\n\n▶ https://t.co/XWaBrIas7H\n\n#ADOY #아도이 #오주환\n#인디음악 #음악추천 #음악\n#팟캐스트 #Podcast"
+	},
+	{
+		"created_at": "Tue Nov 03 15:02:23 +0000 2020",
+		"id": 1323641680508178400,
+		"id_str": "1323641680508178435",
+		"full_text": "#aespa #에스파\naespa 에스파 - SYNK, WINTER\nhttps://t.co/w8rWj7uu0s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						7,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w8rWj7uu0s",
+					"expanded_url": "https://youtu.be/846_pp-6oWk",
+					"display_url": "youtu.be/846_pp-6oWk",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#aespa #에스파\naespa 에스파 - SYNK, WINTER\nhttps://t.co/w8rWj7uu0s"
+	},
+	{
 		"created_at": "Tue Nov 03 14:27:05 +0000 2020",
 		"id": 1323627422219038700,
 		"id_str": "1323632795621691394",
