@@ -1,6 +1,661 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 03 08:01:04 +0000 2020",
+		"id": 1323532502447710200,
+		"id_str": "1323535653011746823",
+		"full_text": "'NEWTOPIA' 콘셉트의 #2020MAMA(@MnetMAMA)가 올해 12월 6일 한국에서 비대면으로 진행됩니다.🏆 총 18개 부문의 후보가 모두 공개되었는데요. 최다 노미네이션 된 아티스트는 과연 누구일까요?😉\n\n✒️ 비대면 개최 2020 MAMA, 부문별 후보 공개\n🔗 https://t.co/dgLycwTdiI https://t.co/eFtlg0PwB6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2020MAMA",
+					"indices": [
+						16,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MnetMAMA",
+					"name": "MAMA(엠넷아시안뮤직어워즈)",
+					"id": 128487133,
+					"id_str": "128487133",
+					"indices": [
+						26,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dgLycwTdiI",
+					"expanded_url": "http://billboard.co.kr/main/news/view/491",
+					"display_url": "billboard.co.kr/main/news/view…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323532492905746400,
+					"id_str": "1323532492905746432",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/El4hyjhVkAANh0C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El4hyjhVkAANh0C.jpg",
+					"url": "https://t.co/eFtlg0PwB6",
+					"display_url": "pic.twitter.com/eFtlg0PwB6",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1323532502447710221/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 633,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 633,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 633,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323532492905746400,
+					"id_str": "1323532492905746432",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/El4hyjhVkAANh0C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El4hyjhVkAANh0C.jpg",
+					"url": "https://t.co/eFtlg0PwB6",
+					"display_url": "pic.twitter.com/eFtlg0PwB6",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1323532502447710221/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 633,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 633,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 633,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. \n팔로우를 통해 더 많은 KPOP 소식을 받아보세요! \nFollow us to get more KPOP news, chart and events!\n#빌보드코리아 #BillboardKorea",
+			"url": "https://t.co/CLFhjiCU9P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CLFhjiCU9P",
+							"expanded_url": "http://billboard.co.kr",
+							"display_url": "billboard.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48701,
+			"friends_count": 31,
+			"listed_count": 89,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 44,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1599479013",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'NEWTOPIA' 콘셉트의 #2020MAMA(@MnetMAMA)가 올해 12월 6일 한국에서 비대면으로 진행됩니다.🏆 총 18개 부문의 후보가 모두 공개되었는데요. 최다 노미네이션 된 아티스트는 과연 누구일까요?😉\n\n✒️ 비대면 개최 2020 MAMA, 부문별 후보 공개\n🔗 https://t.co/dgLycwTdiI https://t.co/eFtlg0PwB6"
+	},
+	{
+		"created_at": "Tue Nov 03 07:27:20 +0000 2020",
+		"id": 1323514169061109800,
+		"id_str": "1323527163597983749",
+		"full_text": "#SuperStarYG #BLACKPINK #Theme preview\n\n오늘의 테마 #블랙핑크 How You Like That?\n\nDaily theme is BLACKPINK How You Like That? https://t.co/508XBdC3CO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SuperStarYG",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"text": "Theme",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						47,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1323513987447754800,
+					"id_str": "1323513987447754753",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/El4Q9ZUVkAEBgCW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El4Q9ZUVkAEBgCW.jpg",
+					"url": "https://t.co/508XBdC3CO",
+					"display_url": "pic.twitter.com/508XBdC3CO",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1323514169061109760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1032,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1032,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323513987447754800,
+					"id_str": "1323513987447754753",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/El4Q9ZUVkAEBgCW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El4Q9ZUVkAEBgCW.jpg",
+					"url": "https://t.co/508XBdC3CO",
+					"display_url": "pic.twitter.com/508XBdC3CO",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1323514169061109760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1032,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1032,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288715338679386000,
+			"id_str": "1288715338679386112",
+			"name": "SuperStarYG",
+			"screen_name": "SuperStar_YG",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27763,
+			"friends_count": 25,
+			"listed_count": 32,
+			"created_at": "Thu Jul 30 05:58:00 +0000 2020",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320589670221180930/8BbBnKyJ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320589670221180930/8BbBnKyJ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288715338679386112/1603688088",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4150,
+		"favorite_count": 19619,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SuperStarYG #BLACKPINK #Theme preview\n\n오늘의 테마 #블랙핑크 How You Like That?\n\nDaily theme is BLACKPINK How You Like That? https://t.co/508XBdC3CO"
+	},
+	{
+		"created_at": "Tue Nov 03 07:27:05 +0000 2020",
+		"id": 1323513266975338500,
+		"id_str": "1323527099693604865",
+		"full_text": "#BLACKPINK '마지막처럼 (AS IF IT'S YOUR LAST)' M/V HITS 900 MILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n'마지막처럼 (AS IF IT'S YOUR LAST)' M/V\n🎥https://t.co/k3ySJgSqpU\n\n#블랙핑크 #ASIFITSYOURLAST #마지막처럼 #MV #900MILLION #YOUTUBE #YG https://t.co/KAHzWN7C8Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						177,
+						182
+					]
+				},
+				{
+					"text": "ASIFITSYOURLAST",
+					"indices": [
+						183,
+						199
+					]
+				},
+				{
+					"text": "마지막처럼",
+					"indices": [
+						200,
+						206
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						207,
+						210
+					]
+				},
+				{
+					"text": "900MILLION",
+					"indices": [
+						211,
+						222
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						223,
+						231
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						232,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						69,
+						77
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/k3ySJgSqpU",
+					"expanded_url": "https://youtu.be/Amq-qlqbjYA",
+					"display_url": "youtu.be/Amq-qlqbjYA",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323513201917485000,
+					"id_str": "1323513201917485056",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/El4QPq_U4AA4q6k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El4QPq_U4AA4q6k.jpg",
+					"url": "https://t.co/KAHzWN7C8Z",
+					"display_url": "pic.twitter.com/KAHzWN7C8Z",
+					"expanded_url": "https://twitter.com/ygent_official/status/1323513266975338498/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323513201917485000,
+					"id_str": "1323513201917485056",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/El4QPq_U4AA4q6k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El4QPq_U4AA4q6k.jpg",
+					"url": "https://t.co/KAHzWN7C8Z",
+					"display_url": "pic.twitter.com/KAHzWN7C8Z",
+					"expanded_url": "https://twitter.com/ygent_official/status/1323513266975338498/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6928939,
+			"friends_count": 38,
+			"listed_count": 6986,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16291,
+		"favorite_count": 60784,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BLACKPINK '마지막처럼 (AS IF IT'S YOUR LAST)' M/V HITS 900 MILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n'마지막처럼 (AS IF IT'S YOUR LAST)' M/V\n🎥https://t.co/k3ySJgSqpU\n\n#블랙핑크 #ASIFITSYOURLAST #마지막처럼 #MV #900MILLION #YOUTUBE #YG https://t.co/KAHzWN7C8Z"
+	},
+	{
 		"created_at": "Tue Nov 03 06:45:36 +0000 2020",
 		"id": 1323515721406505000,
 		"id_str": "1323516662696599552",
