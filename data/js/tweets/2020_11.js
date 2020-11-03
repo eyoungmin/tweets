@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 03 06:45:36 +0000 2020",
+		"id": 1323515721406505000,
+		"id_str": "1323516662696599552",
+		"full_text": "[쇼챔피언 377회(1104) 생방송 출연진]\nTWICE(트와이스) / TOMORROW X TOGETHER / 펜타곤 / 이달의 소녀 / CIX / VERIVERY / JBJ95 / P1Harmony / 드리핀(DRIPPIN) / 알렉사 / 케이시(Kassy) / 송하예 / 다크비(DKB) / NTX(엔티엑스)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 480220551,
+			"id_str": "480220551",
+			"name": "SHOWCHAMPION",
+			"screen_name": "showchampion1",
+			"location": "",
+			"description": "MBC M 쇼챔피언 매주 수요일 저녁 6시 방송! / 일산 MBC드림센터에서 진행되며 자세한 사항은 쇼챔 홈페이지를 확인하세요~^^",
+			"url": "https://t.co/kg7On1VCNH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kg7On1VCNH",
+							"expanded_url": "http://twtkr.com/showchampion1",
+							"display_url": "twtkr.com/showchampion1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1116485,
+			"friends_count": 245,
+			"listed_count": 1868,
+			"created_at": "Wed Feb 01 07:48:32 +0000 2012",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4585,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113204816413466624/GCX6Zm7K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113204816413466624/GCX6Zm7K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/480220551/1554243646",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 215,
+		"favorite_count": 621,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[쇼챔피언 377회(1104) 생방송 출연진]\nTWICE(트와이스) / TOMORROW X TOGETHER / 펜타곤 / 이달의 소녀 / CIX / VERIVERY / JBJ95 / P1Harmony / 드리핀(DRIPPIN) / 알렉사 / 케이시(Kassy) / 송하예 / 다크비(DKB) / NTX(엔티엑스)"
+	},
+	{
 		"created_at": "Tue Nov 03 05:28:10 +0000 2020",
 		"id": 1323491759138070500,
 		"id_str": "1323497174630649856",
