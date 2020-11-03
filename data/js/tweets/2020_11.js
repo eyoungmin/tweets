@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 03 01:45:36 +0000 2020",
+		"id": 1323437654688493600,
+		"id_str": "1323441165534900227",
+		"full_text": "아니..🤦🏻‍♀️  #이달의_소녀 는 인간적인 게 외않되..? 천사가 아니고서야 사람이 이렇게 완벽할 순 없는거 잖아요! \n#더쇼 이제 동료가 일을 완벽하게 하면 \"너 정말 이달소하게 일을 하는 구나\"라고 해야겠어요! 세상에 이것만큼 기분 좋은 말이 또 어디있겠어요~ ƪ( ˘ ⌣˘ )ʃ\n\n #Why_Not @loonatheworld https://t.co/32G2503lgY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의_소녀",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"text": "더쇼",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						163,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						172,
+						186
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1323437643711959000,
+					"id_str": "1323437643711959040",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/El3LhmvU0AAkDew.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El3LhmvU0AAkDew.jpg",
+					"url": "https://t.co/32G2503lgY",
+					"display_url": "pic.twitter.com/32G2503lgY",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1323437654688493568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1626,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 953,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323437643711959000,
+					"id_str": "1323437643711959040",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/El3LhmvU0AAkDew.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El3LhmvU0AAkDew.jpg",
+					"url": "https://t.co/32G2503lgY",
+					"display_url": "pic.twitter.com/32G2503lgY",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1323437654688493568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1626,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 953,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 517295819,
+			"id_str": "517295819",
+			"name": "THE SHOW",
+			"screen_name": "sbsmtvtheshow",
+			"location": "",
+			"description": "SBS MTV THE SHOW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 852620,
+			"friends_count": 84,
+			"listed_count": 1370,
+			"created_at": "Wed Mar 07 06:49:30 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7020,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/517295819/1528422724",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 402,
+		"favorite_count": 1297,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아니..🤦🏻‍♀️  #이달의_소녀 는 인간적인 게 외않되..? 천사가 아니고서야 사람이 이렇게 완벽할 순 없는거 잖아요! \n#더쇼 이제 동료가 일을 완벽하게 하면 \"너 정말 이달소하게 일을 하는 구나\"라고 해야겠어요! 세상에 이것만큼 기분 좋은 말이 또 어디있겠어요~ ƪ( ˘ ⌣˘ )ʃ\n\n #Why_Not @loonatheworld https://t.co/32G2503lgY"
+	},
+	{
 		"created_at": "Tue Nov 03 00:18:25 +0000 2020",
 		"id": 1323419223151042600,
 		"id_str": "1323419223151042561",
