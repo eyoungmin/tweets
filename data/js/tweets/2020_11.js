@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 03 20:57:59 +0000 2020",
+		"id": 1323607198690205700,
+		"id_str": "1323731169691594752",
+		"full_text": "와이파이와 블루투스를 이용해 인터넷 연결 없이도 주변 단말기들과 메시지를 주고받을 수 있게 하는 '오프라인 메신저' Bridgefy가 단대단 암호화를 도입했다고 \nhttps://t.co/kdqLd5cBNf https://t.co/4h04HN3qtJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kdqLd5cBNf",
+					"expanded_url": "https://techcrunch.com/2020/11/02/bridgefy-launches-end-to-end-encrypted-messaging-for-the-app-used-during-protests-and-disasters/",
+					"display_url": "techcrunch.com/2020/11/02/bri…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323607181124497400,
+					"id_str": "1323607181124497408",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/El5lt-0U8AAZa22.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El5lt-0U8AAZa22.jpg",
+					"url": "https://t.co/4h04HN3qtJ",
+					"display_url": "pic.twitter.com/4h04HN3qtJ",
+					"expanded_url": "https://twitter.com/metavital/status/1323607198690205696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1051,
+							"h": 1519,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 830,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323607181124497400,
+					"id_str": "1323607181124497408",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/El5lt-0U8AAZa22.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El5lt-0U8AAZa22.jpg",
+					"url": "https://t.co/4h04HN3qtJ",
+					"display_url": "pic.twitter.com/4h04HN3qtJ",
+					"expanded_url": "https://twitter.com/metavital/status/1323607198690205696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1051,
+							"h": 1519,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 830,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1226281,
+			"id_str": "1226281",
+			"name": "H. Kim",
+			"screen_name": "metavital",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1900,
+			"friends_count": 386,
+			"listed_count": 67,
+			"created_at": "Thu Mar 15 14:36:38 +0000 2007",
+			"favourites_count": 2645,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/836821324383277056/u9w3BViK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/836821324383277056/u9w3BViK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1226281/1451730037",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "와이파이와 블루투스를 이용해 인터넷 연결 없이도 주변 단말기들과 메시지를 주고받을 수 있게 하는 '오프라인 메신저' Bridgefy가 단대단 암호화를 도입했다고 \nhttps://t.co/kdqLd5cBNf https://t.co/4h04HN3qtJ"
+	},
+	{
+		"created_at": "Tue Nov 03 20:10:49 +0000 2020",
+		"id": 1323719302604873700,
+		"id_str": "1323719302604873732",
+		"full_text": "#듣다보면똑똑해지는라디오 #듣똑라\n140] 듣똑라 댓글친구 11월편 (f. 콘텐츠 사춘기 고민많은 기자들)\nhttps://t.co/V62HJVPgXD\n\n▶ https://t.co/8Hq3wo8Ro1\n\n#미디어 #시사 #경제 #법조 #문화\n#팟캐스트 #Podcast #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "듣다보면똑똑해지는라디오",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "듣똑라",
+					"indices": [
+						14,
+						18
+					]
+				},
+				{
+					"text": "미디어",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "시사",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "경제",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "법조",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "문화",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "팟캐스트",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "Podcast",
+					"indices": [
+						139,
+						147
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						148,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V62HJVPgXD",
+					"expanded_url": "https://www.podty.me/episode/14727393",
+					"display_url": "podty.me/episode/147273…",
+					"indices": [
+						60,
+						83
+					]
+				},
+				{
+					"url": "https://t.co/8Hq3wo8Ro1",
+					"expanded_url": "https://cdn-cf.podty.me/meta/episode_audio/100007804/190484_1604399563341.mp3",
+					"display_url": "cdn-cf.podty.me/meta/episode_a…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44019,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#듣다보면똑똑해지는라디오 #듣똑라\n140] 듣똑라 댓글친구 11월편 (f. 콘텐츠 사춘기 고민많은 기자들)\nhttps://t.co/V62HJVPgXD\n\n▶ https://t.co/8Hq3wo8Ro1\n\n#미디어 #시사 #경제 #법조 #문화\n#팟캐스트 #Podcast #minfav"
+	},
+	{
 		"created_at": "Tue Nov 03 19:56:42 +0000 2020",
 		"id": 1323715749588963300,
 		"id_str": "1323715749588963340",
