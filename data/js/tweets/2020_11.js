@@ -1,10 +1,1512 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 03 10:37:13 +0000 2020",
+		"id": 1323574950402400300,
+		"id_str": "1323574950402400256",
+		"full_text": "#카카오TV #페이스아이디 #이효리\n🚨속보🚨 몬엑 주헌, 메모장 탈탈 털려...🔊 [페이스아이디] 비하인드\nhttps://t.co/yt6iPvQ514 https://t.co/LeL85kV0h4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "카카오TV",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "페이스아이디",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이효리",
+					"indices": [
+						15,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yt6iPvQ514",
+					"expanded_url": "https://tv.kakao.com/channel/3643852/cliplink/413720126",
+					"display_url": "tv.kakao.com/channel/364385…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323574948745662500,
+					"id_str": "1323574948745662464",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/El5IZz2XUAAP8vD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El5IZz2XUAAP8vD.jpg",
+					"url": "https://t.co/LeL85kV0h4",
+					"display_url": "pic.twitter.com/LeL85kV0h4",
+					"expanded_url": "https://twitter.com/fromminn/status/1323574950402400256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323574948745662500,
+					"id_str": "1323574948745662464",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/El5IZz2XUAAP8vD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El5IZz2XUAAP8vD.jpg",
+					"url": "https://t.co/LeL85kV0h4",
+					"display_url": "pic.twitter.com/LeL85kV0h4",
+					"expanded_url": "https://twitter.com/fromminn/status/1323574950402400256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#카카오TV #페이스아이디 #이효리\n🚨속보🚨 몬엑 주헌, 메모장 탈탈 털려...🔊 [페이스아이디] 비하인드\nhttps://t.co/yt6iPvQ514 https://t.co/LeL85kV0h4"
+	},
+	{
+		"created_at": "Tue Nov 03 10:27:14 +0000 2020",
+		"id": 1323244192210903000,
+		"id_str": "1323572435782897664",
+		"full_text": "[짜릿한 인터뷰]LOONA 이달소 세계관 최강자\n등★판★ ???: 나한테 존댓말 써 [Thrilling Interview/ 통통TV]\n(@loonatheworld)\n\n왔어요 왔어요\n이달의 소녀 짜릿한인터뷰가 왔어요~~~💖\n귀여움 + 멋짐 + 예쁨 3종 세트\n나만 따라와♬\n\n🔔https://t.co/ooPlXsl2OA\n\n#이달의소녀 #LOONA #통통컬쳐 https://t.co/KEfxab6XZ9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						179,
+						185
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						186,
+						192
+					]
+				},
+				{
+					"text": "통통컬쳐",
+					"indices": [
+						193,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						76,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ooPlXsl2OA",
+					"expanded_url": "https://youtu.be/U4_d5K584uE",
+					"display_url": "youtu.be/U4_d5K584uE",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323244105976082400,
+					"id_str": "1323244105976082432",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/El0bgOfVcAAbimY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El0bgOfVcAAbimY.jpg",
+					"url": "https://t.co/KEfxab6XZ9",
+					"display_url": "pic.twitter.com/KEfxab6XZ9",
+					"expanded_url": "https://twitter.com/TongTongTv1/status/1323244192210903040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323244105976082400,
+					"id_str": "1323244105976082432",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/El0bgOfVcAAbimY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El0bgOfVcAAbimY.jpg",
+					"url": "https://t.co/KEfxab6XZ9",
+					"display_url": "pic.twitter.com/KEfxab6XZ9",
+					"expanded_url": "https://twitter.com/TongTongTv1/status/1323244192210903040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1247773150856630300,
+			"id_str": "1247773150856630275",
+			"name": "TongTongTv 통통컬처",
+			"screen_name": "TongTongTv1",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160,
+			"friends_count": 56,
+			"listed_count": 2,
+			"created_at": "Wed Apr 08 06:28:52 +0000 2020",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 97,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247773806422142982/xy9UjDaW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247773806422142982/xy9UjDaW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1247773150856630275/1586328026",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 709,
+		"favorite_count": 2850,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[짜릿한 인터뷰]LOONA 이달소 세계관 최강자\n등★판★ ???: 나한테 존댓말 써 [Thrilling Interview/ 통통TV]\n(@loonatheworld)\n\n왔어요 왔어요\n이달의 소녀 짜릿한인터뷰가 왔어요~~~💖\n귀여움 + 멋짐 + 예쁨 3종 세트\n나만 따라와♬\n\n🔔https://t.co/ooPlXsl2OA\n\n#이달의소녀 #LOONA #통통컬쳐 https://t.co/KEfxab6XZ9"
+	},
+	{
+		"created_at": "Tue Nov 03 10:27:04 +0000 2020",
+		"id": 1323565609762783200,
+		"id_str": "1323572397447020544",
+		"full_text": "안녕하세요. MNH엔터테인먼트입니다.\n\n금일 오후 8시에 공개 예정이었던 '시청하랑'은 연예계 안타까운 비보에 애도를 표하며 한 주 쉬어갑니다. \n'시청하랑' EP 11는 11/10 (화) 오후 8시에 공개 될 예정입니다. 기다려주신 팬 여러분들께 사과 말씀 드리며, 변경된 일정에 대한 양해 부탁 드립니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/ZHcd08tZVb",
+			"url": "https://t.co/reTg513UFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg513UFX",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZHcd08tZVb",
+							"expanded_url": "https://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								31,
+								54
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 285581,
+			"friends_count": 0,
+			"listed_count": 1746,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1280,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 174,
+		"favorite_count": 1005,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "안녕하세요. MNH엔터테인먼트입니다.\n\n금일 오후 8시에 공개 예정이었던 '시청하랑'은 연예계 안타까운 비보에 애도를 표하며 한 주 쉬어갑니다. \n'시청하랑' EP 11는 11/10 (화) 오후 8시에 공개 될 예정입니다. 기다려주신 팬 여러분들께 사과 말씀 드리며, 변경된 일정에 대한 양해 부탁 드립니다."
+	},
+	{
+		"created_at": "Tue Nov 03 10:03:25 +0000 2020",
+		"id": 1323566442961391600,
+		"id_str": "1323566442961391616",
+		"full_text": "#VLIVE #POST\n[CHUNG HA Vlog] 'C'HUNG HA RANGㅣEP 10. 청하 전시회 가다! 지금은 현장학습 중\nhttps://t.co/vJa24ULaxq\n#청하 #CHUNGHA https://t.co/JvPuY5xnvJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VLIVE",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POST",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						102,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vJa24ULaxq",
+					"expanded_url": "https://channels.vlive.tv/E3437D/celeb/",
+					"display_url": "channels.vlive.tv/E3437D/celeb/",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323566441694744600,
+					"id_str": "1323566441694744577",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/El5AqonX0AEqLSx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El5AqonX0AEqLSx.jpg",
+					"url": "https://t.co/JvPuY5xnvJ",
+					"display_url": "pic.twitter.com/JvPuY5xnvJ",
+					"expanded_url": "https://twitter.com/fromminn/status/1323566442961391616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323566441694744600,
+					"id_str": "1323566441694744577",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/El5AqonX0AEqLSx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El5AqonX0AEqLSx.jpg",
+					"url": "https://t.co/JvPuY5xnvJ",
+					"display_url": "pic.twitter.com/JvPuY5xnvJ",
+					"expanded_url": "https://twitter.com/fromminn/status/1323566442961391616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#VLIVE #POST\n[CHUNG HA Vlog] 'C'HUNG HA RANGㅣEP 10. 청하 전시회 가다! 지금은 현장학습 중\nhttps://t.co/vJa24ULaxq\n#청하 #CHUNGHA https://t.co/JvPuY5xnvJ"
+	},
+	{
+		"created_at": "Tue Nov 03 10:03:22 +0000 2020",
+		"id": 1323566432916033500,
+		"id_str": "1323566432916033536",
+		"full_text": "#VLIVE #POST\n[CHUNG HA Vlog] 'C'HUNG HA RANGㅣEP 7. 밤비 생일 케이크 만들기\nhttps://t.co/vJa24ULaxq\n#청하 #CHUNGHA https://t.co/uhNJ9gMzZ3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VLIVE",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POST",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						93,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vJa24ULaxq",
+					"expanded_url": "https://channels.vlive.tv/E3437D/celeb/",
+					"display_url": "channels.vlive.tv/E3437D/celeb/",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323566431942881300,
+					"id_str": "1323566431942881280",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/El5AqESWMAAdvQH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El5AqESWMAAdvQH.jpg",
+					"url": "https://t.co/uhNJ9gMzZ3",
+					"display_url": "pic.twitter.com/uhNJ9gMzZ3",
+					"expanded_url": "https://twitter.com/fromminn/status/1323566432916033536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323566431942881300,
+					"id_str": "1323566431942881280",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/El5AqESWMAAdvQH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El5AqESWMAAdvQH.jpg",
+					"url": "https://t.co/uhNJ9gMzZ3",
+					"display_url": "pic.twitter.com/uhNJ9gMzZ3",
+					"expanded_url": "https://twitter.com/fromminn/status/1323566432916033536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#VLIVE #POST\n[CHUNG HA Vlog] 'C'HUNG HA RANGㅣEP 7. 밤비 생일 케이크 만들기\nhttps://t.co/vJa24ULaxq\n#청하 #CHUNGHA https://t.co/uhNJ9gMzZ3"
+	},
+	{
+		"created_at": "Tue Nov 03 10:03:19 +0000 2020",
+		"id": 1323566418969899000,
+		"id_str": "1323566418969899008",
+		"full_text": "#VLIVE #POST\n[CHUNG HA Vlog] 'C'HUNG HA RANGㅣEP 6. 청하의 첫 ASMR 도전! (왕초보 주의)\nhttps://t.co/vJa24ULaxq\n#청하 #CHUNGHA https://t.co/giQst38LLw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VLIVE",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POST",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						103,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vJa24ULaxq",
+					"expanded_url": "https://channels.vlive.tv/E3437D/celeb/",
+					"display_url": "channels.vlive.tv/E3437D/celeb/",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323566418022047700,
+					"id_str": "1323566418022047744",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/El5ApQbXIAA4Ly-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El5ApQbXIAA4Ly-.jpg",
+					"url": "https://t.co/giQst38LLw",
+					"display_url": "pic.twitter.com/giQst38LLw",
+					"expanded_url": "https://twitter.com/fromminn/status/1323566418969899008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323566418022047700,
+					"id_str": "1323566418022047744",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/El5ApQbXIAA4Ly-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El5ApQbXIAA4Ly-.jpg",
+					"url": "https://t.co/giQst38LLw",
+					"display_url": "pic.twitter.com/giQst38LLw",
+					"expanded_url": "https://twitter.com/fromminn/status/1323566418969899008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#VLIVE #POST\n[CHUNG HA Vlog] 'C'HUNG HA RANGㅣEP 6. 청하의 첫 ASMR 도전! (왕초보 주의)\nhttps://t.co/vJa24ULaxq\n#청하 #CHUNGHA https://t.co/giQst38LLw"
+	},
+	{
+		"created_at": "Tue Nov 03 10:03:17 +0000 2020",
+		"id": 1323566408802984000,
+		"id_str": "1323566408802983937",
+		"full_text": "#VLIVE #POST\nCHUNG HA x Christopher ‘Bad Boy’\nhttps://t.co/vJa24ULaxq\n#청하 #CHUNGHA https://t.co/hy6njKbPXD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VLIVE",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POST",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						74,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vJa24ULaxq",
+					"expanded_url": "https://channels.vlive.tv/E3437D/celeb/",
+					"display_url": "channels.vlive.tv/E3437D/celeb/",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323566407712415700,
+					"id_str": "1323566407712415744",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/El5AoqBWoAAti0X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El5AoqBWoAAti0X.jpg",
+					"url": "https://t.co/hy6njKbPXD",
+					"display_url": "pic.twitter.com/hy6njKbPXD",
+					"expanded_url": "https://twitter.com/fromminn/status/1323566408802983937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323566407712415700,
+					"id_str": "1323566407712415744",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/El5AoqBWoAAti0X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El5AoqBWoAAti0X.jpg",
+					"url": "https://t.co/hy6njKbPXD",
+					"display_url": "pic.twitter.com/hy6njKbPXD",
+					"expanded_url": "https://twitter.com/fromminn/status/1323566408802983937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#VLIVE #POST\nCHUNG HA x Christopher ‘Bad Boy’\nhttps://t.co/vJa24ULaxq\n#청하 #CHUNGHA https://t.co/hy6njKbPXD"
+	},
+	{
+		"created_at": "Tue Nov 03 10:03:15 +0000 2020",
+		"id": 1323566401320341500,
+		"id_str": "1323566401320341504",
+		"full_text": "#VLIVE #POST\n[CHUNG HA Vlog] 'C'HUNG HA RANGㅣEP 3. 청하픽 맛집 탐방기 with 우주소녀 연정\nhttps://t.co/vJa24ULaxq\n#청하 #CHUNGHA https://t.co/RSh4wqpZYf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VLIVE",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "POST",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						103,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vJa24ULaxq",
+					"expanded_url": "https://channels.vlive.tv/E3437D/celeb/",
+					"display_url": "channels.vlive.tv/E3437D/celeb/",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323566400313659400,
+					"id_str": "1323566400313659392",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/El5AoOdWkAAEe9u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El5AoOdWkAAEe9u.jpg",
+					"url": "https://t.co/RSh4wqpZYf",
+					"display_url": "pic.twitter.com/RSh4wqpZYf",
+					"expanded_url": "https://twitter.com/fromminn/status/1323566401320341504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323566400313659400,
+					"id_str": "1323566400313659392",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/El5AoOdWkAAEe9u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El5AoOdWkAAEe9u.jpg",
+					"url": "https://t.co/RSh4wqpZYf",
+					"display_url": "pic.twitter.com/RSh4wqpZYf",
+					"expanded_url": "https://twitter.com/fromminn/status/1323566401320341504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#VLIVE #POST\n[CHUNG HA Vlog] 'C'HUNG HA RANGㅣEP 3. 청하픽 맛집 탐방기 with 우주소녀 연정\nhttps://t.co/vJa24ULaxq\n#청하 #CHUNGHA https://t.co/RSh4wqpZYf"
+	},
+	{
 		"created_at": "Tue Nov 03 09:46:01 +0000 2020",
 		"id": 1323550711116820500,
 		"id_str": "1323562065114660866",
-		"full_text": "[KCON:TACT season 2] #LOONA\n\nJust in case you didn't already know, we are fully in support of the STAN LOONA agenda!\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/PwSRWNCfth ​\n▶ Mnet K-POP: https://t.co/cC4dRaPwcn ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/wr4yvIHnRZ",
+		"full_text": "[KCON:TACT season 2] #LOONA\n\nJust in case you didn't already know, we are fully in support of the STAN LOONA agenda!\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/PwSRWNCfth \n▶ Mnet K-POP: https://t.co/cC4dRaPwcn \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/wr4yvIHnRZ",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -299,13 +1801,13 @@ Grailbird.data.tweets_2020_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "[KCON:TACT season 2] #LOONA\n\nJust in case you didn't already know, we are fully in support of the STAN LOONA agenda!\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/PwSRWNCfth ​\n▶ Mnet K-POP: https://t.co/cC4dRaPwcn ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/wr4yvIHnRZ"
+		"text": "[KCON:TACT season 2] #LOONA\n\nJust in case you didn't already know, we are fully in support of the STAN LOONA agenda!\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/PwSRWNCfth \n▶ Mnet K-POP: https://t.co/cC4dRaPwcn \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/wr4yvIHnRZ"
 	},
 	{
 		"created_at": "Tue Nov 03 09:45:57 +0000 2020",
 		"id": 1323550682457153500,
 		"id_str": "1323562047834103808",
-		"full_text": "[KCON:TACT season 2] #LOONA\n\nJust in case you didn't already know, we are fully in support of the STAN LOONA agenda!\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/PwSRWNCfth ​\n▶ Mnet K-POP: https://t.co/cC4dRaPwcn ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/gqx1MxEzEs",
+		"full_text": "[KCON:TACT season 2] #LOONA\n\nJust in case you didn't already know, we are fully in support of the STAN LOONA agenda!\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/PwSRWNCfth \n▶ Mnet K-POP: https://t.co/cC4dRaPwcn \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/gqx1MxEzEs",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -636,13 +2138,13 @@ Grailbird.data.tweets_2020_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "[KCON:TACT season 2] #LOONA\n\nJust in case you didn't already know, we are fully in support of the STAN LOONA agenda!\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/PwSRWNCfth ​\n▶ Mnet K-POP: https://t.co/cC4dRaPwcn ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/gqx1MxEzEs"
+		"text": "[KCON:TACT season 2] #LOONA\n\nJust in case you didn't already know, we are fully in support of the STAN LOONA agenda!\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/PwSRWNCfth \n▶ Mnet K-POP: https://t.co/cC4dRaPwcn \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/gqx1MxEzEs"
 	},
 	{
 		"created_at": "Tue Nov 03 09:45:51 +0000 2020",
 		"id": 1323550644402151400,
 		"id_str": "1323562022089490432",
-		"full_text": "[KCON:TACT season 2] #LOONA\n\nJust in case you didn't already know, we are fully in support of the STAN LOONA agenda!\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/PwSRWNCfth ​\n▶ Mnet K-POP: https://t.co/cC4dRaPwcn ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/OOEE7bFrDo",
+		"full_text": "[KCON:TACT season 2] #LOONA\n\nJust in case you didn't already know, we are fully in support of the STAN LOONA agenda!\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/PwSRWNCfth \n▶ Mnet K-POP: https://t.co/cC4dRaPwcn \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/OOEE7bFrDo",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -973,13 +2475,13 @@ Grailbird.data.tweets_2020_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "[KCON:TACT season 2] #LOONA\n\nJust in case you didn't already know, we are fully in support of the STAN LOONA agenda!\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/PwSRWNCfth ​\n▶ Mnet K-POP: https://t.co/cC4dRaPwcn ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/OOEE7bFrDo"
+		"text": "[KCON:TACT season 2] #LOONA\n\nJust in case you didn't already know, we are fully in support of the STAN LOONA agenda!\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/PwSRWNCfth \n▶ Mnet K-POP: https://t.co/cC4dRaPwcn \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/OOEE7bFrDo"
 	},
 	{
 		"created_at": "Tue Nov 03 09:45:48 +0000 2020",
 		"id": 1323550611309092900,
 		"id_str": "1323562008948649984",
-		"full_text": "[KCON:TACT season 2] #LOONA\n\nJust in case you didn't already know, we are fully in support of the STAN LOONA agenda!\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/PwSRWNCfth ​\n▶ Mnet K-POP: https://t.co/cC4dRaPwcn ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/2SxBs5CrWe",
+		"full_text": "[KCON:TACT season 2] #LOONA\n\nJust in case you didn't already know, we are fully in support of the STAN LOONA agenda!\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/PwSRWNCfth \n▶ Mnet K-POP: https://t.co/cC4dRaPwcn \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/2SxBs5CrWe",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1310,13 +2812,13 @@ Grailbird.data.tweets_2020_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "[KCON:TACT season 2] #LOONA\n\nJust in case you didn't already know, we are fully in support of the STAN LOONA agenda!\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/PwSRWNCfth ​\n▶ Mnet K-POP: https://t.co/cC4dRaPwcn ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/2SxBs5CrWe"
+		"text": "[KCON:TACT season 2] #LOONA\n\nJust in case you didn't already know, we are fully in support of the STAN LOONA agenda!\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/PwSRWNCfth \n▶ Mnet K-POP: https://t.co/cC4dRaPwcn \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/2SxBs5CrWe"
 	},
 	{
 		"created_at": "Tue Nov 03 09:45:43 +0000 2020",
 		"id": 1323550572021100500,
 		"id_str": "1323561987423539200",
-		"full_text": "[KCON:TACT season 2] #LOONA\n\nJust in case you didn't already know, we are fully in support of the STAN LOONA agenda!\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/PwSRWNCfth ​\n▶ Mnet K-POP: https://t.co/cC4dRaPwcn ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/fEIAE1xvSi",
+		"full_text": "[KCON:TACT season 2] #LOONA\n\nJust in case you didn't already know, we are fully in support of the STAN LOONA agenda!\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/PwSRWNCfth \n▶ Mnet K-POP: https://t.co/cC4dRaPwcn \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/fEIAE1xvSi",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1647,13 +3149,13 @@ Grailbird.data.tweets_2020_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "[KCON:TACT season 2] #LOONA\n\nJust in case you didn't already know, we are fully in support of the STAN LOONA agenda!\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/PwSRWNCfth ​\n▶ Mnet K-POP: https://t.co/cC4dRaPwcn ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/fEIAE1xvSi"
+		"text": "[KCON:TACT season 2] #LOONA\n\nJust in case you didn't already know, we are fully in support of the STAN LOONA agenda!\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/PwSRWNCfth \n▶ Mnet K-POP: https://t.co/cC4dRaPwcn \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/fEIAE1xvSi"
 	},
 	{
 		"created_at": "Tue Nov 03 09:45:36 +0000 2020",
 		"id": 1323550526642876400,
 		"id_str": "1323561961691488258",
-		"full_text": "[KCON:TACT season 2] #LOONA\n\nJust in case you didn't already know, we are fully in support of the STAN LOONA agenda!\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/PwSRWNCfth ​\n▶ Mnet K-POP: https://t.co/cC4dRaPwcn ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/la8QfXxbm4",
+		"full_text": "[KCON:TACT season 2] #LOONA\n\nJust in case you didn't already know, we are fully in support of the STAN LOONA agenda!\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/PwSRWNCfth \n▶ Mnet K-POP: https://t.co/cC4dRaPwcn \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/la8QfXxbm4",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1984,7 +3486,7 @@ Grailbird.data.tweets_2020_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "[KCON:TACT season 2] #LOONA\n\nJust in case you didn't already know, we are fully in support of the STAN LOONA agenda!\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/PwSRWNCfth ​\n▶ Mnet K-POP: https://t.co/cC4dRaPwcn ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/la8QfXxbm4"
+		"text": "[KCON:TACT season 2] #LOONA\n\nJust in case you didn't already know, we are fully in support of the STAN LOONA agenda!\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/PwSRWNCfth \n▶ Mnet K-POP: https://t.co/cC4dRaPwcn \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/la8QfXxbm4"
 	},
 	{
 		"created_at": "Tue Nov 03 09:27:18 +0000 2020",
