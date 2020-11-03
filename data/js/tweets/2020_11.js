@@ -1,6 +1,758 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 03 15:45:36 +0000 2020",
+		"id": 1323641088054194200,
+		"id_str": "1323652558741819395",
+		"full_text": "🎥 이달의 소녀(LOONA) - 목소리(Voice) Art Film\nㄴMV 보기: https://t.co/f3VDarTSbJ\n \n#B_Side2_LOOΠΔ\n#B_Side2_이달의소녀\n\n#이달의소녀 #LOONA #Midnight #Why_Not\n@loonatheworld https://t.co/kmN9ZYva55",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "B_Side2_LOOΠΔ",
+					"indices": [
+						72,
+						86
+					]
+				},
+				{
+					"text": "B_Side2_이달의소녀",
+					"indices": [
+						87,
+						101
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						117,
+						126
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						127,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						136,
+						150
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/f3VDarTSbJ",
+					"expanded_url": "https://youtu.be/ogbrx6jAB_I",
+					"display_url": "youtu.be/ogbrx6jAB_I",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323561237876101000,
+					"id_str": "1323561237876101122",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/El477u4U0AItUOv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El477u4U0AItUOv.jpg",
+					"url": "https://t.co/kmN9ZYva55",
+					"display_url": "pic.twitter.com/kmN9ZYva55",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1323641088054194177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323561237876101000,
+					"id_str": "1323561237876101122",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/El477u4U0AItUOv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El477u4U0AItUOv.jpg",
+					"url": "https://t.co/kmN9ZYva55",
+					"display_url": "pic.twitter.com/kmN9ZYva55",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1323641088054194177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "🍓비사이드 2 : 이달의 소녀 편🍓유튜브 뮤플리 채널 ㄱㄱㄹ 💬 뮤플리는 지금 #딸기벽돌엔터 인턴 투잡 중..",
+			"url": "https://t.co/npNrfLZtFs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/npNrfLZtFs",
+							"expanded_url": "https://www.youtube.com/channel/UC9LcN9O8amxNcfu0fwGqwgQ",
+							"display_url": "youtube.com/channel/UC9LcN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19210,
+			"friends_count": 59,
+			"listed_count": 35,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1597044457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1091,
+		"favorite_count": 2097,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎥 이달의 소녀(LOONA) - 목소리(Voice) Art Film\nㄴMV 보기: https://t.co/f3VDarTSbJ\n \n#B_Side2_LOOΠΔ\n#B_Side2_이달의소녀\n\n#이달의소녀 #LOONA #Midnight #Why_Not\n@loonatheworld https://t.co/kmN9ZYva55"
+	},
+	{
+		"created_at": "Tue Nov 03 15:31:27 +0000 2020",
+		"id": 1323648997169467400,
+		"id_str": "1323648997169467392",
+		"full_text": "Birdy - If This Is It Now [Official Lyric Video]\nhttps://t.co/AYwx2RrH98\n#Birdy #버디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Birdy",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "버디",
+					"indices": [
+						80,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AYwx2RrH98",
+					"expanded_url": "https://youtu.be/JL55oV_h1UY",
+					"display_url": "youtu.be/JL55oV_h1UY",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71567,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Birdy - If This Is It Now [Official Lyric Video]\nhttps://t.co/AYwx2RrH98\n#Birdy #버디"
+	},
+	{
+		"created_at": "Tue Nov 03 15:28:17 +0000 2020",
+		"id": 1323246831686606800,
+		"id_str": "1323648197642735621",
+		"full_text": "We know, we never thought we’d be saying this either. https://t.co/cVRMSLSDq6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1323246827257385000,
+					"id_str": "1323246827257384963",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/El0d-oDW0AMNB2v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El0d-oDW0AMNB2v.jpg",
+					"url": "https://t.co/cVRMSLSDq6",
+					"display_url": "pic.twitter.com/cVRMSLSDq6",
+					"expanded_url": "https://twitter.com/BurgerKingUK/status/1323246831686606851/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323246827257385000,
+					"id_str": "1323246827257384963",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/El0d-oDW0AMNB2v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El0d-oDW0AMNB2v.jpg",
+					"url": "https://t.co/cVRMSLSDq6",
+					"display_url": "pic.twitter.com/cVRMSLSDq6",
+					"expanded_url": "https://twitter.com/BurgerKingUK/status/1323246831686606851/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2764632382,
+			"id_str": "2764632382",
+			"name": "Burger King",
+			"screen_name": "BurgerKingUK",
+			"location": "UK",
+			"description": "Come for the burgers, stay for the tweets. Drop us a DM to talk about your food. Otherwise, enjoy the show.",
+			"url": "https://t.co/CsSpIMU284",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CsSpIMU284",
+							"expanded_url": "https://www.burgerking.co.uk/delivery",
+							"display_url": "burgerking.co.uk/delivery",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61146,
+			"friends_count": 286,
+			"listed_count": 168,
+			"created_at": "Mon Sep 08 08:28:32 +0000 2014",
+			"favourites_count": 1898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182219317598916608/QtefHRSh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182219317598916608/QtefHRSh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2764632382/1600264431",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34565,
+		"favorite_count": 142526,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We know, we never thought we’d be saying this either. https://t.co/cVRMSLSDq6"
+	},
+	{
+		"created_at": "Tue Nov 03 15:27:13 +0000 2020",
+		"id": 1323641332682936300,
+		"id_str": "1323647929048059907",
+		"full_text": "윈터랑 리콜타임💿 \n\n#WINTER #윈터\n#æ_WINTER #아이_윈터\n#REKALL #리콜 #리콜언제든콜\n#aespa #æspa #에스파 https://t.co/VuuxfMo9ri",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WINTER",
+					"indices": [
+						12,
+						19
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						20,
+						23
+					]
+				},
+				{
+					"text": "æ_WINTER",
+					"indices": [
+						24,
+						33
+					]
+				},
+				{
+					"text": "아이_윈터",
+					"indices": [
+						34,
+						40
+					]
+				},
+				{
+					"text": "REKALL",
+					"indices": [
+						41,
+						48
+					]
+				},
+				{
+					"text": "리콜",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "리콜언제든콜",
+					"indices": [
+						53,
+						60
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						74,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1323595747850268700,
+					"id_str": "1323595747850268672",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/El5bUejVMAAOpkJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El5bUejVMAAOpkJ.jpg",
+					"url": "https://t.co/VuuxfMo9ri",
+					"display_url": "pic.twitter.com/VuuxfMo9ri",
+					"expanded_url": "https://twitter.com/aespa_official/status/1323641332682936320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323595747850268700,
+					"id_str": "1323595747850268672",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/El5bUejVMAAOpkJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El5bUejVMAAOpkJ.jpg",
+					"url": "https://t.co/VuuxfMo9ri",
+					"display_url": "pic.twitter.com/VuuxfMo9ri",
+					"expanded_url": "https://twitter.com/aespa_official/status/1323641332682936320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 358119,
+			"friends_count": 1,
+			"listed_count": 773,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24572,
+		"favorite_count": 53091,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "윈터랑 리콜타임💿 \n\n#WINTER #윈터\n#æ_WINTER #아이_윈터\n#REKALL #리콜 #리콜언제든콜\n#aespa #æspa #에스파 https://t.co/VuuxfMo9ri"
+	},
+	{
 		"created_at": "Tue Nov 03 15:11:31 +0000 2020",
 		"id": 1323643979641069600,
 		"id_str": "1323643979641069579",
