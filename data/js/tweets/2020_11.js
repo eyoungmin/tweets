@@ -1,6 +1,455 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 03 08:44:12 +0000 2020",
+		"id": 1323546507920945200,
+		"id_str": "1323546507920945152",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 ‘마지막처럼’ MV 9억뷰 돌파···통산 4번째 기록\nhttps://t.co/EUuvKknTda\n#블랙핑크 #BLACKPINK https://t.co/GoRLWGqzDc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						82,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EUuvKknTda",
+					"expanded_url": "https://yg-life.com/archives/162130?lang=ko",
+					"display_url": "yg-life.com/archives/16213…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323546506750808000,
+					"id_str": "1323546506750808065",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/El4uiRKXUAE6vRu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El4uiRKXUAE6vRu.jpg",
+					"url": "https://t.co/GoRLWGqzDc",
+					"display_url": "pic.twitter.com/GoRLWGqzDc",
+					"expanded_url": "https://twitter.com/fromminn/status/1323546507920945152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323546506750808000,
+					"id_str": "1323546506750808065",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/El4uiRKXUAE6vRu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El4uiRKXUAE6vRu.jpg",
+					"url": "https://t.co/GoRLWGqzDc",
+					"display_url": "pic.twitter.com/GoRLWGqzDc",
+					"expanded_url": "https://twitter.com/fromminn/status/1323546507920945152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 ‘마지막처럼’ MV 9억뷰 돌파···통산 4번째 기록\nhttps://t.co/EUuvKknTda\n#블랙핑크 #BLACKPINK https://t.co/GoRLWGqzDc"
+	},
+	{
+		"created_at": "Tue Nov 03 08:27:56 +0000 2020",
+		"id": 1323536663700623400,
+		"id_str": "1323542416217960448",
+		"full_text": "[#부퀘스트 #레드벨벳 5화🌹]\n\n인싸라면 그냥 잠들 수 없지💤\n  \n자! 라이어 게임을 시작하지👥\n게임 그렇게 하는거 아니라고ㅋㅋㅋ🤦‍♀️\n\n아(이).띵(크).띵(곡)🎶\n#러비 들의 인생곡을🎙\n#RedVelvet 목소리로 불러줄께요❤️\n\n#아이돌라이브 앱에서 만나요\n🍷링크: https://t.co/fA9hvY9dI7\n\n@RVsmtown https://t.co/SOMnrWA9rr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "부퀘스트",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "러비",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"text": "아이돌라이브",
+					"indices": [
+						134,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						180,
+						189
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fA9hvY9dI7",
+					"expanded_url": "http://idollive.page.link/ewxHGTGWbfz7Xqcd8",
+					"display_url": "idollive.page.link/ewxHGTGWbfz7Xq…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323536588773576700,
+					"id_str": "1323536588773576705",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1323536588773576705/pu/img/8RmfpJjIOvsh7nhM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1323536588773576705/pu/img/8RmfpJjIOvsh7nhM.jpg",
+					"url": "https://t.co/SOMnrWA9rr",
+					"display_url": "pic.twitter.com/SOMnrWA9rr",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1323536663700623362/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323536588773576700,
+					"id_str": "1323536588773576705",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1323536588773576705/pu/img/8RmfpJjIOvsh7nhM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1323536588773576705/pu/img/8RmfpJjIOvsh7nhM.jpg",
+					"url": "https://t.co/SOMnrWA9rr",
+					"display_url": "pic.twitter.com/SOMnrWA9rr",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1323536663700623362/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 27640,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1323536588773576705/pu/vid/480x270/dTREAByf8YJd-BDC.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1323536588773576705/pu/pl/a783dNK3dwN1t4_a.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1323536588773576705/pu/vid/1280x720/d9FoGy4bVgR0bj0D.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1323536588773576705/pu/vid/640x360/hDzsftPpIPchOyLz.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093324810904432600,
+			"id_str": "1093324810904432640",
+			"name": "아이돌Live",
+			"screen_name": "uplusidollive",
+			"location": "Republic of Korea",
+			"description": "'좋아하는 아이돌 무대를 눈앞에서 보는 것처럼'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73641,
+			"friends_count": 6,
+			"listed_count": 80,
+			"created_at": "Thu Feb 07 01:45:22 +0000 2019",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1585,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093324810904432640/1602464402",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 601,
+		"favorite_count": 907,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#부퀘스트 #레드벨벳 5화🌹]\n\n인싸라면 그냥 잠들 수 없지💤\n  \n자! 라이어 게임을 시작하지👥\n게임 그렇게 하는거 아니라고ㅋㅋㅋ🤦‍♀️\n\n아(이).띵(크).띵(곡)🎶\n#러비 들의 인생곡을🎙\n#RedVelvet 목소리로 불러줄께요❤️\n\n#아이돌라이브 앱에서 만나요\n🍷링크: https://t.co/fA9hvY9dI7\n\n@RVsmtown https://t.co/SOMnrWA9rr"
+	},
+	{
 		"created_at": "Tue Nov 03 08:01:04 +0000 2020",
 		"id": 1323532502447710200,
 		"id_str": "1323535653011746823",
