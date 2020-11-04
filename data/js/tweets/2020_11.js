@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 04 15:37:11 +0000 2020",
+		"id": 1324010040903098400,
+		"id_str": "1324012825165983745",
+		"full_text": "정신이 혼미해지는 주간~야간 녹음. https://t.co/fPZMCqthMg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324010011140321300,
+					"id_str": "1324010011140321280",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1324010011140321280/pu/img/qOPk2bX8MPv8mky-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1324010011140321280/pu/img/qOPk2bX8MPv8mky-.jpg",
+					"url": "https://t.co/fPZMCqthMg",
+					"display_url": "pic.twitter.com/fPZMCqthMg",
+					"expanded_url": "https://twitter.com/love_yuna/status/1324010040903098368/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324010011140321300,
+					"id_str": "1324010011140321280",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1324010011140321280/pu/img/qOPk2bX8MPv8mky-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1324010011140321280/pu/img/qOPk2bX8MPv8mky-.jpg",
+					"url": "https://t.co/fPZMCqthMg",
+					"display_url": "pic.twitter.com/fPZMCqthMg",
+					"expanded_url": "https://twitter.com/love_yuna/status/1324010040903098368/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 4167,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1324010011140321280/pu/vid/720x900/Skq0EFeM6aa8Kxuu.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1324010011140321280/pu/vid/360x450/91_9o_wyJyWy_y3A.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1324010011140321280/pu/vid/320x400/1y51Z81Yq6b4h90y.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1324010011140321280/pu/pl/uL8PnHRPGELA3wjm.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272882,
+			"friends_count": 516,
+			"listed_count": 2860,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322058173579030529/EjjUSGPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322058173579030529/EjjUSGPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1604038208",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 138,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정신이 혼미해지는 주간~야간 녹음. https://t.co/fPZMCqthMg"
+	},
+	{
 		"created_at": "Wed Nov 04 14:23:44 +0000 2020",
 		"id": 1323994342659367000,
 		"id_str": "1323994342659366913",
