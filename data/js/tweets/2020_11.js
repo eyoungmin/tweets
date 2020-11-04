@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 04 03:27:04 +0000 2020",
+		"id": 1323824393940734000,
+		"id_str": "1323829088587522048",
+		"full_text": "[NOTICE] \n💡&lt;#WeDontStop 88rising Concert&gt; LIVE 안내 \n\n🌟LIVE ON\n2020.11.07 8PM (PHT) / 9PM (KST)\n\n📍LIVE PAGE\nhttps://t.co/jQs5erBDuQ\n\n#청하 #chungha \n#GOMOph https://t.co/euObRYjpmk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WeDontStop",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "chungha",
+					"indices": [
+						141,
+						149
+					]
+				},
+				{
+					"text": "GOMOph",
+					"indices": [
+						151,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jQs5erBDuQ",
+					"expanded_url": "https://www.facebook.com/getgomo/",
+					"display_url": "facebook.com/getgomo/",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323824047675773000,
+					"id_str": "1323824047675772929",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/El8q9RrVkAEf7Ro.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El8q9RrVkAEf7Ro.jpg",
+					"url": "https://t.co/euObRYjpmk",
+					"display_url": "pic.twitter.com/euObRYjpmk",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1323824393940733952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323824047675773000,
+					"id_str": "1323824047675772929",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/El8q9RrVkAEf7Ro.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El8q9RrVkAEf7Ro.jpg",
+					"url": "https://t.co/euObRYjpmk",
+					"display_url": "pic.twitter.com/euObRYjpmk",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1323824393940733952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/ZHcd08tZVb",
+			"url": "https://t.co/reTg513UFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg513UFX",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZHcd08tZVb",
+							"expanded_url": "https://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								31,
+								54
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 285519,
+			"friends_count": 0,
+			"listed_count": 1745,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 242,
+		"favorite_count": 1152,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[NOTICE] \n💡&lt;#WeDontStop 88rising Concert&gt; LIVE 안내 \n\n🌟LIVE ON\n2020.11.07 8PM (PHT) / 9PM (KST)\n\n📍LIVE PAGE\nhttps://t.co/jQs5erBDuQ\n\n#청하 #chungha \n#GOMOph https://t.co/euObRYjpmk"
+	},
+	{
 		"created_at": "Wed Nov 04 03:01:03 +0000 2020",
 		"id": 1323822540289155000,
 		"id_str": "1323822540289155073",
