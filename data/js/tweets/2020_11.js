@@ -1,6 +1,901 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 04 10:45:39 +0000 2020",
+		"id": 1323939370450088000,
+		"id_str": "1323939461814734850",
+		"full_text": "#이달의소녀 \n201104 ‘Why Not?’\nMBC M #쇼챔피언\n\n‘Why Not?’\n🌑 https://t.co/jzqOEbdw6N\n\n#LOONA #Midnight #Why_Not",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "쇼챔피언",
+					"indices": [
+						32,
+						37
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						94,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jzqOEbdw6N",
+					"expanded_url": "http://naver.me/53YJgRZU",
+					"display_url": "naver.me/53YJgRZU",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 570552,
+			"friends_count": 0,
+			"listed_count": 5798,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2368,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 831,
+		"favorite_count": 3145,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#이달의소녀 \n201104 ‘Why Not?’\nMBC M #쇼챔피언\n\n‘Why Not?’\n🌑 https://t.co/jzqOEbdw6N\n\n#LOONA #Midnight #Why_Not"
+	},
+	{
+		"created_at": "Wed Nov 04 10:45:36 +0000 2020",
+		"id": 1323931425305886700,
+		"id_str": "1323939448715943936",
+		"full_text": "[#캡틴] 캡틴 콕 집어보기📌 #이달의소녀 편\n\n\"엠넷은 남달라\"\n시작한 지 1분 만에 눈물바다💧가 된 이유는? 지금 바로 확인하세요♨\n\n▶https://t.co/k4BVo7sPlk\n\nK-POP 패밀리 컴피티션이 시작된다!\n#부모소환십대오디션 ＜캡틴＞\n11월 19일(목) 밤 9시 첫방송!\n\n#LOONA @loonatheworld https://t.co/ILgF2Fa0AV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "캡틴",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						17,
+						23
+					]
+				},
+				{
+					"text": "부모소환십대오디션",
+					"indices": [
+						125,
+						135
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						163,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						170,
+						184
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/k4BVo7sPlk",
+					"expanded_url": "https://bit.ly/32dvUjr",
+					"display_url": "bit.ly/32dvUjr",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323930281171021800,
+					"id_str": "1323930281171021826",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/El-MPVUUcAEb52T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El-MPVUUcAEb52T.jpg",
+					"url": "https://t.co/ILgF2Fa0AV",
+					"display_url": "pic.twitter.com/ILgF2Fa0AV",
+					"expanded_url": "https://twitter.com/MnetKR/status/1323931425305886721/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323930281171021800,
+					"id_str": "1323930281171021826",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/El-MPVUUcAEb52T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El-MPVUUcAEb52T.jpg",
+					"url": "https://t.co/ILgF2Fa0AV",
+					"display_url": "pic.twitter.com/ILgF2Fa0AV",
+					"expanded_url": "https://twitter.com/MnetKR/status/1323931425305886721/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29663,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1323930281171021826/vid/1280x720/GxxA1wCcpbPDeQgM.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1323930281171021826/vid/480x270/lbDZ-c4Ac9aWuIpp.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1323930281171021826/pl/Zw1NhUu1v8jcOj-D.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1323930281171021826/vid/640x360/5BfWnUK3sZChMxTX.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2746002,
+			"friends_count": 21475,
+			"listed_count": 2712,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 445,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 26315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 262,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#캡틴] 캡틴 콕 집어보기📌 #이달의소녀 편\n\n\"엠넷은 남달라\"\n시작한 지 1분 만에 눈물바다💧가 된 이유는? 지금 바로 확인하세요♨\n\n▶https://t.co/k4BVo7sPlk\n\nK-POP 패밀리 컴피티션이 시작된다!\n#부모소환십대오디션 ＜캡틴＞\n11월 19일(목) 밤 9시 첫방송!\n\n#LOONA @loonatheworld https://t.co/ILgF2Fa0AV"
+	},
+	{
+		"created_at": "Wed Nov 04 10:27:31 +0000 2020",
+		"id": 1323934895215923200,
+		"id_str": "1323934895215923200",
+		"full_text": "#78Avenue #CLASS\n[11월 특강 - 3주 차 추가 오픈] A&amp;R 직무 특강 - 1주 차(11월 3일) / 2주 차(11월 10일) / 3주 차(11월 17일) 수강신청\nhttps://t.co/eZZ1awKvFX\n#뮤직비지니스 #예술경영 #minfav https://t.co/boLrvjQgam",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "78Avenue",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "CLASS",
+					"indices": [
+						10,
+						16
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						129,
+						136
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						143,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eZZ1awKvFX",
+					"expanded_url": "http://78avenue.com/product/11%EC%9B%94-%ED%8A%B9%EA%B0%95-3%EC%A3%BC-%EC%B0%A8-%EC%B6%94%EA%B0%80-%EC%98%A4%ED%94%88-ar-%EC%A7%81%EB%AC%B4-%ED%8A%B9%EA%B0%95-1%EC%A3%BC-%EC%B0%A811%EC%9B%94-3%EC%9D%BC-2%EC%A3%BC-%EC%B0%A811%EC%9B%94-10%EC%9D%BC-3%EC%A3%BC-%EC%B0%A811%EC%9B%94-17%EC%9D%BC-%EC%88%98%EA%B0%95%EC%8B%A0%EC%B2%AD/49/category/42/display/1/",
+					"display_url": "78avenue.com/product/11%EC%…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323934893731098600,
+					"id_str": "1323934893731098624",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/El-PxXaWMAA0HsQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El-PxXaWMAA0HsQ.jpg",
+					"url": "https://t.co/boLrvjQgam",
+					"display_url": "pic.twitter.com/boLrvjQgam",
+					"expanded_url": "https://twitter.com/fromminn/status/1323934895215923200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323934893731098600,
+					"id_str": "1323934893731098624",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/El-PxXaWMAA0HsQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El-PxXaWMAA0HsQ.jpg",
+					"url": "https://t.co/boLrvjQgam",
+					"display_url": "pic.twitter.com/boLrvjQgam",
+					"expanded_url": "https://twitter.com/fromminn/status/1323934895215923200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71620,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#78Avenue #CLASS\n[11월 특강 - 3주 차 추가 오픈] A&amp;R 직무 특강 - 1주 차(11월 3일) / 2주 차(11월 10일) / 3주 차(11월 17일) 수강신청\nhttps://t.co/eZZ1awKvFX\n#뮤직비지니스 #예술경영 #minfav https://t.co/boLrvjQgam"
+	},
+	{
+		"created_at": "Wed Nov 04 10:27:04 +0000 2020",
+		"id": 1323928160384118800,
+		"id_str": "1323934785006411776",
+		"full_text": "#OFFICIALBLINK #BLACKPINK #THEALBUM 스페셜 KIT 이벤트 참여 안내 공지가 #블링크존 에 업로드 되었습니다. 📢\n이벤트 참여 상세 내용은 블링크존 NOTICE 게시판을 확인해주세요!🖤💖\n\n⏰ 신청 시간 : 11월 6일 (금) 오후 8시 ~\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA\n#1stFULLALBUM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OFFICIALBLINK",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"text": "THEALBUM",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"text": "블링크존",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						164,
+						171
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						172,
+						177
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						178,
+						183
+					]
+				},
+				{
+					"text": "1stFULLALBUM",
+					"indices": [
+						184,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/c2mkxA118z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c2mkxA118z",
+							"expanded_url": "https://blink.blackpinkofficial.com/",
+							"display_url": "blink.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5599974,
+			"friends_count": 6,
+			"listed_count": 5820,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1338,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1601269396",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3016,
+		"favorite_count": 16366,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#OFFICIALBLINK #BLACKPINK #THEALBUM 스페셜 KIT 이벤트 참여 안내 공지가 #블링크존 에 업로드 되었습니다. 📢\n이벤트 참여 상세 내용은 블링크존 NOTICE 게시판을 확인해주세요!🖤💖\n\n⏰ 신청 시간 : 11월 6일 (금) 오후 8시 ~\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA\n#1stFULLALBUM"
+	},
+	{
+		"created_at": "Wed Nov 04 10:21:45 +0000 2020",
+		"id": 1323933443282133000,
+		"id_str": "1323933443282132992",
+		"full_text": "#팩트체크 #SNU팩트체크\n일상에서 마스크 착용을 최소화해야 한다.\n▶ 전혀 사실 아님\nhttps://t.co/lJ8GeC3M5Z\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						75,
+						86
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						87,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lJ8GeC3M5Z",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2594",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71620,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n일상에서 마스크 착용을 최소화해야 한다.\n▶ 전혀 사실 아님\nhttps://t.co/lJ8GeC3M5Z\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
 		"created_at": "Wed Nov 04 09:57:39 +0000 2020",
 		"id": 1323927381690777600,
 		"id_str": "1323927381690777601",
