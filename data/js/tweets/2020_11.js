@@ -1,6 +1,380 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 04 01:01:14 +0000 2020",
+		"id": 1323792386443665400,
+		"id_str": "1323792386443665409",
+		"full_text": "#덤덤스튜디오 #DUMDUM_STUDIO #예리한방\n태연과 언니 부자 뚜뚜 X 넉 언니케미 찢는 '예리한 힙합 스쿨' [EP.20-2]\nhttps://t.co/xiQsiqynQq\n#레드벨벳 #RedVelvet #예리 #YERI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "덤덤스튜디오",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "DUMDUM_STUDIO",
+					"indices": [
+						8,
+						22
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						106,
+						116
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						121,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xiQsiqynQq",
+					"expanded_url": "https://youtu.be/_ErGrh-sdXU",
+					"display_url": "youtu.be/_ErGrh-sdXU",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44019,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71575,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#덤덤스튜디오 #DUMDUM_STUDIO #예리한방\n태연과 언니 부자 뚜뚜 X 넉 언니케미 찢는 '예리한 힙합 스쿨' [EP.20-2]\nhttps://t.co/xiQsiqynQq\n#레드벨벳 #RedVelvet #예리 #YERI"
+	},
+	{
+		"created_at": "Wed Nov 04 00:45:36 +0000 2020",
+		"id": 1323777341928087600,
+		"id_str": "1323788453998448640",
+		"full_text": "Poppin' Wednesday\n⏲Begins at 5PM(KST)\n\n▶17:00 [#Weeklyidol] #MONSTAX \n▶18:00 [#SHOWCHAMPION] #TWICE  #LOONA #CIX #JBJ95 #TOMORROW_X_TOGETHER https://t.co/qRtWc9XdVr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Weeklyidol",
+					"indices": [
+						47,
+						58
+					]
+				},
+				{
+					"text": "MONSTAX",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"text": "SHOWCHAMPION",
+					"indices": [
+						78,
+						91
+					]
+				},
+				{
+					"text": "TWICE",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "CIX",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "JBJ95",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "TOMORROW_X_TOGETHER",
+					"indices": [
+						120,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1323777334965461000,
+					"id_str": "1323777334965460993",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/El8AePRUYAEFyt-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El8AePRUYAEFyt-.jpg",
+					"url": "https://t.co/qRtWc9XdVr",
+					"display_url": "pic.twitter.com/qRtWc9XdVr",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1323777341928087553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323777334965461000,
+					"id_str": "1323777334965460993",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/El8AePRUYAEFyt-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El8AePRUYAEFyt-.jpg",
+					"url": "https://t.co/qRtWc9XdVr",
+					"display_url": "pic.twitter.com/qRtWc9XdVr",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1323777341928087553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/YpjchEd2rf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YpjchEd2rf",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61094,
+			"friends_count": 2497,
+			"listed_count": 241,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7962,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Poppin' Wednesday\n⏲Begins at 5PM(KST)\n\n▶17:00 [#Weeklyidol] #MONSTAX \n▶18:00 [#SHOWCHAMPION] #TWICE  #LOONA #CIX #JBJ95 #TOMORROW_X_TOGETHER https://t.co/qRtWc9XdVr"
+	},
+	{
 		"created_at": "Tue Nov 03 20:57:59 +0000 2020",
 		"id": 1323607198690205700,
 		"id_str": "1323731169691594752",
