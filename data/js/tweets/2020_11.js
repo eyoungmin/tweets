@@ -1,6 +1,517 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 04 06:45:37 +0000 2020",
+		"id": 1323865326837067800,
+		"id_str": "1323879052718100485",
+		"full_text": "#Why_Not 부터 #목소리 까지~🤭 11월 4일은 #이달의_소녀 날로 지정! (쾅!) 지금 당장! 달력에 동그라미 치고 모두 적으세요~ 11월 4일 잠시 후 6시 #쇼챔피언 본방 사수! 이달의 소녀 무대는 절대 놓치지 말 것!❤ https://t.co/rIKwSPUdKt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Why_Not",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "목소리",
+					"indices": [
+						12,
+						16
+					]
+				},
+				{
+					"text": "이달의_소녀",
+					"indices": [
+						30,
+						37
+					]
+				},
+				{
+					"text": "쇼챔피언",
+					"indices": [
+						93,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1323865282918535200,
+					"id_str": "1323865282918535168",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/El9Qde7U0AAgUm3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El9Qde7U0AAgUm3.jpg",
+					"url": "https://t.co/rIKwSPUdKt",
+					"display_url": "pic.twitter.com/rIKwSPUdKt",
+					"expanded_url": "https://twitter.com/showchampion1/status/1323865326837067776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323865282918535200,
+					"id_str": "1323865282918535168",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/El9Qde7U0AAgUm3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El9Qde7U0AAgUm3.jpg",
+					"url": "https://t.co/rIKwSPUdKt",
+					"display_url": "pic.twitter.com/rIKwSPUdKt",
+					"expanded_url": "https://twitter.com/showchampion1/status/1323865326837067776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1323865296449405000,
+					"id_str": "1323865296449404930",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/El9QeRVVgAIaflR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El9QeRVVgAIaflR.jpg",
+					"url": "https://t.co/rIKwSPUdKt",
+					"display_url": "pic.twitter.com/rIKwSPUdKt",
+					"expanded_url": "https://twitter.com/showchampion1/status/1323865326837067776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1323865307367178200,
+					"id_str": "1323865307367178240",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/El9Qe6AVgAAmDra.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El9Qe6AVgAAmDra.jpg",
+					"url": "https://t.co/rIKwSPUdKt",
+					"display_url": "pic.twitter.com/rIKwSPUdKt",
+					"expanded_url": "https://twitter.com/showchampion1/status/1323865326837067776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1323865318016471000,
+					"id_str": "1323865318016471041",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/El9QfhrU0AEk1CK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El9QfhrU0AEk1CK.jpg",
+					"url": "https://t.co/rIKwSPUdKt",
+					"display_url": "pic.twitter.com/rIKwSPUdKt",
+					"expanded_url": "https://twitter.com/showchampion1/status/1323865326837067776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 480220551,
+			"id_str": "480220551",
+			"name": "SHOWCHAMPION",
+			"screen_name": "showchampion1",
+			"location": "",
+			"description": "MBC M 쇼챔피언 매주 수요일 저녁 6시 방송! / 일산 MBC드림센터에서 진행되며 자세한 사항은 쇼챔 홈페이지를 확인하세요~^^",
+			"url": "https://t.co/kg7On1VCNH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kg7On1VCNH",
+							"expanded_url": "http://twtkr.com/showchampion1",
+							"display_url": "twtkr.com/showchampion1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1116967,
+			"friends_count": 245,
+			"listed_count": 1868,
+			"created_at": "Wed Feb 01 07:48:32 +0000 2012",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113204816413466624/GCX6Zm7K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113204816413466624/GCX6Zm7K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/480220551/1554243646",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 755,
+		"favorite_count": 2103,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Why_Not 부터 #목소리 까지~🤭 11월 4일은 #이달의_소녀 날로 지정! (쾅!) 지금 당장! 달력에 동그라미 치고 모두 적으세요~ 11월 4일 잠시 후 6시 #쇼챔피언 본방 사수! 이달의 소녀 무대는 절대 놓치지 말 것!❤ https://t.co/rIKwSPUdKt"
+	},
+	{
+		"created_at": "Wed Nov 04 06:26:08 +0000 2020",
+		"id": 1323874150025289700,
+		"id_str": "1323874150025289729",
+		"full_text": "#SMTOWN #Artist_News\n‘유리한 식탁’ X ‘웰컴 그룹’\nhttps://t.co/v00QwVmBUD\n#소녀시대 #GirlsGeneration https://t.co/g2Xs0b9M5g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						70,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v00QwVmBUD",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/4160",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323874148825747500,
+					"id_str": "1323874148825747461",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/El9YhjAU0AUJyaa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El9YhjAU0AUJyaa.jpg",
+					"url": "https://t.co/g2Xs0b9M5g",
+					"display_url": "pic.twitter.com/g2Xs0b9M5g",
+					"expanded_url": "https://twitter.com/fromminn/status/1323874150025289729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323874148825747500,
+					"id_str": "1323874148825747461",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/El9YhjAU0AUJyaa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El9YhjAU0AUJyaa.jpg",
+					"url": "https://t.co/g2Xs0b9M5g",
+					"display_url": "pic.twitter.com/g2Xs0b9M5g",
+					"expanded_url": "https://twitter.com/fromminn/status/1323874150025289729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71591,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n‘유리한 식탁’ X ‘웰컴 그룹’\nhttps://t.co/v00QwVmBUD\n#소녀시대 #GirlsGeneration https://t.co/g2Xs0b9M5g"
+	},
+	{
 		"created_at": "Wed Nov 04 05:59:46 +0000 2020",
 		"id": 1323805303360479200,
 		"id_str": "1323867515647225856",
