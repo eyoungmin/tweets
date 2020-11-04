@@ -1,6 +1,1088 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 04 08:45:36 +0000 2020",
+		"id": 1323905406687608800,
+		"id_str": "1323909250188562432",
+		"full_text": "오빛! 잠시 후 오후 6시(KST) 방송되는 쇼챔피언에서 시선을 사로잡는 #이달의소녀 의 'Why Not?' 무대가 펼쳐집니다🐸💘 오늘도 기분 따라 느낌 따라 같이 즐겨 주세요!\n\n#LOONA #Midnight #Why_Not https://t.co/txiuDycJaB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						41,
+						47
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						108,
+						117
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						118,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1323904311743508500,
+					"id_str": "1323904311743508482",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/El9z9QoUcAISPrE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El9z9QoUcAISPrE.jpg",
+					"url": "https://t.co/txiuDycJaB",
+					"display_url": "pic.twitter.com/txiuDycJaB",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1323905406687608832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323904311743508500,
+					"id_str": "1323904311743508482",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/El9z9QoUcAISPrE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El9z9QoUcAISPrE.jpg",
+					"url": "https://t.co/txiuDycJaB",
+					"display_url": "pic.twitter.com/txiuDycJaB",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1323905406687608832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 570494,
+			"friends_count": 0,
+			"listed_count": 5800,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2845,
+		"favorite_count": 10277,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오빛! 잠시 후 오후 6시(KST) 방송되는 쇼챔피언에서 시선을 사로잡는 #이달의소녀 의 'Why Not?' 무대가 펼쳐집니다🐸💘 오늘도 기분 따라 느낌 따라 같이 즐겨 주세요!\n\n#LOONA #Midnight #Why_Not https://t.co/txiuDycJaB"
+	},
+	{
+		"created_at": "Wed Nov 04 08:30:59 +0000 2020",
+		"id": 1321065852821741600,
+		"id_str": "1323905568273170433",
+		"full_text": "Over 4000 independent artists back “Justice at Spotify” campaign.\n\nhttps://t.co/MZaqYT2P3q https://t.co/SgT2hIlEBs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MZaqYT2P3q",
+					"expanded_url": "https://www.thefader.com/2020/10/27/union-musicians-allied-workers-justice-at-spotify-campaign?utm_source=tftw",
+					"display_url": "thefader.com/2020/10/27/uni…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1321065803769389000,
+					"id_str": "1321065803769389065",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/ElVeWWaXIAkgl7U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElVeWWaXIAkgl7U.jpg",
+					"url": "https://t.co/SgT2hIlEBs",
+					"display_url": "pic.twitter.com/SgT2hIlEBs",
+					"expanded_url": "https://twitter.com/thefader/status/1321065852821741568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 666,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 442,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 666,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1321065803769389000,
+					"id_str": "1321065803769389065",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/ElVeWWaXIAkgl7U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElVeWWaXIAkgl7U.jpg",
+					"url": "https://t.co/SgT2hIlEBs",
+					"display_url": "pic.twitter.com/SgT2hIlEBs",
+					"expanded_url": "https://twitter.com/thefader/status/1321065852821741568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 666,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 442,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 666,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18038269,
+			"id_str": "18038269",
+			"name": "The FADER",
+			"screen_name": "thefader",
+			"location": "New York, NY",
+			"description": "Look ahead. Instagram: https://t.co/BJ1Y98z78z Mags & merch: https://t.co/GGu06qE913",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/BJ1Y98z78z",
+							"expanded_url": "http://instagram.com/thefader",
+							"display_url": "instagram.com/thefader",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/GGu06qE913",
+							"expanded_url": "http://shop.thefader.com",
+							"display_url": "shop.thefader.com",
+							"indices": [
+								61,
+								84
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 672166,
+			"friends_count": 1963,
+			"listed_count": 7781,
+			"created_at": "Thu Dec 11 02:25:05 +0000 2008",
+			"favourites_count": 32387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 129143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986728617483776000/aLJhitmF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986728617483776000/aLJhitmF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18038269/1576170392",
+			"profile_link_color": "006DA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 103,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Over 4000 independent artists back “Justice at Spotify” campaign.\n\nhttps://t.co/MZaqYT2P3q https://t.co/SgT2hIlEBs"
+	},
+	{
+		"created_at": "Wed Nov 04 08:30:19 +0000 2020",
+		"id": 1323905403449602000,
+		"id_str": "1323905403449602048",
+		"full_text": "트위터 계정 만들면 바로 잠기고 서치밴도 걸리고 뭘 할 수가 없네.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "트위터 계정 만들면 바로 잠기고 서치밴도 걸리고 뭘 할 수가 없네."
+	},
+	{
+		"created_at": "Wed Nov 04 08:22:43 +0000 2020",
+		"id": 1323340529883644000,
+		"id_str": "1323903487780909056",
+		"full_text": "Spotify will now give your music an algorithmic boost in exchange for a lowered “promotional recording royalty rate.”\n\nhttps://t.co/ug692hjbcQ https://t.co/a6dqWEu9Yk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ug692hjbcQ",
+					"expanded_url": "https://www.thefader.com/2020/11/02/spotify-promotional-tool-discovery-weekly-royalty-rate-union-letter?utm_source=tftw",
+					"display_url": "thefader.com/2020/11/02/spo…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323340490700431400,
+					"id_str": "1323340490700431362",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/El1zKjkXIAI1q2M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El1zKjkXIAI1q2M.jpg",
+					"url": "https://t.co/a6dqWEu9Yk",
+					"display_url": "pic.twitter.com/a6dqWEu9Yk",
+					"expanded_url": "https://twitter.com/thefader/status/1323340529883643908/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323340490700431400,
+					"id_str": "1323340490700431362",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/El1zKjkXIAI1q2M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El1zKjkXIAI1q2M.jpg",
+					"url": "https://t.co/a6dqWEu9Yk",
+					"display_url": "pic.twitter.com/a6dqWEu9Yk",
+					"expanded_url": "https://twitter.com/thefader/status/1323340529883643908/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18038269,
+			"id_str": "18038269",
+			"name": "The FADER",
+			"screen_name": "thefader",
+			"location": "New York, NY",
+			"description": "Look ahead. Instagram: https://t.co/BJ1Y98z78z Mags & merch: https://t.co/GGu06qE913",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/BJ1Y98z78z",
+							"expanded_url": "http://instagram.com/thefader",
+							"display_url": "instagram.com/thefader",
+							"indices": [
+								23,
+								46
+							]
+						},
+						{
+							"url": "https://t.co/GGu06qE913",
+							"expanded_url": "http://shop.thefader.com",
+							"display_url": "shop.thefader.com",
+							"indices": [
+								61,
+								84
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 672166,
+			"friends_count": 1963,
+			"listed_count": 7781,
+			"created_at": "Thu Dec 11 02:25:05 +0000 2008",
+			"favourites_count": 32387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 129143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986728617483776000/aLJhitmF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986728617483776000/aLJhitmF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18038269/1576170392",
+			"profile_link_color": "006DA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 571,
+		"favorite_count": 2090,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Spotify will now give your music an algorithmic boost in exchange for a lowered “promotional recording royalty rate.”\n\nhttps://t.co/ug692hjbcQ https://t.co/a6dqWEu9Yk"
+	},
+	{
+		"created_at": "Wed Nov 04 08:16:45 +0000 2020",
+		"id": 1323901989571448800,
+		"id_str": "1323901989571448835",
+		"full_text": "#팩트체크 #SNU팩트체크\n\"달걀 알레르기 있으면 독감 백신 접종 못 한다\"\n▶ 대체로 사실이 아님\nhttps://t.co/zOuRfgiD3j\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						82,
+						93
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						94,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zOuRfgiD3j",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2598",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n\"달걀 알레르기 있으면 독감 백신 접종 못 한다\"\n▶ 대체로 사실이 아님\nhttps://t.co/zOuRfgiD3j\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
+		"created_at": "Wed Nov 04 08:16:09 +0000 2020",
+		"id": 1323677534526066700,
+		"id_str": "1323901835149635584",
+		"full_text": "What do you think of Spotify's new 'Discovery Mode'? A lot of artists and songwriters aren't happy about it... https://t.co/3C4iV86JDL #Spotify https://t.co/JgNcE14Z2V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Spotify",
+					"indices": [
+						135,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3C4iV86JDL",
+					"expanded_url": "http://www.musicweek.com/digital/read/promotion-or-payola-spotify-faces-backlash-over-new-personalised-recommendations-feature/081783",
+					"display_url": "musicweek.com/digital/read/p…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323677312110502000,
+					"id_str": "1323677312110501891",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/El6lgJGXIAMWmIG.png",
+					"media_url_https": "https://pbs.twimg.com/media/El6lgJGXIAMWmIG.png",
+					"url": "https://t.co/JgNcE14Z2V",
+					"display_url": "pic.twitter.com/JgNcE14Z2V",
+					"expanded_url": "https://twitter.com/MusicWeek/status/1323677534526066689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 648,
+							"h": 396,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 648,
+							"h": 396,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 648,
+							"h": 396,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323677312110502000,
+					"id_str": "1323677312110501891",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/El6lgJGXIAMWmIG.png",
+					"media_url_https": "https://pbs.twimg.com/media/El6lgJGXIAMWmIG.png",
+					"url": "https://t.co/JgNcE14Z2V",
+					"display_url": "pic.twitter.com/JgNcE14Z2V",
+					"expanded_url": "https://twitter.com/MusicWeek/status/1323677534526066689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 648,
+							"h": 396,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 648,
+							"h": 396,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 648,
+							"h": 396,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20234637,
+			"id_str": "20234637",
+			"name": "Music Week",
+			"screen_name": "MusicWeek",
+			"location": "London",
+			"description": "Music business news, events, charts & everything in between. Tweets: @Andre_Paine1 @msutherlanduk @jameshanley5 @ben_homewood @George_Garner8 & @sarahathomas_",
+			"url": "https://t.co/vzv6rgYbqV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vzv6rgYbqV",
+							"expanded_url": "http://www.musicweek.com",
+							"display_url": "musicweek.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 148159,
+			"friends_count": 2685,
+			"listed_count": 2358,
+			"created_at": "Fri Feb 06 12:59:12 +0000 2009",
+			"favourites_count": 2985,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 59029,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1011133040049958913/ZqtkVr1f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011133040049958913/ZqtkVr1f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20234637/1604305768",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What do you think of Spotify's new 'Discovery Mode'? A lot of artists and songwriters aren't happy about it... https://t.co/3C4iV86JDL #Spotify https://t.co/JgNcE14Z2V"
+	},
+	{
+		"created_at": "Wed Nov 04 08:13:34 +0000 2020",
+		"id": 1323901185141567500,
+		"id_str": "1323901185141567488",
+		"full_text": "@SMTOWNGLOBAL @aespa_official 멜론에도 업데이트 해주세요. 멜론에 티저이미지랑 티저영상 올려주세요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SMTOWNGLOBAL",
+					"name": "SMTOWN",
+					"id": 884378714,
+					"id_str": "884378714",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						14,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@SMTOWNGLOBAL @aespa_official 멜론에도 업데이트 해주세요. 멜론에 티저이미지랑 티저영상 올려주세요."
+	},
+	{
 		"created_at": "Wed Nov 04 07:16:44 +0000 2020",
 		"id": 1323886884200861700,
 		"id_str": "1323886884200861697",
