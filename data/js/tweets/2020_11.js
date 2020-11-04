@@ -1,6 +1,495 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 04 04:45:36 +0000 2020",
+		"id": 1323847977526464500,
+		"id_str": "1323848851493703680",
+		"full_text": "말하지 않아도 느껴지는 딸의 목소리\n\"수영이 사랑한다\" \n\n#Yves #LOONA #IDOLFAMILY \n#이달의소녀 #이브 #눈물바다\n#엄마아빠 #사랑해요 #Iloveyou\n\nhttps://t.co/si07vSsXEy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Yves",
+					"indices": [
+						33,
+						38
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "IDOLFAMILY",
+					"indices": [
+						46,
+						57
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "눈물바다",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "엄마아빠",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "사랑해요",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "Iloveyou",
+					"indices": [
+						88,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/si07vSsXEy",
+					"expanded_url": "https://www.youtube.com/watch?v=ZfafGx2a630",
+					"display_url": "youtube.com/watch?v=ZfafGx…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906055771921629200,
+			"id_str": "906055771921629184",
+			"name": "나돌(NADOL)",
+			"screen_name": "ae_ssr",
+			"location": "대한민국 중구",
+			"description": "KPOP 스타들의 매력발산 채널 '나도 아이돌이다'",
+			"url": "https://t.co/W4BmT5ww9v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W4BmT5ww9v",
+							"expanded_url": "https://www.youtube.com/channel/UC3pk0eDcZx_oYGCWNyJpjMQ/featured?view_as=subscriber",
+							"display_url": "youtube.com/channel/UC3pk0…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 944,
+			"friends_count": 86,
+			"listed_count": 11,
+			"created_at": "Fri Sep 08 07:25:04 +0000 2017",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1318368541406494720/fyadTBj2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318368541406494720/fyadTBj2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906055771921629184/1603158530",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 72,
+		"favorite_count": 203,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "말하지 않아도 느껴지는 딸의 목소리\n\"수영이 사랑한다\" \n\n#Yves #LOONA #IDOLFAMILY \n#이달의소녀 #이브 #눈물바다\n#엄마아빠 #사랑해요 #Iloveyou\n\nhttps://t.co/si07vSsXEy"
+	},
+	{
+		"created_at": "Wed Nov 04 04:27:16 +0000 2020",
+		"id": 1323843054776676400,
+		"id_str": "1323844235976679426",
+		"full_text": "[#예술경영 웹진 : 이슈토크] \n\n&lt;공연 영상 콘텐츠의 유료화 과제 외&gt;\n-2020년 10월 문화예술 분야 주요 뉴스-\n\n456호 이슈토크 더보기👇\nhttps://t.co/80m6Pz4h0F\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/SEgoqXE8ur",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						125,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/80m6Pz4h0F",
+					"expanded_url": "https://bit.ly/37SHHr7",
+					"display_url": "bit.ly/37SHHr7",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323843042982293500,
+					"id_str": "1323843042982293506",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/El88O8tU8AIyMH4.png",
+					"media_url_https": "https://pbs.twimg.com/media/El88O8tU8AIyMH4.png",
+					"url": "https://t.co/SEgoqXE8ur",
+					"display_url": "pic.twitter.com/SEgoqXE8ur",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1323843054776676354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 813,
+							"h": 333,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 813,
+							"h": 333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 279,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323843042982293500,
+					"id_str": "1323843042982293506",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/El88O8tU8AIyMH4.png",
+					"media_url_https": "https://pbs.twimg.com/media/El88O8tU8AIyMH4.png",
+					"url": "https://t.co/SEgoqXE8ur",
+					"display_url": "pic.twitter.com/SEgoqXE8ur",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1323843054776676354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 813,
+							"h": 333,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 813,
+							"h": 333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 279,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6885,
+			"friends_count": 2995,
+			"listed_count": 101,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예술경영 웹진 : 이슈토크] \n\n&lt;공연 영상 콘텐츠의 유료화 과제 외&gt;\n-2020년 10월 문화예술 분야 주요 뉴스-\n\n456호 이슈토크 더보기👇\nhttps://t.co/80m6Pz4h0F\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/SEgoqXE8ur"
+	},
+	{
+		"created_at": "Wed Nov 04 04:27:14 +0000 2020",
+		"id": 1323812908384616400,
+		"id_str": "1323844227080589313",
+		"full_text": "CONDADO DE CLARK, NV 🚨 En algunos lugares, el horario de votación se ha extendido UNA hora hasta las 8 PM. Si estás en la fila antes de las 8 PM, aún puedes votar. Asegurémonos de que todos sepan que pueden visitar a https://t.co/BHV95qeUw1. Haz retweet y entera a un nevadense.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BHV95qeUw1",
+					"expanded_url": "http://voyavotar.com",
+					"display_url": "voyavotar.com",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1129095209772552200,
+			"id_str": "1129095209772552192",
+			"name": "Team Joe (Text JOE to 30330)",
+			"screen_name": "TeamJoe",
+			"location": "Philadelphia, PA",
+			"description": "We’re building a grassroots campaign to elect @JoeBiden to be the 46th President. Account managed by #TeamJoe staff. Text JOE to 30330 to join our campaign.",
+			"url": "https://t.co/BUHfybyq5Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BUHfybyq5Y",
+							"expanded_url": "http://JoeBiden.com",
+							"display_url": "JoeBiden.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169695,
+			"friends_count": 952,
+			"listed_count": 611,
+			"created_at": "Thu May 16 18:44:10 +0000 2019",
+			"favourites_count": 1206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6729,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1321646730203426816/cN2SiF4N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1321646730203426816/cN2SiF4N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1129095209772552192/1604184827",
+			"profile_link_color": "233F94",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1003,
+		"favorite_count": 8485,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "CONDADO DE CLARK, NV 🚨 En algunos lugares, el horario de votación se ha extendido UNA hora hasta las 8 PM. Si estás en la fila antes de las 8 PM, aún puedes votar. Asegurémonos de que todos sepan que pueden visitar a https://t.co/BHV95qeUw1. Haz retweet y entera a un nevadense."
+	},
+	{
 		"created_at": "Wed Nov 04 03:27:04 +0000 2020",
 		"id": 1323824393940734000,
 		"id_str": "1323829088587522048",
