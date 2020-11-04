@@ -1,6 +1,609 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 04 05:59:46 +0000 2020",
+		"id": 1323805303360479200,
+		"id_str": "1323867515647225856",
+		"full_text": "💛 BoA's Japanese single 'I believe' out today at 12PM KST!\n💛 Ballad with a positive message to move forward towards a bright future!\n\n💛 보아 日 새 싱글 ‘I believe’ 오늘 낮 12시 발매!\n💛 밝은 미래를 향해 나아가고자 하는 긍정적인 메시지 담은 발라드 곡!\n\n#BoA #보아 #I_believe https://t.co/T0ifrPHjHw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						212,
+						216
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						217,
+						220
+					]
+				},
+				{
+					"text": "I_believe",
+					"indices": [
+						221,
+						231
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1323805300856516600,
+					"id_str": "1323805300856516609",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/El8Z6EVU8AE0hiQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El8Z6EVU8AE0hiQ.jpg",
+					"url": "https://t.co/T0ifrPHjHw",
+					"display_url": "pic.twitter.com/T0ifrPHjHw",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1323805303360479232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323805300856516600,
+					"id_str": "1323805300856516609",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/El8Z6EVU8AE0hiQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El8Z6EVU8AE0hiQ.jpg",
+					"url": "https://t.co/T0ifrPHjHw",
+					"display_url": "pic.twitter.com/T0ifrPHjHw",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1323805303360479232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30983,
+			"friends_count": 1,
+			"listed_count": 82,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 531,
+		"favorite_count": 1711,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💛 BoA's Japanese single 'I believe' out today at 12PM KST!\n💛 Ballad with a positive message to move forward towards a bright future!\n\n💛 보아 日 새 싱글 ‘I believe’ 오늘 낮 12시 발매!\n💛 밝은 미래를 향해 나아가고자 하는 긍정적인 메시지 담은 발라드 곡!\n\n#BoA #보아 #I_believe https://t.co/T0ifrPHjHw"
+	},
+	{
+		"created_at": "Wed Nov 04 05:59:28 +0000 2020",
+		"id": 1323794603842003000,
+		"id_str": "1323867438912466944",
+		"full_text": "Vasai - 웹 브라우저 화면 녹화하는 크롬 확장 https://t.co/lOcLYUfc1r \n- 클릭한번으로 현재 웹브라우저의 동작을 다 녹화해주는 크롬 확장 \n- 회원가입/로그인 필요없음\n- 녹화시간 무제한\n- 녹화된 동영상은 자체 URL이 나와서 공유가능 (공유기간 무제한)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lOcLYUfc1r",
+					"expanded_url": "https://j.mp/365HUF3",
+					"display_url": "j.mp/365HUF3",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4247,
+			"friends_count": 0,
+			"listed_count": 63,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Vasai - 웹 브라우저 화면 녹화하는 크롬 확장 https://t.co/lOcLYUfc1r \n- 클릭한번으로 현재 웹브라우저의 동작을 다 녹화해주는 크롬 확장 \n- 회원가입/로그인 필요없음\n- 녹화시간 무제한\n- 녹화된 동영상은 자체 URL이 나와서 공유가능 (공유기간 무제한)"
+	},
+	{
+		"created_at": "Wed Nov 04 05:59:18 +0000 2020",
+		"id": 1323828344761168000,
+		"id_str": "1323867398370254848",
+		"full_text": "#태연 의 마스크 스트랩 만들기 도전! 떼구루루 떨어지는 비즈 소리와 소곤소곤 ASMR까지, 자타공인 팔찌 장인 #Taeyeon 영상 보러가기 \n\nhttps://t.co/ALGDTHpRCl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "Taeyeon",
+					"indices": [
+						63,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ALGDTHpRCl",
+					"expanded_url": "https://youtu.be/oexphfXO7EQ",
+					"display_url": "youtu.be/oexphfXO7EQ",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/m6zPKg47IM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/m6zPKg47IM",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251348,
+			"friends_count": 0,
+			"listed_count": 765,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 4014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11575,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1603460412",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 225,
+		"favorite_count": 304,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#태연 의 마스크 스트랩 만들기 도전! 떼구루루 떨어지는 비즈 소리와 소곤소곤 ASMR까지, 자타공인 팔찌 장인 #Taeyeon 영상 보러가기 \n\nhttps://t.co/ALGDTHpRCl"
+	},
+	{
+		"created_at": "Wed Nov 04 05:27:04 +0000 2020",
+		"id": 1323852576920490000,
+		"id_str": "1323859287626649602",
+		"full_text": "#BLACKPINK ‘24/365 with BLACKPINK’ Last Episode Preview\n\n🎬https://t.co/0brtGqXzff\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA #24_365_WITH_BLACKPINK #EP17 #LAST_EPISODE #YOUTUBE #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						96,
+						103
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "24_365_WITH_BLACKPINK",
+					"indices": [
+						116,
+						138
+					]
+				},
+				{
+					"text": "EP17",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "LAST_EPISODE",
+					"indices": [
+						145,
+						158
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						159,
+						167
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						168,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0brtGqXzff",
+					"expanded_url": "https://youtu.be/J8t0XRwPggE",
+					"display_url": "youtu.be/J8t0XRwPggE",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6933028,
+			"friends_count": 38,
+			"listed_count": 6997,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10724,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8283,
+		"favorite_count": 29520,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘24/365 with BLACKPINK’ Last Episode Preview\n\n🎬https://t.co/0brtGqXzff\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA #24_365_WITH_BLACKPINK #EP17 #LAST_EPISODE #YOUTUBE #YG"
+	},
+	{
 		"created_at": "Wed Nov 04 04:45:36 +0000 2020",
 		"id": 1323847977526464500,
 		"id_str": "1323848851493703680",
