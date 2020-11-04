@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 04 11:25:38 +0000 2020",
+		"id": 1323949523660537900,
+		"id_str": "1323949523660537857",
+		"full_text": "https://t.co/WXBsoOsViu\n\n525x350 굳이 왜? https://t.co/UPt4EU0I1V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WXBsoOsViu",
+					"expanded_url": "https://img.imageimg.net/artist/redvelvet/img/photo_1003786_9ca66cf76edb70727c2c06514e9ea45de53e5721.jpg?sr.nocv=1",
+					"display_url": "img.imageimg.net/artist/redvelv…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323949371596025900,
+					"id_str": "1323949371596025856",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/El-c8FqVMAALBnl.png",
+					"media_url_https": "https://pbs.twimg.com/media/El-c8FqVMAALBnl.png",
+					"url": "https://t.co/UPt4EU0I1V",
+					"display_url": "pic.twitter.com/UPt4EU0I1V",
+					"expanded_url": "https://twitter.com/fromminn/status/1323949523660537857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 525,
+							"h": 350,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 525,
+							"h": 350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323949371596025900,
+					"id_str": "1323949371596025856",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/El-c8FqVMAALBnl.png",
+					"media_url_https": "https://pbs.twimg.com/media/El-c8FqVMAALBnl.png",
+					"url": "https://t.co/UPt4EU0I1V",
+					"display_url": "pic.twitter.com/UPt4EU0I1V",
+					"expanded_url": "https://twitter.com/fromminn/status/1323949523660537857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 525,
+							"h": 350,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 525,
+							"h": 350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1323948875313410000,
+		"in_reply_to_status_id_str": "1323948875313410048",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/WXBsoOsViu\n\n525x350 굳이 왜? https://t.co/UPt4EU0I1V"
+	},
+	{
+		"created_at": "Wed Nov 04 11:23:04 +0000 2020",
+		"id": 1323948875313410000,
+		"id_str": "1323948875313410048",
+		"full_text": "봇이 문제면 캡챠를 넣어서 해결을 해야하지만 무료 뉴스레터인데 굳이? 왜? 외부로 공개되지 않는 것도 아니고. 이해가 잘 안가며 번거롭고 불편한 방식이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1323948601681215500,
+		"in_reply_to_status_id_str": "1323948601681215501",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "봇이 문제면 캡챠를 넣어서 해결을 해야하지만 무료 뉴스레터인데 굳이? 왜? 외부로 공개되지 않는 것도 아니고. 이해가 잘 안가며 번거롭고 불편한 방식이다."
+	},
+	{
+		"created_at": "Wed Nov 04 11:21:59 +0000 2020",
+		"id": 1323948601681215500,
+		"id_str": "1323948601681215501",
+		"full_text": "일본 메일링 할 때 그냥 메일에 사진 넣으면 안되나? 왜 이걸 한 번 더 로그인 하게 해놨지? 트래픽 문제도 요샌 크게 문제 안될거고 CDN 잘되어 있으니 첨부파일로 넣어도 되는데 이미지가 고해상도 고화질도 아니고. @SMTOWNGLOBAL @avexmanagement @RVsmtown",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SMTOWNGLOBAL",
+					"name": "SMTOWN",
+					"id": 884378714,
+					"id_str": "884378714",
+					"indices": [
+						121,
+						134
+					]
+				},
+				{
+					"screen_name": "avexmanagement",
+					"name": "avex management",
+					"id": 2997717026,
+					"id_str": "2997717026",
+					"indices": [
+						135,
+						150
+					]
+				},
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						151,
+						160
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "일본 메일링 할 때 그냥 메일에 사진 넣으면 안되나? 왜 이걸 한 번 더 로그인 하게 해놨지? 트래픽 문제도 요샌 크게 문제 안될거고 CDN 잘되어 있으니 첨부파일로 넣어도 되는데 이미지가 고해상도 고화질도 아니고. @SMTOWNGLOBAL @avexmanagement @RVsmtown"
+	},
+	{
 		"created_at": "Wed Nov 04 10:45:39 +0000 2020",
 		"id": 1323939370450088000,
 		"id_str": "1323939461814734850",
