@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 05 12:37:41 +0000 2020",
+		"id": 1324317051104604200,
+		"id_str": "1324330041656844289",
+		"full_text": "[오거돈성폭력사건공동대책위원회 공동성명]\n피해자를 학습 교재로 취급하는 여성가족부 장관은 사퇴하라\n\n전문 보기: https://t.co/iRTeKviMXB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iRTeKviMXB",
+					"expanded_url": "http://sisters.or.kr/load.asp?subPage=120&board_md=view&idx=5690",
+					"display_url": "sisters.or.kr/load.asp?subPa…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93385816,
+			"id_str": "93385816",
+			"name": "한국성폭력상담소 KSVRC",
+			"screen_name": "stoprape",
+			"location": "seoul, south korea",
+			"description": "한국성폭력상담소 문자후원 #25401991(건당 3,000원, # 을 꼭 붙여주세요!)",
+			"url": "https://t.co/b4cwULnRZj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b4cwULnRZj",
+							"expanded_url": "http://www.sisters.or.kr/",
+							"display_url": "sisters.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8694,
+			"friends_count": 320,
+			"listed_count": 110,
+			"created_at": "Sun Nov 29 11:59:25 +0000 2009",
+			"favourites_count": 194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1186193444256940032/w8G0Jk52_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1186193444256940032/w8G0Jk52_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93385816/1573019061",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[오거돈성폭력사건공동대책위원회 공동성명]\n피해자를 학습 교재로 취급하는 여성가족부 장관은 사퇴하라\n\n전문 보기: https://t.co/iRTeKviMXB"
+	},
+	{
 		"created_at": "Thu Nov 05 11:45:43 +0000 2020",
 		"id": 1324313140562067500,
 		"id_str": "1324316961992515584",
