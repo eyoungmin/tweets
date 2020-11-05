@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 05 17:58:12 +0000 2020",
+		"id": 1324276238920294400,
+		"id_str": "1324410701251702787",
+		"full_text": "[Jessi]\n&lt;제시의 쇼!터뷰&gt; EP.22\n&lt;Show!terview with Jessi&gt; EP.22\n👉 https://t.co/OxhbWSQDEV\n\n#제시 #Jessi\n#PNATION #피네이션 https://t.co/5SiogfqBdb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제시",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "Jessi",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "PNATION",
+					"indices": [
+						107,
+						115
+					]
+				},
+				{
+					"text": "피네이션",
+					"indices": [
+						116,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OxhbWSQDEV",
+					"expanded_url": "https://youtu.be/pLc5SAnj5Tg",
+					"display_url": "youtu.be/pLc5SAnj5Tg",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1324276233102786600,
+					"id_str": "1324276233102786560",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EmDGN7qVgAA4Zlx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmDGN7qVgAA4Zlx.jpg",
+					"url": "https://t.co/5SiogfqBdb",
+					"display_url": "pic.twitter.com/5SiogfqBdb",
+					"expanded_url": "https://twitter.com/OfficialPnation/status/1324276238920294400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324276233102786600,
+					"id_str": "1324276233102786560",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EmDGN7qVgAA4Zlx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmDGN7qVgAA4Zlx.jpg",
+					"url": "https://t.co/5SiogfqBdb",
+					"display_url": "pic.twitter.com/5SiogfqBdb",
+					"expanded_url": "https://twitter.com/OfficialPnation/status/1324276238920294400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1077784853565780000,
+			"id_str": "1077784853565779968",
+			"name": "P NATION",
+			"screen_name": "OfficialPnation",
+			"location": "",
+			"description": "Official P NATION account",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27466,
+			"friends_count": 3,
+			"listed_count": 227,
+			"created_at": "Wed Dec 26 04:35:08 +0000 2018",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1120158562351640576/r3req_Kj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120158562351640576/r3req_Kj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1077784853565779968/1582688385",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 313,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Jessi]\n&lt;제시의 쇼!터뷰&gt; EP.22\n&lt;Show!terview with Jessi&gt; EP.22\n👉 https://t.co/OxhbWSQDEV\n\n#제시 #Jessi\n#PNATION #피네이션 https://t.co/5SiogfqBdb"
+	},
+	{
 		"created_at": "Thu Nov 05 15:34:29 +0000 2020",
 		"id": 1324275762833330200,
 		"id_str": "1324374535026565120",
