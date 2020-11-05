@@ -1,6 +1,379 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 05 07:27:13 +0000 2020",
+		"id": 1324243817705336800,
+		"id_str": "1324251908920483841",
+		"full_text": "넉언니 크린토피아 광고를 못찍은 이유\n예리: (안타까워하며) 왜요오~!\n빠른 납득\n(A sincere reaction..)\nWhy not~!!\nThe current model is.. (Handsome)Eunwoo Cha*..\n*K-pop Idol\n(Quick change of stance) Is that so..?\n👉https://t.co/BYS5HRkg9E\n\n#예리 #넉살 #yeri #Nucksal #RedVelvet #AKIRA https://t.co/nvTsum3SnK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						204,
+						207
+					]
+				},
+				{
+					"text": "넉살",
+					"indices": [
+						208,
+						211
+					]
+				},
+				{
+					"text": "yeri",
+					"indices": [
+						212,
+						217
+					]
+				},
+				{
+					"text": "Nucksal",
+					"indices": [
+						218,
+						226
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						227,
+						237
+					]
+				},
+				{
+					"text": "AKIRA",
+					"indices": [
+						238,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BYS5HRkg9E",
+					"expanded_url": "https://youtu.be/ZBhJxKFxqME",
+					"display_url": "youtu.be/ZBhJxKFxqME",
+					"indices": [
+						179,
+						202
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1324243594924843000,
+					"id_str": "1324243594924843010",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1324243594924843010/pu/img/Q4fmK1YT66bSI-Ap.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1324243594924843010/pu/img/Q4fmK1YT66bSI-Ap.jpg",
+					"url": "https://t.co/nvTsum3SnK",
+					"display_url": "pic.twitter.com/nvTsum3SnK",
+					"expanded_url": "https://twitter.com/yerihan_bang/status/1324243817705336837/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324243594924843000,
+					"id_str": "1324243594924843010",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1324243594924843010/pu/img/Q4fmK1YT66bSI-Ap.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1324243594924843010/pu/img/Q4fmK1YT66bSI-Ap.jpg",
+					"url": "https://t.co/nvTsum3SnK",
+					"display_url": "pic.twitter.com/nvTsum3SnK",
+					"expanded_url": "https://twitter.com/yerihan_bang/status/1324243817705336837/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 20567,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1324243594924843010/pu/vid/480x270/X1tmiG0MCoXA8jP8.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1324243594924843010/pu/pl/Eka-GhO0315owq7q.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1324243594924843010/pu/vid/640x360/i0R2zcSXvLIbkFPO.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1324243594924843010/pu/vid/1280x720/RKW4s3iFPFtg29hs.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1230039660572708900,
+			"id_str": "1230039660572708864",
+			"name": "예리한방 - Yeris Room",
+			"screen_name": "yerihan_bang",
+			"location": "",
+			"description": "예리한방(Yeri’s Room) 공식계정\n꿀잼 가득 '덤덤스튜디오' 💜\nDUMDUM STUDIO is full of fun.\n#예리한방 #예리 #레드벨벳 #yerisroom #덤덤스튜디오",
+			"url": "https://t.co/ET3yf5F3Jx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ET3yf5F3Jx",
+							"expanded_url": "http://youtube.com/dumdumstudio",
+							"display_url": "youtube.com/dumdumstudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29786,
+			"friends_count": 0,
+			"listed_count": 145,
+			"created_at": "Wed Feb 19 08:01:31 +0000 2020",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1230039660572708864/1600494343",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 395,
+		"favorite_count": 825,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "넉언니 크린토피아 광고를 못찍은 이유\n예리: (안타까워하며) 왜요오~!\n빠른 납득\n(A sincere reaction..)\nWhy not~!!\nThe current model is.. (Handsome)Eunwoo Cha*..\n*K-pop Idol\n(Quick change of stance) Is that so..?\n👉https://t.co/BYS5HRkg9E\n\n#예리 #넉살 #yeri #Nucksal #RedVelvet #AKIRA https://t.co/nvTsum3SnK"
+	},
+	{
+		"created_at": "Thu Nov 05 07:18:31 +0000 2020",
+		"id": 1324249721825874000,
+		"id_str": "1324249721825873920",
+		"full_text": "#SMTOWN\n2021 Red Velvet SEASON’S GREETINGS Teaser\nhttps://t.co/8LOEt8pYrx\n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						80,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8LOEt8pYrx",
+					"expanded_url": "https://www.youtube.com/watch?v=OdZ_SxX66g8",
+					"display_url": "youtube.com/watch?v=OdZ_Sx…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SMTOWN\n2021 Red Velvet SEASON’S GREETINGS Teaser\nhttps://t.co/8LOEt8pYrx\n#레드벨벳 #RedVelvet"
+	},
+	{
 		"created_at": "Thu Nov 05 05:45:37 +0000 2020",
 		"id": 1324223811382734800,
 		"id_str": "1324226340032303104",
