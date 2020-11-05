@@ -1,6 +1,518 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 05 09:45:36 +0000 2020",
+		"id": 1324275265380339700,
+		"id_str": "1324286737162665986",
+		"full_text": "[퇴근길 LIVE] 이달의 소녀(LOONA) 칼퇴 가능? Why Not?\n#THEKPOP #퇴근길라이브 #퇴근길LIVE #이달의소녀 #LOONA #Why_Not\n@loonatheworld\n▶ https://t.co/ziKevLzdEh https://t.co/pbEdnRXI4S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THEKPOP",
+					"indices": [
+						41,
+						49
+					]
+				},
+				{
+					"text": "퇴근길라이브",
+					"indices": [
+						50,
+						57
+					]
+				},
+				{
+					"text": "퇴근길LIVE",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						81,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						90,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ziKevLzdEh",
+					"expanded_url": "https://youtu.be/BkhxESg3U5M",
+					"display_url": "youtu.be/BkhxESg3U5M",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1324207548728107000,
+					"id_str": "1324207548728107010",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EmCHv-bUYAIL91n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmCHv-bUYAIL91n.jpg",
+					"url": "https://t.co/pbEdnRXI4S",
+					"display_url": "pic.twitter.com/pbEdnRXI4S",
+					"expanded_url": "https://twitter.com/TheKpop/status/1324275265380339712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324207548728107000,
+					"id_str": "1324207548728107010",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EmCHv-bUYAIL91n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmCHv-bUYAIL91n.jpg",
+					"url": "https://t.co/pbEdnRXI4S",
+					"display_url": "pic.twitter.com/pbEdnRXI4S",
+					"expanded_url": "https://twitter.com/TheKpop/status/1324275265380339712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113842072,
+			"id_str": "113842072",
+			"name": "THE K-POP",
+			"screen_name": "TheKpop",
+			"location": "Seoul, Republic of Korea",
+			"description": "We provide 'SBS medianet' original K-POP shows. https://t.co/fzcaNmmjeM",
+			"url": "https://t.co/oUucbEp3c3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oUucbEp3c3",
+							"expanded_url": "https://mtv.sbs.co.kr/channel.html",
+							"display_url": "mtv.sbs.co.kr/channel.html",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fzcaNmmjeM",
+							"expanded_url": "https://www.youtube.com/c/TheKPOP",
+							"display_url": "youtube.com/c/TheKPOP",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 629651,
+			"friends_count": 1068,
+			"listed_count": 1040,
+			"created_at": "Sat Feb 13 06:30:47 +0000 2010",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224570939972575232/KSiGcUtU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224570939972575232/KSiGcUtU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113842072/1604402425",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 323,
+		"favorite_count": 574,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[퇴근길 LIVE] 이달의 소녀(LOONA) 칼퇴 가능? Why Not?\n#THEKPOP #퇴근길라이브 #퇴근길LIVE #이달의소녀 #LOONA #Why_Not\n@loonatheworld\n▶ https://t.co/ziKevLzdEh https://t.co/pbEdnRXI4S"
+	},
+	{
+		"created_at": "Thu Nov 05 09:27:15 +0000 2020",
+		"id": 1324276253772316700,
+		"id_str": "1324282116117508096",
+		"full_text": "이승철 &amp; 태연 (TAEYEON) - 'My Love (Duet Ver.)’ \n\n🎧Melon: https://t.co/phmZjKHpgm\n🎧FLO: https://t.co/WSbahx3oUK\n🎧genie: https://t.co/05XlekUF6v\n🎧NAVER VIBE: https://t.co/GYh47mpgIe\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #MyLove",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						181,
+						184
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						185,
+						193
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						194,
+						199
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						200,
+						216
+					]
+				},
+				{
+					"text": "MyLove",
+					"indices": [
+						217,
+						224
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/phmZjKHpgm",
+					"expanded_url": "https://m2.melon.com/album/music.htm?albumId=10513908",
+					"display_url": "m2.melon.com/album/music.ht…",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/WSbahx3oUK",
+					"expanded_url": "http://flomuz.io/s/b.DWwRG",
+					"display_url": "flomuz.io/s/b.DWwRG",
+					"indices": [
+						87,
+						110
+					]
+				},
+				{
+					"url": "https://t.co/05XlekUF6v",
+					"expanded_url": "https://mw.genie.co.kr/detail/albumInfo?axnm=81715447",
+					"display_url": "mw.genie.co.kr/detail/albumIn…",
+					"indices": [
+						119,
+						142
+					]
+				},
+				{
+					"url": "https://t.co/GYh47mpgIe",
+					"expanded_url": "https://vibe.naver.com/album/5071725",
+					"display_url": "vibe.naver.com/album/5071725",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3591937,
+			"friends_count": 4,
+			"listed_count": 5054,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 48,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2171,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1663,
+		"favorite_count": 2597,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이승철 &amp; 태연 (TAEYEON) - 'My Love (Duet Ver.)’ \n\n🎧Melon: https://t.co/phmZjKHpgm\n🎧FLO: https://t.co/WSbahx3oUK\n🎧genie: https://t.co/05XlekUF6v\n🎧NAVER VIBE: https://t.co/GYh47mpgIe\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #MyLove"
+	},
+	{
+		"created_at": "Thu Nov 05 09:27:11 +0000 2020",
+		"id": 1324275567751962600,
+		"id_str": "1324282102653853696",
+		"full_text": "코로나로 인해 취소된 ‘2020 아시아 투어’를 대신해 특별한 공연을 준비했습니다. 11월11일 유튜브 스트리밍으로 만나요.\n\n2020.11.11\n19:00 Bangkok, Hanoi, Jakarta\n20:00 Hong Kong, Manila, Singapore, Taipei\n21:00 Seoul, Tokyo\n\nDirected by Iwa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1324275387069706200,
+		"in_reply_to_status_id_str": "1324275387069706246",
+		"in_reply_to_user_id": 755405901515718700,
+		"in_reply_to_user_id_str": "755405901515718656",
+		"in_reply_to_screen_name": "adoyband",
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/UASFlEtOja",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UASFlEtOja",
+							"expanded_url": "http://bit.ly/2q10lVb",
+							"display_url": "bit.ly/2q10lVb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4022,
+			"friends_count": 526,
+			"listed_count": 30,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184115881183309824/m9jUX_kN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184115881183309824/m9jUX_kN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1498590788",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "코로나로 인해 취소된 ‘2020 아시아 투어’를 대신해 특별한 공연을 준비했습니다. 11월11일 유튜브 스트리밍으로 만나요.\n\n2020.11.11\n19:00 Bangkok, Hanoi, Jakarta\n20:00 Hong Kong, Manila, Singapore, Taipei\n21:00 Seoul, Tokyo\n\nDirected by Iwa"
+	},
+	{
 		"created_at": "Thu Nov 05 08:27:22 +0000 2020",
 		"id": 1324262742958641200,
 		"id_str": "1324267047472275456",
