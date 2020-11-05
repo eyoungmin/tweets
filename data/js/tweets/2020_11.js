@@ -1,6 +1,586 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 05 15:34:29 +0000 2020",
+		"id": 1324275762833330200,
+		"id_str": "1324374535026565120",
+		"full_text": "[RELEASE] 이승철, 태연 (TAEYEON) 'My Love (Duet Ver.)'이 발매 되었습니다. 지금 모든 음원 사이트에서 감상하실 수 있습니다🎧\n\n🍈멜론 https://t.co/biRswe54Zb\n\n#이승철 #태연 (#TAEYEON) #MyLove https://t.co/mX7eooruua",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이승철",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						129,
+						137
+					]
+				},
+				{
+					"text": "MyLove",
+					"indices": [
+						139,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/biRswe54Zb",
+					"expanded_url": "http://bit.ly/3oZnZQM",
+					"display_url": "bit.ly/3oZnZQM",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1324275715433398300,
+					"id_str": "1324275715433398272",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EmDFvzMVgAAIzut.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmDFvzMVgAAIzut.jpg",
+					"url": "https://t.co/mX7eooruua",
+					"display_url": "pic.twitter.com/mX7eooruua",
+					"expanded_url": "https://twitter.com/flexm_official/status/1324275762833330181/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324275715433398300,
+					"id_str": "1324275715433398272",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EmDFvzMVgAAIzut.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmDFvzMVgAAIzut.jpg",
+					"url": "https://t.co/mX7eooruua",
+					"display_url": "pic.twitter.com/mX7eooruua",
+					"expanded_url": "https://twitter.com/flexm_official/status/1324275762833330181/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1204980754662297600,
+			"id_str": "1204980754662297600",
+			"name": "FLEX M - 플렉스엠",
+			"screen_name": "flexm_official",
+			"location": "",
+			"description": "FLEX M OFFICIAL TWITTER",
+			"url": "https://t.co/SxPpAGiVLt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SxPpAGiVLt",
+							"expanded_url": "http://youtube.com/FLEXM",
+							"display_url": "youtube.com/FLEXM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45,
+			"friends_count": 0,
+			"listed_count": 2,
+			"created_at": "Thu Dec 12 04:26:23 +0000 2019",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322020719966912512/uvz5Uk7h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322020719966912512/uvz5Uk7h_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1204980754662297600/1604029260",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 255,
+		"favorite_count": 380,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[RELEASE] 이승철, 태연 (TAEYEON) 'My Love (Duet Ver.)'이 발매 되었습니다. 지금 모든 음원 사이트에서 감상하실 수 있습니다🎧\n\n🍈멜론 https://t.co/biRswe54Zb\n\n#이승철 #태연 (#TAEYEON) #MyLove https://t.co/mX7eooruua"
+	},
+	{
+		"created_at": "Thu Nov 05 15:33:57 +0000 2020",
+		"id": 1324276266137247700,
+		"id_str": "1324374399978405889",
+		"full_text": "이승철, 태연 (TAEYEON) - My Love (Duet Ver.)\n\nFull ver. ▶ https://t.co/JG1IQKiGcX\n\n#이승철 #태연 (#TAEYEON) #MyLove",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이승철",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"text": "MyLove",
+					"indices": [
+						98,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JG1IQKiGcX",
+					"expanded_url": "http://youtu.be/2LvG8qOWqEw",
+					"display_url": "youtu.be/2LvG8qOWqEw",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1204980754662297600,
+			"id_str": "1204980754662297600",
+			"name": "FLEX M - 플렉스엠",
+			"screen_name": "flexm_official",
+			"location": "",
+			"description": "FLEX M OFFICIAL TWITTER",
+			"url": "https://t.co/SxPpAGiVLt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SxPpAGiVLt",
+							"expanded_url": "http://youtube.com/FLEXM",
+							"display_url": "youtube.com/FLEXM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45,
+			"friends_count": 0,
+			"listed_count": 2,
+			"created_at": "Thu Dec 12 04:26:23 +0000 2019",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322020719966912512/uvz5Uk7h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322020719966912512/uvz5Uk7h_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1204980754662297600/1604029260",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 491,
+		"favorite_count": 386,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이승철, 태연 (TAEYEON) - My Love (Duet Ver.)\n\nFull ver. ▶ https://t.co/JG1IQKiGcX\n\n#이승철 #태연 (#TAEYEON) #MyLove"
+	},
+	{
+		"created_at": "Thu Nov 05 15:27:10 +0000 2020",
+		"id": 1324366108368031700,
+		"id_str": "1324372692527730688",
+		"full_text": "마이 지젤이랑 한 컷📸\n\n#GISELLE #지젤 \n#æ_GISELLE #아이_지젤\n#MY #마이 #우리사이마이\n#aespa #æspa #에스파 https://t.co/Dg8dHVNDzF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GISELLE",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"text": "지젤",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "æ_GISELLE",
+					"indices": [
+						28,
+						38
+					]
+				},
+				{
+					"text": "아이_지젤",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "MY",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "마이",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "우리사이마이",
+					"indices": [
+						54,
+						61
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						75,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324317443754324000,
+					"id_str": "1324317443754323968",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EmDrstTUcAAYmBG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmDrstTUcAAYmBG.jpg",
+					"url": "https://t.co/Dg8dHVNDzF",
+					"display_url": "pic.twitter.com/Dg8dHVNDzF",
+					"expanded_url": "https://twitter.com/aespa_official/status/1324366108368031744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1367,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324317443754324000,
+					"id_str": "1324317443754323968",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EmDrstTUcAAYmBG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmDrstTUcAAYmBG.jpg",
+					"url": "https://t.co/Dg8dHVNDzF",
+					"display_url": "pic.twitter.com/Dg8dHVNDzF",
+					"expanded_url": "https://twitter.com/aespa_official/status/1324366108368031744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1367,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 367667,
+			"friends_count": 1,
+			"listed_count": 790,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 31,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14255,
+		"favorite_count": 35196,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마이 지젤이랑 한 컷📸\n\n#GISELLE #지젤 \n#æ_GISELLE #아이_지젤\n#MY #마이 #우리사이마이\n#aespa #æspa #에스파 https://t.co/Dg8dHVNDzF"
+	},
+	{
 		"created_at": "Thu Nov 05 14:09:28 +0000 2020",
 		"id": 1324353138485129200,
 		"id_str": "1324353138485129216",
