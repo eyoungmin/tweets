@@ -1,6 +1,996 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 05 05:45:37 +0000 2020",
+		"id": 1324223811382734800,
+		"id_str": "1324226340032303104",
+		"full_text": "[팩트iN스타] #이달의소녀 #LOONA\n띵동~ 오빛을 위한 초대장 도착💌\n이달의 소녀 미드나잇 페스티벌에 초대합니다🎉\n🌠일시 : 11월 6일 (금) 저녁 9시✨ \n🌌장소 : 팩트인스타 공식 유튜브❣️\nDi Da Dam Di Dam Di Dam~ Dam Dam Dam Di Dam🎵\n\n#희진 #현진 #여진 \n@loonatheworld #Midnight #Why_Not https://t.co/ZYceIoU6V9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						9,
+						15
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						159,
+						162
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						187,
+						196
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						197,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						172,
+						186
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324222301995348000,
+					"id_str": "1324222301995347968",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/EmCVKuoVMAARRTC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmCVKuoVMAARRTC.jpg",
+					"url": "https://t.co/ZYceIoU6V9",
+					"display_url": "pic.twitter.com/ZYceIoU6V9",
+					"expanded_url": "https://twitter.com/factinstar/status/1324223811382734848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324222301995348000,
+					"id_str": "1324222301995347968",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/EmCVKuoVMAARRTC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmCVKuoVMAARRTC.jpg",
+					"url": "https://t.co/ZYceIoU6V9",
+					"display_url": "pic.twitter.com/ZYceIoU6V9",
+					"expanded_url": "https://twitter.com/factinstar/status/1324223811382734848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1324222341857996800,
+					"id_str": "1324222341857996804",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/EmCVNDIU8AQ4YkO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmCVNDIU8AQ4YkO.jpg",
+					"url": "https://t.co/ZYceIoU6V9",
+					"display_url": "pic.twitter.com/ZYceIoU6V9",
+					"expanded_url": "https://twitter.com/factinstar/status/1324223811382734848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1324222373436928000,
+					"id_str": "1324222373436928000",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/EmCVO4xVMAAbrY5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmCVO4xVMAAbrY5.jpg",
+					"url": "https://t.co/ZYceIoU6V9",
+					"display_url": "pic.twitter.com/ZYceIoU6V9",
+					"expanded_url": "https://twitter.com/factinstar/status/1324223811382734848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 800913985407062000,
+			"id_str": "800913985407062016",
+			"name": "팩트인스타 Fact iN Star",
+			"screen_name": "factinstar",
+			"location": "대한민국 서울",
+			"description": "All That Your K-POP BIAS / TBS Open Studio (SEOUL S-PLEX CENTER) / Friday at 9:00 PM(KST) Fact iN Star #Youtube Upload / Sunday at 12:30 PM(KST) TBS TV On Air",
+			"url": "https://t.co/Dn0y2BVbwp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dn0y2BVbwp",
+							"expanded_url": "https://www.youtube.com/channel/UCakRF1Lu1ZuZR7Dx2B7b_9g",
+							"display_url": "youtube.com/channel/UCakRF…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5627,
+			"friends_count": 2777,
+			"listed_count": 29,
+			"created_at": "Tue Nov 22 04:09:09 +0000 2016",
+			"favourites_count": 2767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262996627276435458/6LSwyFjf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262996627276435458/6LSwyFjf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/800913985407062016/1589956779",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 437,
+		"favorite_count": 1072,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[팩트iN스타] #이달의소녀 #LOONA\n띵동~ 오빛을 위한 초대장 도착💌\n이달의 소녀 미드나잇 페스티벌에 초대합니다🎉\n🌠일시 : 11월 6일 (금) 저녁 9시✨ \n🌌장소 : 팩트인스타 공식 유튜브❣️\nDi Da Dam Di Dam Di Dam~ Dam Dam Dam Di Dam🎵\n\n#희진 #현진 #여진 \n@loonatheworld #Midnight #Why_Not https://t.co/ZYceIoU6V9"
+	},
+	{
+		"created_at": "Thu Nov 05 05:27:20 +0000 2020",
+		"id": 1324207523386196000,
+		"id_str": "1324221739946201089",
+		"full_text": "2021 SM ARTIST SEASON’S GREETINGS Oh!GG #소녀시대\n\n[구성 안내]\n\n1. PACKAGE\n2. DESK CALENDAR\n3. HARD COVER DIARY\n4. FRAME &amp; POSTCARD CALENDAR SET\n5. FOLDED POSTER CALENDAR SET\n6. STICKER SET ( PHOTO &amp; HANDWRITING )\n7. A4 POSTER SET\n8. MINI BROCHURE\n9. TATTOO STICKER SET https://t.co/sEyCntAQWM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						40,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324201392903393300,
+					"id_str": "1324201392903393280",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1324201392903393280/img/7vOQIFFv-O7L0oWK.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1324201392903393280/img/7vOQIFFv-O7L0oWK.jpg",
+					"url": "https://t.co/sEyCntAQWM",
+					"display_url": "pic.twitter.com/sEyCntAQWM",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1324207523386195969/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324201392903393300,
+					"id_str": "1324201392903393280",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1324201392903393280/img/7vOQIFFv-O7L0oWK.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1324201392903393280/img/7vOQIFFv-O7L0oWK.jpg",
+					"url": "https://t.co/sEyCntAQWM",
+					"display_url": "pic.twitter.com/sEyCntAQWM",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1324207523386195969/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 25217,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1324201392903393280/pl/cj-S15rXfnvYvpJf.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324201392903393280/vid/640x360/iNWJLHuaGwK4bnLo.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324201392903393280/vid/1280x720/kxOKCHOPu4dW8vv2.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324201392903393280/vid/480x270/9YLrfsvTBj_vQ0ur.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3591768,
+			"friends_count": 4,
+			"listed_count": 5052,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 48,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3496,
+		"favorite_count": 6357,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2021 SM ARTIST SEASON’S GREETINGS Oh!GG #소녀시대\n\n[구성 안내]\n\n1. PACKAGE\n2. DESK CALENDAR\n3. HARD COVER DIARY\n4. FRAME &amp; POSTCARD CALENDAR SET\n5. FOLDED POSTER CALENDAR SET\n6. STICKER SET ( PHOTO &amp; HANDWRITING )\n7. A4 POSTER SET\n8. MINI BROCHURE\n9. TATTOO STICKER SET https://t.co/sEyCntAQWM"
+	},
+	{
+		"created_at": "Thu Nov 05 05:27:12 +0000 2020",
+		"id": 1324207430582956000,
+		"id_str": "1324221705859047425",
+		"full_text": "2021 SM ARTIST SEASON’S GREETINGS Oh!GG #소녀시대\n\n[구성 안내]\n1. PACKAGE\n2. DESK CALENDAR\n3. HARD COVER DIARY\n4. FRAME &amp; POSTCARD CALENDAR SET\n5. FOLDED POSTER CALENDAR SET\n6. STICKER SET ( PHOTO &amp; HANDWRITING )\n7. A4 POSTER SET\n8. MINI BROCHURE\n9. TATTOO STICKER SET https://t.co/SHDmVBNj6M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						40,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324207416469123000,
+					"id_str": "1324207416469123072",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EmCHoRuUcAADMYR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmCHoRuUcAADMYR.jpg",
+					"url": "https://t.co/SHDmVBNj6M",
+					"display_url": "pic.twitter.com/SHDmVBNj6M",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1324207430582956033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 357,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 630,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1075,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324207416469123000,
+					"id_str": "1324207416469123072",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EmCHoRuUcAADMYR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmCHoRuUcAADMYR.jpg",
+					"url": "https://t.co/SHDmVBNj6M",
+					"display_url": "pic.twitter.com/SHDmVBNj6M",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1324207430582956033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 357,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 630,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1075,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1324207416469155800,
+					"id_str": "1324207416469155848",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EmCHoRuU8Ag0BlQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmCHoRuU8Ag0BlQ.jpg",
+					"url": "https://t.co/SHDmVBNj6M",
+					"display_url": "pic.twitter.com/SHDmVBNj6M",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1324207430582956033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 875,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 290,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1324207416469192700,
+					"id_str": "1324207416469192710",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EmCHoRuVgAYPW63.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmCHoRuVgAYPW63.jpg",
+					"url": "https://t.co/SHDmVBNj6M",
+					"display_url": "pic.twitter.com/SHDmVBNj6M",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1324207430582956033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 249,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 439,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3591768,
+			"friends_count": 4,
+			"listed_count": 5052,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 48,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2911,
+		"favorite_count": 6308,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2021 SM ARTIST SEASON’S GREETINGS Oh!GG #소녀시대\n\n[구성 안내]\n1. PACKAGE\n2. DESK CALENDAR\n3. HARD COVER DIARY\n4. FRAME &amp; POSTCARD CALENDAR SET\n5. FOLDED POSTER CALENDAR SET\n6. STICKER SET ( PHOTO &amp; HANDWRITING )\n7. A4 POSTER SET\n8. MINI BROCHURE\n9. TATTOO STICKER SET https://t.co/SHDmVBNj6M"
+	},
+	{
+		"created_at": "Thu Nov 05 05:27:10 +0000 2020",
+		"id": 1324207312077164500,
+		"id_str": "1324221696920924160",
+		"full_text": "2021 SM ARTIST SEASON’S GREETINGS #RedVelvet\n\n[구성 안내]\n\n1. PACKAGE\n2. DESK CALENDAR\n3. HARD COVER DIARY\n4. FRAME &amp; POSTCARD CALENDAR SET\n5. FOLDED POSTER CALENDAR SET\n6. STICKER SET ( PHOTO &amp; HANDWRITING )\n7. A4 POSTER SET\n8. MINI BROCHURE\n9. PHOTO CARD + CLEAR DECO CARD SET https://t.co/nSJfADQxLr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						34,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324206993490407400,
+					"id_str": "1324206993490407425",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1324206993490407425/pu/img/C85qlpbMdnQJ2Fdv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1324206993490407425/pu/img/C85qlpbMdnQJ2Fdv.jpg",
+					"url": "https://t.co/nSJfADQxLr",
+					"display_url": "pic.twitter.com/nSJfADQxLr",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1324207312077164544/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324206993490407400,
+					"id_str": "1324206993490407425",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1324206993490407425/pu/img/C85qlpbMdnQJ2Fdv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1324206993490407425/pu/img/C85qlpbMdnQJ2Fdv.jpg",
+					"url": "https://t.co/nSJfADQxLr",
+					"display_url": "pic.twitter.com/nSJfADQxLr",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1324207312077164544/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 41233,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1324206993490407425/pu/vid/1280x720/ZKdimUcOLXO_UKh-.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1324206993490407425/pu/vid/640x360/J8y9Ha4n_wMF8W4o.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1324206993490407425/pu/pl/3j_fRCP7JxV7pa6l.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1324206993490407425/pu/vid/480x270/RX6NDp6beaygaXhe.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3369512,
+			"friends_count": 1,
+			"listed_count": 6916,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7030,
+		"favorite_count": 17405,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2021 SM ARTIST SEASON’S GREETINGS #RedVelvet\n\n[구성 안내]\n\n1. PACKAGE\n2. DESK CALENDAR\n3. HARD COVER DIARY\n4. FRAME &amp; POSTCARD CALENDAR SET\n5. FOLDED POSTER CALENDAR SET\n6. STICKER SET ( PHOTO &amp; HANDWRITING )\n7. A4 POSTER SET\n8. MINI BROCHURE\n9. PHOTO CARD + CLEAR DECO CARD SET https://t.co/nSJfADQxLr"
+	},
+	{
 		"created_at": "Thu Nov 05 04:10:36 +0000 2020",
 		"id": 1324202430427521000,
 		"id_str": "1324202430427521025",
