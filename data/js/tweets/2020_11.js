@@ -1,6 +1,1283 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 05 03:27:28 +0000 2020",
+		"id": 1324178448500379600,
+		"id_str": "1324191576285990912",
+		"full_text": "🚨 Prepare for the “FUN MATCH” Gameplay Show of the Century! 🚨\n\nCalling all BLINKS! Join @BLACKPINK in playing PUBG MOBILE and earn some awesome gifts as well! More details coming soon! https://t.co/hSmRwjjvBV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						88,
+						98
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324178374940627000,
+					"id_str": "1324178374940626944",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EmBtRwWXYAAiS3N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmBtRwWXYAAiS3N.jpg",
+					"url": "https://t.co/hSmRwjjvBV",
+					"display_url": "pic.twitter.com/hSmRwjjvBV",
+					"expanded_url": "https://twitter.com/PUBGMOBILE/status/1324178448500379649/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324178374940627000,
+					"id_str": "1324178374940626944",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EmBtRwWXYAAiS3N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmBtRwWXYAAiS3N.jpg",
+					"url": "https://t.co/hSmRwjjvBV",
+					"display_url": "pic.twitter.com/hSmRwjjvBV",
+					"expanded_url": "https://twitter.com/PUBGMOBILE/status/1324178448500379649/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29363,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324178374940626944/vid/640x360/fbWjV78GJ5EHhVV3.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1324178374940626944/pl/MzucH2Zu85eWqSFh.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324178374940626944/vid/480x270/UargvQLM2RiVpB_A.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324178374940626944/vid/1280x720/UInGkMFcRwNnTxeQ.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "BLACKPINK x PUBG MOBILE Gameplay Show",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968652142750810100,
+			"id_str": "968652142750810114",
+			"name": "PUBG MOBILE",
+			"screen_name": "PUBGMOBILE",
+			"location": "",
+			"description": "PLAYERUNKNOWN'S BATTLEGROUNDS goes mobile - the original Battle Royale game is now available on your device! #pubgmobile\n\nOfficial community: https://t.co/kAZqjN0UVf",
+			"url": "https://t.co/Wx3JvVKSnL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Wx3JvVKSnL",
+							"expanded_url": "http://pubgm.cc",
+							"display_url": "pubgm.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kAZqjN0UVf",
+							"expanded_url": "http://discord.gg/pubgm",
+							"display_url": "discord.gg/pubgm",
+							"indices": [
+								142,
+								165
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1123562,
+			"friends_count": 151,
+			"listed_count": 537,
+			"created_at": "Wed Feb 28 01:00:42 +0000 2018",
+			"favourites_count": 3438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6784,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322815911737262080/xq_7yDpW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322815911737262080/xq_7yDpW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968652142750810114/1604218866",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5068,
+		"favorite_count": 18913,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🚨 Prepare for the “FUN MATCH” Gameplay Show of the Century! 🚨\n\nCalling all BLINKS! Join @BLACKPINK in playing PUBG MOBILE and earn some awesome gifts as well! More details coming soon! https://t.co/hSmRwjjvBV"
+	},
+	{
+		"created_at": "Thu Nov 05 03:27:21 +0000 2020",
+		"id": 1324184809657151500,
+		"id_str": "1324191546430885888",
+		"full_text": "aespa 에스파 [Black Mamba]\n🎵 2020.11.17 6PM KST\n\n#WINTER #윈터\n#aespa #æspa #에스파\n#BlackMamba https://t.co/WzkgdwjQTH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WINTER",
+					"indices": [
+						46,
+						53
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						58,
+						64
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "BlackMamba",
+					"indices": [
+						76,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1323917834993377300,
+					"id_str": "1323917834993377280",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/El-AQaqVoAA9hqS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El-AQaqVoAA9hqS.jpg",
+					"url": "https://t.co/WzkgdwjQTH",
+					"display_url": "pic.twitter.com/WzkgdwjQTH",
+					"expanded_url": "https://twitter.com/aespa_official/status/1324184809657151493/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1367,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323917834993377300,
+					"id_str": "1323917834993377280",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/El-AQaqVoAA9hqS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El-AQaqVoAA9hqS.jpg",
+					"url": "https://t.co/WzkgdwjQTH",
+					"display_url": "pic.twitter.com/WzkgdwjQTH",
+					"expanded_url": "https://twitter.com/aespa_official/status/1324184809657151493/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1367,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 364617,
+			"friends_count": 1,
+			"listed_count": 772,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 29,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11466,
+		"favorite_count": 30021,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "aespa 에스파 [Black Mamba]\n🎵 2020.11.17 6PM KST\n\n#WINTER #윈터\n#aespa #æspa #에스파\n#BlackMamba https://t.co/WzkgdwjQTH"
+	},
+	{
+		"created_at": "Thu Nov 05 03:27:16 +0000 2020",
+		"id": 1324184783547592700,
+		"id_str": "1324191524977020928",
+		"full_text": "aespa 에스파 [Black Mamba]\n🎵 2020.11.17 6PM KST\n\n#WINTER #윈터\n#aespa #æspa #에스파\n#BlackMamba https://t.co/F6BmTVNROY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WINTER",
+					"indices": [
+						46,
+						53
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						58,
+						64
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "BlackMamba",
+					"indices": [
+						76,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1323917834989129700,
+					"id_str": "1323917834989129728",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/El-AQapU0AAOkBU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El-AQapU0AAOkBU.jpg",
+					"url": "https://t.co/F6BmTVNROY",
+					"display_url": "pic.twitter.com/F6BmTVNROY",
+					"expanded_url": "https://twitter.com/aespa_official/status/1324184783547592705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1367,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323917834989129700,
+					"id_str": "1323917834989129728",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/El-AQapU0AAOkBU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El-AQapU0AAOkBU.jpg",
+					"url": "https://t.co/F6BmTVNROY",
+					"display_url": "pic.twitter.com/F6BmTVNROY",
+					"expanded_url": "https://twitter.com/aespa_official/status/1324184783547592705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1367,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 364617,
+			"friends_count": 1,
+			"listed_count": 772,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 29,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11691,
+		"favorite_count": 30769,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "aespa 에스파 [Black Mamba]\n🎵 2020.11.17 6PM KST\n\n#WINTER #윈터\n#aespa #æspa #에스파\n#BlackMamba https://t.co/F6BmTVNROY"
+	},
+	{
+		"created_at": "Thu Nov 05 03:27:13 +0000 2020",
+		"id": 1324184735225053200,
+		"id_str": "1324191511869874176",
+		"full_text": "aespa 에스파 [Black Mamba]\n🎵 2020.11.17 6PM KST\n\n#WINTER #윈터\n#aespa #æspa #에스파\n#BlackMamba https://t.co/avVHej69YW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WINTER",
+					"indices": [
+						46,
+						53
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						58,
+						64
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "BlackMamba",
+					"indices": [
+						76,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1323917819222745000,
+					"id_str": "1323917819222745088",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/El-APf6U4AAPb8R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El-APf6U4AAPb8R.jpg",
+					"url": "https://t.co/avVHej69YW",
+					"display_url": "pic.twitter.com/avVHej69YW",
+					"expanded_url": "https://twitter.com/aespa_official/status/1324184735225053189/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1367,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323917819222745000,
+					"id_str": "1323917819222745088",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/El-APf6U4AAPb8R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El-APf6U4AAPb8R.jpg",
+					"url": "https://t.co/avVHej69YW",
+					"display_url": "pic.twitter.com/avVHej69YW",
+					"expanded_url": "https://twitter.com/aespa_official/status/1324184735225053189/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1367,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 364617,
+			"friends_count": 1,
+			"listed_count": 772,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 29,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11144,
+		"favorite_count": 28561,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "aespa 에스파 [Black Mamba]\n🎵 2020.11.17 6PM KST\n\n#WINTER #윈터\n#aespa #æspa #에스파\n#BlackMamba https://t.co/avVHej69YW"
+	},
+	{
+		"created_at": "Thu Nov 05 03:27:07 +0000 2020",
+		"id": 1324184693126754300,
+		"id_str": "1324191485961580546",
+		"full_text": "aespa 에스파 [Black Mamba]\n🎵 2020.11.17 6PM KST\n\n#WINTER #윈터\n#aespa #æspa #에스파\n#BlackMamba https://t.co/MX5kLfLv7u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WINTER",
+					"indices": [
+						46,
+						53
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						58,
+						64
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "BlackMamba",
+					"indices": [
+						76,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1323917819176579000,
+					"id_str": "1323917819176579073",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/El-APfvUcAEQLEl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El-APfvUcAEQLEl.jpg",
+					"url": "https://t.co/MX5kLfLv7u",
+					"display_url": "pic.twitter.com/MX5kLfLv7u",
+					"expanded_url": "https://twitter.com/aespa_official/status/1324184693126754305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1367,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323917819176579000,
+					"id_str": "1323917819176579073",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/El-APfvUcAEQLEl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El-APfvUcAEQLEl.jpg",
+					"url": "https://t.co/MX5kLfLv7u",
+					"display_url": "pic.twitter.com/MX5kLfLv7u",
+					"expanded_url": "https://twitter.com/aespa_official/status/1324184693126754305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1367,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 364617,
+			"friends_count": 1,
+			"listed_count": 772,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 29,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12595,
+		"favorite_count": 34148,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "aespa 에스파 [Black Mamba]\n🎵 2020.11.17 6PM KST\n\n#WINTER #윈터\n#aespa #æspa #에스파\n#BlackMamba https://t.co/MX5kLfLv7u"
+	},
+	{
+		"created_at": "Thu Nov 05 03:27:05 +0000 2020",
+		"id": 1324184664240656400,
+		"id_str": "1324191477069713408",
+		"full_text": "[이달의소녀탐구 #642]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/jzPjbUGJKI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀탐구",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "loonatv",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324181290015355000,
+					"id_str": "1324181290015354880",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1324181290015354880/pu/img/JIZA7WRmzqVGdk60.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1324181290015354880/pu/img/JIZA7WRmzqVGdk60.jpg",
+					"url": "https://t.co/jzPjbUGJKI",
+					"display_url": "pic.twitter.com/jzPjbUGJKI",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1324184664240656384/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324181290015355000,
+					"id_str": "1324181290015354880",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1324181290015354880/pu/img/JIZA7WRmzqVGdk60.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1324181290015354880/pu/img/JIZA7WRmzqVGdk60.jpg",
+					"url": "https://t.co/jzPjbUGJKI",
+					"display_url": "pic.twitter.com/jzPjbUGJKI",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1324184664240656384/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60561,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1324181290015354880/pu/pl/PrHSjgWe7D_DTYwH.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1324181290015354880/pu/vid/1280x720/kPm2TydCnpgSMCbQ.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1324181290015354880/pu/vid/640x360/ohHpI-Nx9euK0qZW.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1324181290015354880/pu/vid/480x270/vTlJPXICWI-LN8MG.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 571112,
+			"friends_count": 0,
+			"listed_count": 5798,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2369,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2141,
+		"favorite_count": 7784,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀탐구 #642]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/jzPjbUGJKI"
+	},
+	{
 		"created_at": "Thu Nov 05 03:01:42 +0000 2020",
 		"id": 1324185091581661200,
 		"id_str": "1324185091581661184",
