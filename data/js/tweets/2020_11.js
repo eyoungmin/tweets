@@ -1,6 +1,1343 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 05 11:45:43 +0000 2020",
+		"id": 1324313140562067500,
+		"id_str": "1324316961992515584",
+		"full_text": "#이달의소녀 \n201105 ‘Why Not?’\nMnet #엠카운트다운\n\n‘Why Not?’\n🌑 https://t.co/V4dQngxbxw\n\n#LOONA #Midnight #Why_Not",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "엠카운트다운",
+					"indices": [
+						31,
+						38
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						85,
+						94
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						95,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V4dQngxbxw",
+					"expanded_url": "http://naver.me/5xNRu09n",
+					"display_url": "naver.me/5xNRu09n",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 571264,
+			"friends_count": 0,
+			"listed_count": 5793,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 911,
+		"favorite_count": 4001,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#이달의소녀 \n201105 ‘Why Not?’\nMnet #엠카운트다운\n\n‘Why Not?’\n🌑 https://t.co/V4dQngxbxw\n\n#LOONA #Midnight #Why_Not"
+	},
+	{
+		"created_at": "Thu Nov 05 11:45:36 +0000 2020",
+		"id": 1324305464230736000,
+		"id_str": "1324316936315031555",
+		"full_text": "풀버전으로 보고 싶은 위클리 지한의 롤모델, 이달의 소녀 올리비아 혜 or 백예린 커버곡은? Vote for 1 song you want to see in full version!\n\n👉 https://t.co/DRJcYNpPLZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DRJcYNpPLZ",
+					"expanded_url": "https://youtu.be/cIToocIVva0",
+					"display_url": "youtu.be/cIToocIVva0",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakao-m.com",
+			"url": "https://t.co/98CRTk0YXk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/98CRTk0YXk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2113686,
+			"friends_count": 812,
+			"listed_count": 1806,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 15158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1604563476",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 189,
+		"favorite_count": 551,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "풀버전으로 보고 싶은 위클리 지한의 롤모델, 이달의 소녀 올리비아 혜 or 백예린 커버곡은? Vote for 1 song you want to see in full version!\n\n👉 https://t.co/DRJcYNpPLZ"
+	},
+	{
+		"created_at": "Thu Nov 05 11:27:57 +0000 2020",
+		"id": 1324306819339100200,
+		"id_str": "1324312491258765312",
+		"full_text": "✨보기 힘든 톱스타들의 근황, 깨알 개그, 공개될 작품까지?!🎤 #LoveYourW #Vlog ! ▶ https://t.co/KY1sFdjoh9\n#차은우 #제시카 #크리스탈 #아이린 #김다미 #태민 #강다니엘 #산다라박 #정해인 #그레이 #김영광 #박신혜 #임수정 #이제훈 #안소희 #안보현 #헨리 #IZONE #한지민 #한효주 #장윤주 https://t.co/mEUEZwkCE8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LoveYourW",
+					"indices": [
+						36,
+						46
+					]
+				},
+				{
+					"text": "Vlog",
+					"indices": [
+						47,
+						52
+					]
+				},
+				{
+					"text": "차은우",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "제시카",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "크리스탈",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "김다미",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "강다니엘",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "산다라박",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "정해인",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "그레이",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "김영광",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "박신혜",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "임수정",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "이제훈",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "안소희",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "안보현",
+					"indices": [
+						158,
+						162
+					]
+				},
+				{
+					"text": "헨리",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "IZONE",
+					"indices": [
+						167,
+						173
+					]
+				},
+				{
+					"text": "한지민",
+					"indices": [
+						174,
+						178
+					]
+				},
+				{
+					"text": "한효주",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "장윤주",
+					"indices": [
+						184,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KY1sFdjoh9",
+					"expanded_url": "https://bit.ly/32fKAPj",
+					"display_url": "bit.ly/32fKAPj",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1324305318176714800,
+					"id_str": "1324305318176714752",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EmDhCC4VMAAoruu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmDhCC4VMAAoruu.jpg",
+					"url": "https://t.co/mEUEZwkCE8",
+					"display_url": "pic.twitter.com/mEUEZwkCE8",
+					"expanded_url": "https://twitter.com/wkorea/status/1324306819339100160/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324305318176714800,
+					"id_str": "1324305318176714752",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EmDhCC4VMAAoruu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmDhCC4VMAAoruu.jpg",
+					"url": "https://t.co/mEUEZwkCE8",
+					"display_url": "pic.twitter.com/mEUEZwkCE8",
+					"expanded_url": "https://twitter.com/wkorea/status/1324306819339100160/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 34401,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324305318176714752/vid/640x360/SsK_KRPuGjNxh1ly.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1324305318176714752/pl/0q4NpQPfXHbh1gVv.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324305318176714752/vid/480x270/KXYS7TcA4LhLOYpu.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324305318176714752/vid/1280x720/qsHj0QwQqMJe79Wu.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/m6zPKg47IM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/m6zPKg47IM",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251504,
+			"friends_count": 0,
+			"listed_count": 769,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 4017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11581,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1603460412",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 310,
+		"favorite_count": 481,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨보기 힘든 톱스타들의 근황, 깨알 개그, 공개될 작품까지?!🎤 #LoveYourW #Vlog ! ▶ https://t.co/KY1sFdjoh9\n#차은우 #제시카 #크리스탈 #아이린 #김다미 #태민 #강다니엘 #산다라박 #정해인 #그레이 #김영광 #박신혜 #임수정 #이제훈 #안소희 #안보현 #헨리 #IZONE #한지민 #한효주 #장윤주 https://t.co/mEUEZwkCE8"
+	},
+	{
+		"created_at": "Thu Nov 05 11:26:01 +0000 2020",
+		"id": 1324312008204845000,
+		"id_str": "1324312008204845057",
+		"full_text": "@enakerina 따로 내보내기 옵션은 없고 pdf 소책자인쇄 이 방법이 최선이고 개별로 pdf 저장하거나 아카아빙 해야할 것 같아요. 감사해요!!!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "enakerina",
+					"name": "킴",
+					"id": 95845501,
+					"id_str": "95845501",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1324310229392126000,
+		"in_reply_to_status_id_str": "1324310229392125952",
+		"in_reply_to_user_id": 95845501,
+		"in_reply_to_user_id_str": "95845501",
+		"in_reply_to_screen_name": "enakerina",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@enakerina 따로 내보내기 옵션은 없고 pdf 소책자인쇄 이 방법이 최선이고 개별로 pdf 저장하거나 아카아빙 해야할 것 같아요. 감사해요!!!"
+	},
+	{
+		"created_at": "Thu Nov 05 11:25:18 +0000 2020",
+		"id": 1324311824356020200,
+		"id_str": "1324311824356020224",
+		"full_text": "#라이브네이션코리아 #Live_Nation\nMetallica \"The Helping Hands Concert &amp; Auction\" (2020년 11월 15일 일요일 오전 7:00)\nhttps://t.co/ARyqfvERcF\n#내한 #내한공연 #공연일정 #티켓공지 https://t.co/xyg7ViOqjZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라이브네이션코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Live_Nation",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"text": "내한",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "내한공연",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						144,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ARyqfvERcF",
+					"expanded_url": "https://www.livenation.kr/show/1323364/metallica-the-helping-hands-concert-and-auction-/online/2020-11-15/kr",
+					"display_url": "livenation.kr/show/1323364/m…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1324311822137200600,
+					"id_str": "1324311822137200642",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EmDmlfJWkAISyO-.png",
+					"media_url_https": "https://pbs.twimg.com/media/EmDmlfJWkAISyO-.png",
+					"url": "https://t.co/xyg7ViOqjZ",
+					"display_url": "pic.twitter.com/xyg7ViOqjZ",
+					"expanded_url": "https://twitter.com/fromminn/status/1324311824356020224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324311822137200600,
+					"id_str": "1324311822137200642",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EmDmlfJWkAISyO-.png",
+					"media_url_https": "https://pbs.twimg.com/media/EmDmlfJWkAISyO-.png",
+					"url": "https://t.co/xyg7ViOqjZ",
+					"display_url": "pic.twitter.com/xyg7ViOqjZ",
+					"expanded_url": "https://twitter.com/fromminn/status/1324311824356020224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#라이브네이션코리아 #Live_Nation\nMetallica \"The Helping Hands Concert &amp; Auction\" (2020년 11월 15일 일요일 오전 7:00)\nhttps://t.co/ARyqfvERcF\n#내한 #내한공연 #공연일정 #티켓공지 https://t.co/xyg7ViOqjZ"
+	},
+	{
+		"created_at": "Thu Nov 05 11:22:20 +0000 2020",
+		"id": 1324311077912338400,
+		"id_str": "1324311077912338434",
+		"full_text": "@enakerina 매번 체킹하고 계셨던 거에요? 댓글보니까 7월에 영업종료 한다고 써있어서 기대 안했거든요.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "enakerina",
+					"name": "킴",
+					"id": 95845501,
+					"id_str": "95845501",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1324310229392126000,
+		"in_reply_to_status_id_str": "1324310229392125952",
+		"in_reply_to_user_id": 95845501,
+		"in_reply_to_user_id_str": "95845501",
+		"in_reply_to_screen_name": "enakerina",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@enakerina 매번 체킹하고 계셨던 거에요? 댓글보니까 7월에 영업종료 한다고 써있어서 기대 안했거든요."
+	},
+	{
+		"created_at": "Thu Nov 05 11:17:25 +0000 2020",
+		"id": 1324309842362880000,
+		"id_str": "1324309842362880000",
+		"full_text": "#Melon #멜론 #포토\n아도이 유튜브 스트리밍 'LOVE'\n▶ https://t.co/mvgfX7ADRh\n원본 : https://t.co/oSBMtrVJ68\n#ADOY #아도이 https://t.co/TJ7fnTsshx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "포토",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "ADOY",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "아도이",
+					"indices": [
+						96,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mvgfX7ADRh",
+					"expanded_url": "https://www.melon.com/artist/photo_detail.htm?artistId=1704627&photoId=80116718&orderBy=NEW",
+					"display_url": "melon.com/artist/photo_d…",
+					"indices": [
+						37,
+						60
+					]
+				},
+				{
+					"url": "https://t.co/oSBMtrVJ68",
+					"expanded_url": "https://cdnimg.melon.co.kr/cm2/photo/images/000/801/16/718/80116718_20201105182330_org.jpg",
+					"display_url": "cdnimg.melon.co.kr/cm2/photo/imag…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1324309841310060500,
+					"id_str": "1324309841310060548",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EmDkyL_XEAQH5z9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmDkyL_XEAQH5z9.jpg",
+					"url": "https://t.co/TJ7fnTsshx",
+					"display_url": "pic.twitter.com/TJ7fnTsshx",
+					"expanded_url": "https://twitter.com/fromminn/status/1324309842362880000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324309841310060500,
+					"id_str": "1324309841310060548",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EmDkyL_XEAQH5z9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmDkyL_XEAQH5z9.jpg",
+					"url": "https://t.co/TJ7fnTsshx",
+					"display_url": "pic.twitter.com/TJ7fnTsshx",
+					"expanded_url": "https://twitter.com/fromminn/status/1324309842362880000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #포토\n아도이 유튜브 스트리밍 'LOVE'\n▶ https://t.co/mvgfX7ADRh\n원본 : https://t.co/oSBMtrVJ68\n#ADOY #아도이 https://t.co/TJ7fnTsshx"
+	},
+	{
+		"created_at": "Thu Nov 05 11:16:49 +0000 2020",
+		"id": 1324309692433137700,
+		"id_str": "1324309692433137664",
+		"full_text": "@enakerina 오 진짜 웹페이지 살아났네요...",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "enakerina",
+					"name": "킴",
+					"id": 95845501,
+					"id_str": "95845501",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1324308708126466000,
+		"in_reply_to_status_id_str": "1324308708126466048",
+		"in_reply_to_user_id": 95845501,
+		"in_reply_to_user_id_str": "95845501",
+		"in_reply_to_screen_name": "enakerina",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@enakerina 오 진짜 웹페이지 살아났네요..."
+	},
+	{
 		"created_at": "Thu Nov 05 10:58:36 +0000 2020",
 		"id": 1324157347099373600,
 		"id_str": "1324305104766332928",
