@@ -1,6 +1,700 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 06 10:45:50 +0000 2020",
+		"id": 1324654170167672800,
+		"id_str": "1324664280092991489",
+		"full_text": "[팩트iN스타] #이달의소녀 #LOONA\n\n아 왜~ 아 왜~ 2부작 하면 왜 안돼 🌟달소(LOONA) \n축제 열린 팩트iN스타 모두 나와 Groove it😎\n\n📺https://t.co/gGXWZSzr6D\n\n🎀11/8 (일) 낮 12시 30분 TBS TV!\n🎀11/9 (월) 오전 8시 팩인스 유튜브에서 무편집본 공개\n\n@loonatheworld #Midnight #Why_Not https://t.co/P06UA6zKoP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						9,
+						15
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						193,
+						202
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						203,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						178,
+						192
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gGXWZSzr6D",
+					"expanded_url": "https://youtu.be/okpbm4yJtn4",
+					"display_url": "youtu.be/okpbm4yJtn4",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1324652184391225300,
+					"id_str": "1324652184391225345",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/EmIcJLWVkAEZpNp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmIcJLWVkAEZpNp.jpg",
+					"url": "https://t.co/P06UA6zKoP",
+					"display_url": "pic.twitter.com/P06UA6zKoP",
+					"expanded_url": "https://twitter.com/factinstar/status/1324654170167672832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324652184391225300,
+					"id_str": "1324652184391225345",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/EmIcJLWVkAEZpNp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmIcJLWVkAEZpNp.jpg",
+					"url": "https://t.co/P06UA6zKoP",
+					"display_url": "pic.twitter.com/P06UA6zKoP",
+					"expanded_url": "https://twitter.com/factinstar/status/1324654170167672832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 800913985407062000,
+			"id_str": "800913985407062016",
+			"name": "팩트인스타 Fact iN Star",
+			"screen_name": "factinstar",
+			"location": "대한민국 서울",
+			"description": "All That Your K-POP BIAS / TBS Open Studio (SEOUL S-PLEX CENTER) / Friday at 9:00 PM(KST) Fact iN Star #Youtube Upload / Sunday at 12:30 PM(KST) TBS TV On Air",
+			"url": "https://t.co/Dn0y2BVbwp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dn0y2BVbwp",
+							"expanded_url": "https://www.youtube.com/channel/UCakRF1Lu1ZuZR7Dx2B7b_9g",
+							"display_url": "youtube.com/channel/UCakRF…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5683,
+			"friends_count": 2777,
+			"listed_count": 30,
+			"created_at": "Tue Nov 22 04:09:09 +0000 2016",
+			"favourites_count": 2769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262996627276435458/6LSwyFjf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262996627276435458/6LSwyFjf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/800913985407062016/1589956779",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 206,
+		"favorite_count": 385,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[팩트iN스타] #이달의소녀 #LOONA\n\n아 왜~ 아 왜~ 2부작 하면 왜 안돼 🌟달소(LOONA) \n축제 열린 팩트iN스타 모두 나와 Groove it😎\n\n📺https://t.co/gGXWZSzr6D\n\n🎀11/8 (일) 낮 12시 30분 TBS TV!\n🎀11/9 (월) 오전 8시 팩인스 유튜브에서 무편집본 공개\n\n@loonatheworld #Midnight #Why_Not https://t.co/P06UA6zKoP"
+	},
+	{
+		"created_at": "Fri Nov 06 10:45:45 +0000 2020",
+		"id": 1324652748894339000,
+		"id_str": "1324664262812459008",
+		"full_text": "[쇼챔 개인 직캠 4K] 이달의 소녀 - 와이 낫? (LOONA - Why Not?)\n\n희진 https://t.co/TOhLLhrp0n\n츄 https://t.co/Rmy86NBpx7\n\n#쇼챔피언 #이달의소녀 #WhyNot @loonatheworld https://t.co/e73tCh3wpJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼챔피언",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "WhyNot",
+					"indices": [
+						116,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						124,
+						138
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TOhLLhrp0n",
+					"expanded_url": "https://youtu.be/n1BZ0i3V1sE",
+					"display_url": "youtu.be/n1BZ0i3V1sE",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/Rmy86NBpx7",
+					"expanded_url": "https://youtu.be/Q-lwAtT3BZs",
+					"display_url": "youtu.be/Q-lwAtT3BZs",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1324631355343298600,
+					"id_str": "1324631355343298560",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EmIJMxGU4AAAbet.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmIJMxGU4AAAbet.jpg",
+					"url": "https://t.co/e73tCh3wpJ",
+					"display_url": "pic.twitter.com/e73tCh3wpJ",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1324652748894339072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1420,
+							"h": 798,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324631355343298600,
+					"id_str": "1324631355343298560",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EmIJMxGU4AAAbet.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmIJMxGU4AAAbet.jpg",
+					"url": "https://t.co/e73tCh3wpJ",
+					"display_url": "pic.twitter.com/e73tCh3wpJ",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1324652748894339072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1420,
+							"h": 798,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/YpjchEd2rf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YpjchEd2rf",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61423,
+			"friends_count": 2498,
+			"listed_count": 243,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7960,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[쇼챔 개인 직캠 4K] 이달의 소녀 - 와이 낫? (LOONA - Why Not?)\n\n희진 https://t.co/TOhLLhrp0n\n츄 https://t.co/Rmy86NBpx7\n\n#쇼챔피언 #이달의소녀 #WhyNot @loonatheworld https://t.co/e73tCh3wpJ"
+	},
+	{
+		"created_at": "Fri Nov 06 10:45:43 +0000 2020",
+		"id": 1324652747778449400,
+		"id_str": "1324664253786238982",
+		"full_text": "[쇼챔 개인 직캠 4K] 이달의 소녀 - 목소리 (LOONA - Voice)\n\n희진 https://t.co/DbnVOxkdsA\n츄 https://t.co/9IvRSLjMKj\n이브 https://t.co/rYTepmykyJ\n김립 https://t.co/a3QGzmI8kN\n\n#쇼챔피언 #이달의소녀 #목소리 @loonatheworld https://t.co/UEKArNUSie",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼챔피언",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"text": "목소리",
+					"indices": [
+						165,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						170,
+						184
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DbnVOxkdsA",
+					"expanded_url": "https://youtu.be/64zJhJYXDkw",
+					"display_url": "youtu.be/64zJhJYXDkw",
+					"indices": [
+						47,
+						70
+					]
+				},
+				{
+					"url": "https://t.co/9IvRSLjMKj",
+					"expanded_url": "https://youtu.be/4pHxBWR48qY",
+					"display_url": "youtu.be/4pHxBWR48qY",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/rYTepmykyJ",
+					"expanded_url": "https://youtu.be/M78RL2AeSmM",
+					"display_url": "youtu.be/M78RL2AeSmM",
+					"indices": [
+						100,
+						123
+					]
+				},
+				{
+					"url": "https://t.co/a3QGzmI8kN",
+					"expanded_url": "https://youtu.be/qWdDaxFUyMU",
+					"display_url": "youtu.be/qWdDaxFUyMU",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1324630887716155400,
+					"id_str": "1324630887716155394",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EmIIxjDU8AIZzO6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmIIxjDU8AIZzO6.jpg",
+					"url": "https://t.co/UEKArNUSie",
+					"display_url": "pic.twitter.com/UEKArNUSie",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1324652747778449409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324630887716155400,
+					"id_str": "1324630887716155394",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EmIIxjDU8AIZzO6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmIIxjDU8AIZzO6.jpg",
+					"url": "https://t.co/UEKArNUSie",
+					"display_url": "pic.twitter.com/UEKArNUSie",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1324652747778449409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/YpjchEd2rf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YpjchEd2rf",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61423,
+			"friends_count": 2498,
+			"listed_count": 243,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7960,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[쇼챔 개인 직캠 4K] 이달의 소녀 - 목소리 (LOONA - Voice)\n\n희진 https://t.co/DbnVOxkdsA\n츄 https://t.co/9IvRSLjMKj\n이브 https://t.co/rYTepmykyJ\n김립 https://t.co/a3QGzmI8kN\n\n#쇼챔피언 #이달의소녀 #목소리 @loonatheworld https://t.co/UEKArNUSie"
+	},
+	{
 		"created_at": "Fri Nov 06 09:45:36 +0000 2020",
 		"id": 1324636037566488600,
 		"id_str": "1324649125066014720",
