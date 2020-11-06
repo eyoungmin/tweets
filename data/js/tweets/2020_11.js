@@ -1,6 +1,648 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 05 23:59:38 +0000 2020",
+		"id": 1324224396521697300,
+		"id_str": "1324501661281263616",
+		"full_text": "[팩트iN스타] #이달의소녀 #LOONA\n띵동~ 오빛을 위한 초대장 도착💌\n이달의 소녀 미드나잇 페스티벌에 초대합니다🎉\n🌠일시 : 11월 6일 (금) 저녁 9시✨ \n🌌장소 : 팩트인스타 공식 유튜브❣️\n주문을 외워보자 Yolo-lo~멋진 이 밤이 만들 Tomorrow🎵\n\n#비비 #김립 \n@loonatheworld #Midnight #Why_Not https://t.co/K4paCXHaqT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						9,
+						15
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"text": "비비",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						156,
+						159
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						176,
+						185
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						186,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						161,
+						175
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324224249985335300,
+					"id_str": "1324224249985335297",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EmCW8HdVgAEtFOh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmCW8HdVgAEtFOh.jpg",
+					"url": "https://t.co/K4paCXHaqT",
+					"display_url": "pic.twitter.com/K4paCXHaqT",
+					"expanded_url": "https://twitter.com/factinstar/status/1324224396521697281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324224249985335300,
+					"id_str": "1324224249985335297",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EmCW8HdVgAEtFOh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmCW8HdVgAEtFOh.jpg",
+					"url": "https://t.co/K4paCXHaqT",
+					"display_url": "pic.twitter.com/K4paCXHaqT",
+					"expanded_url": "https://twitter.com/factinstar/status/1324224396521697281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1324224285561421800,
+					"id_str": "1324224285561421827",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EmCW-L_VgAMa7I3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmCW-L_VgAMa7I3.jpg",
+					"url": "https://t.co/K4paCXHaqT",
+					"display_url": "pic.twitter.com/K4paCXHaqT",
+					"expanded_url": "https://twitter.com/factinstar/status/1324224396521697281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1324223811382734800,
+		"in_reply_to_status_id_str": "1324223811382734848",
+		"in_reply_to_user_id": 800913985407062000,
+		"in_reply_to_user_id_str": "800913985407062016",
+		"in_reply_to_screen_name": "factinstar",
+		"user": {
+			"id": 800913985407062000,
+			"id_str": "800913985407062016",
+			"name": "팩트인스타 Fact iN Star",
+			"screen_name": "factinstar",
+			"location": "대한민국 서울",
+			"description": "All That Your K-POP BIAS / TBS Open Studio (SEOUL S-PLEX CENTER) / Friday at 9:00 PM(KST) Fact iN Star #Youtube Upload / Sunday at 12:30 PM(KST) TBS TV On Air",
+			"url": "https://t.co/Dn0y2BVbwp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dn0y2BVbwp",
+							"expanded_url": "https://www.youtube.com/channel/UCakRF1Lu1ZuZR7Dx2B7b_9g",
+							"display_url": "youtube.com/channel/UCakRF…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5680,
+			"friends_count": 2777,
+			"listed_count": 30,
+			"created_at": "Tue Nov 22 04:09:09 +0000 2016",
+			"favourites_count": 2769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262996627276435458/6LSwyFjf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262996627276435458/6LSwyFjf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/800913985407062016/1589956779",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1225,
+		"favorite_count": 4077,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[팩트iN스타] #이달의소녀 #LOONA\n띵동~ 오빛을 위한 초대장 도착💌\n이달의 소녀 미드나잇 페스티벌에 초대합니다🎉\n🌠일시 : 11월 6일 (금) 저녁 9시✨ \n🌌장소 : 팩트인스타 공식 유튜브❣️\n주문을 외워보자 Yolo-lo~멋진 이 밤이 만들 Tomorrow🎵\n\n#비비 #김립 \n@loonatheworld #Midnight #Why_Not https://t.co/K4paCXHaqT"
+	},
+	{
+		"created_at": "Thu Nov 05 23:54:09 +0000 2020",
+		"id": 1323892802443387000,
+		"id_str": "1324500280621236224",
+		"full_text": "[영상] \n고퀄 고양이😺분장, 알고보면 셀프 메이크업?\n뮤지컬 '캣츠'에 대해 우리가 몰랐던 5가지 사실\n▶ https://t.co/iAeblDgPnF\n\n#뮤지컬 #캣츠 #메모리 #플레이디비 https://t.co/SmUsZ2Ac3N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤지컬",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "캣츠",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "메모리",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "플레이디비",
+					"indices": [
+						100,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iAeblDgPnF",
+					"expanded_url": "https://youtu.be/6F-WxqCjBdg",
+					"display_url": "youtu.be/6F-WxqCjBdg",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323892076040237000,
+					"id_str": "1323892076040237057",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/El9o1DFVMAE-l8l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El9o1DFVMAE-l8l.jpg",
+					"url": "https://t.co/SmUsZ2Ac3N",
+					"display_url": "pic.twitter.com/SmUsZ2Ac3N",
+					"expanded_url": "https://twitter.com/playdb/status/1323892802443386881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323892076040237000,
+					"id_str": "1323892076040237057",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/El9o1DFVMAE-l8l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El9o1DFVMAE-l8l.jpg",
+					"url": "https://t.co/SmUsZ2Ac3N",
+					"display_url": "pic.twitter.com/SmUsZ2Ac3N",
+					"expanded_url": "https://twitter.com/playdb/status/1323892802443386881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 127443585,
+			"id_str": "127443585",
+			"name": "playdb",
+			"screen_name": "playdb",
+			"location": "seoul, korea ",
+			"description": "All about Performance! \r\nInterpark Ticket, PlayDB. \r\n공연의 모든것! 인터파크 티켓\r\n공연포털 플레이DB 공식트위터",
+			"url": "http://t.co/y6oZ6IWHE6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/y6oZ6IWHE6",
+							"expanded_url": "http://www.playdb.co.kr",
+							"display_url": "playdb.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72222,
+			"friends_count": 17205,
+			"listed_count": 345,
+			"created_at": "Mon Mar 29 06:25:25 +0000 2010",
+			"favourites_count": 117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/783007035/playdb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/783007035/playdb_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DAEBD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[영상] \n고퀄 고양이😺분장, 알고보면 셀프 메이크업?\n뮤지컬 '캣츠'에 대해 우리가 몰랐던 5가지 사실\n▶ https://t.co/iAeblDgPnF\n\n#뮤지컬 #캣츠 #메모리 #플레이디비 https://t.co/SmUsZ2Ac3N"
+	},
+	{
+		"created_at": "Thu Nov 05 23:06:15 +0000 2020",
+		"id": 1324488226783056000,
+		"id_str": "1324488226783055873",
+		"full_text": "#긱뉴스 #GeekNews\n[12회] Upptime, Vespa, Youtube-dl, Appsheet, TimescaleDB\nhttps://t.co/bNwrhimXBV\n\n▶ https://t.co/GMC6loLqwR\n\n#IT #스타트업 #테크 #개발\n#팟캐스트 #Podcast #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "긱뉴스",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "GeekNews",
+					"indices": [
+						5,
+						14
+					]
+				},
+				{
+					"text": "IT",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "스타트업",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "테크",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "개발",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "팟캐스트",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "Podcast",
+					"indices": [
+						147,
+						155
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						156,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bNwrhimXBV",
+					"expanded_url": "https://www.podty.me/episode/14746380",
+					"display_url": "podty.me/episode/147463…",
+					"indices": [
+						71,
+						94
+					]
+				},
+				{
+					"url": "https://t.co/GMC6loLqwR",
+					"expanded_url": "https://cdn-cf.podty.me/meta/episode_audio/100071858/211605_1604565544519.mp3",
+					"display_url": "cdn-cf.podty.me/meta/episode_a…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1019,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44039,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#긱뉴스 #GeekNews\n[12회] Upptime, Vespa, Youtube-dl, Appsheet, TimescaleDB\nhttps://t.co/bNwrhimXBV\n\n▶ https://t.co/GMC6loLqwR\n\n#IT #스타트업 #테크 #개발\n#팟캐스트 #Podcast #minfav"
+	},
+	{
 		"created_at": "Thu Nov 05 17:58:12 +0000 2020",
 		"id": 1324276238920294400,
 		"id_str": "1324410701251702787",
