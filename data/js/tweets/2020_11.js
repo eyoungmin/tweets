@@ -1,6 +1,1321 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 06 09:45:36 +0000 2020",
+		"id": 1324636037566488600,
+		"id_str": "1324649125066014720",
+		"full_text": "[짜릿한 인터뷰] LOONA 최리씨는 내일부터 바다로 출근하시면 됩니다~~ [Thrilling Interview/ 통통TV]\n@loonatheworld \n\n고원이 자막 폰트에 흠칫하셨다면 \n당신은 프로 오빛입니다 -☆\n\n🔔 https://t.co/RBOqYM3iUf\n\n#이달의소녀 #LOONA #통통컬쳐 https://t.co/MnHfJYdLzP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "통통컬쳐",
+					"indices": [
+						164,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						70,
+						84
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RBOqYM3iUf",
+					"expanded_url": "https://youtu.be/zxXGXp7VZOA",
+					"display_url": "youtu.be/zxXGXp7VZOA",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1324635967945232400,
+					"id_str": "1324635967945232386",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EmINZQYU0AIS7TY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmINZQYU0AIS7TY.jpg",
+					"url": "https://t.co/MnHfJYdLzP",
+					"display_url": "pic.twitter.com/MnHfJYdLzP",
+					"expanded_url": "https://twitter.com/TongTongTv1/status/1324636037566488577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324635967945232400,
+					"id_str": "1324635967945232386",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EmINZQYU0AIS7TY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmINZQYU0AIS7TY.jpg",
+					"url": "https://t.co/MnHfJYdLzP",
+					"display_url": "pic.twitter.com/MnHfJYdLzP",
+					"expanded_url": "https://twitter.com/TongTongTv1/status/1324636037566488577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1247773150856630300,
+			"id_str": "1247773150856630275",
+			"name": "TongTongTv 통통컬처",
+			"screen_name": "TongTongTv1",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 182,
+			"friends_count": 5,
+			"listed_count": 2,
+			"created_at": "Wed Apr 08 06:28:52 +0000 2020",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247773806422142982/xy9UjDaW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247773806422142982/xy9UjDaW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1247773150856630275/1586328026",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 121,
+		"favorite_count": 162,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[짜릿한 인터뷰] LOONA 최리씨는 내일부터 바다로 출근하시면 됩니다~~ [Thrilling Interview/ 통통TV]\n@loonatheworld \n\n고원이 자막 폰트에 흠칫하셨다면 \n당신은 프로 오빛입니다 -☆\n\n🔔 https://t.co/RBOqYM3iUf\n\n#이달의소녀 #LOONA #통통컬쳐 https://t.co/MnHfJYdLzP"
+	},
+	{
+		"created_at": "Fri Nov 06 09:27:23 +0000 2020",
+		"id": 1324638830381600800,
+		"id_str": "1324644539278176256",
+		"full_text": "[유리한 식탁] SPECIAL2. 만두들 드디어 일냈다!🥟 \n\n👉🏻https://t.co/DkfNYsXHpN \n\n#유리 #YURI #유리한TV #유리한식탁 #소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유리",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "유리한TV",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "유리한식탁",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						93,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DkfNYsXHpN",
+					"expanded_url": "https://youtu.be/aZ_hACC3DAI",
+					"display_url": "youtu.be/aZ_hACC3DAI",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3592153,
+			"friends_count": 4,
+			"listed_count": 5048,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 48,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 476,
+		"favorite_count": 1436,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유리한 식탁] SPECIAL2. 만두들 드디어 일냈다!🥟 \n\n👉🏻https://t.co/DkfNYsXHpN \n\n#유리 #YURI #유리한TV #유리한식탁 #소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Fri Nov 06 09:27:21 +0000 2020",
+		"id": 1324637898902139000,
+		"id_str": "1324644530424025088",
+		"full_text": "テヨン 2ndミニアルバム 『#GirlsSpkOut』の全曲ダイジェスト縦型動画を公開✨\n発売まであと少し❣️楽しみに待っていてくださいね～\n\n💿予約はこちら https://t.co/XiTgIGGjZ9\n🎧デジタル配信中 https://t.co/vkvEPi20Lf\n\n #TAEYEON #テヨン #태연 https://t.co/T9ncsZOOgv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						15,
+						27
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						140,
+						148
+					]
+				},
+				{
+					"text": "テヨン",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						154,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XiTgIGGjZ9",
+					"expanded_url": "https://lnk.to/GSOEC",
+					"display_url": "lnk.to/GSOEC",
+					"indices": [
+						81,
+						104
+					]
+				},
+				{
+					"url": "https://t.co/vkvEPi20Lf",
+					"expanded_url": "https://lnk.to/GSODL",
+					"display_url": "lnk.to/GSODL",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1324579140314390500,
+					"id_str": "1324579140314390529",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1324579140314390529/img/07fX2EmSNHkDvxLb.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1324579140314390529/img/07fX2EmSNHkDvxLb.jpg",
+					"url": "https://t.co/T9ncsZOOgv",
+					"display_url": "pic.twitter.com/T9ncsZOOgv",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1324637898902138880/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324579140314390500,
+					"id_str": "1324579140314390529",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1324579140314390529/img/07fX2EmSNHkDvxLb.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1324579140314390529/img/07fX2EmSNHkDvxLb.jpg",
+					"url": "https://t.co/T9ncsZOOgv",
+					"display_url": "pic.twitter.com/T9ncsZOOgv",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1324637898902138880/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 369336,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324579140314390529/vid/320x568/t95iPQ0kPKWMvYZs.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324579140314390529/vid/360x640/jCAOZHDncAAry1IW.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324579140314390529/vid/720x1280/RlrUi5F4bbKchmtK.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1324579140314390529/pl/Nb9wO7NFkH78T-TS.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105204,
+			"friends_count": 0,
+			"listed_count": 486,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 625,
+		"favorite_count": 1016,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "テヨン 2ndミニアルバム 『#GirlsSpkOut』の全曲ダイジェスト縦型動画を公開✨\n発売まであと少し❣️楽しみに待っていてくださいね～\n\n💿予約はこちら https://t.co/XiTgIGGjZ9\n🎧デジタル配信中 https://t.co/vkvEPi20Lf\n\n #TAEYEON #テヨン #태연 https://t.co/T9ncsZOOgv"
+	},
+	{
+		"created_at": "Fri Nov 06 09:27:12 +0000 2020",
+		"id": 1324637653409607700,
+		"id_str": "1324644491882627072",
+		"full_text": "テヨン 2ndミニアルバム 『#GirlsSpkOut』のVisual Making Digestを公開！この映像のフルバージョンは、11/18(水)発売の初回生産限定盤DVDに収録されています✨\n\n🎬映像はこちら https://t.co/kT3pcVQMU9\n💿予約はこちら https://t.co/XiTgIGoJ7B\n\n #TAEYEON #テヨン #태연",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						15,
+						27
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						166,
+						174
+					]
+				},
+				{
+					"text": "テヨン",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						180,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kT3pcVQMU9",
+					"expanded_url": "https://youtu.be/gxtWm6TSvr8",
+					"display_url": "youtu.be/gxtWm6TSvr8",
+					"indices": [
+						108,
+						131
+					]
+				},
+				{
+					"url": "https://t.co/XiTgIGoJ7B",
+					"expanded_url": "https://lnk.to/GSOEC",
+					"display_url": "lnk.to/GSOEC",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105204,
+			"friends_count": 0,
+			"listed_count": 486,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 375,
+		"favorite_count": 601,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "テヨン 2ndミニアルバム 『#GirlsSpkOut』のVisual Making Digestを公開！この映像のフルバージョンは、11/18(水)発売の初回生産限定盤DVDに収録されています✨\n\n🎬映像はこちら https://t.co/kT3pcVQMU9\n💿予約はこちら https://t.co/XiTgIGoJ7B\n\n #TAEYEON #テヨン #태연"
+	},
+	{
+		"created_at": "Fri Nov 06 09:27:10 +0000 2020",
+		"id": 1324637348030636000,
+		"id_str": "1324644482881638400",
+		"full_text": "[📺] もうすぐ６時、チョンハが出演する\n'2020 ROK-US ALLIANCE CONCERT' \nFacebook Liveが始めます💚💙💜\n\n📍LIVE PAGE\nhttps://t.co/FgrZqGJopI\n\n#청하 #chungha #チョンハ \n#AFKN https://t.co/zGuhDDWPOG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "chungha",
+					"indices": [
+						116,
+						124
+					]
+				},
+				{
+					"text": "チョンハ",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "AFKN",
+					"indices": [
+						132,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FgrZqGJopI",
+					"expanded_url": "http://facebook.com/myusfk",
+					"display_url": "facebook.com/myusfk",
+					"indices": [
+						87,
+						110
+					]
+				},
+				{
+					"url": "https://t.co/zGuhDDWPOG",
+					"expanded_url": "https://twitter.com/chungha_mnhent/status/1324635176576561152",
+					"display_url": "twitter.com/chungha_mnhent…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 986882185842966500,
+			"id_str": "986882185842966528",
+			"name": "CHUNG HA JAPAN OFFICIAL",
+			"screen_name": "chungha_japan",
+			"location": "",
+			"description": "#CHUNGHA JAPAN OFFICIAL Twitter",
+			"url": "https://t.co/MasTugaSJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MasTugaSJD",
+							"expanded_url": "http://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16779,
+			"friends_count": 2,
+			"listed_count": 159,
+			"created_at": "Thu Apr 19 08:20:23 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988221974169059328/l3d7G6Fx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988221974169059328/l3d7G6Fx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/986882185842966528/1603170240",
+			"profile_link_color": "BF83AB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1324635176576561200,
+		"quoted_status_id_str": "1324635176576561152",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zGuhDDWPOG",
+			"expanded": "https://twitter.com/chungha_mnhent/status/1324635176576561152",
+			"display": "twitter.com/chungha_mnhent…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 06 08:50:11 +0000 2020",
+			"id": 1324635176576561200,
+			"id_str": "1324635176576561152",
+			"full_text": "[📺] 잠시 후 6시, 청하가 출연하는 \n'2020 한미동행 강화 콘서트' \n페이스북 라이브가 시작됩니다💚💙💜\n\n📍LIVE PAGE\nhttps://t.co/uiJdstzfvP\n\n#청하 #chungha \n#AFKN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				118
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "청하",
+						"indices": [
+							99,
+							102
+						]
+					},
+					{
+						"text": "chungha",
+						"indices": [
+							103,
+							111
+						]
+					},
+					{
+						"text": "AFKN",
+						"indices": [
+							113,
+							118
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uiJdstzfvP",
+						"expanded_url": "https://www.facebook.com/myusfk",
+						"display_url": "facebook.com/myusfk",
+						"indices": [
+							74,
+							97
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1097557125742489600,
+				"id_str": "1097557125742489600",
+				"name": "CHUNG HA",
+				"screen_name": "CHUNGHA_MNHent",
+				"location": "",
+				"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/ZHcd08tZVb",
+				"url": "https://t.co/reTg513UFX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/reTg513UFX",
+								"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+								"display_url": "cafe.daum.net/MNH-Chungha",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ZHcd08tZVb",
+								"expanded_url": "https://bit.ly/2ZZWMlN",
+								"display_url": "bit.ly/2ZZWMlN",
+								"indices": [
+									31,
+									54
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 285381,
+				"friends_count": 0,
+				"listed_count": 1749,
+				"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1284,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 94,
+			"favorite_count": 510,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 5,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[📺] もうすぐ６時、チョンハが出演する\n'2020 ROK-US ALLIANCE CONCERT' \nFacebook Liveが始めます💚💙💜\n\n📍LIVE PAGE\nhttps://t.co/FgrZqGJopI\n\n#청하 #chungha #チョンハ \n#AFKN https://t.co/zGuhDDWPOG"
+	},
+	{
+		"created_at": "Fri Nov 06 09:27:04 +0000 2020",
+		"id": 1324635176576561200,
+		"id_str": "1324644461360619521",
+		"full_text": "[📺] 잠시 후 6시, 청하가 출연하는 \n'2020 한미동행 강화 콘서트' \n페이스북 라이브가 시작됩니다💚💙💜\n\n📍LIVE PAGE\nhttps://t.co/uiJdstzfvP\n\n#청하 #chungha \n#AFKN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "chungha",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "AFKN",
+					"indices": [
+						113,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uiJdstzfvP",
+					"expanded_url": "https://www.facebook.com/myusfk",
+					"display_url": "facebook.com/myusfk",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/ZHcd08tZVb",
+			"url": "https://t.co/reTg513UFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg513UFX",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZHcd08tZVb",
+							"expanded_url": "https://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								31,
+								54
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 285381,
+			"friends_count": 0,
+			"listed_count": 1749,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1284,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 94,
+		"favorite_count": 510,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📺] 잠시 후 6시, 청하가 출연하는 \n'2020 한미동행 강화 콘서트' \n페이스북 라이브가 시작됩니다💚💙💜\n\n📍LIVE PAGE\nhttps://t.co/uiJdstzfvP\n\n#청하 #chungha \n#AFKN"
+	},
+	{
+		"created_at": "Fri Nov 06 09:06:32 +0000 2020",
+		"id": 1324639293852307500,
+		"id_str": "1324639293852307456",
+		"full_text": "#少女時代 #GirlsGeneration_Japan #소녀시대_일본\n2ndミニアルバム『#GirlsSpkOut』のVisual Making Digestを公開\nhttps://t.co/McXPp8zocr\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "少女時代",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "GirlsGeneration_Japan",
+					"indices": [
+						6,
+						28
+					]
+				},
+				{
+					"text": "소녀시대_일본",
+					"indices": [
+						29,
+						37
+					]
+				},
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						48,
+						60
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						116,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/McXPp8zocr",
+					"expanded_url": "http://girls-generation.jp/gg/news/2nd%e3%83%9f%e3%83%8b%e3%82%a2%e3%83%ab%e3%83%90%e3%83%a0%e3%80%8egirlsspkout%e3%80%8f%e3%81%aevisual-making-digest%e3%82%92%e5%85%ac%e9%96%8b.html",
+					"display_url": "girls-generation.jp/gg/news/2nd%e3…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1019,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71744,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#少女時代 #GirlsGeneration_Japan #소녀시대_일본\n2ndミニアルバム『#GirlsSpkOut』のVisual Making Digestを公開\nhttps://t.co/McXPp8zocr\n#소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Fri Nov 06 08:36:38 +0000 2020",
 		"id": 1324631769384165400,
 		"id_str": "1324631769384165377",
