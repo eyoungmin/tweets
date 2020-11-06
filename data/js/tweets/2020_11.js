@@ -1,6 +1,162 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 06 14:27:04 +0000 2020",
+		"id": 1324708792324382700,
+		"id_str": "1324719958996193281",
+		"full_text": "[티저] 인턴은 고달프다.. 하지만 밥은 펜보다 강하다!💪🏻 〈허쉬〉 12/11(금) 첫 방송!\n\n👉🏻https://t.co/DScjJRU1he \n\n#LIMYOONA #임윤아 #소녀시대 #GirlsGeneration #허쉬 #HUSH #이지수",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						83,
+						92
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						104,
+						120
+					]
+				},
+				{
+					"text": "허쉬",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "HUSH",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "이지수",
+					"indices": [
+						131,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DScjJRU1he",
+					"expanded_url": "http://naver.me/52gK6ulY",
+					"display_url": "naver.me/52gK6ulY",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3592336,
+			"friends_count": 4,
+			"listed_count": 5050,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 48,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1055,
+		"favorite_count": 3082,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[티저] 인턴은 고달프다.. 하지만 밥은 펜보다 강하다!💪🏻 〈허쉬〉 12/11(금) 첫 방송!\n\n👉🏻https://t.co/DScjJRU1he \n\n#LIMYOONA #임윤아 #소녀시대 #GirlsGeneration #허쉬 #HUSH #이지수"
+	},
+	{
 		"created_at": "Fri Nov 06 13:24:54 +0000 2020",
 		"id": 1324704312828731400,
 		"id_str": "1324704312828731393",
