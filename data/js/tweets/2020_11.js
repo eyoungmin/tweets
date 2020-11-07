@@ -1,6 +1,386 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 07 09:45:40 +0000 2020",
+		"id": 1325005328614793200,
+		"id_str": "1325011529796874245",
+		"full_text": "201107🔍[예능연구소 4K 직캠] \n#쇼음악중심 #음중 #둘째이모김다비 #이달의소녀 #LOONA #주라주라 @loonatheworld\n\n'둘째이모 김다비 X 이달의 소녀 (Second Aunt KimDaVi X LOONA) - 주라주라'\n▶️ https://t.co/RFiRCCeq7V https://t.co/rInxZcUyLY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						22,
+						28
+					]
+				},
+				{
+					"text": "음중",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "둘째이모김다비",
+					"indices": [
+						33,
+						41
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "주라주라",
+					"indices": [
+						56,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						62,
+						76
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RFiRCCeq7V",
+					"expanded_url": "https://youtu.be/dYKgs1w7y6g",
+					"display_url": "youtu.be/dYKgs1w7y6g",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1325005305609007000,
+					"id_str": "1325005305609007105",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EmNdTiZVMAELYUp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmNdTiZVMAELYUp.jpg",
+					"url": "https://t.co/rInxZcUyLY",
+					"display_url": "pic.twitter.com/rInxZcUyLY",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1325005328614793216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325005305609007000,
+					"id_str": "1325005305609007105",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EmNdTiZVMAELYUp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmNdTiZVMAELYUp.jpg",
+					"url": "https://t.co/rInxZcUyLY",
+					"display_url": "pic.twitter.com/rInxZcUyLY",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1325005328614793216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 848700,
+			"friends_count": 5,
+			"listed_count": 810,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 111,
+		"favorite_count": 215,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "201107🔍[예능연구소 4K 직캠] \n#쇼음악중심 #음중 #둘째이모김다비 #이달의소녀 #LOONA #주라주라 @loonatheworld\n\n'둘째이모 김다비 X 이달의 소녀 (Second Aunt KimDaVi X LOONA) - 주라주라'\n▶️ https://t.co/RFiRCCeq7V https://t.co/rInxZcUyLY"
+	},
+	{
+		"created_at": "Sat Nov 07 09:27:10 +0000 2020",
+		"id": 1325002680582852600,
+		"id_str": "1325006871028248579",
+		"full_text": "#이달의소녀 \n201107 ‘Why Not?’\nMBC #쇼음악중심\n\n‘Why Not?’\n🌑 https://t.co/uzq3ZTtCZ8\n\n#LOONA #Midnight #Why_Not",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						83,
+						92
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						93,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uzq3ZTtCZ8",
+					"expanded_url": "http://naver.me/50tSbotB",
+					"display_url": "naver.me/50tSbotB",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572150,
+			"friends_count": 0,
+			"listed_count": 5820,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 872,
+		"favorite_count": 3973,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#이달의소녀 \n201107 ‘Why Not?’\nMBC #쇼음악중심\n\n‘Why Not?’\n🌑 https://t.co/uzq3ZTtCZ8\n\n#LOONA #Midnight #Why_Not"
+	},
+	{
 		"created_at": "Sat Nov 07 06:27:18 +0000 2020",
 		"id": 1324959853731737600,
 		"id_str": "1324961607114436609",
