@@ -1,6 +1,1023 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 07 03:27:29 +0000 2020",
+		"id": 1324912603991142400,
+		"id_str": "1324916355993395200",
+		"full_text": "[NOTICE] 💡BYULHARANG WELCOME KIT 配送関連のお知らせ\n\n✔ ビョルハラン 2期\nhttps://t.co/jr0S5Mf64t\n\n#청하 #chungha #チョンハ https://t.co/sH5kdBvjSw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "chungha",
+					"indices": [
+						85,
+						93
+					]
+				},
+				{
+					"text": "チョンハ",
+					"indices": [
+						94,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jr0S5Mf64t",
+					"expanded_url": "http://vlive.tv/post/0-19788449",
+					"display_url": "vlive.tv/post/0-19788449",
+					"indices": [
+						56,
+						79
+					]
+				},
+				{
+					"url": "https://t.co/sH5kdBvjSw",
+					"expanded_url": "https://twitter.com/chungha_mnhent/status/1324909870777212929",
+					"display_url": "twitter.com/chungha_mnhent…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 986882185842966500,
+			"id_str": "986882185842966528",
+			"name": "CHUNG HA JAPAN OFFICIAL",
+			"screen_name": "chungha_japan",
+			"location": "",
+			"description": "#CHUNGHA JAPAN OFFICIAL Twitter",
+			"url": "https://t.co/MasTugaSJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MasTugaSJD",
+							"expanded_url": "http://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16770,
+			"friends_count": 2,
+			"listed_count": 158,
+			"created_at": "Thu Apr 19 08:20:23 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988221974169059328/l3d7G6Fx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988221974169059328/l3d7G6Fx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/986882185842966528/1603170240",
+			"profile_link_color": "BF83AB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1324909870777213000,
+		"quoted_status_id_str": "1324909870777212929",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sH5kdBvjSw",
+			"expanded": "https://twitter.com/chungha_mnhent/status/1324909870777212929",
+			"display": "twitter.com/chungha_mnhent…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 07 03:01:43 +0000 2020",
+			"id": 1324909870777213000,
+			"id_str": "1324909870777212929",
+			"full_text": "[NOTICE] 💡BYULHARANG WELCOME KIT 배송 관련 안내\n\n✔ 별하랑 2기 \nhttps://t.co/GcWDvczHRu\n\n#청하 #chungha",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				90
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "청하",
+						"indices": [
+							78,
+							81
+						]
+					},
+					{
+						"text": "chungha",
+						"indices": [
+							82,
+							90
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GcWDvczHRu",
+						"expanded_url": "https://vlive.tv/post/0-19788449",
+						"display_url": "vlive.tv/post/0-19788449",
+						"indices": [
+							53,
+							76
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1097557125742489600,
+				"id_str": "1097557125742489600",
+				"name": "CHUNG HA",
+				"screen_name": "CHUNGHA_MNHent",
+				"location": "",
+				"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/ZHcd08tZVb",
+				"url": "https://t.co/reTg513UFX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/reTg513UFX",
+								"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+								"display_url": "cafe.daum.net/MNH-Chungha",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ZHcd08tZVb",
+								"expanded_url": "https://bit.ly/2ZZWMlN",
+								"display_url": "bit.ly/2ZZWMlN",
+								"indices": [
+									31,
+									54
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 285394,
+				"friends_count": 0,
+				"listed_count": 1746,
+				"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1287,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 110,
+			"favorite_count": 677,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 8,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[NOTICE] 💡BYULHARANG WELCOME KIT 配送関連のお知らせ\n\n✔ ビョルハラン 2期\nhttps://t.co/jr0S5Mf64t\n\n#청하 #chungha #チョンハ https://t.co/sH5kdBvjSw"
+	},
+	{
+		"created_at": "Sat Nov 07 03:27:26 +0000 2020",
+		"id": 1324909870777213000,
+		"id_str": "1324916342974197760",
+		"full_text": "[NOTICE] 💡BYULHARANG WELCOME KIT 배송 관련 안내\n\n✔ 별하랑 2기 \nhttps://t.co/GcWDvczHRu\n\n#청하 #chungha",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "chungha",
+					"indices": [
+						82,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GcWDvczHRu",
+					"expanded_url": "https://vlive.tv/post/0-19788449",
+					"display_url": "vlive.tv/post/0-19788449",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/ZHcd08tZVb",
+			"url": "https://t.co/reTg513UFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg513UFX",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZHcd08tZVb",
+							"expanded_url": "https://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								31,
+								54
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 285394,
+			"friends_count": 0,
+			"listed_count": 1746,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 110,
+		"favorite_count": 677,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NOTICE] 💡BYULHARANG WELCOME KIT 배송 관련 안내\n\n✔ 별하랑 2기 \nhttps://t.co/GcWDvczHRu\n\n#청하 #chungha"
+	},
+	{
+		"created_at": "Sat Nov 07 03:27:21 +0000 2020",
+		"id": 1324909603667079200,
+		"id_str": "1324916321524576256",
+		"full_text": "aespa 에스파 [Black Mamba]\n🎵 2020.11.17 6PM KST\n\n#GISELLE #지젤\n#aespa #æspa #에스파\n#BlackMamba https://t.co/Rhz2xbLV7A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GISELLE",
+					"indices": [
+						46,
+						54
+					]
+				},
+				{
+					"text": "지젤",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "BlackMamba",
+					"indices": [
+						77,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324688845586145300,
+					"id_str": "1324688845586145280",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EmI9fI8VoAAFJ4f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmI9fI8VoAAFJ4f.jpg",
+					"url": "https://t.co/Rhz2xbLV7A",
+					"display_url": "pic.twitter.com/Rhz2xbLV7A",
+					"expanded_url": "https://twitter.com/aespa_official/status/1324909603667079169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324688845586145300,
+					"id_str": "1324688845586145280",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EmI9fI8VoAAFJ4f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmI9fI8VoAAFJ4f.jpg",
+					"url": "https://t.co/Rhz2xbLV7A",
+					"display_url": "pic.twitter.com/Rhz2xbLV7A",
+					"expanded_url": "https://twitter.com/aespa_official/status/1324909603667079169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 371139,
+			"friends_count": 1,
+			"listed_count": 801,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 35,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8367,
+		"favorite_count": 26303,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "aespa 에스파 [Black Mamba]\n🎵 2020.11.17 6PM KST\n\n#GISELLE #지젤\n#aespa #æspa #에스파\n#BlackMamba https://t.co/Rhz2xbLV7A"
+	},
+	{
+		"created_at": "Sat Nov 07 03:27:17 +0000 2020",
+		"id": 1324909578107015200,
+		"id_str": "1324916304302759936",
+		"full_text": "aespa 에스파 [Black Mamba]\n🎵 2020.11.17 6PM KST\n\n#GISELLE #지젤\n#aespa #æspa #에스파\n#BlackMamba https://t.co/9jT5r2WC7D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GISELLE",
+					"indices": [
+						46,
+						54
+					]
+				},
+				{
+					"text": "지젤",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "BlackMamba",
+					"indices": [
+						77,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324688845577728000,
+					"id_str": "1324688845577728001",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EmI9fI6VMAEZWtb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmI9fI6VMAEZWtb.jpg",
+					"url": "https://t.co/9jT5r2WC7D",
+					"display_url": "pic.twitter.com/9jT5r2WC7D",
+					"expanded_url": "https://twitter.com/aespa_official/status/1324909578107015168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324688845577728000,
+					"id_str": "1324688845577728001",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EmI9fI6VMAEZWtb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmI9fI6VMAEZWtb.jpg",
+					"url": "https://t.co/9jT5r2WC7D",
+					"display_url": "pic.twitter.com/9jT5r2WC7D",
+					"expanded_url": "https://twitter.com/aespa_official/status/1324909578107015168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 371139,
+			"friends_count": 1,
+			"listed_count": 801,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 35,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7259,
+		"favorite_count": 21455,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "aespa 에스파 [Black Mamba]\n🎵 2020.11.17 6PM KST\n\n#GISELLE #지젤\n#aespa #æspa #에스파\n#BlackMamba https://t.co/9jT5r2WC7D"
+	},
+	{
+		"created_at": "Sat Nov 07 03:27:08 +0000 2020",
+		"id": 1324909556078579700,
+		"id_str": "1324916266080014339",
+		"full_text": "aespa 에스파 [Black Mamba]\n🎵 2020.11.17 6PM KST\n\n#GISELLE #지젤\n#aespa #æspa #에스파\n#BlackMamba https://t.co/UFylSGSn3k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GISELLE",
+					"indices": [
+						46,
+						54
+					]
+				},
+				{
+					"text": "지젤",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "BlackMamba",
+					"indices": [
+						77,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324688845581951000,
+					"id_str": "1324688845581950977",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EmI9fI7VoAEgwPz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmI9fI7VoAEgwPz.jpg",
+					"url": "https://t.co/UFylSGSn3k",
+					"display_url": "pic.twitter.com/UFylSGSn3k",
+					"expanded_url": "https://twitter.com/aespa_official/status/1324909556078579714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324688845581951000,
+					"id_str": "1324688845581950977",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EmI9fI7VoAEgwPz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmI9fI7VoAEgwPz.jpg",
+					"url": "https://t.co/UFylSGSn3k",
+					"display_url": "pic.twitter.com/UFylSGSn3k",
+					"expanded_url": "https://twitter.com/aespa_official/status/1324909556078579714/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 371139,
+			"friends_count": 1,
+			"listed_count": 801,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 35,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7723,
+		"favorite_count": 22407,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "aespa 에스파 [Black Mamba]\n🎵 2020.11.17 6PM KST\n\n#GISELLE #지젤\n#aespa #æspa #에스파\n#BlackMamba https://t.co/UFylSGSn3k"
+	},
+	{
 		"created_at": "Sat Nov 07 03:00:38 +0000 2020",
 		"id": 1324909600206893000,
 		"id_str": "1324909600206893060",
