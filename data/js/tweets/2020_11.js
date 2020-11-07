@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 07 17:45:02 +0000 2020",
+		"id": 1324908719117795300,
+		"id_str": "1325132164568997891",
+		"full_text": "BoA 보아 The 10th Album [BETTER]\n\nMeet No.1 Artist BoA’s 10th Album in Limited Edition with Two Versions 💛\n\nAlbum Pre-Order\n👉 https://t.co/38rAhkjZkB\n\n#BoA #보아 #BETTER\n#SMGlobalShop #SGS https://t.co/tiVXZD4dyc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						154,
+						157
+					]
+				},
+				{
+					"text": "BETTER",
+					"indices": [
+						158,
+						165
+					]
+				},
+				{
+					"text": "SMGlobalShop",
+					"indices": [
+						166,
+						179
+					]
+				},
+				{
+					"text": "SGS",
+					"indices": [
+						180,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/38rAhkjZkB",
+					"expanded_url": "http://smglobalshop.com",
+					"display_url": "smglobalshop.com",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1324908715493896200,
+					"id_str": "1324908715493896192",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EmMFdQLVMAA0cjO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmMFdQLVMAA0cjO.jpg",
+					"url": "https://t.co/tiVXZD4dyc",
+					"display_url": "pic.twitter.com/tiVXZD4dyc",
+					"expanded_url": "https://twitter.com/SMGlobalShop/status/1324908719117795328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324908715493896200,
+					"id_str": "1324908715493896192",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EmMFdQLVMAA0cjO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmMFdQLVMAA0cjO.jpg",
+					"url": "https://t.co/tiVXZD4dyc",
+					"display_url": "pic.twitter.com/tiVXZD4dyc",
+					"expanded_url": "https://twitter.com/SMGlobalShop/status/1324908719117795328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1324908715493896200,
+					"id_str": "1324908715493896194",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EmMFdQLVMAI250L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmMFdQLVMAI250L.jpg",
+					"url": "https://t.co/tiVXZD4dyc",
+					"display_url": "pic.twitter.com/tiVXZD4dyc",
+					"expanded_url": "https://twitter.com/SMGlobalShop/status/1324908719117795328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 994706386696073200,
+			"id_str": "994706386696073221",
+			"name": "SMGlobalShop",
+			"screen_name": "SMGlobalShop",
+			"location": "Los Angeles, CA",
+			"description": "Official SM Entertainment Merchandise Shop ft. #SuperM #SHINee #RedVelvet #NCT #EXO #SuperJunior #TVXQ #GirlsGeneration #fx",
+			"url": "https://t.co/Rwg3fKZNIy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rwg3fKZNIy",
+							"expanded_url": "https://smglobalshop.com",
+							"display_url": "smglobalshop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33560,
+			"friends_count": 18,
+			"listed_count": 48,
+			"created_at": "Thu May 10 22:30:58 +0000 2018",
+			"favourites_count": 745,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1339,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278022817506668544/xfnu-OxB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278022817506668544/xfnu-OxB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/994706386696073221/1604527929",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 158,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BoA 보아 The 10th Album [BETTER]\n\nMeet No.1 Artist BoA’s 10th Album in Limited Edition with Two Versions 💛\n\nAlbum Pre-Order\n👉 https://t.co/38rAhkjZkB\n\n#BoA #보아 #BETTER\n#SMGlobalShop #SGS https://t.co/tiVXZD4dyc"
+	},
+	{
 		"created_at": "Sat Nov 07 15:50:08 +0000 2020",
 		"id": 1325103151733727200,
 		"id_str": "1325103249226002435",
