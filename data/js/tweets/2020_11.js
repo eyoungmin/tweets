@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 07 04:27:05 +0000 2020",
+		"id": 1324917983790198800,
+		"id_str": "1324931353134174209",
+		"full_text": "[NOTICE] 📍See you tonight, Philippines 🇵🇭 Tune into GOMO x @88rising’s #WeDontStop Concert at 8PM PHT @gomo.ph \n\n#GOMOx88rising #GOMOph https://t.co/9Ho9zTILzR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WeDontStop",
+					"indices": [
+						71,
+						82
+					]
+				},
+				{
+					"text": "GOMOx88rising",
+					"indices": [
+						113,
+						127
+					]
+				},
+				{
+					"text": "GOMOph",
+					"indices": [
+						128,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "88rising",
+					"name": "88rising",
+					"id": 710838951989346300,
+					"id_str": "710838951989346304",
+					"indices": [
+						59,
+						68
+					]
+				},
+				{
+					"screen_name": "gomo",
+					"name": "gomo",
+					"id": 14427452,
+					"id_str": "14427452",
+					"indices": [
+						102,
+						107
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324917979604115500,
+					"id_str": "1324917979604115456",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EmMN4frU4AAy9z1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmMN4frU4AAy9z1.jpg",
+					"url": "https://t.co/9Ho9zTILzR",
+					"display_url": "pic.twitter.com/9Ho9zTILzR",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1324917983790198784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324917979604115500,
+					"id_str": "1324917979604115456",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EmMN4frU4AAy9z1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmMN4frU4AAy9z1.jpg",
+					"url": "https://t.co/9Ho9zTILzR",
+					"display_url": "pic.twitter.com/9Ho9zTILzR",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1324917983790198784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/ZHcd08tZVb",
+			"url": "https://t.co/reTg513UFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg513UFX",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZHcd08tZVb",
+							"expanded_url": "https://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								31,
+								54
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 285399,
+			"friends_count": 0,
+			"listed_count": 1746,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 213,
+		"favorite_count": 1140,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[NOTICE] 📍See you tonight, Philippines 🇵🇭 Tune into GOMO x @88rising’s #WeDontStop Concert at 8PM PHT @gomo.ph \n\n#GOMOx88rising #GOMOph https://t.co/9Ho9zTILzR"
+	},
+	{
 		"created_at": "Sat Nov 07 03:27:29 +0000 2020",
 		"id": 1324912603991142400,
 		"id_str": "1324916355993395200",
