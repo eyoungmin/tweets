@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 07 05:27:05 +0000 2020",
+		"id": 1324894386866577400,
+		"id_str": "1324946451865145344",
+		"full_text": "BLACKPINK are joining a “FUN MATCH” to play PUBG MOBILE! 🎉\n\nPlayers and BLINKS can tune in the broadcast premiere in PUBG MOBILE at 13:00 (UTC+0) on Friday, November 13.\n\nOR watch the broadcast at 14:00 (UTC+0) on PUBG MOBILE’s Facebook and YouTube channels.\n\n#PUBGMxBLACKPINK https://t.co/JieEPgaEPs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PUBGMxBLACKPINK",
+					"indices": [
+						260,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324894377261625300,
+					"id_str": "1324894377261625344",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EmL4aqGXcAATge9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmL4aqGXcAATge9.jpg",
+					"url": "https://t.co/JieEPgaEPs",
+					"display_url": "pic.twitter.com/JieEPgaEPs",
+					"expanded_url": "https://twitter.com/PUBGMOBILE/status/1324894386866577410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324894377261625300,
+					"id_str": "1324894377261625344",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EmL4aqGXcAATge9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmL4aqGXcAATge9.jpg",
+					"url": "https://t.co/JieEPgaEPs",
+					"display_url": "pic.twitter.com/JieEPgaEPs",
+					"expanded_url": "https://twitter.com/PUBGMOBILE/status/1324894386866577410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968652142750810100,
+			"id_str": "968652142750810114",
+			"name": "PUBG MOBILE",
+			"screen_name": "PUBGMOBILE",
+			"location": "",
+			"description": "PLAYERUNKNOWN'S BATTLEGROUNDS goes mobile - the original Battle Royale game is now available on your device! #pubgmobile\n\nOfficial community: https://t.co/kAZqjN0UVf",
+			"url": "https://t.co/Wx3JvVKSnL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Wx3JvVKSnL",
+							"expanded_url": "http://pubgm.cc",
+							"display_url": "pubgm.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kAZqjN0UVf",
+							"expanded_url": "http://discord.gg/pubgm",
+							"display_url": "discord.gg/pubgm",
+							"indices": [
+								142,
+								165
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1125828,
+			"friends_count": 151,
+			"listed_count": 539,
+			"created_at": "Wed Feb 28 01:00:42 +0000 2018",
+			"favourites_count": 3436,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6793,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322815911737262080/xq_7yDpW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322815911737262080/xq_7yDpW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968652142750810114/1604218866",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8113,
+		"favorite_count": 27505,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BLACKPINK are joining a “FUN MATCH” to play PUBG MOBILE! 🎉\n\nPlayers and BLINKS can tune in the broadcast premiere in PUBG MOBILE at 13:00 (UTC+0) on Friday, November 13.\n\nOR watch the broadcast at 14:00 (UTC+0) on PUBG MOBILE’s Facebook and YouTube channels.\n\n#PUBGMxBLACKPINK https://t.co/JieEPgaEPs"
+	},
+	{
 		"created_at": "Sat Nov 07 04:27:05 +0000 2020",
 		"id": 1324917983790198800,
 		"id_str": "1324931353134174209",
