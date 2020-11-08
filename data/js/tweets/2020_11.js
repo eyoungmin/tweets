@@ -1,6 +1,751 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 08 00:09:11 +0000 2020",
+		"id": 1324939638973214700,
+		"id_str": "1325228837899169792",
+		"full_text": "#그랑사가 X #태연 스틸샷 #2 📸\n\n🎬태연 MV: https://t.co/q3EU9disLC\n📀한정판 CD 이벤트: https://t.co/4nRGTdkFyu\n\n#GranSaga #taeyeon #stillshot https://t.co/5fVAjAsSXX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "그랑사가",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						8,
+						11
+					]
+				},
+				{
+					"text": "GranSaga",
+					"indices": [
+						92,
+						101
+					]
+				},
+				{
+					"text": "taeyeon",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"text": "stillshot",
+					"indices": [
+						111,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q3EU9disLC",
+					"expanded_url": "http://youtu.be/um3NhRMfYmc",
+					"display_url": "youtu.be/um3NhRMfYmc",
+					"indices": [
+						30,
+						53
+					]
+				},
+				{
+					"url": "https://t.co/4nRGTdkFyu",
+					"expanded_url": "http://taeyeon.gransaga.com",
+					"display_url": "taeyeon.gransaga.com",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323965640047145000,
+					"id_str": "1323965640047144960",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/El-rvCXVMAAPCoU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El-rvCXVMAAPCoU.jpg",
+					"url": "https://t.co/5fVAjAsSXX",
+					"display_url": "pic.twitter.com/5fVAjAsSXX",
+					"expanded_url": "https://twitter.com/GRANSAGA_KR/status/1324939638973214720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 926,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323965640047145000,
+					"id_str": "1323965640047144960",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/El-rvCXVMAAPCoU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El-rvCXVMAAPCoU.jpg",
+					"url": "https://t.co/5fVAjAsSXX",
+					"display_url": "pic.twitter.com/5fVAjAsSXX",
+					"expanded_url": "https://twitter.com/GRANSAGA_KR/status/1324939638973214720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 926,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1400,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1323965640059703300,
+					"id_str": "1323965640059703297",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/El-rvCaU0AEpqA3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El-rvCaU0AEpqA3.jpg",
+					"url": "https://t.co/5fVAjAsSXX",
+					"display_url": "pic.twitter.com/5fVAjAsSXX",
+					"expanded_url": "https://twitter.com/GRANSAGA_KR/status/1324939638973214720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 926,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1115509381418954800,
+			"id_str": "1115509381418954752",
+			"name": "그랑사가",
+			"screen_name": "GRANSAGA_KR",
+			"location": "",
+			"description": "위대한 전설, #그랑사가",
+			"url": "https://t.co/OVERr6X74P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OVERr6X74P",
+							"expanded_url": "http://taeyeon.gransaga.com",
+							"display_url": "taeyeon.gransaga.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1445,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Tue Apr 09 06:58:56 +0000 2019",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1300780966084931589/-duyX-hd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300780966084931589/-duyX-hd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115509381418954752/1603983746",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1470,
+		"favorite_count": 2463,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#그랑사가 X #태연 스틸샷 #2 📸\n\n🎬태연 MV: https://t.co/q3EU9disLC\n📀한정판 CD 이벤트: https://t.co/4nRGTdkFyu\n\n#GranSaga #taeyeon #stillshot https://t.co/5fVAjAsSXX"
+	},
+	{
+		"created_at": "Sun Nov 08 00:08:21 +0000 2020",
+		"id": 1323897772349649000,
+		"id_str": "1325228631216455682",
+		"full_text": "#그랑사가 X #태연 스틸샷 📸\n\n&lt;운명보다 한걸음 빠르게&gt; 촬영 현장 사진을 공개합니다!😍\n\n🎬태연 MV: https://t.co/q3EU9disLC\n📀한정판 CD 이벤트: https://t.co/4nRGTdkFyu\n\n#GranSaga #taeyeon #stillshot https://t.co/Ef7Xuf7H0Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "그랑사가",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						8,
+						11
+					]
+				},
+				{
+					"text": "GranSaga",
+					"indices": [
+						129,
+						138
+					]
+				},
+				{
+					"text": "taeyeon",
+					"indices": [
+						139,
+						147
+					]
+				},
+				{
+					"text": "stillshot",
+					"indices": [
+						148,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q3EU9disLC",
+					"expanded_url": "http://youtu.be/um3NhRMfYmc",
+					"display_url": "youtu.be/um3NhRMfYmc",
+					"indices": [
+						67,
+						90
+					]
+				},
+				{
+					"url": "https://t.co/4nRGTdkFyu",
+					"expanded_url": "http://taeyeon.gransaga.com",
+					"display_url": "taeyeon.gransaga.com",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323896443032100900,
+					"id_str": "1323896443032100865",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/El9szPZU4AEs60G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El9szPZU4AEs60G.jpg",
+					"url": "https://t.co/Ef7Xuf7H0Y",
+					"display_url": "pic.twitter.com/Ef7Xuf7H0Y",
+					"expanded_url": "https://twitter.com/GRANSAGA_KR/status/1323897772349648896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 926,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323896443032100900,
+					"id_str": "1323896443032100865",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/El9szPZU4AEs60G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El9szPZU4AEs60G.jpg",
+					"url": "https://t.co/Ef7Xuf7H0Y",
+					"display_url": "pic.twitter.com/Ef7Xuf7H0Y",
+					"expanded_url": "https://twitter.com/GRANSAGA_KR/status/1323897772349648896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 926,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1323896443027951600,
+					"id_str": "1323896443027951617",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/El9szPYVkAEE9ao.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El9szPYVkAEE9ao.jpg",
+					"url": "https://t.co/Ef7Xuf7H0Y",
+					"display_url": "pic.twitter.com/Ef7Xuf7H0Y",
+					"expanded_url": "https://twitter.com/GRANSAGA_KR/status/1323897772349648896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 926,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1115509381418954800,
+			"id_str": "1115509381418954752",
+			"name": "그랑사가",
+			"screen_name": "GRANSAGA_KR",
+			"location": "",
+			"description": "위대한 전설, #그랑사가",
+			"url": "https://t.co/OVERr6X74P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OVERr6X74P",
+							"expanded_url": "http://taeyeon.gransaga.com",
+							"display_url": "taeyeon.gransaga.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1445,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Tue Apr 09 06:58:56 +0000 2019",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1300780966084931589/-duyX-hd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300780966084931589/-duyX-hd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115509381418954752/1603983746",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1337,
+		"favorite_count": 2202,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#그랑사가 X #태연 스틸샷 📸\n\n&lt;운명보다 한걸음 빠르게&gt; 촬영 현장 사진을 공개합니다!😍\n\n🎬태연 MV: https://t.co/q3EU9disLC\n📀한정판 CD 이벤트: https://t.co/4nRGTdkFyu\n\n#GranSaga #taeyeon #stillshot https://t.co/Ef7Xuf7H0Y"
+	},
+	{
+		"created_at": "Sun Nov 08 00:04:12 +0000 2020",
+		"id": 1323490086990893000,
+		"id_str": "1325227586427871232",
+		"full_text": "#그랑사가 X #태연 '운명보다 한걸음 빠르게'\nOST 인게임 교차 편집 버전\nhttps://t.co/CYcc2a5n3n\n\n아름다운 에스프로젠의 풍경과, 메인 캐릭터 '세리아드'의 모습을 함께 만나보세요\n\n📀#taeyeon 한정판 CD 이벤트📀\n참여하기👉 https://t.co/jJPl1sWbaI https://t.co/V6wOHgiQFB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "그랑사가",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						8,
+						11
+					]
+				},
+				{
+					"text": "taeyeon",
+					"indices": [
+						116,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CYcc2a5n3n",
+					"expanded_url": "https://youtu.be/um3NhRMfYmc",
+					"display_url": "youtu.be/um3NhRMfYmc",
+					"indices": [
+						44,
+						67
+					]
+				},
+				{
+					"url": "https://t.co/jJPl1sWbaI",
+					"expanded_url": "https://taeyeon.gransaga.com",
+					"display_url": "taeyeon.gransaga.com",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323456895277961200,
+					"id_str": "1323456895277961216",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/El3dCMaVkAA45kQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El3dCMaVkAA45kQ.jpg",
+					"url": "https://t.co/V6wOHgiQFB",
+					"display_url": "pic.twitter.com/V6wOHgiQFB",
+					"expanded_url": "https://twitter.com/GRANSAGA_KR/status/1323490086990893058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323456895277961200,
+					"id_str": "1323456895277961216",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/El3dCMaVkAA45kQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El3dCMaVkAA45kQ.jpg",
+					"url": "https://t.co/V6wOHgiQFB",
+					"display_url": "pic.twitter.com/V6wOHgiQFB",
+					"expanded_url": "https://twitter.com/GRANSAGA_KR/status/1323490086990893058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1115509381418954800,
+			"id_str": "1115509381418954752",
+			"name": "그랑사가",
+			"screen_name": "GRANSAGA_KR",
+			"location": "",
+			"description": "위대한 전설, #그랑사가",
+			"url": "https://t.co/OVERr6X74P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OVERr6X74P",
+							"expanded_url": "http://taeyeon.gransaga.com",
+							"display_url": "taeyeon.gransaga.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1445,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Tue Apr 09 06:58:56 +0000 2019",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1300780966084931589/-duyX-hd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300780966084931589/-duyX-hd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115509381418954752/1603983746",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 699,
+		"favorite_count": 992,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#그랑사가 X #태연 '운명보다 한걸음 빠르게'\nOST 인게임 교차 편집 버전\nhttps://t.co/CYcc2a5n3n\n\n아름다운 에스프로젠의 풍경과, 메인 캐릭터 '세리아드'의 모습을 함께 만나보세요\n\n📀#taeyeon 한정판 CD 이벤트📀\n참여하기👉 https://t.co/jJPl1sWbaI https://t.co/V6wOHgiQFB"
+	},
+	{
 		"created_at": "Sat Nov 07 23:55:44 +0000 2020",
 		"id": 1324857063227359200,
 		"id_str": "1325225453368430592",
@@ -297,7 +1042,7 @@ Grailbird.data.tweets_2020_11 =
 				"name": "Chobani",
 				"screen_name": "jovanystweets",
 				"location": "Atlanta, GA",
-				"description": "small lips, big head. 🏳️‍🌈",
+				"description": "small lips, big head. 🏳️🌈",
 				"url": "https://t.co/tMKiTVfaSl",
 				"entities": {
 					"url": {
