@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 08 07:45:36 +0000 2020",
+		"id": 1325332225957666800,
+		"id_str": "1325343701539942400",
+		"full_text": "상큼과즙미팡팡 여기 과수원인 줄 알았네,,\n희진이랑 츄 상큼미 뿜뿜 터지는 거 아녀유ㅠㅠ\n\n#KPOP #THESHOW #더쇼 #LOONA #이달의소녀 #희진 #츄 #Why_Not @loonatheworld https://t.co/fjpWWwjPA1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KPOP",
+					"indices": [
+						51,
+						56
+					]
+				},
+				{
+					"text": "THESHOW",
+					"indices": [
+						57,
+						65
+					]
+				},
+				{
+					"text": "더쇼",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						88,
+						90
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						91,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						100,
+						114
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324235141225480200,
+					"id_str": "1324235141225480193",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EmCk2X_VgAA47Bn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmCk2X_VgAA47Bn.jpg",
+					"url": "https://t.co/fjpWWwjPA1",
+					"display_url": "pic.twitter.com/fjpWWwjPA1",
+					"expanded_url": "https://twitter.com/TheKpop/status/1325332225957666817/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324235141225480200,
+					"id_str": "1324235141225480193",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EmCk2X_VgAA47Bn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmCk2X_VgAA47Bn.jpg",
+					"url": "https://t.co/fjpWWwjPA1",
+					"display_url": "pic.twitter.com/fjpWWwjPA1",
+					"expanded_url": "https://twitter.com/TheKpop/status/1325332225957666817/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 6073,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1324235141225480193/pl/duHR1NZcnWJhQHxB.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324235141225480193/vid/480x270/krlQrigfFzSr5jTI.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324235141225480193/vid/640x360/fPrZ4iDGdTY-QsP2.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324235141225480193/vid/1280x720/Fe1a4InrZVot6jTj.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113842072,
+			"id_str": "113842072",
+			"name": "THE K-POP",
+			"screen_name": "TheKpop",
+			"location": "Seoul, Republic of Korea",
+			"description": "We provide 'SBS medianet' original K-POP shows. https://t.co/fzcaNmmjeM",
+			"url": "https://t.co/oUucbEp3c3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oUucbEp3c3",
+							"expanded_url": "https://mtv.sbs.co.kr/channel.html",
+							"display_url": "mtv.sbs.co.kr/channel.html",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fzcaNmmjeM",
+							"expanded_url": "https://www.youtube.com/c/TheKPOP",
+							"display_url": "youtube.com/c/TheKPOP",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 631067,
+			"friends_count": 1067,
+			"listed_count": 1039,
+			"created_at": "Sat Feb 13 06:30:47 +0000 2010",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224570939972575232/KSiGcUtU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224570939972575232/KSiGcUtU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113842072/1604402425",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 273,
+		"favorite_count": 936,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "상큼과즙미팡팡 여기 과수원인 줄 알았네,,\n희진이랑 츄 상큼미 뿜뿜 터지는 거 아녀유ㅠㅠ\n\n#KPOP #THESHOW #더쇼 #LOONA #이달의소녀 #희진 #츄 #Why_Not @loonatheworld https://t.co/fjpWWwjPA1"
+	},
+	{
 		"created_at": "Sun Nov 08 05:02:53 +0000 2020",
 		"id": 1325302753309175800,
 		"id_str": "1325302753309175808",
