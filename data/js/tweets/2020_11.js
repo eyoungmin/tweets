@@ -1,6 +1,867 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 08 16:00:10 +0000 2020",
+		"id": 1325468162918215700,
+		"id_str": "1325468162918215680",
+		"full_text": "게으르다 못해 한심하단 생각이 드는 담당자. https://t.co/Vmj49FeH2z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vmj49FeH2z",
+					"expanded_url": "https://twitter.com/withMBC/status/1325302027300216833",
+					"display_url": "twitter.com/withMBC/status…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1019,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44068,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1325302027300216800,
+		"quoted_status_id_str": "1325302027300216833",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Vmj49FeH2z",
+			"expanded": "https://twitter.com/withMBC/status/1325302027300216833",
+			"display": "twitter.com/withMBC/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 08 05:00:00 +0000 2020",
+			"id": 1325302027300216800,
+			"id_str": "1325302027300216833",
+			"full_text": "조선시대 편견의 선을 넘어버린 \n진짜 진짜 센 언니들 🤟\n\n&lt;#선을넘는녀석들 리턴즈&gt;\n오늘 밤 9시 10분 방송 https://t.co/lsWtko8bK9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				68
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "선을넘는녀석들",
+						"indices": [
+							37,
+							45
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1324629939107238000,
+						"id_str": "1324629939107237889",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/EmIUdnMVkAMB1hx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmIUdnMVkAMB1hx.jpg",
+						"url": "https://t.co/lsWtko8bK9",
+						"display_url": "pic.twitter.com/lsWtko8bK9",
+						"expanded_url": "https://twitter.com/withMBC/status/1325302027300216833/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1324629939107238000,
+						"id_str": "1324629939107237889",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/EmIUdnMVkAMB1hx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmIUdnMVkAMB1hx.jpg",
+						"url": "https://t.co/lsWtko8bK9",
+						"display_url": "pic.twitter.com/lsWtko8bK9",
+						"expanded_url": "https://twitter.com/withMBC/status/1325302027300216833/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 50350,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1324629939107237889/vid/480x270/P3Y4NYeK2_G1wJkv.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1324629939107237889/vid/640x360/lmqGNvLMInzlTulU.mp4?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1324629939107237889/vid/1280x720/JwKdCDDjPHvTxDzu.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1324629939107237889/pl/eosjV-_UGq8XPYnL.m3u8?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 104673579,
+				"id_str": "104673579",
+				"name": "withMBC",
+				"screen_name": "withMBC",
+				"location": "상암동",
+				"description": "MBC 방송 프로그램 홍보 트위터 MBC PR",
+				"url": "https://t.co/yOEvgSpDjG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yOEvgSpDjG",
+								"expanded_url": "http://www.imbc.com",
+								"display_url": "imbc.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1006701,
+				"friends_count": 10184,
+				"listed_count": 4203,
+				"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+				"favourites_count": 56,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 43563,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1082496746977017856/u7_YbaTn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082496746977017856/u7_YbaTn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1603954509",
+				"profile_link_color": "1B3E8F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FCFCFC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 70,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "게으르다 못해 한심하단 생각이 드는 담당자. https://t.co/Vmj49FeH2z"
+	},
+	{
+		"created_at": "Sun Nov 08 15:59:36 +0000 2020",
+		"id": 1325303286526693400,
+		"id_str": "1325468017849896965",
+		"full_text": "어휴 능력있는 여성조상도 진짜 센 언니란 단어 안붙이면 설명 못하는지. 내가보기엔 그분들이 센 언니가 아니라 능력있는 여성을 제대로 호명하지 못하고 걍 센 언니로 퉁치는게 멍청한 거 같은데 https://t.co/b8gbELNXEo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b8gbELNXEo",
+					"expanded_url": "https://twitter.com/withMBC/status/1325302027300216833",
+					"display_url": "twitter.com/withMBC/status…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 974219201526227000,
+			"id_str": "974219201526226944",
+			"name": "마라",
+			"screen_name": "Stacyleefightin",
+			"location": "",
+			"description": "추운 겨울엔 마라 한 스푼🥄",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 382,
+			"friends_count": 4995,
+			"listed_count": 1,
+			"created_at": "Thu Mar 15 09:42:12 +0000 2018",
+			"favourites_count": 141728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 141408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320693726365184001/4a2g0Tt9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320693726365184001/4a2g0Tt9_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1325302027300216800,
+		"quoted_status_id_str": "1325302027300216833",
+		"quoted_status_permalink": {
+			"url": "https://t.co/b8gbELNXEo",
+			"expanded": "https://twitter.com/withMBC/status/1325302027300216833",
+			"display": "twitter.com/withMBC/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 08 05:00:00 +0000 2020",
+			"id": 1325302027300216800,
+			"id_str": "1325302027300216833",
+			"full_text": "조선시대 편견의 선을 넘어버린 \n진짜 진짜 센 언니들 🤟\n\n&lt;#선을넘는녀석들 리턴즈&gt;\n오늘 밤 9시 10분 방송 https://t.co/lsWtko8bK9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				68
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "선을넘는녀석들",
+						"indices": [
+							37,
+							45
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1324629939107238000,
+						"id_str": "1324629939107237889",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/EmIUdnMVkAMB1hx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmIUdnMVkAMB1hx.jpg",
+						"url": "https://t.co/lsWtko8bK9",
+						"display_url": "pic.twitter.com/lsWtko8bK9",
+						"expanded_url": "https://twitter.com/withMBC/status/1325302027300216833/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1324629939107238000,
+						"id_str": "1324629939107237889",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/EmIUdnMVkAMB1hx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmIUdnMVkAMB1hx.jpg",
+						"url": "https://t.co/lsWtko8bK9",
+						"display_url": "pic.twitter.com/lsWtko8bK9",
+						"expanded_url": "https://twitter.com/withMBC/status/1325302027300216833/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 50350,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1324629939107237889/vid/480x270/P3Y4NYeK2_G1wJkv.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1324629939107237889/vid/640x360/lmqGNvLMInzlTulU.mp4?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1324629939107237889/vid/1280x720/JwKdCDDjPHvTxDzu.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1324629939107237889/pl/eosjV-_UGq8XPYnL.m3u8?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 104673579,
+				"id_str": "104673579",
+				"name": "withMBC",
+				"screen_name": "withMBC",
+				"location": "상암동",
+				"description": "MBC 방송 프로그램 홍보 트위터 MBC PR",
+				"url": "https://t.co/yOEvgSpDjG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yOEvgSpDjG",
+								"expanded_url": "http://www.imbc.com",
+								"display_url": "imbc.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1006701,
+				"friends_count": 10184,
+				"listed_count": 4203,
+				"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+				"favourites_count": 56,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 43563,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1082496746977017856/u7_YbaTn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082496746977017856/u7_YbaTn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1603954509",
+				"profile_link_color": "1B3E8F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FCFCFC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 70,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1229,
+		"favorite_count": 538,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어휴 능력있는 여성조상도 진짜 센 언니란 단어 안붙이면 설명 못하는지. 내가보기엔 그분들이 센 언니가 아니라 능력있는 여성을 제대로 호명하지 못하고 걍 센 언니로 퉁치는게 멍청한 거 같은데 https://t.co/b8gbELNXEo"
+	},
+	{
+		"created_at": "Sun Nov 08 15:27:09 +0000 2020",
+		"id": 1325453271633432600,
+		"id_str": "1325459851422658560",
+		"full_text": "우리 싱크 영원히📱\n\n#NINGNING #닝닝\n#æ_NINGNING #아이_닝닝\n#SYNK #싱크 #내일도싱크하자\n#aespa #æspa #에스파 https://t.co/Psk9BBb46n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NINGNING",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"text": "닝닝",
+					"indices": [
+						22,
+						25
+					]
+				},
+				{
+					"text": "æ_NINGNING",
+					"indices": [
+						26,
+						37
+					]
+				},
+				{
+					"text": "아이_닝닝",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "SYNK",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "싱크",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "내일도싱크하자",
+					"indices": [
+						55,
+						63
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						77,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1325365310703087600,
+					"id_str": "1325365310703087621",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EmSkul4VMAU0vAD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmSkul4VMAU0vAD.jpg",
+					"url": "https://t.co/Psk9BBb46n",
+					"display_url": "pic.twitter.com/Psk9BBb46n",
+					"expanded_url": "https://twitter.com/aespa_official/status/1325453271633432577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325365310703087600,
+					"id_str": "1325365310703087621",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EmSkul4VMAU0vAD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmSkul4VMAU0vAD.jpg",
+					"url": "https://t.co/Psk9BBb46n",
+					"display_url": "pic.twitter.com/Psk9BBb46n",
+					"expanded_url": "https://twitter.com/aespa_official/status/1325453271633432577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 374566,
+			"friends_count": 1,
+			"listed_count": 837,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 37,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18193,
+		"favorite_count": 48040,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리 싱크 영원히📱\n\n#NINGNING #닝닝\n#æ_NINGNING #아이_닝닝\n#SYNK #싱크 #내일도싱크하자\n#aespa #æspa #에스파 https://t.co/Psk9BBb46n"
+	},
+	{
 		"created_at": "Sun Nov 08 15:02:28 +0000 2020",
 		"id": 1325453643169099800,
 		"id_str": "1325453643169099777",
