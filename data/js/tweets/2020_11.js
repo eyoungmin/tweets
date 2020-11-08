@@ -1,6 +1,161 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 08 01:45:36 +0000 2020",
+		"id": 1325249579692957700,
+		"id_str": "1325253104539987968",
+		"full_text": "Hi Orbits! We'll be on @MostRequestLive with @OnAirRomeo on 11/21 for our @iHeartRadio @AskAnythingChat 🤗 Send us your questions to \n\n▶️ https://t.co/y0FcDGUj6w\n\n#LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						162,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MostRequestLive",
+					"name": "Most Requested Live",
+					"id": 108775893,
+					"id_str": "108775893",
+					"indices": [
+						23,
+						39
+					]
+				},
+				{
+					"screen_name": "OnAirRomeo",
+					"name": "On Air Romeo",
+					"id": 21590830,
+					"id_str": "21590830",
+					"indices": [
+						45,
+						56
+					]
+				},
+				{
+					"screen_name": "iHeartRadio",
+					"name": "iHeartRadio",
+					"id": 46116615,
+					"id_str": "46116615",
+					"indices": [
+						74,
+						86
+					]
+				},
+				{
+					"screen_name": "AskAnythingChat",
+					"name": "Ask Anything",
+					"id": 450186253,
+					"id_str": "450186253",
+					"indices": [
+						87,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/y0FcDGUj6w",
+					"expanded_url": "https://bit.ly/38mW5bi",
+					"display_url": "bit.ly/38mW5bi",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572603,
+			"friends_count": 0,
+			"listed_count": 5805,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1375,
+		"favorite_count": 6520,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hi Orbits! We'll be on @MostRequestLive with @OnAirRomeo on 11/21 for our @iHeartRadio @AskAnythingChat 🤗 Send us your questions to \n\n▶️ https://t.co/y0FcDGUj6w\n\n#LOONA"
+	},
+	{
 		"created_at": "Sun Nov 08 00:09:11 +0000 2020",
 		"id": 1324939638973214700,
 		"id_str": "1325228837899169792",
