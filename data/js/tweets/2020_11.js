@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 08 03:45:36 +0000 2020",
+		"id": 1325271829569736700,
+		"id_str": "1325283303797223426",
+		"full_text": "듣자마자 기억조작하는 K-하이틴 노래💿.zip 누가 🏫코리아 하이틴🏫이 뭐냐고 물으면 이 노래 렛츠 기릿~‼ 청량가득💛 두근 설렘 가사로 청춘 하이틴물 바로 뚝.딱⚒\nTeenage story K-pop which look back upon our fluttering memories!\n\n#Weeekly #THEBOYZ #LOONA #SEVENTEEN #PENTAGON #GFRIEND https://t.co/z7WBRgpx2K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Weeekly",
+					"indices": [
+						160,
+						168
+					]
+				},
+				{
+					"text": "THEBOYZ",
+					"indices": [
+						169,
+						177
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						178,
+						184
+					]
+				},
+				{
+					"text": "SEVENTEEN",
+					"indices": [
+						185,
+						195
+					]
+				},
+				{
+					"text": "PENTAGON",
+					"indices": [
+						196,
+						205
+					]
+				},
+				{
+					"text": "GFRIEND",
+					"indices": [
+						206,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324614897066418200,
+					"id_str": "1324614897066418179",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1324614897066418179/img/20NVLFms6H-DVNeU.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1324614897066418179/img/20NVLFms6H-DVNeU.jpg",
+					"url": "https://t.co/z7WBRgpx2K",
+					"display_url": "pic.twitter.com/z7WBRgpx2K",
+					"expanded_url": "https://twitter.com/1theK/status/1325271829569736724/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324614897066418200,
+					"id_str": "1324614897066418179",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1324614897066418179/img/20NVLFms6H-DVNeU.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1324614897066418179/img/20NVLFms6H-DVNeU.jpg",
+					"url": "https://t.co/z7WBRgpx2K",
+					"display_url": "pic.twitter.com/z7WBRgpx2K",
+					"expanded_url": "https://twitter.com/1theK/status/1325271829569736724/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 155956,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324614897066418179/vid/480x480/blVQcBJiVr_xq3Z-.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1324614897066418179/pl/9D1g6uw6jM-toB73.m3u8?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324614897066418179/vid/320x320/PInyT_JhrvGL8Ms_.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324614897066418179/vid/720x720/2Q8l3H36AnVq_q2L.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakao-m.com",
+			"url": "https://t.co/98CRTk0YXk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/98CRTk0YXk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2116079,
+			"friends_count": 812,
+			"listed_count": 1808,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 15154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22246,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1604656924",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 304,
+		"favorite_count": 1067,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "듣자마자 기억조작하는 K-하이틴 노래💿.zip 누가 🏫코리아 하이틴🏫이 뭐냐고 물으면 이 노래 렛츠 기릿~‼ 청량가득💛 두근 설렘 가사로 청춘 하이틴물 바로 뚝.딱⚒\nTeenage story K-pop which look back upon our fluttering memories!\n\n#Weeekly #THEBOYZ #LOONA #SEVENTEEN #PENTAGON #GFRIEND https://t.co/z7WBRgpx2K"
+	},
+	{
 		"created_at": "Sun Nov 08 03:00:58 +0000 2020",
 		"id": 1325272068909359000,
 		"id_str": "1325272068909359104",
