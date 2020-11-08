@@ -1,6 +1,1210 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 07 23:55:44 +0000 2020",
+		"id": 1324857063227359200,
+		"id_str": "1325225453368430592",
+		"full_text": "트와이스 ‘Feel Special’ 이 미국에서 저항가요로 쓰이게 되다니... https://t.co/YS8kmqZ47Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YS8kmqZ47Q",
+					"expanded_url": "https://twitter.com/jovanystweets/status/1324683762341392384",
+					"display_url": "twitter.com/jovanystweets/…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124039788,
+			"id_str": "124039788",
+			"name": "Saint Ho",
+			"screen_name": "ysimock",
+			"location": "",
+			"description": "➰🏐➰🏀 나 또한 지나가리라. 모르는 분들의 비공계 계정은 블록할게요 죄송!",
+			"url": "https://t.co/4uauEa0QDr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4uauEa0QDr",
+							"expanded_url": "https://www.youtube.com/channel/UCMLIvwSY-hbC2R0W9_XWuVg",
+							"display_url": "youtube.com/channel/UCMLIv…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14006,
+			"friends_count": 1492,
+			"listed_count": 263,
+			"created_at": "Thu Mar 18 01:58:43 +0000 2010",
+			"favourites_count": 1020,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1179958517832114177/6WAJ8sr5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1179958517832114177/6WAJ8sr5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124039788/1587218786",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1324683762341392400,
+		"quoted_status_id_str": "1324683762341392384",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YS8kmqZ47Q",
+			"expanded": "https://twitter.com/jovanystweets/status/1324683762341392384",
+			"display": "twitter.com/jovanystweets/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 06 12:03:15 +0000 2020",
+			"id": 1324683762341392400,
+			"id_str": "1324683762341392384",
+			"full_text": "This GA fancam is killing me https://t.co/Hadmvyto6H",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				52
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1324643180982071300,
+						"id_str": "1324643180982071296",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1324643180982071296/pu/img/TZRCOri-wp2XfXP-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1324643180982071296/pu/img/TZRCOri-wp2XfXP-.jpg",
+						"url": "https://t.co/Hadmvyto6H",
+						"display_url": "pic.twitter.com/Hadmvyto6H",
+						"expanded_url": "https://twitter.com/bleorgia/status/1324643287190286337/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1324643287190286300,
+						"source_status_id_str": "1324643287190286337",
+						"source_user_id": 1294016115408924700,
+						"source_user_id_str": "1294016115408924672"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1324643180982071300,
+						"id_str": "1324643180982071296",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1324643180982071296/pu/img/TZRCOri-wp2XfXP-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1324643180982071296/pu/img/TZRCOri-wp2XfXP-.jpg",
+						"url": "https://t.co/Hadmvyto6H",
+						"display_url": "pic.twitter.com/Hadmvyto6H",
+						"expanded_url": "https://twitter.com/bleorgia/status/1324643287190286337/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1324643287190286300,
+						"source_status_id_str": "1324643287190286337",
+						"source_user_id": 1294016115408924700,
+						"source_user_id_str": "1294016115408924672",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 32733,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1324643180982071296/pu/vid/640x360/JE00Zs2UH7Venutr.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1324643180982071296/pu/vid/480x270/UzdIe7Mhi3XjkPpi.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1324643180982071296/pu/pl/5gMNzQnXo44fm3Fg.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1324643180982071296/pu/vid/1280x720/qxsUIYHMqVtO87af.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 1294016115408924700,
+								"id_str": "1294016115408924672",
+								"name": "BLORGIA FAN ACCOUNT",
+								"screen_name": "bleorgia",
+								"location": "",
+								"description": "",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 577,
+								"friends_count": 0,
+								"listed_count": 1,
+								"created_at": "Thu Aug 13 21:01:09 +0000 2020",
+								"favourites_count": 46,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 6,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1324422839236141057/mjhaH6Ug_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324422839236141057/mjhaH6Ug_normal.jpg",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1551106255,
+				"id_str": "1551106255",
+				"name": "Chobani",
+				"screen_name": "jovanystweets",
+				"location": "Atlanta, GA",
+				"description": "small lips, big head. 🏳️‍🌈",
+				"url": "https://t.co/tMKiTVfaSl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tMKiTVfaSl",
+								"expanded_url": "https://www.vote.org",
+								"display_url": "vote.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11281,
+				"friends_count": 877,
+				"listed_count": 16,
+				"created_at": "Thu Jun 27 17:12:13 +0000 2013",
+				"favourites_count": 88733,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 37040,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1310339836793040896/4MYoR8G__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1310339836793040896/4MYoR8G__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1551106255/1603154009",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18411,
+			"favorite_count": 62186,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5362,
+		"favorite_count": 3655,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트와이스 ‘Feel Special’ 이 미국에서 저항가요로 쓰이게 되다니... https://t.co/YS8kmqZ47Q"
+	},
+	{
+		"created_at": "Sat Nov 07 23:46:19 +0000 2020",
+		"id": 1325126733482385400,
+		"id_str": "1325223085558042624",
+		"full_text": "We did it, @JoeBiden. https://t.co/oCgeylsjB4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JoeBiden",
+					"name": "Joe Biden",
+					"id": 939091,
+					"id_str": "939091",
+					"indices": [
+						11,
+						20
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1325126107738280000,
+					"id_str": "1325126107738279936",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/EmPLZwJU0AM9cWq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmPLZwJU0AM9cWq.jpg",
+					"url": "https://t.co/oCgeylsjB4",
+					"display_url": "pic.twitter.com/oCgeylsjB4",
+					"expanded_url": "https://twitter.com/KamalaHarris/status/1325126733482385409/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325126107738280000,
+					"id_str": "1325126107738279936",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/EmPLZwJU0AM9cWq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmPLZwJU0AM9cWq.jpg",
+					"url": "https://t.co/oCgeylsjB4",
+					"display_url": "pic.twitter.com/oCgeylsjB4",
+					"expanded_url": "https://twitter.com/KamalaHarris/status/1325126733482385409/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 8425,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1325126107738279936/vid/480x480/YrfeYXwDEszGtW6S.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1325126107738279936/vid/320x320/GcsYaUnaIeFiv1sc.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1325126107738279936/pl/u2ETAeh2OIlqnt96.m3u8?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1325126107738279936/vid/720x720/CEct9PkfbmFjRd2A.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 30354991,
+			"id_str": "30354991",
+			"name": "Kamala Harris",
+			"screen_name": "KamalaHarris",
+			"location": "California",
+			"description": "Vice President-Elect of the United States. Senator, Wife, Momala, Auntie. Fighting for the people. She/her.",
+			"url": "https://t.co/EyPkJSnNLw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EyPkJSnNLw",
+							"expanded_url": "https://joebiden.com",
+							"display_url": "joebiden.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9597225,
+			"friends_count": 735,
+			"listed_count": 19245,
+			"created_at": "Sat Apr 11 00:42:07 +0000 2009",
+			"favourites_count": 362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093306247766515712/MBaqSY2M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093306247766515712/MBaqSY2M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/30354991/1604520102",
+			"profile_link_color": "4468A6",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 531959,
+		"favorite_count": 2842299,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We did it, @JoeBiden. https://t.co/oCgeylsjB4"
+	},
+	{
+		"created_at": "Sat Nov 07 23:39:19 +0000 2020",
+		"id": 1325118992785223700,
+		"id_str": "1325221322402623488",
+		"full_text": "America, I’m honored that you have chosen me to lead our great country.\n\nThe work ahead of us will be hard, but I promise you this: I will be a President for all Americans — whether you voted for me or not.\n\nI will keep the faith that you have placed in me. https://t.co/moA9qhmjn8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324720938928246800,
+					"id_str": "1324720938928246784",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/EmJbRiOWMAAc7f1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmJbRiOWMAAc7f1.jpg",
+					"url": "https://t.co/moA9qhmjn8",
+					"display_url": "pic.twitter.com/moA9qhmjn8",
+					"expanded_url": "https://twitter.com/JoeBiden/status/1325118992785223682/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324720938928246800,
+					"id_str": "1324720938928246784",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/EmJbRiOWMAAc7f1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmJbRiOWMAAc7f1.jpg",
+					"url": "https://t.co/moA9qhmjn8",
+					"display_url": "pic.twitter.com/moA9qhmjn8",
+					"expanded_url": "https://twitter.com/JoeBiden/status/1325118992785223682/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 116325,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324720938928246784/vid/1280x720/ZcBQGEP8thQ3Tl8X.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1324720938928246784/pl/t8rfpVMKQ_zRmlO0.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324720938928246784/vid/480x270/2nWDsfDW616T0Zj_.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324720938928246784/vid/640x360/nEL8Tjgw8cGSNhmB.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 939091,
+			"id_str": "939091",
+			"name": "Joe Biden",
+			"screen_name": "JoeBiden",
+			"location": "Wilmington, DE",
+			"description": "President-Elect, husband to @DrBiden, proud father & grandfather. Ready to build back better for all Americans.",
+			"url": "https://t.co/UClrPuJpyZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UClrPuJpyZ",
+							"expanded_url": "http://joebiden.com",
+							"display_url": "joebiden.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16248301,
+			"friends_count": 29,
+			"listed_count": 26495,
+			"created_at": "Sun Mar 11 17:51:24 +0000 2007",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "565959",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/939091/1604514209",
+			"profile_link_color": "233F94",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EBEBFF",
+			"profile_text_color": "323232",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 584140,
+		"favorite_count": 2860193,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "America, I’m honored that you have chosen me to lead our great country.\n\nThe work ahead of us will be hard, but I promise you this: I will be a President for all Americans — whether you voted for me or not.\n\nI will keep the faith that you have placed in me. https://t.co/moA9qhmjn8"
+	},
+	{
+		"created_at": "Sat Nov 07 23:37:54 +0000 2020",
+		"id": 1325139802321121300,
+		"id_str": "1325220965815521285",
+		"full_text": "billie via instagram: BIDEEENNNNNNNNN BITCHES😭😭😭😭😭 https://t.co/6XTF8BYXPE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1325139704061304800,
+					"id_str": "1325139704061304832",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1325139704061304832/pu/img/rbhpMxJLmEzqxzZA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1325139704061304832/pu/img/rbhpMxJLmEzqxzZA.jpg",
+					"url": "https://t.co/6XTF8BYXPE",
+					"display_url": "pic.twitter.com/6XTF8BYXPE",
+					"expanded_url": "https://twitter.com/billiesource/status/1325139802321121284/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325139704061304800,
+					"id_str": "1325139704061304832",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1325139704061304832/pu/img/rbhpMxJLmEzqxzZA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1325139704061304832/pu/img/rbhpMxJLmEzqxzZA.jpg",
+					"url": "https://t.co/6XTF8BYXPE",
+					"display_url": "pic.twitter.com/6XTF8BYXPE",
+					"expanded_url": "https://twitter.com/billiesource/status/1325139802321121284/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59300,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1325139704061304832/pu/vid/480x480/XglYotVO0c7ZZ5dT.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1325139704061304832/pu/vid/320x320/gy0juwp_GooLTQQD.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1325139704061304832/pu/vid/720x720/GMj8E9tWwX3Tw-Px.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1325139704061304832/pu/pl/zSHQVOjFXR7KW7Vg.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 190823677,
+			"id_str": "190823677",
+			"name": "billie eilish source",
+			"screen_name": "billiesource",
+			"location": "",
+			"description": "“my future” out now https://t.co/oHLeWem3Px (fan account - not affiliated with billie eilish or her team)",
+			"url": "https://t.co/PDFKwkEENA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PDFKwkEENA",
+							"expanded_url": "http://billieeilish.com",
+							"display_url": "billieeilish.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oHLeWem3Px",
+							"expanded_url": "http://smarturl.it/myfuture",
+							"display_url": "smarturl.it/myfuture",
+							"indices": [
+								20,
+								43
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15734,
+			"friends_count": 12,
+			"listed_count": 36,
+			"created_at": "Tue Sep 14 22:54:22 +0000 2010",
+			"favourites_count": 444,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF0011",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1289617131022225409/gmoQO_7Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1289617131022225409/gmoQO_7Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/190823677/1596152291",
+			"profile_link_color": "BA0505",
+			"profile_sidebar_border_color": "00AAFF",
+			"profile_sidebar_fill_color": "00DDFF",
+			"profile_text_color": "AA00FF",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 186,
+		"favorite_count": 922,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "billie via instagram: BIDEEENNNNNNNNN BITCHES😭😭😭😭😭 https://t.co/6XTF8BYXPE"
+	},
+	{
+		"created_at": "Sat Nov 07 23:34:23 +0000 2020",
+		"id": 1325153961842667500,
+		"id_str": "1325220079491928064",
+		"full_text": "Definite love to the poll workers and poll officials and news personnel who put in the work the past week in an impatient and anxious nation. Hoping they get a long nap today.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45709328,
+			"id_str": "45709328",
+			"name": "h",
+			"screen_name": "halsey",
+			"location": "she/her",
+			"description": "L? P?",
+			"url": "https://t.co/Cp9qY8JcTQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Cp9qY8JcTQ",
+							"expanded_url": "http://iwouldleavemeificould.com",
+							"display_url": "iwouldleavemeificould.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13765837,
+			"friends_count": 3154,
+			"listed_count": 6293,
+			"created_at": "Mon Jun 08 23:58:35 +0000 2009",
+			"favourites_count": 5350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15850,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1286202771453038592/2FdvKGxM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1286202771453038592/2FdvKGxM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45709328/1595187585",
+			"profile_link_color": "41CFD9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2865,
+		"favorite_count": 30215,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Definite love to the poll workers and poll officials and news personnel who put in the work the past week in an impatient and anxious nation. Hoping they get a long nap today."
+	},
+	{
+		"created_at": "Sat Nov 07 23:34:14 +0000 2020",
+		"id": 1325151080561352700,
+		"id_str": "1325220042640773120",
+		"full_text": "Celebrate to your heart’s content, but do so with the knowledge that this is a massive step, not a final victory. We aren’t hanging up the phone, we just got another person on the line.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45709328,
+			"id_str": "45709328",
+			"name": "h",
+			"screen_name": "halsey",
+			"location": "she/her",
+			"description": "L? P?",
+			"url": "https://t.co/Cp9qY8JcTQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Cp9qY8JcTQ",
+							"expanded_url": "http://iwouldleavemeificould.com",
+							"display_url": "iwouldleavemeificould.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13765837,
+			"friends_count": 3154,
+			"listed_count": 6293,
+			"created_at": "Mon Jun 08 23:58:35 +0000 2009",
+			"favourites_count": 5350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15850,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1286202771453038592/2FdvKGxM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1286202771453038592/2FdvKGxM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45709328/1595187585",
+			"profile_link_color": "41CFD9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7542,
+		"favorite_count": 53184,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Celebrate to your heart’s content, but do so with the knowledge that this is a massive step, not a final victory. We aren’t hanging up the phone, we just got another person on the line."
+	},
+	{
 		"created_at": "Sat Nov 07 17:45:02 +0000 2020",
 		"id": 1324908719117795300,
 		"id_str": "1325132164568997891",
