@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 08 04:27:04 +0000 2020",
+		"id": 1325256857729052700,
+		"id_str": "1325293739217195010",
+		"full_text": "BLACKPINK IN YOUR AREA! ✨\n\nCatch the @BLACKPINK Gameplay Show premiere in PUBG MOBILE at 13:00 (UTC+0) on Friday, November 13.\n\nYou can also watch the broadcast at 14:00 (UTC+0) via PUBG MOBILE’s official Facebook and YouTube channels! https://t.co/5rBZ9MuXb9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						37,
+						47
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1325256763646619600,
+					"id_str": "1325256763646619651",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/EmRCFYoXcAAeP2q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmRCFYoXcAAeP2q.jpg",
+					"url": "https://t.co/5rBZ9MuXb9",
+					"display_url": "pic.twitter.com/5rBZ9MuXb9",
+					"expanded_url": "https://twitter.com/PUBGMOBILE/status/1325256857729052672/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325256763646619600,
+					"id_str": "1325256763646619651",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/EmRCFYoXcAAeP2q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmRCFYoXcAAeP2q.jpg",
+					"url": "https://t.co/5rBZ9MuXb9",
+					"display_url": "pic.twitter.com/5rBZ9MuXb9",
+					"expanded_url": "https://twitter.com/PUBGMOBILE/status/1325256857729052672/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15015,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1325256763646619651/vid/640x360/BIlO3Lkgtm4wsrHR.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1325256763646619651/vid/1280x720/uptSz88rfBkRlu4U.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1325256763646619651/vid/480x270/neSZtpSYQsyaGxFb.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1325256763646619651/pl/QPnYQ0_Vczs0Stg1.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968652142750810100,
+			"id_str": "968652142750810114",
+			"name": "PUBG MOBILE",
+			"screen_name": "PUBGMOBILE",
+			"location": "",
+			"description": "PLAYERUNKNOWN'S BATTLEGROUNDS goes mobile - the original Battle Royale game is now available on your device! #pubgmobile\n\nOfficial community: https://t.co/kAZqjN0UVf",
+			"url": "https://t.co/Wx3JvVKSnL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Wx3JvVKSnL",
+							"expanded_url": "http://pubgm.cc",
+							"display_url": "pubgm.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kAZqjN0UVf",
+							"expanded_url": "http://discord.gg/pubgm",
+							"display_url": "discord.gg/pubgm",
+							"indices": [
+								142,
+								165
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1127759,
+			"friends_count": 151,
+			"listed_count": 541,
+			"created_at": "Wed Feb 28 01:00:42 +0000 2018",
+			"favourites_count": 3436,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322815911737262080/xq_7yDpW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322815911737262080/xq_7yDpW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968652142750810114/1604218866",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11662,
+		"favorite_count": 33181,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BLACKPINK IN YOUR AREA! ✨\n\nCatch the @BLACKPINK Gameplay Show premiere in PUBG MOBILE at 13:00 (UTC+0) on Friday, November 13.\n\nYou can also watch the broadcast at 14:00 (UTC+0) via PUBG MOBILE’s official Facebook and YouTube channels! https://t.co/5rBZ9MuXb9"
+	},
+	{
 		"created_at": "Sun Nov 08 03:45:36 +0000 2020",
 		"id": 1325271829569736700,
 		"id_str": "1325283303797223426",

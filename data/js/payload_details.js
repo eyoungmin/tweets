@@ -1,5 +1,5 @@
 var payload_details = {
-	"tweets": 69233,
-	"created_at": "Sun Nov 08 04:02:05 +0000 2020",
+	"tweets": 69234,
+	"created_at": "Sun Nov 08 05:02:05 +0000 2020",
 	"lang": "ko"
 }
