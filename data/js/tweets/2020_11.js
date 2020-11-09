@@ -1,6 +1,631 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 09 06:45:36 +0000 2020",
+		"id": 1325679520972644400,
+		"id_str": "1325690989831483392",
+		"full_text": "★더쇼 244회 라인업★ AB6IX (에이비식스), CIX, D-CRUNCH(디크런치), DRIPPIN, JBJ95, MONSTA X, NTX (엔티엑스), P1Harmony, SECRET NUMBER, TOMORROW X TOGETHER, VERIVERY, 나띠, 다크비(DKB), 박지훈, 블랙스완, 여자친구, 위클리, 이달의 소녀, 쪼꼬미 #THESHOW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THESHOW",
+					"indices": [
+						193,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 517295819,
+			"id_str": "517295819",
+			"name": "THE SHOW",
+			"screen_name": "sbsmtvtheshow",
+			"location": "",
+			"description": "SBS MTV THE SHOW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 856305,
+			"friends_count": 84,
+			"listed_count": 1374,
+			"created_at": "Wed Mar 07 06:49:30 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7049,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/517295819/1528422724",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1175,
+		"favorite_count": 3502,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "★더쇼 244회 라인업★ AB6IX (에이비식스), CIX, D-CRUNCH(디크런치), DRIPPIN, JBJ95, MONSTA X, NTX (엔티엑스), P1Harmony, SECRET NUMBER, TOMORROW X TOGETHER, VERIVERY, 나띠, 다크비(DKB), 박지훈, 블랙스완, 여자친구, 위클리, 이달의 소녀, 쪼꼬미 #THESHOW"
+	},
+	{
+		"created_at": "Mon Nov 09 06:27:05 +0000 2020",
+		"id": 1325672027399757800,
+		"id_str": "1325686327053062144",
+		"full_text": "[NOTICE] 💡CHUNG HA\n2021 SEASON'S GREETINGS 予約販売が始まりました。\n\nwithdrama\n📍 https://t.co/ZBTsYBhMm1\nINTERPARK\n📍 https://t.co/rrak3K5Q8V\naladin\n📍 https://t.co/A7aLujasmn\nsynnara\n📍 https://t.co/YsjSaCfLJi\nYES24\n📍 https://t.co/6F3KAEGcgz\n\n#청하 #CHUNGHA\n#2021_시즌그리팅 https://t.co/xwaorFp3r5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						229,
+						232
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						233,
+						241
+					]
+				},
+				{
+					"text": "2021_시즌그리팅",
+					"indices": [
+						242,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZBTsYBhMm1",
+					"expanded_url": "https://bit.ly/32r5RW4",
+					"display_url": "bit.ly/32r5RW4",
+					"indices": [
+						69,
+						92
+					]
+				},
+				{
+					"url": "https://t.co/rrak3K5Q8V",
+					"expanded_url": "https://bit.ly/2ImMMx1",
+					"display_url": "bit.ly/2ImMMx1",
+					"indices": [
+						105,
+						128
+					]
+				},
+				{
+					"url": "https://t.co/A7aLujasmn",
+					"expanded_url": "https://bit.ly/3ldAypg",
+					"display_url": "bit.ly/3ldAypg",
+					"indices": [
+						138,
+						161
+					]
+				},
+				{
+					"url": "https://t.co/YsjSaCfLJi",
+					"expanded_url": "https://bit.ly/36iA0rH",
+					"display_url": "bit.ly/36iA0rH",
+					"indices": [
+						172,
+						195
+					]
+				},
+				{
+					"url": "https://t.co/6F3KAEGcgz",
+					"expanded_url": "https://bit.ly/3lhd3vq",
+					"display_url": "bit.ly/3lhd3vq",
+					"indices": [
+						204,
+						227
+					]
+				},
+				{
+					"url": "https://t.co/xwaorFp3r5",
+					"expanded_url": "https://twitter.com/chungha_mnhent/status/1325670576413794305",
+					"display_url": "twitter.com/chungha_mnhent…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 986882185842966500,
+			"id_str": "986882185842966528",
+			"name": "CHUNG HA JAPAN OFFICIAL",
+			"screen_name": "chungha_japan",
+			"location": "",
+			"description": "#CHUNGHA JAPAN OFFICIAL Twitter",
+			"url": "https://t.co/MasTugaSJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MasTugaSJD",
+							"expanded_url": "http://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16783,
+			"friends_count": 2,
+			"listed_count": 158,
+			"created_at": "Thu Apr 19 08:20:23 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988221974169059328/l3d7G6Fx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988221974169059328/l3d7G6Fx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/986882185842966528/1603170240",
+			"profile_link_color": "BF83AB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1325670576413794300,
+		"quoted_status_id_str": "1325670576413794305",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xwaorFp3r5",
+			"expanded": "https://twitter.com/chungha_mnhent/status/1325670576413794305",
+			"display": "twitter.com/chungha_mnhent…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 09 05:24:29 +0000 2020",
+			"id": 1325670576413794300,
+			"id_str": "1325670576413794305",
+			"full_text": "[NOTICE] 💡CHUNG HA\n2021 SEASON'S GREETINGS 예약 판매가 시작되었습니다.\n\n위드드라마\n📍 https://t.co/4UEcERzWQK\n\n인터파크\n📍 https://t.co/Sh1jjhzz2Y\n\n알라딘 \n📍 https://t.co/X8Lr9RWtHw\n\n#청하 #CHUNGHA\n#2021_시즌그리팅",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				181
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "청하",
+						"indices": [
+							157,
+							160
+						]
+					},
+					{
+						"text": "CHUNGHA",
+						"indices": [
+							161,
+							169
+						]
+					},
+					{
+						"text": "2021_시즌그리팅",
+						"indices": [
+							170,
+							181
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4UEcERzWQK",
+						"expanded_url": "https://bit.ly/32r5RW4",
+						"display_url": "bit.ly/32r5RW4",
+						"indices": [
+							68,
+							91
+						]
+					},
+					{
+						"url": "https://t.co/Sh1jjhzz2Y",
+						"expanded_url": "https://bit.ly/2ImMMx1",
+						"display_url": "bit.ly/2ImMMx1",
+						"indices": [
+							100,
+							123
+						]
+					},
+					{
+						"url": "https://t.co/X8Lr9RWtHw",
+						"expanded_url": "https://bit.ly/3ldAypg",
+						"display_url": "bit.ly/3ldAypg",
+						"indices": [
+							132,
+							155
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1097557125742489600,
+				"id_str": "1097557125742489600",
+				"name": "CHUNG HA",
+				"screen_name": "CHUNGHA_MNHent",
+				"location": "",
+				"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/ZHcd08tZVb",
+				"url": "https://t.co/reTg513UFX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/reTg513UFX",
+								"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+								"display_url": "cafe.daum.net/MNH-Chungha",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ZHcd08tZVb",
+								"expanded_url": "https://bit.ly/2ZZWMlN",
+								"display_url": "bit.ly/2ZZWMlN",
+								"indices": [
+									31,
+									54
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 285447,
+				"friends_count": 0,
+				"listed_count": 1746,
+				"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1291,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 150,
+			"favorite_count": 785,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 7,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[NOTICE] 💡CHUNG HA\n2021 SEASON'S GREETINGS 予約販売が始まりました。\n\nwithdrama\n📍 https://t.co/ZBTsYBhMm1\nINTERPARK\n📍 https://t.co/rrak3K5Q8V\naladin\n📍 https://t.co/A7aLujasmn\nsynnara\n📍 https://t.co/YsjSaCfLJi\nYES24\n📍 https://t.co/6F3KAEGcgz\n\n#청하 #CHUNGHA\n#2021_시즌그리팅 https://t.co/xwaorFp3r5"
+	},
+	{
+		"created_at": "Mon Nov 09 06:21:13 +0000 2020",
+		"id": 1325684852516139000,
+		"id_str": "1325684852516139008",
+		"full_text": "#SMTOWN #Artist_News\n‘역솔남’ 태민 컴백 D-DAY! 정규 3집 ‘Never Gonna Dance Again : Act 2’ 발매!\nhttps://t.co/0Ik4tTcKDB\n#레드벨벳 #RedVelvet https://t.co/MiEW74xFW1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						114,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0Ik4tTcKDB",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/4186",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1325684851425546200,
+					"id_str": "1325684851425546240",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EmXHWT1WEAA8Wkf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmXHWT1WEAA8Wkf.jpg",
+					"url": "https://t.co/MiEW74xFW1",
+					"display_url": "pic.twitter.com/MiEW74xFW1",
+					"expanded_url": "https://twitter.com/fromminn/status/1325684852516139008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325684851425546200,
+					"id_str": "1325684851425546240",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EmXHWT1WEAA8Wkf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmXHWT1WEAA8Wkf.jpg",
+					"url": "https://t.co/MiEW74xFW1",
+					"display_url": "pic.twitter.com/MiEW74xFW1",
+					"expanded_url": "https://twitter.com/fromminn/status/1325684852516139008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44068,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n‘역솔남’ 태민 컴백 D-DAY! 정규 3집 ‘Never Gonna Dance Again : Act 2’ 발매!\nhttps://t.co/0Ik4tTcKDB\n#레드벨벳 #RedVelvet https://t.co/MiEW74xFW1"
+	},
+	{
 		"created_at": "Mon Nov 09 05:45:46 +0000 2020",
 		"id": 1325667784601165800,
 		"id_str": "1325675929402798086",
