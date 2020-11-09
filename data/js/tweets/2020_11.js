@@ -1,6 +1,96 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 09 12:45:37 +0000 2020",
+		"id": 1325769203605938200,
+		"id_str": "1325781587905163264",
+		"full_text": "★더쇼 244회 라인업★ AB6IX (에이비식스), CIX, D-CRUNCH(디크런치), DRIPPIN, JBJ95, MONSTA X, NTX (엔티엑스), P1Harmony, SECRET NUMBER, TOMORROW X TOGETHER, VERIVERY, 나띠, 다크비(DKB), 박지훈, 여자친구, 위클리, 이달의 소녀, 쪼꼬미 #THESHOW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THESHOW",
+					"indices": [
+						187,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 517295819,
+			"id_str": "517295819",
+			"name": "THE SHOW",
+			"screen_name": "sbsmtvtheshow",
+			"location": "",
+			"description": "SBS MTV THE SHOW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 856490,
+			"friends_count": 84,
+			"listed_count": 1374,
+			"created_at": "Wed Mar 07 06:49:30 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7049,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/517295819/1528422724",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 602,
+		"favorite_count": 2073,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "★더쇼 244회 라인업★ AB6IX (에이비식스), CIX, D-CRUNCH(디크런치), DRIPPIN, JBJ95, MONSTA X, NTX (엔티엑스), P1Harmony, SECRET NUMBER, TOMORROW X TOGETHER, VERIVERY, 나띠, 다크비(DKB), 박지훈, 여자친구, 위클리, 이달의 소녀, 쪼꼬미 #THESHOW"
+	},
+	{
 		"created_at": "Mon Nov 09 11:48:32 +0000 2020",
 		"id": 1325767224250994700,
 		"id_str": "1325767224250994690",
