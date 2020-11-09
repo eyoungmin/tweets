@@ -1,6 +1,494 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 09 10:27:05 +0000 2020",
+		"id": 1325613262164029400,
+		"id_str": "1325746725005430784",
+		"full_text": "🗳️2021 대한민국 퍼스트브랜드 대상 투표시작!\n\n2021년을 이끌어갈, 기대되는 \n여자아이돌에 투표해주세요!\n\n📅투표기간 : 2020. 11. 9 (월) - 11. 20 (금)\n\n#대한민국퍼스트브랜드대상\n#여자아이돌\n#BLACKPINK #오마이걸 #TWICE #여자친구\n#블랙핑크 #OH_MY_GIRL #트와이스 #GFRIEND https://t.co/gmphz2vAdh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "대한민국퍼스트브랜드대상",
+					"indices": [
+						102,
+						115
+					]
+				},
+				{
+					"text": "여자아이돌",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						123,
+						133
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "TWICE",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "여자친구",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "OH_MY_GIRL",
+					"indices": [
+						159,
+						170
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						171,
+						176
+					]
+				},
+				{
+					"text": "GFRIEND",
+					"indices": [
+						177,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1325612917832642600,
+					"id_str": "1325612917832642562",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EmWF7OUVcAISa1I.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EmWF7OUVcAISa1I.jpg",
+					"url": "https://t.co/gmphz2vAdh",
+					"display_url": "pic.twitter.com/gmphz2vAdh",
+					"expanded_url": "https://twitter.com/kcforum/status/1325613262164029441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 673,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1820,
+							"h": 1020,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325612917832642600,
+					"id_str": "1325612917832642562",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EmWF7OUVcAISa1I.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EmWF7OUVcAISa1I.jpg",
+					"url": "https://t.co/gmphz2vAdh",
+					"display_url": "pic.twitter.com/gmphz2vAdh",
+					"expanded_url": "https://twitter.com/kcforum/status/1325613262164029441/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 673,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1820,
+							"h": 1020,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							91,
+							51
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EmWF7OUVcAISa1I.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 830166229,
+			"id_str": "830166229",
+			"name": "한국소비자포럼",
+			"screen_name": "kcforum",
+			"location": "",
+			"description": "한국소비자포럼의 Official 계정입니다\n#올해의브랜드대상 #대한민국퍼스트브랜드대상 #브랜드고객충성도대상\n\n2021 대한민국 퍼스트브랜드 대상 \n2021년을 이끌어갈, 기대되는 브랜드에 투표해주세요! ▽",
+			"url": "https://t.co/wLOajAxHIO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wLOajAxHIO",
+							"expanded_url": "http://fba.kcforum.co.kr/2021/research",
+							"display_url": "fba.kcforum.co.kr/2021/research",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2275,
+			"friends_count": 0,
+			"listed_count": 9,
+			"created_at": "Tue Sep 18 01:40:27 +0000 2012",
+			"favourites_count": 3064,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8692,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1187218075902337024/yXIkYE_n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187218075902337024/yXIkYE_n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/830166229/1571889915",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1762,
+		"favorite_count": 7541,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🗳️2021 대한민국 퍼스트브랜드 대상 투표시작!\n\n2021년을 이끌어갈, 기대되는 \n여자아이돌에 투표해주세요!\n\n📅투표기간 : 2020. 11. 9 (월) - 11. 20 (금)\n\n#대한민국퍼스트브랜드대상\n#여자아이돌\n#BLACKPINK #오마이걸 #TWICE #여자친구\n#블랙핑크 #OH_MY_GIRL #트와이스 #GFRIEND https://t.co/gmphz2vAdh"
+	},
+	{
+		"created_at": "Mon Nov 09 10:19:39 +0000 2020",
+		"id": 1325744855365152800,
+		"id_str": "1325744855365152768",
+		"full_text": "#작사가 #황현 #신곡알리미\n여자친구 (GFRIEND) - Apple | 回:Walpurgis Night\nhttps://t.co/pwjhxnmK0i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "작사가",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "황현",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "신곡알리미",
+					"indices": [
+						9,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pwjhxnmK0i",
+					"expanded_url": "https://www.melon.com/song/detail.htm?songId=33048564",
+					"display_url": "melon.com/song/detail.ht…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44068,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#작사가 #황현 #신곡알리미\n여자친구 (GFRIEND) - Apple | 回:Walpurgis Night\nhttps://t.co/pwjhxnmK0i"
+	},
+	{
+		"created_at": "Mon Nov 09 10:19:38 +0000 2020",
+		"id": 1325744852282323000,
+		"id_str": "1325744852282322945",
+		"full_text": "#작사가 #황현 #신곡알리미\n여자친구 (GFRIEND) - 앞면의 뒷면의 뒷면 | 回:Walpurgis Night\nhttps://t.co/YsleL8HFRz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "작사가",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "황현",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "신곡알리미",
+					"indices": [
+						9,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YsleL8HFRz",
+					"expanded_url": "https://www.melon.com/song/detail.htm?songId=33048567",
+					"display_url": "melon.com/song/detail.ht…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44068,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#작사가 #황현 #신곡알리미\n여자친구 (GFRIEND) - 앞면의 뒷면의 뒷면 | 回:Walpurgis Night\nhttps://t.co/YsleL8HFRz"
+	},
+	{
 		"created_at": "Mon Nov 09 09:45:37 +0000 2020",
 		"id": 1325721344651088000,
 		"id_str": "1325736289841385472",
