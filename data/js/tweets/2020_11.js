@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 09 14:45:36 +0000 2020",
+		"id": 1325800325538705400,
+		"id_str": "1325811786667487232",
+		"full_text": "[#딩고뮤직] 딩고는 몰랐습니다,, #이달의소녀 가 이렇게까지 마피아에 진심일 줄은,,🔥🔥 역대급 심리게임 펼치는 마피아 과몰입러들,, 딩고는 이제 달소가 무서워요😭😭😭\n@loonatheworld\n\n&gt;&gt; 마피아댄스_이달소 비하인드🌕 \nhttps://t.co/Be26WJ5Psi\n\n#dingo #MAFIADANCE\n#LOONA #Midnight #Why_Not https://t.co/ER7ws5sjQZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "dingo",
+					"indices": [
+						162,
+						168
+					]
+				},
+				{
+					"text": "MAFIADANCE",
+					"indices": [
+						169,
+						180
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						181,
+						187
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						188,
+						197
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						198,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						95,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Be26WJ5Psi",
+					"expanded_url": "http://youtu.be/t_N39LGv_5g",
+					"display_url": "youtu.be/t_N39LGv_5g",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1325800317867315200,
+					"id_str": "1325800317867315202",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/EmYwXV2U0AIPunX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmYwXV2U0AIPunX.jpg",
+					"url": "https://t.co/ER7ws5sjQZ",
+					"display_url": "pic.twitter.com/ER7ws5sjQZ",
+					"expanded_url": "https://twitter.com/dingo_official/status/1325800325538705408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325800317867315200,
+					"id_str": "1325800317867315202",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/EmYwXV2U0AIPunX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmYwXV2U0AIPunX.jpg",
+					"url": "https://t.co/ER7ws5sjQZ",
+					"display_url": "pic.twitter.com/ER7ws5sjQZ",
+					"expanded_url": "https://twitter.com/dingo_official/status/1325800325538705408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 936446104136065000,
+			"id_str": "936446104136065024",
+			"name": "dingo(딩고)",
+			"screen_name": "dingo_official",
+			"location": "",
+			"description": "딩고봇이 운영하는 #딩고 오피셜 계정입니다. 딩고봇은 리트윗🔁이랑 마음❤️ 좋아해!",
+			"url": "https://t.co/kDZqCE1lkP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kDZqCE1lkP",
+							"expanded_url": "https://www.facebook.com/dingo.officialpage.kr/",
+							"display_url": "facebook.com/dingo.official…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 121425,
+			"friends_count": 0,
+			"listed_count": 119,
+			"created_at": "Fri Dec 01 04:05:24 +0000 2017",
+			"favourites_count": 14770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/936446429056319488/H6yq7tt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936446429056319488/H6yq7tt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/936446104136065024/1515406506",
+			"profile_link_color": "FF3823",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 370,
+		"favorite_count": 937,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#딩고뮤직] 딩고는 몰랐습니다,, #이달의소녀 가 이렇게까지 마피아에 진심일 줄은,,🔥🔥 역대급 심리게임 펼치는 마피아 과몰입러들,, 딩고는 이제 달소가 무서워요😭😭😭\n@loonatheworld\n\n&gt;&gt; 마피아댄스_이달소 비하인드🌕 \nhttps://t.co/Be26WJ5Psi\n\n#dingo #MAFIADANCE\n#LOONA #Midnight #Why_Not https://t.co/ER7ws5sjQZ"
+	},
+	{
 		"created_at": "Mon Nov 09 13:31:17 +0000 2020",
 		"id": 1325793084223926300,
 		"id_str": "1325793084223926273",
