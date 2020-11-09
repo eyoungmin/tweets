@@ -1,6 +1,534 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 09 16:11:25 +0000 2020",
+		"id": 1325805538274238500,
+		"id_str": "1325833381653831683",
+		"full_text": "https://t.co/qIhQwDf7wn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1325805532062478300,
+					"id_str": "1325805532062478337",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EmY1G2PU8AEJRfG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmY1G2PU8AEJRfG.jpg",
+					"url": "https://t.co/qIhQwDf7wn",
+					"display_url": "pic.twitter.com/qIhQwDf7wn",
+					"expanded_url": "https://twitter.com/dingo_official/status/1325805538274238469/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325805532062478300,
+					"id_str": "1325805532062478337",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EmY1G2PU8AEJRfG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmY1G2PU8AEJRfG.jpg",
+					"url": "https://t.co/qIhQwDf7wn",
+					"display_url": "pic.twitter.com/qIhQwDf7wn",
+					"expanded_url": "https://twitter.com/dingo_official/status/1325805538274238469/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1325805532247060500,
+					"id_str": "1325805532247060483",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EmY1G27VcAMRwrF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmY1G27VcAMRwrF.jpg",
+					"url": "https://t.co/qIhQwDf7wn",
+					"display_url": "pic.twitter.com/qIhQwDf7wn",
+					"expanded_url": "https://twitter.com/dingo_official/status/1325805538274238469/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1325805532582568000,
+					"id_str": "1325805532582567937",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EmY1G4LU4AE9WNd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmY1G4LU4AE9WNd.jpg",
+					"url": "https://t.co/qIhQwDf7wn",
+					"display_url": "pic.twitter.com/qIhQwDf7wn",
+					"expanded_url": "https://twitter.com/dingo_official/status/1325805538274238469/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1325805532662255600,
+					"id_str": "1325805532662255622",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EmY1G4eU0AYEoda.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmY1G4eU0AYEoda.jpg",
+					"url": "https://t.co/qIhQwDf7wn",
+					"display_url": "pic.twitter.com/qIhQwDf7wn",
+					"expanded_url": "https://twitter.com/dingo_official/status/1325805538274238469/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1325805488500437000,
+		"in_reply_to_status_id_str": "1325805488500436993",
+		"in_reply_to_user_id": 936446104136065000,
+		"in_reply_to_user_id_str": "936446104136065024",
+		"in_reply_to_screen_name": "dingo_official",
+		"user": {
+			"id": 936446104136065000,
+			"id_str": "936446104136065024",
+			"name": "dingo(딩고)",
+			"screen_name": "dingo_official",
+			"location": "",
+			"description": "딩고봇이 운영하는 #딩고 오피셜 계정입니다. 딩고봇은 리트윗🔁이랑 마음❤️ 좋아해!",
+			"url": "https://t.co/kDZqCE1lkP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kDZqCE1lkP",
+							"expanded_url": "https://www.facebook.com/dingo.officialpage.kr/",
+							"display_url": "facebook.com/dingo.official…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 121443,
+			"friends_count": 0,
+			"listed_count": 119,
+			"created_at": "Fri Dec 01 04:05:24 +0000 2017",
+			"favourites_count": 14770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/936446429056319488/H6yq7tt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936446429056319488/H6yq7tt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/936446104136065024/1515406506",
+			"profile_link_color": "FF3823",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 454,
+		"favorite_count": 1375,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/qIhQwDf7wn"
+	},
+	{
+		"created_at": "Mon Nov 09 16:11:23 +0000 2020",
+		"id": 1325805488500437000,
+		"id_str": "1325833370857738242",
+		"full_text": "https://t.co/sw0EI9LlVX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1325805483660177400,
+					"id_str": "1325805483660177410",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EmY1EB7UcAIVwEo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmY1EB7UcAIVwEo.jpg",
+					"url": "https://t.co/sw0EI9LlVX",
+					"display_url": "pic.twitter.com/sw0EI9LlVX",
+					"expanded_url": "https://twitter.com/dingo_official/status/1325805488500436993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325805483660177400,
+					"id_str": "1325805483660177410",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EmY1EB7UcAIVwEo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmY1EB7UcAIVwEo.jpg",
+					"url": "https://t.co/sw0EI9LlVX",
+					"display_url": "pic.twitter.com/sw0EI9LlVX",
+					"expanded_url": "https://twitter.com/dingo_official/status/1325805488500436993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1325805483828027400,
+					"id_str": "1325805483828027392",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EmY1ECjVoAAkcRb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmY1ECjVoAAkcRb.jpg",
+					"url": "https://t.co/sw0EI9LlVX",
+					"display_url": "pic.twitter.com/sw0EI9LlVX",
+					"expanded_url": "https://twitter.com/dingo_official/status/1325805488500436993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1325805484050280400,
+					"id_str": "1325805484050280453",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EmY1EDYU8AUNvP0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmY1EDYU8AUNvP0.jpg",
+					"url": "https://t.co/sw0EI9LlVX",
+					"display_url": "pic.twitter.com/sw0EI9LlVX",
+					"expanded_url": "https://twitter.com/dingo_official/status/1325805488500436993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1325805415670583300,
+		"in_reply_to_status_id_str": "1325805415670583296",
+		"in_reply_to_user_id": 936446104136065000,
+		"in_reply_to_user_id_str": "936446104136065024",
+		"in_reply_to_screen_name": "dingo_official",
+		"user": {
+			"id": 936446104136065000,
+			"id_str": "936446104136065024",
+			"name": "dingo(딩고)",
+			"screen_name": "dingo_official",
+			"location": "",
+			"description": "딩고봇이 운영하는 #딩고 오피셜 계정입니다. 딩고봇은 리트윗🔁이랑 마음❤️ 좋아해!",
+			"url": "https://t.co/kDZqCE1lkP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kDZqCE1lkP",
+							"expanded_url": "https://www.facebook.com/dingo.officialpage.kr/",
+							"display_url": "facebook.com/dingo.official…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 121443,
+			"friends_count": 0,
+			"listed_count": 119,
+			"created_at": "Fri Dec 01 04:05:24 +0000 2017",
+			"favourites_count": 14770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/936446429056319488/H6yq7tt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936446429056319488/H6yq7tt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/936446104136065024/1515406506",
+			"profile_link_color": "FF3823",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 422,
+		"favorite_count": 1269,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/sw0EI9LlVX"
+	},
+	{
 		"created_at": "Mon Nov 09 15:27:05 +0000 2020",
 		"id": 1325815528980586500,
 		"id_str": "1325822222234247168",
