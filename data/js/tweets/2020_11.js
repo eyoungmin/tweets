@@ -1,6 +1,880 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 09 07:45:46 +0000 2020",
+		"id": 1325705443415478300,
+		"id_str": "1325706128395792384",
+		"full_text": "[KCON:TACT season 2] FanPick Cam Notice\n\nKCON:TACT PLUS のメンバーは FanPick CAM Hightlights of #VERIVERY #AB6IX #HASUNGWOON #KIMJAEHWAN #PARKJIHOON #CLC #GHOST9 #LOONA #MAMAMOO #TOO を今利用することが出来ます。\n\n▶ KCON official: https://t.co/tIeuk7dsWR\n\n#KCON #KCONTACT https://t.co/q9F2DHQhMZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VERIVERY",
+					"indices": [
+						90,
+						99
+					]
+				},
+				{
+					"text": "AB6IX",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "HASUNGWOON",
+					"indices": [
+						107,
+						118
+					]
+				},
+				{
+					"text": "KIMJAEHWAN",
+					"indices": [
+						119,
+						130
+					]
+				},
+				{
+					"text": "PARKJIHOON",
+					"indices": [
+						131,
+						142
+					]
+				},
+				{
+					"text": "CLC",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "GHOST9",
+					"indices": [
+						148,
+						155
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "MAMAMOO",
+					"indices": [
+						163,
+						171
+					]
+				},
+				{
+					"text": "TOO",
+					"indices": [
+						172,
+						176
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						235,
+						240
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						241,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tIeuk7dsWR",
+					"expanded_url": "https://url.kr/hIYlce",
+					"display_url": "url.kr/hIYlce",
+					"indices": [
+						210,
+						233
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1325705430970953700,
+					"id_str": "1325705430970953729",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/EmXaEMnUcAE9JGu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmXaEMnUcAE9JGu.jpg",
+					"url": "https://t.co/q9F2DHQhMZ",
+					"display_url": "pic.twitter.com/q9F2DHQhMZ",
+					"expanded_url": "https://twitter.com/kconjapan/status/1325705443415478272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325705430970953700,
+					"id_str": "1325705430970953729",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/EmXaEMnUcAE9JGu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmXaEMnUcAE9JGu.jpg",
+					"url": "https://t.co/q9F2DHQhMZ",
+					"display_url": "pic.twitter.com/q9F2DHQhMZ",
+					"expanded_url": "https://twitter.com/kconjapan/status/1325705443415478272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3017029196,
+			"id_str": "3017029196",
+			"name": "KCON Japan",
+			"screen_name": "kconjapan",
+			"location": "",
+			"description": "世界最大級のK-Cultureフェスティバル『KCON JAPAN』の公式Twitterです！",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 144033,
+			"friends_count": 107,
+			"listed_count": 293,
+			"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5ABB5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1319608416772313088/pR1wFjNU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1319608416772313088/pR1wFjNU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1603960405",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[KCON:TACT season 2] FanPick Cam Notice\n\nKCON:TACT PLUS のメンバーは FanPick CAM Hightlights of #VERIVERY #AB6IX #HASUNGWOON #KIMJAEHWAN #PARKJIHOON #CLC #GHOST9 #LOONA #MAMAMOO #TOO を今利用することが出来ます。\n\n▶ KCON official: https://t.co/tIeuk7dsWR\n\n#KCON #KCONTACT https://t.co/q9F2DHQhMZ"
+	},
+	{
+		"created_at": "Mon Nov 09 07:45:39 +0000 2020",
+		"id": 1325705329733103600,
+		"id_str": "1325706102655377408",
+		"full_text": "[KCON:TACT season 2] FanPick Cam Notice\n\nFanPick CAM Highlight VODs of #VERIVERY #AB6IX #HASUNGWOON #KIMJAEHWAN #PARKJIHOON #CLC #GHOST9 #LOONA #MAMAMOO and #TOO are available for KCON:TACT PLUS Membership \n\n▶ KCON official: https://t.co/prxjpioGTH\n\n#KCON #LetsKCON #KCONTACT https://t.co/k5lQ3HcRjx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VERIVERY",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"text": "AB6IX",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "HASUNGWOON",
+					"indices": [
+						88,
+						99
+					]
+				},
+				{
+					"text": "KIMJAEHWAN",
+					"indices": [
+						100,
+						111
+					]
+				},
+				{
+					"text": "PARKJIHOON",
+					"indices": [
+						112,
+						123
+					]
+				},
+				{
+					"text": "CLC",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "GHOST9",
+					"indices": [
+						129,
+						136
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						137,
+						143
+					]
+				},
+				{
+					"text": "MAMAMOO",
+					"indices": [
+						144,
+						152
+					]
+				},
+				{
+					"text": "TOO",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						250,
+						255
+					]
+				},
+				{
+					"text": "LetsKCON",
+					"indices": [
+						256,
+						265
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						266,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/prxjpioGTH",
+					"expanded_url": "https://url.kr/hIYlce",
+					"display_url": "url.kr/hIYlce",
+					"indices": [
+						225,
+						248
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1325705309717868500,
+					"id_str": "1325705309717868546",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EmXZ9I6VMAIZkef.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmXZ9I6VMAIZkef.jpg",
+					"url": "https://t.co/k5lQ3HcRjx",
+					"display_url": "pic.twitter.com/k5lQ3HcRjx",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1325705329733103616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325705309717868500,
+					"id_str": "1325705309717868546",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EmXZ9I6VMAIZkef.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmXZ9I6VMAIZkef.jpg",
+					"url": "https://t.co/k5lQ3HcRjx",
+					"display_url": "pic.twitter.com/k5lQ3HcRjx",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1325705329733103616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1325705309717852200,
+					"id_str": "1325705309717852161",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EmXZ9I6U8AEIAXr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmXZ9I6U8AEIAXr.jpg",
+					"url": "https://t.co/k5lQ3HcRjx",
+					"display_url": "pic.twitter.com/k5lQ3HcRjx",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1325705329733103616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301152,
+			"friends_count": 67,
+			"listed_count": 902,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 119,
+		"favorite_count": 245,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT season 2] FanPick Cam Notice\n\nFanPick CAM Highlight VODs of #VERIVERY #AB6IX #HASUNGWOON #KIMJAEHWAN #PARKJIHOON #CLC #GHOST9 #LOONA #MAMAMOO and #TOO are available for KCON:TACT PLUS Membership \n\n▶ KCON official: https://t.co/prxjpioGTH\n\n#KCON #LetsKCON #KCONTACT https://t.co/k5lQ3HcRjx"
+	},
+	{
+		"created_at": "Mon Nov 09 07:45:36 +0000 2020",
+		"id": 1325692153276739600,
+		"id_str": "1325706089606811649",
+		"full_text": "201107🔍[예능연구소 세로캠] \n#쇼음악중심 #음중 #둘째이모김다비 #이달의소녀 #LOONA #주라주라 @loonatheworld\n\n#희진 ▶ https://t.co/Ns6dom9dOE\n#츄 ▶ https://t.co/EnYlju1xZM\n#김립 ▶ https://t.co/MY4rK9PHBX\n#김다비 ▶ https://t.co/japJ9A4q7j https://t.co/d2bSWBGjkQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "음중",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "둘째이모김다비",
+					"indices": [
+						31,
+						39
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						47,
+						53
+					]
+				},
+				{
+					"text": "주라주라",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						106,
+						108
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "김다비",
+					"indices": [
+						165,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						60,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ns6dom9dOE",
+					"expanded_url": "https://youtu.be/IRhhfksHAVg",
+					"display_url": "youtu.be/IRhhfksHAVg",
+					"indices": [
+						82,
+						105
+					]
+				},
+				{
+					"url": "https://t.co/EnYlju1xZM",
+					"expanded_url": "https://youtu.be/V14IHvmzxuI",
+					"display_url": "youtu.be/V14IHvmzxuI",
+					"indices": [
+						111,
+						134
+					]
+				},
+				{
+					"url": "https://t.co/MY4rK9PHBX",
+					"expanded_url": "https://youtu.be/f2H2_PI7ygc",
+					"display_url": "youtu.be/f2H2_PI7ygc",
+					"indices": [
+						141,
+						164
+					]
+				},
+				{
+					"url": "https://t.co/japJ9A4q7j",
+					"expanded_url": "https://youtu.be/AW0UxR_S-zY",
+					"display_url": "youtu.be/AW0UxR_S-zY",
+					"indices": [
+						172,
+						195
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1325692022670254000,
+					"id_str": "1325692022670254083",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EmXN3uzUYAMZBy-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmXN3uzUYAMZBy-.jpg",
+					"url": "https://t.co/d2bSWBGjkQ",
+					"display_url": "pic.twitter.com/d2bSWBGjkQ",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1325692153276739585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325692022670254000,
+					"id_str": "1325692022670254083",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EmXN3uzUYAMZBy-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmXN3uzUYAMZBy-.jpg",
+					"url": "https://t.co/d2bSWBGjkQ",
+					"display_url": "pic.twitter.com/d2bSWBGjkQ",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1325692153276739585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 849396,
+			"friends_count": 5,
+			"listed_count": 812,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 147,
+		"favorite_count": 351,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "201107🔍[예능연구소 세로캠] \n#쇼음악중심 #음중 #둘째이모김다비 #이달의소녀 #LOONA #주라주라 @loonatheworld\n\n#희진 ▶ https://t.co/Ns6dom9dOE\n#츄 ▶ https://t.co/EnYlju1xZM\n#김립 ▶ https://t.co/MY4rK9PHBX\n#김다비 ▶ https://t.co/japJ9A4q7j https://t.co/d2bSWBGjkQ"
+	},
+	{
 		"created_at": "Mon Nov 09 06:45:36 +0000 2020",
 		"id": 1325679520972644400,
 		"id_str": "1325690989831483392",
