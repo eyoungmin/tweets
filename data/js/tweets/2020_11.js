@@ -1,6 +1,1594 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 09 09:45:37 +0000 2020",
+		"id": 1325721344651088000,
+		"id_str": "1325736289841385472",
+		"full_text": "쇼챔피언 퇴근길 LIVE &lt;수고했어, 오늘도☕&gt; \n\nMORE\n📸https://t.co/T8vtymISqw\n📹https://t.co/z8SHsBFWCa\n@look_idol\n@loonatheworld\n \n#내심장어덕행 #이달의소녀 #LOONA \n#Midnight #Why_Not https://t.co/FQhMNpVfek",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "내심장어덕행",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						141,
+						150
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						151,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "look_idol",
+					"name": "엠스플 연예(look_idol)",
+					"id": 1002716961086660600,
+					"id_str": "1002716961086660608",
+					"indices": [
+						90,
+						100
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						101,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/T8vtymISqw",
+					"expanded_url": "http://goo.gl/Xg7HZ1",
+					"display_url": "goo.gl/Xg7HZ1",
+					"indices": [
+						41,
+						64
+					]
+				},
+				{
+					"url": "https://t.co/z8SHsBFWCa",
+					"expanded_url": "https://youtu.be/N4GFz-GOEWw",
+					"display_url": "youtu.be/N4GFz-GOEWw",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1325720752130195500,
+					"id_str": "1325720752130195458",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EmXoAAYVgAINfZY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmXoAAYVgAINfZY.jpg",
+					"url": "https://t.co/FQhMNpVfek",
+					"display_url": "pic.twitter.com/FQhMNpVfek",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1325721344651087872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1577,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 924,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 523,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325720752130195500,
+					"id_str": "1325720752130195458",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EmXoAAYVgAINfZY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmXoAAYVgAINfZY.jpg",
+					"url": "https://t.co/FQhMNpVfek",
+					"display_url": "pic.twitter.com/FQhMNpVfek",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1325721344651087872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1577,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 924,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 523,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1325720752134369300,
+					"id_str": "1325720752134369280",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EmXoAAZVMAA_Vkq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmXoAAZVMAA_Vkq.jpg",
+					"url": "https://t.co/FQhMNpVfek",
+					"display_url": "pic.twitter.com/FQhMNpVfek",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1325721344651087872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2027,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1187,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 673,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1325720752138584000,
+					"id_str": "1325720752138584064",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EmXoAAaVgAAfT6C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmXoAAaVgAAfT6C.jpg",
+					"url": "https://t.co/FQhMNpVfek",
+					"display_url": "pic.twitter.com/FQhMNpVfek",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1325721344651087872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 888,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 503,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1516,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/YpjchEd2rf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YpjchEd2rf",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61684,
+			"friends_count": 2497,
+			"listed_count": 244,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6015,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 126,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "쇼챔피언 퇴근길 LIVE &lt;수고했어, 오늘도☕&gt; \n\nMORE\n📸https://t.co/T8vtymISqw\n📹https://t.co/z8SHsBFWCa\n@look_idol\n@loonatheworld\n \n#내심장어덕행 #이달의소녀 #LOONA \n#Midnight #Why_Not https://t.co/FQhMNpVfek"
+	},
+	{
+		"created_at": "Mon Nov 09 09:28:04 +0000 2020",
+		"id": 1325724814947078100,
+		"id_str": "1325731872794619905",
+		"full_text": "♫ #VOLUME_UP\n#스타트업 scene.14\n\n오늘 저녁 내 모습.future\n❝레드벨벳 - 미래❞ 들으며 \n잣칼국수🍲 호로록!\n\n⏩ 스타트업 OST Part.1 Red Velvet (레드벨벳) - 미래\n🎵 음원 : https://t.co/7zgTQQj5i4\n\n#스타트업OST #미래 #레드벨벳 #RedVelvet #배수지 #남주혁 #김선호 #강한나 https://t.co/RkH2F7lMIZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VOLUME_UP",
+					"indices": [
+						2,
+						12
+					]
+				},
+				{
+					"text": "스타트업",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "스타트업OST",
+					"indices": [
+						149,
+						157
+					]
+				},
+				{
+					"text": "미래",
+					"indices": [
+						158,
+						161
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						168,
+						178
+					]
+				},
+				{
+					"text": "배수지",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "남주혁",
+					"indices": [
+						184,
+						188
+					]
+				},
+				{
+					"text": "김선호",
+					"indices": [
+						189,
+						193
+					]
+				},
+				{
+					"text": "강한나",
+					"indices": [
+						194,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7zgTQQj5i4",
+					"expanded_url": "http://lnk.to/startup-ost-1",
+					"display_url": "lnk.to/startup-ost-1",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1325644168262152200,
+					"id_str": "1325644168262152192",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EmWjp-0VkAEVWBC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmWjp-0VkAEVWBC.jpg",
+					"url": "https://t.co/RkH2F7lMIZ",
+					"display_url": "pic.twitter.com/RkH2F7lMIZ",
+					"expanded_url": "https://twitter.com/vlending/status/1325724814947078144/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325644168262152200,
+					"id_str": "1325644168262152192",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EmWjp-0VkAEVWBC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmWjp-0VkAEVWBC.jpg",
+					"url": "https://t.co/RkH2F7lMIZ",
+					"display_url": "pic.twitter.com/RkH2F7lMIZ",
+					"expanded_url": "https://twitter.com/vlending/status/1325724814947078144/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 78312,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1325644168262152192/vid/640x360/BA11qXuL7llESq-N.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1325644168262152192/vid/480x270/bQPuLz4wURLCRiL4.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1325644168262152192/pl/ZbszD-LGuDdZlOom.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1325644168262152192/vid/1280x720/Y2urzVVwAF7twRAi.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 875207914503364600,
+			"id_str": "875207914503364609",
+			"name": "VLENDING (블렌딩)",
+			"screen_name": "vlending",
+			"location": "",
+			"description": "'보는 음악, 함께하는 음악' 블렌딩은 드라마 OST, 예능 음원, Kpop, 인디 아티스트 음원을 제작하고 유통합니다.",
+			"url": "https://t.co/Qa4COCxXM9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qa4COCxXM9",
+							"expanded_url": "http://youtube.com/vlending",
+							"display_url": "youtube.com/vlending",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2980,
+			"friends_count": 13,
+			"listed_count": 9,
+			"created_at": "Thu Jun 15 04:26:42 +0000 2017",
+			"favourites_count": 91,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 983,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194910045206499333/ZPa5QJXO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194910045206499333/ZPa5QJXO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/875207914503364609/1602039530",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 106,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "♫ #VOLUME_UP\n#스타트업 scene.14\n\n오늘 저녁 내 모습.future\n❝레드벨벳 - 미래❞ 들으며 \n잣칼국수🍲 호로록!\n\n⏩ 스타트업 OST Part.1 Red Velvet (레드벨벳) - 미래\n🎵 음원 : https://t.co/7zgTQQj5i4\n\n#스타트업OST #미래 #레드벨벳 #RedVelvet #배수지 #남주혁 #김선호 #강한나 https://t.co/RkH2F7lMIZ"
+	},
+	{
+		"created_at": "Mon Nov 09 09:27:56 +0000 2020",
+		"id": 1325716876626862000,
+		"id_str": "1325731842901880832",
+		"full_text": "[EN] 수현이가 ‘ALIEN’으로 나타났어요!! 👽(ft.이찬혁)  '예리한 방' [EP.21-1] \n\n👉🏻 https://t.co/ZM8ZYehvEt \n\n#예리 #YERI #레드벨벳 #RedVelvet #수현 #ALIEN #AKMU #예리한방",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						104,
+						114
+					]
+				},
+				{
+					"text": "수현",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "ALIEN",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "AKMU",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						132,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZM8ZYehvEt",
+					"expanded_url": "https://youtu.be/AbPoTD8Hlhs",
+					"display_url": "youtu.be/AbPoTD8Hlhs",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3384465,
+			"friends_count": 1,
+			"listed_count": 6966,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2301,
+		"favorite_count": 8394,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EN] 수현이가 ‘ALIEN’으로 나타났어요!! 👽(ft.이찬혁)  '예리한 방' [EP.21-1] \n\n👉🏻 https://t.co/ZM8ZYehvEt \n\n#예리 #YERI #레드벨벳 #RedVelvet #수현 #ALIEN #AKMU #예리한방"
+	},
+	{
+		"created_at": "Mon Nov 09 09:27:27 +0000 2020",
+		"id": 1325730644756885500,
+		"id_str": "1325731719606128640",
+		"full_text": "여자친구 (GFRIEND) '回:Walpurgis Night' Released!\nhttps://t.co/4yVAcZp1wY https://t.co/71CQq5n3Uf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4yVAcZp1wY",
+					"expanded_url": "https://www.facebook.com/942907422391026/posts/4075384005810003/",
+					"display_url": "facebook.com/94290742239102…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1325730610652983300,
+					"id_str": "1325730610652983297",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EmXw92PVMAE-jub.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmXw92PVMAE-jub.jpg",
+					"url": "https://t.co/71CQq5n3Uf",
+					"display_url": "pic.twitter.com/71CQq5n3Uf",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1325730644756885505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325730610652983300,
+					"id_str": "1325730610652983297",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EmXw92PVMAE-jub.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmXw92PVMAE-jub.jpg",
+					"url": "https://t.co/71CQq5n3Uf",
+					"display_url": "pic.twitter.com/71CQq5n3Uf",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1325730644756885505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/MUo7s9YgJw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MUo7s9YgJw",
+							"expanded_url": "https://www.monotreemusic.com/",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6754,
+			"friends_count": 0,
+			"listed_count": 49,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 248,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여자친구 (GFRIEND) '回:Walpurgis Night' Released!\nhttps://t.co/4yVAcZp1wY https://t.co/71CQq5n3Uf"
+	},
+	{
+		"created_at": "Mon Nov 09 09:27:20 +0000 2020",
+		"id": 1325730119047024600,
+		"id_str": "1325731689394532352",
+		"full_text": "Please check out the BLACKPINK members' #playlist\nYou can only listen on @Spotify! \n\nJISOO: https://t.co/B7ID26yhU7\nJENNIE: https://t.co/bQZQfTTrvL\nROSÉ: https://t.co/fjei9NJtuF\nLISA: https://t.co/M6VE3BWo8U\n\n#BLACKPINK #블랙핑크 #JISOO #JENNIE #ROSÉ #LISA #Spotify #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "playlist",
+					"indices": [
+						40,
+						49
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						209,
+						219
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						220,
+						225
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						226,
+						232
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						233,
+						240
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						241,
+						246
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						247,
+						252
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						253,
+						261
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						262,
+						265
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						73,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/B7ID26yhU7",
+					"expanded_url": "http://spoti.fi/32tGO4G",
+					"display_url": "spoti.fi/32tGO4G",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/bQZQfTTrvL",
+					"expanded_url": "http://spoti.fi/2U9ivVi",
+					"display_url": "spoti.fi/2U9ivVi",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/fjei9NJtuF",
+					"expanded_url": "http://spoti.fi/3kdWPli",
+					"display_url": "spoti.fi/3kdWPli",
+					"indices": [
+						154,
+						177
+					]
+				},
+				{
+					"url": "https://t.co/M6VE3BWo8U",
+					"expanded_url": "http://spoti.fi/3kacZvZ",
+					"display_url": "spoti.fi/3kacZvZ",
+					"indices": [
+						184,
+						207
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/mhaOteBGUV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mhaOteBGUV",
+							"expanded_url": "https://youtu.be/dyRsYk0LyA8",
+							"display_url": "youtu.be/dyRsYk0LyA8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2499785,
+			"friends_count": 0,
+			"listed_count": 3203,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1601491826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7751,
+		"favorite_count": 27784,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please check out the BLACKPINK members' #playlist\nYou can only listen on @Spotify! \n\nJISOO: https://t.co/B7ID26yhU7\nJENNIE: https://t.co/bQZQfTTrvL\nROSÉ: https://t.co/fjei9NJtuF\nLISA: https://t.co/M6VE3BWo8U\n\n#BLACKPINK #블랙핑크 #JISOO #JENNIE #ROSÉ #LISA #Spotify #YG"
+	},
+	{
+		"created_at": "Mon Nov 09 09:27:17 +0000 2020",
+		"id": 1325727231528771600,
+		"id_str": "1325731676287348737",
+		"full_text": "#SuperStarYG #BLACKPINK - Don`t Know What To Do updated!\n\nClear missions for new limited theme cards\nand #BLACKPINK My Lobby BG IMAGE rewards!\n\nNew profiles for sale during the event period as well!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SuperStarYG",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						105,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1325727206769782800,
+		"in_reply_to_status_id_str": "1325727206769782784",
+		"in_reply_to_user_id": 1288715338679386000,
+		"in_reply_to_user_id_str": "1288715338679386112",
+		"in_reply_to_screen_name": "SuperStar_YG",
+		"user": {
+			"id": 1288715338679386000,
+			"id_str": "1288715338679386112",
+			"name": "SuperStarYG",
+			"screen_name": "SuperStar_YG",
+			"location": "",
+			"description": "https://t.co/RF1TeBc78K",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RF1TeBc78K",
+							"expanded_url": "https://bit.ly/3kYfsuR",
+							"display_url": "bit.ly/3kYfsuR",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 48192,
+			"friends_count": 26,
+			"listed_count": 41,
+			"created_at": "Thu Jul 30 05:58:00 +0000 2020",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320589670221180930/8BbBnKyJ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320589670221180930/8BbBnKyJ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288715338679386112/1603688088",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 960,
+		"favorite_count": 6194,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "#SuperStarYG #BLACKPINK - Don`t Know What To Do updated!\n\nClear missions for new limited theme cards\nand #BLACKPINK My Lobby BG IMAGE rewards!\n\nNew profiles for sale during the event period as well!"
+	},
+	{
+		"created_at": "Mon Nov 09 09:27:08 +0000 2020",
+		"id": 1325727206769782800,
+		"id_str": "1325731638035308544",
+		"full_text": "#SuperStarYG #BLACKPINK - Don`t Know What To Do updated!\n잠깐 누가 시간을 좀 멈춰봐! 할 말 있어\n\n미션을 통해 신규 한정 테마는 물론,\n올 클리어 #블랙핑크 마이 로비 배경을 놓치면 후회합니다!\n\n이벤트 기간에만 구매할 수 있는 신규 프로필도 놓치지 말아요!\n\n#시간을_좀_멈춰봐_미션해야해 https://t.co/k0HoyuTQe8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SuperStarYG",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "시간을_좀_멈춰봐_미션해야해",
+					"indices": [
+						173,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1325727133809877000,
+					"id_str": "1325727133809876992",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EmXtzd_VoAAW1kI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmXtzd_VoAAW1kI.jpg",
+					"url": "https://t.co/k0HoyuTQe8",
+					"display_url": "pic.twitter.com/k0HoyuTQe8",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1325727206769782784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1032,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1032,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325727133809877000,
+					"id_str": "1325727133809876992",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EmXtzd_VoAAW1kI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmXtzd_VoAAW1kI.jpg",
+					"url": "https://t.co/k0HoyuTQe8",
+					"display_url": "pic.twitter.com/k0HoyuTQe8",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1325727206769782784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1032,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1032,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1325727133809823700,
+					"id_str": "1325727133809823745",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EmXtzd_U0AE3uWX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmXtzd_U0AE3uWX.jpg",
+					"url": "https://t.co/k0HoyuTQe8",
+					"display_url": "pic.twitter.com/k0HoyuTQe8",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1325727206769782784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1032,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1032,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1325727133809868800,
+					"id_str": "1325727133809868800",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EmXtzd_VgAAXuxp.png",
+					"media_url_https": "https://pbs.twimg.com/media/EmXtzd_VgAAXuxp.png",
+					"url": "https://t.co/k0HoyuTQe8",
+					"display_url": "pic.twitter.com/k0HoyuTQe8",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1325727206769782784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1325727133805654000,
+					"id_str": "1325727133805654017",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EmXtzd-VMAEe9xk.png",
+					"media_url_https": "https://pbs.twimg.com/media/EmXtzd-VMAEe9xk.png",
+					"url": "https://t.co/k0HoyuTQe8",
+					"display_url": "pic.twitter.com/k0HoyuTQe8",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1325727206769782784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288715338679386000,
+			"id_str": "1288715338679386112",
+			"name": "SuperStarYG",
+			"screen_name": "SuperStar_YG",
+			"location": "",
+			"description": "https://t.co/RF1TeBc78K",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RF1TeBc78K",
+							"expanded_url": "https://bit.ly/3kYfsuR",
+							"display_url": "bit.ly/3kYfsuR",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 48192,
+			"friends_count": 26,
+			"listed_count": 41,
+			"created_at": "Thu Jul 30 05:58:00 +0000 2020",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320589670221180930/8BbBnKyJ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320589670221180930/8BbBnKyJ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288715338679386112/1603688088",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1788,
+		"favorite_count": 9175,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SuperStarYG #BLACKPINK - Don`t Know What To Do updated!\n잠깐 누가 시간을 좀 멈춰봐! 할 말 있어\n\n미션을 통해 신규 한정 테마는 물론,\n올 클리어 #블랙핑크 마이 로비 배경을 놓치면 후회합니다!\n\n이벤트 기간에만 구매할 수 있는 신규 프로필도 놓치지 말아요!\n\n#시간을_좀_멈춰봐_미션해야해 https://t.co/k0HoyuTQe8"
+	},
+	{
 		"created_at": "Mon Nov 09 08:38:29 +0000 2020",
 		"id": 1325719396497715200,
 		"id_str": "1325719396497715200",
