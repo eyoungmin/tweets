@@ -1,6 +1,585 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 10 15:56:07 +0000 2020",
+		"id": 1326128772525949000,
+		"id_str": "1326191919966294018",
+		"full_text": "한겨레와 필자의 사과문을 온라인에 게재하고 칼럼은 삭제했습니다. 비슷한 일이 재발하지 않도록 시스템을 정비하고 독자들의 의견에 좀더 귀 기울이겠습니다. 다시 한번 깊이 사과드립니다.\nhttps://t.co/zGc1PEArGo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zGc1PEArGo",
+					"expanded_url": "http://www.hani.co.kr/arti/opinion/column/969146.html",
+					"display_url": "hani.co.kr/arti/opinion/c…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 65254718,
+			"id_str": "65254718",
+			"name": "한겨레",
+			"screen_name": "hanitweet",
+			"location": "한국",
+			"description": "시민이 만든 신문, 한겨레 공식 트위터입니다. https://t.co/gaFSERTpRb",
+			"url": "https://t.co/EZDI3E5OCd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EZDI3E5OCd",
+							"expanded_url": "http://www.hani.co.kr",
+							"display_url": "hani.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gaFSERTpRb",
+							"expanded_url": "http://youtube.com/hanitv",
+							"display_url": "youtube.com/hanitv",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 545692,
+			"friends_count": 137311,
+			"listed_count": 7124,
+			"created_at": "Thu Aug 13 03:03:14 +0000 2009",
+			"favourites_count": 239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 127545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720956938020761600/TfuRv7UK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720956938020761600/TfuRv7UK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/65254718/1525742854",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 365,
+		"favorite_count": 106,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한겨레와 필자의 사과문을 온라인에 게재하고 칼럼은 삭제했습니다. 비슷한 일이 재발하지 않도록 시스템을 정비하고 독자들의 의견에 좀더 귀 기울이겠습니다. 다시 한번 깊이 사과드립니다.\nhttps://t.co/zGc1PEArGo"
+	},
+	{
+		"created_at": "Tue Nov 10 15:27:11 +0000 2020",
+		"id": 1326178048161550300,
+		"id_str": "1326184636070981632",
+		"full_text": "언제 플랫에 놀러 올거야?🤔\n\n#KARINA #카리나\n#æ_KARINA #아이_카리나\n#FLAT #플랫 #플랫여행언제쯤\n#aespa #æspa #에스파 https://t.co/AKJxn6CnDu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KARINA",
+					"indices": [
+						17,
+						24
+					]
+				},
+				{
+					"text": "카리나",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "æ_KARINA",
+					"indices": [
+						30,
+						39
+					]
+				},
+				{
+					"text": "아이_카리나",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"text": "FLAT",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "플랫",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "플랫여행언제쯤",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						80,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326129263511171000,
+					"id_str": "1326129263511171072",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/Emdbif3VcAAihON.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emdbif3VcAAihON.jpg",
+					"url": "https://t.co/AKJxn6CnDu",
+					"display_url": "pic.twitter.com/AKJxn6CnDu",
+					"expanded_url": "https://twitter.com/aespa_official/status/1326178048161550338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326129263511171000,
+					"id_str": "1326129263511171072",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/Emdbif3VcAAihON.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emdbif3VcAAihON.jpg",
+					"url": "https://t.co/AKJxn6CnDu",
+					"display_url": "pic.twitter.com/AKJxn6CnDu",
+					"expanded_url": "https://twitter.com/aespa_official/status/1326178048161550338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 377559,
+			"friends_count": 1,
+			"listed_count": 854,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 43,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14391,
+		"favorite_count": 37492,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "언제 플랫에 놀러 올거야?🤔\n\n#KARINA #카리나\n#æ_KARINA #아이_카리나\n#FLAT #플랫 #플랫여행언제쯤\n#aespa #æspa #에스파 https://t.co/AKJxn6CnDu"
+	},
+	{
+		"created_at": "Tue Nov 10 15:27:08 +0000 2020",
+		"id": 1326177807072972800,
+		"id_str": "1326184623022411782",
+		"full_text": "aespa 에스파 - SYNK, KARINA\n\n#KARINA #카리나\n#aespa #æspa #에스파\nPerformed by KARINA &amp; ae-KARINA https://t.co/hLQ629QeU8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KARINA",
+					"indices": [
+						26,
+						33
+					]
+				},
+				{
+					"text": "카리나",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						52,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326146989185138700,
+					"id_str": "1326146989185138690",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EmdzI6iUcAEOMyN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmdzI6iUcAEOMyN.jpg",
+					"url": "https://t.co/hLQ629QeU8",
+					"display_url": "pic.twitter.com/hLQ629QeU8",
+					"expanded_url": "https://twitter.com/aespa_official/status/1326177807072972804/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326146989185138700,
+					"id_str": "1326146989185138690",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EmdzI6iUcAEOMyN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmdzI6iUcAEOMyN.jpg",
+					"url": "https://t.co/hLQ629QeU8",
+					"display_url": "pic.twitter.com/hLQ629QeU8",
+					"expanded_url": "https://twitter.com/aespa_official/status/1326177807072972804/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 112154,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1326146989185138690/pl/je9zd83scr8bcgcQ.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1326146989185138690/vid/480x270/pFvm3bq6e0AFI6C-.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1326146989185138690/vid/640x360/LO98X9s9AYmlQsXE.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1326146989185138690/vid/1280x720/q6wnSuLRxnUFRipO.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 377559,
+			"friends_count": 1,
+			"listed_count": 854,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 43,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17821,
+		"favorite_count": 41595,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "aespa 에스파 - SYNK, KARINA\n\n#KARINA #카리나\n#aespa #æspa #에스파\nPerformed by KARINA &amp; ae-KARINA https://t.co/hLQ629QeU8"
+	},
+	{
 		"created_at": "Tue Nov 10 15:08:13 +0000 2020",
 		"id": 1326179864207093800,
 		"id_str": "1326179864207093761",
