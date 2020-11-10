@@ -1,6 +1,763 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 10 08:45:53 +0000 2020",
+		"id": 1326083298750161000,
+		"id_str": "1326083645027864576",
+		"full_text": "#달상담소#해결사소녀들#딘딘의말빨\n\nEP.4 군인의 연애에서 혼급식까지! (나 이상한 거 아니죠?) [팬의점24 이달의 소녀점] | 308KPOP\nhttps://t.co/I6RYWqYTFs\n✨좋아요✨구독✨알림설정✨ https://t.co/j8HOQoevPL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I6RYWqYTFs",
+					"expanded_url": "https://youtu.be/gy6KDwwtVUA",
+					"display_url": "youtu.be/gy6KDwwtVUA",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326083293905789000,
+					"id_str": "1326083293905788928",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EmcxutvVoAAPKC6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmcxutvVoAAPKC6.jpg",
+					"url": "https://t.co/j8HOQoevPL",
+					"display_url": "pic.twitter.com/j8HOQoevPL",
+					"expanded_url": "https://twitter.com/fanijeom24/status/1326083298750160896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326083293905789000,
+					"id_str": "1326083293905788928",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EmcxutvVoAAPKC6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmcxutvVoAAPKC6.jpg",
+					"url": "https://t.co/j8HOQoevPL",
+					"display_url": "pic.twitter.com/j8HOQoevPL",
+					"expanded_url": "https://twitter.com/fanijeom24/status/1326083298750160896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1253561750508548000,
+			"id_str": "1253561750508548097",
+			"name": "fanijeom24.official",
+			"screen_name": "fanijeom24",
+			"location": "",
+			"description": "팬의점24 점장 공식계정 아이돌이 퇴근 후 들리는 곳 ☺︎팬의점24☺︎ ☻ 좋아요💙 구독💙 알림설정💙",
+			"url": "https://t.co/4LDuhecF1y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4LDuhecF1y",
+							"expanded_url": "https://www.youtube.com/channel/UC3b03x7bpOH8hAYoSmE-DAA",
+							"display_url": "youtube.com/channel/UC3b03…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1486,
+			"friends_count": 10,
+			"listed_count": 6,
+			"created_at": "Fri Apr 24 05:49:55 +0000 2020",
+			"favourites_count": 4028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 363,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254657565612367872/ZkbZ68nj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254657565612367872/ZkbZ68nj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1253561750508548097/1602493389",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 162,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#달상담소#해결사소녀들#딘딘의말빨\n\nEP.4 군인의 연애에서 혼급식까지! (나 이상한 거 아니죠?) [팬의점24 이달의 소녀점] | 308KPOP\nhttps://t.co/I6RYWqYTFs\n✨좋아요✨구독✨알림설정✨ https://t.co/j8HOQoevPL"
+	},
+	{
+		"created_at": "Tue Nov 10 08:45:36 +0000 2020",
+		"id": 1326070245480562700,
+		"id_str": "1326083577130455041",
+		"full_text": "[쇼챔피언 378회(1111) 생방송 출연진]\n여자친구(GFRIEND) / MONSTA X / TOMORROW X TOGETHER / AB6IX / 박지훈 / 이달의 소녀 / 쪼꼬미 / CIX / VERIVERY / JBJ95 / P1Harmony / 드리핀(DRIPPIN) / 나띠 /  SECRET NUMBER / 베리굿 / 다크비(DKB)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 480220551,
+			"id_str": "480220551",
+			"name": "SHOWCHAMPION",
+			"screen_name": "showchampion1",
+			"location": "",
+			"description": "MBC M 쇼챔피언 매주 수요일 저녁 6시 방송! / 일산 MBC드림센터에서 진행되며 자세한 사항은 쇼챔 홈페이지를 확인하세요~^^",
+			"url": "https://t.co/kg7On1VCNH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kg7On1VCNH",
+							"expanded_url": "http://twtkr.com/showchampion1",
+							"display_url": "twtkr.com/showchampion1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1118710,
+			"friends_count": 245,
+			"listed_count": 1875,
+			"created_at": "Wed Feb 01 07:48:32 +0000 2012",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113204816413466624/GCX6Zm7K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113204816413466624/GCX6Zm7K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/480220551/1554243646",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 900,
+		"favorite_count": 2465,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[쇼챔피언 378회(1111) 생방송 출연진]\n여자친구(GFRIEND) / MONSTA X / TOMORROW X TOGETHER / AB6IX / 박지훈 / 이달의 소녀 / 쪼꼬미 / CIX / VERIVERY / JBJ95 / P1Harmony / 드리핀(DRIPPIN) / 나띠 /  SECRET NUMBER / 베리굿 / 다크비(DKB)"
+	},
+	{
+		"created_at": "Tue Nov 10 08:27:57 +0000 2020",
+		"id": 1326073436838322200,
+		"id_str": "1326079131688325120",
+		"full_text": "[#부퀘스트 #레드벨벳 7화🌹]\n\n벨 모닝~!🌞\n요즘 핫템 크로플과🥐 \n#레벨 의 사랑스러운 아침시간💕\n\n부퀘스트배 카트레이싱 대회🏎\n끝날때까지 끝난게 아니다🏆\n승부욕 불타오르는 #RedVelvet 🔥\n\n#아이돌라이브 에서 #더비 들 같이 봐요❤️\n🍷링크: https://t.co/dn0hCMf1Uu\n\n@RVsmtown https://t.co/moCIJMZ4EX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "부퀘스트",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "레벨",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						100,
+						110
+					]
+				},
+				{
+					"text": "아이돌라이브",
+					"indices": [
+						114,
+						121
+					]
+				},
+				{
+					"text": "더비",
+					"indices": [
+						125,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						169,
+						178
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dn0hCMf1Uu",
+					"expanded_url": "http://idollive.page.link/GVGRw6X8sstT2hP47",
+					"display_url": "idollive.page.link/GVGRw6X8sstT2h…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326073337462677500,
+					"id_str": "1326073337462677506",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326073337462677506/pu/img/hGpGIQqJcbzDkmN3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326073337462677506/pu/img/hGpGIQqJcbzDkmN3.jpg",
+					"url": "https://t.co/moCIJMZ4EX",
+					"display_url": "pic.twitter.com/moCIJMZ4EX",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1326073436838322182/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326073337462677500,
+					"id_str": "1326073337462677506",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326073337462677506/pu/img/hGpGIQqJcbzDkmN3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326073337462677506/pu/img/hGpGIQqJcbzDkmN3.jpg",
+					"url": "https://t.co/moCIJMZ4EX",
+					"display_url": "pic.twitter.com/moCIJMZ4EX",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1326073436838322182/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 33063,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326073337462677506/pu/vid/1280x720/Yub2-tSvWdOQGcut.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326073337462677506/pu/vid/640x360/O0jvM9_1k-jmMeH5.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1326073337462677506/pu/pl/BjistUvIYqXrikXg.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326073337462677506/pu/vid/480x270/m-pCd-Yw-0e8hmWt.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093324810904432600,
+			"id_str": "1093324810904432640",
+			"name": "아이돌Live",
+			"screen_name": "uplusidollive",
+			"location": "Republic of Korea",
+			"description": "'좋아하는 아이돌 무대를 눈앞에서 보는 것처럼'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73495,
+			"friends_count": 6,
+			"listed_count": 80,
+			"created_at": "Thu Feb 07 01:45:22 +0000 2019",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093324810904432640/1602464402",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 673,
+		"favorite_count": 1143,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#부퀘스트 #레드벨벳 7화🌹]\n\n벨 모닝~!🌞\n요즘 핫템 크로플과🥐 \n#레벨 의 사랑스러운 아침시간💕\n\n부퀘스트배 카트레이싱 대회🏎\n끝날때까지 끝난게 아니다🏆\n승부욕 불타오르는 #RedVelvet 🔥\n\n#아이돌라이브 에서 #더비 들 같이 봐요❤️\n🍷링크: https://t.co/dn0hCMf1Uu\n\n@RVsmtown https://t.co/moCIJMZ4EX"
+	},
+	{
+		"created_at": "Tue Nov 10 08:27:14 +0000 2020",
+		"id": 1326074704587681800,
+		"id_str": "1326078952155312130",
+		"full_text": "아직 입장 못하신 분들은 서둘러주세요!\n201110 SBS MTV ‘더쇼’에서 #이달의소녀 가 여는 페스티벌에 입장하신 분들은 티켓을 준비해주세요!\n\n#LOONA #랜선출첵 #WhyNot",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "랜선출첵",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "WhyNot",
+					"indices": [
+						97,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1326074703119708200,
+		"in_reply_to_status_id_str": "1326074703119708160",
+		"in_reply_to_user_id": 773078392660856800,
+		"in_reply_to_user_id_str": "773078392660856832",
+		"in_reply_to_screen_name": "loonaStaff",
+		"user": {
+			"id": 773078392660856800,
+			"id_str": "773078392660856832",
+			"name": "이달의 소녀 Staff",
+			"screen_name": "loonaStaff",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22386,
+			"friends_count": 1,
+			"listed_count": 329,
+			"created_at": "Tue Sep 06 08:40:26 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/773078392660856832/1602772146",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 127,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아직 입장 못하신 분들은 서둘러주세요!\n201110 SBS MTV ‘더쇼’에서 #이달의소녀 가 여는 페스티벌에 입장하신 분들은 티켓을 준비해주세요!\n\n#LOONA #랜선출첵 #WhyNot"
+	},
+	{
+		"created_at": "Tue Nov 10 08:27:12 +0000 2020",
+		"id": 1326074703119708200,
+		"id_str": "1326078943317929985",
+		"full_text": "화요일엔 아기사과 이브와 함께해요!\n201110 SBS MTV ‘더쇼’에서 #이달의소녀 가 여는 페스티벌에 입장할 오빛은 티켓을 들고 모여주세요!\n\n#LOONA #오빛 #모일게요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "오빛",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "모일게요",
+					"indices": [
+						94,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 773078392660856800,
+			"id_str": "773078392660856832",
+			"name": "이달의 소녀 Staff",
+			"screen_name": "loonaStaff",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22386,
+			"friends_count": 1,
+			"listed_count": 329,
+			"created_at": "Tue Sep 06 08:40:26 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/773078392660856832/1602772146",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 317,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "화요일엔 아기사과 이브와 함께해요!\n201110 SBS MTV ‘더쇼’에서 #이달의소녀 가 여는 페스티벌에 입장할 오빛은 티켓을 들고 모여주세요!\n\n#LOONA #오빛 #모일게요"
+	},
+	{
 		"created_at": "Tue Nov 10 07:27:11 +0000 2020",
 		"id": 1326058616240136200,
 		"id_str": "1326063839855718400",
