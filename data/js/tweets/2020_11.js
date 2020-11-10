@@ -1,6 +1,1842 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 10 06:51:05 +0000 2020",
+		"id": 1326054755999887400,
+		"id_str": "1326054755999887360",
+		"full_text": "#SMTOWN #News\n커다쉰페이 후위 총재, 이수만 총괄 프로듀서에 러브콜, 中에서도 화제!\nhttps://t.co/vdoxTrLjcY\n#SM엔터테인먼트 #minfav https://t.co/7xubF2okSW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "News",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "SM엔터테인먼트",
+					"indices": [
+						78,
+						87
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						88,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vdoxTrLjcY",
+					"expanded_url": "https://www.smtown.com/news/detail/245",
+					"display_url": "smtown.com/news/detail/245",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326054755031003100,
+					"id_str": "1326054755031003138",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EmcXxiJXMAI7Z6B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmcXxiJXMAI7Z6B.jpg",
+					"url": "https://t.co/7xubF2okSW",
+					"display_url": "pic.twitter.com/7xubF2okSW",
+					"expanded_url": "https://twitter.com/fromminn/status/1326054755999887360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326054755031003100,
+					"id_str": "1326054755031003138",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EmcXxiJXMAI7Z6B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmcXxiJXMAI7Z6B.jpg",
+					"url": "https://t.co/7xubF2okSW",
+					"display_url": "pic.twitter.com/7xubF2okSW",
+					"expanded_url": "https://twitter.com/fromminn/status/1326054755999887360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1019,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #News\n커다쉰페이 후위 총재, 이수만 총괄 프로듀서에 러브콜, 中에서도 화제!\nhttps://t.co/vdoxTrLjcY\n#SM엔터테인먼트 #minfav https://t.co/7xubF2okSW"
+	},
+	{
+		"created_at": "Tue Nov 10 06:44:22 +0000 2020",
+		"id": 1326041899610890200,
+		"id_str": "1326053065242238976",
+		"full_text": "고객이 주문한 화장품을 “동양인에게 어울리지 않는” 색상이라며 다른 색상으로 임의배송해 인종차별 논란에 휩싸인 미국 유명 화장품 브랜드 에스티로더가 10일 공식 사과했다.\nhttps://t.co/geBlak3HXu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/geBlak3HXu",
+					"expanded_url": "https://news.khan.kr/crNg",
+					"display_url": "news.khan.kr/crNg",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 721756,
+			"friends_count": 77379,
+			"listed_count": 5896,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 87567,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 100,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "고객이 주문한 화장품을 “동양인에게 어울리지 않는” 색상이라며 다른 색상으로 임의배송해 인종차별 논란에 휩싸인 미국 유명 화장품 브랜드 에스티로더가 10일 공식 사과했다.\nhttps://t.co/geBlak3HXu"
+	},
+	{
+		"created_at": "Tue Nov 10 06:30:12 +0000 2020",
+		"id": 1326049502059360300,
+		"id_str": "1326049502059360258",
+		"full_text": "같은 사람이었네?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1326049305610711000,
+		"in_reply_to_status_id_str": "1326049305610711045",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1019,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "같은 사람이었네?"
+	},
+	{
+		"created_at": "Tue Nov 10 06:29:25 +0000 2020",
+		"id": 1326049305610711000,
+		"id_str": "1326049305610711045",
+		"full_text": "https://t.co/P5FjmAblvf\n\n????????????????",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P5FjmAblvf",
+					"expanded_url": "http://m.hani.co.kr/arti/opinion/column/948440.html",
+					"display_url": "m.hani.co.kr/arti/opinion/c…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1326044483289452500,
+		"in_reply_to_status_id_str": "1326044483289452544",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1019,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/P5FjmAblvf\n\n????????????????"
+	},
+	{
+		"created_at": "Tue Nov 10 06:20:40 +0000 2020",
+		"id": 1326046810658402300,
+		"id_str": "1326047100023398400",
+		"full_text": "“AI와 엔터테인먼트 거물의 의기투합 성사되나” \n\n시나오락, 동방망, 대중망, 소후한오 등 中 주요 언론 이수만 총괄 프로듀서와 후위 총재의 협력 가능성에 집중 보도!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1326046809400094700,
+		"in_reply_to_status_id_str": "1326046809400094720",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8628569,
+			"friends_count": 53,
+			"listed_count": 8409,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1529,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 176,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "“AI와 엔터테인먼트 거물의 의기투합 성사되나” \n\n시나오락, 동방망, 대중망, 소후한오 등 中 주요 언론 이수만 총괄 프로듀서와 후위 총재의 협력 가능성에 집중 보도!"
+	},
+	{
+		"created_at": "Tue Nov 10 06:20:36 +0000 2020",
+		"id": 1326046809400094700,
+		"id_str": "1326047086832349184",
+		"full_text": "중국 AI 산업의 핵심인물 커다쉰페이 후위 총재, 이수만 총괄 프로듀서에 러브콜, 中에서도 화제!\n\n\"우리의 선진적인 인공지능 기술과 이수만 총괄 프로듀서의 엔터테인먼트 콘텐츠에 대한 깊이 있는 조예를 결합해 아시아의 새로운 문명의 미래를 열게 되기를 희망한다”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1326046807999221800,
+		"in_reply_to_status_id_str": "1326046807999221761",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8628569,
+			"friends_count": 53,
+			"listed_count": 8409,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1529,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 178,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "중국 AI 산업의 핵심인물 커다쉰페이 후위 총재, 이수만 총괄 프로듀서에 러브콜, 中에서도 화제!\n\n\"우리의 선진적인 인공지능 기술과 이수만 총괄 프로듀서의 엔터테인먼트 콘텐츠에 대한 깊이 있는 조예를 결합해 아시아의 새로운 문명의 미래를 열게 되기를 희망한다”"
+	},
+	{
+		"created_at": "Tue Nov 10 06:20:28 +0000 2020",
+		"id": 1326046807999221800,
+		"id_str": "1326047050484494336",
+		"full_text": "“Will the giants of AI and entertainment join forces”\n\nMajor media outlets in China including SINA Entertainment, Eastday, Public network, SOHU KOREA focus on possible partnership between President Hu Yu and Executive Producer Soo-Man Lee!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1326046806786994200,
+		"in_reply_to_status_id_str": "1326046806786994176",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8628569,
+			"friends_count": 53,
+			"listed_count": 8409,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1529,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 303,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "“Will the giants of AI and entertainment join forces”\n\nMajor media outlets in China including SINA Entertainment, Eastday, Public network, SOHU KOREA focus on possible partnership between President Hu Yu and Executive Producer Soo-Man Lee!"
+	},
+	{
+		"created_at": "Tue Nov 10 06:20:26 +0000 2020",
+		"id": 1326046806786994200,
+		"id_str": "1326047041097662465",
+		"full_text": "“I hope the leading innovative Artificial Intelligence technology of iFlytek and Executive Producer Soo-Man Lee’s expertise on entertainment contents, joined together, will open the future to Asia’s new civilization.”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1326046804375339000,
+		"in_reply_to_status_id_str": "1326046804375339009",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8628569,
+			"friends_count": 53,
+			"listed_count": 8409,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1529,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 308,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "“I hope the leading innovative Artificial Intelligence technology of iFlytek and Executive Producer Soo-Man Lee’s expertise on entertainment contents, joined together, will open the future to Asia’s new civilization.”"
+	},
+	{
+		"created_at": "Tue Nov 10 06:20:18 +0000 2020",
+		"id": 1326046804375339000,
+		"id_str": "1326047009581588481",
+		"full_text": "Key figure in China’s AI Industry, President of iFlytek Hu Yu, reaches out to Executive Producer Soo-Man Lee! Receives spotlight in China! \n\n#SOOMANLEE #HuYu\n#SMEntertainment #iFlytek https://t.co/2EEiGqm1aK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SOOMANLEE",
+					"indices": [
+						141,
+						151
+					]
+				},
+				{
+					"text": "HuYu",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "SMEntertainment",
+					"indices": [
+						158,
+						174
+					]
+				},
+				{
+					"text": "iFlytek",
+					"indices": [
+						175,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326026146597666800,
+					"id_str": "1326026146597666816",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/Emb9wTbVgAAOVkO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emb9wTbVgAAOVkO.jpg",
+					"url": "https://t.co/2EEiGqm1aK",
+					"display_url": "pic.twitter.com/2EEiGqm1aK",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1326046804375339009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326026146597666800,
+					"id_str": "1326026146597666816",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/Emb9wTbVgAAOVkO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emb9wTbVgAAOVkO.jpg",
+					"url": "https://t.co/2EEiGqm1aK",
+					"display_url": "pic.twitter.com/2EEiGqm1aK",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1326046804375339009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8628569,
+			"friends_count": 53,
+			"listed_count": 8409,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1529,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 602,
+		"favorite_count": 3627,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Key figure in China’s AI Industry, President of iFlytek Hu Yu, reaches out to Executive Producer Soo-Man Lee! Receives spotlight in China! \n\n#SOOMANLEE #HuYu\n#SMEntertainment #iFlytek https://t.co/2EEiGqm1aK"
+	},
+	{
+		"created_at": "Tue Nov 10 06:19:55 +0000 2020",
+		"id": 1326036461762670600,
+		"id_str": "1326046912206626821",
+		"full_text": "책을 읽지 않는 어머니는 교양없고 무식하다는 말을 듣고, 책을 읽는 어머니는 지적 우월감을 느끼며 상대의 행동에 잔소리를 하는 사람이 되는구나. 슬프다는 말 밖에 이 감정을 표현할 수 있는게 없다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1326035921846759400,
+		"in_reply_to_status_id_str": "1326035921846759425",
+		"in_reply_to_user_id": 2336032099,
+		"in_reply_to_user_id_str": "2336032099",
+		"in_reply_to_screen_name": "mellowthings_",
+		"user": {
+			"id": 2336032099,
+			"id_str": "2336032099",
+			"name": "멜로",
+			"screen_name": "mellowthings_",
+			"location": "체인블락,미러블락 사용합니다.",
+			"description": "고양이계정 아님 _(:3ノ∠)_  뻘소리 많은 사람의 개인계정. 부끄러움이 많아서 알티 많이 타면 트삭하거나 잠시 잠급니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9579,
+			"friends_count": 206,
+			"listed_count": 7,
+			"created_at": "Mon Feb 10 03:32:49 +0000 2014",
+			"favourites_count": 8206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1297734458989142016/JXYV1PC3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297734458989142016/JXYV1PC3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2336032099/1598239012",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 234,
+		"favorite_count": 133,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "책을 읽지 않는 어머니는 교양없고 무식하다는 말을 듣고, 책을 읽는 어머니는 지적 우월감을 느끼며 상대의 행동에 잔소리를 하는 사람이 되는구나. 슬프다는 말 밖에 이 감정을 표현할 수 있는게 없다."
+	},
+	{
+		"created_at": "Tue Nov 10 06:19:53 +0000 2020",
+		"id": 1326035921846759400,
+		"id_str": "1326046904052932608",
+		"full_text": "저걸 읽다보니 덕성여대 에타 글로 알려진 이 글이 생각나네. 위에 인용알티한 글의 작성자는 아마 평생 한 번도 느끼지 않았고 느낄 생각도 하지 않았겠지 어머니의 고독과 외로움을. https://t.co/SKCbAJUrTH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326035536746672000,
+					"id_str": "1326035536746672129",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EmcGS4dUcAEF4YI.png",
+					"media_url_https": "https://pbs.twimg.com/media/EmcGS4dUcAEF4YI.png",
+					"url": "https://t.co/SKCbAJUrTH",
+					"display_url": "pic.twitter.com/SKCbAJUrTH",
+					"expanded_url": "https://twitter.com/mellowthings_/status/1326035921846759425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 458,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326035536746672000,
+					"id_str": "1326035536746672129",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EmcGS4dUcAEF4YI.png",
+					"media_url_https": "https://pbs.twimg.com/media/EmcGS4dUcAEF4YI.png",
+					"url": "https://t.co/SKCbAJUrTH",
+					"display_url": "pic.twitter.com/SKCbAJUrTH",
+					"expanded_url": "https://twitter.com/mellowthings_/status/1326035921846759425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 458,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1326035563267256300,
+					"id_str": "1326035563267256320",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EmcGUbQUcAAWbmr.png",
+					"media_url_https": "https://pbs.twimg.com/media/EmcGUbQUcAAWbmr.png",
+					"url": "https://t.co/SKCbAJUrTH",
+					"display_url": "pic.twitter.com/SKCbAJUrTH",
+					"expanded_url": "https://twitter.com/mellowthings_/status/1326035921846759425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 396,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 396,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 396,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1326034535939625000,
+		"in_reply_to_status_id_str": "1326034535939624960",
+		"in_reply_to_user_id": 2336032099,
+		"in_reply_to_user_id_str": "2336032099",
+		"in_reply_to_screen_name": "mellowthings_",
+		"user": {
+			"id": 2336032099,
+			"id_str": "2336032099",
+			"name": "멜로",
+			"screen_name": "mellowthings_",
+			"location": "체인블락,미러블락 사용합니다.",
+			"description": "고양이계정 아님 _(:3ノ∠)_  뻘소리 많은 사람의 개인계정. 부끄러움이 많아서 알티 많이 타면 트삭하거나 잠시 잠급니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9579,
+			"friends_count": 206,
+			"listed_count": 7,
+			"created_at": "Mon Feb 10 03:32:49 +0000 2014",
+			"favourites_count": 8206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1297734458989142016/JXYV1PC3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297734458989142016/JXYV1PC3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2336032099/1598239012",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1006,
+		"favorite_count": 423,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저걸 읽다보니 덕성여대 에타 글로 알려진 이 글이 생각나네. 위에 인용알티한 글의 작성자는 아마 평생 한 번도 느끼지 않았고 느낄 생각도 하지 않았겠지 어머니의 고독과 외로움을. https://t.co/SKCbAJUrTH"
+	},
+	{
+		"created_at": "Tue Nov 10 06:19:12 +0000 2020",
+		"id": 1325983469755756500,
+		"id_str": "1326046730870169600",
+		"full_text": "그러니까 어머니는 책을 많이 읽어서 아버지에게 맞을 만했고, 손찌검을 한 아버지의 행위가 아니라 책을 많이 읽고 자신을 변호한 어머니의 행위야말로 ‘폭력’이었고, 그러니까 ‘지식인의 진짜 책무’는 약자가 책을 읽고 공부해서 자신을 변호하는 때조차도 상냥하게 말해야 한다 이거예요?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1325982180217008000,
+		"in_reply_to_status_id_str": "1325982180217008128",
+		"in_reply_to_user_id": 2576647922,
+		"in_reply_to_user_id_str": "2576647922",
+		"in_reply_to_screen_name": "wintersoundbook",
+		"user": {
+			"id": 2576647922,
+			"id_str": "2576647922",
+			"name": "김겨울",
+			"screen_name": "wintersoundbook",
+			"location": "",
+			"description": "몇 권의 책을 쓴 유튜브 겨울서점 채널 주인장, MBC 라디오 북클럽 김겨울입니다 DJ. 비즈니스 문의는 메일로 보내주세요. winterbookstore@gmail.com",
+			"url": "https://t.co/92rdO3vnYS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/92rdO3vnYS",
+							"expanded_url": "http://bit.ly/winterbookstore",
+							"display_url": "bit.ly/winterbookstore",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11200,
+			"friends_count": 598,
+			"listed_count": 22,
+			"created_at": "Thu Jun 19 10:40:36 +0000 2014",
+			"favourites_count": 6346,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877504441540157443/5TbG-lSf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877504441540157443/5TbG-lSf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2576647922/1552830071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4131,
+		"favorite_count": 1074,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그러니까 어머니는 책을 많이 읽어서 아버지에게 맞을 만했고, 손찌검을 한 아버지의 행위가 아니라 책을 많이 읽고 자신을 변호한 어머니의 행위야말로 ‘폭력’이었고, 그러니까 ‘지식인의 진짜 책무’는 약자가 책을 읽고 공부해서 자신을 변호하는 때조차도 상냥하게 말해야 한다 이거예요?"
+	},
+	{
+		"created_at": "Tue Nov 10 06:19:10 +0000 2020",
+		"id": 1325982180217008000,
+		"id_str": "1326046723005767681",
+		"full_text": "원글 링크 달고 싶지 않은데, 일단 달아두겠습니다. 대체 이게 무슨 글이에요? https://t.co/QmdlUt5pOM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QmdlUt5pOM",
+					"expanded_url": "http://m.hani.co.kr/arti/opinion/column/969146.html?fbclid=IwAR138Slbj_8-wI3VrMX57DHt_6pg97FCO98bXXYpaSF-0BXZmrF1FmyCfpc",
+					"display_url": "m.hani.co.kr/arti/opinion/c…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1325982178409283600,
+		"in_reply_to_status_id_str": "1325982178409283585",
+		"in_reply_to_user_id": 2576647922,
+		"in_reply_to_user_id_str": "2576647922",
+		"in_reply_to_screen_name": "wintersoundbook",
+		"user": {
+			"id": 2576647922,
+			"id_str": "2576647922",
+			"name": "김겨울",
+			"screen_name": "wintersoundbook",
+			"location": "",
+			"description": "몇 권의 책을 쓴 유튜브 겨울서점 채널 주인장, MBC 라디오 북클럽 김겨울입니다 DJ. 비즈니스 문의는 메일로 보내주세요. winterbookstore@gmail.com",
+			"url": "https://t.co/92rdO3vnYS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/92rdO3vnYS",
+							"expanded_url": "http://bit.ly/winterbookstore",
+							"display_url": "bit.ly/winterbookstore",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11200,
+			"friends_count": 598,
+			"listed_count": 22,
+			"created_at": "Thu Jun 19 10:40:36 +0000 2014",
+			"favourites_count": 6346,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877504441540157443/5TbG-lSf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877504441540157443/5TbG-lSf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2576647922/1552830071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1170,
+		"favorite_count": 307,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "원글 링크 달고 싶지 않은데, 일단 달아두겠습니다. 대체 이게 무슨 글이에요? https://t.co/QmdlUt5pOM"
+	},
+	{
+		"created_at": "Tue Nov 10 06:19:06 +0000 2020",
+		"id": 1325982178409283600,
+		"id_str": "1326046708518670337",
+		"full_text": "??????????? https://t.co/MGjjsEta3t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1325982174084911000,
+					"id_str": "1325982174084911106",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/EmbVwxDU0AIHYGh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmbVwxDU0AIHYGh.jpg",
+					"url": "https://t.co/MGjjsEta3t",
+					"display_url": "pic.twitter.com/MGjjsEta3t",
+					"expanded_url": "https://twitter.com/wintersoundbook/status/1325982178409283585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 631,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1114,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325982174084911000,
+					"id_str": "1325982174084911106",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/EmbVwxDU0AIHYGh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmbVwxDU0AIHYGh.jpg",
+					"url": "https://t.co/MGjjsEta3t",
+					"display_url": "pic.twitter.com/MGjjsEta3t",
+					"expanded_url": "https://twitter.com/wintersoundbook/status/1325982178409283585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 631,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1114,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1325982174235914200,
+					"id_str": "1325982174235914240",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/EmbVwxnU8AAVSg7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmbVwxnU8AAVSg7.jpg",
+					"url": "https://t.co/MGjjsEta3t",
+					"display_url": "pic.twitter.com/MGjjsEta3t",
+					"expanded_url": "https://twitter.com/wintersoundbook/status/1325982178409283585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1242,
+							"h": 1485,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 569,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1004,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2576647922,
+			"id_str": "2576647922",
+			"name": "김겨울",
+			"screen_name": "wintersoundbook",
+			"location": "",
+			"description": "몇 권의 책을 쓴 유튜브 겨울서점 채널 주인장, MBC 라디오 북클럽 김겨울입니다 DJ. 비즈니스 문의는 메일로 보내주세요. winterbookstore@gmail.com",
+			"url": "https://t.co/92rdO3vnYS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/92rdO3vnYS",
+							"expanded_url": "http://bit.ly/winterbookstore",
+							"display_url": "bit.ly/winterbookstore",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11200,
+			"friends_count": 598,
+			"listed_count": 22,
+			"created_at": "Thu Jun 19 10:40:36 +0000 2014",
+			"favourites_count": 6346,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877504441540157443/5TbG-lSf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877504441540157443/5TbG-lSf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2576647922/1552830071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6416,
+		"favorite_count": 1168,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "??????????? https://t.co/MGjjsEta3t"
+	},
+	{
+		"created_at": "Tue Nov 10 06:11:43 +0000 2020",
+		"id": 1326044849921876000,
+		"id_str": "1326044849921875969",
+		"full_text": "요즘은 글을 잘 쓴다고 하면 내가 읽어보기 전까진 믿지 않는다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1019,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "요즘은 글을 잘 쓴다고 하면 내가 읽어보기 전까진 믿지 않는다."
+	},
+	{
 		"created_at": "Tue Nov 10 05:37:44 +0000 2020",
 		"id": 1326036296473735200,
 		"id_str": "1326036296473735168",
