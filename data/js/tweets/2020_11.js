@@ -1,6 +1,1193 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 10 11:45:36 +0000 2020",
+		"id": 1326125146466218000,
+		"id_str": "1326128875617792000",
+		"full_text": "#이달의소녀 \n201110 ‘Why Not?’\nSBS MTV #더쇼\n\n‘Why Not?’\n🌑 https://t.co/DaBgGHGDz9\n\n#LOONA #Midnight #Why_Not",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "더쇼",
+					"indices": [
+						34,
+						37
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						94,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DaBgGHGDz9",
+					"expanded_url": "http://naver.me/xOfgHCdY",
+					"display_url": "naver.me/xOfgHCdY",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 573858,
+			"friends_count": 0,
+			"listed_count": 5809,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 848,
+		"favorite_count": 3712,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#이달의소녀 \n201110 ‘Why Not?’\nSBS MTV #더쇼\n\n‘Why Not?’\n🌑 https://t.co/DaBgGHGDz9\n\n#LOONA #Midnight #Why_Not"
+	},
+	{
+		"created_at": "Tue Nov 10 11:44:06 +0000 2020",
+		"id": 1326128497279066000,
+		"id_str": "1326128497279066113",
+		"full_text": "#SMTOWN #Artist_News\n‘컴백’ 태민, 정규 3집 ‘Act 2’ 발매 기념 스페셜 V 라이브 화제!\nhttps://t.co/fg7hQI5IFh\n#보아 #BoA https://t.co/niwk0h9Rt2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						92,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fg7hQI5IFh",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/4192",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326128496301707300,
+					"id_str": "1326128496301707264",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/Emda11yWEAADX8K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emda11yWEAADX8K.jpg",
+					"url": "https://t.co/niwk0h9Rt2",
+					"display_url": "pic.twitter.com/niwk0h9Rt2",
+					"expanded_url": "https://twitter.com/fromminn/status/1326128497279066113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326128496301707300,
+					"id_str": "1326128496301707264",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/Emda11yWEAADX8K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emda11yWEAADX8K.jpg",
+					"url": "https://t.co/niwk0h9Rt2",
+					"display_url": "pic.twitter.com/niwk0h9Rt2",
+					"expanded_url": "https://twitter.com/fromminn/status/1326128497279066113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1019,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n‘컴백’ 태민, 정규 3집 ‘Act 2’ 발매 기념 스페셜 V 라이브 화제!\nhttps://t.co/fg7hQI5IFh\n#보아 #BoA https://t.co/niwk0h9Rt2"
+	},
+	{
+		"created_at": "Tue Nov 10 11:44:04 +0000 2020",
+		"id": 1326128489297293300,
+		"id_str": "1326128489297293314",
+		"full_text": "#SMTOWN #Artist_News\n보아 데뷔 20주년 기념 뮤직 다큐멘터리 ‘202020 BoA’ 12일 공개!\nhttps://t.co/WU1HlN6bOh\n#보아 #BoA https://t.co/7JV26KQyYr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						93,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WU1HlN6bOh",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/4190",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326128488072536000,
+					"id_str": "1326128488072536064",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/Emda1XIW4AAQ0f-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emda1XIW4AAQ0f-.jpg",
+					"url": "https://t.co/7JV26KQyYr",
+					"display_url": "pic.twitter.com/7JV26KQyYr",
+					"expanded_url": "https://twitter.com/fromminn/status/1326128489297293314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326128488072536000,
+					"id_str": "1326128488072536064",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/Emda1XIW4AAQ0f-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emda1XIW4AAQ0f-.jpg",
+					"url": "https://t.co/7JV26KQyYr",
+					"display_url": "pic.twitter.com/7JV26KQyYr",
+					"expanded_url": "https://twitter.com/fromminn/status/1326128489297293314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1019,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n보아 데뷔 20주년 기념 뮤직 다큐멘터리 ‘202020 BoA’ 12일 공개!\nhttps://t.co/WU1HlN6bOh\n#보아 #BoA https://t.co/7JV26KQyYr"
+	},
+	{
+		"created_at": "Tue Nov 10 11:27:18 +0000 2020",
+		"id": 1326117769453080600,
+		"id_str": "1326124267260489730",
+		"full_text": "[VIDEO] 📹CHUNG HA Vlog\n\n'C'HUNG HA RANGㅣEP 11. チョンハのスニーカーカスタム完結版\n\n▶ https://t.co/dBam5WxpTr\n\n#청하 #CHUNGHA #チョンハ\n#별하랑 #BYULHARANG\n#시청하랑 #SEECHUNGHARANG https://t.co/10ZgQUKKto",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "チョンハ",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						117,
+						128
+					]
+				},
+				{
+					"text": "시청하랑",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "SEECHUNGHARANG",
+					"indices": [
+						135,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dBam5WxpTr",
+					"expanded_url": "https://bit.ly/2JlU2Kg",
+					"display_url": "bit.ly/2JlU2Kg",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/10ZgQUKKto",
+					"expanded_url": "https://twitter.com/chungha_mnhent/status/1326117401189109760",
+					"display_url": "twitter.com/chungha_mnhent…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 986882185842966500,
+			"id_str": "986882185842966528",
+			"name": "CHUNG HA JAPAN OFFICIAL",
+			"screen_name": "chungha_japan",
+			"location": "",
+			"description": "#CHUNGHA JAPAN OFFICIAL Twitter",
+			"url": "https://t.co/MasTugaSJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MasTugaSJD",
+							"expanded_url": "http://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16781,
+			"friends_count": 2,
+			"listed_count": 158,
+			"created_at": "Thu Apr 19 08:20:23 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988221974169059328/l3d7G6Fx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988221974169059328/l3d7G6Fx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/986882185842966528/1603170240",
+			"profile_link_color": "BF83AB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1326117401189109800,
+		"quoted_status_id_str": "1326117401189109760",
+		"quoted_status_permalink": {
+			"url": "https://t.co/10ZgQUKKto",
+			"expanded": "https://twitter.com/chungha_mnhent/status/1326117401189109760",
+			"display": "twitter.com/chungha_mnhent…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 10 11:00:01 +0000 2020",
+			"id": 1326117401189109800,
+			"id_str": "1326117401189109760",
+			"full_text": "[VIDEO] 📹CHUNG HA Vlog\n\n'C'HUNG HA RANGㅣEP 11. 청하의 운동화 커스텀 완결판\n\n▶ https://t.co/tib2SPDt4s\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#시청하랑 #SEECHUNGHARANG https://t.co/EknYjKkJPD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				142
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "청하",
+						"indices": [
+							91,
+							94
+						]
+					},
+					{
+						"text": "CHUNGHA",
+						"indices": [
+							95,
+							103
+						]
+					},
+					{
+						"text": "별하랑",
+						"indices": [
+							104,
+							108
+						]
+					},
+					{
+						"text": "BYULHARANG",
+						"indices": [
+							109,
+							120
+						]
+					},
+					{
+						"text": "시청하랑",
+						"indices": [
+							121,
+							126
+						]
+					},
+					{
+						"text": "SEECHUNGHARANG",
+						"indices": [
+							127,
+							142
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tib2SPDt4s",
+						"expanded_url": "https://bit.ly/2JlU2Kg",
+						"display_url": "bit.ly/2JlU2Kg",
+						"indices": [
+							66,
+							89
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1326087700684812300,
+						"id_str": "1326087700684812288",
+						"indices": [
+							143,
+							166
+						],
+						"media_url": "http://pbs.twimg.com/media/Emc1vORVMAAxT9N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Emc1vORVMAAxT9N.jpg",
+						"url": "https://t.co/EknYjKkJPD",
+						"display_url": "pic.twitter.com/EknYjKkJPD",
+						"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1326117401189109760/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1326087700684812300,
+						"id_str": "1326087700684812288",
+						"indices": [
+							143,
+							166
+						],
+						"media_url": "http://pbs.twimg.com/media/Emc1vORVMAAxT9N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Emc1vORVMAAxT9N.jpg",
+						"url": "https://t.co/EknYjKkJPD",
+						"display_url": "pic.twitter.com/EknYjKkJPD",
+						"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1326117401189109760/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1097557125742489600,
+				"id_str": "1097557125742489600",
+				"name": "CHUNG HA",
+				"screen_name": "CHUNGHA_MNHent",
+				"location": "",
+				"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/ZHcd08tZVb",
+				"url": "https://t.co/reTg513UFX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/reTg513UFX",
+								"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+								"display_url": "cafe.daum.net/MNH-Chungha",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ZHcd08tZVb",
+								"expanded_url": "https://bit.ly/2ZZWMlN",
+								"display_url": "bit.ly/2ZZWMlN",
+								"indices": [
+									31,
+									54
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 285431,
+				"friends_count": 0,
+				"listed_count": 1744,
+				"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1293,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 202,
+			"favorite_count": 929,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 6,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[VIDEO] 📹CHUNG HA Vlog\n\n'C'HUNG HA RANGㅣEP 11. チョンハのスニーカーカスタム完結版\n\n▶ https://t.co/dBam5WxpTr\n\n#청하 #CHUNGHA #チョンハ\n#별하랑 #BYULHARANG\n#시청하랑 #SEECHUNGHARANG https://t.co/10ZgQUKKto"
+	},
+	{
+		"created_at": "Tue Nov 10 11:27:10 +0000 2020",
+		"id": 1326117401189109800,
+		"id_str": "1326124233240555524",
+		"full_text": "[VIDEO] 📹CHUNG HA Vlog\n\n'C'HUNG HA RANGㅣEP 11. 청하의 운동화 커스텀 완결판\n\n▶ https://t.co/tib2SPDt4s\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#시청하랑 #SEECHUNGHARANG https://t.co/EknYjKkJPD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						95,
+						103
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						109,
+						120
+					]
+				},
+				{
+					"text": "시청하랑",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "SEECHUNGHARANG",
+					"indices": [
+						127,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tib2SPDt4s",
+					"expanded_url": "https://bit.ly/2JlU2Kg",
+					"display_url": "bit.ly/2JlU2Kg",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326087700684812300,
+					"id_str": "1326087700684812288",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/Emc1vORVMAAxT9N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emc1vORVMAAxT9N.jpg",
+					"url": "https://t.co/EknYjKkJPD",
+					"display_url": "pic.twitter.com/EknYjKkJPD",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1326117401189109760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326087700684812300,
+					"id_str": "1326087700684812288",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/Emc1vORVMAAxT9N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emc1vORVMAAxT9N.jpg",
+					"url": "https://t.co/EknYjKkJPD",
+					"display_url": "pic.twitter.com/EknYjKkJPD",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1326117401189109760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/ZHcd08tZVb",
+			"url": "https://t.co/reTg513UFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg513UFX",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZHcd08tZVb",
+							"expanded_url": "https://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								31,
+								54
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 285431,
+			"friends_count": 0,
+			"listed_count": 1744,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 202,
+		"favorite_count": 929,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] 📹CHUNG HA Vlog\n\n'C'HUNG HA RANGㅣEP 11. 청하의 운동화 커스텀 완결판\n\n▶ https://t.co/tib2SPDt4s\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#시청하랑 #SEECHUNGHARANG https://t.co/EknYjKkJPD"
+	},
+	{
 		"created_at": "Tue Nov 10 10:49:05 +0000 2020",
 		"id": 1326114652779147300,
 		"id_str": "1326114652779147264",
