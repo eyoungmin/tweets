@@ -1,6 +1,446 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 10 07:27:11 +0000 2020",
+		"id": 1326058616240136200,
+		"id_str": "1326063839855718400",
+		"full_text": "[#예술경영 웹진 : 기획자노트] \n\n&lt;캐나다 아트 퍼실리테이터가 사는 법&gt;\n\n456호 기획자노트 더보기👇\nhttps://t.co/2h6RmuiXQ6\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/ujlgvwfRjT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						101,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2h6RmuiXQ6",
+					"expanded_url": "https://bit.ly/34G4a92",
+					"display_url": "bit.ly/34G4a92",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326058599131488300,
+					"id_str": "1326058599131488259",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/EmcbRSiVoAM3O3I.png",
+					"media_url_https": "https://pbs.twimg.com/media/EmcbRSiVoAM3O3I.png",
+					"url": "https://t.co/ujlgvwfRjT",
+					"display_url": "pic.twitter.com/ujlgvwfRjT",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1326058616240136194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 802,
+							"h": 345,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 293,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 802,
+							"h": 345,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326058599131488300,
+					"id_str": "1326058599131488259",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/EmcbRSiVoAM3O3I.png",
+					"media_url_https": "https://pbs.twimg.com/media/EmcbRSiVoAM3O3I.png",
+					"url": "https://t.co/ujlgvwfRjT",
+					"display_url": "pic.twitter.com/ujlgvwfRjT",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1326058616240136194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 802,
+							"h": 345,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 293,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 802,
+							"h": 345,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6900,
+			"friends_count": 2991,
+			"listed_count": 101,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2714,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예술경영 웹진 : 기획자노트] \n\n&lt;캐나다 아트 퍼실리테이터가 사는 법&gt;\n\n456호 기획자노트 더보기👇\nhttps://t.co/2h6RmuiXQ6\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/ujlgvwfRjT"
+	},
+	{
+		"created_at": "Tue Nov 10 07:27:05 +0000 2020",
+		"id": 1326049581646352400,
+		"id_str": "1326063814094282752",
+		"full_text": "Ready for all the FUN shenanigans?! 🤣 \n\nCatch the @BLACKPINK Gameplay Show premiere in PUBG MOBILE at 13:00 (UTC+0) on Friday, November 13.\n\nYou can also watch the broadcast at 14:00 (UTC+0) via PUBG MOBILE’s official Facebook and YouTube channels! https://t.co/4ftbhlu7ta",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						50,
+						60
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326049456085667800,
+					"id_str": "1326049456085667840",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/EmcTEBXXMAIQmLx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmcTEBXXMAIQmLx.jpg",
+					"url": "https://t.co/4ftbhlu7ta",
+					"display_url": "pic.twitter.com/4ftbhlu7ta",
+					"expanded_url": "https://twitter.com/PUBGMOBILE/status/1326049581646352385/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326049456085667800,
+					"id_str": "1326049456085667840",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/EmcTEBXXMAIQmLx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmcTEBXXMAIQmLx.jpg",
+					"url": "https://t.co/4ftbhlu7ta",
+					"display_url": "pic.twitter.com/4ftbhlu7ta",
+					"expanded_url": "https://twitter.com/PUBGMOBILE/status/1326049581646352385/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 56590,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1326049456085667840/vid/640x360/5cFveancVxdHjEV6.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1326049456085667840/vid/1280x720/8aUimvGsJGfcuZOW.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1326049456085667840/pl/fjpZcaONAGdXvrg8.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1326049456085667840/vid/480x270/mLGujGziInHhmCUN.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "BLACKPINK Gameplay Show Trailer 2",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968652142750810100,
+			"id_str": "968652142750810114",
+			"name": "PUBG MOBILE",
+			"screen_name": "PUBGMOBILE",
+			"location": "",
+			"description": "PLAYERUNKNOWN'S BATTLEGROUNDS goes mobile - the original Battle Royale game is now available on your device! #pubgmobile\n\nOfficial community: https://t.co/kAZqjN0UVf",
+			"url": "https://t.co/Wx3JvVKSnL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Wx3JvVKSnL",
+							"expanded_url": "http://pubgm.cc",
+							"display_url": "pubgm.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kAZqjN0UVf",
+							"expanded_url": "http://discord.gg/pubgm",
+							"display_url": "discord.gg/pubgm",
+							"indices": [
+								142,
+								165
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1131012,
+			"friends_count": 151,
+			"listed_count": 540,
+			"created_at": "Wed Feb 28 01:00:42 +0000 2018",
+			"favourites_count": 3426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322815911737262080/xq_7yDpW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322815911737262080/xq_7yDpW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968652142750810114/1604218866",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5145,
+		"favorite_count": 19500,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ready for all the FUN shenanigans?! 🤣 \n\nCatch the @BLACKPINK Gameplay Show premiere in PUBG MOBILE at 13:00 (UTC+0) on Friday, November 13.\n\nYou can also watch the broadcast at 14:00 (UTC+0) via PUBG MOBILE’s official Facebook and YouTube channels! https://t.co/4ftbhlu7ta"
+	},
+	{
 		"created_at": "Tue Nov 10 06:51:05 +0000 2020",
 		"id": 1326054755999887400,
 		"id_str": "1326054755999887360",
