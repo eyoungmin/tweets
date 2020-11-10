@@ -1,6 +1,455 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 10 09:45:37 +0000 2020",
+		"id": 1326087201289957400,
+		"id_str": "1326098677488816128",
+		"full_text": "어느덧 700회를 맞은 &lt;#쇼음악중심&gt; 🎉\n700회 특집 커버 &amp; 콜라보 무대\n\n펜타곤 - 우리집 (2pm)\n(여자)아이들 - Don't touch me (환불원정대)\n김다비 x 이달의소녀 - 주라주라\n\n#펜타곤 #2pm #우리집 #여자아이들 #Donttouchme #환불원정대\n#둘째이모 #김다비 #이달의소녀 #주라주라 https://t.co/8UDLedJoUS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						17,
+						23
+					]
+				},
+				{
+					"text": "펜타곤",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "2pm",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "우리집",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "여자아이들",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "Donttouchme",
+					"indices": [
+						146,
+						158
+					]
+				},
+				{
+					"text": "환불원정대",
+					"indices": [
+						159,
+						165
+					]
+				},
+				{
+					"text": "둘째이모",
+					"indices": [
+						166,
+						171
+					]
+				},
+				{
+					"text": "김다비",
+					"indices": [
+						172,
+						176
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						177,
+						183
+					]
+				},
+				{
+					"text": "주라주라",
+					"indices": [
+						184,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326024324289982500,
+					"id_str": "1326024324289982464",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/Emb8c-nU8AAtfSW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emb8c-nU8AAtfSW.jpg",
+					"url": "https://t.co/8UDLedJoUS",
+					"display_url": "pic.twitter.com/8UDLedJoUS",
+					"expanded_url": "https://twitter.com/withMBC/status/1326087201289957378/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326024324289982500,
+					"id_str": "1326024324289982464",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/Emb8c-nU8AAtfSW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emb8c-nU8AAtfSW.jpg",
+					"url": "https://t.co/8UDLedJoUS",
+					"display_url": "pic.twitter.com/8UDLedJoUS",
+					"expanded_url": "https://twitter.com/withMBC/status/1326087201289957378/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 148915,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1326024324289982464/vid/640x360/ExqQyzXiSI6F1w9o.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1326024324289982464/vid/1280x720/tJZ9SQD12OTYAypq.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1326024324289982464/vid/480x270/17I5vPbFNebCqcta.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1326024324289982464/pl/B5-zDvzob5bAk0qF.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "MBC 방송 프로그램 홍보 트위터 MBC PR",
+			"url": "https://t.co/yOEvgSpDjG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yOEvgSpDjG",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1006771,
+			"friends_count": 10182,
+			"listed_count": 4200,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 43576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1603954509",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어느덧 700회를 맞은 &lt;#쇼음악중심&gt; 🎉\n700회 특집 커버 &amp; 콜라보 무대\n\n펜타곤 - 우리집 (2pm)\n(여자)아이들 - Don't touch me (환불원정대)\n김다비 x 이달의소녀 - 주라주라\n\n#펜타곤 #2pm #우리집 #여자아이들 #Donttouchme #환불원정대\n#둘째이모 #김다비 #이달의소녀 #주라주라 https://t.co/8UDLedJoUS"
+	},
+	{
+		"created_at": "Tue Nov 10 09:27:04 +0000 2020",
+		"id": 1326087213667373000,
+		"id_str": "1326094012659404800",
+		"full_text": "블랙핑크와 카카오X멜론이 함께하는 스페셜한 이벤트 확인하세요!\n\n🖤💖 https://t.co/E2xqcoxW9f\n\n#BLACKPINK #블랙핑크 \n#JISOO #JENNIE #ROSÉ #LISA\n#THEALBUM #1stFULLALBUM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						64,
+						74
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						89,
+						96
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "THEALBUM",
+					"indices": [
+						109,
+						118
+					]
+				},
+				{
+					"text": "1stFULLALBUM",
+					"indices": [
+						119,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E2xqcoxW9f",
+					"expanded_url": "http://kko.to/blackpink2020",
+					"display_url": "kko.to/blackpink2020",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/c2mkxA118z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c2mkxA118z",
+							"expanded_url": "https://blink.blackpinkofficial.com/",
+							"display_url": "blink.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5649215,
+			"friends_count": 6,
+			"listed_count": 5866,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1601269396",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3023,
+		"favorite_count": 14133,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블랙핑크와 카카오X멜론이 함께하는 스페셜한 이벤트 확인하세요!\n\n🖤💖 https://t.co/E2xqcoxW9f\n\n#BLACKPINK #블랙핑크 \n#JISOO #JENNIE #ROSÉ #LISA\n#THEALBUM #1stFULLALBUM"
+	},
+	{
 		"created_at": "Tue Nov 10 08:45:53 +0000 2020",
 		"id": 1326083298750161000,
 		"id_str": "1326083645027864576",
