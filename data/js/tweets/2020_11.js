@@ -1,6 +1,593 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 10 01:45:37 +0000 2020",
+		"id": 1325970835522252800,
+		"id_str": "1325977883135893504",
+		"full_text": "달빛을 찬란하게 뿌리는 판타지 소설 속 달빛요정의 실사판🌙 이달소 보는 순간 심장의 수축과 이완이 급격히 빨라져서 온 몸에 혈액이 마구마구 돌고 있어요➿‼️\n\n#이달의_소녀 #Why_Not @loonatheworld https://t.co/fyC32tDd3e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의_소녀",
+					"indices": [
+						89,
+						96
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						97,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						106,
+						120
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1325970805675577300,
+					"id_str": "1325970805675577344",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EmbLbCbU0AAOCF4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmbLbCbU0AAOCF4.jpg",
+					"url": "https://t.co/fyC32tDd3e",
+					"display_url": "pic.twitter.com/fyC32tDd3e",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1325970835522252800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 934,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 620,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 934,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325970805675577300,
+					"id_str": "1325970805675577344",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EmbLbCbU0AAOCF4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmbLbCbU0AAOCF4.jpg",
+					"url": "https://t.co/fyC32tDd3e",
+					"display_url": "pic.twitter.com/fyC32tDd3e",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1325970835522252800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 934,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 620,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 934,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 517295819,
+			"id_str": "517295819",
+			"name": "THE SHOW",
+			"screen_name": "sbsmtvtheshow",
+			"location": "",
+			"description": "SBS MTV THE SHOW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 856647,
+			"friends_count": 84,
+			"listed_count": 1372,
+			"created_at": "Wed Mar 07 06:49:30 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/517295819/1528422724",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 356,
+		"favorite_count": 1262,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "달빛을 찬란하게 뿌리는 판타지 소설 속 달빛요정의 실사판🌙 이달소 보는 순간 심장의 수축과 이완이 급격히 빨라져서 온 몸에 혈액이 마구마구 돌고 있어요➿‼️\n\n#이달의_소녀 #Why_Not @loonatheworld https://t.co/fyC32tDd3e"
+	},
+	{
+		"created_at": "Tue Nov 10 01:24:21 +0000 2020",
+		"id": 1325972532961349600,
+		"id_str": "1325972532961349634",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, ‘Kill This Love’ 뮤직비디오 11억뷰 돌파…13억뷰 ‘뚜두뚜두’ 이어 통산 두 번째\nhttps://t.co/eb5343upwa\n#블랙핑크 #BLACKPINK https://t.co/f47IGG497k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						107,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eb5343upwa",
+					"expanded_url": "https://yg-life.com/archives/162449?lang=ko",
+					"display_url": "yg-life.com/archives/16244…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1325972531602477000,
+					"id_str": "1325972531602477057",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EmbM_gAXUAE_VQr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmbM_gAXUAE_VQr.jpg",
+					"url": "https://t.co/f47IGG497k",
+					"display_url": "pic.twitter.com/f47IGG497k",
+					"expanded_url": "https://twitter.com/fromminn/status/1325972532961349634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325972531602477000,
+					"id_str": "1325972531602477057",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EmbM_gAXUAE_VQr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmbM_gAXUAE_VQr.jpg",
+					"url": "https://t.co/f47IGG497k",
+					"display_url": "pic.twitter.com/f47IGG497k",
+					"expanded_url": "https://twitter.com/fromminn/status/1325972532961349634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71885,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, ‘Kill This Love’ 뮤직비디오 11억뷰 돌파…13억뷰 ‘뚜두뚜두’ 이어 통산 두 번째\nhttps://t.co/eb5343upwa\n#블랙핑크 #BLACKPINK https://t.co/f47IGG497k"
+	},
+	{
+		"created_at": "Tue Nov 10 01:24:17 +0000 2020",
+		"id": 1325972515328495600,
+		"id_str": "1325972515328495617",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n트레저 “힙합 첫 도전, ‘YG선배’ 블랙핑크처럼 글로벌돌 될 것”\nhttps://t.co/uvRGUTc7yl\n#블랙핑크 #BLACKPINK https://t.co/P9tNGnfj41",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						85,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uvRGUTc7yl",
+					"expanded_url": "https://yg-life.com/archives/162443?lang=ko",
+					"display_url": "yg-life.com/archives/16244…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1325972514124796000,
+					"id_str": "1325972514124795904",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EmbM-e5XEAAedPd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmbM-e5XEAAedPd.jpg",
+					"url": "https://t.co/P9tNGnfj41",
+					"display_url": "pic.twitter.com/P9tNGnfj41",
+					"expanded_url": "https://twitter.com/fromminn/status/1325972515328495617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 430,
+							"h": 298,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 298,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 298,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325972514124796000,
+					"id_str": "1325972514124795904",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EmbM-e5XEAAedPd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmbM-e5XEAAedPd.jpg",
+					"url": "https://t.co/P9tNGnfj41",
+					"display_url": "pic.twitter.com/P9tNGnfj41",
+					"expanded_url": "https://twitter.com/fromminn/status/1325972515328495617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 430,
+							"h": 298,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 298,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 298,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71885,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n트레저 “힙합 첫 도전, ‘YG선배’ 블랙핑크처럼 글로벌돌 될 것”\nhttps://t.co/uvRGUTc7yl\n#블랙핑크 #BLACKPINK https://t.co/P9tNGnfj41"
+	},
+	{
 		"created_at": "Tue Nov 10 00:31:17 +0000 2020",
 		"id": 1325959177353777200,
 		"id_str": "1325959177353777152",
