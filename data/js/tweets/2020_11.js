@@ -1,6 +1,670 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 10 21:22:22 +0000 2020",
+		"id": 1326087203911594000,
+		"id_str": "1326274020484935681",
+		"full_text": "202020 BoA Teaser #1\n\n➫ 2020.11.12 6PM KST\n\n#보아 #BoA #202020BoA https://t.co/ZdAUp1fAsb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보아",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "202020BoA",
+					"indices": [
+						53,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1325757142331129900,
+					"id_str": "1325757142331129857",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EmYMmbLVoAEw68X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmYMmbLVoAEw68X.jpg",
+					"url": "https://t.co/ZdAUp1fAsb",
+					"display_url": "pic.twitter.com/ZdAUp1fAsb",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1326087203911593990/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325757142331129900,
+					"id_str": "1325757142331129857",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EmYMmbLVoAEw68X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmYMmbLVoAEw68X.jpg",
+					"url": "https://t.co/ZdAUp1fAsb",
+					"display_url": "pic.twitter.com/ZdAUp1fAsb",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1326087203911593990/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 27594,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1325757142331129857/vid/480x270/TRrG6UYIt1IAhCgC.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1325757142331129857/pl/xTWDBG35GpQuHbbH.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1325757142331129857/vid/640x360/igTuhF8MmsJasfPu.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1325757142331129857/vid/1280x720/HhoXOwXIZ4Nl8-xP.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32275,
+			"friends_count": 1,
+			"listed_count": 90,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2559,
+		"favorite_count": 11138,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "202020 BoA Teaser #1\n\n➫ 2020.11.12 6PM KST\n\n#보아 #BoA #202020BoA https://t.co/ZdAUp1fAsb"
+	},
+	{
+		"created_at": "Tue Nov 10 21:22:19 +0000 2020",
+		"id": 1326010157482963000,
+		"id_str": "1326274009533566976",
+		"full_text": "💛보아 데뷔 20주년 기념 뮤직 다큐멘터리 ‘202020 BoA’ 12일 오후 6시 공개!\n\n💛‘퀸메이커’들의 인터뷰부터 히트곡 재현까지, 독보적인 히스토리 조명!\n\n💛오늘, 11일 오후 6시 ‘202020 BoA’ 티저 공개!\n\n#보아 #BoA #202020BoA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보아",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "202020BoA",
+					"indices": [
+						138,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1326010154614075400,
+		"in_reply_to_status_id_str": "1326010154614075394",
+		"in_reply_to_user_id": 1288694479197581300,
+		"in_reply_to_user_id_str": "1288694479197581312",
+		"in_reply_to_screen_name": "BoA_Official",
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32275,
+			"friends_count": 1,
+			"listed_count": 90,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 172,
+		"favorite_count": 426,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "💛보아 데뷔 20주년 기념 뮤직 다큐멘터리 ‘202020 BoA’ 12일 오후 6시 공개!\n\n💛‘퀸메이커’들의 인터뷰부터 히트곡 재현까지, 독보적인 히스토리 조명!\n\n💛오늘, 11일 오후 6시 ‘202020 BoA’ 티저 공개!\n\n#보아 #BoA #202020BoA"
+	},
+	{
+		"created_at": "Tue Nov 10 21:22:17 +0000 2020",
+		"id": 1326010154614075400,
+		"id_str": "1326274000478113793",
+		"full_text": "💛Music documentary ‘202020 BoA’ celebrating BoA's 20th anniversary out on 11/12 6PM KST!\n\n💛Queenmakers’ interviews + BoA's reenactment of hits + highlight of her unparalleled history!\n\n💛'202020 BoA' teaser to be released today &amp; tomorrow 6PM KST!\n\n#BoA #보아 #202020BoA https://t.co/MqjzymP0PC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						252,
+						256
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						257,
+						260
+					]
+				},
+				{
+					"text": "202020BoA",
+					"indices": [
+						261,
+						271
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326003984641896400,
+					"id_str": "1326003984641896448",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/EmbpmTtVMAACsGU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmbpmTtVMAACsGU.jpg",
+					"url": "https://t.co/MqjzymP0PC",
+					"display_url": "pic.twitter.com/MqjzymP0PC",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1326010154614075394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1213,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 403,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 711,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326003984641896400,
+					"id_str": "1326003984641896448",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/EmbpmTtVMAACsGU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmbpmTtVMAACsGU.jpg",
+					"url": "https://t.co/MqjzymP0PC",
+					"display_url": "pic.twitter.com/MqjzymP0PC",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1326010154614075394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1213,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 403,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 711,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32275,
+			"friends_count": 1,
+			"listed_count": 90,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 772,
+		"favorite_count": 2089,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💛Music documentary ‘202020 BoA’ celebrating BoA's 20th anniversary out on 11/12 6PM KST!\n\n💛Queenmakers’ interviews + BoA's reenactment of hits + highlight of her unparalleled history!\n\n💛'202020 BoA' teaser to be released today &amp; tomorrow 6PM KST!\n\n#BoA #보아 #202020BoA https://t.co/MqjzymP0PC"
+	},
+	{
+		"created_at": "Tue Nov 10 21:22:07 +0000 2020",
+		"id": 1324242164751102000,
+		"id_str": "1326273960095313920",
+		"full_text": "💿🛒\n\n스페셜반\n➫https://t.co/LaMhlVOAjF ➫https://t.co/EbzxWstEmG\n\n일반반\n➫https://t.co/GhsqNNSD9K ➫https://t.co/U4giTX7Yl9\n\n카세트테이프\n➫https://t.co/1Gpz5P8qBN\n➫https://t.co/bPYzinsHJF\n\n#BoA #보아 #BETTER",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						178,
+						181
+					]
+				},
+				{
+					"text": "BETTER",
+					"indices": [
+						182,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LaMhlVOAjF",
+					"expanded_url": "http://www.yes24.com/Product/Goods/95075915?OzSrank=1",
+					"display_url": "yes24.com/Product/Goods/…",
+					"indices": [
+						10,
+						33
+					]
+				},
+				{
+					"url": "https://t.co/EbzxWstEmG",
+					"expanded_url": "http://www.hottracks.co.kr/ht/record/detail/8809633189418",
+					"display_url": "hottracks.co.kr/ht/record/deta…",
+					"indices": [
+						35,
+						58
+					]
+				},
+				{
+					"url": "https://t.co/GhsqNNSD9K",
+					"expanded_url": "http://www.yes24.com/Product/Goods/95075864?OzSrank=2",
+					"display_url": "yes24.com/Product/Goods/…",
+					"indices": [
+						65,
+						88
+					]
+				},
+				{
+					"url": "https://t.co/U4giTX7Yl9",
+					"expanded_url": "http://www.hottracks.co.kr/ht/record/detail/8809633189401",
+					"display_url": "hottracks.co.kr/ht/record/deta…",
+					"indices": [
+						90,
+						113
+					]
+				},
+				{
+					"url": "https://t.co/1Gpz5P8qBN",
+					"expanded_url": "http://www.yes24.com/Product/Goods/95075934?OzSrank=3",
+					"display_url": "yes24.com/Product/Goods/…",
+					"indices": [
+						123,
+						146
+					]
+				},
+				{
+					"url": "https://t.co/bPYzinsHJF",
+					"expanded_url": "http://www.hottracks.co.kr/ht/record/detail/8809633189425",
+					"display_url": "hottracks.co.kr/ht/record/deta…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1324242162683322400,
+		"in_reply_to_status_id_str": "1324242162683322370",
+		"in_reply_to_user_id": 1288694479197581300,
+		"in_reply_to_user_id_str": "1288694479197581312",
+		"in_reply_to_screen_name": "BoA_Official",
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32275,
+			"friends_count": 1,
+			"listed_count": 90,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 201,
+		"favorite_count": 523,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿🛒\n\n스페셜반\n➫https://t.co/LaMhlVOAjF ➫https://t.co/EbzxWstEmG\n\n일반반\n➫https://t.co/GhsqNNSD9K ➫https://t.co/U4giTX7Yl9\n\n카세트테이프\n➫https://t.co/1Gpz5P8qBN\n➫https://t.co/bPYzinsHJF\n\n#BoA #보아 #BETTER"
+	},
+	{
 		"created_at": "Tue Nov 10 20:21:05 +0000 2020",
 		"id": 1326258601510514700,
 		"id_str": "1326258601510514692",
