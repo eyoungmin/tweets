@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 10 16:48:13 +0000 2020",
+		"id": 1326205028986617900,
+		"id_str": "1326205028986617856",
+		"full_text": "걸그룹 ‘에스파’ 아바타 멤버들, 딥페이크 피해시 법적 보호 가능할까? | 일요신문\nhttps://t.co/KzKETiLb7u\n\n#에스파 #인공지능 #AI #아바타 #모욕죄 #뮤직비지니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에스파",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "인공지능",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "AI",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "아바타",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "모욕죄",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						97,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KzKETiLb7u",
+					"expanded_url": "https://m.ilyo.co.kr/?ac=article_view&entry_id=383996&fbclid=IwAR1sbQfwtw99UT0x3-6uhudbwAJLs_tOSHy_NlYL2OPFy7VsmLVNu3WKluE",
+					"display_url": "m.ilyo.co.kr/?ac=article_vi…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1019,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "걸그룹 ‘에스파’ 아바타 멤버들, 딥페이크 피해시 법적 보호 가능할까? | 일요신문\nhttps://t.co/KzKETiLb7u\n\n#에스파 #인공지능 #AI #아바타 #모욕죄 #뮤직비지니스"
+	},
+	{
+		"created_at": "Tue Nov 10 16:29:47 +0000 2020",
+		"id": 1326200390547771400,
+		"id_str": "1326200390547771398",
+		"full_text": "AI에 꽂힌 나머지 하는 일이 뮤직 인더스트리인지 인공지능인지 주객전도된 느낌의 결과물. 스엠의 음악을 좋아하는 것이지 기술력을 좋아하는 것이 아닐텐데. 부수적인 것도 마찬가지고. 아티스트를 양성하는 기획사인지 인공지능 회사인지 경계가 없으면 결과물이라도 좋아야.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1019,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "AI에 꽂힌 나머지 하는 일이 뮤직 인더스트리인지 인공지능인지 주객전도된 느낌의 결과물. 스엠의 음악을 좋아하는 것이지 기술력을 좋아하는 것이 아닐텐데. 부수적인 것도 마찬가지고. 아티스트를 양성하는 기획사인지 인공지능 회사인지 경계가 없으면 결과물이라도 좋아야."
+	},
+	{
+		"created_at": "Tue Nov 10 16:23:14 +0000 2020",
+		"id": 1326198741691293700,
+		"id_str": "1326198741691293696",
+		"full_text": "글 품앗이 해주는 것을 굉장히 싫어하는데 페이스북보면 널리고 널려있다는 것을 실감한다. 글 자체로 평가되는 것이 아니라 니편내편 친밀도가 글의 수준 잣대가 됨. 그래서 누군가 글이 좋다고 쓴다면 그 글은 그렇게 공유한 사람의 리트머스가 됨. 글쓴이도 물론이거니와.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1019,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "글 품앗이 해주는 것을 굉장히 싫어하는데 페이스북보면 널리고 널려있다는 것을 실감한다. 글 자체로 평가되는 것이 아니라 니편내편 친밀도가 글의 수준 잣대가 됨. 그래서 누군가 글이 좋다고 쓴다면 그 글은 그렇게 공유한 사람의 리트머스가 됨. 글쓴이도 물론이거니와."
+	},
+	{
 		"created_at": "Tue Nov 10 15:56:07 +0000 2020",
 		"id": 1326128772525949000,
 		"id_str": "1326191919966294018",
