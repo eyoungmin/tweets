@@ -1,6 +1,172 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 10 15:08:13 +0000 2020",
+		"id": 1326179864207093800,
+		"id_str": "1326179864207093761",
+		"full_text": "#MusicA\nMusic A's Choice MIX #1\nhttps://t.co/E2AwNwgJ6J\n\n▶ https://t.co/8YAX29Tqht\n\n#ADOY #아도이 #오주환\n#인디음악 #음악추천 #음악\n#팟캐스트 #Podcast",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicA",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "ADOY",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "아도이",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "오주환",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "음악추천",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "음악",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "팟캐스트",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "Podcast",
+					"indices": [
+						122,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E2AwNwgJ6J",
+					"expanded_url": "https://www.podty.me/episode/14767054",
+					"display_url": "podty.me/episode/147670…",
+					"indices": [
+						32,
+						55
+					]
+				},
+				{
+					"url": "https://t.co/8YAX29Tqht",
+					"expanded_url": "https://cdn-cf.podty.me/meta/episode_audio/100049926/204234_1604566565939.mp3",
+					"display_url": "cdn-cf.podty.me/meta/episode_a…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1019,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44092,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#MusicA\nMusic A's Choice MIX #1\nhttps://t.co/E2AwNwgJ6J\n\n▶ https://t.co/8YAX29Tqht\n\n#ADOY #아도이 #오주환\n#인디음악 #음악추천 #음악\n#팟캐스트 #Podcast"
+	},
+	{
 		"created_at": "Tue Nov 10 14:27:08 +0000 2020",
 		"id": 1326162791443570700,
 		"id_str": "1326169523699986432",
