@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 11 12:45:37 +0000 2020",
+		"id": 1326494884610662400,
+		"id_str": "1326506364135477248",
+		"full_text": "#WEEKLY_BEST_CLIP\n💖SHOW CHAMPION EP.378💖\nGFRIEND / MONSTA X / AB6IX / PARK JI HOON / SECRET NUMBER / Natty / TOMORROW X TOGETHER / LOONA / JBJ95 / CIX / VERIVERY/DRIPPIN/P1Harmony/WJSN CHOCOME/DKB/BERRYGOOD\n\n▶https://t.co/4sZv5Iy6eY\n\n#ALLTHEKPOP #WEEKLY_BEST_CLIP #SHOWCHAMPION https://t.co/NsJyW3UQQi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WEEKLY_BEST_CLIP",
+					"indices": [
+						0,
+						17
+					]
+				},
+				{
+					"text": "ALLTHEKPOP",
+					"indices": [
+						234,
+						245
+					]
+				},
+				{
+					"text": "WEEKLY_BEST_CLIP",
+					"indices": [
+						246,
+						263
+					]
+				},
+				{
+					"text": "SHOWCHAMPION",
+					"indices": [
+						264,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4sZv5Iy6eY",
+					"expanded_url": "https://bit.ly/3pfQObt",
+					"display_url": "bit.ly/3pfQObt",
+					"indices": [
+						209,
+						232
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326073025972695000,
+					"id_str": "1326073025972695040",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EmcoZCtUcAApHG9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmcoZCtUcAApHG9.jpg",
+					"url": "https://t.co/NsJyW3UQQi",
+					"display_url": "pic.twitter.com/NsJyW3UQQi",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1326494884610662401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326073025972695000,
+					"id_str": "1326073025972695040",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EmcoZCtUcAApHG9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmcoZCtUcAApHG9.jpg",
+					"url": "https://t.co/NsJyW3UQQi",
+					"display_url": "pic.twitter.com/NsJyW3UQQi",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1326494884610662401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/YpjchEd2rf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YpjchEd2rf",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61945,
+			"friends_count": 2495,
+			"listed_count": 244,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6031,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 163,
+		"favorite_count": 376,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#WEEKLY_BEST_CLIP\n💖SHOW CHAMPION EP.378💖\nGFRIEND / MONSTA X / AB6IX / PARK JI HOON / SECRET NUMBER / Natty / TOMORROW X TOGETHER / LOONA / JBJ95 / CIX / VERIVERY/DRIPPIN/P1Harmony/WJSN CHOCOME/DKB/BERRYGOOD\n\n▶https://t.co/4sZv5Iy6eY\n\n#ALLTHEKPOP #WEEKLY_BEST_CLIP #SHOWCHAMPION https://t.co/NsJyW3UQQi"
+	},
+	{
 		"created_at": "Wed Nov 11 11:27:12 +0000 2020",
 		"id": 1326482185801531400,
 		"id_str": "1326486629792550912",
