@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 10 23:27:57 +0000 2020",
+		"id": 1326296891894583300,
+		"id_str": "1326305624880259072",
+		"full_text": "[#부퀘스트 #레드벨벳 7화🌹]\n\n벨 모닝~!🌞\n요즘 핫템 크로플과🥐 \n#레벨 의 사랑스러운 아침시간💕\n\n부퀘스트배 카트레이싱 대회🏎\n끝날때까지 끝난게 아니다🏆\n승부욕 불타오르는 #RedVelvet 🔥\n\n#아이돌라이브에서 #러비 들 같이 봐요❤️\n🍷링크: https://t.co/zG1Q2Yer3p\n\n@RVsmtown https://t.co/EswSqj7Tlb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "부퀘스트",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "레벨",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						100,
+						110
+					]
+				},
+				{
+					"text": "아이돌라이브에서",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"text": "러비",
+					"indices": [
+						124,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						168,
+						177
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zG1Q2Yer3p",
+					"expanded_url": "http://idollive.page.link/15r8kkM4d54r6FAw6",
+					"display_url": "idollive.page.link/15r8kkM4d54r6F…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326296815860265000,
+					"id_str": "1326296815860264963",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326296815860264963/pu/img/U3E5L1-yBuH8GgL1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326296815860264963/pu/img/U3E5L1-yBuH8GgL1.jpg",
+					"url": "https://t.co/EswSqj7Tlb",
+					"display_url": "pic.twitter.com/EswSqj7Tlb",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1326296891894583303/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326296815860265000,
+					"id_str": "1326296815860264963",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326296815860264963/pu/img/U3E5L1-yBuH8GgL1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326296815860264963/pu/img/U3E5L1-yBuH8GgL1.jpg",
+					"url": "https://t.co/EswSqj7Tlb",
+					"display_url": "pic.twitter.com/EswSqj7Tlb",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1326296891894583303/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 33063,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326296815860264963/pu/vid/480x270/QuuzLYBBc3U0ZB-u.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326296815860264963/pu/vid/640x360/qcSw3kyC2iEnyaU_.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1326296815860264963/pu/pl/__250GWuyKTd2rmx.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326296815860264963/pu/vid/1280x720/IdZ-2f2KQ1wisYiz.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093324810904432600,
+			"id_str": "1093324810904432640",
+			"name": "아이돌Live",
+			"screen_name": "uplusidollive",
+			"location": "Republic of Korea",
+			"description": "'좋아하는 아이돌 무대를 눈앞에서 보는 것처럼'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73450,
+			"friends_count": 6,
+			"listed_count": 81,
+			"created_at": "Thu Feb 07 01:45:22 +0000 2019",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093324810904432640/1602464402",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 146,
+		"favorite_count": 331,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#부퀘스트 #레드벨벳 7화🌹]\n\n벨 모닝~!🌞\n요즘 핫템 크로플과🥐 \n#레벨 의 사랑스러운 아침시간💕\n\n부퀘스트배 카트레이싱 대회🏎\n끝날때까지 끝난게 아니다🏆\n승부욕 불타오르는 #RedVelvet 🔥\n\n#아이돌라이브에서 #러비 들 같이 봐요❤️\n🍷링크: https://t.co/zG1Q2Yer3p\n\n@RVsmtown https://t.co/EswSqj7Tlb"
+	},
+	{
 		"created_at": "Tue Nov 10 22:59:12 +0000 2020",
 		"id": 1326100374583963600,
 		"id_str": "1326298391760941056",
