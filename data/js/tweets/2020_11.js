@@ -1,6 +1,172 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 11 15:03:57 +0000 2020",
+		"id": 1326541177223409700,
+		"id_str": "1326541177223409673",
+		"full_text": "#MusicA\nMusic A's Choice MIX #1 (only music)\nhttps://t.co/LxInUS3mVg\n\n▶ https://t.co/YT1nTnjqXW\n\n#ADOY #아도이 #오주환\n#인디음악 #음악추천 #음악\n#팟캐스트 #Podcast",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicA",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "ADOY",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "아도이",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "오주환",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "음악추천",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "음악",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "팟캐스트",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "Podcast",
+					"indices": [
+						135,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LxInUS3mVg",
+					"expanded_url": "https://www.podty.me/episode/14773178",
+					"display_url": "podty.me/episode/147731…",
+					"indices": [
+						45,
+						68
+					]
+				},
+				{
+					"url": "https://t.co/YT1nTnjqXW",
+					"expanded_url": "https://cdn-cf.podty.me/meta/episode_audio/100049926/204234_1604559268513.mp3",
+					"display_url": "cdn-cf.podty.me/meta/episode_a…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 1018,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72031,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#MusicA\nMusic A's Choice MIX #1 (only music)\nhttps://t.co/LxInUS3mVg\n\n▶ https://t.co/YT1nTnjqXW\n\n#ADOY #아도이 #오주환\n#인디음악 #음악추천 #음악\n#팟캐스트 #Podcast"
+	},
+	{
 		"created_at": "Wed Nov 11 13:04:12 +0000 2020",
 		"id": 1326511043565252600,
 		"id_str": "1326511043565252609",
