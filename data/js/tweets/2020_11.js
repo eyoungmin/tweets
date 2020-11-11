@@ -1,6 +1,859 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 11 18:01:53 +0000 2020",
+		"id": 1326454596139544600,
+		"id_str": "1326585956384714753",
+		"full_text": "박문치 &amp; 레드벨벳 조이\n'바라봐줘요' COVER (원곡 - 죠지)\n👉 https://t.co/E0RTWQiQ0x\n\n노을지는 풍경을 배경으로 동갑내기 두 사람의 케미가 돋보이는 라이브를 만나보세요.\n\n#박문치 #레드벨벳 #RedVelvet #조이 #JOY #바라봐줘요 #죠지 https://t.co/H4gIhYlbsP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박문치",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						127,
+						137
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "바라봐줘요",
+					"indices": [
+						147,
+						153
+					]
+				},
+				{
+					"text": "죠지",
+					"indices": [
+						154,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E0RTWQiQ0x",
+					"expanded_url": "https://youtu.be/aDce_GBE8Mg",
+					"display_url": "youtu.be/aDce_GBE8Mg",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326454585519599600,
+					"id_str": "1326454585519599617",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EmiDauyVcAE_m8s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmiDauyVcAE_m8s.jpg",
+					"url": "https://t.co/H4gIhYlbsP",
+					"display_url": "pic.twitter.com/H4gIhYlbsP",
+					"expanded_url": "https://twitter.com/msbsound/status/1326454596139544576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326454585519599600,
+					"id_str": "1326454585519599617",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EmiDauyVcAE_m8s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmiDauyVcAE_m8s.jpg",
+					"url": "https://t.co/H4gIhYlbsP",
+					"display_url": "pic.twitter.com/H4gIhYlbsP",
+					"expanded_url": "https://twitter.com/msbsound/status/1326454596139544576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드🍓\nMagicstrawberry Sound. Music label based in Korea.",
+			"url": "https://t.co/hG14tT4CA9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hG14tT4CA9",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8377,
+			"friends_count": 5736,
+			"listed_count": 98,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1597394894",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 231,
+		"favorite_count": 409,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "박문치 &amp; 레드벨벳 조이\n'바라봐줘요' COVER (원곡 - 죠지)\n👉 https://t.co/E0RTWQiQ0x\n\n노을지는 풍경을 배경으로 동갑내기 두 사람의 케미가 돋보이는 라이브를 만나보세요.\n\n#박문치 #레드벨벳 #RedVelvet #조이 #JOY #바라봐줘요 #죠지 https://t.co/H4gIhYlbsP"
+	},
+	{
+		"created_at": "Wed Nov 11 18:01:31 +0000 2020",
+		"id": 1326486838316474400,
+		"id_str": "1326585864953102336",
+		"full_text": "조이랑 문치랑 🎵\n박문치와 레드벨벳 조이가 함께한 ‘바라봐줘요’ 비하인드 영상이 공개되었습니다!\n\n👉 https://t.co/wmS8gT7jct https://t.co/IJLUtsJ4HY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wmS8gT7jct",
+					"expanded_url": "https://youtu.be/INNEmkk5cQg",
+					"display_url": "youtu.be/INNEmkk5cQg",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326486831441965000,
+					"id_str": "1326486831441965059",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EmigvsNU8AMJvrl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmigvsNU8AMJvrl.jpg",
+					"url": "https://t.co/IJLUtsJ4HY",
+					"display_url": "pic.twitter.com/IJLUtsJ4HY",
+					"expanded_url": "https://twitter.com/msbsound/status/1326486838316474370/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326486831441965000,
+					"id_str": "1326486831441965059",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EmigvsNU8AMJvrl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmigvsNU8AMJvrl.jpg",
+					"url": "https://t.co/IJLUtsJ4HY",
+					"display_url": "pic.twitter.com/IJLUtsJ4HY",
+					"expanded_url": "https://twitter.com/msbsound/status/1326486838316474370/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드🍓\nMagicstrawberry Sound. Music label based in Korea.",
+			"url": "https://t.co/hG14tT4CA9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hG14tT4CA9",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8377,
+			"friends_count": 5736,
+			"listed_count": 98,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1597394894",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 264,
+		"favorite_count": 479,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "조이랑 문치랑 🎵\n박문치와 레드벨벳 조이가 함께한 ‘바라봐줘요’ 비하인드 영상이 공개되었습니다!\n\n👉 https://t.co/wmS8gT7jct https://t.co/IJLUtsJ4HY"
+	},
+	{
+		"created_at": "Wed Nov 11 17:56:26 +0000 2020",
+		"id": 1326566907030417400,
+		"id_str": "1326584585325432833",
+		"full_text": "New feature alert: reward links 🏆\n\nLet fans unlock secret content, coupon codes, and contest entries in exchange for a subscribe or follow—no coding or design skills needed. Super effective for increasing engagement. 🙌\n\nLearn more: https://t.co/a3z4ViLWtp https://t.co/8X6exVdPGD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a3z4ViLWtp",
+					"expanded_url": "http://lnk.to/rewardlinksblogTW",
+					"display_url": "lnk.to/rewardlinksblo…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326566853314011100,
+					"id_str": "1326566853314011139",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326566853314011139/pu/img/xbGkava-_XHxSDam.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326566853314011139/pu/img/xbGkava-_XHxSDam.jpg",
+					"url": "https://t.co/8X6exVdPGD",
+					"display_url": "pic.twitter.com/8X6exVdPGD",
+					"expanded_url": "https://twitter.com/GetLinkfire/status/1326566907030417413/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326566853314011100,
+					"id_str": "1326566853314011139",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326566853314011139/pu/img/xbGkava-_XHxSDam.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326566853314011139/pu/img/xbGkava-_XHxSDam.jpg",
+					"url": "https://t.co/8X6exVdPGD",
+					"display_url": "pic.twitter.com/8X6exVdPGD",
+					"expanded_url": "https://twitter.com/GetLinkfire/status/1326566907030417413/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 24992,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1326566853314011139/pu/pl/7FVaoK0Ffilwl2te.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326566853314011139/pu/vid/720x720/oeEkHgrT55AGfh7t.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326566853314011139/pu/vid/480x480/zs2AZMCONUG1H7CM.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326566853314011139/pu/vid/320x320/LM4xcAnTU_A2g7ZW.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.loomly.com/\" rel=\"nofollow\">Loomly</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1536023024,
+			"id_str": "1536023024",
+			"name": "Linkfire",
+			"screen_name": "GetLinkfire",
+			"location": "Copenhagen",
+			"description": "Music marketing platform and smart-link management company.",
+			"url": "https://t.co/Dw3hQYwqoc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dw3hQYwqoc",
+							"expanded_url": "http://bio.to/linkfireTW",
+							"display_url": "bio.to/linkfireTW",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1640,
+			"friends_count": 823,
+			"listed_count": 33,
+			"created_at": "Fri Jun 21 08:05:48 +0000 2013",
+			"favourites_count": 784,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1242,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1128593749817405440/sQwdq3QR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128593749817405440/sQwdq3QR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1536023024/1557912729",
+			"profile_link_color": "F04E23",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New feature alert: reward links 🏆\n\nLet fans unlock secret content, coupon codes, and contest entries in exchange for a subscribe or follow—no coding or design skills needed. Super effective for increasing engagement. 🙌\n\nLearn more: https://t.co/a3z4ViLWtp https://t.co/8X6exVdPGD"
+	},
+	{
+		"created_at": "Wed Nov 11 17:54:54 +0000 2020",
+		"id": 1326453071610699800,
+		"id_str": "1326584201206882304",
+		"full_text": "태연 벅스 20주년 축하&amp;가장 사랑받은 아티스트 20 수상 감사 영상\n\nhttps://t.co/h8p3OTTvqn\nhttps://t.co/dlyrthX5fM\n#태연 #Taeyeon https://t.co/gNEfOPOTWh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "Taeyeon",
+					"indices": [
+						96,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h8p3OTTvqn",
+					"expanded_url": "https://www.instagram.com/p/CHceH3FHcPy/",
+					"display_url": "instagram.com/p/CHceH3FHcPy/",
+					"indices": [
+						44,
+						67
+					]
+				},
+				{
+					"url": "https://t.co/dlyrthX5fM",
+					"expanded_url": "https://music.bugs.co.kr/event/promotion/bugs20thAnniversary/awardsArtist",
+					"display_url": "music.bugs.co.kr/event/promotio…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326452936306688000,
+					"id_str": "1326452936306688002",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326452936306688002/pu/img/EZGfMaobc-oLacaM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326452936306688002/pu/img/EZGfMaobc-oLacaM.jpg",
+					"url": "https://t.co/gNEfOPOTWh",
+					"display_url": "pic.twitter.com/gNEfOPOTWh",
+					"expanded_url": "https://twitter.com/SNSD_0805/status/1326453071610699778/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326452936306688000,
+					"id_str": "1326452936306688002",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326452936306688002/pu/img/EZGfMaobc-oLacaM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326452936306688002/pu/img/EZGfMaobc-oLacaM.jpg",
+					"url": "https://t.co/gNEfOPOTWh",
+					"display_url": "pic.twitter.com/gNEfOPOTWh",
+					"expanded_url": "https://twitter.com/SNSD_0805/status/1326453071610699778/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 12282,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326452936306688002/pu/vid/480x270/9wJAreXUYDKF4oTO.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1326452936306688002/pu/pl/TjOtNhq9H7skQwwK.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326452936306688002/pu/vid/640x360/-wIcfpoERL0wAasP.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 173447107,
+			"id_str": "173447107",
+			"name": "화수은화",
+			"screen_name": "SNSD_0805",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41219,
+			"friends_count": 65,
+			"listed_count": 221,
+			"created_at": "Sun Aug 01 14:08:18 +0000 2010",
+			"favourites_count": 335,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1296344439338569728/v7JYvZuI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1296344439338569728/v7JYvZuI_normal.jpg",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 442,
+		"favorite_count": 561,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태연 벅스 20주년 축하&amp;가장 사랑받은 아티스트 20 수상 감사 영상\n\nhttps://t.co/h8p3OTTvqn\nhttps://t.co/dlyrthX5fM\n#태연 #Taeyeon https://t.co/gNEfOPOTWh"
+	},
+	{
 		"created_at": "Wed Nov 11 15:27:12 +0000 2020",
 		"id": 1326540429525840000,
 		"id_str": "1326547028449521665",
