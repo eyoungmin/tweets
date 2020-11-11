@@ -1,6 +1,478 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 11 01:54:50 +0000 2020",
+		"id": 1326342589738586000,
+		"id_str": "1326342589738586113",
+		"full_text": "#이달의소녀 #LOONA\n[여진] 오빛! 안녕하세요,여진이에요!\nhttps://t.co/8NZqRFupjT\n#다음팬카페 #공식팬카페 #From https://t.co/ViMUGG4KgO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "다음팬카페",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "From",
+					"indices": [
+						74,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8NZqRFupjT",
+					"expanded_url": "http://cafe.daum.net/loonatheworld/F5df/111",
+					"display_url": "cafe.daum.net/loonatheworld/…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326342588266377200,
+					"id_str": "1326342588266377217",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EmgdjogW8AEJO0x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmgdjogW8AEJO0x.jpg",
+					"url": "https://t.co/ViMUGG4KgO",
+					"display_url": "pic.twitter.com/ViMUGG4KgO",
+					"expanded_url": "https://twitter.com/fromminn/status/1326342589738586113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326342588266377200,
+					"id_str": "1326342588266377217",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EmgdjogW8AEJO0x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmgdjogW8AEJO0x.jpg",
+					"url": "https://t.co/ViMUGG4KgO",
+					"display_url": "pic.twitter.com/ViMUGG4KgO",
+					"expanded_url": "https://twitter.com/fromminn/status/1326342589738586113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1019,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA\n[여진] 오빛! 안녕하세요,여진이에요!\nhttps://t.co/8NZqRFupjT\n#다음팬카페 #공식팬카페 #From https://t.co/ViMUGG4KgO"
+	},
+	{
+		"created_at": "Wed Nov 11 01:45:37 +0000 2020",
+		"id": 1326338684723949600,
+		"id_str": "1326340270393339904",
+		"full_text": "[11/11(수) 엠뮤톡] 1시 1분 시~작! 이달의 소녀/TOO/에이프릴/몬스타 엑스/AB6IX/더보이즈/러블리즈/빅톤/비투비/트와이스/세븐틴/GOT7 오늘은 11월에 생일인 아티스트 특집! 오늘도 엠피디랑 신나게 즐겨보자구! 기다리고 있을게(찡긋)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "대한민국 서울",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/3MOZ1S1s4O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MOZ1S1s4O",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1102045,
+			"friends_count": 372,
+			"listed_count": 1240,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 731,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1513044943",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 222,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[11/11(수) 엠뮤톡] 1시 1분 시~작! 이달의 소녀/TOO/에이프릴/몬스타 엑스/AB6IX/더보이즈/러블리즈/빅톤/비투비/트와이스/세븐틴/GOT7 오늘은 11월에 생일인 아티스트 특집! 오늘도 엠피디랑 신나게 즐겨보자구! 기다리고 있을게(찡긋)"
+	},
+	{
+		"created_at": "Wed Nov 11 01:27:05 +0000 2020",
+		"id": 1326333467596976000,
+		"id_str": "1326335605203234818",
+		"full_text": "준비도 없고 장난도 없는 이수현 LIVE ❗뚜뚜 찐감동 주의❗\nSuhyun's LIVE without any preparation! It's no joke! ❗Caution: Ddu Ddu's real impression❗\n👉https://t.co/GBqEUKWajg\n\n#예리 #수현 #yeri #Suhyun #AKMU #RedVelvet #ALIEN #레드벨벳 #예리한방",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "수현",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "yeri",
+					"indices": [
+						159,
+						164
+					]
+				},
+				{
+					"text": "Suhyun",
+					"indices": [
+						165,
+						172
+					]
+				},
+				{
+					"text": "AKMU",
+					"indices": [
+						173,
+						178
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						179,
+						189
+					]
+				},
+				{
+					"text": "ALIEN",
+					"indices": [
+						190,
+						196
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						197,
+						202
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						203,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GBqEUKWajg",
+					"expanded_url": "https://youtu.be/g3fv08ZOj2E",
+					"display_url": "youtu.be/g3fv08ZOj2E",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1230039660572708900,
+			"id_str": "1230039660572708864",
+			"name": "예리한방 - Yeris Room",
+			"screen_name": "yerihan_bang",
+			"location": "",
+			"description": "예리한방(Yeri’s Room) 공식계정\n꿀잼 가득 '덤덤스튜디오' 💜\nDUMDUM STUDIO is full of fun.\n#예리한방 #예리 #레드벨벳 #yerisroom #덤덤스튜디오",
+			"url": "https://t.co/ET3yf5F3Jx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ET3yf5F3Jx",
+							"expanded_url": "http://youtube.com/dumdumstudio",
+							"display_url": "youtube.com/dumdumstudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29971,
+			"friends_count": 0,
+			"listed_count": 150,
+			"created_at": "Wed Feb 19 08:01:31 +0000 2020",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1230039660572708864/1600494343",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 503,
+		"favorite_count": 754,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "준비도 없고 장난도 없는 이수현 LIVE ❗뚜뚜 찐감동 주의❗\nSuhyun's LIVE without any preparation! It's no joke! ❗Caution: Ddu Ddu's real impression❗\n👉https://t.co/GBqEUKWajg\n\n#예리 #수현 #yeri #Suhyun #AKMU #RedVelvet #ALIEN #레드벨벳 #예리한방"
+	},
+	{
 		"created_at": "Wed Nov 11 00:50:02 +0000 2020",
 		"id": 1326326281013694500,
 		"id_str": "1326326281013694466",
