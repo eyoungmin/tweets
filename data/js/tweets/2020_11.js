@@ -1,6 +1,879 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 11 07:01:47 +0000 2020",
+		"id": 1326419836692553700,
+		"id_str": "1326419836692553735",
+		"full_text": "송 크레딧 분류를 각 플랫폼 방침에 맞게 하고 있겠지만서도 지금쯤 되면 깔끔하게 분류하고 API도 제공해줄 수 있어야 된다고 생각하는 입장이라 여전히 제대로 안 되고 있는 것을 보면 깝깝함.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1326419217822920700,
+		"in_reply_to_status_id_str": "1326419217822920705",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1018,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "송 크레딧 분류를 각 플랫폼 방침에 맞게 하고 있겠지만서도 지금쯤 되면 깔끔하게 분류하고 API도 제공해줄 수 있어야 된다고 생각하는 입장이라 여전히 제대로 안 되고 있는 것을 보면 깝깝함."
+	},
+	{
+		"created_at": "Wed Nov 11 06:59:19 +0000 2020",
+		"id": 1326419217822920700,
+		"id_str": "1326419217822920705",
+		"full_text": "국내 음원사이트에 메타태그를 넣을때 같은 사람으로 이미 생성되어 있는지 확인을 하고 넣지 그냥 넣으니까 많게는 3개까지 만들어짐. 노래를 부르면 덜한데 작사/작곡만 할 경우 특히 해외면 더 심해짐. 신탁자코드까진 아니라도 조금만 신경쓰면 될 문제인데.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1018,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "국내 음원사이트에 메타태그를 넣을때 같은 사람으로 이미 생성되어 있는지 확인을 하고 넣지 그냥 넣으니까 많게는 3개까지 만들어짐. 노래를 부르면 덜한데 작사/작곡만 할 경우 특히 해외면 더 심해짐. 신탁자코드까진 아니라도 조금만 신경쓰면 될 문제인데."
+	},
+	{
+		"created_at": "Wed Nov 11 06:45:36 +0000 2020",
+		"id": 1326406967129231400,
+		"id_str": "1326415765751394305",
+		"full_text": "아이돌 그라운드 사상 최초의 재수생!\n귀욤둥이 사랑둥이 츄에영\n재수생의 명예를 걸고 반드시 성공하겠습니다!\n\n#이달의소녀 #LOONA #츄\n#아이돌그라운드 #Idolground #Chuu\n\nhttps://t.co/rVKRrCrLsJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						75,
+						77
+					]
+				},
+				{
+					"text": "아이돌그라운드",
+					"indices": [
+						78,
+						86
+					]
+				},
+				{
+					"text": "Idolground",
+					"indices": [
+						87,
+						98
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						99,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rVKRrCrLsJ",
+					"expanded_url": "https://www.youtube.com/watch?v=26gZijEWBcU",
+					"display_url": "youtube.com/watch?v=26gZij…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906055771921629200,
+			"id_str": "906055771921629184",
+			"name": "나돌(NADOL)",
+			"screen_name": "ae_ssr",
+			"location": "대한민국 중구",
+			"description": "KPOP 스타들의 매력발산 채널 '나도 아이돌이다'",
+			"url": "https://t.co/W4BmT5ww9v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W4BmT5ww9v",
+							"expanded_url": "https://www.youtube.com/channel/UC3pk0eDcZx_oYGCWNyJpjMQ/featured?view_as=subscriber",
+							"display_url": "youtube.com/channel/UC3pk0…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1011,
+			"friends_count": 87,
+			"listed_count": 11,
+			"created_at": "Fri Sep 08 07:25:04 +0000 2017",
+			"favourites_count": 39,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1318368541406494720/fyadTBj2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318368541406494720/fyadTBj2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906055771921629184/1603158530",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 165,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이돌 그라운드 사상 최초의 재수생!\n귀욤둥이 사랑둥이 츄에영\n재수생의 명예를 걸고 반드시 성공하겠습니다!\n\n#이달의소녀 #LOONA #츄\n#아이돌그라운드 #Idolground #Chuu\n\nhttps://t.co/rVKRrCrLsJ"
+	},
+	{
+		"created_at": "Wed Nov 11 06:27:56 +0000 2020",
+		"id": 1326408296258023400,
+		"id_str": "1326411320200138753",
+		"full_text": "#레드벨벳(@RVsmtown) #조이 &amp; #박문치 컬래버레이션, 죠지의 ‘바라봐줘요’ 커버 영상이 오늘, 11일 오후 6시에 깜짝 공개됩니다!😱 ‘바라봐줘요’의 원작자인 🎹박문치🎹가 직접 피아노를 연주하고, 청아한 보컬로 곡을 소화하는 🎤조이🎤라니요... 상상만으로도 사라진 인류애가 솟아나요...♥️ https://t.co/cLDyGXOZMr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						17,
+						20
+					]
+				},
+				{
+					"text": "박문치",
+					"indices": [
+						27,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						6,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326407972109639700,
+					"id_str": "1326407972109639687",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EmhZBeTXYAcNaKs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmhZBeTXYAcNaKs.jpg",
+					"url": "https://t.co/cLDyGXOZMr",
+					"display_url": "pic.twitter.com/cLDyGXOZMr",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1326408296258023425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 867,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326407972109639700,
+					"id_str": "1326407972109639687",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EmhZBeTXYAcNaKs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmhZBeTXYAcNaKs.jpg",
+					"url": "https://t.co/cLDyGXOZMr",
+					"display_url": "pic.twitter.com/cLDyGXOZMr",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1326408296258023425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 867,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1326407972101165000,
+					"id_str": "1326407972101165057",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EmhZBeRWEAEHc4u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmhZBeRWEAEHc4u.jpg",
+					"url": "https://t.co/cLDyGXOZMr",
+					"display_url": "pic.twitter.com/cLDyGXOZMr",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1326408296258023425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "빌보드 코리아 Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. \n팔로우를 통해 더 많은 KPOP 소식을 받아보세요! \nFollow us to get more KPOP news, chart and events!\n#빌보드코리아 #BillboardKorea",
+			"url": "https://t.co/CLFhjiCU9P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CLFhjiCU9P",
+							"expanded_url": "http://billboard.co.kr",
+							"display_url": "billboard.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49555,
+			"friends_count": 31,
+			"listed_count": 91,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 44,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1604568753",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#레드벨벳(@RVsmtown) #조이 &amp; #박문치 컬래버레이션, 죠지의 ‘바라봐줘요’ 커버 영상이 오늘, 11일 오후 6시에 깜짝 공개됩니다!😱 ‘바라봐줘요’의 원작자인 🎹박문치🎹가 직접 피아노를 연주하고, 청아한 보컬로 곡을 소화하는 🎤조이🎤라니요... 상상만으로도 사라진 인류애가 솟아나요...♥️ https://t.co/cLDyGXOZMr"
+	},
+	{
+		"created_at": "Wed Nov 11 06:27:46 +0000 2020",
+		"id": 1326398024390733800,
+		"id_str": "1326411276172537857",
+		"full_text": "안녕👋\n#차주은 #김명현 #한손 \n오늘밤 9시30분! JTBC수목드라마 #사생활 #PrivateLives https://t.co/m0MmNQTmpi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "차주은",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "김명현",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "한손",
+					"indices": [
+						14,
+						17
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "PrivateLives",
+					"indices": [
+						45,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m0MmNQTmpi",
+					"expanded_url": "https://www.instagram.com/p/CHcFpX8AgAW/?igshid=lqph5fq44cbx",
+					"display_url": "instagram.com/p/CHcFpX8AgAW/…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2173631072,
+			"id_str": "2173631072",
+			"name": "서현(서주현)",
+			"screen_name": "sjhsjh0628",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1384663,
+			"friends_count": 31,
+			"listed_count": 2846,
+			"created_at": "Mon Nov 04 08:58:47 +0000 2013",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1294,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2173631072/1526914876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 239,
+		"favorite_count": 616,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕👋\n#차주은 #김명현 #한손 \n오늘밤 9시30분! JTBC수목드라마 #사생활 #PrivateLives https://t.co/m0MmNQTmpi"
+	},
+	{
+		"created_at": "Wed Nov 11 06:12:23 +0000 2020",
+		"id": 1326336664701169700,
+		"id_str": "1326407407124312066",
+		"full_text": "글로벌 여가 플랫폼 기업 야놀자(총괄대표 이수진)가 국내 웨이팅 서비스 1위 기업 나우버스킹(대표 전상열)에 인수조건부 투자했다. https://t.co/VEDI4KalK0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VEDI4KalK0",
+					"expanded_url": "https://www.venturesquare.net/817568",
+					"display_url": "venturesquare.net/817568",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 109783731,
+			"id_str": "109783731",
+			"name": "VentureSquare",
+			"screen_name": "VentureSquare",
+			"location": "서울 강남구",
+			"description": "::벤처스퀘어 공식 트위터:: 벤처기업 (스타트업)과 기업가들을 위한 벤처전문 온라인 미디어입니다. 국내외의 다양한 스타트업과 관련 인물을 소개하고 비즈니스 트렌드, 경영, 마케팅, 투자, 기술 등 비즈니스 전반에 걸친 내용을 전달합니다.",
+			"url": "http://t.co/Sv72C5q8FI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Sv72C5q8FI",
+							"expanded_url": "http://www.venturesquare.net",
+							"display_url": "venturesquare.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6332,
+			"friends_count": 287,
+			"listed_count": 311,
+			"created_at": "Sat Jan 30 07:12:31 +0000 2010",
+			"favourites_count": 102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21510,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/637133781669834752/-I7mcBt8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/637133781669834752/-I7mcBt8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109783731/1451867938",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "글로벌 여가 플랫폼 기업 야놀자(총괄대표 이수진)가 국내 웨이팅 서비스 1위 기업 나우버스킹(대표 전상열)에 인수조건부 투자했다. https://t.co/VEDI4KalK0"
+	},
+	{
+		"created_at": "Wed Nov 11 06:10:32 +0000 2020",
+		"id": 1326406940759617500,
+		"id_str": "1326406940759617536",
+		"full_text": "위버스 때문에 카카오페이가 터진거라고?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1018,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "위버스 때문에 카카오페이가 터진거라고?"
+	},
+	{
 		"created_at": "Wed Nov 11 05:45:36 +0000 2020",
 		"id": 1326397899664666600,
 		"id_str": "1326400666647080969",
