@@ -1,6 +1,1300 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 11 03:34:21 +0000 2020",
+		"id": 1326367633713864700,
+		"id_str": "1326367633713864704",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 韓 가수 최초 블룸버그 팝스타 파워랭킹 1위\nhttps://t.co/ylc6qb9xyJ\n#블랙핑크 #BLACKPINK https://t.co/8HsZbPk4h1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						78,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ylc6qb9xyJ",
+					"expanded_url": "https://yg-life.com/archives/162515?lang=ko",
+					"display_url": "yg-life.com/archives/16251…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326367632673689600,
+					"id_str": "1326367632673689600",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Emg0VaMXUAAI0CC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emg0VaMXUAAI0CC.jpg",
+					"url": "https://t.co/8HsZbPk4h1",
+					"display_url": "pic.twitter.com/8HsZbPk4h1",
+					"expanded_url": "https://twitter.com/fromminn/status/1326367633713864704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 297,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 297,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 297,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326367632673689600,
+					"id_str": "1326367632673689600",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Emg0VaMXUAAI0CC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emg0VaMXUAAI0CC.jpg",
+					"url": "https://t.co/8HsZbPk4h1",
+					"display_url": "pic.twitter.com/8HsZbPk4h1",
+					"expanded_url": "https://twitter.com/fromminn/status/1326367633713864704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 297,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 297,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 297,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1019,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 韓 가수 최초 블룸버그 팝스타 파워랭킹 1위\nhttps://t.co/ylc6qb9xyJ\n#블랙핑크 #BLACKPINK https://t.co/8HsZbPk4h1"
+	},
+	{
+		"created_at": "Wed Nov 11 03:27:26 +0000 2020",
+		"id": 1326359418682880000,
+		"id_str": "1326365894415687680",
+		"full_text": "【テヨン(少女時代)インタビュー後編】「自分らしく生きるためには、隠したりせず自分を正直にさらけ出し表現することが大事」 https://t.co/5rVZ3fRotS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5rVZ3fRotS",
+					"expanded_url": "https://ift.tt/2GP3vJ3",
+					"display_url": "ift.tt/2GP3vJ3",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159041686,
+			"id_str": "159041686",
+			"name": "MORE／モア",
+			"screen_name": "MORE_magazine",
+			"location": "",
+			"description": "雑誌『MORE』（集英社 / 毎月28日発売）公式Twitterです。ファッション、コスメなどの最新情報、撮影オフショット、モデルの素顔など、ここでしか手に入らない情報がいっぱい！気軽にフォローしてね。",
+			"url": "https://t.co/AIWdFQaGcc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AIWdFQaGcc",
+							"expanded_url": "https://more.hpplus.jp",
+							"display_url": "more.hpplus.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 129528,
+			"friends_count": 46,
+			"listed_count": 1162,
+			"created_at": "Thu Jun 24 08:44:04 +0000 2010",
+			"favourites_count": 5342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 56168,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1318752243181449218/ONjZOw1d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318752243181449218/ONjZOw1d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159041686/1579751055",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 421,
+		"favorite_count": 788,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【テヨン(少女時代)インタビュー後編】「自分らしく生きるためには、隠したりせず自分を正直にさらけ出し表現することが大事」 https://t.co/5rVZ3fRotS"
+	},
+	{
+		"created_at": "Wed Nov 11 03:27:21 +0000 2020",
+		"id": 1326359411376394200,
+		"id_str": "1326365872886329346",
+		"full_text": "【テヨン(少女時代)インタビュー前編】「“自分の現在と未来は自ら作る”というメッセージをこめた」日本2ndミニアルバム『#GirlsSpkOut』 https://t.co/XXCkbD21PK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						60,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XXCkbD21PK",
+					"expanded_url": "https://ift.tt/35iZtCh",
+					"display_url": "ift.tt/35iZtCh",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159041686,
+			"id_str": "159041686",
+			"name": "MORE／モア",
+			"screen_name": "MORE_magazine",
+			"location": "",
+			"description": "雑誌『MORE』（集英社 / 毎月28日発売）公式Twitterです。ファッション、コスメなどの最新情報、撮影オフショット、モデルの素顔など、ここでしか手に入らない情報がいっぱい！気軽にフォローしてね。",
+			"url": "https://t.co/AIWdFQaGcc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AIWdFQaGcc",
+							"expanded_url": "https://more.hpplus.jp",
+							"display_url": "more.hpplus.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 129528,
+			"friends_count": 46,
+			"listed_count": 1162,
+			"created_at": "Thu Jun 24 08:44:04 +0000 2010",
+			"favourites_count": 5342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 56168,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1318752243181449218/ONjZOw1d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318752243181449218/ONjZOw1d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159041686/1579751055",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 363,
+		"favorite_count": 652,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【テヨン(少女時代)インタビュー前編】「“自分の現在と未来は自ら作る”というメッセージをこめた」日本2ndミニアルバム『#GirlsSpkOut』 https://t.co/XXCkbD21PK"
+	},
+	{
+		"created_at": "Wed Nov 11 03:27:17 +0000 2020",
+		"id": 1326359241167265800,
+		"id_str": "1326365855622553604",
+		"full_text": "MORE公式WEB「デイリーモア」で、テヨンさん(少女時代)のスペシャルインタビューを公開中♡ 11／18発売の日本2ndミニアルバム『#GirlsSpkOut』を通じて“自分の現在と未来は自ら作る”というメッセージを受け取って！@gg_official_jp\n\n■前編\nhttps://t.co/ZPgIoXSMfj\n\n■後編\nhttps://t.co/KNODFo4Rm6 https://t.co/tVlohOLj0x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						68,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gg_official_jp",
+					"name": "少女時代 JAPAN OFFICIAL",
+					"id": 2585025200,
+					"id_str": "2585025200",
+					"indices": [
+						115,
+						130
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZPgIoXSMfj",
+					"expanded_url": "https://more.hpplus.jp/odekake/o-news/61799",
+					"display_url": "more.hpplus.jp/odekake/o-news…",
+					"indices": [
+						136,
+						159
+					]
+				},
+				{
+					"url": "https://t.co/KNODFo4Rm6",
+					"expanded_url": "https://more.hpplus.jp/odekake/o-news/61815",
+					"display_url": "more.hpplus.jp/odekake/o-news…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326338392058069000,
+					"id_str": "1326338392058068995",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1326338392058068995/img/05NgbDKMmOmwsfkS.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1326338392058068995/img/05NgbDKMmOmwsfkS.jpg",
+					"url": "https://t.co/tVlohOLj0x",
+					"display_url": "pic.twitter.com/tVlohOLj0x",
+					"expanded_url": "https://twitter.com/MORE_magazine/status/1326359241167265792/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326338392058069000,
+					"id_str": "1326338392058068995",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1326338392058068995/img/05NgbDKMmOmwsfkS.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1326338392058068995/img/05NgbDKMmOmwsfkS.jpg",
+					"url": "https://t.co/tVlohOLj0x",
+					"display_url": "pic.twitter.com/tVlohOLj0x",
+					"expanded_url": "https://twitter.com/MORE_magazine/status/1326359241167265792/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 18400,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1326338392058068995/vid/640x360/p7WOncp6lekSpnw6.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1326338392058068995/pl/YSbA0FUhJmcDzUNn.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1326338392058068995/vid/1280x720/VxagWXtsK8ugBraC.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1326338392058068995/vid/480x270/NjUoFtQTWOg0YuT0.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers (legacy)</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159041686,
+			"id_str": "159041686",
+			"name": "MORE／モア",
+			"screen_name": "MORE_magazine",
+			"location": "",
+			"description": "雑誌『MORE』（集英社 / 毎月28日発売）公式Twitterです。ファッション、コスメなどの最新情報、撮影オフショット、モデルの素顔など、ここでしか手に入らない情報がいっぱい！気軽にフォローしてね。",
+			"url": "https://t.co/AIWdFQaGcc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AIWdFQaGcc",
+							"expanded_url": "https://more.hpplus.jp",
+							"display_url": "more.hpplus.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 129528,
+			"friends_count": 46,
+			"listed_count": 1162,
+			"created_at": "Thu Jun 24 08:44:04 +0000 2010",
+			"favourites_count": 5342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 56168,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1318752243181449218/ONjZOw1d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318752243181449218/ONjZOw1d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159041686/1579751055",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 660,
+		"favorite_count": 971,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "MORE公式WEB「デイリーモア」で、テヨンさん(少女時代)のスペシャルインタビューを公開中♡ 11／18発売の日本2ndミニアルバム『#GirlsSpkOut』を通じて“自分の現在と未来は自ら作る”というメッセージを受け取って！@gg_official_jp\n\n■前編\nhttps://t.co/ZPgIoXSMfj\n\n■後編\nhttps://t.co/KNODFo4Rm6 https://t.co/tVlohOLj0x"
+	},
+	{
+		"created_at": "Wed Nov 11 03:27:15 +0000 2020",
+		"id": 1326361191128576000,
+		"id_str": "1326365846780973061",
+		"full_text": "Red Velvet JOY x PARK MOONCHI’s cover of ‘바라봐줘요’ will be released today at 6PM(KST)! \n\n레드벨벳 조이X박문치 ‘바라봐줘요’ 커버 영상 오늘 오후 6시 깜짝 공개!\n\nhttps://t.co/fjvY8tHuN1\n\n#조이 #JOY #레드벨벳 #RedVelvet #박문치 #ParkMoonchi #바라봐줘요 https://t.co/KzjIy5xAZH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조이",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						159,
+						163
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						170,
+						180
+					]
+				},
+				{
+					"text": "박문치",
+					"indices": [
+						181,
+						185
+					]
+				},
+				{
+					"text": "ParkMoonchi",
+					"indices": [
+						186,
+						198
+					]
+				},
+				{
+					"text": "바라봐줘요",
+					"indices": [
+						199,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fjvY8tHuN1",
+					"expanded_url": "https://entertain.naver.com/read?oid=109&aid=0004307235",
+					"display_url": "entertain.naver.com/read?oid=109&a…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326361184170176500,
+					"id_str": "1326361184170176513",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/EmgueDpUcAEDYcj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmgueDpUcAEDYcj.jpg",
+					"url": "https://t.co/KzjIy5xAZH",
+					"display_url": "pic.twitter.com/KzjIy5xAZH",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1326361191128576000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 867,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326361184170176500,
+					"id_str": "1326361184170176513",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/EmgueDpUcAEDYcj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmgueDpUcAEDYcj.jpg",
+					"url": "https://t.co/KzjIy5xAZH",
+					"display_url": "pic.twitter.com/KzjIy5xAZH",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1326361191128576000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 867,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3390014,
+			"friends_count": 1,
+			"listed_count": 6967,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5046,
+		"favorite_count": 16046,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Red Velvet JOY x PARK MOONCHI’s cover of ‘바라봐줘요’ will be released today at 6PM(KST)! \n\n레드벨벳 조이X박문치 ‘바라봐줘요’ 커버 영상 오늘 오후 6시 깜짝 공개!\n\nhttps://t.co/fjvY8tHuN1\n\n#조이 #JOY #레드벨벳 #RedVelvet #박문치 #ParkMoonchi #바라봐줘요 https://t.co/KzjIy5xAZH"
+	},
+	{
+		"created_at": "Wed Nov 11 03:27:12 +0000 2020",
+		"id": 1326358990016614400,
+		"id_str": "1326365833694736384",
+		"full_text": "[이달의소녀탐구 #646]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/doiEoFZKt0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀탐구",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "loonatv",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1325637989200924700,
+					"id_str": "1325637989200924672",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1325637989200924672/pu/img/S6tUWMMUueU7PfAb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1325637989200924672/pu/img/S6tUWMMUueU7PfAb.jpg",
+					"url": "https://t.co/doiEoFZKt0",
+					"display_url": "pic.twitter.com/doiEoFZKt0",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1326358990016614401/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325637989200924700,
+					"id_str": "1325637989200924672",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1325637989200924672/pu/img/S6tUWMMUueU7PfAb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1325637989200924672/pu/img/S6tUWMMUueU7PfAb.jpg",
+					"url": "https://t.co/doiEoFZKt0",
+					"display_url": "pic.twitter.com/doiEoFZKt0",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1326358990016614401/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60561,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1325637989200924672/pu/pl/iW8huJO-22Y9e4OV.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1325637989200924672/pu/vid/1280x720/DVyNEiI309lWr9JI.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1325637989200924672/pu/vid/480x270/Kwm5Lrx0iqF-EdF0.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1325637989200924672/pu/vid/640x360/v953uHb23VwVWZYi.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 574326,
+			"friends_count": 0,
+			"listed_count": 5820,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2391,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1705,
+		"favorite_count": 6402,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀탐구 #646]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/doiEoFZKt0"
+	},
+	{
+		"created_at": "Wed Nov 11 03:27:04 +0000 2020",
+		"id": 1326352578079154200,
+		"id_str": "1326365803869065216",
+		"full_text": "[EN] 준비도 없고 장난도 없는 이수현 LIVE ❗뚜뚜 찐감동 주의❗[EP.21-2] \n\n👉🏻 https://t.co/qKq5NkWTuf \n\n#예리 #YERI #레드벨벳 #RedVelvet #수현 #AKMU #ALIEN #예리한방",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						96,
+						106
+					]
+				},
+				{
+					"text": "수현",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "AKMU",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "ALIEN",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						124,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qKq5NkWTuf",
+					"expanded_url": "https://youtu.be/g3fv08ZOj2E",
+					"display_url": "youtu.be/g3fv08ZOj2E",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3390014,
+			"friends_count": 1,
+			"listed_count": 6967,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2098,
+		"favorite_count": 7805,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EN] 준비도 없고 장난도 없는 이수현 LIVE ❗뚜뚜 찐감동 주의❗[EP.21-2] \n\n👉🏻 https://t.co/qKq5NkWTuf \n\n#예리 #YERI #레드벨벳 #RedVelvet #수현 #AKMU #ALIEN #예리한방"
+	},
+	{
 		"created_at": "Wed Nov 11 03:00:45 +0000 2020",
 		"id": 1326359178479284200,
 		"id_str": "1326359178479284224",
