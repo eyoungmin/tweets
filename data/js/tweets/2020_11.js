@@ -1,6 +1,412 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 12 08:51:31 +0000 2020",
+		"id": 1326809839746609200,
+		"id_str": "1326809839746609154",
+		"full_text": "#웹진예술경영 #예술경영지원센터\n[예술경영웹진 457호]문화예술 사업평가의 어제 오늘, 그리고 내일\nhttps://t.co/pbfJxfeBH9\n#웹진 #예술경영 #뮤직비지니스\n#뉴스레터 #Newsletter",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웹진예술경영",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						90,
+						97
+					]
+				},
+				{
+					"text": "뉴스레터",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						104,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pbfJxfeBH9",
+					"expanded_url": "https://notifier.in/item/gvfhuxrra1dr47n0oz46zqocuu8jmoip/2226584.html",
+					"display_url": "notifier.in/item/gvfhuxrra…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 1018,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#웹진예술경영 #예술경영지원센터\n[예술경영웹진 457호]문화예술 사업평가의 어제 오늘, 그리고 내일\nhttps://t.co/pbfJxfeBH9\n#웹진 #예술경영 #뮤직비지니스\n#뉴스레터 #Newsletter"
+	},
+	{
+		"created_at": "Thu Nov 12 08:27:57 +0000 2020",
+		"id": 1326797495066878000,
+		"id_str": "1326803907658600448",
+		"full_text": "[#부퀘스트 #레드벨벳 8화🌹]\n\n아기자기 스위스마을에서🏠 \n러블리한 #RedVelvet 의 포토타임📸\n\n#웬디 가 숨겨놓은 보물을 찾기..전에💎\n인생샷부터 찍자✌️\n\n울지마 #슬기 😭\n#와니 의 달달한 목소리까지🍭\n\n#아이돌라이브 앱에서 만나요\n🍷링크: https://t.co/060gW4ZNn2\n\n@RVsmtown https://t.co/F6T2laEB2G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "부퀘스트",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						39,
+						49
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "와니",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "아이돌라이브",
+					"indices": [
+						122,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						168,
+						177
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/060gW4ZNn2",
+					"expanded_url": "http://idollive.page.link/6bC56ahf7M82CWKj6",
+					"display_url": "idollive.page.link/6bC56ahf7M82CW…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326797054656458800,
+					"id_str": "1326797054656458752",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326797054656458752/pu/img/NiNK8BicK-hBBm1o.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326797054656458752/pu/img/NiNK8BicK-hBBm1o.jpg",
+					"url": "https://t.co/F6T2laEB2G",
+					"display_url": "pic.twitter.com/F6T2laEB2G",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1326797495066877952/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326797054656458800,
+					"id_str": "1326797054656458752",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326797054656458752/pu/img/NiNK8BicK-hBBm1o.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326797054656458752/pu/img/NiNK8BicK-hBBm1o.jpg",
+					"url": "https://t.co/F6T2laEB2G",
+					"display_url": "pic.twitter.com/F6T2laEB2G",
+					"expanded_url": "https://twitter.com/uplusidollive/status/1326797495066877952/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 43182,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1326797054656458752/pu/pl/clbjIvnUjMvasxuW.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326797054656458752/pu/vid/1280x720/Cto1Q4p8yrA3GZLD.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326797054656458752/pu/vid/480x270/rLkRsyqDg9O6dHFI.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326797054656458752/pu/vid/640x360/ZzBUgKUiWK1PrKjN.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093324810904432600,
+			"id_str": "1093324810904432640",
+			"name": "아이돌Live",
+			"screen_name": "uplusidollive",
+			"location": "Republic of Korea",
+			"description": "'좋아하는 아이돌 무대를 눈앞에서 보는 것처럼'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73539,
+			"friends_count": 6,
+			"listed_count": 80,
+			"created_at": "Thu Feb 07 01:45:22 +0000 2019",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093679347909550080/fPDXfO_O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093324810904432640/1602464402",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 879,
+		"favorite_count": 1498,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#부퀘스트 #레드벨벳 8화🌹]\n\n아기자기 스위스마을에서🏠 \n러블리한 #RedVelvet 의 포토타임📸\n\n#웬디 가 숨겨놓은 보물을 찾기..전에💎\n인생샷부터 찍자✌️\n\n울지마 #슬기 😭\n#와니 의 달달한 목소리까지🍭\n\n#아이돌라이브 앱에서 만나요\n🍷링크: https://t.co/060gW4ZNn2\n\n@RVsmtown https://t.co/F6T2laEB2G"
+	},
+	{
 		"created_at": "Thu Nov 12 07:36:09 +0000 2020",
 		"id": 1326790873309470700,
 		"id_str": "1326790873309470736",
