@@ -1,10 +1,661 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 12 12:27:13 +0000 2020",
+		"id": 1326861258268700700,
+		"id_str": "1326864121590067200",
+		"full_text": "[#예술경영 웹진 제457호] 발행! \n\n&lt;문화예술 사업평가의 어제 오늘, 그리고 내일&gt; \n\n아래 링크를 통해 바로 확인하세요 :)\n\n웹진[예술경영] 보러가기 👇\n웹) https://t.co/nnJOswx4up\n모바일)https://t.co/ot3uNW18eC\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/jJDwqrwnWb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						159,
+						162
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						163,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nnJOswx4up",
+					"expanded_url": "http://www.gokams.or.kr/webzine/",
+					"display_url": "gokams.or.kr/webzine/",
+					"indices": [
+						100,
+						123
+					]
+				},
+				{
+					"url": "https://t.co/ot3uNW18eC",
+					"expanded_url": "http://www.gokams.or.kr/webzine/mobile/",
+					"display_url": "gokams.or.kr/webzine/mobile/",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326861226886877200,
+					"id_str": "1326861226886877185",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Emn1QX7U0AEQIG3.png",
+					"media_url_https": "https://pbs.twimg.com/media/Emn1QX7U0AEQIG3.png",
+					"url": "https://t.co/jJDwqrwnWb",
+					"display_url": "pic.twitter.com/jJDwqrwnWb",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1326861258268700672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 669,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 669,
+							"h": 510,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 669,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326861226886877200,
+					"id_str": "1326861226886877185",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Emn1QX7U0AEQIG3.png",
+					"media_url_https": "https://pbs.twimg.com/media/Emn1QX7U0AEQIG3.png",
+					"url": "https://t.co/jJDwqrwnWb",
+					"display_url": "pic.twitter.com/jJDwqrwnWb",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1326861258268700672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 669,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 669,
+							"h": 510,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 669,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6905,
+			"friends_count": 2990,
+			"listed_count": 101,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2715,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예술경영 웹진 제457호] 발행! \n\n&lt;문화예술 사업평가의 어제 오늘, 그리고 내일&gt; \n\n아래 링크를 통해 바로 확인하세요 :)\n\n웹진[예술경영] 보러가기 👇\n웹) https://t.co/nnJOswx4up\n모바일)https://t.co/ot3uNW18eC\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/jJDwqrwnWb"
+	},
+	{
+		"created_at": "Thu Nov 12 12:27:05 +0000 2020",
+		"id": 1326849128547037200,
+		"id_str": "1326864087578513408",
+		"full_text": "💋 https://t.co/Ox5NHgsxEA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ox5NHgsxEA",
+					"expanded_url": "https://www.instagram.com/p/CHfS_DcBgmW/?igshid=1faygmfkr05iv",
+					"display_url": "instagram.com/p/CHfS_DcBgmW/…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2173631072,
+			"id_str": "2173631072",
+			"name": "서현(서주현)",
+			"screen_name": "sjhsjh0628",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1384689,
+			"friends_count": 31,
+			"listed_count": 2841,
+			"created_at": "Mon Nov 04 08:58:47 +0000 2013",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2173631072/1526914876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 242,
+		"favorite_count": 649,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "💋 https://t.co/Ox5NHgsxEA"
+	},
+	{
+		"created_at": "Thu Nov 12 12:13:11 +0000 2020",
+		"id": 1326860592469172200,
+		"id_str": "1326860592469172228",
+		"full_text": "#라이브네이션코리아 #Live_Nation\nBurna Boy: Exclusive MelodyVR Performance Live from London (2020년 11월 19일 목요일 오전 5:00)\nhttps://t.co/lgtaI4amzs\n#내한 #내한공연 #공연일정 #티켓공지 https://t.co/ZlF6lSAcK3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라이브네이션코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Live_Nation",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"text": "내한",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "내한공연",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						151,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lgtaI4amzs",
+					"expanded_url": "https://www.livenation.kr/show/1323664/burna-boy-exclusive-melodyvr-performance-live-from-london/online/2020-11-19/kr",
+					"display_url": "livenation.kr/show/1323664/b…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326860591370281000,
+					"id_str": "1326860591370280960",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/Emn0rYcXIAAbjVR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emn0rYcXIAAbjVR.jpg",
+					"url": "https://t.co/ZlF6lSAcK3",
+					"display_url": "pic.twitter.com/ZlF6lSAcK3",
+					"expanded_url": "https://twitter.com/fromminn/status/1326860592469172228/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326860591370281000,
+					"id_str": "1326860591370280960",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/Emn0rYcXIAAbjVR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emn0rYcXIAAbjVR.jpg",
+					"url": "https://t.co/ZlF6lSAcK3",
+					"display_url": "pic.twitter.com/ZlF6lSAcK3",
+					"expanded_url": "https://twitter.com/fromminn/status/1326860592469172228/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 1018,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#라이브네이션코리아 #Live_Nation\nBurna Boy: Exclusive MelodyVR Performance Live from London (2020년 11월 19일 목요일 오전 5:00)\nhttps://t.co/lgtaI4amzs\n#내한 #내한공연 #공연일정 #티켓공지 https://t.co/ZlF6lSAcK3"
+	},
+	{
+		"created_at": "Thu Nov 12 12:04:47 +0000 2020",
+		"id": 1326858476090429400,
+		"id_str": "1326858476090429441",
+		"full_text": "#EO\n빅데이터센터 연구원이 말하는 데이터의 중요성\nhttps://t.co/dsBaYzhUXn\n#스타트업 #태용 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EO",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "스타트업",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "태용",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						63,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dsBaYzhUXn",
+					"expanded_url": "https://youtu.be/LVEZNLxuD-4",
+					"display_url": "youtu.be/LVEZNLxuD-4",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 1018,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#EO\n빅데이터센터 연구원이 말하는 데이터의 중요성\nhttps://t.co/dsBaYzhUXn\n#스타트업 #태용 #minfav"
+	},
+	{
 		"created_at": "Thu Nov 12 11:27:57 +0000 2020",
 		"id": 1326834874905489400,
 		"id_str": "1326849206309564417",
-		"full_text": "이번 주 완전 짠내 중 짠내라 휴지 준비하시라고 특별히 공개하는 #스타트업 OST 미리듣기!\n\nPart.11 '#웬디 (#WENDY) - 두 글자'\n\n케이팝 공식요정🧚‍♀️ 손웬디님 발라드 나가신다!!ㅠㅠ\n레벨업은 Are you ready for this~~?💙\n\n📍2020. 11. 15 (SUN) 6PM Release\n\n#스타트업OST #두글자 @RVsmtown https://t.co/JWfiYJlPyY",
+		"full_text": "이번 주 완전 짠내 중 짠내라 휴지 준비하시라고 특별히 공개하는 #스타트업 OST 미리듣기!\n\nPart.11 '#웬디 (#WENDY) - 두 글자'\n\n케이팝 공식요정🧚♀️ 손웬디님 발라드 나가신다!!ㅠㅠ\n레벨업은 Are you ready for this~~?💙\n\n📍2020. 11. 15 (SUN) 6PM Release\n\n#스타트업OST #두글자 @RVsmtown https://t.co/JWfiYJlPyY",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -253,7 +904,7 @@ Grailbird.data.tweets_2020_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "이번 주 완전 짠내 중 짠내라 휴지 준비하시라고 특별히 공개하는 #스타트업 OST 미리듣기!\n\nPart.11 '#웬디 (#WENDY) - 두 글자'\n\n케이팝 공식요정🧚‍♀️ 손웬디님 발라드 나가신다!!ㅠㅠ\n레벨업은 Are you ready for this~~?💙\n\n📍2020. 11. 15 (SUN) 6PM Release\n\n#스타트업OST #두글자 @RVsmtown https://t.co/JWfiYJlPyY"
+		"text": "이번 주 완전 짠내 중 짠내라 휴지 준비하시라고 특별히 공개하는 #스타트업 OST 미리듣기!\n\nPart.11 '#웬디 (#WENDY) - 두 글자'\n\n케이팝 공식요정🧚♀️ 손웬디님 발라드 나가신다!!ㅠㅠ\n레벨업은 Are you ready for this~~?💙\n\n📍2020. 11. 15 (SUN) 6PM Release\n\n#스타트업OST #두글자 @RVsmtown https://t.co/JWfiYJlPyY"
 	},
 	{
 		"created_at": "Thu Nov 12 10:45:37 +0000 2020",
