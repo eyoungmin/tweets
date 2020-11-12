@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 12 23:02:00 +0000 2020",
+		"id": 1327023370005725200,
+		"id_str": "1327023871707414528",
+		"full_text": "『파이썬으로 챗봇 만들기』 도서 증정 이벤트 🎉\n파이썬으로 챗봇 설계부터 구현 및 배포까지 설명하는 도서입니다.\n\n기간 📅 ~2020.11.18(수) 추첨 전까지\n참여 📝 #RT 리트윗하기\n인원 🎁 3명\n주의 📢 추첨 당일 24:00 전까지 쪽지 회신이 없으면 당첨이 취소됩니다.\n\n#book https://t.co/fjnEWH4iBU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RT",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "book",
+					"indices": [
+						158,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326909468806942700,
+					"id_str": "1326909468806942722",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EmohIbFXEAIJqJI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmohIbFXEAIJqJI.jpg",
+					"url": "https://t.co/fjnEWH4iBU",
+					"display_url": "pic.twitter.com/fjnEWH4iBU",
+					"expanded_url": "https://twitter.com/gaeraecom/status/1327023370005725186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 791,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 791,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326909468806942700,
+					"id_str": "1326909468806942722",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EmohIbFXEAIJqJI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmohIbFXEAIJqJI.jpg",
+					"url": "https://t.co/fjnEWH4iBU",
+					"display_url": "pic.twitter.com/fjnEWH4iBU",
+					"expanded_url": "https://twitter.com/gaeraecom/status/1327023370005725186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 791,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 791,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 214347436,
+			"id_str": "214347436",
+			"name": "개발자스럽다",
+			"screen_name": "gaeraecom",
+			"location": "Seoul, Korea",
+			"description": "개발자를 위한 다양한 정보를 공유합니다.\n다른 플랫폼에서 정보를 받고 싶다면 아래 링크로 접속해주세요❤️https://t.co/iHkINJk6f2",
+			"url": "https://t.co/BDUu9ojQrw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BDUu9ojQrw",
+							"expanded_url": "https://gaerae.com",
+							"display_url": "gaerae.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iHkINJk6f2",
+							"expanded_url": "http://blog.gaerae.com",
+							"display_url": "blog.gaerae.com",
+							"indices": [
+								58,
+								81
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3536,
+			"friends_count": 264,
+			"listed_count": 95,
+			"created_at": "Thu Nov 11 05:21:10 +0000 2010",
+			"favourites_count": 1461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1575,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322904095414341632/Wgpy6Mcz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322904095414341632/Wgpy6Mcz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/214347436/1604239890",
+			"profile_link_color": "282C34",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "『파이썬으로 챗봇 만들기』 도서 증정 이벤트 🎉\n파이썬으로 챗봇 설계부터 구현 및 배포까지 설명하는 도서입니다.\n\n기간 📅 ~2020.11.18(수) 추첨 전까지\n참여 📝 #RT 리트윗하기\n인원 🎁 3명\n주의 📢 추첨 당일 24:00 전까지 쪽지 회신이 없으면 당첨이 취소됩니다.\n\n#book https://t.co/fjnEWH4iBU"
+	},
+	{
+		"created_at": "Thu Nov 12 22:58:29 +0000 2020",
+		"id": 1327018999675142100,
+		"id_str": "1327022984951853056",
+		"full_text": "美 상무부, 결국 항복…법원 명령에 ‘틱톡 금지령’ 집행 연기 https://t.co/ZLEKz4dR9U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZLEKz4dR9U",
+					"expanded_url": "http://www.bloter.net/archives/474829",
+					"display_url": "bloter.net/archives/474829",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54693,
+			"friends_count": 9,
+			"listed_count": 2350,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 27546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "美 상무부, 결국 항복…법원 명령에 ‘틱톡 금지령’ 집행 연기 https://t.co/ZLEKz4dR9U"
+	},
+	{
 		"created_at": "Thu Nov 12 21:19:51 +0000 2020",
 		"id": 1326998162490462200,
 		"id_str": "1326998162490462208",
