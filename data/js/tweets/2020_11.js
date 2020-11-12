@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 12 11:27:57 +0000 2020",
+		"id": 1326834874905489400,
+		"id_str": "1326849206309564417",
+		"full_text": "이번 주 완전 짠내 중 짠내라 휴지 준비하시라고 특별히 공개하는 #스타트업 OST 미리듣기!\n\nPart.11 '#웬디 (#WENDY) - 두 글자'\n\n케이팝 공식요정🧚‍♀️ 손웬디님 발라드 나가신다!!ㅠㅠ\n레벨업은 Are you ready for this~~?💙\n\n📍2020. 11. 15 (SUN) 6PM Release\n\n#스타트업OST #두글자 @RVsmtown https://t.co/JWfiYJlPyY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스타트업",
+					"indices": [
+						36,
+						41
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "스타트업OST",
+					"indices": [
+						181,
+						189
+					]
+				},
+				{
+					"text": "두글자",
+					"indices": [
+						190,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						195,
+						204
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326830579275366400,
+					"id_str": "1326830579275366401",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1326830579275366401/img/0DKcA-j-n7bD9VuG.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1326830579275366401/img/0DKcA-j-n7bD9VuG.jpg",
+					"url": "https://t.co/JWfiYJlPyY",
+					"display_url": "pic.twitter.com/JWfiYJlPyY",
+					"expanded_url": "https://twitter.com/vlending/status/1326834874905489413/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326830579275366400,
+					"id_str": "1326830579275366401",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1326830579275366401/img/0DKcA-j-n7bD9VuG.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1326830579275366401/img/0DKcA-j-n7bD9VuG.jpg",
+					"url": "https://t.co/JWfiYJlPyY",
+					"display_url": "pic.twitter.com/JWfiYJlPyY",
+					"expanded_url": "https://twitter.com/vlending/status/1326834874905489413/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 40607,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1326830579275366401/vid/480x480/AUnvUATGZOCJDitV.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1326830579275366401/vid/720x720/DkixBiCigKmt2EeJ.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1326830579275366401/pl/Ddmczgsc6ADlq4VC.m3u8?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1326830579275366401/vid/320x320/4LuAfgQZVTSQUCED.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 875207914503364600,
+			"id_str": "875207914503364609",
+			"name": "VLENDING (블렌딩)",
+			"screen_name": "vlending",
+			"location": "",
+			"description": "'보는 음악, 함께하는 음악' 블렌딩은 드라마 OST, 예능 음원, Kpop, 인디 아티스트 음원을 제작하고 유통합니다.",
+			"url": "https://t.co/Qa4COCxXM9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qa4COCxXM9",
+							"expanded_url": "http://youtube.com/vlending",
+							"display_url": "youtube.com/vlending",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2985,
+			"friends_count": 13,
+			"listed_count": 9,
+			"created_at": "Thu Jun 15 04:26:42 +0000 2017",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194910045206499333/ZPa5QJXO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194910045206499333/ZPa5QJXO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/875207914503364609/1602039530",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2422,
+		"favorite_count": 3290,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번 주 완전 짠내 중 짠내라 휴지 준비하시라고 특별히 공개하는 #스타트업 OST 미리듣기!\n\nPart.11 '#웬디 (#WENDY) - 두 글자'\n\n케이팝 공식요정🧚‍♀️ 손웬디님 발라드 나가신다!!ㅠㅠ\n레벨업은 Are you ready for this~~?💙\n\n📍2020. 11. 15 (SUN) 6PM Release\n\n#스타트업OST #두글자 @RVsmtown https://t.co/JWfiYJlPyY"
+	},
+	{
 		"created_at": "Thu Nov 12 10:45:37 +0000 2020",
 		"id": 1326827074217185300,
 		"id_str": "1326838553867939840",
