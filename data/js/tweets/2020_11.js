@@ -1,10 +1,105 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 12 14:27:14 +0000 2020",
+		"id": 1326887652268798000,
+		"id_str": "1326894324785819648",
+		"full_text": "We count our lucky stars every day for you❤ We dedicate all of our Billboard achievements to you. From charting on Billboard Top 200 to getting us to #1 on Heatseekers Albums, we present you the 8th star, Orbit-L✨ Love you to the stars and back💫",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1326887650175799300,
+		"in_reply_to_status_id_str": "1326887650175799297",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575085,
+			"friends_count": 0,
+			"listed_count": 5823,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 667,
+		"favorite_count": 4800,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We count our lucky stars every day for you❤ We dedicate all of our Billboard achievements to you. From charting on Billboard Top 200 to getting us to #1 on Heatseekers Albums, we present you the 8th star, Orbit-L✨ Love you to the stars and back💫"
+	},
+	{
 		"created_at": "Thu Nov 12 13:27:05 +0000 2020",
 		"id": 1326876698827128800,
 		"id_str": "1326879186850557952",
-		"full_text": "11월에는 새앨범 발매 계획이 있어요\n그리고 12월에도 있습니다🤸‍♀️\n요즘은 짬이 나면 어디든 가서 \n단풍보며 걷는 게 최고 낙이에요\n'지금'이 가장 중요하다는 걸\n삼십?년이 걸려서 알았습니다🤭\n올해의 가을이 다 지나기 전에 꼭\n낙엽 밟으며 걷는 고요한 순간의 평화를 \n누려주세요🍂\n#심규선#새앨범 https://t.co/DhSSUM8OJK",
+		"full_text": "11월에는 새앨범 발매 계획이 있어요\n그리고 12월에도 있습니다🤸♀️\n요즘은 짬이 나면 어디든 가서 \n단풍보며 걷는 게 최고 낙이에요\n'지금'이 가장 중요하다는 걸\n삼십?년이 걸려서 알았습니다🤭\n올해의 가을이 다 지나기 전에 꼭\n낙엽 밟으며 걷는 고요한 순간의 평화를 \n누려주세요🍂\n#심규선#새앨범 https://t.co/DhSSUM8OJK",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -208,7 +303,7 @@ Grailbird.data.tweets_2020_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "11월에는 새앨범 발매 계획이 있어요\n그리고 12월에도 있습니다🤸‍♀️\n요즘은 짬이 나면 어디든 가서 \n단풍보며 걷는 게 최고 낙이에요\n'지금'이 가장 중요하다는 걸\n삼십?년이 걸려서 알았습니다🤭\n올해의 가을이 다 지나기 전에 꼭\n낙엽 밟으며 걷는 고요한 순간의 평화를 \n누려주세요🍂\n#심규선#새앨범 https://t.co/DhSSUM8OJK"
+		"text": "11월에는 새앨범 발매 계획이 있어요\n그리고 12월에도 있습니다🤸♀️\n요즘은 짬이 나면 어디든 가서 \n단풍보며 걷는 게 최고 낙이에요\n'지금'이 가장 중요하다는 걸\n삼십?년이 걸려서 알았습니다🤭\n올해의 가을이 다 지나기 전에 꼭\n낙엽 밟으며 걷는 고요한 순간의 평화를 \n누려주세요🍂\n#심규선#새앨범 https://t.co/DhSSUM8OJK"
 	},
 	{
 		"created_at": "Thu Nov 12 13:13:35 +0000 2020",
