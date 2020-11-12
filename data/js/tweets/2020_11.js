@@ -1,6 +1,1007 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 11 23:56:55 +0000 2020",
+		"id": 1326586112458936300,
+		"id_str": "1326675302924185600",
+		"full_text": "Starting June 1, 2021, new photos and videos uploaded in High quality will begin counting towards your 15GB of Google Account storage. \n\nLearn more here:  https://t.co/SuS34HFjAu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SuS34HFjAu",
+					"expanded_url": "http://goo.gle/2TR07Ak",
+					"display_url": "goo.gle/2TR07Ak",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1326586062831956000,
+		"in_reply_to_status_id_str": "1326586062831955968",
+		"in_reply_to_user_id": 289431709,
+		"in_reply_to_user_id_str": "289431709",
+		"in_reply_to_screen_name": "googlephotos",
+		"user": {
+			"id": 289431709,
+			"id_str": "289431709",
+			"name": "Google Photos",
+			"screen_name": "googlephotos",
+			"location": "",
+			"description": "The home for your memories.",
+			"url": "http://t.co/4VLlwWrgDi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/4VLlwWrgDi",
+							"expanded_url": "http://photos.google.com",
+							"display_url": "photos.google.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 207118,
+			"friends_count": 59,
+			"listed_count": 1943,
+			"created_at": "Thu Apr 28 16:52:03 +0000 2011",
+			"favourites_count": 1021,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 20264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4285F4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276168382023229440/H99BdKOh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276168382023229440/H99BdKOh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/289431709/1593097228",
+			"profile_link_color": "4285F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 192,
+		"favorite_count": 298,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Starting June 1, 2021, new photos and videos uploaded in High quality will begin counting towards your 15GB of Google Account storage. \n\nLearn more here:  https://t.co/SuS34HFjAu"
+	},
+	{
+		"created_at": "Wed Nov 11 23:56:52 +0000 2020",
+		"id": 1326586062831956000,
+		"id_str": "1326675291532521473",
+		"full_text": "A remarkable 28 billion new photos and videos are uploaded to Photos every week. To welcome even more of your memories and build Google Photos for the future, we are announcing a change to our storage policy.\n\nLearn more here: https://t.co/SuS34HFjAu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SuS34HFjAu",
+					"expanded_url": "http://goo.gle/2TR07Ak",
+					"display_url": "goo.gle/2TR07Ak",
+					"indices": [
+						227,
+						250
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 289431709,
+			"id_str": "289431709",
+			"name": "Google Photos",
+			"screen_name": "googlephotos",
+			"location": "",
+			"description": "The home for your memories.",
+			"url": "http://t.co/4VLlwWrgDi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/4VLlwWrgDi",
+							"expanded_url": "http://photos.google.com",
+							"display_url": "photos.google.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 207118,
+			"friends_count": 59,
+			"listed_count": 1943,
+			"created_at": "Thu Apr 28 16:52:03 +0000 2011",
+			"favourites_count": 1021,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 20264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4285F4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276168382023229440/H99BdKOh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276168382023229440/H99BdKOh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/289431709/1593097228",
+			"profile_link_color": "4285F4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 118,
+		"favorite_count": 298,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A remarkable 28 billion new photos and videos are uploaded to Photos every week. To welcome even more of your memories and build Google Photos for the future, we are announcing a change to our storage policy.\n\nLearn more here: https://t.co/SuS34HFjAu"
+	},
+	{
+		"created_at": "Wed Nov 11 23:56:09 +0000 2020",
+		"id": 1326675082618368000,
+		"id_str": "1326675110896390144",
+		"full_text": "구글 포토, 고화질 무제한 저장 종료 https://t.co/UVQuA1WiuP \n- 2021년 6월부터 새로 업로드되는 사진/비디오가 무료 용량 15GB 제한에 반영\n- 그 이전에 업로드된 사진/비디오들의 용량은 구글 계정 용량에 반영되지 않음 \n- Google One 서비스를 통해서 용량 확장 가능 \n- Pixel 기기에서 업...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UVQuA1WiuP",
+					"expanded_url": "https://j.mp/2Ul6Zq2",
+					"display_url": "j.mp/2Ul6Zq2",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4278,
+			"friends_count": 0,
+			"listed_count": 66,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3087,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구글 포토, 고화질 무제한 저장 종료 https://t.co/UVQuA1WiuP \n- 2021년 6월부터 새로 업로드되는 사진/비디오가 무료 용량 15GB 제한에 반영\n- 그 이전에 업로드된 사진/비디오들의 용량은 구글 계정 용량에 반영되지 않음 \n- Google One 서비스를 통해서 용량 확장 가능 \n- Pixel 기기에서 업..."
+	},
+	{
+		"created_at": "Wed Nov 11 23:55:33 +0000 2020",
+		"id": 1326674960069226500,
+		"id_str": "1326674960069226496",
+		"full_text": "가끔 뭐 했는지 무슨 공연을 봤는지 덕질을 했는지 뭘 먹었는지 알려주는 맛이 있긴 했다만 마음 떠난 사람이 뜨거나 추억을 상기시키는게 짜증나서 꺼버렸지만.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1326674177168846800,
+		"in_reply_to_status_id_str": "1326674177168846849",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 1018,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72080,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "가끔 뭐 했는지 무슨 공연을 봤는지 덕질을 했는지 뭘 먹었는지 알려주는 맛이 있긴 했다만 마음 떠난 사람이 뜨거나 추억을 상기시키는게 짜증나서 꺼버렸지만."
+	},
+	{
+		"created_at": "Wed Nov 11 23:52:53 +0000 2020",
+		"id": 1326667856826704000,
+		"id_str": "1326674287000891392",
+		"full_text": "&lt;에밀리, 파리에 가다&gt; 시즌 2 제작 확정.\nhttps://t.co/6eIW2WvN51",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6eIW2WvN51",
+					"expanded_url": "https://variety.com/2020/tv/news/emily-in-paris-renewed-season-2-netflix-1234829053/",
+					"display_url": "variety.com/2020/tv/news/e…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4838971693,
+			"id_str": "4838971693",
+			"name": "테일러콘텐츠 TailorContent",
+			"screen_name": "tailorcontents",
+			"location": "",
+			"description": "테일러콘텐츠는 작품과 배우의 데이터를 구축하고 새로운 형태의 콘텐츠를 만드는 일에 늘 도전하는 스타트업입니다",
+			"url": "https://t.co/IOMUmlyIDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IOMUmlyIDN",
+							"expanded_url": "http://tailorcontents.com",
+							"display_url": "tailorcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16858,
+			"friends_count": 733,
+			"listed_count": 91,
+			"created_at": "Sun Jan 31 08:05:08 +0000 2016",
+			"favourites_count": 997,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4838971693/1591696070",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;에밀리, 파리에 가다&gt; 시즌 2 제작 확정.\nhttps://t.co/6eIW2WvN51"
+	},
+	{
+		"created_at": "Wed Nov 11 23:52:26 +0000 2020",
+		"id": 1326674177168846800,
+		"id_str": "1326674177168846849",
+		"full_text": "구글 포토에 휴대폰 사진 자동 백업을 물려서 쓰긴 했다만 원드라이브를 쓰고 있긴해서 당장 걱정은 안해도 되고. 미루고 미뤘던 나스를 장만할 때가 오긴 한 듯.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 1018,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72080,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "구글 포토에 휴대폰 사진 자동 백업을 물려서 쓰긴 했다만 원드라이브를 쓰고 있긴해서 당장 걱정은 안해도 되고. 미루고 미뤘던 나스를 장만할 때가 오긴 한 듯."
+	},
+	{
+		"created_at": "Wed Nov 11 23:48:13 +0000 2020",
+		"id": 1326666893118169000,
+		"id_str": "1326673112717426688",
+		"full_text": "구글 포토, 무제한 무료 저장 사라진다 https://t.co/XffqpSNTb9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XffqpSNTb9",
+					"expanded_url": "http://www.bloter.net/archives/474445",
+					"display_url": "bloter.net/archives/474445",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54684,
+			"friends_count": 9,
+			"listed_count": 2349,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 27517,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구글 포토, 무제한 무료 저장 사라진다 https://t.co/XffqpSNTb9"
+	},
+	{
+		"created_at": "Wed Nov 11 23:44:37 +0000 2020",
+		"id": 1326672209541099500,
+		"id_str": "1326672209541099521",
+		"full_text": "애초에 무료라는 것은 그만한 값을 지불하고 있는 것이지만 유료화 시기가 생각보다 빠르게 왔고 많은 것들이 유료화 하고 있다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 1018,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72080,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "애초에 무료라는 것은 그만한 값을 지불하고 있는 것이지만 유료화 시기가 생각보다 빠르게 왔고 많은 것들이 유료화 하고 있다."
+	},
+	{
+		"created_at": "Wed Nov 11 23:40:36 +0000 2020",
+		"id": 1326466462282739700,
+		"id_str": "1326671199582121984",
+		"full_text": "이적의 신곡 \"돌팔매\" MV의 캐릭터 디자인, 이미지보드와 아트웍 등을 제작하였습니다. @jucklee @vcrworks https://t.co/XMNeoSGQaj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jucklee",
+					"name": "이적 Juck Lee",
+					"id": 51315123,
+					"id_str": "51315123",
+					"indices": [
+						49,
+						57
+					]
+				},
+				{
+					"screen_name": "vcrworks",
+					"name": "VCR WORKS",
+					"id": 2977728636,
+					"id_str": "2977728636",
+					"indices": [
+						58,
+						67
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326466216555262000,
+					"id_str": "1326466216555261953",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326466216555261953/pu/img/aB9GReJoCJTGdcS9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326466216555261953/pu/img/aB9GReJoCJTGdcS9.jpg",
+					"url": "https://t.co/XMNeoSGQaj",
+					"display_url": "pic.twitter.com/XMNeoSGQaj",
+					"expanded_url": "https://twitter.com/cochlea1313/status/1326466462282739712/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326466216555262000,
+					"id_str": "1326466216555261953",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326466216555261953/pu/img/aB9GReJoCJTGdcS9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326466216555261953/pu/img/aB9GReJoCJTGdcS9.jpg",
+					"url": "https://t.co/XMNeoSGQaj",
+					"display_url": "pic.twitter.com/XMNeoSGQaj",
+					"expanded_url": "https://twitter.com/cochlea1313/status/1326466462282739712/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140007,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326466216555261953/pu/vid/480x270/S1R-va8NUHN4wr_V.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1326466216555261953/pu/pl/ClxPSBorhjjaN9pp.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326466216555261953/pu/vid/640x360/dR75_FEIHDIpmm-q.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326466216555261953/pu/vid/1280x720/d6NAlGBoc-_Y1dad.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2697712436,
+			"id_str": "2697712436",
+			"name": "𝖒𝖎𝖔",
+			"screen_name": "cochlea1313",
+			"location": "http://miotatts.com",
+			"description": "Illustrator/Tattooer \ncopyrightⓒ 2020 All rights reserved by Mio Im\n(COVID-19 evacuation)",
+			"url": "https://t.co/yEntrQVVeH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yEntrQVVeH",
+							"expanded_url": "http://instagram.com/cochlea1313",
+							"display_url": "instagram.com/cochlea1313",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51938,
+			"friends_count": 71,
+			"listed_count": 415,
+			"created_at": "Fri Aug 01 08:19:34 +0000 2014",
+			"favourites_count": 5860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/786978781172858880/_dkN3Q0P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/786978781172858880/_dkN3Q0P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2697712436/1474389552",
+			"profile_link_color": "964F4D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 841,
+		"favorite_count": 1354,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이적의 신곡 \"돌팔매\" MV의 캐릭터 디자인, 이미지보드와 아트웍 등을 제작하였습니다. @jucklee @vcrworks https://t.co/XMNeoSGQaj"
+	},
+	{
 		"created_at": "Wed Nov 11 22:37:42 +0000 2020",
 		"id": 1326655368361992200,
 		"id_str": "1326655368361992192",
