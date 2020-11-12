@@ -1,6 +1,654 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 12 15:27:27 +0000 2020",
+		"id": 1326906373066600400,
+		"id_str": "1326909480123162624",
+		"full_text": "세상의 모든 이달의 소녀와 함께 신나는 Midnight Festival을 열었던 #이달의소녀 의 #WhyNot 연습실 안무 영상이 공개되었습니다! 이달의 소녀 공식 유튜브 채널에서 풀버전 영상을 확인해 보세요🌘\n\n▶️https://t.co/s2dQ5Tj941\n\n#LOONA https://t.co/JoaYqWWBk7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "WhyNot",
+					"indices": [
+						54,
+						61
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						146,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s2dQ5Tj941",
+					"expanded_url": "https://youtu.be/HdisHDtjGUw",
+					"display_url": "youtu.be/HdisHDtjGUw",
+					"indices": [
+						121,
+						144
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326906363595944000,
+					"id_str": "1326906363595943938",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EmoeTrRXcAIE6kJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmoeTrRXcAIE6kJ.jpg",
+					"url": "https://t.co/JoaYqWWBk7",
+					"display_url": "pic.twitter.com/JoaYqWWBk7",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1326906373066600449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326906363595944000,
+					"id_str": "1326906363595943938",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EmoeTrRXcAIE6kJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmoeTrRXcAIE6kJ.jpg",
+					"url": "https://t.co/JoaYqWWBk7",
+					"display_url": "pic.twitter.com/JoaYqWWBk7",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1326906373066600449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575224,
+			"friends_count": 0,
+			"listed_count": 5827,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4134,
+		"favorite_count": 12091,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세상의 모든 이달의 소녀와 함께 신나는 Midnight Festival을 열었던 #이달의소녀 의 #WhyNot 연습실 안무 영상이 공개되었습니다! 이달의 소녀 공식 유튜브 채널에서 풀버전 영상을 확인해 보세요🌘\n\n▶️https://t.co/s2dQ5Tj941\n\n#LOONA https://t.co/JoaYqWWBk7"
+	},
+	{
+		"created_at": "Thu Nov 12 15:27:18 +0000 2020",
+		"id": 1326902831786455000,
+		"id_str": "1326909441556484100",
+		"full_text": "aespa 에스파 [Black Mamba]\n🎵 2020.11.17 6PM KST\n\n#KARINA #카리나\n#GISELLE #지젤\n#WINTER #윈터\n#NINGNING #닝닝\n#aespa #æspa #에스파\n#BlackMamba https://t.co/RxMvlJn3DI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KARINA",
+					"indices": [
+						46,
+						53
+					]
+				},
+				{
+					"text": "카리나",
+					"indices": [
+						54,
+						58
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						59,
+						67
+					]
+				},
+				{
+					"text": "지젤",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						72,
+						79
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"text": "닝닝",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "BlackMamba",
+					"indices": [
+						116,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326773453404450800,
+					"id_str": "1326773453404450816",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EmmlbSOXMAAQIe7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmmlbSOXMAAQIe7.jpg",
+					"url": "https://t.co/RxMvlJn3DI",
+					"display_url": "pic.twitter.com/RxMvlJn3DI",
+					"expanded_url": "https://twitter.com/aespa_official/status/1326902831786455043/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326773453404450800,
+					"id_str": "1326773453404450816",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EmmlbSOXMAAQIe7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmmlbSOXMAAQIe7.jpg",
+					"url": "https://t.co/RxMvlJn3DI",
+					"display_url": "pic.twitter.com/RxMvlJn3DI",
+					"expanded_url": "https://twitter.com/aespa_official/status/1326902831786455043/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 380734,
+			"friends_count": 1,
+			"listed_count": 875,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 51,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13845,
+		"favorite_count": 33265,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "aespa 에스파 [Black Mamba]\n🎵 2020.11.17 6PM KST\n\n#KARINA #카리나\n#GISELLE #지젤\n#WINTER #윈터\n#NINGNING #닝닝\n#aespa #æspa #에스파\n#BlackMamba https://t.co/RxMvlJn3DI"
+	},
+	{
+		"created_at": "Thu Nov 12 15:27:11 +0000 2020",
+		"id": 1326902594162323500,
+		"id_str": "1326909411571470336",
+		"full_text": "#이달의소녀 새침 하트 병정 #OliviaHye 의 생일을 축하합니다🎂\n함께하는 매 순간을 의미있게 만들어 주는 Olivia Hye가 있어 고마워🐺🖤\n\n#LOONA https://t.co/nqOfLxzBhq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						85,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326902579939438600,
+					"id_str": "1326902579939438596",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/Emoa3cDW8AQB4Ij.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emoa3cDW8AQB4Ij.jpg",
+					"url": "https://t.co/nqOfLxzBhq",
+					"display_url": "pic.twitter.com/nqOfLxzBhq",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1326902594162323458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 776,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 440,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1325,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326902579939438600,
+					"id_str": "1326902579939438596",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/Emoa3cDW8AQB4Ij.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emoa3cDW8AQB4Ij.jpg",
+					"url": "https://t.co/nqOfLxzBhq",
+					"display_url": "pic.twitter.com/nqOfLxzBhq",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1326902594162323458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 776,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 440,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1325,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575224,
+			"friends_count": 0,
+			"listed_count": 5827,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11185,
+		"favorite_count": 23629,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 새침 하트 병정 #OliviaHye 의 생일을 축하합니다🎂\n함께하는 매 순간을 의미있게 만들어 주는 Olivia Hye가 있어 고마워🐺🖤\n\n#LOONA https://t.co/nqOfLxzBhq"
+	},
+	{
 		"created_at": "Thu Nov 12 15:02:35 +0000 2020",
 		"id": 1326903221756043300,
 		"id_str": "1326903221756043276",
