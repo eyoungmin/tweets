@@ -1,6 +1,442 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 12 04:37:29 +0000 2020",
+		"id": 1326745912048279600,
+		"id_str": "1326745912048279553",
+		"full_text": "#TED_Talks #한국어자막\n인종차별을 만들어 낸 거짓말 by. John Biewen (Sep 2020)\nhttps://t.co/kYQhGTW6j0\n#TED #테드 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TED_Talks",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "한국어자막",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"text": "TED",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "테드",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						94,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kYQhGTW6j0",
+					"expanded_url": "https://www.ted.com/talks/john_biewen_the_lie_that_invented_racism?language=ko",
+					"display_url": "ted.com/talks/john_bie…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 1018,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#TED_Talks #한국어자막\n인종차별을 만들어 낸 거짓말 by. John Biewen (Sep 2020)\nhttps://t.co/kYQhGTW6j0\n#TED #테드 #minfav"
+	},
+	{
+		"created_at": "Thu Nov 12 04:15:46 +0000 2020",
+		"id": 1326729042972696600,
+		"id_str": "1326740444244402176",
+		"full_text": "[팩트iN스타] #이달의소녀 #LOONA\n띵동~ 오빛을 위한 초대장 2탄❗️\n🌠아직 끝나지 않은 이달소 미드나잇 페스티벌🎇\n너도 알지? 꿈이 아니야~🤩\n✨일시 : 11월 13일(금) 내일 밤 9시!\n✨장소 : 팩트인스타 공식 유튜브에서 만나요🎉\n\n@loonatheworld\n#Midnight #Why_Not \n#츄 #고원 #올리비아_혜 https://t.co/vlhZbuNSJo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						9,
+						15
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						153,
+						162
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						163,
+						171
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						173,
+						175
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						176,
+						179
+					]
+				},
+				{
+					"text": "올리비아_혜",
+					"indices": [
+						180,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						138,
+						152
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326728663442710500,
+					"id_str": "1326728663442710528",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/Eml8sKnU4AAQ8HS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eml8sKnU4AAQ8HS.jpg",
+					"url": "https://t.co/vlhZbuNSJo",
+					"display_url": "pic.twitter.com/vlhZbuNSJo",
+					"expanded_url": "https://twitter.com/factinstar/status/1326729042972696578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326728663442710500,
+					"id_str": "1326728663442710528",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/Eml8sKnU4AAQ8HS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eml8sKnU4AAQ8HS.jpg",
+					"url": "https://t.co/vlhZbuNSJo",
+					"display_url": "pic.twitter.com/vlhZbuNSJo",
+					"expanded_url": "https://twitter.com/factinstar/status/1326729042972696578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1326728695415857200,
+					"id_str": "1326728695415857156",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/Eml8uBuUYAQpL6L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eml8uBuUYAQpL6L.jpg",
+					"url": "https://t.co/vlhZbuNSJo",
+					"display_url": "pic.twitter.com/vlhZbuNSJo",
+					"expanded_url": "https://twitter.com/factinstar/status/1326729042972696578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1326728723475828700,
+					"id_str": "1326728723475828736",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/Eml8vqQVkAA09mg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eml8vqQVkAA09mg.jpg",
+					"url": "https://t.co/vlhZbuNSJo",
+					"display_url": "pic.twitter.com/vlhZbuNSJo",
+					"expanded_url": "https://twitter.com/factinstar/status/1326729042972696578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1326728096200843300,
+		"in_reply_to_status_id_str": "1326728096200843265",
+		"in_reply_to_user_id": 800913985407062000,
+		"in_reply_to_user_id_str": "800913985407062016",
+		"in_reply_to_screen_name": "factinstar",
+		"user": {
+			"id": 800913985407062000,
+			"id_str": "800913985407062016",
+			"name": "팩트인스타 Fact iN Star",
+			"screen_name": "factinstar",
+			"location": "대한민국 서울",
+			"description": "All That Your K-POP BIAS / TBS Open Studio (SEOUL S-PLEX CENTER) / Friday at 9:00 PM(KST) Fact iN Star #Youtube Upload / Sunday at 12:30 PM(KST) TBS TV On Air",
+			"url": "https://t.co/Dn0y2BVbwp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dn0y2BVbwp",
+							"expanded_url": "https://www.youtube.com/channel/UCakRF1Lu1ZuZR7Dx2B7b_9g",
+							"display_url": "youtube.com/channel/UCakRF…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5771,
+			"friends_count": 2773,
+			"listed_count": 30,
+			"created_at": "Tue Nov 22 04:09:09 +0000 2016",
+			"favourites_count": 2768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262996627276435458/6LSwyFjf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262996627276435458/6LSwyFjf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/800913985407062016/1589956779",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 845,
+		"favorite_count": 2324,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[팩트iN스타] #이달의소녀 #LOONA\n띵동~ 오빛을 위한 초대장 2탄❗️\n🌠아직 끝나지 않은 이달소 미드나잇 페스티벌🎇\n너도 알지? 꿈이 아니야~🤩\n✨일시 : 11월 13일(금) 내일 밤 9시!\n✨장소 : 팩트인스타 공식 유튜브에서 만나요🎉\n\n@loonatheworld\n#Midnight #Why_Not \n#츄 #고원 #올리비아_혜 https://t.co/vlhZbuNSJo"
+	},
+	{
 		"created_at": "Thu Nov 12 03:45:41 +0000 2020",
 		"id": 1326728096200843300,
 		"id_str": "1326732872993165313",
