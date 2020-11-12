@@ -1,6 +1,377 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 12 06:51:34 +0000 2020",
+		"id": 1326779653344911400,
+		"id_str": "1326779653344911362",
+		"full_text": "#팩트체크 #SNU팩트체크\n\"바이든의 탄소배출 억제와 재생에너지 확대 공약은 우리가 가려는 길과 일치한다\"\n▶ 대체로 사실이 아님\nhttps://t.co/q4gDwLTEBF\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						99,
+						110
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						111,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q4gDwLTEBF",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2609",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 1018,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n\"바이든의 탄소배출 억제와 재생에너지 확대 공약은 우리가 가려는 길과 일치한다\"\n▶ 대체로 사실이 아님\nhttps://t.co/q4gDwLTEBF\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
+		"created_at": "Thu Nov 12 06:27:13 +0000 2020",
+		"id": 1326768746611040300,
+		"id_str": "1326773524049092608",
+		"full_text": "aespa is here!\n\nCheck out the first voice messages of aespa and don’t forget to be the first follower of aespa on Spotify!\n\n☞ Who is aespa? https://t.co/QOBqSWwElM\n\n#KARINA #카리나\n#GISELLE #지젤\n#WINTER #윈터\n#NINGNING #닝닝\n#aespa #æspa #에스파 https://t.co/ufQjnhm2xD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KARINA",
+					"indices": [
+						165,
+						172
+					]
+				},
+				{
+					"text": "카리나",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						178,
+						186
+					]
+				},
+				{
+					"text": "지젤",
+					"indices": [
+						187,
+						190
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						191,
+						198
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						199,
+						202
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						203,
+						212
+					]
+				},
+				{
+					"text": "닝닝",
+					"indices": [
+						213,
+						216
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						217,
+						223
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						224,
+						229
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						230,
+						234
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QOBqSWwElM",
+					"expanded_url": "https://smarturl.it/Who_is_aespa",
+					"display_url": "smarturl.it/Who_is_aespa",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326768675031027700,
+					"id_str": "1326768675031027712",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/EmmhFJZXEAAyA4l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmmhFJZXEAAyA4l.jpg",
+					"url": "https://t.co/ufQjnhm2xD",
+					"display_url": "pic.twitter.com/ufQjnhm2xD",
+					"expanded_url": "https://twitter.com/aespa_official/status/1326768746611040260/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326768675031027700,
+					"id_str": "1326768675031027712",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/EmmhFJZXEAAyA4l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmmhFJZXEAAyA4l.jpg",
+					"url": "https://t.co/ufQjnhm2xD",
+					"display_url": "pic.twitter.com/ufQjnhm2xD",
+					"expanded_url": "https://twitter.com/aespa_official/status/1326768746611040260/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 379210,
+			"friends_count": 1,
+			"listed_count": 858,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 48,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4560,
+		"favorite_count": 16036,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa is here!\n\nCheck out the first voice messages of aespa and don’t forget to be the first follower of aespa on Spotify!\n\n☞ Who is aespa? https://t.co/QOBqSWwElM\n\n#KARINA #카리나\n#GISELLE #지젤\n#WINTER #윈터\n#NINGNING #닝닝\n#aespa #æspa #에스파 https://t.co/ufQjnhm2xD"
+	},
+	{
 		"created_at": "Thu Nov 12 05:27:56 +0000 2020",
 		"id": 1326752751435407400,
 		"id_str": "1326758607988400129",
