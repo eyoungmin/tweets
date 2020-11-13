@@ -1,6 +1,1103 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 13 03:00:14 +0000 2020",
+		"id": 1327083825000747000,
+		"id_str": "1327083825000747009",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Nov 13) https://t.co/H3uHBDzPfS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H3uHBDzPfS",
+					"expanded_url": "https://nzzl.us/Cr2pWj5",
+					"display_url": "nzzl.us/Cr2pWj5",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1019,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Nov 13) https://t.co/H3uHBDzPfS"
+	},
+	{
+		"created_at": "Fri Nov 13 02:45:45 +0000 2020",
+		"id": 1327078625762365400,
+		"id_str": "1327080178087047174",
+		"full_text": "Hey Orbits, have you streamed LOONA yet? \nGroove the weekend in with these tunes. 🎶 https://t.co/x3aAcPOJ4X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x3aAcPOJ4X",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1326540429525839876",
+					"display_url": "twitter.com/loonatheworld/…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 978459450871697400,
+			"id_str": "978459450871697408",
+			"name": "Spotify ❤️ K-Pop",
+			"screen_name": "SpotifyKDaebak",
+			"location": "",
+			"description": "Do you eat, sleep, and breathe K-Pop like we do? For all the news, music, entertainment and more, follow our official Spotify K-pop profile right now.",
+			"url": "https://t.co/TSbcWtrINY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TSbcWtrINY",
+							"expanded_url": "http://spoti.fi/KPOP",
+							"display_url": "spoti.fi/KPOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320320,
+			"friends_count": 209,
+			"listed_count": 222,
+			"created_at": "Tue Mar 27 02:31:26 +0000 2018",
+			"favourites_count": 765,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267694939460169728/yQiFh85w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267694939460169728/yQiFh85w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/978459450871697408/1591077004",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1326540429525840000,
+		"quoted_status_id_str": "1326540429525839876",
+		"quoted_status_permalink": {
+			"url": "https://t.co/x3aAcPOJ4X",
+			"expanded": "https://twitter.com/loonatheworld/status/1326540429525839876",
+			"display": "twitter.com/loonatheworld/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 11 15:00:58 +0000 2020",
+			"id": 1326540429525840000,
+			"id_str": "1326540429525839876",
+			"full_text": "To think that there are more than 1.6M of you listening to us on Spotify makes our hearts go🥰💞 To both our longtime and new orbits, we dedicate our 7th star Orbit-N to you💫 We love you forever❤\n\n#이달의소녀 #LOONA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				208
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "이달의소녀",
+						"indices": [
+							195,
+							201
+						]
+					},
+					{
+						"text": "LOONA",
+						"indices": [
+							202,
+							208
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1326540426174591000,
+			"in_reply_to_status_id_str": "1326540426174590979",
+			"in_reply_to_user_id": 770959712791597000,
+			"in_reply_to_user_id_str": "770959712791597056",
+			"in_reply_to_screen_name": "loonatheworld",
+			"user": {
+				"id": 770959712791597000,
+				"id_str": "770959712791597056",
+				"name": "이달의 소녀(LOOΠΔ)",
+				"screen_name": "loonatheworld",
+				"location": "",
+				"description": "이달의 소녀 공식 트위터입니다.",
+				"url": "https://t.co/hthRlo3Dn7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hthRlo3Dn7",
+								"expanded_url": "http://www.loonatheworld.com",
+								"display_url": "loonatheworld.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 575414,
+				"friends_count": 0,
+				"listed_count": 5834,
+				"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2403,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1212,
+			"favorite_count": 9367,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 53,
+		"favorite_count": 187,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey Orbits, have you streamed LOONA yet? \nGroove the weekend in with these tunes. 🎶 https://t.co/x3aAcPOJ4X"
+	},
+	{
+		"created_at": "Fri Nov 13 02:45:36 +0000 2020",
+		"id": 1327070189414871000,
+		"id_str": "1327080144037670912",
+		"full_text": "&lt;쇼! 음악중심&gt; 출연자 라인업 공개🍓🍊🍋 #태민  #하성운 #몬스타엑스 #마마무 #MINO  (feat. #BOBBY) #TREASURE #박지훈  #AB6IX #CIX #이달의소녀 #VERIVERY #엘라스트 #시크릿넘버 #Weeekly #P1Harmony  #DRIPPIN 토요일 오후 3시 40분🍏🍇",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태민",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "하성운",
+					"indices": [
+						35,
+						39
+					]
+				},
+				{
+					"text": "몬스타엑스",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "MINO",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "BOBBY",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "TREASURE",
+					"indices": [
+						74,
+						83
+					]
+				},
+				{
+					"text": "박지훈",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "AB6IX",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "CIX",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "VERIVERY",
+					"indices": [
+						109,
+						118
+					]
+				},
+				{
+					"text": "엘라스트",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "시크릿넘버",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "Weeekly",
+					"indices": [
+						132,
+						140
+					]
+				},
+				{
+					"text": "P1Harmony",
+					"indices": [
+						141,
+						151
+					]
+				},
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						153,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 224566089,
+			"id_str": "224566089",
+			"name": "쇼! 음악중심",
+			"screen_name": "MBCMusicCore",
+			"location": "대한민국 서울 (South Korea)",
+			"description": "쇼!음악중심 공식 트위터 / 매주 토요일 오후 3시30분 방송",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 249440,
+			"friends_count": 0,
+			"listed_count": 518,
+			"created_at": "Thu Dec 09 09:33:13 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 351,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134414494191374336/lUaIDPwc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134414494191374336/lUaIDPwc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/224566089/1591971824",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 638,
+		"favorite_count": 1661,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "&lt;쇼! 음악중심&gt; 출연자 라인업 공개🍓🍊🍋 #태민  #하성운 #몬스타엑스 #마마무 #MINO  (feat. #BOBBY) #TREASURE #박지훈  #AB6IX #CIX #이달의소녀 #VERIVERY #엘라스트 #시크릿넘버 #Weeekly #P1Harmony  #DRIPPIN 토요일 오후 3시 40분🍏🍇"
+	},
+	{
+		"created_at": "Fri Nov 13 02:27:25 +0000 2020",
+		"id": 1327068864962707500,
+		"id_str": "1327075566474960896",
+		"full_text": "✔ YG SELECT KR ➡ https://t.co/0zih34v2Nr \n✔ YG SELECT EN ➡ https://t.co/mq5QpvaW89\n✔ YG SELECT JP ➡ https://t.co/cv3O2U6BtD\n✔ YG SELECT CN ➡ https://t.co/3OjVf4By6a\n✔ YG SELECT TH ➡ https://t.co/XZmXi3wrX7\n✔ YG SELECT Tmall ➡ https://t.co/GCBuFnj2Tf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0zih34v2Nr",
+					"expanded_url": "https://ygselect.com/product/detail.html?product_no=5814",
+					"display_url": "ygselect.com/product/detail…",
+					"indices": [
+						17,
+						40
+					]
+				},
+				{
+					"url": "https://t.co/mq5QpvaW89",
+					"expanded_url": "http://en.ygselect.com/product/detail.html?product_no=5815",
+					"display_url": "en.ygselect.com/product/detail…",
+					"indices": [
+						59,
+						82
+					]
+				},
+				{
+					"url": "https://t.co/cv3O2U6BtD",
+					"expanded_url": "http://jp.ygselect.com/product/detail.html?product_no=5815",
+					"display_url": "jp.ygselect.com/product/detail…",
+					"indices": [
+						100,
+						123
+					]
+				},
+				{
+					"url": "https://t.co/3OjVf4By6a",
+					"expanded_url": "http://cn.ygselect.com/product/detail.html?product_no=5815",
+					"display_url": "cn.ygselect.com/product/detail…",
+					"indices": [
+						141,
+						164
+					]
+				},
+				{
+					"url": "https://t.co/XZmXi3wrX7",
+					"expanded_url": "https://www.ygselectth.com/",
+					"display_url": "ygselectth.com",
+					"indices": [
+						182,
+						205
+					]
+				},
+				{
+					"url": "https://t.co/GCBuFnj2Tf",
+					"expanded_url": "https://detail.m.tmall.hk/templatesNew/index?id=631712910783",
+					"display_url": "detail.m.tmall.hk/templatesNew/i…",
+					"indices": [
+						226,
+						249
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1327068722612191200,
+		"in_reply_to_status_id_str": "1327068722612191233",
+		"in_reply_to_user_id": 1273850774380884000,
+		"in_reply_to_user_id_str": "1273850774380883975",
+		"in_reply_to_screen_name": "BLACKPINK",
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/mhaOteBGUV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mhaOteBGUV",
+							"expanded_url": "https://youtu.be/dyRsYk0LyA8",
+							"display_url": "youtu.be/dyRsYk0LyA8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2533712,
+			"friends_count": 0,
+			"listed_count": 3248,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1601491826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 943,
+		"favorite_count": 6506,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "✔ YG SELECT KR ➡ https://t.co/0zih34v2Nr \n✔ YG SELECT EN ➡ https://t.co/mq5QpvaW89\n✔ YG SELECT JP ➡ https://t.co/cv3O2U6BtD\n✔ YG SELECT CN ➡ https://t.co/3OjVf4By6a\n✔ YG SELECT TH ➡ https://t.co/XZmXi3wrX7\n✔ YG SELECT Tmall ➡ https://t.co/GCBuFnj2Tf"
+	},
+	{
+		"created_at": "Fri Nov 13 02:27:10 +0000 2020",
+		"id": 1327068722612191200,
+		"id_str": "1327075502750912512",
+		"full_text": "🖤💖 𝐁𝐋𝐀𝐂𝐊𝐏𝐈𝐍𝐊 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐋𝐈𝐆𝐇𝐓 𝐒𝐓𝐈𝐂𝐊 𝐕𝐞𝐫.𝟐 𝐋𝐈𝐌𝐈𝐓𝐄𝐃 𝐄𝐃𝐈𝐓𝐈𝐎𝐍 👑\n\n한층 업그레이드 된 뿅봉 Ver.2 한정판 예약판매 오픈!\n지금 바로 @ygselect 에서 확인해보세요!\n\n🖤 PRE-ORDER | 2020.11.13 ~ 2020.11.19\n🖤 RELEASE | 2020.11.20",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygselect",
+					"name": "YG SELECT",
+					"id": 3252396854,
+					"id_str": "3252396854",
+					"indices": [
+						98,
+						107
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1327068668782588000,
+		"in_reply_to_status_id_str": "1327068668782587906",
+		"in_reply_to_user_id": 1273850774380884000,
+		"in_reply_to_user_id_str": "1273850774380883975",
+		"in_reply_to_screen_name": "BLACKPINK",
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/mhaOteBGUV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mhaOteBGUV",
+							"expanded_url": "https://youtu.be/dyRsYk0LyA8",
+							"display_url": "youtu.be/dyRsYk0LyA8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2533712,
+			"friends_count": 0,
+			"listed_count": 3248,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1601491826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1916,
+		"favorite_count": 12999,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "🖤💖 𝐁𝐋𝐀𝐂𝐊𝐏𝐈𝐍𝐊 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐋𝐈𝐆𝐇𝐓 𝐒𝐓𝐈𝐂𝐊 𝐕𝐞𝐫.𝟐 𝐋𝐈𝐌𝐈𝐓𝐄𝐃 𝐄𝐃𝐈𝐓𝐈𝐎𝐍 👑\n\n한층 업그레이드 된 뿅봉 Ver.2 한정판 예약판매 오픈!\n지금 바로 @ygselect 에서 확인해보세요!\n\n🖤 PRE-ORDER | 2020.11.13 ~ 2020.11.19\n🖤 RELEASE | 2020.11.20"
+	},
+	{
+		"created_at": "Fri Nov 13 02:27:05 +0000 2020",
+		"id": 1327068668782588000,
+		"id_str": "1327075481150218240",
+		"full_text": "🖤💖 𝐁𝐋𝐀𝐂𝐊𝐏𝐈𝐍𝐊 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐋𝐈𝐆𝐇𝐓 𝐒𝐓𝐈𝐂𝐊 𝐕𝐞𝐫.𝟐 𝐋𝐈𝐌𝐈𝐓𝐄𝐃 𝐄𝐃𝐈𝐓𝐈𝐎𝐍 👑\n\n#BLACKPINK LIGHT STICK v2 Limited Edition Pre-order Open!\nCheck it out on @ygselect right now!\n\n🖤 PRE-ORDER | 2020.11.13 ~ 2020.11.19\n🖤 RELEASE | 2020.11.20 https://t.co/xUSgQExN3G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						59,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygselect",
+					"name": "YG SELECT",
+					"id": 3252396854,
+					"id_str": "3252396854",
+					"indices": [
+						133,
+						142
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1327067869331374000,
+					"id_str": "1327067869331374080",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/EmqxMjBUwAAN8Jd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmqxMjBUwAAN8Jd.jpg",
+					"url": "https://t.co/xUSgQExN3G",
+					"display_url": "pic.twitter.com/xUSgQExN3G",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1327068668782587906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327067869331374000,
+					"id_str": "1327067869331374080",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/EmqxMjBUwAAN8Jd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmqxMjBUwAAN8Jd.jpg",
+					"url": "https://t.co/xUSgQExN3G",
+					"display_url": "pic.twitter.com/xUSgQExN3G",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1327068668782587906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1327067869331427300,
+					"id_str": "1327067869331427328",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/EmqxMjBVkAAFlB9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmqxMjBVkAAFlB9.jpg",
+					"url": "https://t.co/xUSgQExN3G",
+					"display_url": "pic.twitter.com/xUSgQExN3G",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1327068668782587906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1327067869335601200,
+					"id_str": "1327067869335601152",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/EmqxMjCVQAA0RZC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmqxMjCVQAA0RZC.jpg",
+					"url": "https://t.co/xUSgQExN3G",
+					"display_url": "pic.twitter.com/xUSgQExN3G",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1327068668782587906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1327067869331431400,
+					"id_str": "1327067869331431425",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/EmqxMjBVoAEDE4m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmqxMjBVoAEDE4m.jpg",
+					"url": "https://t.co/xUSgQExN3G",
+					"display_url": "pic.twitter.com/xUSgQExN3G",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1327068668782587906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/mhaOteBGUV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mhaOteBGUV",
+							"expanded_url": "https://youtu.be/dyRsYk0LyA8",
+							"display_url": "youtu.be/dyRsYk0LyA8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2533712,
+			"friends_count": 0,
+			"listed_count": 3248,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1601491826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13655,
+		"favorite_count": 53187,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🖤💖 𝐁𝐋𝐀𝐂𝐊𝐏𝐈𝐍𝐊 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐋𝐈𝐆𝐇𝐓 𝐒𝐓𝐈𝐂𝐊 𝐕𝐞𝐫.𝟐 𝐋𝐈𝐌𝐈𝐓𝐄𝐃 𝐄𝐃𝐈𝐓𝐈𝐎𝐍 👑\n\n#BLACKPINK LIGHT STICK v2 Limited Edition Pre-order Open!\nCheck it out on @ygselect right now!\n\n🖤 PRE-ORDER | 2020.11.13 ~ 2020.11.19\n🖤 RELEASE | 2020.11.20 https://t.co/xUSgQExN3G"
+	},
+	{
 		"created_at": "Fri Nov 13 01:37:38 +0000 2020",
 		"id": 1327063037254258700,
 		"id_str": "1327063037254258688",
