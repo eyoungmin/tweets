@@ -1,6 +1,1409 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 13 11:57:16 +0000 2020",
+		"id": 1327218972635193300,
+		"id_str": "1327218972635193344",
+		"full_text": "악녀 같은 작품 했으면 좋겠다. https://t.co/pIT7N3BkAn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pIT7N3BkAn",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1327217461939236864",
+					"display_url": "twitter.com/CJnDrama/statu…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1018,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1327217461939236900,
+		"quoted_status_id_str": "1327217461939236864",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pIT7N3BkAn",
+			"expanded": "https://twitter.com/CJnDrama/status/1327217461939236864",
+			"display": "twitter.com/CJnDrama/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 13 11:51:16 +0000 2020",
+			"id": 1327217461939236900,
+			"id_str": "1327217461939236864",
+			"full_text": "달콤 살벌 짠내나는 여우콤비 보고가세요😢\n\n풀버전 감상👉 https://t.co/UhdKJbiQg1\n⠀\n매주 [수목] 밤 10시 30분 방송\n#tvN #수목드라마 #구미호뎐 #taleoftheninetailed\n#이동욱 #조보아 #김범 https://t.co/VKLx2VpCd5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				131
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "tvN",
+						"indices": [
+							79,
+							83
+						]
+					},
+					{
+						"text": "수목드라마",
+						"indices": [
+							84,
+							90
+						]
+					},
+					{
+						"text": "구미호뎐",
+						"indices": [
+							91,
+							96
+						]
+					},
+					{
+						"text": "taleoftheninetailed",
+						"indices": [
+							97,
+							117
+						]
+					},
+					{
+						"text": "이동욱",
+						"indices": [
+							118,
+							122
+						]
+					},
+					{
+						"text": "조보아",
+						"indices": [
+							123,
+							127
+						]
+					},
+					{
+						"text": "김범",
+						"indices": [
+							128,
+							131
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UhdKJbiQg1",
+						"expanded_url": "http://youtube.com/watch?v=SYXh2C7LS5M",
+						"display_url": "youtube.com/watch?v=SYXh2C…",
+						"indices": [
+							32,
+							55
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1327209350679576600,
+						"id_str": "1327209350679576578",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/Ems5On0UcAAQP7d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ems5On0UcAAQP7d.jpg",
+						"url": "https://t.co/VKLx2VpCd5",
+						"display_url": "pic.twitter.com/VKLx2VpCd5",
+						"expanded_url": "https://twitter.com/CJnDrama/status/1327217461939236864/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1327209350679576600,
+						"id_str": "1327209350679576578",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/Ems5On0UcAAQP7d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ems5On0UcAAQP7d.jpg",
+						"url": "https://t.co/VKLx2VpCd5",
+						"display_url": "pic.twitter.com/VKLx2VpCd5",
+						"expanded_url": "https://twitter.com/CJnDrama/status/1327217461939236864/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 59764,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1327209350679576578/vid/480x270/cmZ4ciXHp45KeKa3.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1327209350679576578/vid/640x360/zaeHGVNn3qVnzn88.mp4?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1327209350679576578/vid/1280x720/Syew17T4TXuJvO06.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1327209350679576578/pl/QUxM7XDUnepqH5XU.m3u8?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 335749973,
+				"id_str": "335749973",
+				"name": "tvN 드라마",
+				"screen_name": "CJnDrama",
+				"location": "",
+				"description": "tvN 드라마 공식 계정 #tvN #티비엔 #산후조리원 #구미호뎐 #스타트업",
+				"url": "https://t.co/Em6okU1Ysx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Em6okU1Ysx",
+								"expanded_url": "http://www.youtube.com/user/CJENMDRAMA",
+								"display_url": "youtube.com/user/CJENMDRAMA",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 412641,
+				"friends_count": 39,
+				"listed_count": 630,
+				"created_at": "Fri Jul 15 05:15:36 +0000 2011",
+				"favourites_count": 180,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 29328,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/335749973/1605068458",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 88,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "악녀 같은 작품 했으면 좋겠다. https://t.co/pIT7N3BkAn"
+	},
+	{
+		"created_at": "Fri Nov 13 11:55:45 +0000 2020",
+		"id": 1327218592727793700,
+		"id_str": "1327218592727793664",
+		"full_text": "검색결과에서 보여지던 것이 이젠 자연스럽게 브이앱 메뉴에서 함께 뜨니까 보기 안 좋은 듯. 이미 해외 케이팝 개발자는 이거 분류해서 디스코드로 쏘는 것 같네.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1327217697382310000,
+		"in_reply_to_status_id_str": "1327217697382309888",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1018,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "검색결과에서 보여지던 것이 이젠 자연스럽게 브이앱 메뉴에서 함께 뜨니까 보기 안 좋은 듯. 이미 해외 케이팝 개발자는 이거 분류해서 디스코드로 쏘는 것 같네."
+	},
+	{
+		"created_at": "Fri Nov 13 11:52:12 +0000 2020",
+		"id": 1327217697382310000,
+		"id_str": "1327217697382309888",
+		"full_text": "그래봤자 콘텐츠 채널이나 언론사일텐데 출근길 퇴근길 이런 건 좀 안보고 싶은데.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1327217483695104000,
+		"in_reply_to_status_id_str": "1327217483695104000",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1018,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "그래봤자 콘텐츠 채널이나 언론사일텐데 출근길 퇴근길 이런 건 좀 안보고 싶은데."
+	},
+	{
+		"created_at": "Fri Nov 13 11:51:21 +0000 2020",
+		"id": 1327217483695104000,
+		"id_str": "1327217483695104000",
+		"full_text": "브이앱 리뉴얼 되고나서 공식채널 아닌 영상도 같이 묶여서 표시되는구나. 이건 좀 불편하네.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1018,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "브이앱 리뉴얼 되고나서 공식채널 아닌 영상도 같이 묶여서 표시되는구나. 이건 좀 불편하네."
+	},
+	{
+		"created_at": "Fri Nov 13 11:50:17 +0000 2020",
+		"id": 1327217217881010200,
+		"id_str": "1327217217881010176",
+		"full_text": "디스코드용 웹훅 POST 사이트\nhttps://t.co/229Yut2gm1\n\n포스트맨 말고 웹에서 Webhooks POST 할 수 있는 사이트가 있었다.\n\n#디스코드 #Discord #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "디스코드",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "Discord",
+					"indices": [
+						93,
+						101
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						102,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/229Yut2gm1",
+					"expanded_url": "https://discohook.org/",
+					"display_url": "discohook.org",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1018,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "디스코드용 웹훅 POST 사이트\nhttps://t.co/229Yut2gm1\n\n포스트맨 말고 웹에서 Webhooks POST 할 수 있는 사이트가 있었다.\n\n#디스코드 #Discord #minfav"
+	},
+	{
+		"created_at": "Fri Nov 13 11:45:41 +0000 2020",
+		"id": 1327204564114624500,
+		"id_str": "1327216056574894080",
+		"full_text": "내 최애와 소개팅을 하게 된다면...?🙊 연습생 때부터 찐 오빛 지한이와 올리비아 혜의 설레는 첫 만남💕 이 시국😷에 혼자 K-POP하는 아이돌 여기 있음! #위클리 #이달의소녀 #Weeekly #LOONA #TheFirstDate @_Weeekly @loonatheworld\n\n#오늘부터1일 👉 https://t.co/Fivk2PTs9B https://t.co/dippO8QNhm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "위클리",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "Weeekly",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "TheFirstDate",
+					"indices": [
+						116,
+						129
+					]
+				},
+				{
+					"text": "오늘부터1일",
+					"indices": [
+						156,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_Weeekly",
+					"name": "Weeekly (위클리)",
+					"id": 874918428825485300,
+					"id_str": "874918428825485312",
+					"indices": [
+						130,
+						139
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						140,
+						154
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Fivk2PTs9B",
+					"expanded_url": "https://youtu.be/Y_NFnVU3CYE",
+					"display_url": "youtu.be/Y_NFnVU3CYE",
+					"indices": [
+						166,
+						189
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326837382495105000,
+					"id_str": "1326837382495105025",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/Emq6EcyVgAEnIh4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emq6EcyVgAEnIh4.jpg",
+					"url": "https://t.co/dippO8QNhm",
+					"display_url": "pic.twitter.com/dippO8QNhm",
+					"expanded_url": "https://twitter.com/1theK/status/1327204564114624513/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326837382495105000,
+					"id_str": "1326837382495105025",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/Emq6EcyVgAEnIh4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emq6EcyVgAEnIh4.jpg",
+					"url": "https://t.co/dippO8QNhm",
+					"display_url": "pic.twitter.com/dippO8QNhm",
+					"expanded_url": "https://twitter.com/1theK/status/1327204564114624513/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 122039,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1326837382495105025/vid/1280x720/aHvEqVXR4X1aX4Xk.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1326837382495105025/vid/480x270/-QUWMmof7LtMQugY.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1326837382495105025/pl/4sXoX3tCfoSPdtH_.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1326837382495105025/vid/640x360/9GL1xNA-v4yTpmT-.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/Y_NFnVU3CYE"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakao-m.com",
+			"url": "https://t.co/98CRTk0YXk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/98CRTk0YXk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2120915,
+			"friends_count": 811,
+			"listed_count": 1808,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 15163,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1605261644",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1366,
+		"favorite_count": 2842,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내 최애와 소개팅을 하게 된다면...?🙊 연습생 때부터 찐 오빛 지한이와 올리비아 혜의 설레는 첫 만남💕 이 시국😷에 혼자 K-POP하는 아이돌 여기 있음! #위클리 #이달의소녀 #Weeekly #LOONA #TheFirstDate @_Weeekly @loonatheworld\n\n#오늘부터1일 👉 https://t.co/Fivk2PTs9B https://t.co/dippO8QNhm"
+	},
+	{
+		"created_at": "Fri Nov 13 11:45:36 +0000 2020",
+		"id": 1327204089449443300,
+		"id_str": "1327216039285952512",
+		"full_text": "[팩트인스타] #이달의소녀 #LOONA\n\n오늘은 달님 휴업이야🌛\n달님보다  눈부신 이달소가 \n축제를 열거든~🥳\n어딜보니~! 나만 따라와🧚‍♀️\n\n📺https://t.co/thvAoXB42z\n\n🎀11/15 (일) 낮 12시 30분 TBS TV!\n🎀11/16 (월) 오전 8시 팩인스 유튜브에서 무편집본 공개🎵\n\n@loonatheworld #Midnight #Why_Not https://t.co/6c4GUUT1i4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						188,
+						197
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						198,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						173,
+						187
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/thvAoXB42z",
+					"expanded_url": "https://youtu.be/xveOoK2KS4I",
+					"display_url": "youtu.be/xveOoK2KS4I",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1327204083694928000,
+					"id_str": "1327204083694927872",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/EmstFREVgAAUg0w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmstFREVgAAUg0w.jpg",
+					"url": "https://t.co/6c4GUUT1i4",
+					"display_url": "pic.twitter.com/6c4GUUT1i4",
+					"expanded_url": "https://twitter.com/factinstar/status/1327204089449443330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 359,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 359,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 359,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327204083694928000,
+					"id_str": "1327204083694927872",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/EmstFREVgAAUg0w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmstFREVgAAUg0w.jpg",
+					"url": "https://t.co/6c4GUUT1i4",
+					"display_url": "pic.twitter.com/6c4GUUT1i4",
+					"expanded_url": "https://twitter.com/factinstar/status/1327204089449443330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 359,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 359,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 359,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 800913985407062000,
+			"id_str": "800913985407062016",
+			"name": "팩트인스타 Fact iN Star",
+			"screen_name": "factinstar",
+			"location": "대한민국 서울",
+			"description": "All That Your K-POP BIAS / TBS Open Studio (SEOUL S-PLEX CENTER) / Friday at 9:00 PM(KST) Fact iN Star #Youtube Upload / Sunday at 12:30 PM(KST) TBS TV On Air",
+			"url": "https://t.co/Dn0y2BVbwp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dn0y2BVbwp",
+							"expanded_url": "https://www.youtube.com/channel/UCakRF1Lu1ZuZR7Dx2B7b_9g",
+							"display_url": "youtube.com/channel/UCakRF…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5813,
+			"friends_count": 2772,
+			"listed_count": 30,
+			"created_at": "Tue Nov 22 04:09:09 +0000 2016",
+			"favourites_count": 2768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4620,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262996627276435458/6LSwyFjf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262996627276435458/6LSwyFjf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/800913985407062016/1589956779",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 190,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[팩트인스타] #이달의소녀 #LOONA\n\n오늘은 달님 휴업이야🌛\n달님보다  눈부신 이달소가 \n축제를 열거든~🥳\n어딜보니~! 나만 따라와🧚‍♀️\n\n📺https://t.co/thvAoXB42z\n\n🎀11/15 (일) 낮 12시 30분 TBS TV!\n🎀11/16 (월) 오전 8시 팩인스 유튜브에서 무편집본 공개🎵\n\n@loonatheworld #Midnight #Why_Not https://t.co/6c4GUUT1i4"
+	},
+	{
+		"created_at": "Fri Nov 13 11:43:07 +0000 2020",
+		"id": 1327215412673613800,
+		"id_str": "1327215412673613826",
+		"full_text": "새로고침 간격이 좁아서 그런건가? 문의를 넣어보긴 해야겠다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1327214914469937200,
+		"in_reply_to_status_id_str": "1327214914469937153",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1018,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "새로고침 간격이 좁아서 그런건가? 문의를 넣어보긴 해야겠다."
+	},
+	{
+		"created_at": "Fri Nov 13 11:41:08 +0000 2020",
+		"id": 1327214914469937200,
+		"id_str": "1327214914469937153",
+		"full_text": "디스코드 봇으로 작성할 때 왜 자꾸 임베드 생성 안될 때 있는데 이유를 모르겠다. 유튜브 바로보기 안되면 불편해.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1018,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "디스코드 봇으로 작성할 때 왜 자꾸 임베드 생성 안될 때 있는데 이유를 모르겠다. 유튜브 바로보기 안되면 불편해."
+	},
+	{
 		"created_at": "Fri Nov 13 10:27:05 +0000 2020",
 		"id": 1327192124241051600,
 		"id_str": "1327196276736356353",
