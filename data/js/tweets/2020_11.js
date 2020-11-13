@@ -1,6 +1,884 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 13 21:26:57 +0000 2020",
+		"id": 1327362125451300900,
+		"id_str": "1327362340832960512",
+		"full_text": "psa: zedd is looking for remixes of his latest single for a chance at a spot on his official remix pack\n\njoin his server to dl stems and submit your remixes by 11/20 —&gt; https://t.co/8sNzA2f8gL (good luck!!!!!!)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8sNzA2f8gL",
+					"expanded_url": "http://discord.com/invite/zedd",
+					"display_url": "discord.com/invite/zedd",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3065618342,
+			"id_str": "3065618342",
+			"name": "Discord",
+			"screen_name": "discord",
+			"location": "San Francisco, CA",
+			"description": "Your place to talk. Discord is a voice, video and text communication service to talk and hang out with your friends and communities.",
+			"url": "https://t.co/cNrYsYvfIi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cNrYsYvfIi",
+							"expanded_url": "https://discord.com/",
+							"display_url": "discord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2491792,
+			"friends_count": 1055,
+			"listed_count": 2514,
+			"created_at": "Sat Mar 07 01:00:18 +0000 2015",
+			"favourites_count": 31927,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 449862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324044062890942464/B_osBEcZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324044062890942464/B_osBEcZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3065618342/1604511679",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 1346,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "psa: zedd is looking for remixes of his latest single for a chance at a spot on his official remix pack\n\njoin his server to dl stems and submit your remixes by 11/20 —&gt; https://t.co/8sNzA2f8gL (good luck!!!!!!)"
+	},
+	{
+		"created_at": "Fri Nov 13 21:26:26 +0000 2020",
+		"id": 1324693113919754200,
+		"id_str": "1327362211132522496",
+		"full_text": "#Billboard_Korea #빌보드코리아 #NEWS\n구찌 필름에서 만나는 해리 스타일스와 빌리 아일리시\nhttps://t.co/oGhl3gshWN https://t.co/ahQzKRtnqi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Billboard_Korea",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "빌보드코리아",
+					"indices": [
+						17,
+						24
+					]
+				},
+				{
+					"text": "NEWS",
+					"indices": [
+						25,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oGhl3gshWN",
+					"expanded_url": "https://bit.ly/2U0KIxm",
+					"display_url": "bit.ly/2U0KIxm",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1324693112996987000,
+					"id_str": "1324693112996986881",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EmJBXiSXgAEvdQ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmJBXiSXgAEvdQ_.jpg",
+					"url": "https://t.co/ahQzKRtnqi",
+					"display_url": "pic.twitter.com/ahQzKRtnqi",
+					"expanded_url": "https://twitter.com/magazine_kr/status/1324693113919754240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 281,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 330,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 330,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324693112996987000,
+					"id_str": "1324693112996986881",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EmJBXiSXgAEvdQ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmJBXiSXgAEvdQ_.jpg",
+					"url": "https://t.co/ahQzKRtnqi",
+					"display_url": "pic.twitter.com/ahQzKRtnqi",
+					"expanded_url": "https://twitter.com/magazine_kr/status/1324693113919754240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 281,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 330,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 330,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1323565225216336000,
+			"id_str": "1323565225216335872",
+			"name": "뮤직매거진",
+			"screen_name": "magazine_kr",
+			"location": "",
+			"description": "국내 음악 매거진을 자동으로 트윗합니다.\n\n#멜론 #멜론매거진\n#지니 #지니매거진 \n#벅스 #뮤직포스트\n#바이브 #바이브매거진\n#빌보드코리아",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5,
+			"friends_count": 5,
+			"listed_count": 0,
+			"created_at": "Tue Nov 03 09:58:45 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323890652048879616/Xo2dH1lF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323890652048879616/Xo2dH1lF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1323565225216335872/1604405477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Billboard_Korea #빌보드코리아 #NEWS\n구찌 필름에서 만나는 해리 스타일스와 빌리 아일리시\nhttps://t.co/oGhl3gshWN https://t.co/ahQzKRtnqi"
+	},
+	{
+		"created_at": "Fri Nov 13 21:25:49 +0000 2020",
+		"id": 1325743366622105600,
+		"id_str": "1327362054563393537",
+		"full_text": "#Melon #멜론 #멜론매거진\n극강의 카타르시스, 태민 (TAEMIN) [Never Gonna Dance Again : Act 2]\nhttps://t.co/umtH1qUAZb https://t.co/UzurRr5ZCm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/umtH1qUAZb",
+					"expanded_url": "https://bit.ly/38qee88",
+					"display_url": "bit.ly/38qee88",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1325743365267271700,
+					"id_str": "1325743365267271680",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EmX8kQ4WMAAd0a_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmX8kQ4WMAAd0a_.jpg",
+					"url": "https://t.co/UzurRr5ZCm",
+					"display_url": "pic.twitter.com/UzurRr5ZCm",
+					"expanded_url": "https://twitter.com/magazine_kr/status/1325743366622105600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325743365267271700,
+					"id_str": "1325743365267271680",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EmX8kQ4WMAAd0a_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmX8kQ4WMAAd0a_.jpg",
+					"url": "https://t.co/UzurRr5ZCm",
+					"display_url": "pic.twitter.com/UzurRr5ZCm",
+					"expanded_url": "https://twitter.com/magazine_kr/status/1325743366622105600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1323565225216336000,
+			"id_str": "1323565225216335872",
+			"name": "뮤직매거진",
+			"screen_name": "magazine_kr",
+			"location": "",
+			"description": "국내 음악 매거진을 자동으로 트윗합니다.\n\n#멜론 #멜론매거진\n#지니 #지니매거진 \n#벅스 #뮤직포스트\n#바이브 #바이브매거진\n#빌보드코리아",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5,
+			"friends_count": 5,
+			"listed_count": 0,
+			"created_at": "Tue Nov 03 09:58:45 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323890652048879616/Xo2dH1lF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323890652048879616/Xo2dH1lF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1323565225216335872/1604405477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n극강의 카타르시스, 태민 (TAEMIN) [Never Gonna Dance Again : Act 2]\nhttps://t.co/umtH1qUAZb https://t.co/UzurRr5ZCm"
+	},
+	{
+		"created_at": "Fri Nov 13 21:25:23 +0000 2020",
+		"id": 1326382989920653300,
+		"id_str": "1327361946631376897",
+		"full_text": "#genie #지니 #지니매거진\n[스페셜] ADOY(아도이)의 첫 번째 라이브 필름 ’LOVE’ 촬영기 공개\nhttps://t.co/Cu5IJZdqVs https://t.co/0nTNdTvDi4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Cu5IJZdqVs",
+					"expanded_url": "https://bit.ly/3kjedFv",
+					"display_url": "bit.ly/3kjedFv",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326382988473626600,
+					"id_str": "1326382988473626624",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EmhCTPAXcAAi708.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmhCTPAXcAAi708.jpg",
+					"url": "https://t.co/0nTNdTvDi4",
+					"display_url": "pic.twitter.com/0nTNdTvDi4",
+					"expanded_url": "https://twitter.com/magazine_kr/status/1326382989920653313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326382988473626600,
+					"id_str": "1326382988473626624",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EmhCTPAXcAAi708.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmhCTPAXcAAi708.jpg",
+					"url": "https://t.co/0nTNdTvDi4",
+					"display_url": "pic.twitter.com/0nTNdTvDi4",
+					"expanded_url": "https://twitter.com/magazine_kr/status/1326382989920653313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1323565225216336000,
+			"id_str": "1323565225216335872",
+			"name": "뮤직매거진",
+			"screen_name": "magazine_kr",
+			"location": "",
+			"description": "국내 음악 매거진을 자동으로 트윗합니다.\n\n#멜론 #멜론매거진\n#지니 #지니매거진 \n#벅스 #뮤직포스트\n#바이브 #바이브매거진\n#빌보드코리아",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5,
+			"friends_count": 5,
+			"listed_count": 0,
+			"created_at": "Tue Nov 03 09:58:45 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323890652048879616/Xo2dH1lF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323890652048879616/Xo2dH1lF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1323565225216335872/1604405477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #지니매거진\n[스페셜] ADOY(아도이)의 첫 번째 라이브 필름 ’LOVE’ 촬영기 공개\nhttps://t.co/Cu5IJZdqVs https://t.co/0nTNdTvDi4"
+	},
+	{
+		"created_at": "Fri Nov 13 21:24:37 +0000 2020",
+		"id": 1327154058206056400,
+		"id_str": "1327361750577016832",
+		"full_text": "#Billboard_Korea #빌보드코리아 #NEWS\n빌리 아일리시가 차에서 즐겨 듣는 음악은?\nhttps://t.co/Tyf0QnbjHf https://t.co/FwMnvlNBMb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Billboard_Korea",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "빌보드코리아",
+					"indices": [
+						17,
+						24
+					]
+				},
+				{
+					"text": "NEWS",
+					"indices": [
+						25,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Tyf0QnbjHf",
+					"expanded_url": "https://bit.ly/3njNhar",
+					"display_url": "bit.ly/3njNhar",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1327154056951984000,
+					"id_str": "1327154056951984128",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Emr_lU7XcAAfwDe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emr_lU7XcAAfwDe.jpg",
+					"url": "https://t.co/FwMnvlNBMb",
+					"display_url": "pic.twitter.com/FwMnvlNBMb",
+					"expanded_url": "https://twitter.com/magazine_kr/status/1327154058206056451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 677,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 677,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327154056951984000,
+					"id_str": "1327154056951984128",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Emr_lU7XcAAfwDe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emr_lU7XcAAfwDe.jpg",
+					"url": "https://t.co/FwMnvlNBMb",
+					"display_url": "pic.twitter.com/FwMnvlNBMb",
+					"expanded_url": "https://twitter.com/magazine_kr/status/1327154058206056451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 677,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 677,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1323565225216336000,
+			"id_str": "1323565225216335872",
+			"name": "뮤직매거진",
+			"screen_name": "magazine_kr",
+			"location": "",
+			"description": "국내 음악 매거진을 자동으로 트윗합니다.\n\n#멜론 #멜론매거진\n#지니 #지니매거진 \n#벅스 #뮤직포스트\n#바이브 #바이브매거진\n#빌보드코리아",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5,
+			"friends_count": 5,
+			"listed_count": 0,
+			"created_at": "Tue Nov 03 09:58:45 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323890652048879616/Xo2dH1lF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323890652048879616/Xo2dH1lF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1323565225216335872/1604405477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Billboard_Korea #빌보드코리아 #NEWS\n빌리 아일리시가 차에서 즐겨 듣는 음악은?\nhttps://t.co/Tyf0QnbjHf https://t.co/FwMnvlNBMb"
+	},
+	{
 		"created_at": "Fri Nov 13 19:47:38 +0000 2020",
 		"id": 1327337346530939000,
 		"id_str": "1327337346530938882",
