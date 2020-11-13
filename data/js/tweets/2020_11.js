@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 13 15:27:05 +0000 2020",
+		"id": 1327265023484313600,
+		"id_str": "1327271773654626305",
+		"full_text": "æ-aespa\n\naespa 에스파 [Black Mamba]\n🎵 2020.11.17 6PM KST\n\n#æ_aespa #æ_æspa #아이_에스파\n#aespa #æspa #에스파\n#BlackMamba https://t.co/SdZ7vDRBfb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "æ_aespa",
+					"indices": [
+						55,
+						63
+					]
+				},
+				{
+					"text": "æ_æspa",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"text": "아이_에스파",
+					"indices": [
+						72,
+						79
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "BlackMamba",
+					"indices": [
+						98,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1327260600783700000,
+					"id_str": "1327260600783699971",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/Emtge_oVgAMQfls.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emtge_oVgAMQfls.jpg",
+					"url": "https://t.co/SdZ7vDRBfb",
+					"display_url": "pic.twitter.com/SdZ7vDRBfb",
+					"expanded_url": "https://twitter.com/aespa_official/status/1327265023484313600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 797,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327260600783700000,
+					"id_str": "1327260600783699971",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/Emtge_oVgAMQfls.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emtge_oVgAMQfls.jpg",
+					"url": "https://t.co/SdZ7vDRBfb",
+					"display_url": "pic.twitter.com/SdZ7vDRBfb",
+					"expanded_url": "https://twitter.com/aespa_official/status/1327265023484313600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 797,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 382970,
+			"friends_count": 1,
+			"listed_count": 874,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 52,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11487,
+		"favorite_count": 35182,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "æ-aespa\n\naespa 에스파 [Black Mamba]\n🎵 2020.11.17 6PM KST\n\n#æ_aespa #æ_æspa #아이_에스파\n#aespa #æspa #에스파\n#BlackMamba https://t.co/SdZ7vDRBfb"
+	},
+	{
 		"created_at": "Fri Nov 13 15:07:12 +0000 2020",
 		"id": 1327266770827305000,
 		"id_str": "1327266770827304960",
