@@ -1,6 +1,2078 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 13 08:31:50 +0000 2020",
+		"id": 1327160021705134000,
+		"id_str": "1327167274936016896",
+		"full_text": "저.. LOONA랑 통화하고 싶은데 또 통화할 수 있나요? 👀\n물론이죠!! WHY NOT?\n\n기다리고 있는 Orbit 들을 위해 두 번쨰 영상통화 팬사인회를 준비했습니다 🤗\nhttps://t.co/BrUlyUcMbH 에서 지금 바로 참여하세요~ \n\n#LOONA #이달의소녀 #OrbitRing2_Midnight #MyMusicTaste https://t.co/6a4fsjilI9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "OrbitRing2_Midnight",
+					"indices": [
+						153,
+						173
+					]
+				},
+				{
+					"text": "MyMusicTaste",
+					"indices": [
+						174,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BrUlyUcMbH",
+					"expanded_url": "https://mmt.fans/ibep",
+					"display_url": "mmt.fans/ibep",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1327159776959107000,
+					"id_str": "1327159776959107073",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EmsEyRnVkAER2Jo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmsEyRnVkAER2Jo.jpg",
+					"url": "https://t.co/6a4fsjilI9",
+					"display_url": "pic.twitter.com/6a4fsjilI9",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1327160021705134080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 185,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 326,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 556,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327159776959107000,
+					"id_str": "1327159776959107073",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EmsEyRnVkAER2Jo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmsEyRnVkAER2Jo.jpg",
+					"url": "https://t.co/6a4fsjilI9",
+					"display_url": "pic.twitter.com/6a4fsjilI9",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1327160021705134080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 185,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 326,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 556,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1327159521576444000,
+		"in_reply_to_status_id_str": "1327159521576443905",
+		"in_reply_to_user_id": 1664037517,
+		"in_reply_to_user_id_str": "1664037517",
+		"in_reply_to_screen_name": "_mymusictaste",
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. \nSTOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128926,
+			"friends_count": 111,
+			"listed_count": 261,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1592014887",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 223,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저.. LOONA랑 통화하고 싶은데 또 통화할 수 있나요? 👀\n물론이죠!! WHY NOT?\n\n기다리고 있는 Orbit 들을 위해 두 번쨰 영상통화 팬사인회를 준비했습니다 🤗\nhttps://t.co/BrUlyUcMbH 에서 지금 바로 참여하세요~ \n\n#LOONA #이달의소녀 #OrbitRing2_Midnight #MyMusicTaste https://t.co/6a4fsjilI9"
+	},
+	{
+		"created_at": "Fri Nov 13 08:29:41 +0000 2020",
+		"id": 1327162420393963500,
+		"id_str": "1327166733757550592",
+		"full_text": "잠시 후 7시 딩고 MOVE REC에서 만나!ㅎㅎ \n\n👉🏻https://t.co/Lx3jWdFdNj\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act2\n#IDEA #이데아 https://t.co/FnIOGRc6Jd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태민",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						61,
+						68
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						74,
+						81
+					]
+				},
+				{
+					"text": "NeverGonnaDanceAgain",
+					"indices": [
+						82,
+						103
+					]
+				},
+				{
+					"text": "Act2",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "IDEA",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "이데아",
+					"indices": [
+						116,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Lx3jWdFdNj",
+					"expanded_url": "https://youtu.be/bRrbFjdisM0",
+					"display_url": "youtu.be/bRrbFjdisM0",
+					"indices": [
+						32,
+						55
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1327161953584758800,
+					"id_str": "1327161953584758784",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EmsGw-LVQAAeESX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmsGw-LVQAAeESX.jpg",
+					"url": "https://t.co/FnIOGRc6Jd",
+					"display_url": "pic.twitter.com/FnIOGRc6Jd",
+					"expanded_url": "https://twitter.com/SHINee/status/1327162420393963521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327161953584758800,
+					"id_str": "1327161953584758784",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EmsGw-LVQAAeESX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmsGw-LVQAAeESX.jpg",
+					"url": "https://t.co/FnIOGRc6Jd",
+					"display_url": "pic.twitter.com/FnIOGRc6Jd",
+					"expanded_url": "https://twitter.com/SHINee/status/1327162420393963521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "SHINee(샤이니) Official Twitter",
+			"url": "https://t.co/XfiYOQsIu0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XfiYOQsIu0",
+							"expanded_url": "http://taemin.smtown.com",
+							"display_url": "taemin.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1514967,
+			"friends_count": 2,
+			"listed_count": 3428,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 47,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1187,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320741929429024768/Dl1a2B_B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320741929429024768/Dl1a2B_B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1603724391",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3976,
+		"favorite_count": 9709,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시 후 7시 딩고 MOVE REC에서 만나!ㅎㅎ \n\n👉🏻https://t.co/Lx3jWdFdNj\n\n#태민 #TAEMIN #샤이니 #SHINee\n#NeverGonnaDanceAgain\n#Act2\n#IDEA #이데아 https://t.co/FnIOGRc6Jd"
+	},
+	{
+		"created_at": "Fri Nov 13 08:28:36 +0000 2020",
+		"id": 1327162766453395500,
+		"id_str": "1327166462016901120",
+		"full_text": "WCIF는 음악·엔터테인먼트 산업에서 동·서양의 교류와 협력에 기여한 인물에게 수여하는 &lt;WCIF Award&gt;를 제정했으며, 1회 수상자로 K-pop 해외진출의 선구자인 보아(BoA)를 선정했습니다. 이장우 WCIF 의장이 트로피 등을 전달했습니다.\nhttps://t.co/LmpEIXv8af\n#보아 #BoA #WCIFAward #K팝이노베이션 https://t.co/dsIxlms1I2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보아",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						174,
+						178
+					]
+				},
+				{
+					"text": "WCIFAward",
+					"indices": [
+						179,
+						189
+					]
+				},
+				{
+					"text": "K팝이노베이션",
+					"indices": [
+						190,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LmpEIXv8af",
+					"expanded_url": "https://m.facebook.com/story.php?story_fbid=3442189552563825&id=100003184439245",
+					"display_url": "m.facebook.com/story.php?stor…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1327162009088000000,
+					"id_str": "1327162009088000002",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EmsG0M8VgAIg2F2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmsG0M8VgAIg2F2.jpg",
+					"url": "https://t.co/dsIxlms1I2",
+					"display_url": "pic.twitter.com/dsIxlms1I2",
+					"expanded_url": "https://twitter.com/WCIF_World/status/1327162766453395456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327162009088000000,
+					"id_str": "1327162009088000002",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EmsG0M8VgAIg2F2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmsG0M8VgAIg2F2.jpg",
+					"url": "https://t.co/dsIxlms1I2",
+					"display_url": "pic.twitter.com/dsIxlms1I2",
+					"expanded_url": "https://twitter.com/WCIF_World/status/1327162766453395456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1316526687979335700,
+			"id_str": "1316526687979335680",
+			"name": "WCIF세계문화산업포럼",
+			"screen_name": "WCIF_World",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62,
+			"friends_count": 25,
+			"listed_count": 0,
+			"created_at": "Wed Oct 14 23:50:19 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1318027630772301825/ivOxkWEj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318027630772301825/ivOxkWEj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1316526687979335680/1603077271",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "WCIF는 음악·엔터테인먼트 산업에서 동·서양의 교류와 협력에 기여한 인물에게 수여하는 &lt;WCIF Award&gt;를 제정했으며, 1회 수상자로 K-pop 해외진출의 선구자인 보아(BoA)를 선정했습니다. 이장우 WCIF 의장이 트로피 등을 전달했습니다.\nhttps://t.co/LmpEIXv8af\n#보아 #BoA #WCIFAward #K팝이노베이션 https://t.co/dsIxlms1I2"
+	},
+	{
+		"created_at": "Fri Nov 13 08:28:21 +0000 2020",
+		"id": 1327164348255506400,
+		"id_str": "1327166398448037888",
+		"full_text": "우와!!\n\n[포커스 IN(人)] 포크 낭독회ㅣ김윤아 (♬무명無名 - 정밀아)\n잠시 귀를 기울여 꿀보이스와 가사에 빠져보세요\n&lt;포커스(Folk Us)&gt;\n2020.11.20 금 저녁7시30분 첫방송 Mnet/tvN동시방송 #나의첫번째포크스타 #포커스 #FolkUs #포크 #Folk #엠넷 #MnetASIANMUSICAWARDS \nhttps://t.co/GBkiypyM9t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나의첫번째포크스타",
+					"indices": [
+						128,
+						138
+					]
+				},
+				{
+					"text": "포커스",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "FolkUs",
+					"indices": [
+						144,
+						151
+					]
+				},
+				{
+					"text": "포크",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "Folk",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						162,
+						165
+					]
+				},
+				{
+					"text": "MnetASIANMUSICAWARDS",
+					"indices": [
+						166,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GBkiypyM9t",
+					"expanded_url": "https://tv.naver.com/v/16680004",
+					"display_url": "tv.naver.com/v/16680004",
+					"indices": [
+						189,
+						212
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2972799367,
+			"id_str": "2972799367",
+			"name": "정밀아Jeongmilla",
+			"screen_name": "Jeong_milla",
+			"location": "",
+			"description": "정밀아 정규1집_그리움도 병/정규2집_은하수/정규3집_청파소나타/싱글_무명/꽃/언제나그댈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 544,
+			"friends_count": 87,
+			"listed_count": 6,
+			"created_at": "Sat Jan 10 18:56:39 +0000 2015",
+			"favourites_count": 189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 780,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925331758010155009/ponxSZf9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925331758010155009/ponxSZf9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2972799367/1602596479",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우와!!\n\n[포커스 IN(人)] 포크 낭독회ㅣ김윤아 (♬무명無名 - 정밀아)\n잠시 귀를 기울여 꿀보이스와 가사에 빠져보세요\n&lt;포커스(Folk Us)&gt;\n2020.11.20 금 저녁7시30분 첫방송 Mnet/tvN동시방송 #나의첫번째포크스타 #포커스 #FolkUs #포크 #Folk #엠넷 #MnetASIANMUSICAWARDS \nhttps://t.co/GBkiypyM9t"
+	},
+	{
+		"created_at": "Fri Nov 13 08:28:12 +0000 2020",
+		"id": 1326833258839961600,
+		"id_str": "1327166360418275330",
+		"full_text": "[포커스 IN(人)] 포크 낭독회ㅣ김윤아 (♬무명無名 - 정밀아)\n\n잠시 귀를 기울여 꿀보이스와 가사에 빠져보세요\n\n#나의첫번째포크스타 &lt;포커스(Folk Us)&gt;\n2020.11.20 금요일 저녁 7시 30분 첫 방송 Mnet/tvN 동시방송\n\n#포커스 #FolkUs #포크 #Folk #엠넷 #Mnet\n\nhttps://t.co/iRrrzD53JF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나의첫번째포크스타",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"text": "포커스",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "FolkUs",
+					"indices": [
+						147,
+						154
+					]
+				},
+				{
+					"text": "포크",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "Folk",
+					"indices": [
+						159,
+						164
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						165,
+						168
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						169,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iRrrzD53JF",
+					"expanded_url": "https://tv.naver.com/v/16680004",
+					"display_url": "tv.naver.com/v/16680004",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2752130,
+			"friends_count": 21447,
+			"listed_count": 2712,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 445,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 26385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 94,
+		"favorite_count": 317,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[포커스 IN(人)] 포크 낭독회ㅣ김윤아 (♬무명無名 - 정밀아)\n\n잠시 귀를 기울여 꿀보이스와 가사에 빠져보세요\n\n#나의첫번째포크스타 &lt;포커스(Folk Us)&gt;\n2020.11.20 금요일 저녁 7시 30분 첫 방송 Mnet/tvN 동시방송\n\n#포커스 #FolkUs #포크 #Folk #엠넷 #Mnet\n\nhttps://t.co/iRrrzD53JF"
+	},
+	{
+		"created_at": "Fri Nov 13 08:28:06 +0000 2020",
+		"id": 1327098919965372400,
+		"id_str": "1327166333448908801",
+		"full_text": "이 세상에 단 하나뿐인 존재 @liamgallagher 리엄 갤러거가 12월 6일(일) 6pm (한국 시간) 독특한 라이브 퍼포먼스를 스트리밍합니다. \n\n보트 위에서 풀 밴드와 함께 솔로 앨범과 주옥같은 오아시스의 명곡들을 선사하는 아주 특별한 공연! 🎤\n\n지금 바로 예매하세요. 🎟 https://t.co/7RA0pq0ENc https://t.co/c9sPdFPlsf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "liamgallagher",
+					"name": "Liam Gallagher",
+					"id": 21181713,
+					"id_str": "21181713",
+					"indices": [
+						16,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7RA0pq0ENc",
+					"expanded_url": "http://bit.ly/watchliamgallagher",
+					"display_url": "bit.ly/watchliamgalla…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1327098918237315000,
+					"id_str": "1327098918237315072",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EmrNb1NXIAA1fRr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmrNb1NXIAA1fRr.jpg",
+					"url": "https://t.co/c9sPdFPlsf",
+					"display_url": "pic.twitter.com/c9sPdFPlsf",
+					"expanded_url": "https://twitter.com/livenationkr/status/1327098919965372416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327098918237315000,
+					"id_str": "1327098918237315072",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EmrNb1NXIAA1fRr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmrNb1NXIAA1fRr.jpg",
+					"url": "https://t.co/c9sPdFPlsf",
+					"display_url": "pic.twitter.com/c9sPdFPlsf",
+					"expanded_url": "https://twitter.com/livenationkr/status/1327098919965372416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 236888084,
+			"id_str": "236888084",
+			"name": "LIVE NATION KOREA",
+			"screen_name": "livenationkr",
+			"location": "Seoul, South Korea",
+			"description": "라이브네이션코리아 공식 트위터. Paul McCartney, Maroon5, Jason Mraz, Coldplay, MUSE, 등 해외 유명아티스트의 내한공연과 BIGBANG, Blackpink,BTS 등의 대규모 월드투어를 기획한 공연기획사. FOLLOW US!",
+			"url": "http://t.co/WZhcKy3xE8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/WZhcKy3xE8",
+							"expanded_url": "http://www.livenation.kr",
+							"display_url": "livenation.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6491,
+			"friends_count": 233,
+			"listed_count": 28,
+			"created_at": "Tue Jan 11 16:04:41 +0000 2011",
+			"favourites_count": 597,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236888084/1475559466",
+			"profile_link_color": "E21836",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 세상에 단 하나뿐인 존재 @liamgallagher 리엄 갤러거가 12월 6일(일) 6pm (한국 시간) 독특한 라이브 퍼포먼스를 스트리밍합니다. \n\n보트 위에서 풀 밴드와 함께 솔로 앨범과 주옥같은 오아시스의 명곡들을 선사하는 아주 특별한 공연! 🎤\n\n지금 바로 예매하세요. 🎟 https://t.co/7RA0pq0ENc https://t.co/c9sPdFPlsf"
+	},
+	{
+		"created_at": "Fri Nov 13 08:27:35 +0000 2020",
+		"id": 1327159521576444000,
+		"id_str": "1327166204239376386",
+		"full_text": "#Orbit! We know you loved the Orbit Ring - [Midnight]! 📞\n\nSo we thought, why not get the second round so more Orbits around the world will get the chance to chat with LOONA! 🤗\n\nJoin now 🌕 https://t.co/BrUlyUunAh\n\n#LOONA #이달의소녀 #OrbitRing2_Midnight with #MyMusicTaste https://t.co/1hJwv4eQXa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						213,
+						219
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						220,
+						226
+					]
+				},
+				{
+					"text": "OrbitRing2_Midnight",
+					"indices": [
+						227,
+						247
+					]
+				},
+				{
+					"text": "MyMusicTaste",
+					"indices": [
+						253,
+						266
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BrUlyUunAh",
+					"expanded_url": "https://mmt.fans/ibep",
+					"display_url": "mmt.fans/ibep",
+					"indices": [
+						188,
+						211
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1327159517990314000,
+					"id_str": "1327159517990313985",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/EmsEjM4XYAEFsfl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmsEjM4XYAEFsfl.jpg",
+					"url": "https://t.co/1hJwv4eQXa",
+					"display_url": "pic.twitter.com/1hJwv4eQXa",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1327159521576443905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 178,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 314,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327159517990314000,
+					"id_str": "1327159517990313985",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/EmsEjM4XYAEFsfl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmsEjM4XYAEFsfl.jpg",
+					"url": "https://t.co/1hJwv4eQXa",
+					"display_url": "pic.twitter.com/1hJwv4eQXa",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1327159521576443905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 178,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 314,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. \nSTOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128926,
+			"friends_count": 111,
+			"listed_count": 261,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1592014887",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 379,
+		"favorite_count": 1970,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Orbit! We know you loved the Orbit Ring - [Midnight]! 📞\n\nSo we thought, why not get the second round so more Orbits around the world will get the chance to chat with LOONA! 🤗\n\nJoin now 🌕 https://t.co/BrUlyUunAh\n\n#LOONA #이달의소녀 #OrbitRing2_Midnight with #MyMusicTaste https://t.co/1hJwv4eQXa"
+	},
+	{
+		"created_at": "Fri Nov 13 08:27:31 +0000 2020",
+		"id": 1327159285353046000,
+		"id_str": "1327166186933645312",
+		"full_text": "Catch the @BLACKPINKOFFICIAL Gameplay Show premiere in @PUBGMOBILE at 13:00 UTC / 22:00 KST on Friday, November 13.\nYou can also watch the broadcast at 14:00 UTC / 23:00 KST via PUBG MOBILE’s official Facebook and YouTube channels!\n\n#BLACKPINK #PUBGMOBILE https://t.co/w08Xa3U8E6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						233,
+						243
+					]
+				},
+				{
+					"text": "PUBGMOBILE",
+					"indices": [
+						244,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PUBGMOBILE",
+					"name": "PUBG MOBILE",
+					"id": 968652142750810100,
+					"id_str": "968652142750810114",
+					"indices": [
+						55,
+						66
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1327159278814130200,
+					"id_str": "1327159278814130176",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/EmsEVR4UcAAJWCN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmsEVR4UcAAJWCN.jpg",
+					"url": "https://t.co/w08Xa3U8E6",
+					"display_url": "pic.twitter.com/w08Xa3U8E6",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1327159285353046016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327159278814130200,
+					"id_str": "1327159278814130176",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/EmsEVR4UcAAJWCN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmsEVR4UcAAJWCN.jpg",
+					"url": "https://t.co/w08Xa3U8E6",
+					"display_url": "pic.twitter.com/w08Xa3U8E6",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1327159285353046016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/c2mkxA118z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c2mkxA118z",
+							"expanded_url": "https://blink.blackpinkofficial.com/",
+							"display_url": "blink.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5669915,
+			"friends_count": 6,
+			"listed_count": 5890,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1601269396",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3461,
+		"favorite_count": 15720,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Catch the @BLACKPINKOFFICIAL Gameplay Show premiere in @PUBGMOBILE at 13:00 UTC / 22:00 KST on Friday, November 13.\nYou can also watch the broadcast at 14:00 UTC / 23:00 KST via PUBG MOBILE’s official Facebook and YouTube channels!\n\n#BLACKPINK #PUBGMOBILE https://t.co/w08Xa3U8E6"
+	},
+	{
+		"created_at": "Fri Nov 13 08:27:24 +0000 2020",
+		"id": 1327159266302697500,
+		"id_str": "1327166157057646592",
+		"full_text": "Catch the @BLACKPINKOFFICIAL Gameplay Show premiere in @PUBGMOBILE at 13:00 UTC / 22:00 KST on Friday, November 13.\n\nYou can also watch the broadcast at 14:00 UTC / 23:00 KST via PUBG MOBILE’s official Facebook and YouTube channels!  \n\n#BLACKPINK #PUBGMOBILE https://t.co/t6LEsx8Cqy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						236,
+						246
+					]
+				},
+				{
+					"text": "PUBGMOBILE",
+					"indices": [
+						247,
+						258
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PUBGMOBILE",
+					"name": "PUBG MOBILE",
+					"id": 968652142750810100,
+					"id_str": "968652142750810114",
+					"indices": [
+						55,
+						66
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1327158629313642500,
+					"id_str": "1327158629313642496",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/EmsDveTVgAATEGH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmsDveTVgAATEGH.jpg",
+					"url": "https://t.co/t6LEsx8Cqy",
+					"display_url": "pic.twitter.com/t6LEsx8Cqy",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1327159266302697473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327158629313642500,
+					"id_str": "1327158629313642496",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/EmsDveTVgAATEGH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmsDveTVgAATEGH.jpg",
+					"url": "https://t.co/t6LEsx8Cqy",
+					"display_url": "pic.twitter.com/t6LEsx8Cqy",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1327159266302697473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/mhaOteBGUV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mhaOteBGUV",
+							"expanded_url": "https://youtu.be/dyRsYk0LyA8",
+							"display_url": "youtu.be/dyRsYk0LyA8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2536971,
+			"friends_count": 0,
+			"listed_count": 3250,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1601491826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7359,
+		"favorite_count": 27801,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Catch the @BLACKPINKOFFICIAL Gameplay Show premiere in @PUBGMOBILE at 13:00 UTC / 22:00 KST on Friday, November 13.\n\nYou can also watch the broadcast at 14:00 UTC / 23:00 KST via PUBG MOBILE’s official Facebook and YouTube channels!  \n\n#BLACKPINK #PUBGMOBILE https://t.co/t6LEsx8Cqy"
+	},
+	{
+		"created_at": "Fri Nov 13 08:27:17 +0000 2020",
+		"id": 1327154236115853300,
+		"id_str": "1327166131380088832",
+		"full_text": "금요일을 화려하게 장식할 #이달의소녀 의 Midnight Festival!\n201113 KBS2 ‘뮤직뱅크’는 사랑스러운 츄와 함께 이달의 소녀 LIGHT STICK KEYRING을 들고 이달의 소녀를 응원해주세요!\n\n#LOONA #랜선출첵 #WhyNot",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "랜선출첵",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "WhyNot",
+					"indices": [
+						135,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1327154233989271600,
+		"in_reply_to_status_id_str": "1327154233989271552",
+		"in_reply_to_user_id": 773078392660856800,
+		"in_reply_to_user_id_str": "773078392660856832",
+		"in_reply_to_screen_name": "loonaStaff",
+		"user": {
+			"id": 773078392660856800,
+			"id_str": "773078392660856832",
+			"name": "이달의 소녀 Staff",
+			"screen_name": "loonaStaff",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22448,
+			"friends_count": 1,
+			"listed_count": 331,
+			"created_at": "Tue Sep 06 08:40:26 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/773078392660856832/1602772146",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 173,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "금요일을 화려하게 장식할 #이달의소녀 의 Midnight Festival!\n201113 KBS2 ‘뮤직뱅크’는 사랑스러운 츄와 함께 이달의 소녀 LIGHT STICK KEYRING을 들고 이달의 소녀를 응원해주세요!\n\n#LOONA #랜선출첵 #WhyNot"
+	},
+	{
+		"created_at": "Fri Nov 13 08:27:10 +0000 2020",
+		"id": 1327154233989271600,
+		"id_str": "1327166101579583488",
+		"full_text": "뮤직뱅크와 함께하는 #이달의소녀 의 Midnight Festival!\n201113 KBS2 ‘뮤직뱅크’는 사랑스러운 츄와 이달의 소녀 LIGHT STICK KEYRING과 함께해요♡\n\n#LOONA #오빛 #모일게요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "오빛",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "모일게요",
+					"indices": [
+						114,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 773078392660856800,
+			"id_str": "773078392660856832",
+			"name": "이달의 소녀 Staff",
+			"screen_name": "loonaStaff",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22448,
+			"friends_count": 1,
+			"listed_count": 331,
+			"created_at": "Tue Sep 06 08:40:26 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/773078392660856832/1602772146",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 473,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "뮤직뱅크와 함께하는 #이달의소녀 의 Midnight Festival!\n201113 KBS2 ‘뮤직뱅크’는 사랑스러운 츄와 이달의 소녀 LIGHT STICK KEYRING과 함께해요♡\n\n#LOONA #오빛 #모일게요"
+	},
+	{
+		"created_at": "Fri Nov 13 08:26:16 +0000 2020",
+		"id": 1327165873908371500,
+		"id_str": "1327165873908371461",
+		"full_text": "보기 싫다. 무슨 문화 업계 대표야.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1327126875492278300,
+		"in_reply_to_status_id_str": "1327126875492278273",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1018,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "보기 싫다. 무슨 문화 업계 대표야."
+	},
+	{
 		"created_at": "Fri Nov 13 07:45:37 +0000 2020",
 		"id": 1327151740240732200,
 		"id_str": "1327155641954279431",
