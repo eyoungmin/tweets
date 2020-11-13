@@ -1,6 +1,501 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 13 14:27:21 +0000 2020",
+		"id": 1327250258594730000,
+		"id_str": "1327256743827673089",
+		"full_text": "Our hearts are very full today❤ [12:00] passed 15M streams on Spotify, and we’re so thankful to all of our Orbits that have continuously supported the album. We’re so happy to celebrate this day with you💫 Cheers to your 9th star, Orbit-O!  We love you so much✨\n\n#LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						262,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1327250255478358000,
+		"in_reply_to_status_id_str": "1327250255478358016",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575841,
+			"friends_count": 0,
+			"listed_count": 5833,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 575,
+		"favorite_count": 3913,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Our hearts are very full today❤ [12:00] passed 15M streams on Spotify, and we’re so thankful to all of our Orbits that have continuously supported the album. We’re so happy to celebrate this day with you💫 Cheers to your 9th star, Orbit-O!  We love you so much✨\n\n#LOONA"
+	},
+	{
+		"created_at": "Fri Nov 13 14:27:19 +0000 2020",
+		"id": 1327250255478358000,
+		"id_str": "1327256734889598977",
+		"full_text": "오빛들! 스포티파이에서 계속해서 저희 노래를 들어 줘서 정말 감사해요! 저희를 항상 응원해 주시고 사랑해 주신 오빛들에게 Orbit-O를 드릴게요! 사랑해요, 오빛❤\n\n#이달의소녀 #LOONA https://t.co/SHJpnmmUQK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						101,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1327250045037543400,
+					"id_str": "1327250045037543425",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327250045037543425/pu/img/-VV_r4KcPbdXIzON.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327250045037543425/pu/img/-VV_r4KcPbdXIzON.jpg",
+					"url": "https://t.co/SHJpnmmUQK",
+					"display_url": "pic.twitter.com/SHJpnmmUQK",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1327250255478358016/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327250045037543400,
+					"id_str": "1327250045037543425",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327250045037543425/pu/img/-VV_r4KcPbdXIzON.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327250045037543425/pu/img/-VV_r4KcPbdXIzON.jpg",
+					"url": "https://t.co/SHJpnmmUQK",
+					"display_url": "pic.twitter.com/SHJpnmmUQK",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1327250255478358016/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 39067,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1327250045037543425/pu/vid/720x720/KUSCNR9d8zh0x5Hw.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1327250045037543425/pu/vid/320x320/SUdJmTHi2YZeGWQq.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1327250045037543425/pu/vid/480x480/uPkDlJEnRnStYP5q.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1327250045037543425/pu/pl/xTSPIkypWSqZ-BdP.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575841,
+			"friends_count": 0,
+			"listed_count": 5833,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3331,
+		"favorite_count": 11795,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오빛들! 스포티파이에서 계속해서 저희 노래를 들어 줘서 정말 감사해요! 저희를 항상 응원해 주시고 사랑해 주신 오빛들에게 Orbit-O를 드릴게요! 사랑해요, 오빛❤\n\n#이달의소녀 #LOONA https://t.co/SHJpnmmUQK"
+	},
+	{
+		"created_at": "Fri Nov 13 14:27:10 +0000 2020",
+		"id": 1327249956734845000,
+		"id_str": "1327256696566259713",
+		"full_text": "#BLACKPINKINYOURAREA\n배틀그라운드 모바일과 #블랙핑크 가 뚜두뚜두🔫🔫함께하는 FUN MATCH! 아래 링크를 통해 지금 바로 함께하세요! 📺\n\n🖤 https://t.co/xPnmtgxJ6d\n💖 https://t.co/syFlCs7fTx\n\n#BLACKPINK #JISOO #JENNIE #ROSÉ #LISA\n#PUBGMxBlackpink",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINKINYOURAREA",
+					"indices": [
+						0,
+						20
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						33,
+						38
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						142,
+						152
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						160,
+						167
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "PUBGMxBlackpink",
+					"indices": [
+						180,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xPnmtgxJ6d",
+					"expanded_url": "https://youtu.be/-IfoQZdKJ9g",
+					"display_url": "youtu.be/-IfoQZdKJ9g",
+					"indices": [
+						91,
+						114
+					]
+				},
+				{
+					"url": "https://t.co/syFlCs7fTx",
+					"expanded_url": "https://www.facebook.com/PUBGMOBILE/posts/1750517308442740",
+					"display_url": "facebook.com/PUBGMOBILE/pos…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/c2mkxA118z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c2mkxA118z",
+							"expanded_url": "https://blink.blackpinkofficial.com/",
+							"display_url": "blink.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5672408,
+			"friends_count": 6,
+			"listed_count": 5902,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1601269396",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4435,
+		"favorite_count": 18015,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BLACKPINKINYOURAREA\n배틀그라운드 모바일과 #블랙핑크 가 뚜두뚜두🔫🔫함께하는 FUN MATCH! 아래 링크를 통해 지금 바로 함께하세요! 📺\n\n🖤 https://t.co/xPnmtgxJ6d\n💖 https://t.co/syFlCs7fTx\n\n#BLACKPINK #JISOO #JENNIE #ROSÉ #LISA\n#PUBGMxBlackpink"
+	},
+	{
 		"created_at": "Fri Nov 13 13:29:16 +0000 2020",
 		"id": 1327189533348139000,
 		"id_str": "1327242127638609921",
