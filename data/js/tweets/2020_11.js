@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 13 12:37:01 +0000 2020",
+		"id": 1327193572207177700,
+		"id_str": "1327228978931789825",
+		"full_text": "https://t.co/jhXs00Vo38\n\n네이트판에 글 올라왔습니다 이쪽에서 확인해주세요\n#한지상_아마데_하차해",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "한지상_아마데_하차해",
+					"indices": [
+						52,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jhXs00Vo38",
+					"expanded_url": "https://m.pann.nate.com/talk/355420196#",
+					"display_url": "m.pann.nate.com/talk/355420196#",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1253577284558000000,
+			"id_str": "1253577284558000128",
+			"name": "타오",
+			"screen_name": "tao_musical",
+			"location": "황순종 안지환 박은태 박민성",
+			"description": "전설의 리틀 농구단 🏀 시라노 🌕",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65,
+			"friends_count": 70,
+			"listed_count": 1,
+			"created_at": "Fri Apr 24 06:51:38 +0000 2020",
+			"favourites_count": 112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322943605305081857/pmthbIKJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322943605305081857/pmthbIKJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1253577284558000128/1604242788",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5344,
+		"favorite_count": 377,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/jhXs00Vo38\n\n네이트판에 글 올라왔습니다 이쪽에서 확인해주세요\n#한지상_아마데_하차해"
+	},
+	{
+		"created_at": "Fri Nov 13 12:33:42 +0000 2020",
+		"id": 1327228144038727700,
+		"id_str": "1327228144038727680",
+		"full_text": "채널아이디는 그대로인것을.... 찌라시 뉴스영상 올리면서 돈벌이 하려는 모양이군.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1327227392268456000,
+		"in_reply_to_status_id_str": "1327227392268455936",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1018,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "채널아이디는 그대로인것을.... 찌라시 뉴스영상 올리면서 돈벌이 하려는 모양이군."
+	},
+	{
+		"created_at": "Fri Nov 13 12:30:43 +0000 2020",
+		"id": 1327227392268456000,
+		"id_str": "1327227392268455936",
+		"full_text": "언론사는 유튜브채널을 키워놓고 이름을 왜 싹 바꾸는 걸까? 톱스타뉴스도 뉴스킹인가로 바꿨네.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1018,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "언론사는 유튜브채널을 키워놓고 이름을 왜 싹 바꾸는 걸까? 톱스타뉴스도 뉴스킹인가로 바꿨네."
+	},
+	{
 		"created_at": "Fri Nov 13 11:57:16 +0000 2020",
 		"id": 1327218972635193300,
 		"id_str": "1327218972635193344",
@@ -1019,7 +1284,7 @@ Grailbird.data.tweets_2020_11 =
 		"created_at": "Fri Nov 13 11:45:36 +0000 2020",
 		"id": 1327204089449443300,
 		"id_str": "1327216039285952512",
-		"full_text": "[팩트인스타] #이달의소녀 #LOONA\n\n오늘은 달님 휴업이야🌛\n달님보다  눈부신 이달소가 \n축제를 열거든~🥳\n어딜보니~! 나만 따라와🧚‍♀️\n\n📺https://t.co/thvAoXB42z\n\n🎀11/15 (일) 낮 12시 30분 TBS TV!\n🎀11/16 (월) 오전 8시 팩인스 유튜브에서 무편집본 공개🎵\n\n@loonatheworld #Midnight #Why_Not https://t.co/6c4GUUT1i4",
+		"full_text": "[팩트인스타] #이달의소녀 #LOONA\n\n오늘은 달님 휴업이야🌛\n달님보다  눈부신 이달소가 \n축제를 열거든~🥳\n어딜보니~! 나만 따라와🧚♀️\n\n📺https://t.co/thvAoXB42z\n\n🎀11/15 (일) 낮 12시 30분 TBS TV!\n🎀11/16 (월) 오전 8시 팩인스 유튜브에서 무편집본 공개🎵\n\n@loonatheworld #Midnight #Why_Not https://t.co/6c4GUUT1i4",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1237,7 +1502,7 @@ Grailbird.data.tweets_2020_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[팩트인스타] #이달의소녀 #LOONA\n\n오늘은 달님 휴업이야🌛\n달님보다  눈부신 이달소가 \n축제를 열거든~🥳\n어딜보니~! 나만 따라와🧚‍♀️\n\n📺https://t.co/thvAoXB42z\n\n🎀11/15 (일) 낮 12시 30분 TBS TV!\n🎀11/16 (월) 오전 8시 팩인스 유튜브에서 무편집본 공개🎵\n\n@loonatheworld #Midnight #Why_Not https://t.co/6c4GUUT1i4"
+		"text": "[팩트인스타] #이달의소녀 #LOONA\n\n오늘은 달님 휴업이야🌛\n달님보다  눈부신 이달소가 \n축제를 열거든~🥳\n어딜보니~! 나만 따라와🧚♀️\n\n📺https://t.co/thvAoXB42z\n\n🎀11/15 (일) 낮 12시 30분 TBS TV!\n🎀11/16 (월) 오전 8시 팩인스 유튜브에서 무편집본 공개🎵\n\n@loonatheworld #Midnight #Why_Not https://t.co/6c4GUUT1i4"
 	},
 	{
 		"created_at": "Fri Nov 13 11:43:07 +0000 2020",
