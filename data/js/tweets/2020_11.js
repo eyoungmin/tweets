@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 13 23:06:38 +0000 2020",
+		"id": 1326769552789827600,
+		"id_str": "1327387426243842048",
+		"full_text": "#VIBE #바이브 #VIBE_MAG #바이브매거진\n아리아나 그란데의 콜라보레이터 : 도자캣, 위켄드\nhttps://t.co/EI5t7hE8fV https://t.co/PAhJMoscBW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIBE",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "바이브",
+					"indices": [
+						6,
+						10
+					]
+				},
+				{
+					"text": "VIBE_MAG",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"text": "바이브매거진",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EI5t7hE8fV",
+					"expanded_url": "https://bit.ly/35nUArK",
+					"display_url": "bit.ly/35nUArK",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326769550784860200,
+					"id_str": "1326769550784860162",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Emmh4H1WEAIW4Ey.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emmh4H1WEAIW4Ey.jpg",
+					"url": "https://t.co/PAhJMoscBW",
+					"display_url": "pic.twitter.com/PAhJMoscBW",
+					"expanded_url": "https://twitter.com/magazine_kr/status/1326769552789827588/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326769550784860200,
+					"id_str": "1326769550784860162",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Emmh4H1WEAIW4Ey.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emmh4H1WEAIW4Ey.jpg",
+					"url": "https://t.co/PAhJMoscBW",
+					"display_url": "pic.twitter.com/PAhJMoscBW",
+					"expanded_url": "https://twitter.com/magazine_kr/status/1326769552789827588/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1323565225216336000,
+			"id_str": "1323565225216335872",
+			"name": "뮤직매거진",
+			"screen_name": "magazine_kr",
+			"location": "",
+			"description": "국내 음악 매거진을 자동으로 트윗합니다.\n\n#멜론 #멜론매거진\n#지니 #지니매거진 \n#벅스 #뮤직포스트\n#바이브 #바이브매거진\n#빌보드코리아",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5,
+			"friends_count": 5,
+			"listed_count": 0,
+			"created_at": "Tue Nov 03 09:58:45 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323890652048879616/Xo2dH1lF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323890652048879616/Xo2dH1lF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1323565225216335872/1604405477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#VIBE #바이브 #VIBE_MAG #바이브매거진\n아리아나 그란데의 콜라보레이터 : 도자캣, 위켄드\nhttps://t.co/EI5t7hE8fV https://t.co/PAhJMoscBW"
+	},
+	{
 		"created_at": "Fri Nov 13 21:26:57 +0000 2020",
 		"id": 1327362125451300900,
 		"id_str": "1327362340832960512",
