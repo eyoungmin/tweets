@@ -1,6 +1,1855 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 14 21:37:14 +0000 2020",
+		"id": 1327727314885480400,
+		"id_str": "1327727314885480448",
+		"full_text": "검색어 길이가 길면 봇이 자꾸 씹히는 군.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1019,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "검색어 길이가 길면 봇이 자꾸 씹히는 군."
+	},
+	{
+		"created_at": "Sat Nov 14 21:36:18 +0000 2020",
+		"id": 1327159264272556000,
+		"id_str": "1327727080402952194",
+		"full_text": "너무 재밌다 주정 얼굴...☆ 얼굴 천재!\n주정 커플이 5분 안에 웃겨드리겠습니다💪\n\n77ㅑ르르~ 국수 하나에도 행복한\n주은(#서현)❤️정환(#고경표) 비하인드!\n\n매주 수목 밤 9시 30분 &lt;#사생활&gt; 본.방.사.수! https://t.co/kfPHBS1aYg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "고경표",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						111,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1327141253067190300,
+					"id_str": "1327141253067190272",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/Emr7dBDXIAAw2QI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emr7dBDXIAAw2QI.jpg",
+					"url": "https://t.co/kfPHBS1aYg",
+					"display_url": "pic.twitter.com/kfPHBS1aYg",
+					"expanded_url": "https://twitter.com/jtbclove/status/1327159264272556032/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327141253067190300,
+					"id_str": "1327141253067190272",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/Emr7dBDXIAAw2QI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emr7dBDXIAAw2QI.jpg",
+					"url": "https://t.co/kfPHBS1aYg",
+					"display_url": "pic.twitter.com/kfPHBS1aYg",
+					"expanded_url": "https://twitter.com/jtbclove/status/1327159264272556032/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 281348,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1327141253067190272/vid/1280x720/3Z0MszIOe6_CZg_H.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1327141253067190272/pl/p-M6f2obQ8zZbIVb.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1327141253067190272/vid/480x270/SM6oUBDoxSDVEonw.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1327141253067190272/vid/640x360/us0AzRL6uIwTF8Bm.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[사생활] 메이킹💜 국수 하나에도 행복한 까르르 주정 커플 (Vlog인 척하는 먹방)",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://tv.naver.com/v/16695784"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 439686,
+			"friends_count": 109,
+			"listed_count": 654,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1605170442",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 192,
+		"favorite_count": 397,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "너무 재밌다 주정 얼굴...☆ 얼굴 천재!\n주정 커플이 5분 안에 웃겨드리겠습니다💪\n\n77ㅑ르르~ 국수 하나에도 행복한\n주은(#서현)❤️정환(#고경표) 비하인드!\n\n매주 수목 밤 9시 30분 &lt;#사생활&gt; 본.방.사.수! https://t.co/kfPHBS1aYg"
+	},
+	{
+		"created_at": "Sat Nov 14 21:36:16 +0000 2020",
+		"id": 1326811976987598800,
+		"id_str": "1327727070927937536",
+		"full_text": "김 실장의 라스트 미션을 전달받은\n정환(#고경표), 다시 GK맨이 될 수 있을까?\n\n한편, 주은(#서현)은 복기(#김효진)와 손을 잡고\n재욱(#김영민)을 쓰러트릴 새로운 다큐를 기획하는데...\n\n오늘(목) 밤 9시 30분 &lt;#사생활&gt; 본.방.사.수! https://t.co/h5Ku6MjaNz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고경표",
+					"indices": [
+						22,
+						26
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "김영민",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						128,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326805454840766500,
+					"id_str": "1326805454840766465",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EmnC0EGUYAIAlnI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmnC0EGUYAIAlnI.jpg",
+					"url": "https://t.co/h5Ku6MjaNz",
+					"display_url": "pic.twitter.com/h5Ku6MjaNz",
+					"expanded_url": "https://twitter.com/jtbclove/status/1326811976987598849/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326805454840766500,
+					"id_str": "1326805454840766465",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EmnC0EGUYAIAlnI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmnC0EGUYAIAlnI.jpg",
+					"url": "https://t.co/h5Ku6MjaNz",
+					"display_url": "pic.twitter.com/h5Ku6MjaNz",
+					"expanded_url": "https://twitter.com/jtbclove/status/1326811976987598849/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 36036,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1326805454840766465/vid/640x360/NGN_lIQqSa8CKl6-.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1326805454840766465/pl/Lc3IVX4L781WnHQW.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1326805454840766465/vid/1280x720/wDLauS1aHbn7thp8.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1326805454840766465/vid/480x270/XY-CCJjTL3CaKvGc.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[12회 예고] 보여줄 수 있어요? 최 회장 비밀장부…",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://tv.jtbc.joins.com/trailer/pr10011229/pm10060473/vo10433607/view"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 439686,
+			"friends_count": 109,
+			"listed_count": 654,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1605170442",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 147,
+		"favorite_count": 248,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "김 실장의 라스트 미션을 전달받은\n정환(#고경표), 다시 GK맨이 될 수 있을까?\n\n한편, 주은(#서현)은 복기(#김효진)와 손을 잡고\n재욱(#김영민)을 쓰러트릴 새로운 다큐를 기획하는데...\n\n오늘(목) 밤 9시 30분 &lt;#사생활&gt; 본.방.사.수! https://t.co/h5Ku6MjaNz"
+	},
+	{
+		"created_at": "Sat Nov 14 21:36:13 +0000 2020",
+		"id": 1326449587717075000,
+		"id_str": "1327727061046161409",
+		"full_text": "누명을 벗기 위해 경찰서에 잠입한 주은(#서현)!\n하지만, 재욱(#김영민)으로 인해 난관에 부딪힌다.\n\n한편, 살아있다는 사실만으로 사기죄가 성립되는\n현실에 위험한 정면승부를 택한 정환(#고경표)\n\n과연, 그는 위기를 기회로 바꿀 수 있을까...?!\n오늘(수) 밤 9시 30분 &lt;#사생활&gt; 본방사수⚡ https://t.co/VlIYGXXVLN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						22,
+						25
+					]
+				},
+				{
+					"text": "김영민",
+					"indices": [
+						36,
+						40
+					]
+				},
+				{
+					"text": "고경표",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						159,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326444712551567400,
+					"id_str": "1326444712551567360",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/Emh7djxVgAEk9JP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emh7djxVgAEk9JP.jpg",
+					"url": "https://t.co/VlIYGXXVLN",
+					"display_url": "pic.twitter.com/VlIYGXXVLN",
+					"expanded_url": "https://twitter.com/jtbclove/status/1326449587717074944/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326444712551567400,
+					"id_str": "1326444712551567360",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/Emh7djxVgAEk9JP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emh7djxVgAEk9JP.jpg",
+					"url": "https://t.co/VlIYGXXVLN",
+					"display_url": "pic.twitter.com/VlIYGXXVLN",
+					"expanded_url": "https://twitter.com/jtbclove/status/1326449587717074944/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 44044,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1326444712551567360/vid/640x360/LOqvLZxkxh345ziZ.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1326444712551567360/pl/2N0ipYK8OFyScLAE.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1326444712551567360/vid/480x270/DoWKNBmm3dObvb2_.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1326444712551567360/vid/1280x720/FuwSVAMw4UlEiqDj.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[11회 예고] 굳이 외면할 필요는 없지…",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://tv.jtbc.joins.com/trailer/pr10011229/pm10060473/vo10431829/view"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 439686,
+			"friends_count": 109,
+			"listed_count": 654,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1605170442",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 192,
+		"favorite_count": 306,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "누명을 벗기 위해 경찰서에 잠입한 주은(#서현)!\n하지만, 재욱(#김영민)으로 인해 난관에 부딪힌다.\n\n한편, 살아있다는 사실만으로 사기죄가 성립되는\n현실에 위험한 정면승부를 택한 정환(#고경표)\n\n과연, 그는 위기를 기회로 바꿀 수 있을까...?!\n오늘(수) 밤 9시 30분 &lt;#사생활&gt; 본방사수⚡ https://t.co/VlIYGXXVLN"
+	},
+	{
+		"created_at": "Sat Nov 14 21:36:11 +0000 2020",
+		"id": 1326087203672350700,
+		"id_str": "1327727051323760640",
+		"full_text": "다정함의 인간화💜 미스터리 맨\n정환(#고경표)의 주은(#서현) 구출 작전!!\n\n사기꾼 부부의 미끼를 물어버린 것이여~\n시체(?)를 목격한 한손(#태원석)의 현실 반응까지!ㅋㅋ\n\n매주 수목 밤 9시 30분 &lt;#사생활&gt; 본.방.사.수❣️ https://t.co/vlXQ0G5uUQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고경표",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "태원석",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						118,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326070831038935000,
+					"id_str": "1326070831038935041",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/Emcp7bKVkAAH6Ez.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emcp7bKVkAAH6Ez.jpg",
+					"url": "https://t.co/vlXQ0G5uUQ",
+					"display_url": "pic.twitter.com/vlXQ0G5uUQ",
+					"expanded_url": "https://twitter.com/jtbclove/status/1326087203672350720/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326070831038935000,
+					"id_str": "1326070831038935041",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/Emcp7bKVkAAH6Ez.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emcp7bKVkAAH6Ez.jpg",
+					"url": "https://t.co/vlXQ0G5uUQ",
+					"display_url": "pic.twitter.com/vlXQ0G5uUQ",
+					"expanded_url": "https://twitter.com/jtbclove/status/1326087203672350720/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 348548,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1326070831038935041/vid/640x360/b7pWU5K8Eh6lEc5c.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1326070831038935041/vid/480x270/bVKok3FMuOF-xjUT.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1326070831038935041/pl/EbP5YX7_zBdew_h_.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1326070831038935041/vid/1280x720/sgzQeoUBCFog-yUM.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": " [사생활] 메이킹💜 꽁냥꽁냥! 판교 신혼부부 공주님 안기 비하인드",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://tv.naver.com/v/16641323?query=%ED%8C%90%EA%B5%90+%EC%8B%A0%ED%98%BC%EB%B6%80%EB%B6%80+%EA%B3%B5%EC%A3%BC%EB%8B%98+%EC%95%88%EA%B8%B0+%EB%B9%84%ED%95%98%EC%9D%B8%EB%93%9C&plClips=false:16641323"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 439686,
+			"friends_count": 109,
+			"listed_count": 654,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1605170442",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 337,
+		"favorite_count": 465,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "다정함의 인간화💜 미스터리 맨\n정환(#고경표)의 주은(#서현) 구출 작전!!\n\n사기꾼 부부의 미끼를 물어버린 것이여~\n시체(?)를 목격한 한손(#태원석)의 현실 반응까지!ㅋㅋ\n\n매주 수목 밤 9시 30분 &lt;#사생활&gt; 본.방.사.수❣️ https://t.co/vlXQ0G5uUQ"
+	},
+	{
+		"created_at": "Sat Nov 14 21:34:45 +0000 2020",
+		"id": 1327726688197767200,
+		"id_str": "1327726688197767168",
+		"full_text": "놀토 애청자인데 태여니 나오기 때문에 더 챙겨볼거라 티빙은 계속 써야함. 그리고 특정 작품은 넷플릭스보다 화질이 더 좋은 듯.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1327724146722148400,
+		"in_reply_to_status_id_str": "1327724146722148355",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1019,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "놀토 애청자인데 태여니 나오기 때문에 더 챙겨볼거라 티빙은 계속 써야함. 그리고 특정 작품은 넷플릭스보다 화질이 더 좋은 듯."
+	},
+	{
+		"created_at": "Sat Nov 14 21:32:32 +0000 2020",
+		"id": 1316665767304151000,
+		"id_str": "1327726132544749568",
+		"full_text": "즐거움의 합+ #티빙\n10월 새로워진 티빙을 맞이하여\n월 최저 2,950원으로 즐길 수 있는 절호의 기회!\n\n이벤트 자세히보기 ▶ https://t.co/6rFXOwXfdg https://t.co/wNxwLrkFsQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "티빙",
+					"indices": [
+						8,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6rFXOwXfdg",
+					"expanded_url": "https://bit.ly/3dh7SIO",
+					"display_url": "bit.ly/3dh7SIO",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1316665652778655700,
+					"id_str": "1316665652778655745",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EkW8b2nUYAEHatI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkW8b2nUYAEHatI.jpg",
+					"url": "https://t.co/wNxwLrkFsQ",
+					"display_url": "pic.twitter.com/wNxwLrkFsQ",
+					"expanded_url": "https://twitter.com/tvingdotcom/status/1316665767304151041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316665652778655700,
+					"id_str": "1316665652778655745",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EkW8b2nUYAEHatI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkW8b2nUYAEHatI.jpg",
+					"url": "https://t.co/wNxwLrkFsQ",
+					"display_url": "pic.twitter.com/wNxwLrkFsQ",
+					"expanded_url": "https://twitter.com/tvingdotcom/status/1316665767304151041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1316665652795502600,
+					"id_str": "1316665652795502594",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EkW8b2rVcAImRsB.png",
+					"media_url_https": "https://pbs.twimg.com/media/EkW8b2rVcAImRsB.png",
+					"url": "https://t.co/wNxwLrkFsQ",
+					"display_url": "pic.twitter.com/wNxwLrkFsQ",
+					"expanded_url": "https://twitter.com/tvingdotcom/status/1316665767304151041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1316665652791263200,
+					"id_str": "1316665652791263233",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EkW8b2qUwAEgaV5.png",
+					"media_url_https": "https://pbs.twimg.com/media/EkW8b2qUwAEgaV5.png",
+					"url": "https://t.co/wNxwLrkFsQ",
+					"display_url": "pic.twitter.com/wNxwLrkFsQ",
+					"expanded_url": "https://twitter.com/tvingdotcom/status/1316665767304151041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1316665652795457500,
+					"id_str": "1316665652795457537",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EkW8b2rUwAEgmpP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkW8b2rUwAEgmpP.jpg",
+					"url": "https://t.co/wNxwLrkFsQ",
+					"display_url": "pic.twitter.com/wNxwLrkFsQ",
+					"expanded_url": "https://twitter.com/tvingdotcom/status/1316665767304151041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 130116468,
+			"id_str": "130116468",
+			"name": "티빙",
+			"screen_name": "tvingdotcom",
+			"location": "37.5781711,126.894616",
+			"description": "오늘의 노는 법, 티빙\n티빙앱 다운 ▶ https://t.co/RrtY33QxdA",
+			"url": "https://t.co/YzSOvwKIid",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YzSOvwKIid",
+							"expanded_url": "http://www.tving.com/",
+							"display_url": "tving.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RrtY33QxdA",
+							"expanded_url": "http://goo.gl/iWG8ra",
+							"display_url": "goo.gl/iWG8ra",
+							"indices": [
+								22,
+								45
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10544,
+			"friends_count": 11526,
+			"listed_count": 0,
+			"created_at": "Tue Apr 06 10:42:12 +0000 2010",
+			"favourites_count": 47,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10878,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184388536234991616/1SHnJvhn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184388536234991616/1SHnJvhn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/130116468/1602751606",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "즐거움의 합+ #티빙\n10월 새로워진 티빙을 맞이하여\n월 최저 2,950원으로 즐길 수 있는 절호의 기회!\n\n이벤트 자세히보기 ▶ https://t.co/6rFXOwXfdg https://t.co/wNxwLrkFsQ"
+	},
+	{
+		"created_at": "Sat Nov 14 21:24:39 +0000 2020",
+		"id": 1327724146722148400,
+		"id_str": "1327724146722148355",
+		"full_text": "https://t.co/Qn1rrZobJx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1327724144243294200,
+					"id_str": "1327724144243294209",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Em0GExlUwAEQdVn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Em0GExlUwAEQdVn.jpg",
+					"url": "https://t.co/Qn1rrZobJx",
+					"display_url": "pic.twitter.com/Qn1rrZobJx",
+					"expanded_url": "https://twitter.com/fromminn/status/1327724146722148355/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 591,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1009,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 335,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327724144243294200,
+					"id_str": "1327724144243294209",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Em0GExlUwAEQdVn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Em0GExlUwAEQdVn.jpg",
+					"url": "https://t.co/Qn1rrZobJx",
+					"display_url": "pic.twitter.com/Qn1rrZobJx",
+					"expanded_url": "https://twitter.com/fromminn/status/1327724146722148355/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 591,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1009,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 335,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1327723971685408800,
+		"in_reply_to_status_id_str": "1327723971685408768",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1019,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/Qn1rrZobJx"
+	},
+	{
+		"created_at": "Sat Nov 14 21:23:57 +0000 2020",
+		"id": 1327723971685408800,
+		"id_str": "1327723971685408768",
+		"full_text": "2년 이용한다는 계획하에 237,600\n226,200=1년권+오른 가격1년\n\n그런데 1년권 무제한 플러스가 무비 프리미엄도 볼 수 있게 되는 건지는 확인해봐야함.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": 1327721974387273700,
+		"in_reply_to_status_id_str": "1327721974387273729",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1019,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "2년 이용한다는 계획하에 237,600\n226,200=1년권+오른 가격1년\n\n그런데 1년권 무제한 플러스가 무비 프리미엄도 볼 수 있게 되는 건지는 확인해봐야함."
+	},
+	{
+		"created_at": "Sat Nov 14 21:16:01 +0000 2020",
+		"id": 1327721974387273700,
+		"id_str": "1327721974387273729",
+		"full_text": "포함되는 이용권은 계속 같은 가격에 이용하게 해주는거고 1년권은 1년 지나면 바뀐 요금제로 결제를 해야되는거네?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1327720048891367400,
+		"in_reply_to_status_id_str": "1327720048891367424",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1019,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "포함되는 이용권은 계속 같은 가격에 이용하게 해주는거고 1년권은 1년 지나면 바뀐 요금제로 결제를 해야되는거네?"
+	},
+	{
+		"created_at": "Sat Nov 14 21:08:22 +0000 2020",
+		"id": 1327720048891367400,
+		"id_str": "1327720048891367424",
+		"full_text": "CJ ONE 통합계정으로 대부분 다 진입했을텐데 굳이 나눠두고 가격 차등두는 것은 누군가 걸려봐라 같은 느낌이라 별로긴 했는데 다 같이 오르는 방법은 글쎄. 뭐 무비 프리미엄 제공해주는 면에서는 9.9에서 13.9 되는거니 나은 걸지도 모르겠다만 선택권이 줄어드는거니 아쉽긴 함.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1327720047293329400,
+		"in_reply_to_status_id_str": "1327720047293329408",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 1019,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "CJ ONE 통합계정으로 대부분 다 진입했을텐데 굳이 나눠두고 가격 차등두는 것은 누군가 걸려봐라 같은 느낌이라 별로긴 했는데 다 같이 오르는 방법은 글쎄. 뭐 무비 프리미엄 제공해주는 면에서는 9.9에서 13.9 되는거니 나은 걸지도 모르겠다만 선택권이 줄어드는거니 아쉽긴 함."
+	},
+	{
 		"created_at": "Sat Nov 14 20:24:14 +0000 2020",
 		"id": 1327708942928056300,
 		"id_str": "1327708942928056320",
