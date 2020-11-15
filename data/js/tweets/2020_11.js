@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 15 13:31:13 +0000 2020",
+		"id": 1327967394657169400,
+		"id_str": "1327967394657169408",
+		"full_text": "#Melon #멜론 #포토\n[심규선] 새 앨범 &lt;�월령 月齡 : 上&gt; 11월22일 발매!\n▶ https://t.co/7Fd1z6LZ9b\n원본 : https://t.co/fkWPQnXnUJ\n#심규선 #LUCIA https://t.co/QRfXmq90qo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "포토",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "심규선",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "LUCIA",
+					"indices": [
+						116,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7Fd1z6LZ9b",
+					"expanded_url": "https://www.melon.com/artist/photo_detail.htm?artistId=177241&photoId=80117597&orderBy=NEW",
+					"display_url": "melon.com/artist/photo_d…",
+					"indices": [
+						58,
+						81
+					]
+				},
+				{
+					"url": "https://t.co/fkWPQnXnUJ",
+					"expanded_url": "https://cdnimg.melon.co.kr/cm2/photo/images/000/801/17/597/80117597_20201115181941_org.jpg",
+					"display_url": "cdnimg.melon.co.kr/cm2/photo/imag…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1327967393432400000,
+					"id_str": "1327967393432399872",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/Em3jTvbW8AAMmzb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Em3jTvbW8AAMmzb.jpg",
+					"url": "https://t.co/QRfXmq90qo",
+					"display_url": "pic.twitter.com/QRfXmq90qo",
+					"expanded_url": "https://twitter.com/fromminn/status/1327967394657169408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327967393432400000,
+					"id_str": "1327967393432399872",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/Em3jTvbW8AAMmzb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Em3jTvbW8AAMmzb.jpg",
+					"url": "https://t.co/QRfXmq90qo",
+					"display_url": "pic.twitter.com/QRfXmq90qo",
+					"expanded_url": "https://twitter.com/fromminn/status/1327967394657169408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#Melon #멜론 #포토\n[심규선] 새 앨범 &lt;�월령 月齡 : 上&gt; 11월22일 발매!\n▶ https://t.co/7Fd1z6LZ9b\n원본 : https://t.co/fkWPQnXnUJ\n#심규선 #LUCIA https://t.co/QRfXmq90qo"
+	},
+	{
 		"created_at": "Sun Nov 15 11:17:45 +0000 2020",
 		"id": 1326502226945216500,
 		"id_str": "1327933802740473856",
