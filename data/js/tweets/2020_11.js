@@ -1,6 +1,395 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 15 05:58:33 +0000 2020",
+		"id": 1327850806385594400,
+		"id_str": "1327853475078651904",
+		"full_text": "잠시 후 오후 네시 &lt;50+1명의 태일이에게&gt; 공연에서 클래식 기타와 함께 소소하게 노래불러요. 전태일 기념관 유튜브 채널에서 생중계로 함께하실 수 있습니다. 천용성, 정수민(with 진수영), 김사월 순서로 저는 다섯시 넘어서 나올 듯 하네요 🍂 \n\n생중계 스트리밍 주소 👀\nhttps://t.co/0NTTzShV53 https://t.co/NwYiMwvJdy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0NTTzShV53",
+					"expanded_url": "https://youtu.be/ZO8-dIH5INg",
+					"display_url": "youtu.be/ZO8-dIH5INg",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1327850796784918500,
+					"id_str": "1327850796784918528",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/Em15Q7EVoAAL40G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Em15Q7EVoAAL40G.jpg",
+					"url": "https://t.co/NwYiMwvJdy",
+					"display_url": "pic.twitter.com/NwYiMwvJdy",
+					"expanded_url": "https://twitter.com/aprilsour/status/1327850806385594370/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327850796784918500,
+					"id_str": "1327850796784918528",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/Em15Q7EVoAAL40G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Em15Q7EVoAAL40G.jpg",
+					"url": "https://t.co/NwYiMwvJdy",
+					"display_url": "pic.twitter.com/NwYiMwvJdy",
+					"expanded_url": "https://twitter.com/aprilsour/status/1327850806385594370/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568866057,
+			"id_str": "568866057",
+			"name": "김사월",
+			"screen_name": "aprilsour",
+			"location": "",
+			"description": "지옥에서 온 포크 전사🥗💚🌈 Kim Sawol🎸헤븐, 사랑하는 미움들, 로맨스, 7102, 수잔 💌 문의 : nina@yoursummer.net ☎️ 070-4176-3311",
+			"url": "https://t.co/aF26VLhODV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aF26VLhODV",
+							"expanded_url": "http://www.youtube.com/c/kimsawol",
+							"display_url": "youtube.com/c/kimsawol",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12862,
+			"friends_count": 841,
+			"listed_count": 50,
+			"created_at": "Wed May 02 04:12:49 +0000 2012",
+			"favourites_count": 10620,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14795,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305171132618686464/QdVoRN9t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305171132618686464/QdVoRN9t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568866057/1600071003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시 후 오후 네시 &lt;50+1명의 태일이에게&gt; 공연에서 클래식 기타와 함께 소소하게 노래불러요. 전태일 기념관 유튜브 채널에서 생중계로 함께하실 수 있습니다. 천용성, 정수민(with 진수영), 김사월 순서로 저는 다섯시 넘어서 나올 듯 하네요 🍂 \n\n생중계 스트리밍 주소 👀\nhttps://t.co/0NTTzShV53 https://t.co/NwYiMwvJdy"
+	},
+	{
+		"created_at": "Sun Nov 15 05:14:26 +0000 2020",
+		"id": 1327541834273362000,
+		"id_str": "1327842374190460928",
+		"full_text": "나이키 우먼 광고 ,, 진짜 잘 만들었다 공부하기 싫을 때마다 동기부여용으로 보는 영상 중 하나 https://t.co/59r1UAZJbM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1327541680849916000,
+					"id_str": "1327541680849915905",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327541680849915905/pu/img/ukivKpYudZP8910y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327541680849915905/pu/img/ukivKpYudZP8910y.jpg",
+					"url": "https://t.co/59r1UAZJbM",
+					"display_url": "pic.twitter.com/59r1UAZJbM",
+					"expanded_url": "https://twitter.com/Lewerk_/status/1327541834273361920/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 664,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 708,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327541680849916000,
+					"id_str": "1327541680849915905",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327541680849915905/pu/img/ukivKpYudZP8910y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327541680849915905/pu/img/ukivKpYudZP8910y.jpg",
+					"url": "https://t.co/59r1UAZJbM",
+					"display_url": "pic.twitter.com/59r1UAZJbM",
+					"expanded_url": "https://twitter.com/Lewerk_/status/1327541834273361920/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 664,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 708,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							177
+						],
+						"duration_millis": 98493,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1327541680849915905/pu/pl/YXW5Wajt3Rx7g88B.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1327541680849915905/pu/vid/488x270/Q7gP2BI_7J9xCBOL.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1327541680849915905/pu/vid/1280x708/9-Lj3SkNsHJYW03q.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1327541680849915905/pu/vid/650x360/ZwTNaA-etBLTe35r.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1280681266048688000,
+			"id_str": "1280681266048688128",
+			"name": "우연",
+			"screen_name": "Lewerk_",
+			"location": "",
+			"description": "낭만적 사랑과 사회",
+			"url": "https://t.co/PJmbmsqKn4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJmbmsqKn4",
+							"expanded_url": "https://asked.kr/woooxyeon",
+							"display_url": "asked.kr/woooxyeon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 967,
+			"friends_count": 218,
+			"listed_count": 3,
+			"created_at": "Wed Jul 08 01:53:09 +0000 2020",
+			"favourites_count": 4795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 819,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324891254501515264/rwbvXJ5E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324891254501515264/rwbvXJ5E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1280681266048688128/1599043790",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16752,
+		"favorite_count": 19518,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나이키 우먼 광고 ,, 진짜 잘 만들었다 공부하기 싫을 때마다 동기부여용으로 보는 영상 중 하나 https://t.co/59r1UAZJbM"
+	},
+	{
 		"created_at": "Sun Nov 15 04:53:20 +0000 2020",
 		"id": 1327837063572500500,
 		"id_str": "1327837063572500485",
