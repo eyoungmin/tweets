@@ -1,6 +1,665 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 15 09:27:57 +0000 2020",
+		"id": 1327899137489084400,
+		"id_str": "1327906170753982464",
+		"full_text": "🏃‍♂스타트업 OST Part.11\n웬디 (WENDY)  - 두 글자🏃‍♀\n\n오늘부터 내 마음속 💙두 글자💙 는 \n💙웬디💙 로 정했습니다 😭\n👇손승완벽 스업 오스트 대.공.개👇\n\n🎵 음원 : https://t.co/ycX4AKOpcX\n\n@RVsmtown\n#스타트업 #스타트업OST #두글자 #웬디 #WENDY #배수지 #남주혁 #김선호 #강한나 https://t.co/AUgdzRpTzy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스타트업",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "스타트업OST",
+					"indices": [
+						148,
+						156
+					]
+				},
+				{
+					"text": "두글자",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						162,
+						165
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						166,
+						172
+					]
+				},
+				{
+					"text": "배수지",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "남주혁",
+					"indices": [
+						178,
+						182
+					]
+				},
+				{
+					"text": "김선호",
+					"indices": [
+						183,
+						187
+					]
+				},
+				{
+					"text": "강한나",
+					"indices": [
+						188,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						132,
+						141
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ycX4AKOpcX",
+					"expanded_url": "http://lnk.to/startup-ost-11",
+					"display_url": "lnk.to/startup-ost-11",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1327816392758816800,
+					"id_str": "1327816392758816768",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/Em1Z-WFUcAAK3pL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Em1Z-WFUcAAK3pL.jpg",
+					"url": "https://t.co/AUgdzRpTzy",
+					"display_url": "pic.twitter.com/AUgdzRpTzy",
+					"expanded_url": "https://twitter.com/vlending/status/1327899137489084428/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327816392758816800,
+					"id_str": "1327816392758816768",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/Em1Z-WFUcAAK3pL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Em1Z-WFUcAAK3pL.jpg",
+					"url": "https://t.co/AUgdzRpTzy",
+					"display_url": "pic.twitter.com/AUgdzRpTzy",
+					"expanded_url": "https://twitter.com/vlending/status/1327899137489084428/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 875207914503364600,
+			"id_str": "875207914503364609",
+			"name": "VLENDING (블렌딩)",
+			"screen_name": "vlending",
+			"location": "",
+			"description": "'보는 음악, 함께하는 음악' 블렌딩은 드라마 OST, 예능 음원, Kpop, 인디 아티스트 음원을 제작하고 유통합니다.",
+			"url": "https://t.co/Qa4COCxXM9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qa4COCxXM9",
+							"expanded_url": "http://youtube.com/vlending",
+							"display_url": "youtube.com/vlending",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3086,
+			"friends_count": 13,
+			"listed_count": 9,
+			"created_at": "Thu Jun 15 04:26:42 +0000 2017",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1000,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194910045206499333/ZPa5QJXO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194910045206499333/ZPa5QJXO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/875207914503364609/1602039530",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1476,
+		"favorite_count": 2006,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🏃‍♂스타트업 OST Part.11\n웬디 (WENDY)  - 두 글자🏃‍♀\n\n오늘부터 내 마음속 💙두 글자💙 는 \n💙웬디💙 로 정했습니다 😭\n👇손승완벽 스업 오스트 대.공.개👇\n\n🎵 음원 : https://t.co/ycX4AKOpcX\n\n@RVsmtown\n#스타트업 #스타트업OST #두글자 #웬디 #WENDY #배수지 #남주혁 #김선호 #강한나 https://t.co/AUgdzRpTzy"
+	},
+	{
+		"created_at": "Sun Nov 15 09:27:21 +0000 2020",
+		"id": 1327902436191682600,
+		"id_str": "1327906020308508672",
+		"full_text": "🌙11월 22일 저녁 6시\n월령 月齡 : 上\n발매됩니다\n.\n#심규선 #루시아 #새앨범 #발매 #월령 #Comingsoon https://t.co/12ITKRlDpO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "루시아",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "새앨범",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "월령",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "Comingsoon",
+					"indices": [
+						56,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1327902433071153200,
+					"id_str": "1327902433071153152",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/Em2oOjOVQAA_kK5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Em2oOjOVQAA_kK5.jpg",
+					"url": "https://t.co/12ITKRlDpO",
+					"display_url": "pic.twitter.com/12ITKRlDpO",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1327902436191682560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327902433071153200,
+					"id_str": "1327902433071153152",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/Em2oOjOVQAA_kK5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Em2oOjOVQAA_kK5.jpg",
+					"url": "https://t.co/12ITKRlDpO",
+					"display_url": "pic.twitter.com/12ITKRlDpO",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1327902436191682560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "IVORY 4/20 pm6시 공개",
+			"url": "https://t.co/NbMjxtK3cL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NbMjxtK3cL",
+							"expanded_url": "http://www.simgyuseon.com",
+							"display_url": "simgyuseon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10508,
+			"friends_count": 160,
+			"listed_count": 161,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 464,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1177474724164591616/AyTeBxXd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177474724164591616/AyTeBxXd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1570345723",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 134,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "🌙11월 22일 저녁 6시\n월령 月齡 : 上\n발매됩니다\n.\n#심규선 #루시아 #새앨범 #발매 #월령 #Comingsoon https://t.co/12ITKRlDpO"
+	},
+	{
+		"created_at": "Sun Nov 15 09:27:12 +0000 2020",
+		"id": 1327900159083044900,
+		"id_str": "1327905982115160068",
+		"full_text": "두 글자 - 웬디 (WENDY)\n\n🎧Melon: https://t.co/gljz0sXnPp\n🎧FLO: https://t.co/IWw8Do5wis\n🎧genie: https://t.co/Zmco1pZPvq\n🎧NAVER MUSIC: https://t.co/MCht9B79l0 \n\n#웬디 #WENDY #레드벨벳 #RedVelvet #두글자 #스타트업 #OST",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						153,
+						156
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						170,
+						180
+					]
+				},
+				{
+					"text": "두글자",
+					"indices": [
+						181,
+						185
+					]
+				},
+				{
+					"text": "스타트업",
+					"indices": [
+						186,
+						191
+					]
+				},
+				{
+					"text": "OST",
+					"indices": [
+						192,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gljz0sXnPp",
+					"expanded_url": "http://kko.to/2nJhS9hYj",
+					"display_url": "kko.to/2nJhS9hYj",
+					"indices": [
+						27,
+						50
+					]
+				},
+				{
+					"url": "https://t.co/IWw8Do5wis",
+					"expanded_url": "http://flomuz.io/s/b.DXWgM",
+					"display_url": "flomuz.io/s/b.DXWgM",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/Zmco1pZPvq",
+					"expanded_url": "http://genie.co.kr/2LUIQ1",
+					"display_url": "genie.co.kr/2LUIQ1",
+					"indices": [
+						89,
+						112
+					]
+				},
+				{
+					"url": "https://t.co/MCht9B79l0",
+					"expanded_url": "http://naver.me/5NFri4Wt",
+					"display_url": "naver.me/5NFri4Wt",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3402631,
+			"friends_count": 1,
+			"listed_count": 7015,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5725,
+		"favorite_count": 12446,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "두 글자 - 웬디 (WENDY)\n\n🎧Melon: https://t.co/gljz0sXnPp\n🎧FLO: https://t.co/IWw8Do5wis\n🎧genie: https://t.co/Zmco1pZPvq\n🎧NAVER MUSIC: https://t.co/MCht9B79l0 \n\n#웬디 #WENDY #레드벨벳 #RedVelvet #두글자 #스타트업 #OST"
+	},
+	{
 		"created_at": "Sun Nov 15 09:00:12 +0000 2020",
 		"id": 1327898721732857900,
 		"id_str": "1327899189611618304",
