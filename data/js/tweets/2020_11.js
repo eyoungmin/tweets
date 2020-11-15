@@ -1,6 +1,500 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 15 06:27:56 +0000 2020",
+		"id": 1327853840788377600,
+		"id_str": "1327860871687778306",
+		"full_text": "🧚‍♀️웬디의 스업 오스트 '두 글자'\n가사 하나하나 정성스럽게 부른\n1분 버전을 공개합니다💙\n\n📍 2020. 11. 15 (SUN) 6PM Release\n\n#스타트업 #스타트업OST #두글자 #웬디 #WENDY #배수지 #남주혁 #김선호 #강한나 https://t.co/3yO5UiTld1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스타트업",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "스타트업OST",
+					"indices": [
+						94,
+						102
+					]
+				},
+				{
+					"text": "두글자",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "배수지",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "남주혁",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "김선호",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "강한나",
+					"indices": [
+						134,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1327816136528781300,
+					"id_str": "1327816136528781314",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1327816136528781314/img/NRVxkNvCTgYh31Ql.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1327816136528781314/img/NRVxkNvCTgYh31Ql.jpg",
+					"url": "https://t.co/3yO5UiTld1",
+					"display_url": "pic.twitter.com/3yO5UiTld1",
+					"expanded_url": "https://twitter.com/vlending/status/1327853840788377600/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327816136528781300,
+					"id_str": "1327816136528781314",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1327816136528781314/img/NRVxkNvCTgYh31Ql.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1327816136528781314/img/NRVxkNvCTgYh31Ql.jpg",
+					"url": "https://t.co/3yO5UiTld1",
+					"display_url": "pic.twitter.com/3yO5UiTld1",
+					"expanded_url": "https://twitter.com/vlending/status/1327853840788377600/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 75542,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1327816136528781314/vid/720x720/jIU9gaS9fQFUVAJF.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1327816136528781314/vid/480x480/SXcpLdBVoxyvzP6n.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1327816136528781314/vid/320x320/-UI0MmfwJ9fnTBdE.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1327816136528781314/pl/lPAOV_CAr6E1-GmS.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 875207914503364600,
+			"id_str": "875207914503364609",
+			"name": "VLENDING (블렌딩)",
+			"screen_name": "vlending",
+			"location": "",
+			"description": "'보는 음악, 함께하는 음악' 블렌딩은 드라마 OST, 예능 음원, Kpop, 인디 아티스트 음원을 제작하고 유통합니다.",
+			"url": "https://t.co/Qa4COCxXM9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qa4COCxXM9",
+							"expanded_url": "http://youtube.com/vlending",
+							"display_url": "youtube.com/vlending",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3066,
+			"friends_count": 13,
+			"listed_count": 9,
+			"created_at": "Thu Jun 15 04:26:42 +0000 2017",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194910045206499333/ZPa5QJXO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194910045206499333/ZPa5QJXO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/875207914503364609/1602039530",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1334,
+		"favorite_count": 1706,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🧚‍♀️웬디의 스업 오스트 '두 글자'\n가사 하나하나 정성스럽게 부른\n1분 버전을 공개합니다💙\n\n📍 2020. 11. 15 (SUN) 6PM Release\n\n#스타트업 #스타트업OST #두글자 #웬디 #WENDY #배수지 #남주혁 #김선호 #강한나 https://t.co/3yO5UiTld1"
+	},
+	{
+		"created_at": "Sun Nov 15 06:27:14 +0000 2020",
+		"id": 1327856363020509200,
+		"id_str": "1327860692876226561",
+		"full_text": "신나고 즐거웠던 #이달의소녀 의 Midnight Festival!\n201115 SBS ‘인기가요’는 초록색 이달의 소녀 OFFICIAL LIGHT STICK과 함께 즐겁고 신나게 즐겨주세요!\n\n#LOONA #랜선출첵 #WhyNot",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						9,
+						15
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "랜선출첵",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "WhyNot",
+					"indices": [
+						121,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1327856361162436600,
+		"in_reply_to_status_id_str": "1327856361162436610",
+		"in_reply_to_user_id": 773078392660856800,
+		"in_reply_to_user_id_str": "773078392660856832",
+		"in_reply_to_screen_name": "loonaStaff",
+		"user": {
+			"id": 773078392660856800,
+			"id_str": "773078392660856832",
+			"name": "이달의 소녀 Staff",
+			"screen_name": "loonaStaff",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22513,
+			"friends_count": 1,
+			"listed_count": 331,
+			"created_at": "Tue Sep 06 08:40:26 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/773078392660856832/1602772146",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 246,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "신나고 즐거웠던 #이달의소녀 의 Midnight Festival!\n201115 SBS ‘인기가요’는 초록색 이달의 소녀 OFFICIAL LIGHT STICK과 함께 즐겁고 신나게 즐겨주세요!\n\n#LOONA #랜선출첵 #WhyNot"
+	},
+	{
+		"created_at": "Sun Nov 15 06:27:10 +0000 2020",
+		"id": 1327856361162436600,
+		"id_str": "1327860675675369472",
+		"full_text": "전 세계 모든 이달의 소녀와 함께 했던 #이달의소녀 의 Midnight Festival!\n201115 SBS ‘인기가요’는 초록색 이달의 소녀 OFFICIAL LIGHT STICK과 함께 신나게 즐겨요!\n\n#LOONA #오빛 #모일게요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						22,
+						28
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "오빛",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "모일게요",
+					"indices": [
+						126,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 773078392660856800,
+			"id_str": "773078392660856832",
+			"name": "이달의 소녀 Staff",
+			"screen_name": "loonaStaff",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22513,
+			"friends_count": 1,
+			"listed_count": 331,
+			"created_at": "Tue Sep 06 08:40:26 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/773078392660856832/1602772146",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 550,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "전 세계 모든 이달의 소녀와 함께 했던 #이달의소녀 의 Midnight Festival!\n201115 SBS ‘인기가요’는 초록색 이달의 소녀 OFFICIAL LIGHT STICK과 함께 신나게 즐겨요!\n\n#LOONA #오빛 #모일게요"
+	},
+	{
 		"created_at": "Sun Nov 15 05:58:33 +0000 2020",
 		"id": 1327850806385594400,
 		"id_str": "1327853475078651904",
