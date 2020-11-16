@@ -1,6 +1,437 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 16 06:49:21 +0000 2020",
+		"id": 1328228647128494000,
+		"id_str": "1328228647128494080",
+		"full_text": "#SMTOWN #News\n에스팀 이스튜디오 프로패셔널 아카데미, 리뉴얼된 커리큘럼 오픈!\nhttps://t.co/kMc1uSI1Kt\n#SM엔터테인먼트 #minfav https://t.co/Edxn3y6uEt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "News",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "SM엔터테인먼트",
+					"indices": [
+						74,
+						83
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						84,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kMc1uSI1Kt",
+					"expanded_url": "https://www.smtown.com/news/detail/247",
+					"display_url": "smtown.com/news/detail/247",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1328228646205743000,
+					"id_str": "1328228646205743104",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/Em7Q6p2XYAAVmfA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Em7Q6p2XYAAVmfA.jpg",
+					"url": "https://t.co/Edxn3y6uEt",
+					"display_url": "pic.twitter.com/Edxn3y6uEt",
+					"expanded_url": "https://twitter.com/fromminn/status/1328228647128494080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328228646205743000,
+					"id_str": "1328228646205743104",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/Em7Q6p2XYAAVmfA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Em7Q6p2XYAAVmfA.jpg",
+					"url": "https://t.co/Edxn3y6uEt",
+					"display_url": "pic.twitter.com/Edxn3y6uEt",
+					"expanded_url": "https://twitter.com/fromminn/status/1328228647128494080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #News\n에스팀 이스튜디오 프로패셔널 아카데미, 리뉴얼된 커리큘럼 오픈!\nhttps://t.co/kMc1uSI1Kt\n#SM엔터테인먼트 #minfav https://t.co/Edxn3y6uEt"
+	},
+	{
+		"created_at": "Mon Nov 16 06:45:36 +0000 2020",
+		"id": 1328216230092804000,
+		"id_str": "1328227705561755654",
+		"full_text": "[🎥#안방1열직캠] 이달의 소녀 - Why Not?\n\n#인기가요 #LOONA #이달의소녀 #Why_Not @loonatheworld\n\n👉https://t.co/XeAoQpbB5e https://t.co/HAHSh2qmxu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안방1열직캠",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						30,
+						35
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						36,
+						42
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						50,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						59,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XeAoQpbB5e",
+					"expanded_url": "https://youtu.be/_UD719cxxIk",
+					"display_url": "youtu.be/_UD719cxxIk",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1328215900273610800,
+					"id_str": "1328215900273610757",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/Em7FUvjVkAULU9f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Em7FUvjVkAULU9f.jpg",
+					"url": "https://t.co/HAHSh2qmxu",
+					"display_url": "pic.twitter.com/HAHSh2qmxu",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1328216230092804097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328215900273610800,
+					"id_str": "1328215900273610757",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/Em7FUvjVkAULU9f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Em7FUvjVkAULU9f.jpg",
+					"url": "https://t.co/HAHSh2qmxu",
+					"display_url": "pic.twitter.com/HAHSh2qmxu",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1328216230092804097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/qapZ7nOCns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qapZ7nOCns",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 213415,
+			"friends_count": 75,
+			"listed_count": 234,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 1649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1605505158",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 164,
+		"favorite_count": 578,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥#안방1열직캠] 이달의 소녀 - Why Not?\n\n#인기가요 #LOONA #이달의소녀 #Why_Not @loonatheworld\n\n👉https://t.co/XeAoQpbB5e https://t.co/HAHSh2qmxu"
+	},
+	{
 		"created_at": "Mon Nov 16 05:31:37 +0000 2020",
 		"id": 1328209085645385700,
 		"id_str": "1328209085645385729",
