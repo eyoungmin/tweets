@@ -1,6 +1,472 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 16 00:58:37 +0000 2020",
+		"id": 1328133442429599700,
+		"id_str": "1328140381741989889",
+		"full_text": "애플이 정말로 실행하는 모든 앱을 다 서버에 기록할까 ? https://t.co/uPiwMbcQ4w \n- 이번에 이슈가 된 OCSP에 대한 기술적인 분석\nㅤ→ 개발자 인증서가 유효한지를 확인하기 위해 앱 실행시에 애플서버에 접속해서 체크\nㅤ→ 네트웍 연결이 불가능하면 그냥 실행함\nㅤ→ 접속은 가능한데 서버...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uPiwMbcQ4w",
+					"expanded_url": "https://j.mp/3fa55Cc",
+					"display_url": "j.mp/3fa55Cc",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4304,
+			"friends_count": 0,
+			"listed_count": 67,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "애플이 정말로 실행하는 모든 앱을 다 서버에 기록할까 ? https://t.co/uPiwMbcQ4w \n- 이번에 이슈가 된 OCSP에 대한 기술적인 분석\nㅤ→ 개발자 인증서가 유효한지를 확인하기 위해 앱 실행시에 애플서버에 접속해서 체크\nㅤ→ 네트웍 연결이 불가능하면 그냥 실행함\nㅤ→ 접속은 가능한데 서버..."
+	},
+	{
+		"created_at": "Mon Nov 16 00:58:14 +0000 2020",
+		"id": 1328136870077755400,
+		"id_str": "1328140286782971909",
+		"full_text": "빅히트 ‘잘 나가네’…올해 3분기 영업익 401억, 전년보다 73%↑ https://t.co/9P4laieFgr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9P4laieFgr",
+					"expanded_url": "http://www.bloter.net/archives/477528",
+					"display_url": "bloter.net/archives/477528",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54683,
+			"friends_count": 9,
+			"listed_count": 2351,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 27588,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빅히트 ‘잘 나가네’…올해 3분기 영업익 401억, 전년보다 73%↑ https://t.co/9P4laieFgr"
+	},
+	{
+		"created_at": "Mon Nov 16 00:58:08 +0000 2020",
+		"id": 1328137996663550000,
+		"id_str": "1328140261843562497",
+		"full_text": "Just one week until the 2020 @AMAs! We’ve got an exciting performance planned so tune-in next Sunday, November 22 at 8/7c📆 on ABC #AMAs #BTS #방탄소년단 #BTS_BE https://t.co/nZJeJWZX4c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AMAs",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "방탄소년단",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "BTS_BE",
+					"indices": [
+						148,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AMAs",
+					"name": "American Music Awards",
+					"id": 52536879,
+					"id_str": "52536879",
+					"indices": [
+						29,
+						34
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1328136979339300900,
+					"id_str": "1328136979339300865",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1328136979339300865/pu/img/316OaOQIBG0g1HIe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1328136979339300865/pu/img/316OaOQIBG0g1HIe.jpg",
+					"url": "https://t.co/nZJeJWZX4c",
+					"display_url": "pic.twitter.com/nZJeJWZX4c",
+					"expanded_url": "https://twitter.com/bts_bighit/status/1328137996663549953/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328136979339300900,
+					"id_str": "1328136979339300865",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1328136979339300865/pu/img/316OaOQIBG0g1HIe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1328136979339300865/pu/img/316OaOQIBG0g1HIe.jpg",
+					"url": "https://t.co/nZJeJWZX4c",
+					"display_url": "pic.twitter.com/nZJeJWZX4c",
+					"expanded_url": "https://twitter.com/bts_bighit/status/1328137996663549953/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 9993,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1328136979339300865/pu/pl/wthDAgfVVznumKW9.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1328136979339300865/pu/vid/480x480/5yvZ7XfQrKeLr5_G.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1328136979339300865/pu/vid/320x320/dWHTHsrMniA4gJ_n.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1328136979339300865/pu/vid/720x720/y8sjNAP42axME2Rf.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1409798257,
+			"id_str": "1409798257",
+			"name": "BTS_official",
+			"screen_name": "bts_bighit",
+			"location": "",
+			"description": "#방탄소년단 공식 트위터입니다\nThis is the Official Twitter for #BTS\n\n#BTS_BE 2020.11.20.\n0AM EST/ 2PM KST\n\nPre-save \"BE\" 👉 https://t.co/DkvPSdfyeN",
+			"url": "https://t.co/UKFREoHhAr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UKFREoHhAr",
+							"expanded_url": "http://bts.ibighit.com",
+							"display_url": "bts.ibighit.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DkvPSdfyeN",
+							"expanded_url": "http://bts-be.com",
+							"display_url": "bts-be.com",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 25258110,
+			"friends_count": 24,
+			"listed_count": 35368,
+			"created_at": "Tue May 07 09:13:05 +0000 2013",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F69A95",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1318205976110010371/hvlZiocy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318205976110010371/hvlZiocy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1409798257/1604847672",
+			"profile_link_color": "F69A95",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29243,
+		"favorite_count": 92889,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just one week until the 2020 @AMAs! We’ve got an exciting performance planned so tune-in next Sunday, November 22 at 8/7c📆 on ABC #AMAs #BTS #방탄소년단 #BTS_BE https://t.co/nZJeJWZX4c"
+	},
+	{
 		"created_at": "Sun Nov 15 23:27:05 +0000 2020",
 		"id": 1328110544184770600,
 		"id_str": "1328117345299156993",
