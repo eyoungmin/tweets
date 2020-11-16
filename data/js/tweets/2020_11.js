@@ -1,6 +1,395 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 16 08:37:26 +0000 2020",
+		"id": 1328255848674701300,
+		"id_str": "1328255848674701312",
+		"full_text": "#대한민국 #보건복지부\n최근 1주간 확진자 연령대 40대 이하 52.2%···젊은 연령층 차지하는 비율 증가｜11.16일 14시10분 정부브리핑\nhttps://t.co/YFrbZ7vO7J\n#코로나바이러스감염증19 #코로나19 #COVID19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "대한민국",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "보건복지부",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "코로나바이러스감염증19",
+					"indices": [
+						105,
+						118
+					]
+				},
+				{
+					"text": "코로나19",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						126,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YFrbZ7vO7J",
+					"expanded_url": "https://www.youtube.com/watch?v=_bMxdnsFOCc",
+					"display_url": "youtube.com/watch?v=_bMxdn…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1020,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#대한민국 #보건복지부\n최근 1주간 확진자 연령대 40대 이하 52.2%···젊은 연령층 차지하는 비율 증가｜11.16일 14시10분 정부브리핑\nhttps://t.co/YFrbZ7vO7J\n#코로나바이러스감염증19 #코로나19 #COVID19"
+	},
+	{
+		"created_at": "Mon Nov 16 08:27:57 +0000 2020",
+		"id": 1328239148386242600,
+		"id_str": "1328253459750064134",
+		"full_text": "7회차 WENDY letter 마감까지 남은 시간\nCOUNTDOWN⏰\n⠀\n구독 신청하러 가기 (~11월 16일 23:59)\n&gt; https://t.co/oKW0yElQZV (한국)\n⠀\n#Dear_U_letter #RedVelvet #WENDY #WENDY_letter #웬디 #레드벨벳 #디어유레터 https://t.co/2ubiZmNzh9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Dear_U_letter",
+					"indices": [
+						105,
+						119
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						120,
+						130
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "WENDY_letter",
+					"indices": [
+						138,
+						151
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "디어유레터",
+					"indices": [
+						162,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oKW0yElQZV",
+					"expanded_url": "http://dear-u.lysn.com",
+					"display_url": "dear-u.lysn.com",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1328239137233649700,
+					"id_str": "1328239137233649664",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1328239137233649664/pu/img/Xt6C0fJsgpXc9Dc-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1328239137233649664/pu/img/Xt6C0fJsgpXc9Dc-.jpg",
+					"url": "https://t.co/2ubiZmNzh9",
+					"display_url": "pic.twitter.com/2ubiZmNzh9",
+					"expanded_url": "https://twitter.com/lysn_official/status/1328239148386242560/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328239137233649700,
+					"id_str": "1328239137233649664",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1328239137233649664/pu/img/Xt6C0fJsgpXc9Dc-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1328239137233649664/pu/img/Xt6C0fJsgpXc9Dc-.jpg",
+					"url": "https://t.co/2ubiZmNzh9",
+					"display_url": "pic.twitter.com/2ubiZmNzh9",
+					"expanded_url": "https://twitter.com/lysn_official/status/1328239148386242560/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 10833,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1328239137233649664/pu/vid/480x480/z7448apON7raN2hW.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1328239137233649664/pu/pl/ic8RUlguolMeNxP6.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1328239137233649664/pu/vid/320x320/qGm2Jgwztikp0vQP.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1073401702512906200,
+			"id_str": "1073401702512906240",
+			"name": "Lysn",
+			"screen_name": "lysn_official",
+			"location": "",
+			"description": "이 세상 어느 커뮤니티보다 내 관심사에 대해 자유롭게 이야기할 수 있는 공간. 당신은 어떤 이야기를 나누고 싶나요?",
+			"url": "https://t.co/1Rc5cWj5Zb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1Rc5cWj5Zb",
+							"expanded_url": "https://www.lysn.com/",
+							"display_url": "lysn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11816,
+			"friends_count": 0,
+			"listed_count": 21,
+			"created_at": "Fri Dec 14 02:18:03 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076015181090582529/oBMqBCQ2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076015181090582529/oBMqBCQ2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1073401702512906240/1548383663",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 117,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "7회차 WENDY letter 마감까지 남은 시간\nCOUNTDOWN⏰\n⠀\n구독 신청하러 가기 (~11월 16일 23:59)\n&gt; https://t.co/oKW0yElQZV (한국)\n⠀\n#Dear_U_letter #RedVelvet #WENDY #WENDY_letter #웬디 #레드벨벳 #디어유레터 https://t.co/2ubiZmNzh9"
+	},
+	{
 		"created_at": "Mon Nov 16 07:49:35 +0000 2020",
 		"id": 1328243803749224400,
 		"id_str": "1328243803749224448",
