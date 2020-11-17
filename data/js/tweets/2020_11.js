@@ -1,6 +1,1120 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 17 15:15:05 +0000 2020",
+		"id": 1328717278515486700,
+		"id_str": "1328718305935454210",
+		"full_text": "Star 2nd Concept Photo - \"LOOΠΔ\"\n⠀\nLOOПΔ \"Star\" Music Video\n2020.11.18 pm12 (KST) Release\n⠀\n#이달의소녀 #LOONA #Midnight #Star\n⠀\nLOOΠΔ\nhttps://t.co/5CfbXHQxfn https://t.co/0hfj3JSWMT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						106,
+						115
+					]
+				},
+				{
+					"text": "Star",
+					"indices": [
+						116,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5CfbXHQxfn",
+					"expanded_url": "http://www.loonatheworld.com",
+					"display_url": "loonatheworld.com",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1328565552013578200,
+					"id_str": "1328565552013578246",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EnADVJyXEAYdUi1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnADVJyXEAYdUi1.jpg",
+					"url": "https://t.co/0hfj3JSWMT",
+					"display_url": "pic.twitter.com/0hfj3JSWMT",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1328717278515486720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1373,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 805,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328565552013578200,
+					"id_str": "1328565552013578246",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EnADVJyXEAYdUi1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnADVJyXEAYdUi1.jpg",
+					"url": "https://t.co/0hfj3JSWMT",
+					"display_url": "pic.twitter.com/0hfj3JSWMT",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1328717278515486720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1373,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 805,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 580838,
+			"friends_count": 0,
+			"listed_count": 5891,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8075,
+		"favorite_count": 16462,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Star 2nd Concept Photo - \"LOOΠΔ\"\n⠀\nLOOПΔ \"Star\" Music Video\n2020.11.18 pm12 (KST) Release\n⠀\n#이달의소녀 #LOONA #Midnight #Star\n⠀\nLOOΠΔ\nhttps://t.co/5CfbXHQxfn https://t.co/0hfj3JSWMT"
+	},
+	{
+		"created_at": "Tue Nov 17 15:15:01 +0000 2020",
+		"id": 1328717027096277000,
+		"id_str": "1328718288675868672",
+		"full_text": "Star 2nd Concept Photo - \"HeeJin\"\n⠀\nLOOПΔ \"Star\" Music Video\n2020.11.18 pm12 (KST) Release\n⠀\n#이달의소녀 #희진 #LOONA #HeeJin #Midnight #Star\n⠀\nLOOΠΔ\nhttps://t.co/5CfbXHQxfn https://t.co/kDoiWf7YOt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						111,
+						118
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						119,
+						128
+					]
+				},
+				{
+					"text": "Star",
+					"indices": [
+						129,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5CfbXHQxfn",
+					"expanded_url": "http://www.loonatheworld.com",
+					"display_url": "loonatheworld.com",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1328565398480900000,
+					"id_str": "1328565398480900097",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EnADMN1UUAEWg5h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnADMN1UUAEWg5h.jpg",
+					"url": "https://t.co/kDoiWf7YOt",
+					"display_url": "pic.twitter.com/kDoiWf7YOt",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1328717027096276999/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 812,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1386,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328565398480900000,
+					"id_str": "1328565398480900097",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EnADMN1UUAEWg5h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnADMN1UUAEWg5h.jpg",
+					"url": "https://t.co/kDoiWf7YOt",
+					"display_url": "pic.twitter.com/kDoiWf7YOt",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1328717027096276999/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 812,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1386,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 580838,
+			"friends_count": 0,
+			"listed_count": 5891,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6734,
+		"favorite_count": 16090,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Star 2nd Concept Photo - \"HeeJin\"\n⠀\nLOOПΔ \"Star\" Music Video\n2020.11.18 pm12 (KST) Release\n⠀\n#이달의소녀 #희진 #LOONA #HeeJin #Midnight #Star\n⠀\nLOOΠΔ\nhttps://t.co/5CfbXHQxfn https://t.co/kDoiWf7YOt"
+	},
+	{
+		"created_at": "Tue Nov 17 15:14:54 +0000 2020",
+		"id": 1328716775404388400,
+		"id_str": "1328718262146830342",
+		"full_text": "Star 2nd Concept Photo - \"HyunJin\"\n⠀\nLOOПΔ \"Star\" Music Video\n2020.11.18 pm12 (KST) Release\n⠀\n#이달의소녀 #현진 #LOONA #HyunJin #Midnight #Star\n⠀\nLOOΠΔ\nhttps://t.co/5CfbXI886V https://t.co/8hNUWUs7KE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "HyunJin",
+					"indices": [
+						112,
+						120
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						121,
+						130
+					]
+				},
+				{
+					"text": "Star",
+					"indices": [
+						131,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5CfbXI886V",
+					"expanded_url": "http://www.loonatheworld.com",
+					"display_url": "loonatheworld.com",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1328565254859714600,
+					"id_str": "1328565254859714560",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EnADD2zW8AAes6I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnADD2zW8AAes6I.jpg",
+					"url": "https://t.co/8hNUWUs7KE",
+					"display_url": "pic.twitter.com/8hNUWUs7KE",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1328716775404388354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1386,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 812,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328565254859714600,
+					"id_str": "1328565254859714560",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EnADD2zW8AAes6I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnADD2zW8AAes6I.jpg",
+					"url": "https://t.co/8hNUWUs7KE",
+					"display_url": "pic.twitter.com/8hNUWUs7KE",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1328716775404388354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1386,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 812,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 580838,
+			"friends_count": 0,
+			"listed_count": 5891,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6594,
+		"favorite_count": 15879,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Star 2nd Concept Photo - \"HyunJin\"\n⠀\nLOOПΔ \"Star\" Music Video\n2020.11.18 pm12 (KST) Release\n⠀\n#이달의소녀 #현진 #LOONA #HyunJin #Midnight #Star\n⠀\nLOOΠΔ\nhttps://t.co/5CfbXI886V https://t.co/8hNUWUs7KE"
+	},
+	{
+		"created_at": "Tue Nov 17 15:14:48 +0000 2020",
+		"id": 1328716523519832000,
+		"id_str": "1328718236456783872",
+		"full_text": "Star 2nd Concept Photo - \"YeoJin\"\n⠀\nLOOПΔ \"Star\" Music Video\n2020.11.18 pm12 (KST) Release\n⠀\n#이달의소녀 #여진 #LOONA #YeoJin #Midnight #Star\n⠀\nLOOΠΔ\nhttps://t.co/5CfbXHQxfn https://t.co/1LdGStQsOB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						111,
+						118
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						119,
+						128
+					]
+				},
+				{
+					"text": "Star",
+					"indices": [
+						129,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5CfbXHQxfn",
+					"expanded_url": "http://www.loonatheworld.com",
+					"display_url": "loonatheworld.com",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1328565100031189000,
+					"id_str": "1328565100031188995",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EnAC62BXIAMwvRC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnAC62BXIAMwvRC.jpg",
+					"url": "https://t.co/1LdGStQsOB",
+					"display_url": "pic.twitter.com/1LdGStQsOB",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1328716523519832065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1386,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 812,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328565100031189000,
+					"id_str": "1328565100031188995",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EnAC62BXIAMwvRC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnAC62BXIAMwvRC.jpg",
+					"url": "https://t.co/1LdGStQsOB",
+					"display_url": "pic.twitter.com/1LdGStQsOB",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1328716523519832065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1386,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 812,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 580838,
+			"friends_count": 0,
+			"listed_count": 5891,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6861,
+		"favorite_count": 17150,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Star 2nd Concept Photo - \"YeoJin\"\n⠀\nLOOПΔ \"Star\" Music Video\n2020.11.18 pm12 (KST) Release\n⠀\n#이달의소녀 #여진 #LOONA #YeoJin #Midnight #Star\n⠀\nLOOΠΔ\nhttps://t.co/5CfbXHQxfn https://t.co/1LdGStQsOB"
+	},
+	{
+		"created_at": "Tue Nov 17 15:14:40 +0000 2020",
+		"id": 1328716272100577300,
+		"id_str": "1328718200943628289",
+		"full_text": "Star 2nd Concept Photo - \"ViVi\"\n⠀\nLOOПΔ \"Star\" Music Video\n2020.11.18 pm12 (KST) Release\n⠀\n#이달의소녀 #LOONA #ViVi #Midnight #Star\n⠀\nLOOΠΔ\nhttps://t.co/5CfbXHQxfn https://t.co/PRJj9nnIGa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "ViVi",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						111,
+						120
+					]
+				},
+				{
+					"text": "Star",
+					"indices": [
+						121,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5CfbXHQxfn",
+					"expanded_url": "http://www.loonatheworld.com",
+					"display_url": "loonatheworld.com",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1328564879385477000,
+					"id_str": "1328564879385477120",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EnACuADUwAALcsE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnACuADUwAALcsE.jpg",
+					"url": "https://t.co/PRJj9nnIGa",
+					"display_url": "pic.twitter.com/PRJj9nnIGa",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1328716272100577280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 812,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1386,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328564879385477000,
+					"id_str": "1328564879385477120",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EnACuADUwAALcsE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnACuADUwAALcsE.jpg",
+					"url": "https://t.co/PRJj9nnIGa",
+					"display_url": "pic.twitter.com/PRJj9nnIGa",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1328716272100577280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 812,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1386,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 580838,
+			"friends_count": 0,
+			"listed_count": 5891,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6961,
+		"favorite_count": 17311,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Star 2nd Concept Photo - \"ViVi\"\n⠀\nLOOПΔ \"Star\" Music Video\n2020.11.18 pm12 (KST) Release\n⠀\n#이달의소녀 #LOONA #ViVi #Midnight #Star\n⠀\nLOOΠΔ\nhttps://t.co/5CfbXHQxfn https://t.co/PRJj9nnIGa"
+	},
+	{
 		"created_at": "Tue Nov 17 14:19:13 +0000 2020",
 		"id": 1328704248385826800,
 		"id_str": "1328704248385826816",
