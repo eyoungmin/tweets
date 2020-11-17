@@ -1,6 +1,981 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 17 06:56:29 +0000 2020",
+		"id": 1328592828423954400,
+		"id_str": "1328592828423954433",
+		"full_text": "#SMTOWN #Artist_News\n‘허쉬’ 임윤아, 인턴 기자증 공개! ‘시선 집중’\nhttps://t.co/b8i9s1QrVE\n#소녀시대 #GirlsGeneration https://t.co/rnsmXzdcb0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						80,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b8i9s1QrVE",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/4231",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1328592827375292400,
+					"id_str": "1328592827375292416",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EnAcIybWEAAk8eu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnAcIybWEAAk8eu.jpg",
+					"url": "https://t.co/rnsmXzdcb0",
+					"display_url": "pic.twitter.com/rnsmXzdcb0",
+					"expanded_url": "https://twitter.com/fromminn/status/1328592828423954433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328592827375292400,
+					"id_str": "1328592827375292416",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EnAcIybWEAAk8eu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnAcIybWEAAk8eu.jpg",
+					"url": "https://t.co/rnsmXzdcb0",
+					"display_url": "pic.twitter.com/rnsmXzdcb0",
+					"expanded_url": "https://twitter.com/fromminn/status/1328592828423954433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1021,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n‘허쉬’ 임윤아, 인턴 기자증 공개! ‘시선 집중’\nhttps://t.co/b8i9s1QrVE\n#소녀시대 #GirlsGeneration https://t.co/rnsmXzdcb0"
+	},
+	{
+		"created_at": "Tue Nov 17 06:45:37 +0000 2020",
+		"id": 1328586120624541700,
+		"id_str": "1328590094266200064",
+		"full_text": "[#이브 / #Yves] 🍎모자는 너무 좋은데 춤추고 나면 엉망진창이래요🤪 그래도 오빛한테 좋은 무대 보여 주기 위해서 이정도 땀쯤이야 ㅇi-무렇ㅈi않ㅇr (no problem)...✨🧚🏻‍♀️\n\n#이달의소녀 #LOONA https://t.co/FUCkvVfqZq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이브",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						117,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1328586109195083800,
+					"id_str": "1328586109195083779",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EnAWBvQXYAMyzCL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnAWBvQXYAMyzCL.jpg",
+					"url": "https://t.co/FUCkvVfqZq",
+					"display_url": "pic.twitter.com/FUCkvVfqZq",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1328586120624541698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328586109195083800,
+					"id_str": "1328586109195083779",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EnAWBvQXYAMyzCL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnAWBvQXYAMyzCL.jpg",
+					"url": "https://t.co/FUCkvVfqZq",
+					"display_url": "pic.twitter.com/FUCkvVfqZq",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1328586120624541698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1328586109186683000,
+					"id_str": "1328586109186682889",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EnAWBvOXMAkIAwl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnAWBvOXMAkIAwl.jpg",
+					"url": "https://t.co/FUCkvVfqZq",
+					"display_url": "pic.twitter.com/FUCkvVfqZq",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1328586120624541698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 778,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 517,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 778,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 580107,
+			"friends_count": 0,
+			"listed_count": 5872,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4424,
+		"favorite_count": 14517,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#이브 / #Yves] 🍎모자는 너무 좋은데 춤추고 나면 엉망진창이래요🤪 그래도 오빛한테 좋은 무대 보여 주기 위해서 이정도 땀쯤이야 ㅇi-무렇ㅈi않ㅇr (no problem)...✨🧚🏻‍♀️\n\n#이달의소녀 #LOONA https://t.co/FUCkvVfqZq"
+	},
+	{
+		"created_at": "Tue Nov 17 06:42:20 +0000 2020",
+		"id": 1328589271427592200,
+		"id_str": "1328589271427592192",
+		"full_text": "#SMTOWN #Artist_News\n보아, 데뷔 20주년 리얼리티 ‘Nobody Talks To BoA’ 17일 첫 공개!\nhttps://t.co/cWsnGkgjJd\n#보아 #BoA https://t.co/ZcLugdBqBz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						98,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cWsnGkgjJd",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/4229",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1328589270194544600,
+					"id_str": "1328589270194544640",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/EnAY5u5XYAAEksI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnAY5u5XYAAEksI.jpg",
+					"url": "https://t.co/ZcLugdBqBz",
+					"display_url": "pic.twitter.com/ZcLugdBqBz",
+					"expanded_url": "https://twitter.com/fromminn/status/1328589271427592192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328589270194544600,
+					"id_str": "1328589270194544640",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/EnAY5u5XYAAEksI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnAY5u5XYAAEksI.jpg",
+					"url": "https://t.co/ZcLugdBqBz",
+					"display_url": "pic.twitter.com/ZcLugdBqBz",
+					"expanded_url": "https://twitter.com/fromminn/status/1328589271427592192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1021,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n보아, 데뷔 20주년 리얼리티 ‘Nobody Talks To BoA’ 17일 첫 공개!\nhttps://t.co/cWsnGkgjJd\n#보아 #BoA https://t.co/ZcLugdBqBz"
+	},
+	{
+		"created_at": "Tue Nov 17 06:27:10 +0000 2020",
+		"id": 1328580717576654800,
+		"id_str": "1328585454615224320",
+		"full_text": "❤️aespa Official Fanclub \"MY\"(마이) OPEN!❤️\n\n• 모집기간 : 2020년 11월 17일 (화) ~ (상시모집)\n• 가입대상 : aespa를 좋아하고 응원하시는 분\n• 가입처 : 네이버 V LIVE 내 aespa 채널\n\n👉 https://t.co/dnrVnRNg5B\n\n#aespa #æspa #에스파 #Fanclub\n#MY #마이 #우리사이마이 #에스파이팅 https://t.co/oKF1C3BuZS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						166,
+						172
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						173,
+						178
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "Fanclub",
+					"indices": [
+						184,
+						192
+					]
+				},
+				{
+					"text": "MY",
+					"indices": [
+						193,
+						196
+					]
+				},
+				{
+					"text": "마이",
+					"indices": [
+						197,
+						200
+					]
+				},
+				{
+					"text": "우리사이마이",
+					"indices": [
+						201,
+						208
+					]
+				},
+				{
+					"text": "에스파이팅",
+					"indices": [
+						209,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dnrVnRNg5B",
+					"expanded_url": "https://www.vlive.tv/channel/97CCED",
+					"display_url": "vlive.tv/channel/97CCED",
+					"indices": [
+						141,
+						164
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1328552213153628200,
+					"id_str": "1328552213153628160",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/Em_3MuqUwAAPrLD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Em_3MuqUwAAPrLD.jpg",
+					"url": "https://t.co/oKF1C3BuZS",
+					"display_url": "pic.twitter.com/oKF1C3BuZS",
+					"expanded_url": "https://twitter.com/aespa_official/status/1328580717576654851/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328552213153628200,
+					"id_str": "1328552213153628160",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/Em_3MuqUwAAPrLD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Em_3MuqUwAAPrLD.jpg",
+					"url": "https://t.co/oKF1C3BuZS",
+					"display_url": "pic.twitter.com/oKF1C3BuZS",
+					"expanded_url": "https://twitter.com/aespa_official/status/1328580717576654851/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1328552213157798000,
+					"id_str": "1328552213157797890",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/Em_3MurUYAID4i5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Em_3MurUYAID4i5.jpg",
+					"url": "https://t.co/oKF1C3BuZS",
+					"display_url": "pic.twitter.com/oKF1C3BuZS",
+					"expanded_url": "https://twitter.com/aespa_official/status/1328580717576654851/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1328552213157802000,
+					"id_str": "1328552213157801984",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/Em_3MurUcAARsPR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Em_3MurUcAARsPR.jpg",
+					"url": "https://t.co/oKF1C3BuZS",
+					"display_url": "pic.twitter.com/oKF1C3BuZS",
+					"expanded_url": "https://twitter.com/aespa_official/status/1328580717576654851/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1328552213153677300,
+					"id_str": "1328552213153677313",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/Em_3MuqVgAElIQy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Em_3MuqVgAElIQy.jpg",
+					"url": "https://t.co/oKF1C3BuZS",
+					"display_url": "pic.twitter.com/oKF1C3BuZS",
+					"expanded_url": "https://twitter.com/aespa_official/status/1328580717576654851/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 406490,
+			"friends_count": 1,
+			"listed_count": 974,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 59,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5635,
+		"favorite_count": 18206,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤️aespa Official Fanclub \"MY\"(마이) OPEN!❤️\n\n• 모집기간 : 2020년 11월 17일 (화) ~ (상시모집)\n• 가입대상 : aespa를 좋아하고 응원하시는 분\n• 가입처 : 네이버 V LIVE 내 aespa 채널\n\n👉 https://t.co/dnrVnRNg5B\n\n#aespa #æspa #에스파 #Fanclub\n#MY #마이 #우리사이마이 #에스파이팅 https://t.co/oKF1C3BuZS"
+	},
+	{
 		"created_at": "Tue Nov 17 05:52:20 +0000 2020",
 		"id": 1328576686720422000,
 		"id_str": "1328576686720421888",
