@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 17 07:38:41 +0000 2020",
+		"id": 1328261559437516800,
+		"id_str": "1328603452281335808",
+		"full_text": "[📢] S2 Entertainment Official SNS OPEN!\n\nS2 엔터테인먼트의 공식 SNS가 개설되었습니다.\n여러분의 많은 관심과 사랑 부탁드립니다!💓\n\nTwitter🖇https://t.co/KM1I04hXCN\nFacebook🖇https://t.co/SJen5YklHc\nInstagram🖇https://t.co/wFMTBvTBRj\nYouTube🖇https://t.co/g86Yqp0cdS\n\n#S2 https://t.co/4hyvdzExqS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "S2",
+					"indices": [
+						226,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KM1I04hXCN",
+					"expanded_url": "https://twitter.com/S2ent_official",
+					"display_url": "twitter.com/S2ent_official",
+					"indices": [
+						102,
+						125
+					]
+				},
+				{
+					"url": "https://t.co/SJen5YklHc",
+					"expanded_url": "http://facebook.com/S2entofficial",
+					"display_url": "facebook.com/S2entofficial",
+					"indices": [
+						135,
+						158
+					]
+				},
+				{
+					"url": "https://t.co/wFMTBvTBRj",
+					"expanded_url": "http://instagram.com/s2ent_official",
+					"display_url": "instagram.com/s2ent_official",
+					"indices": [
+						169,
+						192
+					]
+				},
+				{
+					"url": "https://t.co/g86Yqp0cdS",
+					"expanded_url": "http://bit.ly/38xtQqn",
+					"display_url": "bit.ly/38xtQqn",
+					"indices": [
+						201,
+						224
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1328157591822770200,
+					"id_str": "1328157591822770176",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1328157591822770176/pu/img/af5b2pNSyxJzZADs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1328157591822770176/pu/img/af5b2pNSyxJzZADs.jpg",
+					"url": "https://t.co/4hyvdzExqS",
+					"display_url": "pic.twitter.com/4hyvdzExqS",
+					"expanded_url": "https://twitter.com/S2ent_official/status/1328261559437516800/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328157591822770200,
+					"id_str": "1328157591822770176",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1328157591822770176/pu/img/af5b2pNSyxJzZADs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1328157591822770176/pu/img/af5b2pNSyxJzZADs.jpg",
+					"url": "https://t.co/4hyvdzExqS",
+					"display_url": "pic.twitter.com/4hyvdzExqS",
+					"expanded_url": "https://twitter.com/S2ent_official/status/1328261559437516800/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 5005,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1328157591822770176/pu/vid/480x270/Lkcgk8trSTkgO4uK.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1328157591822770176/pu/vid/640x360/-RBsFVIyxZddXtyP.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1328157591822770176/pu/pl/wraA7L_5chtv8DdY.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1328157591822770176/pu/vid/1280x720/jRmNttx4zi85_Kgr.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1323510333655244800,
+			"id_str": "1323510333655244800",
+			"name": "S2 Entertainment",
+			"screen_name": "S2ent_official",
+			"location": "",
+			"description": "S2 Entertainment Official Twitter",
+			"url": "https://t.co/2n4LQv5rVF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2n4LQv5rVF",
+							"expanded_url": "https://bit.ly/38xtQqn",
+							"display_url": "bit.ly/38xtQqn",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 280,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Tue Nov 03 06:21:40 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1328147288384892929/da7YEbmO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1328147288384892929/da7YEbmO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1323510333655244800/1605489964",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 109,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📢] S2 Entertainment Official SNS OPEN!\n\nS2 엔터테인먼트의 공식 SNS가 개설되었습니다.\n여러분의 많은 관심과 사랑 부탁드립니다!💓\n\nTwitter🖇https://t.co/KM1I04hXCN\nFacebook🖇https://t.co/SJen5YklHc\nInstagram🖇https://t.co/wFMTBvTBRj\nYouTube🖇https://t.co/g86Yqp0cdS\n\n#S2 https://t.co/4hyvdzExqS"
+	},
+	{
 		"created_at": "Tue Nov 17 06:56:29 +0000 2020",
 		"id": 1328592828423954400,
 		"id_str": "1328592828423954433",
@@ -204,7 +454,7 @@ Grailbird.data.tweets_2020_11 =
 		"created_at": "Tue Nov 17 06:45:37 +0000 2020",
 		"id": 1328586120624541700,
 		"id_str": "1328590094266200064",
-		"full_text": "[#이브 / #Yves] 🍎모자는 너무 좋은데 춤추고 나면 엉망진창이래요🤪 그래도 오빛한테 좋은 무대 보여 주기 위해서 이정도 땀쯤이야 ㅇi-무렇ㅈi않ㅇr (no problem)...✨🧚🏻‍♀️\n\n#이달의소녀 #LOONA https://t.co/FUCkvVfqZq",
+		"full_text": "[#이브 / #Yves] 🍎모자는 너무 좋은데 춤추고 나면 엉망진창이래요🤪 그래도 오빛한테 좋은 무대 보여 주기 위해서 이정도 땀쯤이야 ㅇi-무렇ㅈi않ㅇr (no problem)...✨🧚🏻♀️\n\n#이달의소녀 #LOONA https://t.co/FUCkvVfqZq",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -437,7 +687,7 @@ Grailbird.data.tweets_2020_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#이브 / #Yves] 🍎모자는 너무 좋은데 춤추고 나면 엉망진창이래요🤪 그래도 오빛한테 좋은 무대 보여 주기 위해서 이정도 땀쯤이야 ㅇi-무렇ㅈi않ㅇr (no problem)...✨🧚🏻‍♀️\n\n#이달의소녀 #LOONA https://t.co/FUCkvVfqZq"
+		"text": "[#이브 / #Yves] 🍎모자는 너무 좋은데 춤추고 나면 엉망진창이래요🤪 그래도 오빛한테 좋은 무대 보여 주기 위해서 이정도 땀쯤이야 ㅇi-무렇ㅈi않ㅇr (no problem)...✨🧚🏻♀️\n\n#이달의소녀 #LOONA https://t.co/FUCkvVfqZq"
 	},
 	{
 		"created_at": "Tue Nov 17 06:42:20 +0000 2020",
