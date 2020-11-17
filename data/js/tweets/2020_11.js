@@ -1,6 +1,491 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 17 13:41:32 +0000 2020",
+		"id": 1328694766461182000,
+		"id_str": "1328694766461181953",
+		"full_text": "#Melon #멜론 #포토\n[심규선] 새 앨범 &lt;�월령 月齡 : 上&gt; 트랙리스트 공개-!\n▶ https://t.co/s85UeIvR3z\n원본 : https://t.co/uviLAJd5th\n#심규선 #LUCIA https://t.co/KVikIkMM5T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "포토",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "심규선",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "LUCIA",
+					"indices": [
+						116,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s85UeIvR3z",
+					"expanded_url": "https://www.melon.com/artist/photo_detail.htm?artistId=177241&photoId=80117996&orderBy=NEW",
+					"display_url": "melon.com/artist/photo_d…",
+					"indices": [
+						58,
+						81
+					]
+				},
+				{
+					"url": "https://t.co/uviLAJd5th",
+					"expanded_url": "https://cdnimg.melon.co.kr/cm2/photo/images/000/801/17/996/80117996_20201117180930_org.jpg",
+					"display_url": "cdnimg.melon.co.kr/cm2/photo/imag…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1328694764972241000,
+					"id_str": "1328694764972240897",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EnB42VkXcAE-01i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnB42VkXcAE-01i.jpg",
+					"url": "https://t.co/KVikIkMM5T",
+					"display_url": "pic.twitter.com/KVikIkMM5T",
+					"expanded_url": "https://twitter.com/fromminn/status/1328694766461181953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328694764972241000,
+					"id_str": "1328694764972240897",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EnB42VkXcAE-01i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnB42VkXcAE-01i.jpg",
+					"url": "https://t.co/KVikIkMM5T",
+					"display_url": "pic.twitter.com/KVikIkMM5T",
+					"expanded_url": "https://twitter.com/fromminn/status/1328694766461181953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1022,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#Melon #멜론 #포토\n[심규선] 새 앨범 &lt;�월령 月齡 : 上&gt; 트랙리스트 공개-!\n▶ https://t.co/s85UeIvR3z\n원본 : https://t.co/uviLAJd5th\n#심규선 #LUCIA https://t.co/KVikIkMM5T"
+	},
+	{
+		"created_at": "Tue Nov 17 13:35:46 +0000 2020",
+		"id": 1328636493355569200,
+		"id_str": "1328693313260580865",
+		"full_text": "세계관의 정점을 찍어버린 aespa💫 데뷔 전부터 덕심 끌어모았던 에스파 드디어 데뷔🖤 4멤버 4매력 에스파의 TMI를 공개합니다!\n\n📎aespa’s TMI\nhttps://t.co/WkS79KXnpY\n\n#Melon #멜론 #TMI대전 #aespa #에스파 #BlackMamba @aespa_official https://t.co/rOgZf2mGhd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "TMI대전",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "BlackMamba",
+					"indices": [
+						143,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						155,
+						170
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WkS79KXnpY",
+					"expanded_url": "http://kko.to/UlP0lihDo",
+					"display_url": "kko.to/UlP0lihDo",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1328636436686336000,
+					"id_str": "1328636436686336000",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1328636436686336000/pu/img/wouv5IUV1hZ30Ohb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1328636436686336000/pu/img/wouv5IUV1hZ30Ohb.jpg",
+					"url": "https://t.co/rOgZf2mGhd",
+					"display_url": "pic.twitter.com/rOgZf2mGhd",
+					"expanded_url": "https://twitter.com/melon/status/1328636493355569152/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328636436686336000,
+					"id_str": "1328636436686336000",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1328636436686336000/pu/img/wouv5IUV1hZ30Ohb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1328636436686336000/pu/img/wouv5IUV1hZ30Ohb.jpg",
+					"url": "https://t.co/rOgZf2mGhd",
+					"display_url": "pic.twitter.com/rOgZf2mGhd",
+					"expanded_url": "https://twitter.com/melon/status/1328636493355569152/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 16000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1328636436686336000/pu/vid/360x640/esqF11VMYWbrlJ6N.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1328636436686336000/pu/vid/320x568/KRI84rKwXhcAcxWV.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1328636436686336000/pu/vid/720x1280/sQXzVIWSFbE6k5XL.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1328636436686336000/pu/pl/z8NajRrPqJiFL4mo.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118953366,
+			"id_str": "118953366",
+			"name": "Melon",
+			"screen_name": "melon",
+			"location": "Seoul, Korea",
+			"description": "음악이 필요한 순간 '멜론'",
+			"url": "http://t.co/Wo8qZOx1KA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Wo8qZOx1KA",
+							"expanded_url": "http://www.melon.com",
+							"display_url": "melon.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71084,
+			"friends_count": 46,
+			"listed_count": 581,
+			"created_at": "Tue Mar 02 06:13:44 +0000 2010",
+			"favourites_count": 143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118953366/1592531049",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 724,
+		"favorite_count": 1326,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세계관의 정점을 찍어버린 aespa💫 데뷔 전부터 덕심 끌어모았던 에스파 드디어 데뷔🖤 4멤버 4매력 에스파의 TMI를 공개합니다!\n\n📎aespa’s TMI\nhttps://t.co/WkS79KXnpY\n\n#Melon #멜론 #TMI대전 #aespa #에스파 #BlackMamba @aespa_official https://t.co/rOgZf2mGhd"
+	},
+	{
 		"created_at": "Tue Nov 17 12:29:22 +0000 2020",
 		"id": 1328676603484807200,
 		"id_str": "1328676603484807170",
