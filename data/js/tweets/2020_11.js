@@ -1,6 +1,2566 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 17 11:54:07 +0000 2020",
+		"id": 1328658902771089400,
+		"id_str": "1328667732846362624",
+		"full_text": "K/DA                      에스파 뮤비\n(둘다 지하철에 괴물형상)\n(여자)아이들            에스파 뮤비\n(검은색 손) https://t.co/splEf9WadY https://t.co/hQQIUon6iJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/splEf9WadY",
+					"expanded_url": "https://twitter.com/1eem1nhowife/status/1328650452364234753",
+					"display_url": "twitter.com/1eem1nhowife/s…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1328658887143088000,
+					"id_str": "1328658887143088130",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EnBYN-PUYAIH5Wh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnBYN-PUYAIH5Wh.jpg",
+					"url": "https://t.co/hQQIUon6iJ",
+					"display_url": "pic.twitter.com/hQQIUon6iJ",
+					"expanded_url": "https://twitter.com/LUNA950711/status/1328658902771089409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 577,
+							"h": 278,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 577,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 577,
+							"h": 278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328658887143088000,
+					"id_str": "1328658887143088130",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EnBYN-PUYAIH5Wh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnBYN-PUYAIH5Wh.jpg",
+					"url": "https://t.co/hQQIUon6iJ",
+					"display_url": "pic.twitter.com/hQQIUon6iJ",
+					"expanded_url": "https://twitter.com/LUNA950711/status/1328658902771089409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 577,
+							"h": 278,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 577,
+							"h": 278,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 577,
+							"h": 278,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1328658892310466600,
+					"id_str": "1328658892310466560",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EnBYORfUUAAHCOB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnBYORfUUAAHCOB.jpg",
+					"url": "https://t.co/hQQIUon6iJ",
+					"display_url": "pic.twitter.com/hQQIUon6iJ",
+					"expanded_url": "https://twitter.com/LUNA950711/status/1328658902771089409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 648,
+							"h": 286,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 648,
+							"h": 286,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 648,
+							"h": 286,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1328658895527497700,
+					"id_str": "1328658895527497729",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EnBYOdeUUAEvkvs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnBYOdeUUAEvkvs.jpg",
+					"url": "https://t.co/hQQIUon6iJ",
+					"display_url": "pic.twitter.com/hQQIUon6iJ",
+					"expanded_url": "https://twitter.com/LUNA950711/status/1328658902771089409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 309,
+							"h": 157,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 309,
+							"h": 157,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 309,
+							"h": 157,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1328658899398869000,
+					"id_str": "1328658899398868993",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EnBYOr5UwAEawFV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnBYOr5UwAEawFV.jpg",
+					"url": "https://t.co/hQQIUon6iJ",
+					"display_url": "pic.twitter.com/hQQIUon6iJ",
+					"expanded_url": "https://twitter.com/LUNA950711/status/1328658902771089409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 452,
+							"h": 211,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 211,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 452,
+							"h": 211,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1250573767396319200,
+			"id_str": "1250573767396319232",
+			"name": "LUNAofficial",
+			"screen_name": "LUNA950711",
+			"location": "흰 무궁화 꽃밭",
+			"description": "폰녹음러🎤|❄ 반동결❄| 스트리머 준비중(2021년도 3월달)| 교류 및 소통 좋아해요!| 잘부탁드립니다😊|\n 携帯で録音します。😂| ❄半凍結❄(たまに入ります。)| ストリーマー準備中。(2021年 ３月)| お話しするのが好きです!| 日本語少しできます!| どうぞよろしくお願いします😊",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9,
+			"friends_count": 11,
+			"listed_count": 0,
+			"created_at": "Wed Apr 15 23:56:48 +0000 2020",
+			"favourites_count": 189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306835971917275136/APjjbifY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306835971917275136/APjjbifY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1250573767396319232/1599403318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1328650452364234800,
+		"quoted_status_id_str": "1328650452364234753",
+		"quoted_status_permalink": {
+			"url": "https://t.co/splEf9WadY",
+			"expanded": "https://twitter.com/1eem1nhowife/status/1328650452364234753",
+			"display": "twitter.com/1eem1nhowife/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 17 10:45:27 +0000 2020",
+			"id": 1328650452364234800,
+			"id_str": "1328650452364234753",
+			"full_text": "원작자                         에스파 뮤비 블랙맘바 https://t.co/4DXB9vMOXB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				39
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1328650434542616600,
+						"id_str": "1328650434542616576",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/EnBQh92UwAA6t_c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnBQh92UwAA6t_c.jpg",
+						"url": "https://t.co/4DXB9vMOXB",
+						"display_url": "pic.twitter.com/4DXB9vMOXB",
+						"expanded_url": "https://twitter.com/1eem1nhowife/status/1328650452364234753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 681,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 681,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 452,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1328650434542616600,
+						"id_str": "1328650434542616576",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/EnBQh92UwAA6t_c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnBQh92UwAA6t_c.jpg",
+						"url": "https://t.co/4DXB9vMOXB",
+						"display_url": "pic.twitter.com/4DXB9vMOXB",
+						"expanded_url": "https://twitter.com/1eem1nhowife/status/1328650452364234753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 681,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 681,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 452,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1328650436669177900,
+						"id_str": "1328650436669177858",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/EnBQiFxVgAIj4RR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnBQiFxVgAIj4RR.jpg",
+						"url": "https://t.co/4DXB9vMOXB",
+						"display_url": "pic.twitter.com/4DXB9vMOXB",
+						"expanded_url": "https://twitter.com/1eem1nhowife/status/1328650452364234753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1328650436694270000,
+						"id_str": "1328650436694269953",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/EnBQiF3UYAExIEE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnBQiF3UYAExIEE.jpg",
+						"url": "https://t.co/4DXB9vMOXB",
+						"display_url": "pic.twitter.com/4DXB9vMOXB",
+						"expanded_url": "https://twitter.com/1eem1nhowife/status/1328650452364234753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 454,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 684,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 684,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1328650440188207000,
+						"id_str": "1328650440188207104",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/EnBQiS4VoAAKdwc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnBQiS4VoAAKdwc.jpg",
+						"url": "https://t.co/4DXB9vMOXB",
+						"display_url": "pic.twitter.com/4DXB9vMOXB",
+						"expanded_url": "https://twitter.com/1eem1nhowife/status/1328650452364234753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1160128451518423000,
+				"id_str": "1160128451518423042",
+				"name": "감자",
+				"screen_name": "1eem1nhowife",
+				"location": "SKZ STAYC",
+				"description": "#구독좌표",
+				"url": "https://t.co/ig4DMTSXBv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ig4DMTSXBv",
+								"expanded_url": "https://asked.kr/gamja1025",
+								"display_url": "asked.kr/gamja1025",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1234,
+				"friends_count": 1164,
+				"listed_count": 5,
+				"created_at": "Sat Aug 10 09:59:11 +0000 2019",
+				"favourites_count": 5449,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24003,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1326080138996375557/RxIx6_I8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326080138996375557/RxIx6_I8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1160128451518423042/1603639201",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 936,
+			"favorite_count": 383,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 63,
+		"favorite_count": 43,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "K/DA                      에스파 뮤비\n(둘다 지하철에 괴물형상)\n(여자)아이들            에스파 뮤비\n(검은색 손) https://t.co/splEf9WadY https://t.co/hQQIUon6iJ"
+	},
+	{
+		"created_at": "Tue Nov 17 11:53:48 +0000 2020",
+		"id": 1328651083531440000,
+		"id_str": "1328667652135342085",
+		"full_text": "원작자 인스타 게시물인데 에스파 느낌나지 않냐..? https://t.co/cag8UodM9D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1328651063138762800,
+					"id_str": "1328651063138762753",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/EnBRGjjUwAE6ASe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnBRGjjUwAE6ASe.jpg",
+					"url": "https://t.co/cag8UodM9D",
+					"display_url": "pic.twitter.com/cag8UodM9D",
+					"expanded_url": "https://twitter.com/1eem1nhowife/status/1328651083531440134/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1241,
+							"h": 1747,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328651063138762800,
+					"id_str": "1328651063138762753",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/EnBRGjjUwAE6ASe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnBRGjjUwAE6ASe.jpg",
+					"url": "https://t.co/cag8UodM9D",
+					"display_url": "pic.twitter.com/cag8UodM9D",
+					"expanded_url": "https://twitter.com/1eem1nhowife/status/1328651083531440134/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1241,
+							"h": 1747,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1328650452364234800,
+		"in_reply_to_status_id_str": "1328650452364234753",
+		"in_reply_to_user_id": 1160128451518423000,
+		"in_reply_to_user_id_str": "1160128451518423042",
+		"in_reply_to_screen_name": "1eem1nhowife",
+		"user": {
+			"id": 1160128451518423000,
+			"id_str": "1160128451518423042",
+			"name": "감자",
+			"screen_name": "1eem1nhowife",
+			"location": "SKZ STAYC",
+			"description": "#구독좌표",
+			"url": "https://t.co/ig4DMTSXBv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ig4DMTSXBv",
+							"expanded_url": "https://asked.kr/gamja1025",
+							"display_url": "asked.kr/gamja1025",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1234,
+			"friends_count": 1164,
+			"listed_count": 5,
+			"created_at": "Sat Aug 10 09:59:11 +0000 2019",
+			"favourites_count": 5449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24003,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326080138996375557/RxIx6_I8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326080138996375557/RxIx6_I8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1160128451518423042/1603639201",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "원작자 인스타 게시물인데 에스파 느낌나지 않냐..? https://t.co/cag8UodM9D"
+	},
+	{
+		"created_at": "Tue Nov 17 11:53:42 +0000 2020",
+		"id": 1328650452364234800,
+		"id_str": "1328667627657469952",
+		"full_text": "원작자                         에스파 뮤비 블랙맘바 https://t.co/4DXB9vMOXB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1328650434542616600,
+					"id_str": "1328650434542616576",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/EnBQh92UwAA6t_c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnBQh92UwAA6t_c.jpg",
+					"url": "https://t.co/4DXB9vMOXB",
+					"display_url": "pic.twitter.com/4DXB9vMOXB",
+					"expanded_url": "https://twitter.com/1eem1nhowife/status/1328650452364234753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 681,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 681,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328650434542616600,
+					"id_str": "1328650434542616576",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/EnBQh92UwAA6t_c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnBQh92UwAA6t_c.jpg",
+					"url": "https://t.co/4DXB9vMOXB",
+					"display_url": "pic.twitter.com/4DXB9vMOXB",
+					"expanded_url": "https://twitter.com/1eem1nhowife/status/1328650452364234753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 681,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 681,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1328650436669177900,
+					"id_str": "1328650436669177858",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/EnBQiFxVgAIj4RR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnBQiFxVgAIj4RR.jpg",
+					"url": "https://t.co/4DXB9vMOXB",
+					"display_url": "pic.twitter.com/4DXB9vMOXB",
+					"expanded_url": "https://twitter.com/1eem1nhowife/status/1328650452364234753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1328650436694270000,
+					"id_str": "1328650436694269953",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/EnBQiF3UYAExIEE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnBQiF3UYAExIEE.jpg",
+					"url": "https://t.co/4DXB9vMOXB",
+					"display_url": "pic.twitter.com/4DXB9vMOXB",
+					"expanded_url": "https://twitter.com/1eem1nhowife/status/1328650452364234753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 684,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 684,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1328650440188207000,
+					"id_str": "1328650440188207104",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/EnBQiS4VoAAKdwc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnBQiS4VoAAKdwc.jpg",
+					"url": "https://t.co/4DXB9vMOXB",
+					"display_url": "pic.twitter.com/4DXB9vMOXB",
+					"expanded_url": "https://twitter.com/1eem1nhowife/status/1328650452364234753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1160128451518423000,
+			"id_str": "1160128451518423042",
+			"name": "감자",
+			"screen_name": "1eem1nhowife",
+			"location": "SKZ STAYC",
+			"description": "#구독좌표",
+			"url": "https://t.co/ig4DMTSXBv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ig4DMTSXBv",
+							"expanded_url": "https://asked.kr/gamja1025",
+							"display_url": "asked.kr/gamja1025",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1234,
+			"friends_count": 1164,
+			"listed_count": 5,
+			"created_at": "Sat Aug 10 09:59:11 +0000 2019",
+			"favourites_count": 5449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24003,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326080138996375557/RxIx6_I8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326080138996375557/RxIx6_I8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1160128451518423042/1603639201",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 936,
+		"favorite_count": 383,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "원작자                         에스파 뮤비 블랙맘바 https://t.co/4DXB9vMOXB"
+	},
+	{
+		"created_at": "Tue Nov 17 11:43:37 +0000 2020",
+		"id": 1328062395995086800,
+		"id_str": "1328665089491103744",
+		"full_text": "한국의 문화적 동질성 때문에 문화자본이 학업과 계층성취에 끼치는 직접 영향력을 제한함. \n\n한국의 하위계층은 소득 높아지면 무엇보다 자녀 교육투자 우선 증가. 하위계층의 소득 개선으로 자녀의 학업 성취도도 개선 가능한 타국가 대비 상대적으로 괜찮은 정책 환경임. 3/3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1328062137936339000,
+		"in_reply_to_status_id_str": "1328062137936338944",
+		"in_reply_to_user_id": 3357881951,
+		"in_reply_to_user_id_str": "3357881951",
+		"in_reply_to_screen_name": "KimSovidence",
+		"user": {
+			"id": 3357881951,
+			"id_str": "3357881951",
+			"name": "Sociological Evidence",
+			"screen_name": "KimSovidence",
+			"location": "",
+			"description": "ChangHwan Kim, Sociology Professor, Specialized in labor markets, stratification, education, & Asian American studies",
+			"url": "https://t.co/TPYdhkbTzf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TPYdhkbTzf",
+							"expanded_url": "https://sovidence.tistory.com/",
+							"display_url": "sovidence.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5071,
+			"friends_count": 370,
+			"listed_count": 36,
+			"created_at": "Sat Jul 04 01:45:39 +0000 2015",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한국의 문화적 동질성 때문에 문화자본이 학업과 계층성취에 끼치는 직접 영향력을 제한함. \n\n한국의 하위계층은 소득 높아지면 무엇보다 자녀 교육투자 우선 증가. 하위계층의 소득 개선으로 자녀의 학업 성취도도 개선 가능한 타국가 대비 상대적으로 괜찮은 정책 환경임. 3/3"
+	},
+	{
+		"created_at": "Tue Nov 17 11:43:34 +0000 2020",
+		"id": 1328062137936339000,
+		"id_str": "1328665076165840896",
+		"full_text": "이에 반해 부모가 소유한 문화적 소유물, 독서 향유 정도, 문화적 소통 등으로 정의된 문화자본은 자녀의 학업성취에 긍정적인 영향. \n\n문화자본의 영향력이 이렇게 미묘하고, 문화활동의 영향력이 약한 이유 중 하나는 아마 한국의 계층별 문화격차가 질적차이가 아니라 양적차이이기 때문일 것. 2/",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1328062057686634500,
+		"in_reply_to_status_id_str": "1328062057686634500",
+		"in_reply_to_user_id": 3357881951,
+		"in_reply_to_user_id_str": "3357881951",
+		"in_reply_to_screen_name": "KimSovidence",
+		"user": {
+			"id": 3357881951,
+			"id_str": "3357881951",
+			"name": "Sociological Evidence",
+			"screen_name": "KimSovidence",
+			"location": "",
+			"description": "ChangHwan Kim, Sociology Professor, Specialized in labor markets, stratification, education, & Asian American studies",
+			"url": "https://t.co/TPYdhkbTzf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TPYdhkbTzf",
+							"expanded_url": "https://sovidence.tistory.com/",
+							"display_url": "sovidence.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5071,
+			"friends_count": 370,
+			"listed_count": 36,
+			"created_at": "Sat Jul 04 01:45:39 +0000 2015",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 116,
+		"favorite_count": 112,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이에 반해 부모가 소유한 문화적 소유물, 독서 향유 정도, 문화적 소통 등으로 정의된 문화자본은 자녀의 학업성취에 긍정적인 영향. \n\n문화자본의 영향력이 이렇게 미묘하고, 문화활동의 영향력이 약한 이유 중 하나는 아마 한국의 계층별 문화격차가 질적차이가 아니라 양적차이이기 때문일 것. 2/"
+	},
+	{
+		"created_at": "Tue Nov 17 11:43:19 +0000 2020",
+		"id": 1328062057686634500,
+		"id_str": "1328665014312468481",
+		"full_text": "흙수저... 네이트판 글 때문에 문화자본 논의가 많은데, 지금까지의 연구에 따르면 외국과 달리 \"문화활동\"으로 규정된 문화자본은 한국에서 학업성취도에 오히려 부정적 영향을 끼침. \n\n문화활동 많이 하는 상위계층 자녀 성적은 올라가는게 아니라 오히려 하락. 1/ https://t.co/W7pIj6MFQI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W7pIj6MFQI",
+					"expanded_url": "https://sovidence.tistory.com/1114",
+					"display_url": "sovidence.tistory.com/1114",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3357881951,
+			"id_str": "3357881951",
+			"name": "Sociological Evidence",
+			"screen_name": "KimSovidence",
+			"location": "",
+			"description": "ChangHwan Kim, Sociology Professor, Specialized in labor markets, stratification, education, & Asian American studies",
+			"url": "https://t.co/TPYdhkbTzf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TPYdhkbTzf",
+							"expanded_url": "https://sovidence.tistory.com/",
+							"display_url": "sovidence.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5071,
+			"friends_count": 370,
+			"listed_count": 36,
+			"created_at": "Sat Jul 04 01:45:39 +0000 2015",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 338,
+		"favorite_count": 415,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "흙수저... 네이트판 글 때문에 문화자본 논의가 많은데, 지금까지의 연구에 따르면 외국과 달리 \"문화활동\"으로 규정된 문화자본은 한국에서 학업성취도에 오히려 부정적 영향을 끼침. \n\n문화활동 많이 하는 상위계층 자녀 성적은 올라가는게 아니라 오히려 하락. 1/ https://t.co/W7pIj6MFQI"
+	},
+	{
+		"created_at": "Tue Nov 17 11:36:46 +0000 2020",
+		"id": 1328663366945153000,
+		"id_str": "1328663366945153025",
+		"full_text": "#Melon #멜론 #비디오\n'Black Mamba'로 찾아온 aespa 멜론 인사 영상 (01:02)\nhttps://t.co/2Ms36WFKXG\n#에스파 #aespa ##æspa https://t.co/wMLQNgFeQE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "비디오",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						95,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2Ms36WFKXG",
+					"expanded_url": "https://vod.melon.com/video/detail2.htm?mvId=50228711&menuId=27040101",
+					"display_url": "vod.melon.com/video/detail2.…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1328663365925867500,
+					"id_str": "1328663365925867524",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EnBcSrAWEAQ-8ug.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnBcSrAWEAQ-8ug.jpg",
+					"url": "https://t.co/wMLQNgFeQE",
+					"display_url": "pic.twitter.com/wMLQNgFeQE",
+					"expanded_url": "https://twitter.com/fromminn/status/1328663366945153025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328663365925867500,
+					"id_str": "1328663365925867524",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EnBcSrAWEAQ-8ug.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnBcSrAWEAQ-8ug.jpg",
+					"url": "https://t.co/wMLQNgFeQE",
+					"display_url": "pic.twitter.com/wMLQNgFeQE",
+					"expanded_url": "https://twitter.com/fromminn/status/1328663366945153025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1022,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #비디오\n'Black Mamba'로 찾아온 aespa 멜론 인사 영상 (01:02)\nhttps://t.co/2Ms36WFKXG\n#에스파 #aespa ##æspa https://t.co/wMLQNgFeQE"
+	},
+	{
+		"created_at": "Tue Nov 17 11:36:40 +0000 2020",
+		"id": 1328663342156836900,
+		"id_str": "1328663342156836865",
+		"full_text": "#Melon #멜론 #비디오\n[MV]Black Mamba (03:50)\nhttps://t.co/zRMpa95jUQ\n#에스파 #aespa ##æspa https://t.co/a3QsBTjWqy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "비디오",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						77,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zRMpa95jUQ",
+					"expanded_url": "https://vod.melon.com/video/detail2.htm?mvId=50228708&menuId=27040101",
+					"display_url": "vod.melon.com/video/detail2.…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1328663341057912800,
+					"id_str": "1328663341057912832",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EnBcROXXMAAhKO2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnBcROXXMAAhKO2.jpg",
+					"url": "https://t.co/a3QsBTjWqy",
+					"display_url": "pic.twitter.com/a3QsBTjWqy",
+					"expanded_url": "https://twitter.com/fromminn/status/1328663342156836865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328663341057912800,
+					"id_str": "1328663341057912832",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EnBcROXXMAAhKO2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnBcROXXMAAhKO2.jpg",
+					"url": "https://t.co/a3QsBTjWqy",
+					"display_url": "pic.twitter.com/a3QsBTjWqy",
+					"expanded_url": "https://twitter.com/fromminn/status/1328663342156836865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 1022,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283972466222620672/22eOS-n__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "#Melon #멜론 #비디오\n[MV]Black Mamba (03:50)\nhttps://t.co/zRMpa95jUQ\n#에스파 #aespa ##æspa https://t.co/a3QsBTjWqy"
+	},
+	{
+		"created_at": "Tue Nov 17 11:14:56 +0000 2020",
+		"id": 1328655382084939800,
+		"id_str": "1328657871345692672",
+		"full_text": "[인터뷰] aespa, 지금 'Black Mamba'로 입덕하면 데뷔팬!\n\n👉https://t.co/mIOiTRiAnX\n\n#KARINA #카리나\n#GISELLE #지젤\n#WINTER #윈터\n#NINGNING #닝닝\n#aespa #æspa #에스파",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KARINA",
+					"indices": [
+						68,
+						75
+					]
+				},
+				{
+					"text": "카리나",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"text": "지젤",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						94,
+						101
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						106,
+						115
+					]
+				},
+				{
+					"text": "닝닝",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						133,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mIOiTRiAnX",
+					"expanded_url": "http://naver.me/5YnKin20",
+					"display_url": "naver.me/5YnKin20",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 417640,
+			"friends_count": 1,
+			"listed_count": 1064,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 63,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3738,
+		"favorite_count": 16545,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[인터뷰] aespa, 지금 'Black Mamba'로 입덕하면 데뷔팬!\n\n👉https://t.co/mIOiTRiAnX\n\n#KARINA #카리나\n#GISELLE #지젤\n#WINTER #윈터\n#NINGNING #닝닝\n#aespa #æspa #에스파"
+	},
+	{
+		"created_at": "Tue Nov 17 11:14:47 +0000 2020",
+		"id": 1328654450366451700,
+		"id_str": "1328657832984645635",
+		"full_text": "[VIDEO] 📹CHUNG HA Vlog \n\n'C'HUNG HA RANGㅣEP 12. あの世のテンション！チョンハの香水作り\n\n▶ https://t.co/NMKvwIydHN\n\n#청하 #CHUNGHA #チョンハ\n#별하랑 #BYULHARANG\n#시청하랑 #SEECHUNGHARANG https://t.co/hgKy30CWtZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"text": "チョンハ",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						120,
+						131
+					]
+				},
+				{
+					"text": "시청하랑",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "SEECHUNGHARANG",
+					"indices": [
+						138,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NMKvwIydHN",
+					"expanded_url": "https://bit.ly/3oHFapx",
+					"display_url": "bit.ly/3oHFapx",
+					"indices": [
+						71,
+						94
+					]
+				},
+				{
+					"url": "https://t.co/hgKy30CWtZ",
+					"expanded_url": "https://twitter.com/chungha_mnhent/status/1328654116546105344",
+					"display_url": "twitter.com/chungha_mnhent…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 986882185842966500,
+			"id_str": "986882185842966528",
+			"name": "CHUNG HA JAPAN OFFICIAL",
+			"screen_name": "chungha_japan",
+			"location": "",
+			"description": "#CHUNGHA JAPAN OFFICIAL Twitter",
+			"url": "https://t.co/MasTugaSJD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MasTugaSJD",
+							"expanded_url": "http://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16785,
+			"friends_count": 2,
+			"listed_count": 158,
+			"created_at": "Thu Apr 19 08:20:23 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988221974169059328/l3d7G6Fx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988221974169059328/l3d7G6Fx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/986882185842966528/1603170240",
+			"profile_link_color": "BF83AB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1328654116546105300,
+		"quoted_status_id_str": "1328654116546105344",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hgKy30CWtZ",
+			"expanded": "https://twitter.com/chungha_mnhent/status/1328654116546105344",
+			"display": "twitter.com/chungha_mnhent…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 17 11:00:01 +0000 2020",
+			"id": 1328654116546105300,
+			"id_str": "1328654116546105344",
+			"full_text": "[VIDEO] 📹CHUNG HA Vlog\n\n'C'HUNG HA RANGㅣEP 12. 저세상 텐션! 청하의 향수 만들기\n\n▶ https://t.co/FKN4fjpFap\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#시청하랑 #SEECHUNGHARANG https://t.co/BGpHwcWA4h",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				145
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "청하",
+						"indices": [
+							94,
+							97
+						]
+					},
+					{
+						"text": "CHUNGHA",
+						"indices": [
+							98,
+							106
+						]
+					},
+					{
+						"text": "별하랑",
+						"indices": [
+							107,
+							111
+						]
+					},
+					{
+						"text": "BYULHARANG",
+						"indices": [
+							112,
+							123
+						]
+					},
+					{
+						"text": "시청하랑",
+						"indices": [
+							124,
+							129
+						]
+					},
+					{
+						"text": "SEECHUNGHARANG",
+						"indices": [
+							130,
+							145
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FKN4fjpFap",
+						"expanded_url": "https://bit.ly/3oHFapx",
+						"display_url": "bit.ly/3oHFapx",
+						"indices": [
+							69,
+							92
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1326089029159276500,
+						"id_str": "1326089029159276544",
+						"indices": [
+							146,
+							169
+						],
+						"media_url": "http://pbs.twimg.com/media/Emc28jOU0AAGBEC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Emc28jOU0AAGBEC.jpg",
+						"url": "https://t.co/BGpHwcWA4h",
+						"display_url": "pic.twitter.com/BGpHwcWA4h",
+						"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1328654116546105344/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1326089029159276500,
+						"id_str": "1326089029159276544",
+						"indices": [
+							146,
+							169
+						],
+						"media_url": "http://pbs.twimg.com/media/Emc28jOU0AAGBEC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Emc28jOU0AAGBEC.jpg",
+						"url": "https://t.co/BGpHwcWA4h",
+						"display_url": "pic.twitter.com/BGpHwcWA4h",
+						"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1328654116546105344/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1097557125742489600,
+				"id_str": "1097557125742489600",
+				"name": "CHUNG HA",
+				"screen_name": "CHUNGHA_MNHent",
+				"location": "",
+				"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/ZHcd08tZVb",
+				"url": "https://t.co/reTg513UFX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/reTg513UFX",
+								"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+								"display_url": "cafe.daum.net/MNH-Chungha",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ZHcd08tZVb",
+								"expanded_url": "https://bit.ly/2ZZWMlN",
+								"display_url": "bit.ly/2ZZWMlN",
+								"indices": [
+									31,
+									54
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 285034,
+				"friends_count": 0,
+				"listed_count": 1738,
+				"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1296,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 189,
+			"favorite_count": 816,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 6,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[VIDEO] 📹CHUNG HA Vlog \n\n'C'HUNG HA RANGㅣEP 12. あの世のテンション！チョンハの香水作り\n\n▶ https://t.co/NMKvwIydHN\n\n#청하 #CHUNGHA #チョンハ\n#별하랑 #BYULHARANG\n#시청하랑 #SEECHUNGHARANG https://t.co/hgKy30CWtZ"
+	},
+	{
+		"created_at": "Tue Nov 17 11:14:38 +0000 2020",
+		"id": 1328654116546105300,
+		"id_str": "1328657794745200640",
+		"full_text": "[VIDEO] 📹CHUNG HA Vlog\n\n'C'HUNG HA RANGㅣEP 12. 저세상 텐션! 청하의 향수 만들기\n\n▶ https://t.co/FKN4fjpFap\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#시청하랑 #SEECHUNGHARANG https://t.co/BGpHwcWA4h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						98,
+						106
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						112,
+						123
+					]
+				},
+				{
+					"text": "시청하랑",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "SEECHUNGHARANG",
+					"indices": [
+						130,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FKN4fjpFap",
+					"expanded_url": "https://bit.ly/3oHFapx",
+					"display_url": "bit.ly/3oHFapx",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326089029159276500,
+					"id_str": "1326089029159276544",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/Emc28jOU0AAGBEC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emc28jOU0AAGBEC.jpg",
+					"url": "https://t.co/BGpHwcWA4h",
+					"display_url": "pic.twitter.com/BGpHwcWA4h",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1328654116546105344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326089029159276500,
+					"id_str": "1326089029159276544",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/Emc28jOU0AAGBEC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emc28jOU0AAGBEC.jpg",
+					"url": "https://t.co/BGpHwcWA4h",
+					"display_url": "pic.twitter.com/BGpHwcWA4h",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1328654116546105344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/ZHcd08tZVb",
+			"url": "https://t.co/reTg513UFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg513UFX",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZHcd08tZVb",
+							"expanded_url": "https://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								31,
+								54
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 285034,
+			"friends_count": 0,
+			"listed_count": 1738,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273631595929329665/v0jIW9nK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1592492412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 189,
+		"favorite_count": 816,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] 📹CHUNG HA Vlog\n\n'C'HUNG HA RANGㅣEP 12. 저세상 텐션! 청하의 향수 만들기\n\n▶ https://t.co/FKN4fjpFap\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#시청하랑 #SEECHUNGHARANG https://t.co/BGpHwcWA4h"
+	},
+	{
 		"created_at": "Tue Nov 17 11:02:51 +0000 2020",
 		"id": 1328654829103837200,
 		"id_str": "1328654829103837184",
