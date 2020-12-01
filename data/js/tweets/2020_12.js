@@ -1,6 +1,795 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 01 10:14:59 +0000 2020",
+		"id": 1333712499686850600,
+		"id_str": "1333716214196154368",
+		"full_text": "아이유가 보내온\n2021학년도 수능 응원 메시지 도착💌 \n\n유난히 힘들었던 올 한 해 동안\n열심히 노력한\n수험생 여러분들 모두에게\n후회 없는 좋은 결과가 있길 바라요❤️\n화이팅!\n\n✏️ https://t.co/tU2rVCkMhn https://t.co/pXGflEnXOz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tU2rVCkMhn",
+					"expanded_url": "https://youtu.be/CCDuKvmYf4E",
+					"display_url": "youtu.be/CCDuKvmYf4E",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1333712490895589400,
+					"id_str": "1333712490895589378",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EoJMcbRVQAI_xxf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoJMcbRVQAI_xxf.jpg",
+					"url": "https://t.co/pXGflEnXOz",
+					"display_url": "pic.twitter.com/pXGflEnXOz",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1333712499686850561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1333712490895589400,
+					"id_str": "1333712490895589378",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EoJMcbRVQAI_xxf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoJMcbRVQAI_xxf.jpg",
+					"url": "https://t.co/pXGflEnXOz",
+					"display_url": "pic.twitter.com/pXGflEnXOz",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1333712499686850561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 771525,
+			"friends_count": 0,
+			"listed_count": 1319,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257973237490712576/gEVnX19n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257973237490712576/gEVnX19n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1574070514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1579,
+		"favorite_count": 7435,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이유가 보내온\n2021학년도 수능 응원 메시지 도착💌 \n\n유난히 힘들었던 올 한 해 동안\n열심히 노력한\n수험생 여러분들 모두에게\n후회 없는 좋은 결과가 있길 바라요❤️\n화이팅!\n\n✏️ https://t.co/tU2rVCkMhn https://t.co/pXGflEnXOz"
+	},
+	{
+		"created_at": "Tue Dec 01 10:14:54 +0000 2020",
+		"id": 1333699941609345000,
+		"id_str": "1333716192721326080",
+		"full_text": "🌟SMing🌟 보아 정규 10집 발매 기념 스테이션!\n보아의 10집 앨범 코멘터리🗣 무려 🖐🖐장의 앨범이 나오기까지 보아가 믿고 의지한 것들은?\n\n📎SMing 보아 편 2화\nhttps://t.co/6Q9uKPsu9h\n\n#Melon #멜론 #스테이션 #SMing #보아 #BoA #BoA20th @BoA_Official https://t.co/LXYlnBwUG0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "스테이션",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "SMing",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "BoA20th",
+					"indices": [
+						155,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BoA_Official",
+					"name": "BoA Official",
+					"id": 1288694479197581300,
+					"id_str": "1288694479197581312",
+					"indices": [
+						164,
+						177
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6Q9uKPsu9h",
+					"expanded_url": "http://kko.to/4fAJs2sDM",
+					"display_url": "kko.to/4fAJs2sDM",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1333699897619402800,
+					"id_str": "1333699897619402752",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EoJA_ZqUUAAtN9Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoJA_ZqUUAAtN9Y.jpg",
+					"url": "https://t.co/LXYlnBwUG0",
+					"display_url": "pic.twitter.com/LXYlnBwUG0",
+					"expanded_url": "https://twitter.com/melon/status/1333699941609345027/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1333699897619402800,
+					"id_str": "1333699897619402752",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EoJA_ZqUUAAtN9Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoJA_ZqUUAAtN9Y.jpg",
+					"url": "https://t.co/LXYlnBwUG0",
+					"display_url": "pic.twitter.com/LXYlnBwUG0",
+					"expanded_url": "https://twitter.com/melon/status/1333699941609345027/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118953366,
+			"id_str": "118953366",
+			"name": "Melon",
+			"screen_name": "melon",
+			"location": "Seoul, Korea",
+			"description": "음악이 필요한 순간 '멜론'",
+			"url": "http://t.co/Wo8qZOx1KA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Wo8qZOx1KA",
+							"expanded_url": "http://www.melon.com",
+							"display_url": "melon.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77397,
+			"friends_count": 46,
+			"listed_count": 586,
+			"created_at": "Tue Mar 02 06:13:44 +0000 2010",
+			"favourites_count": 143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118953366/1592531049",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 156,
+		"favorite_count": 372,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌟SMing🌟 보아 정규 10집 발매 기념 스테이션!\n보아의 10집 앨범 코멘터리🗣 무려 🖐🖐장의 앨범이 나오기까지 보아가 믿고 의지한 것들은?\n\n📎SMing 보아 편 2화\nhttps://t.co/6Q9uKPsu9h\n\n#Melon #멜론 #스테이션 #SMing #보아 #BoA #BoA20th @BoA_Official https://t.co/LXYlnBwUG0"
+	},
+	{
+		"created_at": "Tue Dec 01 10:14:45 +0000 2020",
+		"id": 1333704821979877400,
+		"id_str": "1333716154406367234",
+		"full_text": ".@BoA_avex_staff @BoAkwon \n\nニューアルバム『BETTER』を今すぐチェック💖\n\n https://t.co/hOviScVVSS https://t.co/Y7ORYa1Ujr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BoA_avex_staff",
+					"name": "BoA JP STAFF",
+					"id": 394544732,
+					"id_str": "394544732",
+					"indices": [
+						1,
+						16
+					]
+				},
+				{
+					"screen_name": "BoAkwon",
+					"name": "BoA",
+					"id": 169927844,
+					"id_str": "169927844",
+					"indices": [
+						17,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hOviScVVSS",
+					"expanded_url": "https://apple.co/2Vijz9W",
+					"display_url": "apple.co/2Vijz9W",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1333704769702129700,
+					"id_str": "1333704769702129666",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EoJFdpOXYAAW_SB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoJFdpOXYAAW_SB.jpg",
+					"url": "https://t.co/Y7ORYa1Ujr",
+					"display_url": "pic.twitter.com/Y7ORYa1Ujr",
+					"expanded_url": "https://twitter.com/AppleMusicJapan/status/1333704821979877379/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1333704769702129700,
+					"id_str": "1333704769702129666",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/EoJFdpOXYAAW_SB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoJFdpOXYAAW_SB.jpg",
+					"url": "https://t.co/Y7ORYa1Ujr",
+					"display_url": "pic.twitter.com/Y7ORYa1Ujr",
+					"expanded_url": "https://twitter.com/AppleMusicJapan/status/1333704821979877379/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 16851,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1333704769702129666/vid/640x360/nKLEZjoQqv_w4L0d.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1333704769702129666/pl/eQiGpDsc0KPG4Rta.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1333704769702129666/vid/480x270/AmbA1rVjxqIO2Rit.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1333704769702129666/vid/1280x720/nYkDaSh-DNwlEub9.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3156009252,
+			"id_str": "3156009252",
+			"name": "Apple Music Japan",
+			"screen_name": "AppleMusicJapan",
+			"location": "",
+			"description": "音楽の楽しみ方のすべてを一つに。",
+			"url": "http://t.co/PlNpH897yT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/PlNpH897yT",
+							"expanded_url": "http://apple.com/jp/music",
+							"display_url": "apple.com/jp/music",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79894,
+			"friends_count": 14,
+			"listed_count": 653,
+			"created_at": "Tue Apr 14 12:51:17 +0000 2015",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306029440145584128/Ykxqjhoi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306029440145584128/Ykxqjhoi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3156009252/1600216658",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 150,
+		"favorite_count": 397,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": ".@BoA_avex_staff @BoAkwon \n\nニューアルバム『BETTER』を今すぐチェック💖\n\n https://t.co/hOviScVVSS https://t.co/Y7ORYa1Ujr"
+	},
+	{
+		"created_at": "Tue Dec 01 10:14:38 +0000 2020",
+		"id": 1333706345967599600,
+		"id_str": "1333716124601638914",
+		"full_text": "&lt;Nobody Talks To BoA - 모두가 그녀에게 말을 걸지 않아&gt;\nEP5. Party for one\n\n🎬 https://t.co/ryKQJmYFsU\n\n#BoA #보아\n#Nobody_Talks_To_BoA \n#모두가_그녀에게_말을_걸지_않아",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "Nobody_Talks_To_BoA",
+					"indices": [
+						104,
+						124
+					]
+				},
+				{
+					"text": "모두가_그녀에게_말을_걸지_않아",
+					"indices": [
+						126,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ryKQJmYFsU",
+					"expanded_url": "https://www.vlive.tv/post/0-20066405",
+					"display_url": "vlive.tv/post/0-20066405",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38070,
+			"friends_count": 1,
+			"listed_count": 120,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 232,
+		"favorite_count": 2254,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;Nobody Talks To BoA - 모두가 그녀에게 말을 걸지 않아&gt;\nEP5. Party for one\n\n🎬 https://t.co/ryKQJmYFsU\n\n#BoA #보아\n#Nobody_Talks_To_BoA \n#모두가_그녀에게_말을_걸지_않아"
+	},
+	{
 		"created_at": "Tue Dec 01 09:31:06 +0000 2020",
 		"id": 1333705171969380400,
 		"id_str": "1333705171969380353",
