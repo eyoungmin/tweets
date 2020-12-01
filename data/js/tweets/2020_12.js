@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 01 08:01:17 +0000 2020",
+		"id": 1333682570106523600,
+		"id_str": "1333682570106523648",
+		"full_text": "\"이정도까진 아니었군요 tvN\"\n\n웃음포인트 😃😃😃",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73319,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "\"이정도까진 아니었군요 tvN\"\n\n웃음포인트 😃😃😃"
+	},
+	{
+		"created_at": "Tue Dec 01 08:00:38 +0000 2020",
+		"id": 1332642245460181000,
+		"id_str": "1333682404129611777",
+		"full_text": "넠살씨 역시 성동애에 개방적이시네요 https://t.co/TBNd2sNbsq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1332642031663939600,
+					"id_str": "1332642031663939585",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1332642031663939585/pu/img/6KPH7fmxtM1vqUPC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1332642031663939585/pu/img/6KPH7fmxtM1vqUPC.jpg",
+					"url": "https://t.co/TBNd2sNbsq",
+					"display_url": "pic.twitter.com/TBNd2sNbsq",
+					"expanded_url": "https://twitter.com/I_Demeanor/status/1332642245460180995/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1332642031663939600,
+					"id_str": "1332642031663939585",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1332642031663939585/pu/img/6KPH7fmxtM1vqUPC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1332642031663939585/pu/img/6KPH7fmxtM1vqUPC.jpg",
+					"url": "https://t.co/TBNd2sNbsq",
+					"display_url": "pic.twitter.com/TBNd2sNbsq",
+					"expanded_url": "https://twitter.com/I_Demeanor/status/1332642245460180995/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 21833,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1332642031663939585/pu/pl/Y57bMEcENsHopG29.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1332642031663939585/pu/vid/480x270/TM-8R6W39DfqnKpw.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1332642031663939585/pu/vid/1280x720/REWxWAor4zO9QWJ5.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1332642031663939585/pu/vid/640x360/S9lyIS9FvTPE6RLw.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149866681897930800,
+			"id_str": "1149866681897930752",
+			"name": "렷",
+			"screen_name": "I_Demeanor",
+			"location": "",
+			"description": "#BoA BETTER 2020.12.01",
+			"url": "https://t.co/zmnFSqGSxy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zmnFSqGSxy",
+							"expanded_url": "http://peing.net/ko/i_demeanor",
+							"display_url": "peing.net/ko/i_demeanor",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7129,
+			"friends_count": 104,
+			"listed_count": 22,
+			"created_at": "Sat Jul 13 02:22:35 +0000 2019",
+			"favourites_count": 3512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1333570823966187521/V33_fXvf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1333570823966187521/V33_fXvf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1149866681897930752/1606783036",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9756,
+		"favorite_count": 7252,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "넠살씨 역시 성동애에 개방적이시네요 https://t.co/TBNd2sNbsq"
+	},
+	{
 		"created_at": "Tue Dec 01 06:06:34 +0000 2020",
 		"id": 1333653700565487600,
 		"id_str": "1333653700565487620",
