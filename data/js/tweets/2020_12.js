@@ -1,6 +1,195 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 02 15:14:58 +0000 2020",
+		"id": 1334150580214714400,
+		"id_str": "1334154093955330052",
+		"full_text": "오빛의 응원 덕분에 ‘Why Not?’과 ‘Star’가 큰 사랑을 받았어요❤️ 고마워요, 오빛💫 #이달의소녀 와 [12:00]을 향해 보내 주신 사랑에 감사한 마음을 표현하고자 스페셜 활동을 준비했으니 하나된 ‘목소리’로 후속 활동도 응원해 주세요!\n\n#LOONA https://t.co/vJlxrVgLW0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						141,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334150572522369000,
+					"id_str": "1334150572522369024",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EoPa4IgUcAA1h18.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoPa4IgUcAA1h18.jpg",
+					"url": "https://t.co/vJlxrVgLW0",
+					"display_url": "pic.twitter.com/vJlxrVgLW0",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1334150580214714368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 811,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334150572522369000,
+					"id_str": "1334150572522369024",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EoPa4IgUcAA1h18.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoPa4IgUcAA1h18.jpg",
+					"url": "https://t.co/vJlxrVgLW0",
+					"display_url": "pic.twitter.com/vJlxrVgLW0",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1334150580214714368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 811,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 590872,
+			"friends_count": 0,
+			"listed_count": 6038,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3680,
+		"favorite_count": 11401,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오빛의 응원 덕분에 ‘Why Not?’과 ‘Star’가 큰 사랑을 받았어요❤️ 고마워요, 오빛💫 #이달의소녀 와 [12:00]을 향해 보내 주신 사랑에 감사한 마음을 표현하고자 스페셜 활동을 준비했으니 하나된 ‘목소리’로 후속 활동도 응원해 주세요!\n\n#LOONA https://t.co/vJlxrVgLW0"
+	},
+	{
 		"created_at": "Wed Dec 02 14:45:36 +0000 2020",
 		"id": 1334143217084690400,
 		"id_str": "1334146707597168640",
