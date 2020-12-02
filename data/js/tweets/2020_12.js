@@ -1,6 +1,859 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 02 03:27:56 +0000 2020",
+		"id": 1333969135257022500,
+		"id_str": "1333976166533881856",
+		"full_text": "♫ #VOLUME_UP\n#스타트업 scene.29\n\n귓가에 스쳐만 가도\n가슴이 떨리는 \n❝두 글자❞는 웬디💙\n\n⏩ 스타트업 OST Part.11 웬디 (WENDY) - 두 글자\n🎵 음원 : https://t.co/ycX4AKOpcX\n\n#스타트업OST #두글자 #웬디 #WENDY #배수지 #남주혁 #김선호 #강한나 https://t.co/yTGoiw6nEJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VOLUME_UP",
+					"indices": [
+						2,
+						12
+					]
+				},
+				{
+					"text": "스타트업",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "스타트업OST",
+					"indices": [
+						131,
+						139
+					]
+				},
+				{
+					"text": "두글자",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "배수지",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "남주혁",
+					"indices": [
+						161,
+						165
+					]
+				},
+				{
+					"text": "김선호",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "강한나",
+					"indices": [
+						171,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ycX4AKOpcX",
+					"expanded_url": "http://lnk.to/startup-ost-11",
+					"display_url": "lnk.to/startup-ost-11",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1333957358825865200,
+					"id_str": "1333957358825865216",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1333957358825865216/img/ZMb3zfn4qVLmdxEj.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1333957358825865216/img/ZMb3zfn4qVLmdxEj.jpg",
+					"url": "https://t.co/yTGoiw6nEJ",
+					"display_url": "pic.twitter.com/yTGoiw6nEJ",
+					"expanded_url": "https://twitter.com/vlending/status/1333969135257022464/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1333957358825865200,
+					"id_str": "1333957358825865216",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1333957358825865216/img/ZMb3zfn4qVLmdxEj.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1333957358825865216/img/ZMb3zfn4qVLmdxEj.jpg",
+					"url": "https://t.co/yTGoiw6nEJ",
+					"display_url": "pic.twitter.com/yTGoiw6nEJ",
+					"expanded_url": "https://twitter.com/vlending/status/1333969135257022464/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 49508,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1333957358825865216/vid/640x360/bdEAhAQScuO5JL5S.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1333957358825865216/pl/Y3Ny577Y42v1JmUY.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1333957358825865216/vid/1280x720/V85-35ncc-5wrMl0.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1333957358825865216/vid/480x270/GNedKyPUU5CsvI9V.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 875207914503364600,
+			"id_str": "875207914503364609",
+			"name": "VLENDING (블렌딩)",
+			"screen_name": "vlending",
+			"location": "",
+			"description": "'보는 음악, 함께하는 음악' 블렌딩은 드라마 OST, 예능 음원, Kpop, 인디 아티스트 음원을 제작하고 유통합니다.",
+			"url": "https://t.co/Qa4COCxXM9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qa4COCxXM9",
+							"expanded_url": "http://youtube.com/vlending",
+							"display_url": "youtube.com/vlending",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3286,
+			"friends_count": 13,
+			"listed_count": 11,
+			"created_at": "Thu Jun 15 04:26:42 +0000 2017",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1069,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194910045206499333/ZPa5QJXO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194910045206499333/ZPa5QJXO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/875207914503364609/1602039530",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 184,
+		"favorite_count": 343,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "♫ #VOLUME_UP\n#스타트업 scene.29\n\n귓가에 스쳐만 가도\n가슴이 떨리는 \n❝두 글자❞는 웬디💙\n\n⏩ 스타트업 OST Part.11 웬디 (WENDY) - 두 글자\n🎵 음원 : https://t.co/ycX4AKOpcX\n\n#스타트업OST #두글자 #웬디 #WENDY #배수지 #남주혁 #김선호 #강한나 https://t.co/yTGoiw6nEJ"
+	},
+	{
+		"created_at": "Wed Dec 02 03:23:47 +0000 2020",
+		"id": 1333975120210256000,
+		"id_str": "1333975120210255875",
+		"full_text": "#뉴닉 #NEWNEEK\n🦔 MINN 뉴니커, 오랜만이에요!\nhttps://t.co/IKAvtOudNc\n#미디어 #뉴스레터 #Newsletter",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뉴닉",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "NEWNEEK",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "미디어",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "뉴스레터",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						68,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IKAvtOudNc",
+					"expanded_url": "https://notifier.in/item/cd94dtt3hvzvydnzoos1525jx1hgjkv6/2281574.html",
+					"display_url": "notifier.in/item/cd94dtt3h…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73371,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#뉴닉 #NEWNEEK\n🦔 MINN 뉴니커, 오랜만이에요!\nhttps://t.co/IKAvtOudNc\n#미디어 #뉴스레터 #Newsletter"
+	},
+	{
+		"created_at": "Wed Dec 02 03:14:40 +0000 2020",
+		"id": 1333966470351503400,
+		"id_str": "1333972828425756673",
+		"full_text": "에스파 'Black Mamba', 빌보드 글로벌 200 차트 45계단 상승! 2주 연속 차트인 성공!\n중국 QQ뮤직, 쿠워뮤직 주간차트도 2주 연속 1위!\n\n#aespa #æspa #에스파\n#BlackMamba",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "BlackMamba",
+					"indices": [
+						106,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1333966467654590500,
+		"in_reply_to_status_id_str": "1333966467654590464",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 566651,
+			"friends_count": 1,
+			"listed_count": 1737,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 613,
+		"favorite_count": 5033,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "에스파 'Black Mamba', 빌보드 글로벌 200 차트 45계단 상승! 2주 연속 차트인 성공!\n중국 QQ뮤직, 쿠워뮤직 주간차트도 2주 연속 1위!\n\n#aespa #æspa #에스파\n#BlackMamba"
+	},
+	{
+		"created_at": "Wed Dec 02 03:14:39 +0000 2020",
+		"id": 1333972824004976600,
+		"id_str": "1333972824004976640",
+		"full_text": "이달의소녀탐구 #660 (LOONA TV #660)\nhttps://t.co/kzbk6dE3zO\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						60,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kzbk6dE3zO",
+					"expanded_url": "https://youtu.be/72ilaUPxEr8",
+					"display_url": "youtu.be/72ilaUPxEr8",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73371,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이달의소녀탐구 #660 (LOONA TV #660)\nhttps://t.co/kzbk6dE3zO\n#이달의소녀 #LOONA"
+	},
+	{
+		"created_at": "Wed Dec 02 03:14:37 +0000 2020",
+		"id": 1333966467654590500,
+		"id_str": "1333972815297601536",
+		"full_text": "aespa ‘Black Mamba’ steps up 45 rankings higher on Billboard Global 200 Chart,\nentering the chart for two consecutive weeks!\n&amp; ranks NO.1 on ‘QQ Music, Kuwo Music’ for two consecutive weeks!\n\n#aespa #æspa #에스파\n#BlackMamba https://t.co/m7yT3v3Ffu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						196,
+						202
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						203,
+						208
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						209,
+						213
+					]
+				},
+				{
+					"text": "BlackMamba",
+					"indices": [
+						214,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1333959134312505300,
+					"id_str": "1333959134312505345",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EoMsw9mVoAEGAsj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoMsw9mVoAEGAsj.jpg",
+					"url": "https://t.co/m7yT3v3Ffu",
+					"display_url": "pic.twitter.com/m7yT3v3Ffu",
+					"expanded_url": "https://twitter.com/aespa_official/status/1333966467654590464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1333959134312505300,
+					"id_str": "1333959134312505345",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EoMsw9mVoAEGAsj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoMsw9mVoAEGAsj.jpg",
+					"url": "https://t.co/m7yT3v3Ffu",
+					"display_url": "pic.twitter.com/m7yT3v3Ffu",
+					"expanded_url": "https://twitter.com/aespa_official/status/1333966467654590464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 566651,
+			"friends_count": 1,
+			"listed_count": 1737,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3869,
+		"favorite_count": 19984,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa ‘Black Mamba’ steps up 45 rankings higher on Billboard Global 200 Chart,\nentering the chart for two consecutive weeks!\n&amp; ranks NO.1 on ‘QQ Music, Kuwo Music’ for two consecutive weeks!\n\n#aespa #æspa #에스파\n#BlackMamba https://t.co/m7yT3v3Ffu"
+	},
+	{
 		"created_at": "Wed Dec 02 03:00:46 +0000 2020",
 		"id": 1333969328434262000,
 		"id_str": "1333969328434262017",
