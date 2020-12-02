@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 02 16:14:37 +0000 2020",
+		"id": 1334157879050465300,
+		"id_str": "1334169109119053833",
+		"full_text": "[NOTICE] 청하's 별★별 라디오 첫 번째 밤 \n별의 별 숙제 도착!📝\n\n숙제 확인하러 가기 \n👉https://t.co/dNTVcquwgr\n\n#청하 #CHUNGHA \n#별하랑 #BYULHARANG\n#MEMBERSHIP_ONLY\n#BHR_2nd_Only 💚💙💜 \n#미나가_만들어준_장난감 #청하는_숙제중 https://t.co/pfOFkYzgY0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						101,
+						112
+					]
+				},
+				{
+					"text": "MEMBERSHIP_ONLY",
+					"indices": [
+						113,
+						129
+					]
+				},
+				{
+					"text": "BHR_2nd_Only",
+					"indices": [
+						130,
+						143
+					]
+				},
+				{
+					"text": "미나가_만들어준_장난감",
+					"indices": [
+						149,
+						162
+					]
+				},
+				{
+					"text": "청하는_숙제중",
+					"indices": [
+						163,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dNTVcquwgr",
+					"expanded_url": "https://www.vlive.tv/post/1-20191653",
+					"display_url": "vlive.tv/post/1-20191653",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334149264113483800,
+					"id_str": "1334149264113483777",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EoPZr-TVQAEnuIT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoPZr-TVQAEnuIT.jpg",
+					"url": "https://t.co/pfOFkYzgY0",
+					"display_url": "pic.twitter.com/pfOFkYzgY0",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1334157879050465289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334149264113483800,
+					"id_str": "1334149264113483777",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EoPZr-TVQAEnuIT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoPZr-TVQAEnuIT.jpg",
+					"url": "https://t.co/pfOFkYzgY0",
+					"display_url": "pic.twitter.com/pfOFkYzgY0",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1334157879050465289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1334149264117698600,
+					"id_str": "1334149264117698560",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EoPZr-UVkAASStk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoPZr-UVkAASStk.jpg",
+					"url": "https://t.co/pfOFkYzgY0",
+					"display_url": "pic.twitter.com/pfOFkYzgY0",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1334157879050465289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1334149264109236200,
+					"id_str": "1334149264109236226",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EoPZr-SUcAInwra.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoPZr-SUcAInwra.jpg",
+					"url": "https://t.co/pfOFkYzgY0",
+					"display_url": "pic.twitter.com/pfOFkYzgY0",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1334157879050465289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/MasTugaSJD\nCHUNG HA Website 💚💙💜 https://t.co/KNLHLQCXaH",
+			"url": "https://t.co/reTg513UFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg513UFX",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MasTugaSJD",
+							"expanded_url": "http://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								31,
+								54
+							]
+						},
+						{
+							"url": "https://t.co/KNLHLQCXaH",
+							"expanded_url": "http://chunghaofficial.com/",
+							"display_url": "chunghaofficial.com",
+							"indices": [
+								76,
+								99
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 292554,
+			"friends_count": 0,
+			"listed_count": 1795,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1369,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1606446336",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 364,
+		"favorite_count": 2328,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NOTICE] 청하's 별★별 라디오 첫 번째 밤 \n별의 별 숙제 도착!📝\n\n숙제 확인하러 가기 \n👉https://t.co/dNTVcquwgr\n\n#청하 #CHUNGHA \n#별하랑 #BYULHARANG\n#MEMBERSHIP_ONLY\n#BHR_2nd_Only 💚💙💜 \n#미나가_만들어준_장난감 #청하는_숙제중 https://t.co/pfOFkYzgY0"
+	},
+	{
 		"created_at": "Wed Dec 02 15:14:58 +0000 2020",
 		"id": 1334150580214714400,
 		"id_str": "1334154093955330052",
