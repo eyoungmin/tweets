@@ -1,6 +1,1446 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 02 12:28:06 +0000 2020",
+		"id": 1334111459203182600,
+		"id_str": "1334112100982067205",
+		"full_text": "689 dibagi 365, berarti sehari 1.8 kali dengerin Psycho-nya #REDVELVET sepanjang 2020?! Pasti song of the year di hatinya para REVELUV yaaa~ 💕 https://t.co/61Qtz6d4py",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "REDVELVET",
+					"indices": [
+						60,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/61Qtz6d4py",
+					"expanded_url": "https://twitter.com/mojjizen/status/1334109609863249923",
+					"display_url": "twitter.com/mojjizen/statu…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 322727,
+			"friends_count": 31,
+			"listed_count": 210,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 45,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1339,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1334109609863250000,
+		"quoted_status_id_str": "1334109609863249923",
+		"quoted_status_permalink": {
+			"url": "https://t.co/61Qtz6d4py",
+			"expanded": "https://twitter.com/mojjizen/status/1334109609863249923",
+			"display": "twitter.com/mojjizen/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 02 12:18:12 +0000 2020",
+			"id": 1334109609863250000,
+			"id_str": "1334109609863249923",
+			"full_text": "@SMTOWN_Idn ngga ngerti lagi ga kerasa tau2 udah dengerin psycho 689 kali??? https://t.co/W3CfKKqHCj",
+			"truncated": false,
+			"display_text_range": [
+				12,
+				76
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SMTOWN_Idn",
+						"name": "SMTOWN Indonesia",
+						"id": 1064828006487609300,
+						"id_str": "1064828006487609345",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1334109603131314200,
+						"id_str": "1334109603131314177",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/EoO1nZoUUAEgg2W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EoO1nZoUUAEgg2W.jpg",
+						"url": "https://t.co/W3CfKKqHCj",
+						"display_url": "pic.twitter.com/W3CfKKqHCj",
+						"expanded_url": "https://twitter.com/mojjizen/status/1334109609863249923/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1334109603131314200,
+						"id_str": "1334109603131314177",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/EoO1nZoUUAEgg2W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EoO1nZoUUAEgg2W.jpg",
+						"url": "https://t.co/W3CfKKqHCj",
+						"display_url": "pic.twitter.com/W3CfKKqHCj",
+						"expanded_url": "https://twitter.com/mojjizen/status/1334109609863249923/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1334099637557284900,
+			"in_reply_to_status_id_str": "1334099637557284868",
+			"in_reply_to_user_id": 1064828006487609300,
+			"in_reply_to_user_id_str": "1064828006487609345",
+			"in_reply_to_screen_name": "SMTOWN_Idn",
+			"user": {
+				"id": 1209752823300124700,
+				"id_str": "1209752823300124672",
+				"name": "ra 🌼",
+				"screen_name": "mojjizen",
+				"location": "(fanacc) a she/her",
+				"description": "in a not jisung drought but feels like in a jisung drought",
+				"url": "https://t.co/8jYOqLWNnr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8jYOqLWNnr",
+								"expanded_url": "https://youtu.be/A5H8zBb3iao",
+								"display_url": "youtu.be/A5H8zBb3iao",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20,
+				"friends_count": 130,
+				"listed_count": 0,
+				"created_at": "Wed Dec 25 08:29:00 +0000 2019",
+				"favourites_count": 10199,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10944,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1331015444728168449/rYurfcIZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331015444728168449/rYurfcIZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1209752823300124672/1606264891",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "in"
+		},
+		"retweet_count": 28,
+		"favorite_count": 547,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "689 dibagi 365, berarti sehari 1.8 kali dengerin Psycho-nya #REDVELVET sepanjang 2020?! Pasti song of the year di hatinya para REVELUV yaaa~ 💕 https://t.co/61Qtz6d4py"
+	},
+	{
+		"created_at": "Wed Dec 02 12:27:56 +0000 2020",
+		"id": 1334105620526469000,
+		"id_str": "1334112062314844173",
+		"full_text": "Wah REVELUV nih~ Mana suaranya? Sambil nungguin #REDVELVET comeback, jangan lupa nonton acara Yeri di Youtube juga ya! 👀💕\n\n  https://t.co/fZKXVW4zBP https://t.co/R9c7z0ubak",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "REDVELVET",
+					"indices": [
+						48,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fZKXVW4zBP",
+					"expanded_url": "https://www.youtube.com/watch?v=RzQ-3WUQvLA",
+					"display_url": "youtube.com/watch?v=RzQ-3W…",
+					"indices": [
+						125,
+						148
+					]
+				},
+				{
+					"url": "https://t.co/R9c7z0ubak",
+					"expanded_url": "https://twitter.com/Cloudysugar31/status/1334103626151649282",
+					"display_url": "twitter.com/Cloudysugar31/…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 322727,
+			"friends_count": 31,
+			"listed_count": 210,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 45,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1339,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1334103626151649300,
+		"quoted_status_id_str": "1334103626151649282",
+		"quoted_status_permalink": {
+			"url": "https://t.co/R9c7z0ubak",
+			"expanded": "https://twitter.com/Cloudysugar31/status/1334103626151649282",
+			"display": "twitter.com/Cloudysugar31/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 02 11:54:25 +0000 2020",
+			"id": 1334103626151649300,
+			"id_str": "1334103626151649282",
+			"full_text": "@SMTOWN_Idn Pertanyaannya adalah, kapan red velvet comeback? https://t.co/uZyKRiznwL",
+			"truncated": false,
+			"display_text_range": [
+				12,
+				60
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SMTOWN_Idn",
+						"name": "SMTOWN Indonesia",
+						"id": 1064828006487609300,
+						"id_str": "1064828006487609345",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1334103623215718400,
+						"id_str": "1334103623215718401",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/EoOwLUtVoAEz5pR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EoOwLUtVoAEz5pR.jpg",
+						"url": "https://t.co/uZyKRiznwL",
+						"display_url": "pic.twitter.com/uZyKRiznwL",
+						"expanded_url": "https://twitter.com/Cloudysugar31/status/1334103626151649282/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 336,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 593,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1012,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1334103623215718400,
+						"id_str": "1334103623215718401",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/EoOwLUtVoAEz5pR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EoOwLUtVoAEz5pR.jpg",
+						"url": "https://t.co/uZyKRiznwL",
+						"display_url": "pic.twitter.com/uZyKRiznwL",
+						"expanded_url": "https://twitter.com/Cloudysugar31/status/1334103626151649282/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 336,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 593,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1012,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1334099637557284900,
+			"in_reply_to_status_id_str": "1334099637557284868",
+			"in_reply_to_user_id": 1064828006487609300,
+			"in_reply_to_user_id_str": "1064828006487609345",
+			"in_reply_to_screen_name": "SMTOWN_Idn",
+			"user": {
+				"id": 1244240853297533000,
+				"id_str": "1244240853297532928",
+				"name": "᭙ꪖꪀ☁️",
+				"screen_name": "Cloudysugar31",
+				"location": "Fly High",
+				"description": "Fan Account kadang jadi badut juga sih\n\n\nYangyang say : WayV Family Love You ❤️",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 516,
+				"friends_count": 714,
+				"listed_count": 3,
+				"created_at": "Sun Mar 29 12:31:58 +0000 2020",
+				"favourites_count": 7124,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10545,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1329730768625565697/A7dLD_Xo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329730768625565697/A7dLD_Xo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1244240853297532928/1600345435",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 51,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "in"
+		},
+		"retweet_count": 77,
+		"favorite_count": 682,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Wah REVELUV nih~ Mana suaranya? Sambil nungguin #REDVELVET comeback, jangan lupa nonton acara Yeri di Youtube juga ya! 👀💕\n\n  https://t.co/fZKXVW4zBP https://t.co/R9c7z0ubak"
+	},
+	{
+		"created_at": "Wed Dec 02 12:14:56 +0000 2020",
+		"id": 1334104345567084500,
+		"id_str": "1334108788543139841",
+		"full_text": "❤️💛MY💚💙\n\nhttps://t.co/KOR7Wa0hkL\n\n#aespa #æspa #에스파\n#KARINA #카리나\n#GISELLE #지젤\n#WINTER #윈터\n#NINGNING #닝닝",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						34,
+						40
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						41,
+						46
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						52,
+						59
+					]
+				},
+				{
+					"text": "카리나",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						65,
+						73
+					]
+				},
+				{
+					"text": "지젤",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						78,
+						85
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						90,
+						99
+					]
+				},
+				{
+					"text": "닝닝",
+					"indices": [
+						100,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KOR7Wa0hkL",
+					"expanded_url": "https://vt.tiktok.com/ZSpyjCE2/",
+					"display_url": "vt.tiktok.com/ZSpyjCE2/",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 568644,
+			"friends_count": 1,
+			"listed_count": 1746,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3314,
+		"favorite_count": 15969,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "❤️💛MY💚💙\n\nhttps://t.co/KOR7Wa0hkL\n\n#aespa #æspa #에스파\n#KARINA #카리나\n#GISELLE #지젤\n#WINTER #윈터\n#NINGNING #닝닝"
+	},
+	{
+		"created_at": "Wed Dec 02 12:14:52 +0000 2020",
+		"id": 1334100580889858000,
+		"id_str": "1334108771182841858",
+		"full_text": "[📺] この後、9時！VLIVEで \n「Chung ha's Byul★Byul Radio」が放送されます！\n\n✌️ https://t.co/cci8gJXi0L\n\n#청하 #CHUNGHA #チョンハ\n#별하랑 #BYULHARANG\n#MEMBERSHIP_ONLY\n#BHR_2nd_Only 💚💙💜 https://t.co/XY28s5jxm3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						89,
+						97
+					]
+				},
+				{
+					"text": "チョンハ",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						109,
+						120
+					]
+				},
+				{
+					"text": "MEMBERSHIP_ONLY",
+					"indices": [
+						121,
+						137
+					]
+				},
+				{
+					"text": "BHR_2nd_Only",
+					"indices": [
+						138,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cci8gJXi0L",
+					"expanded_url": "http://vlive.tv/post/1-20188091",
+					"display_url": "vlive.tv/post/1-20188091",
+					"indices": [
+						60,
+						83
+					]
+				},
+				{
+					"url": "https://t.co/XY28s5jxm3",
+					"expanded_url": "https://twitter.com/chungha_mnhent/status/1334097767694798849",
+					"display_url": "twitter.com/chungha_mnhent…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 986882185842966500,
+			"id_str": "986882185842966528",
+			"name": "CHUNG HA JAPAN OFFICIAL",
+			"screen_name": "chungha_japan",
+			"location": "",
+			"description": "#CHUNGHA JAPAN OFFICIAL Twitter",
+			"url": "https://t.co/igLeSQLgMf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/igLeSQLgMf",
+							"expanded_url": "https://bit.ly/3q6AiLl",
+							"display_url": "bit.ly/3q6AiLl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16850,
+			"friends_count": 2,
+			"listed_count": 163,
+			"created_at": "Thu Apr 19 08:20:23 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988221974169059328/l3d7G6Fx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988221974169059328/l3d7G6Fx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/986882185842966528/1603170240",
+			"profile_link_color": "BF83AB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1334097767694798800,
+		"quoted_status_id_str": "1334097767694798849",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XY28s5jxm3",
+			"expanded": "https://twitter.com/chungha_mnhent/status/1334097767694798849",
+			"display": "twitter.com/chungha_mnhent…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 02 11:31:08 +0000 2020",
+			"id": 1334097767694798800,
+			"id_str": "1334097767694798849",
+			"full_text": "[📺] 잠시 후 9시, VLIVE에서 \n&lt;청하's 별★별 라디오&gt;가 방송됩니다. \n\n✌️ https://t.co/NLfAJbypVX\n\n#청하 #CHUNGHA \n#별하랑 #BYULHARANG\n#MEMBERSHIP_ONLY\n#BHR_2nd_Only 💚💙💜 https://t.co/vzcof9oCg8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				146
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "청하",
+						"indices": [
+							81,
+							84
+						]
+					},
+					{
+						"text": "CHUNGHA",
+						"indices": [
+							85,
+							93
+						]
+					},
+					{
+						"text": "별하랑",
+						"indices": [
+							95,
+							99
+						]
+					},
+					{
+						"text": "BYULHARANG",
+						"indices": [
+							100,
+							111
+						]
+					},
+					{
+						"text": "MEMBERSHIP_ONLY",
+						"indices": [
+							112,
+							128
+						]
+					},
+					{
+						"text": "BHR_2nd_Only",
+						"indices": [
+							129,
+							142
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NLfAJbypVX",
+						"expanded_url": "https://www.vlive.tv/post/1-20188091",
+						"display_url": "vlive.tv/post/1-20188091",
+						"indices": [
+							56,
+							79
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1334097763085082600,
+						"id_str": "1334097763085082626",
+						"indices": [
+							147,
+							170
+						],
+						"media_url": "http://pbs.twimg.com/media/EoOq2OBUYAIVdYs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EoOq2OBUYAIVdYs.jpg",
+						"url": "https://t.co/vzcof9oCg8",
+						"display_url": "pic.twitter.com/vzcof9oCg8",
+						"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1334097767694798849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 421,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 495,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 495,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1334097763085082600,
+						"id_str": "1334097763085082626",
+						"indices": [
+							147,
+							170
+						],
+						"media_url": "http://pbs.twimg.com/media/EoOq2OBUYAIVdYs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EoOq2OBUYAIVdYs.jpg",
+						"url": "https://t.co/vzcof9oCg8",
+						"display_url": "pic.twitter.com/vzcof9oCg8",
+						"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1334097767694798849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 421,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 495,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 495,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1097557125742489600,
+				"id_str": "1097557125742489600",
+				"name": "CHUNG HA",
+				"screen_name": "CHUNGHA_MNHent",
+				"location": "",
+				"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/MasTugaSJD\nCHUNG HA Website 💚💙💜 https://t.co/KNLHLQCXaH",
+				"url": "https://t.co/reTg513UFX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/reTg513UFX",
+								"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+								"display_url": "cafe.daum.net/MNH-Chungha",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/MasTugaSJD",
+								"expanded_url": "http://bit.ly/2ZZWMlN",
+								"display_url": "bit.ly/2ZZWMlN",
+								"indices": [
+									31,
+									54
+								]
+							},
+							{
+								"url": "https://t.co/KNLHLQCXaH",
+								"expanded_url": "http://chunghaofficial.com/",
+								"display_url": "chunghaofficial.com",
+								"indices": [
+									76,
+									99
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 292493,
+				"friends_count": 0,
+				"listed_count": 1791,
+				"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1367,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1606446336",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 135,
+			"favorite_count": 986,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 11,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[📺] この後、9時！VLIVEで \n「Chung ha's Byul★Byul Radio」が放送されます！\n\n✌️ https://t.co/cci8gJXi0L\n\n#청하 #CHUNGHA #チョンハ\n#별하랑 #BYULHARANG\n#MEMBERSHIP_ONLY\n#BHR_2nd_Only 💚💙💜 https://t.co/XY28s5jxm3"
+	},
+	{
+		"created_at": "Wed Dec 02 12:14:47 +0000 2020",
+		"id": 1334097767694798800,
+		"id_str": "1334108749699690496",
+		"full_text": "[📺] 잠시 후 9시, VLIVE에서 \n&lt;청하's 별★별 라디오&gt;가 방송됩니다. \n\n✌️ https://t.co/NLfAJbypVX\n\n#청하 #CHUNGHA \n#별하랑 #BYULHARANG\n#MEMBERSHIP_ONLY\n#BHR_2nd_Only 💚💙💜 https://t.co/vzcof9oCg8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						85,
+						93
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						100,
+						111
+					]
+				},
+				{
+					"text": "MEMBERSHIP_ONLY",
+					"indices": [
+						112,
+						128
+					]
+				},
+				{
+					"text": "BHR_2nd_Only",
+					"indices": [
+						129,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NLfAJbypVX",
+					"expanded_url": "https://www.vlive.tv/post/1-20188091",
+					"display_url": "vlive.tv/post/1-20188091",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334097763085082600,
+					"id_str": "1334097763085082626",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EoOq2OBUYAIVdYs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoOq2OBUYAIVdYs.jpg",
+					"url": "https://t.co/vzcof9oCg8",
+					"display_url": "pic.twitter.com/vzcof9oCg8",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1334097767694798849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 421,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 495,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 495,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334097763085082600,
+					"id_str": "1334097763085082626",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EoOq2OBUYAIVdYs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoOq2OBUYAIVdYs.jpg",
+					"url": "https://t.co/vzcof9oCg8",
+					"display_url": "pic.twitter.com/vzcof9oCg8",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1334097767694798849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 421,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 495,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 495,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/MasTugaSJD\nCHUNG HA Website 💚💙💜 https://t.co/KNLHLQCXaH",
+			"url": "https://t.co/reTg513UFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg513UFX",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MasTugaSJD",
+							"expanded_url": "http://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								31,
+								54
+							]
+						},
+						{
+							"url": "https://t.co/KNLHLQCXaH",
+							"expanded_url": "http://chunghaofficial.com/",
+							"display_url": "chunghaofficial.com",
+							"indices": [
+								76,
+								99
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 292493,
+			"friends_count": 0,
+			"listed_count": 1791,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1606446336",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 986,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📺] 잠시 후 9시, VLIVE에서 \n&lt;청하's 별★별 라디오&gt;가 방송됩니다. \n\n✌️ https://t.co/NLfAJbypVX\n\n#청하 #CHUNGHA \n#별하랑 #BYULHARANG\n#MEMBERSHIP_ONLY\n#BHR_2nd_Only 💚💙💜 https://t.co/vzcof9oCg8"
+	},
+	{
 		"created_at": "Wed Dec 02 11:14:47 +0000 2020",
 		"id": 1334000036699508700,
 		"id_str": "1334093649764888577",
