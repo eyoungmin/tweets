@@ -1,6 +1,456 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 03 09:45:37 +0000 2020",
+		"id": 1334422257746157600,
+		"id_str": "1334433598435430401",
+		"full_text": "이번 주 #인기가요(#inkigayo) Ep.1074 라인업 공개!\n\nGOT7/노라조/다크비/DRIPPIN/모모랜드/BoA/블링블링/BAE173/STAYC/안다은/NCT U/NTX/ENHYPEN/엘라스트/woo!ah!/WOODZ/이달의 소녀/카이/쿠잉\n\n링크를 확인해주세요↙♥\nhttps://t.co/cPDWkZDdiM https://t.co/fYLosP3fjS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인기가요",
+					"indices": [
+						5,
+						10
+					]
+				},
+				{
+					"text": "inkigayo",
+					"indices": [
+						11,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cPDWkZDdiM",
+					"expanded_url": "https://programs.sbs.co.kr/enter/gayo/board/54772?cmd=view&page=1&board_no=899",
+					"display_url": "programs.sbs.co.kr/enter/gayo/boa…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334422250750005200,
+					"id_str": "1334422250750005249",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EoTR94xU0AENOBB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoTR94xU0AENOBB.jpg",
+					"url": "https://t.co/fYLosP3fjS",
+					"display_url": "pic.twitter.com/fYLosP3fjS",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1334422257746157568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 652,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1221,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1150,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334422250750005200,
+					"id_str": "1334422250750005249",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EoTR94xU0AENOBB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoTR94xU0AENOBB.jpg",
+					"url": "https://t.co/fYLosP3fjS",
+					"display_url": "pic.twitter.com/fYLosP3fjS",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1334422257746157568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 652,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1221,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1150,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130755875210088400,
+			"id_str": "1130755875210088448",
+			"name": "SBS인기가요 (SBS Inkigayo)",
+			"screen_name": "sbsnoriter",
+			"location": "Seoul, Republic of Korea",
+			"description": "일요일엔 인기가요! 'SBS인기가요'에서만 만날 수 있는 다양한 콘텐츠를 지금 만나보세요 ~♡\n--------------------------------\n매주 일요일 오후 3시 50분 \nEvery Sun 3:50(KST) SBS Live on Air",
+			"url": "https://t.co/skgJieaVqa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/skgJieaVqa",
+							"expanded_url": "https://programs.sbs.co.kr/enter/gayo/main",
+							"display_url": "programs.sbs.co.kr/enter/gayo/main",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24346,
+			"friends_count": 0,
+			"listed_count": 158,
+			"created_at": "Tue May 21 08:43:03 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 820,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1280728616762933253/4YOXJPkh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1280728616762933253/4YOXJPkh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130755875210088448/1594184572",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1962,
+		"favorite_count": 3241,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번 주 #인기가요(#inkigayo) Ep.1074 라인업 공개!\n\nGOT7/노라조/다크비/DRIPPIN/모모랜드/BoA/블링블링/BAE173/STAYC/안다은/NCT U/NTX/ENHYPEN/엘라스트/woo!ah!/WOODZ/이달의 소녀/카이/쿠잉\n\n링크를 확인해주세요↙♥\nhttps://t.co/cPDWkZDdiM https://t.co/fYLosP3fjS"
+	},
+	{
+		"created_at": "Thu Dec 03 09:14:46 +0000 2020",
+		"id": 1334422505751076900,
+		"id_str": "1334425835655344128",
+		"full_text": "&lt;Nobody Talks To BoA - 모두가 그녀에게 말을 걸지 않아&gt;\nEP6. Next Step\n\n🎬https://t.co/5PX2tXwySR\n\n#보아 #BoA\n#Nobody_Talks_To_BoA \n#모두가_그녀에게_말을_걸지_않아",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보아",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "Nobody_Talks_To_BoA",
+					"indices": [
+						99,
+						119
+					]
+				},
+				{
+					"text": "모두가_그녀에게_말을_걸지_않아",
+					"indices": [
+						121,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5PX2tXwySR",
+					"expanded_url": "https://www.vlive.tv/post/1-20072686",
+					"display_url": "vlive.tv/post/1-20072686",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38819,
+			"friends_count": 1,
+			"listed_count": 126,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 195,
+		"favorite_count": 1819,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;Nobody Talks To BoA - 모두가 그녀에게 말을 걸지 않아&gt;\nEP6. Next Step\n\n🎬https://t.co/5PX2tXwySR\n\n#보아 #BoA\n#Nobody_Talks_To_BoA \n#모두가_그녀에게_말을_걸지_않아"
+	},
+	{
+		"created_at": "Thu Dec 03 09:14:44 +0000 2020",
+		"id": 1334416061404364800,
+		"id_str": "1334425826805297152",
+		"full_text": "[단독] '열일' 보아, 제41회 청룡영화상 축하무대 출격\nBoA to put on special celebration stage at the 41st Blue Dragon Film Awards\n\n👉 https://t.co/8OJSCtrbl8 \n\n#보아 #BoA\n#BETTER\n#청룡영화상 #BlueDragonFilmAwards",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보아",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "BETTER",
+					"indices": [
+						147,
+						154
+					]
+				},
+				{
+					"text": "청룡영화상",
+					"indices": [
+						155,
+						161
+					]
+				},
+				{
+					"text": "BlueDragonFilmAwards",
+					"indices": [
+						162,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8OJSCtrbl8",
+					"expanded_url": "http://naver.me/xOflmGG7",
+					"display_url": "naver.me/xOflmGG7",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38819,
+			"friends_count": 1,
+			"listed_count": 126,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 165,
+		"favorite_count": 426,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[단독] '열일' 보아, 제41회 청룡영화상 축하무대 출격\nBoA to put on special celebration stage at the 41st Blue Dragon Film Awards\n\n👉 https://t.co/8OJSCtrbl8 \n\n#보아 #BoA\n#BETTER\n#청룡영화상 #BlueDragonFilmAwards"
+	},
+	{
 		"created_at": "Thu Dec 03 08:08:22 +0000 2020",
 		"id": 1334156974607511600,
 		"id_str": "1334409127750078464",
