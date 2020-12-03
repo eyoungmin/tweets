@@ -1,6 +1,137 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 03 01:14:46 +0000 2020",
+		"id": 1334303344068714500,
+		"id_str": "1334305040765476864",
+		"full_text": "#태연 네 번째 미니앨범 ‘#What_Do_I_Call_You’ 12월 15일 발매!\n다채로운 장르의 총 6곡 수록! \n오늘 예약 판매 시작!\n \n#TAEYEON’s 4th mini album ‘What Do I Call You’ to be released on DEC. 15!\nTotal of 6 songs with various genres!\nPre-order starts today! \n\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						15,
+						34
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						220,
+						225
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						226,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1334301824162082800,
+		"in_reply_to_status_id_str": "1334301824162082816",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3604551,
+			"friends_count": 4,
+			"listed_count": 5097,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1428,
+		"favorite_count": 3055,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#태연 네 번째 미니앨범 ‘#What_Do_I_Call_You’ 12월 15일 발매!\n다채로운 장르의 총 6곡 수록! \n오늘 예약 판매 시작!\n \n#TAEYEON’s 4th mini album ‘What Do I Call You’ to be released on DEC. 15!\nTotal of 6 songs with various genres!\nPre-order starts today! \n\n#소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Wed Dec 02 22:47:20 +0000 2020",
 		"id": 1334267939764269000,
 		"id_str": "1334267939764269057",
