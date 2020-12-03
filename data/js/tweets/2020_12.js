@@ -1,6 +1,759 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 03 06:24:11 +0000 2020",
+		"id": 1334382907708870700,
+		"id_str": "1334382907708870656",
+		"full_text": "#블랙핑크 #BLACKPINK #VLIVE\nBLACKPINK - ‘THE SHOW’ GUIDE VIDEO | BLACKPINK\nhttps://t.co/9jFtydUF4d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9jFtydUF4d",
+					"expanded_url": "https://www.vlive.tv/video/226350",
+					"display_url": "vlive.tv/video/226350",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#블랙핑크 #BLACKPINK #VLIVE\nBLACKPINK - ‘THE SHOW’ GUIDE VIDEO | BLACKPINK\nhttps://t.co/9jFtydUF4d"
+	},
+	{
+		"created_at": "Thu Dec 03 06:24:10 +0000 2020",
+		"id": 1334382905552986000,
+		"id_str": "1334382905552986115",
+		"full_text": "#블랙핑크 #BLACKPINK #VLIVE\nBLACKPINK - 'THE SHOW' MESSAGE VIDEO | BLACKPINK\nhttps://t.co/rwElkYrXjq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rwElkYrXjq",
+					"expanded_url": "https://www.vlive.tv/video/226346",
+					"display_url": "vlive.tv/video/226346",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#블랙핑크 #BLACKPINK #VLIVE\nBLACKPINK - 'THE SHOW' MESSAGE VIDEO | BLACKPINK\nhttps://t.co/rwElkYrXjq"
+	},
+	{
+		"created_at": "Thu Dec 03 06:24:10 +0000 2020",
+		"id": 1334382902323376000,
+		"id_str": "1334382902323376128",
+		"full_text": "#블랙핑크 #BLACKPINK #VLIVE\nBLACKPINK - ‘THE SHOW’ TRAILER | BLACKPINK\nhttps://t.co/wtztldhry1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wtztldhry1",
+					"expanded_url": "https://www.vlive.tv/video/226300",
+					"display_url": "vlive.tv/video/226300",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#블랙핑크 #BLACKPINK #VLIVE\nBLACKPINK - ‘THE SHOW’ TRAILER | BLACKPINK\nhttps://t.co/wtztldhry1"
+	},
+	{
+		"created_at": "Thu Dec 03 06:19:06 +0000 2020",
+		"id": 1334381630266503200,
+		"id_str": "1334381630266503169",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 27일 유튜브와 합작 콘서트 개최\nhttps://t.co/GIfgmYj029\n#블랙핑크 #BLACKPINK https://t.co/3litLp5vAv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						72,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GIfgmYj029",
+					"expanded_url": "https://yg-life.com/archives/163108?lang=ko",
+					"display_url": "yg-life.com/archives/16310…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334381629175951400,
+					"id_str": "1334381629175951362",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EoStBZnW8AIR4E3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoStBZnW8AIR4E3.jpg",
+					"url": "https://t.co/3litLp5vAv",
+					"display_url": "pic.twitter.com/3litLp5vAv",
+					"expanded_url": "https://twitter.com/fromminn/status/1334381630266503169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334381629175951400,
+					"id_str": "1334381629175951362",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EoStBZnW8AIR4E3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoStBZnW8AIR4E3.jpg",
+					"url": "https://t.co/3litLp5vAv",
+					"display_url": "pic.twitter.com/3litLp5vAv",
+					"expanded_url": "https://twitter.com/fromminn/status/1334381630266503169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 27일 유튜브와 합작 콘서트 개최\nhttps://t.co/GIfgmYj029\n#블랙핑크 #BLACKPINK https://t.co/3litLp5vAv"
+	},
+	{
+		"created_at": "Thu Dec 03 06:14:47 +0000 2020",
+		"id": 1333548089110655000,
+		"id_str": "1334380540242300928",
+		"full_text": "Can you believe @loonatheworld learned two dances at once! We stan talented queens! #Orbits Check out their interview with @thegabbydiaz #이달의소녀 #LOONA #Midnight https://t.co/Etn1CFd0Ex",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbits",
+					"indices": [
+						84,
+						91
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						137,
+						143
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						151,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "thegabbydiaz",
+					"name": "G A B R I E L L A",
+					"id": 29765627,
+					"id_str": "29765627",
+					"indices": [
+						123,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Etn1CFd0Ex",
+					"expanded_url": "http://ihe.art/OQdPFqP",
+					"display_url": "ihe.art/OQdPFqP",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.iheart.com/\" rel=\"nofollow\">iHeartMedia Publishing</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22180037,
+			"id_str": "22180037",
+			"name": "WiLD 94.9",
+			"screen_name": "Wild949",
+			"location": "Bay Area!",
+			"description": "The Bay's #1 Hit Music Station! - 888.333.9490 Snapchat: iHeartWiLD949 | Instagram/Facebook: @WiLD949",
+			"url": "https://t.co/72XWQnkh08",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/72XWQnkh08",
+							"expanded_url": "http://wild949.com",
+							"display_url": "wild949.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105547,
+			"friends_count": 3779,
+			"listed_count": 520,
+			"created_at": "Fri Feb 27 19:41:31 +0000 2009",
+			"favourites_count": 13541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 118066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1284348418236665856/nQ-PxkF2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1284348418236665856/nQ-PxkF2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22180037/1591030432",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 596,
+		"favorite_count": 3245,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Can you believe @loonatheworld learned two dances at once! We stan talented queens! #Orbits Check out their interview with @thegabbydiaz #이달의소녀 #LOONA #Midnight https://t.co/Etn1CFd0Ex"
+	},
+	{
 		"created_at": "Thu Dec 03 05:42:15 +0000 2020",
 		"id": 1334372353594306600,
 		"id_str": "1334372353594306561",
