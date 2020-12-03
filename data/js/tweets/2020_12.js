@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 03 12:14:37 +0000 2020",
+		"id": 1334463270153961500,
+		"id_str": "1334471099191582720",
+		"full_text": "⁉️⬅️👀➡️⁉️\n\nhttps://t.co/kv9rks1Dmg\n\n#aespa #æspa #에스파\n#WINTER #윈터\n#NINGNING #닝닝",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						36,
+						42
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						54,
+						61
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						66,
+						75
+					]
+				},
+				{
+					"text": "닝닝",
+					"indices": [
+						76,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kv9rks1Dmg",
+					"expanded_url": "https://vt.tiktok.com/ZSpX5g3e/",
+					"display_url": "vt.tiktok.com/ZSpX5g3e/",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 571787,
+			"friends_count": 1,
+			"listed_count": 1769,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2746,
+		"favorite_count": 12390,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "⁉️⬅️👀➡️⁉️\n\nhttps://t.co/kv9rks1Dmg\n\n#aespa #æspa #에스파\n#WINTER #윈터\n#NINGNING #닝닝"
+	},
+	{
 		"created_at": "Thu Dec 03 11:43:47 +0000 2020",
 		"id": 1334089938787213300,
 		"id_str": "1334463335740293122",
