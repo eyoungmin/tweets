@@ -1,6 +1,519 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 03 04:45:36 +0000 2020",
+		"id": 1334350387491401700,
+		"id_str": "1334358100363661313",
+		"full_text": "김립 당황모먼트 모음~🤩🙄😚\n이렇게 귀여워도 되는 건가요?\n\n#LOONA #이달의소녀 #리액션 #reaction \n#김립 #최리 #츄 #이브\n\nhttps://t.co/XyGeDDXebw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						34,
+						40
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						41,
+						47
+					]
+				},
+				{
+					"text": "리액션",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "reaction",
+					"indices": [
+						53,
+						62
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						72,
+						74
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						75,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XyGeDDXebw",
+					"expanded_url": "https://www.youtube.com/watch?v=UEwqRxz3kYI",
+					"display_url": "youtube.com/watch?v=UEwqRx…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906055771921629200,
+			"id_str": "906055771921629184",
+			"name": "나돌(NADOL)",
+			"screen_name": "ae_ssr",
+			"location": "대한민국 중구",
+			"description": "KPOP 스타들의 매력발산 채널 '나도 아이돌이다'",
+			"url": "https://t.co/W4BmT5ww9v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W4BmT5ww9v",
+							"expanded_url": "https://www.youtube.com/channel/UC3pk0eDcZx_oYGCWNyJpjMQ/featured?view_as=subscriber",
+							"display_url": "youtube.com/channel/UC3pk0…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1060,
+			"friends_count": 87,
+			"listed_count": 12,
+			"created_at": "Fri Sep 08 07:25:04 +0000 2017",
+			"favourites_count": 38,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1318368541406494720/fyadTBj2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318368541406494720/fyadTBj2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906055771921629184/1603158530",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 196,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김립 당황모먼트 모음~🤩🙄😚\n이렇게 귀여워도 되는 건가요?\n\n#LOONA #이달의소녀 #리액션 #reaction \n#김립 #최리 #츄 #이브\n\nhttps://t.co/XyGeDDXebw"
+	},
+	{
+		"created_at": "Thu Dec 03 04:14:54 +0000 2020",
+		"id": 1333834596920733700,
+		"id_str": "1334350371318280194",
+		"full_text": "Our exclusive interview with @loonatheworld is LIVE! Will we see them at #Lollapalooza or #Coachella once we're able to go to festivals again? And don't miss their important message for their US #Orbits🤩 https://t.co/MplKoHK8Iu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Lollapalooza",
+					"indices": [
+						73,
+						86
+					]
+				},
+				{
+					"text": "Coachella",
+					"indices": [
+						90,
+						100
+					]
+				},
+				{
+					"text": "Orbits",
+					"indices": [
+						195,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						29,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MplKoHK8Iu",
+					"expanded_url": "https://bit.ly/2VqMit4",
+					"display_url": "bit.ly/2VqMit4",
+					"indices": [
+						204,
+						227
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23783028,
+			"id_str": "23783028",
+			"name": "B96",
+			"screen_name": "B96Chicago",
+			"location": "Chicago",
+			"description": "Chi's Station for Music, Pop Culture & Celebs! Our DJs: @chicago_gabe @ninaontheair @kenziekonair @theradiohag @jerzymuzik @radiobecchicago",
+			"url": "https://t.co/Jui5i87JCU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Jui5i87JCU",
+							"expanded_url": "http://B96.com",
+							"display_url": "B96.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72725,
+			"friends_count": 1864,
+			"listed_count": 658,
+			"created_at": "Wed Mar 11 16:05:02 +0000 2009",
+			"favourites_count": 7722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 86875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281403604792942592/xOGpL6f1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281403604792942592/xOGpL6f1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23783028/1593479711",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 707,
+		"favorite_count": 3466,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our exclusive interview with @loonatheworld is LIVE! Will we see them at #Lollapalooza or #Coachella once we're able to go to festivals again? And don't miss their important message for their US #Orbits🤩 https://t.co/MplKoHK8Iu"
+	},
+	{
+		"created_at": "Thu Dec 03 04:14:47 +0000 2020",
+		"id": 1334336717973807000,
+		"id_str": "1334350341303840770",
+		"full_text": "GOTTA GOOOOO @CHUNGHA_MNHent 🏃‍♀️💨 #DOUBLEHAPPINESS https://t.co/3waVwS7zAW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DOUBLEHAPPINESS",
+					"indices": [
+						35,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						13,
+						28
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334336574063071200,
+					"id_str": "1334336574063071232",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1334336574063071232/pu/img/y2delWIipV2o0bM9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1334336574063071232/pu/img/y2delWIipV2o0bM9.jpg",
+					"url": "https://t.co/3waVwS7zAW",
+					"display_url": "pic.twitter.com/3waVwS7zAW",
+					"expanded_url": "https://twitter.com/88rising/status/1334336717973807105/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334336574063071200,
+					"id_str": "1334336574063071232",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1334336574063071232/pu/img/y2delWIipV2o0bM9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1334336574063071232/pu/img/y2delWIipV2o0bM9.jpg",
+					"url": "https://t.co/3waVwS7zAW",
+					"display_url": "pic.twitter.com/3waVwS7zAW",
+					"expanded_url": "https://twitter.com/88rising/status/1334336717973807105/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 11345,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1334336574063071232/pu/vid/480x480/cMe9R4iQQugv8R7U.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1334336574063071232/pu/vid/320x320/UBdgG2p9J6WwIoC3.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1334336574063071232/pu/vid/720x720/lc6z_VS7E7Zjmvys.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1334336574063071232/pu/pl/g06lz8BrjOgXNMbY.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1334335798154584000,
+		"in_reply_to_status_id_str": "1334335798154584065",
+		"in_reply_to_user_id": 710838951989346300,
+		"in_reply_to_user_id_str": "710838951989346304",
+		"in_reply_to_screen_name": "88rising",
+		"user": {
+			"id": 710838951989346300,
+			"id_str": "710838951989346304",
+			"name": "88rising",
+			"screen_name": "88rising",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 527883,
+			"friends_count": 311,
+			"listed_count": 403,
+			"created_at": "Fri Mar 18 14:43:07 +0000 2016",
+			"favourites_count": 13461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331057600776048640/Kugq0JSe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331057600776048640/Kugq0JSe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/710838951989346304/1606715622",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 351,
+		"favorite_count": 1529,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "GOTTA GOOOOO @CHUNGHA_MNHent 🏃‍♀️💨 #DOUBLEHAPPINESS https://t.co/3waVwS7zAW"
+	},
+	{
 		"created_at": "Thu Dec 03 03:41:29 +0000 2020",
 		"id": 1334341963332661200,
 		"id_str": "1334341963332661248",
