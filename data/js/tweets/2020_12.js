@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 03 08:08:22 +0000 2020",
+		"id": 1334156974607511600,
+		"id_str": "1334409127750078464",
+		"full_text": "I’m so excited for you to see my global streaming concert event on Dec 17/18, ✨ CAN'T WAIT TILL I'M OUT OF K-12! ✨Tickets and more are on sale now at https://t.co/tcYxMI00R0 💕 https://t.co/aOkw4C82MN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tcYxMI00R0",
+					"expanded_url": "http://www.MelanieMartinezMusic.com",
+					"display_url": "MelanieMartinezMusic.com",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334155524506521600,
+					"id_str": "1334155524506521600",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EoPfYYFWEAA_rTe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoPfYYFWEAA_rTe.jpg",
+					"url": "https://t.co/aOkw4C82MN",
+					"display_url": "pic.twitter.com/aOkw4C82MN",
+					"expanded_url": "https://twitter.com/MelanieLBBH/status/1334156974607511553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1577,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 924,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334155524506521600,
+					"id_str": "1334155524506521600",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EoPfYYFWEAA_rTe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoPfYYFWEAA_rTe.jpg",
+					"url": "https://t.co/aOkw4C82MN",
+					"display_url": "pic.twitter.com/aOkw4C82MN",
+					"expanded_url": "https://twitter.com/MelanieLBBH/status/1334156974607511553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1577,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 924,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 701607056,
+			"id_str": "701607056",
+			"name": "Cry Baby",
+			"screen_name": "MelanieLBBH",
+			"location": "",
+			"description": "💗 After School EP Out Now! 💗\nhttps://t.co/2kuqzQUvcP",
+			"url": "https://t.co/Q7Y0SRVosP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q7Y0SRVosP",
+							"expanded_url": "http://melaniemartinezmusic.com",
+							"display_url": "melaniemartinezmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/2kuqzQUvcP",
+							"expanded_url": "https://melanie.lnk.to/AfterSchoolTA",
+							"display_url": "melanie.lnk.to/AfterSchoolTA",
+							"indices": [
+								29,
+								52
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1247520,
+			"friends_count": 25,
+			"listed_count": 1991,
+			"created_at": "Tue Jul 17 19:13:14 +0000 2012",
+			"favourites_count": 5423,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139594234103832576/sPNgDRHo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139594234103832576/sPNgDRHo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/701607056/1601006132",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1078,
+		"favorite_count": 12772,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m so excited for you to see my global streaming concert event on Dec 17/18, ✨ CAN'T WAIT TILL I'M OUT OF K-12! ✨Tickets and more are on sale now at https://t.co/tcYxMI00R0 💕 https://t.co/aOkw4C82MN"
+	},
+	{
 		"created_at": "Thu Dec 03 07:59:18 +0000 2020",
 		"id": 1334387900100698000,
 		"id_str": "1334406844215750656",
