@@ -1,6 +1,701 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 03 11:43:47 +0000 2020",
+		"id": 1334089938787213300,
+		"id_str": "1334463335740293122",
+		"full_text": "🏆MMA 2020 수상자를 소개합니다🏆\n\n장르상 R&amp;B/SOUL 부문 #백예린\n장르상 발라드 부문 #다비치\n장르상 랩힙합 부문 #다모임\n\n수상을 축하드립니다🎉\n\n#멜론뮤직어워드 #MMA2020 #MMA #멜뮤\n@yerinbaek @officialDavichi https://t.co/gG3LVHFSvN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"text": "다비치",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "다모임",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "멜론뮤직어워드",
+					"indices": [
+						94,
+						102
+					]
+				},
+				{
+					"text": "MMA2020",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "MMA",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "멜뮤",
+					"indices": [
+						117,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yerinbaek",
+					"name": "Yerin Baek",
+					"id": 1185935579168424000,
+					"id_str": "1185935579168423936",
+					"indices": [
+						121,
+						131
+					]
+				},
+				{
+					"screen_name": "officialDavichi",
+					"name": "official_Davichi",
+					"id": 2859446406,
+					"id_str": "2859446406",
+					"indices": [
+						132,
+						148
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334070398112022500,
+					"id_str": "1334070398112022528",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EoOR9XjUwAAlI6A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoOR9XjUwAAlI6A.jpg",
+					"url": "https://t.co/gG3LVHFSvN",
+					"display_url": "pic.twitter.com/gG3LVHFSvN",
+					"expanded_url": "https://twitter.com/melon/status/1334089938787213313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334070398112022500,
+					"id_str": "1334070398112022528",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EoOR9XjUwAAlI6A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoOR9XjUwAAlI6A.jpg",
+					"url": "https://t.co/gG3LVHFSvN",
+					"display_url": "pic.twitter.com/gG3LVHFSvN",
+					"expanded_url": "https://twitter.com/melon/status/1334089938787213313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1334070398116237300,
+					"id_str": "1334070398116237313",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EoOR9XkVEAEqbAG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoOR9XkVEAEqbAG.jpg",
+					"url": "https://t.co/gG3LVHFSvN",
+					"display_url": "pic.twitter.com/gG3LVHFSvN",
+					"expanded_url": "https://twitter.com/melon/status/1334089938787213313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1334070398116274200,
+					"id_str": "1334070398116274176",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EoOR9XkVoAAkY3O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoOR9XkVoAAkY3O.jpg",
+					"url": "https://t.co/gG3LVHFSvN",
+					"display_url": "pic.twitter.com/gG3LVHFSvN",
+					"expanded_url": "https://twitter.com/melon/status/1334089938787213313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118953366,
+			"id_str": "118953366",
+			"name": "Melon",
+			"screen_name": "melon",
+			"location": "Seoul, Korea",
+			"description": "음악이 필요한 순간 '멜론'",
+			"url": "http://t.co/Wo8qZOx1KA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Wo8qZOx1KA",
+							"expanded_url": "http://www.melon.com",
+							"display_url": "melon.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79439,
+			"friends_count": 32,
+			"listed_count": 593,
+			"created_at": "Tue Mar 02 06:13:44 +0000 2010",
+			"favourites_count": 143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118953366/1592531049",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 223,
+		"favorite_count": 663,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🏆MMA 2020 수상자를 소개합니다🏆\n\n장르상 R&amp;B/SOUL 부문 #백예린\n장르상 발라드 부문 #다비치\n장르상 랩힙합 부문 #다모임\n\n수상을 축하드립니다🎉\n\n#멜론뮤직어워드 #MMA2020 #MMA #멜뮤\n@yerinbaek @officialDavichi https://t.co/gG3LVHFSvN"
+	},
+	{
+		"created_at": "Thu Dec 03 11:14:42 +0000 2020",
+		"id": 1334451672131625000,
+		"id_str": "1334456016646377472",
+		"full_text": "🕶🌙 &amp; 🧦♥️\n\nhttps://t.co/wljsWA9acn\n\n#aespa #æspa #에스파\n#KARINA #카리나\n#GISELLE #지젤",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						57,
+						64
+					]
+				},
+				{
+					"text": "카리나",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						70,
+						78
+					]
+				},
+				{
+					"text": "지젤",
+					"indices": [
+						79,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wljsWA9acn",
+					"expanded_url": "https://vt.tiktok.com/ZSpCgpUc/",
+					"display_url": "vt.tiktok.com/ZSpCgpUc/",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 571552,
+			"friends_count": 1,
+			"listed_count": 1765,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2909,
+		"favorite_count": 13833,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🕶🌙 &amp; 🧦♥️\n\nhttps://t.co/wljsWA9acn\n\n#aespa #æspa #에스파\n#KARINA #카리나\n#GISELLE #지젤"
+	},
+	{
+		"created_at": "Thu Dec 03 11:14:37 +0000 2020",
+		"id": 1334450316037607400,
+		"id_str": "1334455999298752512",
+		"full_text": "Thank you BLINKS!🖤💖\n#2020ArtistWrapped @Spotify\n\n#BLACKPINK #JISOO #JENNIE #ROSÉ #LISA\n#LovesickGirls https://t.co/bFHVueicAK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2020ArtistWrapped",
+					"indices": [
+						20,
+						38
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						49,
+						59
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						67,
+						74
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "LovesickGirls",
+					"indices": [
+						87,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						39,
+						47
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334450311616819200,
+					"id_str": "1334450311616819200",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EoTrfPpUcAAIfBC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoTrfPpUcAAIfBC.jpg",
+					"url": "https://t.co/bFHVueicAK",
+					"display_url": "pic.twitter.com/bFHVueicAK",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1334450316037607425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334450311616819200,
+					"id_str": "1334450311616819200",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EoTrfPpUcAAIfBC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoTrfPpUcAAIfBC.jpg",
+					"url": "https://t.co/bFHVueicAK",
+					"display_url": "pic.twitter.com/bFHVueicAK",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1334450316037607425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/c2mkxA118z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c2mkxA118z",
+							"expanded_url": "https://blink.blackpinkofficial.com/",
+							"display_url": "blink.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5816164,
+			"friends_count": 6,
+			"listed_count": 6125,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1606962005",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8838,
+		"favorite_count": 36576,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you BLINKS!🖤💖\n#2020ArtistWrapped @Spotify\n\n#BLACKPINK #JISOO #JENNIE #ROSÉ #LISA\n#LovesickGirls https://t.co/bFHVueicAK"
+	},
+	{
 		"created_at": "Thu Dec 03 10:14:41 +0000 2020",
 		"id": 1334437424324231200,
 		"id_str": "1334440914106847232",
