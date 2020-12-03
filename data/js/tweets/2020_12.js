@@ -1,6 +1,876 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 03 07:59:18 +0000 2020",
+		"id": 1334387900100698000,
+		"id_str": "1334406844215750656",
+		"full_text": "✒️ 태연 네 번째 미니앨범 12월 15일 발매\n🔗 https://t.co/pgw7wy4WvY\n\n믿듣탱 태연이 새 미니앨범 [What Do I Call You]을 오는  12월 15일 발매합니다. 다채로운 장르의 6곡이 수록될 예정이라고 하네요!👏\n\n#TAEYEON #태연 #What_Do_I_Call_You \n#소녀시대  #GirlsGeneration @GirlsGeneration https://t.co/gf9I8Z2d2C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						140,
+						148
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						149,
+						152
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						153,
+						172
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						181,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						198,
+						214
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pgw7wy4WvY",
+					"expanded_url": "http://billboard.co.kr/main/news/view/539",
+					"display_url": "billboard.co.kr/main/news/view…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334386501321334800,
+					"id_str": "1334386501321334786",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/EoSxc_xVoAIEKyR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoSxc_xVoAIEKyR.jpg",
+					"url": "https://t.co/gf9I8Z2d2C",
+					"display_url": "pic.twitter.com/gf9I8Z2d2C",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1334387900100698112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1875,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334386501321334800,
+					"id_str": "1334386501321334786",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/EoSxc_xVoAIEKyR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoSxc_xVoAIEKyR.jpg",
+					"url": "https://t.co/gf9I8Z2d2C",
+					"display_url": "pic.twitter.com/gf9I8Z2d2C",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1334387900100698112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1875,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "빌보드 코리아 Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. \n팔로우를 통해 더 많은 KPOP 소식을 받아보세요! \nFollow us to get more KPOP news, chart and events!\n#빌보드코리아 #BillboardKorea",
+			"url": "https://t.co/CLFhjiCU9P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CLFhjiCU9P",
+							"expanded_url": "http://billboard.co.kr",
+							"display_url": "billboard.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51144,
+			"friends_count": 31,
+			"listed_count": 91,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1604568753",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 278,
+		"favorite_count": 574,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✒️ 태연 네 번째 미니앨범 12월 15일 발매\n🔗 https://t.co/pgw7wy4WvY\n\n믿듣탱 태연이 새 미니앨범 [What Do I Call You]을 오는  12월 15일 발매합니다. 다채로운 장르의 6곡이 수록될 예정이라고 하네요!👏\n\n#TAEYEON #태연 #What_Do_I_Call_You \n#소녀시대  #GirlsGeneration @GirlsGeneration https://t.co/gf9I8Z2d2C"
+	},
+	{
+		"created_at": "Thu Dec 03 07:58:42 +0000 2020",
+		"id": 1334406692415520800,
+		"id_str": "1334406692415520771",
+		"full_text": "@HAVAQQUQ 뭘로 알뜰요금제 갈아타셨나요?",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HAVAQQUQ",
+					"name": "하박국HAVAQQUQ",
+					"id": 8098922,
+					"id_str": "8098922",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1334386689247125500,
+		"in_reply_to_status_id_str": "1334386689247125512",
+		"in_reply_to_user_id": 8098922,
+		"in_reply_to_user_id_str": "8098922",
+		"in_reply_to_screen_name": "HAVAQQUQ",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@HAVAQQUQ 뭘로 알뜰요금제 갈아타셨나요?"
+	},
+	{
+		"created_at": "Thu Dec 03 07:55:47 +0000 2020",
+		"id": 1334404620492263400,
+		"id_str": "1334405959695798272",
+		"full_text": "🏆멜론 뮤직 어워즈🏆\n오늘 저녁 7시 멜론 뮤직 어워즈에 출격 합니당! 🦅 \n멜론 혹은 카카오 티비에서 이날치 공연 보긔! 🥇\n\nhttps://t.co/K12KaFcfO8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K12KaFcfO8",
+					"expanded_url": "https://tv.kakao.com/channel/3695066/cliplink/414525545",
+					"display_url": "tv.kakao.com/channel/369506…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1265873983213191200,
+			"id_str": "1265873983213191170",
+			"name": "이날치LEENALCHI_official",
+			"screen_name": "leenalchi",
+			"location": "",
+			"description": "이날치 공식 계정입니다. \nLEENALCHI official.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 532,
+			"friends_count": 1,
+			"listed_count": 8,
+			"created_at": "Thu May 28 05:15:46 +0000 2020",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 171,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265874850683338752/lcPuagZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265874850683338752/lcPuagZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1265873983213191170/1590651012",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🏆멜론 뮤직 어워즈🏆\n오늘 저녁 7시 멜론 뮤직 어워즈에 출격 합니당! 🦅 \n멜론 혹은 카카오 티비에서 이날치 공연 보긔! 🥇\n\nhttps://t.co/K12KaFcfO8"
+	},
+	{
+		"created_at": "Thu Dec 03 07:53:35 +0000 2020",
+		"id": 1334405407025078300,
+		"id_str": "1334405407025078274",
+		"full_text": "#라이브네이션코리아 #Live_Nation\nCAN'T WAIT TILL I'M OUT OF K-12 (2020년 12월 18일 금요일 오후 6:00)\nhttps://t.co/Vaexlphc9I\n#내한 #내한공연 #공연일정 #티켓공지 https://t.co/CkUgwyF3x2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라이브네이션코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Live_Nation",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"text": "내한",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "내한공연",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						124,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vaexlphc9I",
+					"expanded_url": "https://www.livenation.kr/show/1325448/can-t-wait-till-i-m-out-of-k-12/online/2020-12-18/kr",
+					"display_url": "livenation.kr/show/1325448/c…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334405406039412700,
+					"id_str": "1334405406039412736",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EoTCpZVXEAApA4G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoTCpZVXEAApA4G.jpg",
+					"url": "https://t.co/CkUgwyF3x2",
+					"display_url": "pic.twitter.com/CkUgwyF3x2",
+					"expanded_url": "https://twitter.com/fromminn/status/1334405407025078274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334405406039412700,
+					"id_str": "1334405406039412736",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EoTCpZVXEAApA4G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoTCpZVXEAApA4G.jpg",
+					"url": "https://t.co/CkUgwyF3x2",
+					"display_url": "pic.twitter.com/CkUgwyF3x2",
+					"expanded_url": "https://twitter.com/fromminn/status/1334405407025078274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#라이브네이션코리아 #Live_Nation\nCAN'T WAIT TILL I'M OUT OF K-12 (2020년 12월 18일 금요일 오후 6:00)\nhttps://t.co/Vaexlphc9I\n#내한 #내한공연 #공연일정 #티켓공지 https://t.co/CkUgwyF3x2"
+	},
+	{
+		"created_at": "Thu Dec 03 07:42:25 +0000 2020",
+		"id": 1334402596304543700,
+		"id_str": "1334402596304543744",
+		"full_text": "#SMTOWN #Artist_News\n보아 20주년 리얼리티 ‘Nobody Talks To BoA’\nhttps://t.co/Z0PE5fNZOG\n#보아 #BoA https://t.co/VjqOQfWDht",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						84,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z0PE5fNZOG",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/4303",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334402595096584200,
+					"id_str": "1334402595096584194",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EoTAFxwXYAIPe3b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoTAFxwXYAIPe3b.jpg",
+					"url": "https://t.co/VjqOQfWDht",
+					"display_url": "pic.twitter.com/VjqOQfWDht",
+					"expanded_url": "https://twitter.com/fromminn/status/1334402596304543744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334402595096584200,
+					"id_str": "1334402595096584194",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EoTAFxwXYAIPe3b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoTAFxwXYAIPe3b.jpg",
+					"url": "https://t.co/VjqOQfWDht",
+					"display_url": "pic.twitter.com/VjqOQfWDht",
+					"expanded_url": "https://twitter.com/fromminn/status/1334402596304543744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n보아 20주년 리얼리티 ‘Nobody Talks To BoA’\nhttps://t.co/Z0PE5fNZOG\n#보아 #BoA https://t.co/VjqOQfWDht"
+	},
+	{
 		"created_at": "Thu Dec 03 06:24:11 +0000 2020",
 		"id": 1334382907708870700,
 		"id_str": "1334382907708870656",
