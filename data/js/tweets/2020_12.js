@@ -1,6 +1,1686 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 03 03:00:38 +0000 2020",
+		"id": 1334331684729344000,
+		"id_str": "1334331684729344001",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Dec 3) https://t.co/H19Jdeb72w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H19Jdeb72w",
+					"expanded_url": "https://nzzl.us/10E0SSb",
+					"display_url": "nzzl.us/10E0SSb",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Dec 3) https://t.co/H19Jdeb72w"
+	},
+	{
+		"created_at": "Thu Dec 03 02:15:05 +0000 2020",
+		"id": 1334317178024124400,
+		"id_str": "1334320220559831047",
+		"full_text": "‘THE SHOW’ POSTER\n\nYG PALM STAGE - 2020 #BLACKPINK: THE SHOW\n\n🌍 2020.12.27 2PM (KST)\n🌍 On YouTube\n\nBuy Access @ https://t.co/Nh4qa1BwIp\nMore info @ https://t.co/0U47QnTk4C\n\n#블랙핑크 #PALMSTAGE #THESHOW #LIVESTREAMCONCERT #YOUTUBEMUSIC #YOUTUBE #YG https://t.co/S65HJY2J9T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						173,
+						178
+					]
+				},
+				{
+					"text": "PALMSTAGE",
+					"indices": [
+						179,
+						189
+					]
+				},
+				{
+					"text": "THESHOW",
+					"indices": [
+						190,
+						198
+					]
+				},
+				{
+					"text": "LIVESTREAMCONCERT",
+					"indices": [
+						199,
+						217
+					]
+				},
+				{
+					"text": "YOUTUBEMUSIC",
+					"indices": [
+						218,
+						231
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						232,
+						240
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						241,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Nh4qa1BwIp",
+					"expanded_url": "http://www.youtube.com/c/BlackPinkOfficial/join",
+					"display_url": "youtube.com/c/BlackPinkOff…",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/0U47QnTk4C",
+					"expanded_url": "https://bit.ly/THESHOWMOREINFO",
+					"display_url": "bit.ly/THESHOWMOREINFO",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334316195894288400,
+					"id_str": "1334316195894288387",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/EoRxgrpUYAMQ8Zh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoRxgrpUYAMQ8Zh.jpg",
+					"url": "https://t.co/S65HJY2J9T",
+					"display_url": "pic.twitter.com/S65HJY2J9T",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1334317178024124418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334316195894288400,
+					"id_str": "1334316195894288387",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/EoRxgrpUYAMQ8Zh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoRxgrpUYAMQ8Zh.jpg",
+					"url": "https://t.co/S65HJY2J9T",
+					"display_url": "pic.twitter.com/S65HJY2J9T",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1334317178024124418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/mhaOteBGUV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mhaOteBGUV",
+							"expanded_url": "https://youtu.be/dyRsYk0LyA8",
+							"display_url": "youtu.be/dyRsYk0LyA8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2714368,
+			"friends_count": 0,
+			"listed_count": 3506,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1606964050",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25813,
+		"favorite_count": 72127,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘THE SHOW’ POSTER\n\nYG PALM STAGE - 2020 #BLACKPINK: THE SHOW\n\n🌍 2020.12.27 2PM (KST)\n🌍 On YouTube\n\nBuy Access @ https://t.co/Nh4qa1BwIp\nMore info @ https://t.co/0U47QnTk4C\n\n#블랙핑크 #PALMSTAGE #THESHOW #LIVESTREAMCONCERT #YOUTUBEMUSIC #YOUTUBE #YG https://t.co/S65HJY2J9T"
+	},
+	{
+		"created_at": "Thu Dec 03 02:15:00 +0000 2020",
+		"id": 1334316974323630000,
+		"id_str": "1334320199047278593",
+		"full_text": "#BLACKPINK ‘THE SHOW’ POSTER\n\nYG PALM STAGE - 2020 BLACKPINK: THE SHOW\n\n🌍 2020.12.27 2PM (KST)\n🌍 On YouTube\n\nBuy Access @ https://t.co/omveahr2fk\nMore info @ https://t.co/TKzICB7eMk\n\n#블랙핑크 #PALMSTAGE #THESHOW #LIVESTREAMCONCERT #YOUTUBEMUSIC #YOUTUBE #YG https://t.co/Rwgr1SLqkE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						183,
+						188
+					]
+				},
+				{
+					"text": "PALMSTAGE",
+					"indices": [
+						189,
+						199
+					]
+				},
+				{
+					"text": "THESHOW",
+					"indices": [
+						200,
+						208
+					]
+				},
+				{
+					"text": "LIVESTREAMCONCERT",
+					"indices": [
+						209,
+						227
+					]
+				},
+				{
+					"text": "YOUTUBEMUSIC",
+					"indices": [
+						228,
+						241
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						242,
+						250
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						251,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/omveahr2fk",
+					"expanded_url": "http://www.youtube.com/c/BlackPinkOfficial/join",
+					"display_url": "youtube.com/c/BlackPinkOff…",
+					"indices": [
+						122,
+						145
+					]
+				},
+				{
+					"url": "https://t.co/TKzICB7eMk",
+					"expanded_url": "https://bit.ly/THESHOWMOREINFO",
+					"display_url": "bit.ly/THESHOWMOREINFO",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334315687074955300,
+					"id_str": "1334315687074955264",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/EoRxDEJVgAA8uSq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoRxDEJVgAA8uSq.jpg",
+					"url": "https://t.co/Rwgr1SLqkE",
+					"display_url": "pic.twitter.com/Rwgr1SLqkE",
+					"expanded_url": "https://twitter.com/ygent_official/status/1334316974323630080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334315687074955300,
+					"id_str": "1334315687074955264",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/EoRxDEJVgAA8uSq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoRxDEJVgAA8uSq.jpg",
+					"url": "https://t.co/Rwgr1SLqkE",
+					"display_url": "pic.twitter.com/Rwgr1SLqkE",
+					"expanded_url": "https://twitter.com/ygent_official/status/1334316974323630080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7039516,
+			"friends_count": 38,
+			"listed_count": 7124,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10841,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7496,
+		"favorite_count": 28806,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘THE SHOW’ POSTER\n\nYG PALM STAGE - 2020 BLACKPINK: THE SHOW\n\n🌍 2020.12.27 2PM (KST)\n🌍 On YouTube\n\nBuy Access @ https://t.co/omveahr2fk\nMore info @ https://t.co/TKzICB7eMk\n\n#블랙핑크 #PALMSTAGE #THESHOW #LIVESTREAMCONCERT #YOUTUBEMUSIC #YOUTUBE #YG https://t.co/Rwgr1SLqkE"
+	},
+	{
+		"created_at": "Thu Dec 03 02:14:51 +0000 2020",
+		"id": 1334316926106038300,
+		"id_str": "1334320160807809028",
+		"full_text": "‘THE SHOW’ GUIDE VIDEO\n\nAttention BLINKs📣\n \nPlease check out this \"Guide video”\nbefore you join YouTube channel membership\nto access 2020 #BLACKPINK: THE SHOW!\n \nBuy Access @ https://t.co/Nh4qa1T86Z\nMore info @ https://t.co/0U47QoaVtc https://t.co/yIrUFQqVxX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						138,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Nh4qa1T86Z",
+					"expanded_url": "http://www.youtube.com/c/BlackPinkOfficial/join",
+					"display_url": "youtube.com/c/BlackPinkOff…",
+					"indices": [
+						175,
+						198
+					]
+				},
+				{
+					"url": "https://t.co/0U47QoaVtc",
+					"expanded_url": "https://bit.ly/THESHOWMOREINFO",
+					"display_url": "bit.ly/THESHOWMOREINFO",
+					"indices": [
+						211,
+						234
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334311495723704300,
+					"id_str": "1334311495723704320",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/EoRtgg4UwAQ1TSZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoRtgg4UwAQ1TSZ.jpg",
+					"url": "https://t.co/yIrUFQqVxX",
+					"display_url": "pic.twitter.com/yIrUFQqVxX",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1334316926106038272/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334311495723704300,
+					"id_str": "1334311495723704320",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/EoRtgg4UwAQ1TSZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoRtgg4UwAQ1TSZ.jpg",
+					"url": "https://t.co/yIrUFQqVxX",
+					"display_url": "pic.twitter.com/yIrUFQqVxX",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1334316926106038272/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 160033,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1334311495723704320/vid/480x270/WRG1gPXtf4aQmIR4.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1334311495723704320/vid/1280x720/brVNEfAV-_wFyiwS.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1334311495723704320/pl/0u3fr-Z6IJgCtMrI.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1334311495723704320/vid/640x360/8DcB49KvMNpd0O08.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/mhaOteBGUV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mhaOteBGUV",
+							"expanded_url": "https://youtu.be/dyRsYk0LyA8",
+							"display_url": "youtu.be/dyRsYk0LyA8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2714368,
+			"friends_count": 0,
+			"listed_count": 3506,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1606964050",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14553,
+		"favorite_count": 44544,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘THE SHOW’ GUIDE VIDEO\n\nAttention BLINKs📣\n \nPlease check out this \"Guide video”\nbefore you join YouTube channel membership\nto access 2020 #BLACKPINK: THE SHOW!\n \nBuy Access @ https://t.co/Nh4qa1T86Z\nMore info @ https://t.co/0U47QoaVtc https://t.co/yIrUFQqVxX"
+	},
+	{
+		"created_at": "Thu Dec 03 02:14:49 +0000 2020",
+		"id": 1334316828936392700,
+		"id_str": "1334320151857131520",
+		"full_text": "#BLACKPINK ‘THE SHOW’ GUIDE VIDEO\n\nAttention BLINKs📣\n\nPlease check out this \"Guide video”\nbefore you join YouTube channel membership \nto access 2020 BLACKPINK: THE SHOW!\n\nBuy Access https://t.co/omveahr2fk\nMore info https://t.co/TKzICB7eMk  \n\n#블랙핑크 #THESHOW #YOUTUBE #YG https://t.co/ujF1GJJIUQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						243,
+						248
+					]
+				},
+				{
+					"text": "THESHOW",
+					"indices": [
+						249,
+						257
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						258,
+						266
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						267,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/omveahr2fk",
+					"expanded_url": "http://www.youtube.com/c/BlackPinkOfficial/join",
+					"display_url": "youtube.com/c/BlackPinkOff…",
+					"indices": [
+						182,
+						205
+					]
+				},
+				{
+					"url": "https://t.co/TKzICB7eMk",
+					"expanded_url": "https://bit.ly/THESHOWMOREINFO",
+					"display_url": "bit.ly/THESHOWMOREINFO",
+					"indices": [
+						216,
+						239
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334149072467292200,
+					"id_str": "1334149072467292160",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/EoPbaTOUYAAV3Sz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoPbaTOUYAAV3Sz.jpg",
+					"url": "https://t.co/ujF1GJJIUQ",
+					"display_url": "pic.twitter.com/ujF1GJJIUQ",
+					"expanded_url": "https://twitter.com/ygent_official/status/1334316828936392705/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334149072467292200,
+					"id_str": "1334149072467292160",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/EoPbaTOUYAAV3Sz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoPbaTOUYAAV3Sz.jpg",
+					"url": "https://t.co/ujF1GJJIUQ",
+					"display_url": "pic.twitter.com/ujF1GJJIUQ",
+					"expanded_url": "https://twitter.com/ygent_official/status/1334316828936392705/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 160033,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1334149072467292160/pl/iUYbHi_MwMkIOA4i.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1334149072467292160/vid/480x270/_JNHm3V6oJxZpQqE.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1334149072467292160/vid/640x360/skx282jqazCzKI0U.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1334149072467292160/vid/1280x720/nQB9KbFIzva0xoGD.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "BLACKPINK ‘THE SHOW’ GUIDE VIDEO",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7039516,
+			"friends_count": 38,
+			"listed_count": 7124,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10841,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4593,
+		"favorite_count": 19566,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK ‘THE SHOW’ GUIDE VIDEO\n\nAttention BLINKs📣\n\nPlease check out this \"Guide video”\nbefore you join YouTube channel membership \nto access 2020 BLACKPINK: THE SHOW!\n\nBuy Access https://t.co/omveahr2fk\nMore info https://t.co/TKzICB7eMk  \n\n#블랙핑크 #THESHOW #YOUTUBE #YG https://t.co/ujF1GJJIUQ"
+	},
+	{
+		"created_at": "Thu Dec 03 02:14:45 +0000 2020",
+		"id": 1334316597343731700,
+		"id_str": "1334320134626955264",
+		"full_text": "#BLACKPINK '#THESHOW' MESSAGE VIDEO \n\nHey, BLINKs💕\nAre you ready to join THE SHOW?\n\n#YouTube [BLACKPINK] 채널 멤버십 가입하고,  \n페이북이 준비한 다양한 혜택도 놓치지 마세요!  \nMore info @ https://t.co/bh0F0oeOR3\n\n#블랙핑크 #페이북 #BC카드 #bccard #비씨카드 @bccard_official #YG https://t.co/eJHxrky4GA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "THESHOW",
+					"indices": [
+						12,
+						20
+					]
+				},
+				{
+					"text": "YouTube",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						185,
+						190
+					]
+				},
+				{
+					"text": "페이북",
+					"indices": [
+						191,
+						195
+					]
+				},
+				{
+					"text": "BC카드",
+					"indices": [
+						196,
+						201
+					]
+				},
+				{
+					"text": "bccard",
+					"indices": [
+						202,
+						209
+					]
+				},
+				{
+					"text": "비씨카드",
+					"indices": [
+						210,
+						215
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						233,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bh0F0oeOR3",
+					"expanded_url": "https://bit.ly/3mHg88A",
+					"display_url": "bit.ly/3mHg88A",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334143024390054000,
+					"id_str": "1334143024390053888",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/EoPWkgPUUAAp_Sz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoPWkgPUUAAp_Sz.jpg",
+					"url": "https://t.co/eJHxrky4GA",
+					"display_url": "pic.twitter.com/eJHxrky4GA",
+					"expanded_url": "https://twitter.com/ygent_official/status/1334316597343731716/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1897,
+							"h": 1073,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 679,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334143024390054000,
+					"id_str": "1334143024390053888",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/EoPWkgPUUAAp_Sz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoPWkgPUUAAp_Sz.jpg",
+					"url": "https://t.co/eJHxrky4GA",
+					"display_url": "pic.twitter.com/eJHxrky4GA",
+					"expanded_url": "https://twitter.com/ygent_official/status/1334316597343731716/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 1897,
+							"h": 1073,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 679,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 75742,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1334143024390053888/vid/1280x720/oxlintdcUatYaRE8.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1334143024390053888/pl/oa05vkImaeXZ4WWa.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1334143024390053888/vid/480x270/8myHCmiRqjz-D1DX.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1334143024390053888/vid/640x360/8oUdLpsDTb24qxaC.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "BLACKPINK 'THE SHOW' MESSAGE VIDEO ",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7039516,
+			"friends_count": 38,
+			"listed_count": 7124,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10841,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5108,
+		"favorite_count": 20297,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BLACKPINK '#THESHOW' MESSAGE VIDEO \n\nHey, BLINKs💕\nAre you ready to join THE SHOW?\n\n#YouTube [BLACKPINK] 채널 멤버십 가입하고,  \n페이북이 준비한 다양한 혜택도 놓치지 마세요!  \nMore info @ https://t.co/bh0F0oeOR3\n\n#블랙핑크 #페이북 #BC카드 #bccard #비씨카드 @bccard_official #YG https://t.co/eJHxrky4GA"
+	},
+	{
+		"created_at": "Thu Dec 03 02:02:13 +0000 2020",
+		"id": 1334316979591712800,
+		"id_str": "1334316979591712770",
+		"full_text": "#블랙핑크 #BLACKPINK\nBLACKPINK - ‘THE SHOW’ GUIDE VIDEO\nhttps://t.co/AmeBjXN9AO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						6,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AmeBjXN9AO",
+					"expanded_url": "https://youtu.be/lrAHSIz6ugM",
+					"display_url": "youtu.be/lrAHSIz6ugM",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#블랙핑크 #BLACKPINK\nBLACKPINK - ‘THE SHOW’ GUIDE VIDEO\nhttps://t.co/AmeBjXN9AO"
+	},
+	{
+		"created_at": "Thu Dec 03 02:02:12 +0000 2020",
+		"id": 1334316978140483600,
+		"id_str": "1334316978140483584",
+		"full_text": "#블랙핑크 #BLACKPINK\nBLACKPINK - 'THE SHOW' MESSAGE VIDEO\nhttps://t.co/vvp7Fal3lu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						6,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vvp7Fal3lu",
+					"expanded_url": "https://youtu.be/Tj97V46-Irs",
+					"display_url": "youtu.be/Tj97V46-Irs",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#블랙핑크 #BLACKPINK\nBLACKPINK - 'THE SHOW' MESSAGE VIDEO\nhttps://t.co/vvp7Fal3lu"
+	},
+	{
 		"created_at": "Thu Dec 03 01:14:46 +0000 2020",
 		"id": 1334303344068714500,
 		"id_str": "1334305040765476864",
