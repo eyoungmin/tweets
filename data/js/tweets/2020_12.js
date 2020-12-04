@@ -1,6 +1,588 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 04 07:01:36 +0000 2020",
+		"id": 1334754711497543700,
+		"id_str": "1334754711497543681",
+		"full_text": "#팩트체크 #SNU팩트체크\n\"코로나19 바이러스의 pH 범위는 5.5~8.5, 레몬·오렌지 등을 먹으면 바이러스 제거할 수 있다\"\n▶ 전혀 사실 아님\nhttps://t.co/2ET1KhmbOu\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						110,
+						121
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						122,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2ET1KhmbOu",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2650",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n\"코로나19 바이러스의 pH 범위는 5.5~8.5, 레몬·오렌지 등을 먹으면 바이러스 제거할 수 있다\"\n▶ 전혀 사실 아님\nhttps://t.co/2ET1KhmbOu\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
+		"created_at": "Fri Dec 04 06:49:40 +0000 2020",
+		"id": 1334751708430426000,
+		"id_str": "1334751708430426112",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 “데뷔 첫 온라인콘서트 ‘THE SHOW’, 이름부터 날짜까지 고민 많았다”\nhttps://t.co/wAXCa9Jy6x\n#블랙핑크 #BLACKPINK https://t.co/tarVawj8NY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						95,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wAXCa9Jy6x",
+					"expanded_url": "https://yg-life.com/archives/163138?lang=ko",
+					"display_url": "yg-life.com/archives/16313…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334751706706534400,
+					"id_str": "1334751706706534401",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EoX9mv2W4AEXQd1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoX9mv2W4AEXQd1.jpg",
+					"url": "https://t.co/tarVawj8NY",
+					"display_url": "pic.twitter.com/tarVawj8NY",
+					"expanded_url": "https://twitter.com/fromminn/status/1334751708430426112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 303,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 303,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 201,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334751706706534400,
+					"id_str": "1334751706706534401",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EoX9mv2W4AEXQd1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoX9mv2W4AEXQd1.jpg",
+					"url": "https://t.co/tarVawj8NY",
+					"display_url": "pic.twitter.com/tarVawj8NY",
+					"expanded_url": "https://twitter.com/fromminn/status/1334751708430426112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 303,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 303,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 201,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 “데뷔 첫 온라인콘서트 ‘THE SHOW’, 이름부터 날짜까지 고민 많았다”\nhttps://t.co/wAXCa9Jy6x\n#블랙핑크 #BLACKPINK https://t.co/tarVawj8NY"
+	},
+	{
+		"created_at": "Fri Dec 04 06:14:43 +0000 2020",
+		"id": 1334740936094404600,
+		"id_str": "1334742911414636548",
+		"full_text": "D-7 ‘허쉬’ 새로운 임윤아가 온다\n\n👉🏻https://t.co/wkhRWPDFJp\n \n#LIMYOONA #임윤아 #소녀시대 #GirlsGeneration #허쉬 #HUSH #이지수 https://t.co/yTYb9FBTsP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						50,
+						59
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						71,
+						87
+					]
+				},
+				{
+					"text": "허쉬",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "HUSH",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "이지수",
+					"indices": [
+						98,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wkhRWPDFJp",
+					"expanded_url": "http://naver.me/GxsKUzQA",
+					"display_url": "naver.me/GxsKUzQA",
+					"indices": [
+						24,
+						47
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334740825687744500,
+					"id_str": "1334740825687744512",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/EoXztY5UYAAenbx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoXztY5UYAAenbx.jpg",
+					"url": "https://t.co/yTYb9FBTsP",
+					"display_url": "pic.twitter.com/yTYb9FBTsP",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1334740936094404609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334740825687744500,
+					"id_str": "1334740825687744512",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/EoXztY5UYAAenbx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoXztY5UYAAenbx.jpg",
+					"url": "https://t.co/yTYb9FBTsP",
+					"display_url": "pic.twitter.com/yTYb9FBTsP",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1334740936094404609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3605701,
+			"friends_count": 4,
+			"listed_count": 5097,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 879,
+		"favorite_count": 2907,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "D-7 ‘허쉬’ 새로운 임윤아가 온다\n\n👉🏻https://t.co/wkhRWPDFJp\n \n#LIMYOONA #임윤아 #소녀시대 #GirlsGeneration #허쉬 #HUSH #이지수 https://t.co/yTYb9FBTsP"
+	},
+	{
 		"created_at": "Fri Dec 04 05:56:32 +0000 2020",
 		"id": 1334738336360050700,
 		"id_str": "1334738336360050688",
