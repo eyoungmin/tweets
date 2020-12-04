@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 04 15:17:50 +0000 2020",
+		"id": 1334877124595953700,
+		"id_str": "1334879594818621441",
+		"full_text": "In the modern digital music economy, getting your metadata ducks in a row is essential for independent artists. Here are three types of metadata you need to be aware of. 💻 💾 👩‍💻  #MusicBusiness #MusicIndustry #Metadata https://t.co/rZigxgq47f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicBusiness",
+					"indices": [
+						179,
+						193
+					]
+				},
+				{
+					"text": "MusicIndustry",
+					"indices": [
+						194,
+						208
+					]
+				},
+				{
+					"text": "Metadata",
+					"indices": [
+						209,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rZigxgq47f",
+					"expanded_url": "https://bit.ly/39JOX9F",
+					"display_url": "bit.ly/39JOX9F",
+					"indices": [
+						219,
+						242
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1126881553680871400,
+			"id_str": "1126881553680871424",
+			"name": "Bandsintown for Artists",
+			"screen_name": "Bitforartists",
+			"location": "At A Concert",
+			"description": "With 55M registered concert goers and 530K artists, Bandsintown is the world-leading hub for live streams, concerts and festivals.",
+			"url": "https://t.co/7MXaCZ50G3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MXaCZ50G3",
+							"expanded_url": "https://linktr.ee/bitforartists",
+							"display_url": "linktr.ee/bitforartists",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1100,
+			"friends_count": 1092,
+			"listed_count": 10,
+			"created_at": "Fri May 10 16:07:53 +0000 2019",
+			"favourites_count": 1764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1280574810465198081/6WrpswXx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1280574810465198081/6WrpswXx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1126881553680871424/1559318312",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In the modern digital music economy, getting your metadata ducks in a row is essential for independent artists. Here are three types of metadata you need to be aware of. 💻 💾 👩‍💻  #MusicBusiness #MusicIndustry #Metadata https://t.co/rZigxgq47f"
+	},
+	{
 		"created_at": "Fri Dec 04 14:49:18 +0000 2020",
 		"id": 1334872411544711200,
 		"id_str": "1334872411544711170",
