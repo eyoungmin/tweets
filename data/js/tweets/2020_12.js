@@ -1,6 +1,2011 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 04 04:59:36 +0000 2020",
+		"id": 1334724011520118800,
+		"id_str": "1334724011520118786",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 4일 정오 팬과의 라이브 톡 개최\nhttps://t.co/QrB8V3jsbq\n#블랙핑크 #BLACKPINK https://t.co/886IazARwY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						72,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QrB8V3jsbq",
+					"expanded_url": "https://yg-life.com/archives/163132?lang=ko",
+					"display_url": "yg-life.com/archives/16313…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334724010643517400,
+					"id_str": "1334724010643517440",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EoXkan-XcAARDoz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoXkan-XcAARDoz.jpg",
+					"url": "https://t.co/886IazARwY",
+					"display_url": "pic.twitter.com/886IazARwY",
+					"expanded_url": "https://twitter.com/fromminn/status/1334724011520118786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 242,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 242,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 242,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334724010643517400,
+					"id_str": "1334724010643517440",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EoXkan-XcAARDoz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoXkan-XcAARDoz.jpg",
+					"url": "https://t.co/886IazARwY",
+					"display_url": "pic.twitter.com/886IazARwY",
+					"expanded_url": "https://twitter.com/fromminn/status/1334724011520118786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 242,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 242,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 242,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44275,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 4일 정오 팬과의 라이브 톡 개최\nhttps://t.co/QrB8V3jsbq\n#블랙핑크 #BLACKPINK https://t.co/886IazARwY"
+	},
+	{
+		"created_at": "Fri Dec 04 04:59:34 +0000 2020",
+		"id": 1334724001936105500,
+		"id_str": "1334724001936105472",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 美 히트메이커스 올해의 그룹상 ‘K팝 걸그룹 최초’\nhttps://t.co/JbmhKQB7Ax\n#블랙핑크 #BLACKPINK https://t.co/dzkf9qgPCY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						82,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JbmhKQB7Ax",
+					"expanded_url": "https://yg-life.com/archives/163126?lang=ko",
+					"display_url": "yg-life.com/archives/16312…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334724001009176600,
+					"id_str": "1334724001009176577",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EoXkaEFXEAETxKM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoXkaEFXEAETxKM.jpg",
+					"url": "https://t.co/dzkf9qgPCY",
+					"display_url": "pic.twitter.com/dzkf9qgPCY",
+					"expanded_url": "https://twitter.com/fromminn/status/1334724001936105472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 324,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 324,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 324,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334724001009176600,
+					"id_str": "1334724001009176577",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EoXkaEFXEAETxKM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoXkaEFXEAETxKM.jpg",
+					"url": "https://t.co/dzkf9qgPCY",
+					"display_url": "pic.twitter.com/dzkf9qgPCY",
+					"expanded_url": "https://twitter.com/fromminn/status/1334724001936105472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 324,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 324,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 324,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44275,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크, 美 히트메이커스 올해의 그룹상 ‘K팝 걸그룹 최초’\nhttps://t.co/JbmhKQB7Ax\n#블랙핑크 #BLACKPINK https://t.co/dzkf9qgPCY"
+	},
+	{
+		"created_at": "Fri Dec 04 04:57:22 +0000 2020",
+		"id": 1334382665093402600,
+		"id_str": "1334723447683829761",
+		"full_text": "This is what your #2020Wrapped soundtrack looked like, according to the data! Which of these tracks are you STILL not over?\n\nhttps://t.co/rC7KwpQK3u https://t.co/hV9nErEcGL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2020Wrapped",
+					"indices": [
+						18,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rC7KwpQK3u",
+					"expanded_url": "http://spotify.com/wrapped",
+					"display_url": "spotify.com/wrapped",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334382010731692000,
+					"id_str": "1334382010731692032",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EoStXnBVgAApx7b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoStXnBVgAApx7b.jpg",
+					"url": "https://t.co/hV9nErEcGL",
+					"display_url": "pic.twitter.com/hV9nErEcGL",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1334382665093402626/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334382010731692000,
+					"id_str": "1334382010731692032",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EoStXnBVgAApx7b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoStXnBVgAApx7b.jpg",
+					"url": "https://t.co/hV9nErEcGL",
+					"display_url": "pic.twitter.com/hV9nErEcGL",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1334382665093402626/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1334382659452067800,
+		"in_reply_to_status_id_str": "1334382659452067845",
+		"in_reply_to_user_id": 978459450871697400,
+		"in_reply_to_user_id_str": "978459450871697408",
+		"in_reply_to_screen_name": "SpotifyKDaebak",
+		"user": {
+			"id": 978459450871697400,
+			"id_str": "978459450871697408",
+			"name": "Spotify ❤️ K-Pop",
+			"screen_name": "SpotifyKDaebak",
+			"location": "",
+			"description": "Do you eat, sleep, and breathe K-Pop like we do? For all the news, music, entertainment and more, follow our official Spotify K-pop profile right now.",
+			"url": "https://t.co/TSbcWtrINY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TSbcWtrINY",
+							"expanded_url": "http://spoti.fi/KPOP",
+							"display_url": "spoti.fi/KPOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 325243,
+			"friends_count": 209,
+			"listed_count": 235,
+			"created_at": "Tue Mar 27 02:31:26 +0000 2018",
+			"favourites_count": 782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267694939460169728/yQiFh85w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267694939460169728/yQiFh85w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/978459450871697408/1591077004",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4389,
+		"favorite_count": 18225,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is what your #2020Wrapped soundtrack looked like, according to the data! Which of these tracks are you STILL not over?\n\nhttps://t.co/rC7KwpQK3u https://t.co/hV9nErEcGL"
+	},
+	{
+		"created_at": "Fri Dec 04 04:57:20 +0000 2020",
+		"id": 1334382659452067800,
+		"id_str": "1334723437026111491",
+		"full_text": "These men are the absolute gems you've loved this year for #2020Wrapped. Reply below to let us know what you love about them!\n\nhttps://t.co/rC7KwpQK3u https://t.co/Pci3qQqElm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2020Wrapped",
+					"indices": [
+						59,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rC7KwpQK3u",
+					"expanded_url": "http://spotify.com/wrapped",
+					"display_url": "spotify.com/wrapped",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334381612000137200,
+					"id_str": "1334381612000137217",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EoStAZoU0AEwJ3N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoStAZoU0AEwJ3N.jpg",
+					"url": "https://t.co/Pci3qQqElm",
+					"display_url": "pic.twitter.com/Pci3qQqElm",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1334382659452067845/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334381612000137200,
+					"id_str": "1334381612000137217",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EoStAZoU0AEwJ3N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoStAZoU0AEwJ3N.jpg",
+					"url": "https://t.co/Pci3qQqElm",
+					"display_url": "pic.twitter.com/Pci3qQqElm",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1334382659452067845/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1334382654049804300,
+		"in_reply_to_status_id_str": "1334382654049804290",
+		"in_reply_to_user_id": 978459450871697400,
+		"in_reply_to_user_id_str": "978459450871697408",
+		"in_reply_to_screen_name": "SpotifyKDaebak",
+		"user": {
+			"id": 978459450871697400,
+			"id_str": "978459450871697408",
+			"name": "Spotify ❤️ K-Pop",
+			"screen_name": "SpotifyKDaebak",
+			"location": "",
+			"description": "Do you eat, sleep, and breathe K-Pop like we do? For all the news, music, entertainment and more, follow our official Spotify K-pop profile right now.",
+			"url": "https://t.co/TSbcWtrINY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TSbcWtrINY",
+							"expanded_url": "http://spoti.fi/KPOP",
+							"display_url": "spoti.fi/KPOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 325243,
+			"friends_count": 209,
+			"listed_count": 235,
+			"created_at": "Tue Mar 27 02:31:26 +0000 2018",
+			"favourites_count": 782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267694939460169728/yQiFh85w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267694939460169728/yQiFh85w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/978459450871697408/1591077004",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4763,
+		"favorite_count": 19915,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These men are the absolute gems you've loved this year for #2020Wrapped. Reply below to let us know what you love about them!\n\nhttps://t.co/rC7KwpQK3u https://t.co/Pci3qQqElm"
+	},
+	{
+		"created_at": "Fri Dec 04 04:57:17 +0000 2020",
+		"id": 1334382654049804300,
+		"id_str": "1334723425667936262",
+		"full_text": "These talented queens top the list this year for #2020Wrapped! Who's your favourite, and why?\n\nhttps://t.co/rC7KwpQK3u https://t.co/gaKXzGsjRa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2020Wrapped",
+					"indices": [
+						49,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rC7KwpQK3u",
+					"expanded_url": "http://spotify.com/wrapped",
+					"display_url": "spotify.com/wrapped",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334381395112693800,
+					"id_str": "1334381395112693760",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EoSszxqVEAAyrco.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoSszxqVEAAyrco.jpg",
+					"url": "https://t.co/gaKXzGsjRa",
+					"display_url": "pic.twitter.com/gaKXzGsjRa",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1334382654049804290/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334381395112693800,
+					"id_str": "1334381395112693760",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EoSszxqVEAAyrco.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoSszxqVEAAyrco.jpg",
+					"url": "https://t.co/gaKXzGsjRa",
+					"display_url": "pic.twitter.com/gaKXzGsjRa",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1334382654049804290/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1334382648278438000,
+		"in_reply_to_status_id_str": "1334382648278437889",
+		"in_reply_to_user_id": 978459450871697400,
+		"in_reply_to_user_id_str": "978459450871697408",
+		"in_reply_to_screen_name": "SpotifyKDaebak",
+		"user": {
+			"id": 978459450871697400,
+			"id_str": "978459450871697408",
+			"name": "Spotify ❤️ K-Pop",
+			"screen_name": "SpotifyKDaebak",
+			"location": "",
+			"description": "Do you eat, sleep, and breathe K-Pop like we do? For all the news, music, entertainment and more, follow our official Spotify K-pop profile right now.",
+			"url": "https://t.co/TSbcWtrINY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TSbcWtrINY",
+							"expanded_url": "http://spoti.fi/KPOP",
+							"display_url": "spoti.fi/KPOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 325243,
+			"friends_count": 209,
+			"listed_count": 235,
+			"created_at": "Tue Mar 27 02:31:26 +0000 2018",
+			"favourites_count": 782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267694939460169728/yQiFh85w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267694939460169728/yQiFh85w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/978459450871697408/1591077004",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1275,
+		"favorite_count": 9282,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These talented queens top the list this year for #2020Wrapped! Who's your favourite, and why?\n\nhttps://t.co/rC7KwpQK3u https://t.co/gaKXzGsjRa"
+	},
+	{
+		"created_at": "Fri Dec 04 04:57:13 +0000 2020",
+		"id": 1334382648278438000,
+		"id_str": "1334723411063365632",
+		"full_text": "These are the tracks that kept us company this year in #2020Wrapped. How important were these songs to you? \n\nhttps://t.co/rC7KwpQK3u https://t.co/s5ZPCf0RS1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2020Wrapped",
+					"indices": [
+						55,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rC7KwpQK3u",
+					"expanded_url": "http://spotify.com/wrapped",
+					"display_url": "spotify.com/wrapped",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334380916521590800,
+					"id_str": "1334380916521590784",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EoSsX6xUYAAwXFj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoSsX6xUYAAwXFj.jpg",
+					"url": "https://t.co/s5ZPCf0RS1",
+					"display_url": "pic.twitter.com/s5ZPCf0RS1",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1334382648278437889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334380916521590800,
+					"id_str": "1334380916521590784",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EoSsX6xUYAAwXFj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoSsX6xUYAAwXFj.jpg",
+					"url": "https://t.co/s5ZPCf0RS1",
+					"display_url": "pic.twitter.com/s5ZPCf0RS1",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1334382648278437889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1334382642364498000,
+		"in_reply_to_status_id_str": "1334382642364497921",
+		"in_reply_to_user_id": 978459450871697400,
+		"in_reply_to_user_id_str": "978459450871697408",
+		"in_reply_to_screen_name": "SpotifyKDaebak",
+		"user": {
+			"id": 978459450871697400,
+			"id_str": "978459450871697408",
+			"name": "Spotify ❤️ K-Pop",
+			"screen_name": "SpotifyKDaebak",
+			"location": "",
+			"description": "Do you eat, sleep, and breathe K-Pop like we do? For all the news, music, entertainment and more, follow our official Spotify K-pop profile right now.",
+			"url": "https://t.co/TSbcWtrINY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TSbcWtrINY",
+							"expanded_url": "http://spoti.fi/KPOP",
+							"display_url": "spoti.fi/KPOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 325243,
+			"friends_count": 209,
+			"listed_count": 235,
+			"created_at": "Tue Mar 27 02:31:26 +0000 2018",
+			"favourites_count": 782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267694939460169728/yQiFh85w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267694939460169728/yQiFh85w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/978459450871697408/1591077004",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3405,
+		"favorite_count": 16296,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These are the tracks that kept us company this year in #2020Wrapped. How important were these songs to you? \n\nhttps://t.co/rC7KwpQK3u https://t.co/s5ZPCf0RS1"
+	},
+	{
+		"created_at": "Fri Dec 04 04:57:11 +0000 2020",
+		"id": 1334382642364498000,
+		"id_str": "1334723400242106370",
+		"full_text": "Is your #2020Wrapped Top Artist on this list? 👑\nComment below on who's your #1!\n\n https://t.co/rC7KwpQK3u https://t.co/dDH8nH950Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2020Wrapped",
+					"indices": [
+						8,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rC7KwpQK3u",
+					"expanded_url": "http://spotify.com/wrapped",
+					"display_url": "spotify.com/wrapped",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334380366002487300,
+					"id_str": "1334380366002487296",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EoSr337VgAAC8hj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoSr337VgAAC8hj.jpg",
+					"url": "https://t.co/dDH8nH950Y",
+					"display_url": "pic.twitter.com/dDH8nH950Y",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1334382642364497921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334380366002487300,
+					"id_str": "1334380366002487296",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EoSr337VgAAC8hj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoSr337VgAAC8hj.jpg",
+					"url": "https://t.co/dDH8nH950Y",
+					"display_url": "pic.twitter.com/dDH8nH950Y",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1334382642364497921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 978459450871697400,
+			"id_str": "978459450871697408",
+			"name": "Spotify ❤️ K-Pop",
+			"screen_name": "SpotifyKDaebak",
+			"location": "",
+			"description": "Do you eat, sleep, and breathe K-Pop like we do? For all the news, music, entertainment and more, follow our official Spotify K-pop profile right now.",
+			"url": "https://t.co/TSbcWtrINY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TSbcWtrINY",
+							"expanded_url": "http://spoti.fi/KPOP",
+							"display_url": "spoti.fi/KPOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 325243,
+			"friends_count": 209,
+			"listed_count": 235,
+			"created_at": "Tue Mar 27 02:31:26 +0000 2018",
+			"favourites_count": 782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267694939460169728/yQiFh85w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267694939460169728/yQiFh85w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/978459450871697408/1591077004",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13924,
+		"favorite_count": 75712,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Is your #2020Wrapped Top Artist on this list? 👑\nComment below on who's your #1!\n\n https://t.co/rC7KwpQK3u https://t.co/dDH8nH950Y"
+	},
+	{
+		"created_at": "Fri Dec 04 04:57:09 +0000 2020",
+		"id": 1334723391740383200,
+		"id_str": "1334723391740383233",
+		"full_text": "일본의 이 가게는 위기 속에서 생존해왔습니다. 1,020년을. (번역)\nhttps://t.co/KOG9mMDZJ6\n#이바닥늬우스 #테크 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이바닥늬우스",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"text": "테크",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						76,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KOG9mMDZJ6",
+					"expanded_url": "https://ebadak.news/2020/12/04/japan-old-companies/",
+					"display_url": "ebadak.news/2020/12/04/jap…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44275,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일본의 이 가게는 위기 속에서 생존해왔습니다. 1,020년을. (번역)\nhttps://t.co/KOG9mMDZJ6\n#이바닥늬우스 #테크 #minfav"
+	},
+	{
+		"created_at": "Fri Dec 04 04:14:53 +0000 2020",
+		"id": 1334701640658473000,
+		"id_str": "1334712755413282818",
+		"full_text": "[하이라이트] '진짜 기자'가 되는 월급쟁이 기자들의 밥벌이 라이프 〈허쉬〉\n12/11 (금) 밤 11시 첫 방송!\n\n👉🏻https://t.co/MnLlHSTzKC\n \n#LIMYOONA #임윤아 #소녀시대 #GirlsGeneration #허쉬 #HUSH #이지수",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						94,
+						103
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						115,
+						131
+					]
+				},
+				{
+					"text": "허쉬",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "HUSH",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "이지수",
+					"indices": [
+						142,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MnLlHSTzKC",
+					"expanded_url": "http://naver.me/FaVmsCqt",
+					"display_url": "naver.me/FaVmsCqt",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3605672,
+			"friends_count": 4,
+			"listed_count": 5097,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 684,
+		"favorite_count": 2113,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[하이라이트] '진짜 기자'가 되는 월급쟁이 기자들의 밥벌이 라이프 〈허쉬〉\n12/11 (금) 밤 11시 첫 방송!\n\n👉🏻https://t.co/MnLlHSTzKC\n \n#LIMYOONA #임윤아 #소녀시대 #GirlsGeneration #허쉬 #HUSH #이지수"
+	},
+	{
+		"created_at": "Fri Dec 04 04:14:45 +0000 2020",
+		"id": 1334701095034134500,
+		"id_str": "1334712721405775878",
+		"full_text": "권유리·현우 ˙이별유예, 일주일˙, 방송 전 CGV 선개봉 ˙국내 첫 사례˙ \n\n👉🏻https://t.co/NjZf71hEoz\n\n#권유리 #KWONYURI #이별유예일주일 #소녀시대 #GirlsGeneration https://t.co/33X01nOKQ8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권유리",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "KWONYURI",
+					"indices": [
+						77,
+						86
+					]
+				},
+				{
+					"text": "이별유예일주일",
+					"indices": [
+						87,
+						95
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						102,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NjZf71hEoz",
+					"expanded_url": "http://naver.me/Fuio9DSU",
+					"display_url": "naver.me/Fuio9DSU",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334701078735069200,
+					"id_str": "1334701078735069186",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EoXPjz9VoAIY8e3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoXPjz9VoAIY8e3.jpg",
+					"url": "https://t.co/33X01nOKQ8",
+					"display_url": "pic.twitter.com/33X01nOKQ8",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1334701095034134529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 454,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 454,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334701078735069200,
+					"id_str": "1334701078735069186",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EoXPjz9VoAIY8e3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoXPjz9VoAIY8e3.jpg",
+					"url": "https://t.co/33X01nOKQ8",
+					"display_url": "pic.twitter.com/33X01nOKQ8",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1334701095034134529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 454,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 454,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3605672,
+			"friends_count": 4,
+			"listed_count": 5097,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 952,
+		"favorite_count": 3848,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "권유리·현우 ˙이별유예, 일주일˙, 방송 전 CGV 선개봉 ˙국내 첫 사례˙ \n\n👉🏻https://t.co/NjZf71hEoz\n\n#권유리 #KWONYURI #이별유예일주일 #소녀시대 #GirlsGeneration https://t.co/33X01nOKQ8"
+	},
+	{
+		"created_at": "Fri Dec 04 04:14:38 +0000 2020",
+		"id": 1334699308080222200,
+		"id_str": "1334712691521417216",
+		"full_text": "BoA 보아 'Better' Performance Clip (Vertical Ver.)\n\n🎬 https://t.co/FucU3uKIch\n\n#보아 #BoA\n#BETTER",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보아",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "BETTER",
+					"indices": [
+						86,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FucU3uKIch",
+					"expanded_url": "https://youtu.be/zwe0mFHsQQ4",
+					"display_url": "youtu.be/zwe0mFHsQQ4",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39001,
+			"friends_count": 1,
+			"listed_count": 129,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 387,
+		"favorite_count": 1096,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BoA 보아 'Better' Performance Clip (Vertical Ver.)\n\n🎬 https://t.co/FucU3uKIch\n\n#보아 #BoA\n#BETTER"
+	},
+	{
 		"created_at": "Fri Dec 04 03:17:25 +0000 2020",
 		"id": 1334698295936114700,
 		"id_str": "1334698295936114688",
