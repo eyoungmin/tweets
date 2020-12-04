@@ -1,6 +1,1091 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 04 03:17:25 +0000 2020",
+		"id": 1334698295936114700,
+		"id_str": "1334698295936114688",
+		"full_text": "#SMTOWN #PLAYLIST\nBoA 보아 'Better' Performance Clip (Vertical Ver.)\nhttps://t.co/s2qANB0zOD\n#보아 #BoA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						95,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s2qANB0zOD",
+					"expanded_url": "https://www.youtube.com/watch?v=zwe0mFHsQQ4",
+					"display_url": "youtube.com/watch?v=zwe0mF…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SMTOWN #PLAYLIST\nBoA 보아 'Better' Performance Clip (Vertical Ver.)\nhttps://t.co/s2qANB0zOD\n#보아 #BoA"
+	},
+	{
+		"created_at": "Fri Dec 04 03:14:57 +0000 2020",
+		"id": 1334694165565739000,
+		"id_str": "1334697672649928710",
+		"full_text": "[이달의소녀탐구 #662]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/lJTndWdVwo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀탐구",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "loonatv",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334693994035441700,
+					"id_str": "1334693994035441665",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1334693994035441665/pu/img/7sLuqERFiBUbyb2C.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1334693994035441665/pu/img/7sLuqERFiBUbyb2C.jpg",
+					"url": "https://t.co/lJTndWdVwo",
+					"display_url": "pic.twitter.com/lJTndWdVwo",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1334694165565739008/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334693994035441700,
+					"id_str": "1334693994035441665",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1334693994035441665/pu/img/7sLuqERFiBUbyb2C.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1334693994035441665/pu/img/7sLuqERFiBUbyb2C.jpg",
+					"url": "https://t.co/lJTndWdVwo",
+					"display_url": "pic.twitter.com/lJTndWdVwo",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1334694165565739008/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60605,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1334693994035441665/pu/vid/640x360/MtgAyLHjQd_ekwIw.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1334693994035441665/pu/pl/SI-e1-Z7flMGxvuO.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1334693994035441665/pu/vid/1280x720/rM74KlA8q8yZtmqq.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1334693994035441665/pu/vid/480x270/S7lUmtp9BHenuWTj.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 591468,
+			"friends_count": 0,
+			"listed_count": 6039,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2514,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1801,
+		"favorite_count": 7093,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀탐구 #662]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/lJTndWdVwo"
+	},
+	{
+		"created_at": "Fri Dec 04 03:14:49 +0000 2020",
+		"id": 1334693916512297000,
+		"id_str": "1334697638629957634",
+		"full_text": "[PHOTO] 🎨#BHR_2nd_Only \n\n📸청하's 별★별 라디오_첫 번째 밤\n\n✌🏻 https://t.co/f4Na001XPD\n\n#청하 #CHUNGHA \n#별하랑 #BYULHARANG \n#별별라디오\n#MEMBERSHIP_ONLY\n#BHR_2nd_Only 💚💙💜 https://t.co/lovoRyRgTK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BHR_2nd_Only",
+					"indices": [
+						9,
+						22
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						94,
+						105
+					]
+				},
+				{
+					"text": "별별라디오",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "MEMBERSHIP_ONLY",
+					"indices": [
+						114,
+						130
+					]
+				},
+				{
+					"text": "BHR_2nd_Only",
+					"indices": [
+						131,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f4Na001XPD",
+					"expanded_url": "https://www.vlive.tv/post/1-20213490",
+					"display_url": "vlive.tv/post/1-20213490",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334527289049010200,
+					"id_str": "1334527289049010176",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EoUxf67U0AAhiEm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoUxf67U0AAhiEm.jpg",
+					"url": "https://t.co/lovoRyRgTK",
+					"display_url": "pic.twitter.com/lovoRyRgTK",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1334693916512296960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334527289049010200,
+					"id_str": "1334527289049010176",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EoUxf67U0AAhiEm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoUxf67U0AAhiEm.jpg",
+					"url": "https://t.co/lovoRyRgTK",
+					"display_url": "pic.twitter.com/lovoRyRgTK",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1334693916512296960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/MasTugaSJD\nCHUNG HA Website 💚💙💜 https://t.co/KNLHLQCXaH",
+			"url": "https://t.co/reTg513UFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg513UFX",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MasTugaSJD",
+							"expanded_url": "http://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								31,
+								54
+							]
+						},
+						{
+							"url": "https://t.co/KNLHLQCXaH",
+							"expanded_url": "http://chunghaofficial.com/",
+							"display_url": "chunghaofficial.com",
+							"indices": [
+								76,
+								99
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 292899,
+			"friends_count": 0,
+			"listed_count": 1797,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1606446336",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 284,
+		"favorite_count": 1599,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[PHOTO] 🎨#BHR_2nd_Only \n\n📸청하's 별★별 라디오_첫 번째 밤\n\n✌🏻 https://t.co/f4Na001XPD\n\n#청하 #CHUNGHA \n#별하랑 #BYULHARANG \n#별별라디오\n#MEMBERSHIP_ONLY\n#BHR_2nd_Only 💚💙💜 https://t.co/lovoRyRgTK"
+	},
+	{
+		"created_at": "Fri Dec 04 03:14:45 +0000 2020",
+		"id": 1334663736116867000,
+		"id_str": "1334697621345230848",
+		"full_text": "All your favorites in tonight’s #MusicMeetUp with @OnAirJRDN \n\n@loonatheworld #Star is up against @diplo @sonnyfodera #TurnBackTime at 9:20pm! Vote now!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicMeetUp",
+					"indices": [
+						32,
+						44
+					]
+				},
+				{
+					"text": "Star",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "TurnBackTime",
+					"indices": [
+						118,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OnAirJRDN",
+					"name": "LORD JRDN",
+					"id": 143680967,
+					"id_str": "143680967",
+					"indices": [
+						50,
+						60
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						63,
+						77
+					]
+				},
+				{
+					"screen_name": "diplo",
+					"name": "Thomas Wesley",
+					"id": 17174309,
+					"id_str": "17174309",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"screen_name": "sonnyfodera",
+					"name": "Sonny Fodera",
+					"id": 53394621,
+					"id_str": "53394621",
+					"indices": [
+						105,
+						117
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20699981,
+			"id_str": "20699981",
+			"name": "103.5 KISS FM",
+			"screen_name": "1035KISSFM",
+			"location": "Chicago, IL",
+			"description": "Chicago’s #1 Hit Music Station @FredShowRadio Mornings : 5a -12n",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86325,
+			"friends_count": 658,
+			"listed_count": 594,
+			"created_at": "Thu Feb 12 18:20:25 +0000 2009",
+			"favourites_count": 4520,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 68298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278370084671684610/DBsTvoc9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278370084671684610/DBsTvoc9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20699981/1601054192",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 451,
+		"favorite_count": 1837,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "All your favorites in tonight’s #MusicMeetUp with @OnAirJRDN \n\n@loonatheworld #Star is up against @diplo @sonnyfodera #TurnBackTime at 9:20pm! Vote now!"
+	},
+	{
+		"created_at": "Fri Dec 04 03:14:37 +0000 2020",
+		"id": 1334684363007484000,
+		"id_str": "1334697591502671872",
+		"full_text": "‘퍼포먼스 퀸’ #보아, 신곡 ‘#Better’ 컴백 무대 KBS2TV ‘뮤직뱅크’에서 오늘 첫 방송!\n시선 압도하는 강렬 퍼포먼스 예고!\n\n'Performance queen' #BoA's 'Better' comeback stage to air for the first time today at KBS2TV ‘Music Bank'!\n\nTo show powerful eye-catching performance!\n\n#BETTER https://t.co/MBq2hMRsfK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보아",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "Better",
+					"indices": [
+						18,
+						25
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "BETTER",
+					"indices": [
+						231,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334684360272879600,
+					"id_str": "1334684360272879616",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/EoXAWq1VoAAXPqg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoXAWq1VoAAXPqg.jpg",
+					"url": "https://t.co/MBq2hMRsfK",
+					"display_url": "pic.twitter.com/MBq2hMRsfK",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1334684363007483907/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334684360272879600,
+					"id_str": "1334684360272879616",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/EoXAWq1VoAAXPqg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoXAWq1VoAAXPqg.jpg",
+					"url": "https://t.co/MBq2hMRsfK",
+					"display_url": "pic.twitter.com/MBq2hMRsfK",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1334684363007483907/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38959,
+			"friends_count": 1,
+			"listed_count": 128,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 282,
+		"favorite_count": 919,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘퍼포먼스 퀸’ #보아, 신곡 ‘#Better’ 컴백 무대 KBS2TV ‘뮤직뱅크’에서 오늘 첫 방송!\n시선 압도하는 강렬 퍼포먼스 예고!\n\n'Performance queen' #BoA's 'Better' comeback stage to air for the first time today at KBS2TV ‘Music Bank'!\n\nTo show powerful eye-catching performance!\n\n#BETTER https://t.co/MBq2hMRsfK"
+	},
+	{
+		"created_at": "Fri Dec 04 03:04:09 +0000 2020",
+		"id": 1334694956582260700,
+		"id_str": "1334694956582260741",
+		"full_text": "BoA 보아 'Better' Performance Clip (Vertical Ver.)\nhttps://t.co/42D8K59CTt\n#보아 #BoA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보아",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						77,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/42D8K59CTt",
+					"expanded_url": "https://youtu.be/zwe0mFHsQQ4",
+					"display_url": "youtu.be/zwe0mFHsQQ4",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BoA 보아 'Better' Performance Clip (Vertical Ver.)\nhttps://t.co/42D8K59CTt\n#보아 #BoA"
+	},
+	{
 		"created_at": "Fri Dec 04 03:00:50 +0000 2020",
 		"id": 1334694122360361000,
 		"id_str": "1334694122360360964",
