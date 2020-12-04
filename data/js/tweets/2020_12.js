@@ -1,6 +1,592 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 04 07:42:31 +0000 2020",
+		"id": 1334765010002866200,
+		"id_str": "1334765010002866177",
+		"full_text": "#SMTOWN #Artist_News\n‘퍼포먼스 퀸’ 보아, 신곡 ‘Better’ 컴백 무대 4일 첫 방송!\nhttps://t.co/mbLw0tf0ql\n#보아 #BoA https://t.co/C0vcFZnB8I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						89,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mbLw0tf0ql",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/4309",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334765008971051000,
+					"id_str": "1334765008971051008",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EoYJtCpXMAAEhSZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoYJtCpXMAAEhSZ.jpg",
+					"url": "https://t.co/C0vcFZnB8I",
+					"display_url": "pic.twitter.com/C0vcFZnB8I",
+					"expanded_url": "https://twitter.com/fromminn/status/1334765010002866177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334765008971051000,
+					"id_str": "1334765008971051008",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EoYJtCpXMAAEhSZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoYJtCpXMAAEhSZ.jpg",
+					"url": "https://t.co/C0vcFZnB8I",
+					"display_url": "pic.twitter.com/C0vcFZnB8I",
+					"expanded_url": "https://twitter.com/fromminn/status/1334765010002866177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n‘퍼포먼스 퀸’ 보아, 신곡 ‘Better’ 컴백 무대 4일 첫 방송!\nhttps://t.co/mbLw0tf0ql\n#보아 #BoA https://t.co/C0vcFZnB8I"
+	},
+	{
+		"created_at": "Fri Dec 04 07:14:48 +0000 2020",
+		"id": 1334707027952554000,
+		"id_str": "1334758032165785600",
+		"full_text": "【発売中❗️】12月3日（木）発売、S Cawaii!特別編集『ほどよく、可愛く、締まったカラダ革命』では少女時代のテヨンさんに「キレイの秘密」をインタビュー✨　スタイルキープ術や美しさをキープするために実践していることを教えていただきました🥰https://t.co/MWLM2su7ye https://t.co/aYjt1AMYgF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MWLM2su7ye",
+					"expanded_url": "https://www.amazon.co.jp/dp/4074465523/ref=cm_sw_r_tw_dp_x_091XFbWARX0C8",
+					"display_url": "amazon.co.jp/dp/4074465523/…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334706958415274000,
+					"id_str": "1334706958415273985",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EoXU6DeVoAEeSPY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoXU6DeVoAEeSPY.jpg",
+					"url": "https://t.co/aYjt1AMYgF",
+					"display_url": "pic.twitter.com/aYjt1AMYgF",
+					"expanded_url": "https://twitter.com/mag_scawaii/status/1334707027952553985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334706958415274000,
+					"id_str": "1334706958415273985",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EoXU6DeVoAEeSPY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoXU6DeVoAEeSPY.jpg",
+					"url": "https://t.co/aYjt1AMYgF",
+					"display_url": "pic.twitter.com/aYjt1AMYgF",
+					"expanded_url": "https://twitter.com/mag_scawaii/status/1334707027952553985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114918651,
+			"id_str": "114918651",
+			"name": "S Cawaii!編集部",
+			"screen_name": "mag_scawaii",
+			"location": "主婦の友インフォス",
+			"description": "雑誌『S Cawaii!（エスカワイイ）』（12月・3月・6月・9月　17日発売）の公式Twitter。撮影ウラ話からモデルのオフショットまでツイートします💕公式Instagramhttps://www.instagram.com/scawaii.magazine/lです🙌🏻",
+			"url": "https://t.co/E9op1L0Lnv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/E9op1L0Lnv",
+							"expanded_url": "https://scawaiiweb.com/",
+							"display_url": "scawaiiweb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33625,
+			"friends_count": 41,
+			"listed_count": 224,
+			"created_at": "Wed Feb 17 01:30:33 +0000 2010",
+			"favourites_count": 1461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF95BB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1333626795644440576/eatWdOgJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1333626795644440576/eatWdOgJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114918651/1606796381",
+			"profile_link_color": "E2007E",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 123,
+		"favorite_count": 359,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【発売中❗️】12月3日（木）発売、S Cawaii!特別編集『ほどよく、可愛く、締まったカラダ革命』では少女時代のテヨンさんに「キレイの秘密」をインタビュー✨　スタイルキープ術や美しさをキープするために実践していることを教えていただきました🥰https://t.co/MWLM2su7ye https://t.co/aYjt1AMYgF"
+	},
+	{
+		"created_at": "Fri Dec 04 07:14:40 +0000 2020",
+		"id": 1334754346244821000,
+		"id_str": "1334757998116429825",
+		"full_text": "오빛💫의 사랑 덕분에 #이달의소녀 가 '2020 아시아 모델 어워즈'에서 ‘인기 스타상’을 수상했습니다🏆 이달의 소녀의 음악으로 하나가 되어 응원해 줘서 늘 고마워요💖 오는 5일 오후 8시(KST) 방송되는 '2020 아시아 모델 어워즈'도 공식 유튜브 및 네이버 V LIVE로 생중계 본방사수하세요!\n\n#LOONA https://t.co/BoNqsECqpK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						170,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334754335910072300,
+					"id_str": "1334754335910072320",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EoX__yZVEAAt-2F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoX__yZVEAAt-2F.jpg",
+					"url": "https://t.co/BoNqsECqpK",
+					"display_url": "pic.twitter.com/BoNqsECqpK",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1334754346244820992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1038,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 345,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334754335910072300,
+					"id_str": "1334754335910072320",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EoX__yZVEAAt-2F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoX__yZVEAAt-2F.jpg",
+					"url": "https://t.co/BoNqsECqpK",
+					"display_url": "pic.twitter.com/BoNqsECqpK",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1334754346244820992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1038,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 345,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 591556,
+			"friends_count": 0,
+			"listed_count": 6046,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3496,
+		"favorite_count": 11872,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오빛💫의 사랑 덕분에 #이달의소녀 가 '2020 아시아 모델 어워즈'에서 ‘인기 스타상’을 수상했습니다🏆 이달의 소녀의 음악으로 하나가 되어 응원해 줘서 늘 고마워요💖 오는 5일 오후 8시(KST) 방송되는 '2020 아시아 모델 어워즈'도 공식 유튜브 및 네이버 V LIVE로 생중계 본방사수하세요!\n\n#LOONA https://t.co/BoNqsECqpK"
+	},
+	{
 		"created_at": "Fri Dec 04 07:01:36 +0000 2020",
 		"id": 1334754711497543700,
 		"id_str": "1334754711497543681",
