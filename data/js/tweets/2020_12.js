@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 04 01:24:19 +0000 2020",
+		"id": 1334669831782731800,
+		"id_str": "1334669831782731776",
+		"full_text": "#태연 #TAEYEON #알라딘\n태연 - 미니 4집 What Do I Call You [버전 2종 중 랜덤발송] (SM 엔터테인먼트 | 2020년 12월 | 16,300원)\nhttps://t.co/DdNzTqqvwu https://t.co/KV3Lz7CCR5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "알라딘",
+					"indices": [
+						13,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DdNzTqqvwu",
+					"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?itemid=257563461",
+					"display_url": "aladin.co.kr/shop/wproduct.…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334669830818041900,
+					"id_str": "1334669830818041857",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EoWzI8ZXEAE6lUs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoWzI8ZXEAE6lUs.jpg",
+					"url": "https://t.co/KV3Lz7CCR5",
+					"display_url": "pic.twitter.com/KV3Lz7CCR5",
+					"expanded_url": "https://twitter.com/fromminn/status/1334669831782731776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334669830818041900,
+					"id_str": "1334669830818041857",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EoWzI8ZXEAE6lUs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoWzI8ZXEAE6lUs.jpg",
+					"url": "https://t.co/KV3Lz7CCR5",
+					"display_url": "pic.twitter.com/KV3Lz7CCR5",
+					"expanded_url": "https://twitter.com/fromminn/status/1334669831782731776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#태연 #TAEYEON #알라딘\n태연 - 미니 4집 What Do I Call You [버전 2종 중 랜덤발송] (SM 엔터테인먼트 | 2020년 12월 | 16,300원)\nhttps://t.co/DdNzTqqvwu https://t.co/KV3Lz7CCR5"
+	},
+	{
 		"created_at": "Thu Dec 03 23:14:37 +0000 2020",
 		"id": 1334632165456277500,
 		"id_str": "1334637193596444680",
