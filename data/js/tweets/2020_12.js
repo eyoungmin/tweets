@@ -1,6 +1,542 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 04 03:00:50 +0000 2020",
+		"id": 1334694122360361000,
+		"id_str": "1334694122360360964",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Dec 4) https://t.co/WfGuYtiuU6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WfGuYtiuU6",
+					"expanded_url": "https://nzzl.us/yCYwEiU",
+					"display_url": "nzzl.us/yCYwEiU",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Dec 4) https://t.co/WfGuYtiuU6"
+	},
+	{
+		"created_at": "Fri Dec 04 02:52:29 +0000 2020",
+		"id": 1334692018426146800,
+		"id_str": "1334692018426146817",
+		"full_text": "#이달의소녀 #LOONA #알라딘\n이달의 소녀 - 2021 시즌 그리팅 (101익스피어리언스 | 2020년 12월 | 40,000원)\nhttps://t.co/n9b8M2671N https://t.co/Q4Tm0OQv37",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "알라딘",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n9b8M2671N",
+					"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?itemid=257520264",
+					"display_url": "aladin.co.kr/shop/wproduct.…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334692017591492600,
+					"id_str": "1334692017591492609",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EoXHUYkXIAEuUWX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoXHUYkXIAEuUWX.jpg",
+					"url": "https://t.co/Q4Tm0OQv37",
+					"display_url": "pic.twitter.com/Q4Tm0OQv37",
+					"expanded_url": "https://twitter.com/fromminn/status/1334692018426146817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334692017591492600,
+					"id_str": "1334692017591492609",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EoXHUYkXIAEuUWX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoXHUYkXIAEuUWX.jpg",
+					"url": "https://t.co/Q4Tm0OQv37",
+					"display_url": "pic.twitter.com/Q4Tm0OQv37",
+					"expanded_url": "https://twitter.com/fromminn/status/1334692018426146817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA #알라딘\n이달의 소녀 - 2021 시즌 그리팅 (101익스피어리언스 | 2020년 12월 | 40,000원)\nhttps://t.co/n9b8M2671N https://t.co/Q4Tm0OQv37"
+	},
+	{
+		"created_at": "Fri Dec 04 02:45:37 +0000 2020",
+		"id": 1334681593617604600,
+		"id_str": "1334690291211702274",
+		"full_text": "&lt;쇼! 음악중심&gt; 출연자 라인업 공개🍦🍩 #BoA #카이 #GOT7  #노라조 #WOODZ(#조승연) #NCT  #모모랜드 #이달의소녀 #wooah #엘라스트 #DRIPPIN #STAYC #블링블링 #BAE173 #NTX #쿠잉 토요일 오후 3시 40분🍬🍫🍰",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						29,
+						33
+					]
+				},
+				{
+					"text": "카이",
+					"indices": [
+						34,
+						37
+					]
+				},
+				{
+					"text": "GOT7",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "노라조",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "WOODZ",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "조승연",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "모모랜드",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "wooah",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "엘라스트",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						95,
+						103
+					]
+				},
+				{
+					"text": "STAYC",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "블링블링",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "BAE173",
+					"indices": [
+						117,
+						124
+					]
+				},
+				{
+					"text": "NTX",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "쿠잉",
+					"indices": [
+						130,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 224566089,
+			"id_str": "224566089",
+			"name": "쇼! 음악중심",
+			"screen_name": "MBCMusicCore",
+			"location": "대한민국 서울 (South Korea)",
+			"description": "쇼!음악중심 공식 트위터 / 매주 토요일 오후 3시30분 방송",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 249764,
+			"friends_count": 0,
+			"listed_count": 524,
+			"created_at": "Thu Dec 09 09:33:13 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 354,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134414494191374336/lUaIDPwc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134414494191374336/lUaIDPwc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/224566089/1591971824",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 655,
+		"favorite_count": 1086,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "&lt;쇼! 음악중심&gt; 출연자 라인업 공개🍦🍩 #BoA #카이 #GOT7  #노라조 #WOODZ(#조승연) #NCT  #모모랜드 #이달의소녀 #wooah #엘라스트 #DRIPPIN #STAYC #블링블링 #BAE173 #NTX #쿠잉 토요일 오후 3시 40분🍬🍫🍰"
+	},
+	{
 		"created_at": "Fri Dec 04 01:24:19 +0000 2020",
 		"id": 1334669831782731800,
 		"id_str": "1334669831782731776",
