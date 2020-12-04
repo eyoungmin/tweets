@@ -1,10 +1,263 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 04 17:14:38 +0000 2020",
+		"id": 1334907343037812700,
+		"id_str": "1334908984680214531",
+		"full_text": "Watch Billie’s performance of “everything i wanted” at the Steve Jobs Theater for the #AppleMusicAwards, one year ago today. @applemusic https://t.co/KZyKmarscV https://t.co/XDWUqEP884",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AppleMusicAwards",
+					"indices": [
+						86,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						125,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KZyKmarscV",
+					"expanded_url": "https://youtu.be/WwR-jyPHZ4Q",
+					"display_url": "youtu.be/WwR-jyPHZ4Q",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334906826274443300,
+					"id_str": "1334906826274443269",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1334906826274443269/pu/img/rv0M1cJGWiXBNLyc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1334906826274443269/pu/img/rv0M1cJGWiXBNLyc.jpg",
+					"url": "https://t.co/XDWUqEP884",
+					"display_url": "pic.twitter.com/XDWUqEP884",
+					"expanded_url": "https://twitter.com/billieeilish/status/1334907343037812736/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334906826274443300,
+					"id_str": "1334906826274443269",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1334906826274443269/pu/img/rv0M1cJGWiXBNLyc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1334906826274443269/pu/img/rv0M1cJGWiXBNLyc.jpg",
+					"url": "https://t.co/XDWUqEP884",
+					"display_url": "pic.twitter.com/XDWUqEP884",
+					"expanded_url": "https://twitter.com/billieeilish/status/1334907343037812736/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 16390,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1334906826274443269/pu/vid/480x480/w52NMOvDhxEgkwlK.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1334906826274443269/pu/vid/320x320/xo3QUS7YF0xWOm50.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1334906826274443269/pu/pl/1ddnraWPiBwIFMq2.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1334906826274443269/pu/vid/720x720/EssNiC1AxIRwuePK.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? https://t.co/jPS2qPEVbA | “Therefore I Am” https://t.co/E5ubhVL7x3",
+			"url": "https://t.co/oRhmwrN1J1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRhmwrN1J1",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPS2qPEVbA",
+							"expanded_url": "https://smarturl.it/BILLIEALBUM",
+							"display_url": "smarturl.it/BILLIEALBUM",
+							"indices": [
+								41,
+								64
+							]
+						},
+						{
+							"url": "https://t.co/E5ubhVL7x3",
+							"expanded_url": "https://smarturl.it/ThereforeIAm",
+							"display_url": "smarturl.it/ThereforeIAm",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5220243,
+			"friends_count": 0,
+			"listed_count": 3154,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 567,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326956252845371394/4UYImnxl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326956252845371394/4UYImnxl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1605204422",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1325,
+		"favorite_count": 12478,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watch Billie’s performance of “everything i wanted” at the Steve Jobs Theater for the #AppleMusicAwards, one year ago today. @applemusic https://t.co/KZyKmarscV https://t.co/XDWUqEP884"
+	},
+	{
 		"created_at": "Fri Dec 04 15:17:50 +0000 2020",
 		"id": 1334877124595953700,
 		"id_str": "1334879594818621441",
-		"full_text": "In the modern digital music economy, getting your metadata ducks in a row is essential for independent artists. Here are three types of metadata you need to be aware of. 💻 💾 👩‍💻  #MusicBusiness #MusicIndustry #Metadata https://t.co/rZigxgq47f",
+		"full_text": "In the modern digital music economy, getting your metadata ducks in a row is essential for independent artists. Here are three types of metadata you need to be aware of. 💻 💾 👩💻  #MusicBusiness #MusicIndustry #Metadata https://t.co/rZigxgq47f",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -126,7 +379,7 @@ Grailbird.data.tweets_2020_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "In the modern digital music economy, getting your metadata ducks in a row is essential for independent artists. Here are three types of metadata you need to be aware of. 💻 💾 👩‍💻  #MusicBusiness #MusicIndustry #Metadata https://t.co/rZigxgq47f"
+		"text": "In the modern digital music economy, getting your metadata ducks in a row is essential for independent artists. Here are three types of metadata you need to be aware of. 💻 💾 👩💻  #MusicBusiness #MusicIndustry #Metadata https://t.co/rZigxgq47f"
 	},
 	{
 		"created_at": "Fri Dec 04 14:49:18 +0000 2020",
