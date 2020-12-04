@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 04 19:38:23 +0000 2020",
+		"id": 1334248475878363100,
+		"id_str": "1334945162611421184",
+		"full_text": "故김광석·김현식·터틀맨, AI로 부활해 신곡 부른다\nhttps://t.co/mb4qEqh0Jb\n\n김광석부터 김현식, 거북이 터틀맨까지, 방송사들이 고인이 된 가수들을 AI(인공지능)로 다시 불러냅니다. https://t.co/GvmufOOuNf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mb4qEqh0Jb",
+					"expanded_url": "https://www.yna.co.kr/view/AKR20201202108800005?input=tw",
+					"display_url": "yna.co.kr/view/AKR202012…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334113089172557800,
+					"id_str": "1334113089172557828",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EoO4yUJUUAQQf91.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoO4yUJUUAQQf91.jpg",
+					"url": "https://t.co/GvmufOOuNf",
+					"display_url": "pic.twitter.com/GvmufOOuNf",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1334248475878363137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 476,
+							"h": 248,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 476,
+							"h": 248,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 476,
+							"h": 248,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334113089172557800,
+					"id_str": "1334113089172557828",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EoO4yUJUUAQQf91.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoO4yUJUUAQQf91.jpg",
+					"url": "https://t.co/GvmufOOuNf",
+					"display_url": "pic.twitter.com/GvmufOOuNf",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1334248475878363137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 476,
+							"h": 248,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 476,
+							"h": 248,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 476,
+							"h": 248,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147451838,
+			"id_str": "147451838",
+			"name": "연합뉴스",
+			"screen_name": "yonhaptweet",
+			"location": "대한민국 서울",
+			"description": "[홈페이지] https://t.co/1xjsaY9KNh  \n제보는 카카오톡, 라인, 위챗 okjebo",
+			"url": "https://t.co/1xjsaY9KNh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								7,
+								30
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 321244,
+			"friends_count": 69359,
+			"listed_count": 4480,
+			"created_at": "Mon May 24 05:08:01 +0000 2010",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 225166,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1548822583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 859,
+		"favorite_count": 217,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "故김광석·김현식·터틀맨, AI로 부활해 신곡 부른다\nhttps://t.co/mb4qEqh0Jb\n\n김광석부터 김현식, 거북이 터틀맨까지, 방송사들이 고인이 된 가수들을 AI(인공지능)로 다시 불러냅니다. https://t.co/GvmufOOuNf"
+	},
+	{
 		"created_at": "Fri Dec 04 17:14:38 +0000 2020",
 		"id": 1334907343037812700,
 		"id_str": "1334908984680214531",
