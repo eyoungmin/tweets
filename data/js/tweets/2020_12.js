@@ -1,6 +1,487 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 05 06:45:42 +0000 2020",
+		"id": 1335109226327249000,
+		"id_str": "1335113098001321992",
+		"full_text": "오빛의 마음에 #이달의소녀 를 멋지게 기록하고 싶은 오늘도 '목소리(Voice)' 무대로 오빛을 찾아왔어요💗 잠시 후 오후 3시 40분(KST) 방송되는 쇼! 음악중심에서 확인하세요✨\n\n#LOONA https://t.co/kVXGIp6aEx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						104,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1335109214612570000,
+					"id_str": "1335109214612570115",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/EodCwclVQAMPlME.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EodCwclVQAMPlME.jpg",
+					"url": "https://t.co/kVXGIp6aEx",
+					"display_url": "pic.twitter.com/kVXGIp6aEx",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1335109226327248896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335109214612570000,
+					"id_str": "1335109214612570115",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/EodCwclVQAMPlME.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EodCwclVQAMPlME.jpg",
+					"url": "https://t.co/kVXGIp6aEx",
+					"display_url": "pic.twitter.com/kVXGIp6aEx",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1335109226327248896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 592041,
+			"friends_count": 0,
+			"listed_count": 6047,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2940,
+		"favorite_count": 9868,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오빛의 마음에 #이달의소녀 를 멋지게 기록하고 싶은 오늘도 '목소리(Voice)' 무대로 오빛을 찾아왔어요💗 잠시 후 오후 3시 40분(KST) 방송되는 쇼! 음악중심에서 확인하세요✨\n\n#LOONA https://t.co/kVXGIp6aEx"
+	},
+	{
+		"created_at": "Sat Dec 05 06:14:54 +0000 2020",
+		"id": 1335098263008026600,
+		"id_str": "1335105346843631616",
+		"full_text": "Orbit💫#LOONA made it into #KIISJingleBall Village line-up🎄\n\n▶️ Dec.10th 5:10PM(PT) \n▶️ Dec.11th 10:45AM(KST)\n\nListen to it live on @1027kiisfm🤍\nMore info at https://t.co/JDDxnM2xnj !\n\n#이달의소녀 #LOONA_Star",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "KIISJingleBall",
+					"indices": [
+						26,
+						41
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						184,
+						190
+					]
+				},
+				{
+					"text": "LOONA_Star",
+					"indices": [
+						191,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "1027KIISFM",
+					"name": "102.7 KIIS FM",
+					"id": 19046392,
+					"id_str": "19046392",
+					"indices": [
+						131,
+						142
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JDDxnM2xnj",
+					"expanded_url": "http://kiisfm.com/jingleball",
+					"display_url": "kiisfm.com/jingleball",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1335098175720284200,
+		"in_reply_to_status_id_str": "1335098175720284160",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 592041,
+			"friends_count": 0,
+			"listed_count": 6047,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 328,
+		"favorite_count": 1744,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Orbit💫#LOONA made it into #KIISJingleBall Village line-up🎄\n\n▶️ Dec.10th 5:10PM(PT) \n▶️ Dec.11th 10:45AM(KST)\n\nListen to it live on @1027kiisfm🤍\nMore info at https://t.co/JDDxnM2xnj !\n\n#이달의소녀 #LOONA_Star"
+	},
+	{
+		"created_at": "Sat Dec 05 06:14:47 +0000 2020",
+		"id": 1335098175720284200,
+		"id_str": "1335105317034717185",
+		"full_text": "오빛💫 #이달의소녀 가 #KIISJingleBall Village 라인업에 이름을 올렸습니다🎄\n\n▶️ 12월 10일 5:10PM(PT) \n▶️ 12월 11일 10:45AM(KST)\n\n@1027kiisfm 라이브에서 만나요🤍 \n더 자세한 내용은 https://t.co/JDDxnM2xnj 에서 확인하세요!\n\n#LOONA #LOONA_Star",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						4,
+						10
+					]
+				},
+				{
+					"text": "KIISJingleBall",
+					"indices": [
+						13,
+						28
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						171,
+						177
+					]
+				},
+				{
+					"text": "LOONA_Star",
+					"indices": [
+						178,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "1027KIISFM",
+					"name": "102.7 KIIS FM",
+					"id": 19046392,
+					"id_str": "19046392",
+					"indices": [
+						102,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JDDxnM2xnj",
+					"expanded_url": "http://kiisfm.com/jingleball",
+					"display_url": "kiisfm.com/jingleball",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 592041,
+			"friends_count": 0,
+			"listed_count": 6047,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 847,
+		"favorite_count": 3975,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오빛💫 #이달의소녀 가 #KIISJingleBall Village 라인업에 이름을 올렸습니다🎄\n\n▶️ 12월 10일 5:10PM(PT) \n▶️ 12월 11일 10:45AM(KST)\n\n@1027kiisfm 라이브에서 만나요🤍 \n더 자세한 내용은 https://t.co/JDDxnM2xnj 에서 확인하세요!\n\n#LOONA #LOONA_Star"
+	},
+	{
 		"created_at": "Sat Dec 05 04:14:38 +0000 2020",
 		"id": 1335060531699282000,
 		"id_str": "1335075079240245248",
