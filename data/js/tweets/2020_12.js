@@ -1,6 +1,464 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 05 03:43:08 +0000 2020",
+		"id": 1335067154367082500,
+		"id_str": "1335067154367082498",
+		"full_text": "EASY - 12.09\nhttps://t.co/OwKYb3Avdu\n#TroyeSivan #트로이시반",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TroyeSivan",
+					"indices": [
+						37,
+						48
+					]
+				},
+				{
+					"text": "트로이시반",
+					"indices": [
+						49,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OwKYb3Avdu",
+					"expanded_url": "https://youtu.be/PkY-pgMSC3g",
+					"display_url": "youtu.be/PkY-pgMSC3g",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73554,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "EASY - 12.09\nhttps://t.co/OwKYb3Avdu\n#TroyeSivan #트로이시반"
+	},
+	{
+		"created_at": "Sat Dec 05 03:24:32 +0000 2020",
+		"id": 1335062473762861000,
+		"id_str": "1335062473762861057",
+		"full_text": "#유리한TV #유리한식탁\n[유리한 식탁] ⭐HBD⭐ 유리야 생일 추카한돠!!!!!!!!!!!!!!!!!!!!!!!!!!\nhttps://t.co/SFAIw7Nznl\n#소녀시대 #GirlsGeneration\n#권유리 #YuriKwon #유리 #YURI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유리한TV",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "유리한식탁",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						97,
+						113
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "YuriKwon",
+					"indices": [
+						119,
+						128
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						133,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SFAIw7Nznl",
+					"expanded_url": "https://youtu.be/1-7rVM2uvrw",
+					"display_url": "youtu.be/1-7rVM2uvrw",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73554,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유리한TV #유리한식탁\n[유리한 식탁] ⭐HBD⭐ 유리야 생일 추카한돠!!!!!!!!!!!!!!!!!!!!!!!!!!\nhttps://t.co/SFAIw7Nznl\n#소녀시대 #GirlsGeneration\n#권유리 #YuriKwon #유리 #YURI"
+	},
+	{
+		"created_at": "Sat Dec 05 03:14:42 +0000 2020",
+		"id": 1334792687451402200,
+		"id_str": "1335059996606951426",
+		"full_text": "❗️Rt+팔로우 필수\n오디션에 도전하는 코몽!\n심사위원은 누구일지 멘션으로 맞춰보라몽🙈\n\n맞춘 칭구 다섯명에게 코몽이 투명포카를 선물한다몽!(국내주소 한정)\n\nps.심사위원,칭구,롤모델 다 되는 누나들🙊\n(~12/7 당첨자발표) https://t.co/rrlZXhUt2c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334792681285771300,
+					"id_str": "1334792681285771264",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EoYi3yDUYAAwA7u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoYi3yDUYAAwA7u.jpg",
+					"url": "https://t.co/rrlZXhUt2c",
+					"display_url": "pic.twitter.com/rrlZXhUt2c",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1334792687451402240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334792681285771300,
+					"id_str": "1334792681285771264",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EoYi3yDUYAAwA7u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoYi3yDUYAAwA7u.jpg",
+					"url": "https://t.co/rrlZXhUt2c",
+					"display_url": "pic.twitter.com/rrlZXhUt2c",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1334792687451402240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097461345677500400,
+			"id_str": "1097461345677500417",
+			"name": "코코몽",
+			"screen_name": "cocomong_kr",
+			"location": "냉장고나라 ",
+			"description": "코코몽(냉장코 코씨,12살)\n회사몰래하는 케이팝 덕질 계정🙈\n코몽이 언급하면 달려간다몽",
+			"url": "https://t.co/Iva8494tnf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Iva8494tnf",
+							"expanded_url": "https://www.instagram.com/cocomong.official",
+							"display_url": "instagram.com/cocomong.offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1453,
+			"friends_count": 0,
+			"listed_count": 2,
+			"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+			"favourites_count": 807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257178347957714945/o7LiNEE9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257178347957714945/o7LiNEE9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1108,
+		"favorite_count": 5148,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❗️Rt+팔로우 필수\n오디션에 도전하는 코몽!\n심사위원은 누구일지 멘션으로 맞춰보라몽🙈\n\n맞춘 칭구 다섯명에게 코몽이 투명포카를 선물한다몽!(국내주소 한정)\n\nps.심사위원,칭구,롤모델 다 되는 누나들🙊\n(~12/7 당첨자발표) https://t.co/rrlZXhUt2c"
+	},
+	{
 		"created_at": "Sat Dec 05 03:00:41 +0000 2020",
 		"id": 1335056470048723000,
 		"id_str": "1335056470048722946",
