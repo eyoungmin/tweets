@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 05 16:59:01 +0000 2020",
+		"id": 1335042456908226600,
+		"id_str": "1335267443879526400",
+		"full_text": "유기견 파티의 사연을 듣고\n티파니가 분노한 이유?\n\n영상 보러 가기\nhttps://t.co/6OCnDiMIss\n\nSBS 교양 프로그램 '어쩌다 마주친 그 개'\n☞ 2020년 12월 17일 방송 예정\n\n#SBS #동물농장 #아산이 #구름이\n#강아지 #반려견 #입양 #임시보호\n#조윤희 #티파니 #이연복 #허경환 #도레미파솔 #파티 https://t.co/4HQdDj23CB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SBS",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "동물농장",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "아산이",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "구름이",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "강아지",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "반려견",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "입양",
+					"indices": [
+						143,
+						146
+					]
+				},
+				{
+					"text": "임시보호",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "조윤희",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						158,
+						162
+					]
+				},
+				{
+					"text": "이연복",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "허경환",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "도레미파솔",
+					"indices": [
+						173,
+						179
+					]
+				},
+				{
+					"text": "파티",
+					"indices": [
+						180,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6OCnDiMIss",
+					"expanded_url": "https://youtu.be/_9avJeBlqiE",
+					"display_url": "youtu.be/_9avJeBlqiE",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334360440583831600,
+					"id_str": "1334360440583831553",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EoSZwD9VQAEpDqn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoSZwD9VQAEpDqn.jpg",
+					"url": "https://t.co/4HQdDj23CB",
+					"display_url": "pic.twitter.com/4HQdDj23CB",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1335042456908226560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334360440583831600,
+					"id_str": "1334360440583831553",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EoSZwD9VQAEpDqn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoSZwD9VQAEpDqn.jpg",
+					"url": "https://t.co/4HQdDj23CB",
+					"display_url": "pic.twitter.com/4HQdDj23CB",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1335042456908226560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113259902,
+			"id_str": "113259902",
+			"name": "SBS",
+			"screen_name": "SBSNOW",
+			"location": "37.5291271,126.873538",
+			"description": "SBS공식트위터 '스브스 나우'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1641486,
+			"friends_count": 4660,
+			"listed_count": 2846,
+			"created_at": "Thu Feb 11 06:04:28 +0000 2010",
+			"favourites_count": 1196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 47279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315443702244892674/-vyL7cwH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315443702244892674/-vyL7cwH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113259902/1603671958",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 565,
+		"favorite_count": 800,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유기견 파티의 사연을 듣고\n티파니가 분노한 이유?\n\n영상 보러 가기\nhttps://t.co/6OCnDiMIss\n\nSBS 교양 프로그램 '어쩌다 마주친 그 개'\n☞ 2020년 12월 17일 방송 예정\n\n#SBS #동물농장 #아산이 #구름이\n#강아지 #반려견 #입양 #임시보호\n#조윤희 #티파니 #이연복 #허경환 #도레미파솔 #파티 https://t.co/4HQdDj23CB"
+	},
+	{
 		"created_at": "Sat Dec 05 15:11:05 +0000 2020",
 		"id": 1334440158989484000,
 		"id_str": "1335240282409893888",
