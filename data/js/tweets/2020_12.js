@@ -1,6 +1,1268 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 05 09:45:37 +0000 2020",
+		"id": 1335148814110376000,
+		"id_str": "1335158374472806401",
+		"full_text": "201205🔍 [예능연구소 4K 직캠]\n\n'이달의 소녀 - 목소리(Voice)' \n▶ https://t.co/upG7isDsZE\n\n#쇼음악중심 #음중 #이달의소녀 #LOONA #목소리 #Voice @loonatheworld https://t.co/E22QtKOJGg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "음중",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "목소리",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "Voice",
+					"indices": [
+						103,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						110,
+						124
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/upG7isDsZE",
+					"expanded_url": "https://youtu.be/phBXS99SEkc",
+					"display_url": "youtu.be/phBXS99SEkc",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1335148695923224600,
+					"id_str": "1335148695923224577",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/Eodmqj7UcAELKsR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eodmqj7UcAELKsR.jpg",
+					"url": "https://t.co/E22QtKOJGg",
+					"display_url": "pic.twitter.com/E22QtKOJGg",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1335148814110375936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335148695923224600,
+					"id_str": "1335148695923224577",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/Eodmqj7UcAELKsR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eodmqj7UcAELKsR.jpg",
+					"url": "https://t.co/E22QtKOJGg",
+					"display_url": "pic.twitter.com/E22QtKOJGg",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1335148814110375936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 857176,
+			"friends_count": 5,
+			"listed_count": 835,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 151,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "201205🔍 [예능연구소 4K 직캠]\n\n'이달의 소녀 - 목소리(Voice)' \n▶ https://t.co/upG7isDsZE\n\n#쇼음악중심 #음중 #이달의소녀 #LOONA #목소리 #Voice @loonatheworld https://t.co/E22QtKOJGg"
+	},
+	{
+		"created_at": "Sat Dec 05 09:22:08 +0000 2020",
+		"id": 1335152467944870000,
+		"id_str": "1335152467944869890",
+		"full_text": "#SMTOWN #PLAYLIST\n[예능연구소 4K] 보아 직캠 'Better' (BoA FanCam) @Show!MusicCore 201205\nhttps://t.co/dW8yPtjlx4\n#보아 #BoA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						108,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "show",
+					"name": "Creature",
+					"id": 82946051,
+					"id_str": "82946051",
+					"indices": [
+						57,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dW8yPtjlx4",
+					"expanded_url": "https://www.youtube.com/watch?v=Ze3Ta7r7AjE",
+					"display_url": "youtube.com/watch?v=Ze3Ta7…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #PLAYLIST\n[예능연구소 4K] 보아 직캠 'Better' (BoA FanCam) @Show!MusicCore 201205\nhttps://t.co/dW8yPtjlx4\n#보아 #BoA"
+	},
+	{
+		"created_at": "Sat Dec 05 09:22:08 +0000 2020",
+		"id": 1335152465176637400,
+		"id_str": "1335152465176637440",
+		"full_text": "#SMTOWN #PLAYLIST\nEP3. Eat You Up - 'Nobody Talks To BoA - 모두가 그녀에게 말을 걸지 않아'\nhttps://t.co/aX7N7stArC\n#보아 #BoA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						106,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aX7N7stArC",
+					"expanded_url": "https://www.youtube.com/watch?v=ndMcVLgksJo",
+					"display_url": "youtube.com/watch?v=ndMcVL…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #PLAYLIST\nEP3. Eat You Up - 'Nobody Talks To BoA - 모두가 그녀에게 말을 걸지 않아'\nhttps://t.co/aX7N7stArC\n#보아 #BoA"
+	},
+	{
+		"created_at": "Sat Dec 05 09:22:07 +0000 2020",
+		"id": 1335152463503089700,
+		"id_str": "1335152463503089664",
+		"full_text": "#SMTOWN #PLAYLIST\nEP4. When We Were Young - 'Nobody Talks To BoA - 모두가 그녀에게 말을 걸지 않아'\nhttps://t.co/kmDgB5m344\n#보아 #BoA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						114,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kmDgB5m344",
+					"expanded_url": "https://www.youtube.com/watch?v=KhqRDxd90Is",
+					"display_url": "youtube.com/watch?v=KhqRDx…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #PLAYLIST\nEP4. When We Were Young - 'Nobody Talks To BoA - 모두가 그녀에게 말을 걸지 않아'\nhttps://t.co/kmDgB5m344\n#보아 #BoA"
+	},
+	{
+		"created_at": "Sat Dec 05 09:17:08 +0000 2020",
+		"id": 1335151207715926000,
+		"id_str": "1335151207715926018",
+		"full_text": "Sigrid - Home To You / NRK1 Lindmo 2020\nhttps://t.co/pfS0wxl5pR\n#Sigrid #시그리드",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Sigrid",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"text": "시그리드",
+					"indices": [
+						72,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pfS0wxl5pR",
+					"expanded_url": "https://youtu.be/eTIzlTeIIac",
+					"display_url": "youtu.be/eTIzlTeIIac",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sigrid - Home To You / NRK1 Lindmo 2020\nhttps://t.co/pfS0wxl5pR\n#Sigrid #시그리드"
+	},
+	{
+		"created_at": "Sat Dec 05 09:14:55 +0000 2020",
+		"id": 1335147762745180200,
+		"id_str": "1335150649005236224",
+		"full_text": "EP4. When We Were Young - 'Nobody Talks To BoA - 모두가 그녀에게 말을 걸지 않아'\n\n🎬 https://t.co/kpoI8SyHTL\n\n#보아 #BoA\n#Nobody_Talks_To_BoA\n#모두가_그녀에게_말을_걸지_않아",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보아",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "Nobody_Talks_To_BoA",
+					"indices": [
+						105,
+						125
+					]
+				},
+				{
+					"text": "모두가_그녀에게_말을_걸지_않아",
+					"indices": [
+						126,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kpoI8SyHTL",
+					"expanded_url": "https://youtu.be/KhqRDxd90Is",
+					"display_url": "youtu.be/KhqRDxd90Is",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39236,
+			"friends_count": 1,
+			"listed_count": 124,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 246,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "EP4. When We Were Young - 'Nobody Talks To BoA - 모두가 그녀에게 말을 걸지 않아'\n\n🎬 https://t.co/kpoI8SyHTL\n\n#보아 #BoA\n#Nobody_Talks_To_BoA\n#모두가_그녀에게_말을_걸지_않아"
+	},
+	{
+		"created_at": "Sat Dec 05 09:14:46 +0000 2020",
+		"id": 1335147627764039700,
+		"id_str": "1335150610769997824",
+		"full_text": "EP3. Eat You Up - 'Nobody Talks To BoA - 모두가 그녀에게 말을 걸지 않아'\n\n🎬 https://t.co/9OoGsEODlU\n\n#보아 #BoA\n#Nobody_Talks_To_BoA\n#모두가_그녀에게_말을_걸지_않아",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보아",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "Nobody_Talks_To_BoA",
+					"indices": [
+						97,
+						117
+					]
+				},
+				{
+					"text": "모두가_그녀에게_말을_걸지_않아",
+					"indices": [
+						118,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9OoGsEODlU",
+					"expanded_url": "https://youtu.be/ndMcVLgksJo",
+					"display_url": "youtu.be/ndMcVLgksJo",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39236,
+			"friends_count": 1,
+			"listed_count": 124,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 231,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "EP3. Eat You Up - 'Nobody Talks To BoA - 모두가 그녀에게 말을 걸지 않아'\n\n🎬 https://t.co/9OoGsEODlU\n\n#보아 #BoA\n#Nobody_Talks_To_BoA\n#모두가_그녀에게_말을_걸지_않아"
+	},
+	{
+		"created_at": "Sat Dec 05 09:14:37 +0000 2020",
+		"id": 1335135529315156000,
+		"id_str": "1335150576489861123",
+		"full_text": "보아(BoA) - Better \n\n👉 https://t.co/7F2ku7yJuh \n\n#보아 #BoA\n#BETTER\n#음악중심",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보아",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "BETTER",
+					"indices": [
+						56,
+						63
+					]
+				},
+				{
+					"text": "음악중심",
+					"indices": [
+						64,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7F2ku7yJuh",
+					"expanded_url": "http://naver.me/5xNHczPh",
+					"display_url": "naver.me/5xNHczPh",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39236,
+			"friends_count": 1,
+			"listed_count": 124,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 317,
+		"favorite_count": 795,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보아(BoA) - Better \n\n👉 https://t.co/7F2ku7yJuh \n\n#보아 #BoA\n#BETTER\n#음악중심"
+	},
+	{
+		"created_at": "Sat Dec 05 09:04:09 +0000 2020",
+		"id": 1335147939799457800,
+		"id_str": "1335147939799457792",
+		"full_text": "EP3. Eat You Up - 'Nobody Talks To BoA - 모두가 그녀에게 말을 걸지 않아'\nhttps://t.co/e8SfHDXMx4\n#보아 #BoA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보아",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						88,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e8SfHDXMx4",
+					"expanded_url": "https://youtu.be/ndMcVLgksJo",
+					"display_url": "youtu.be/ndMcVLgksJo",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1024,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "EP3. Eat You Up - 'Nobody Talks To BoA - 모두가 그녀에게 말을 걸지 않아'\nhttps://t.co/e8SfHDXMx4\n#보아 #BoA"
+	},
+	{
 		"created_at": "Sat Dec 05 08:45:37 +0000 2020",
 		"id": 1335136841490595800,
 		"id_str": "1335143274424754176",
