@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 05 19:57:35 +0000 2020",
+		"id": 1300261546422014000,
+		"id_str": "1335312383426715648",
+		"full_text": "크리스틴 스튜어트 전설의.. 샤넬쇼\n다시봐도 미치겠네 https://t.co/0yh75ODGji",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1300261539551703000,
+					"id_str": "1300261539551703040",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Egt0-ywU8AAOrVA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Egt0-ywU8AAOrVA.jpg",
+					"url": "https://t.co/0yh75ODGji",
+					"display_url": "pic.twitter.com/0yh75ODGji",
+					"expanded_url": "https://twitter.com/819_berrybom/status/1300261546422013954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 615,
+							"h": 843,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 615,
+							"h": 843,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 496,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1300261539551703000,
+					"id_str": "1300261539551703040",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Egt0-ywU8AAOrVA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Egt0-ywU8AAOrVA.jpg",
+					"url": "https://t.co/0yh75ODGji",
+					"display_url": "pic.twitter.com/0yh75ODGji",
+					"expanded_url": "https://twitter.com/819_berrybom/status/1300261546422013954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 615,
+							"h": 843,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 615,
+							"h": 843,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 496,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1300261539551690800,
+					"id_str": "1300261539551690752",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Egt0-ywUwAA6vUF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Egt0-ywUwAA6vUF.jpg",
+					"url": "https://t.co/0yh75ODGji",
+					"display_url": "pic.twitter.com/0yh75ODGji",
+					"expanded_url": "https://twitter.com/819_berrybom/status/1300261546422013954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 525,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 525,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1300261539547472000,
+					"id_str": "1300261539547471872",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Egt0-yvUYAAsq9b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Egt0-yvUYAAsq9b.jpg",
+					"url": "https://t.co/0yh75ODGji",
+					"display_url": "pic.twitter.com/0yh75ODGji",
+					"expanded_url": "https://twitter.com/819_berrybom/status/1300261546422013954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 377,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 377,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 377,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1300261539551699000,
+					"id_str": "1300261539551698946",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Egt0-ywU4AIw4L3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Egt0-ywU4AIw4L3.jpg",
+					"url": "https://t.co/0yh75ODGji",
+					"display_url": "pic.twitter.com/0yh75ODGji",
+					"expanded_url": "https://twitter.com/819_berrybom/status/1300261546422013954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 550,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 374,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 550,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 807895058804396000,
+			"id_str": "807895058804396032",
+			"name": "알리🍒",
+			"screen_name": "819_berrybom",
+			"location": "영화음악",
+			"description": "여자들 위주로 덕질하고, 여자들 위주로 영화보고 기록해요🤔 흠 그리고 웬트워스랑 오뉴블 자주 언급 합니다. 모든 여자들 다 덕질하는 잡덕‼️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 705,
+			"friends_count": 254,
+			"listed_count": 0,
+			"created_at": "Sun Dec 11 10:29:26 +0000 2016",
+			"favourites_count": 9979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22808,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1333193094750113792/wBfDsfUn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1333193094750113792/wBfDsfUn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/807895058804396032/1595605016",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2520,
+		"favorite_count": 3080,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "크리스틴 스튜어트 전설의.. 샤넬쇼\n다시봐도 미치겠네 https://t.co/0yh75ODGji"
+	},
+	{
 		"created_at": "Sat Dec 05 16:59:01 +0000 2020",
 		"id": 1335042456908226600,
 		"id_str": "1335267443879526400",
