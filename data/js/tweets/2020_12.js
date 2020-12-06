@@ -1,6 +1,521 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 06 10:45:37 +0000 2020",
+		"id": 1335529361269608400,
+		"id_str": "1335535861606322179",
+		"full_text": "[🎥#안방1열직캠] 이달의 소녀 - 목소리\n\n#인기가요 #이달의소녀 #목소리 #LOONA #Voice @loonatheworld\n\n👉https://t.co/5oiDEoypO6 https://t.co/ixE1yg2lbm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안방1열직캠",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						25,
+						30
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "목소리",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"text": "Voice",
+					"indices": [
+						50,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						57,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5oiDEoypO6",
+					"expanded_url": "https://youtu.be/xjHnyIOloz0",
+					"display_url": "youtu.be/xjHnyIOloz0",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1335529255766118400,
+					"id_str": "1335529255766118400",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EojAyD0U0AAC_ur.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EojAyD0U0AAC_ur.jpg",
+					"url": "https://t.co/ixE1yg2lbm",
+					"display_url": "pic.twitter.com/ixE1yg2lbm",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1335529361269608448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335529255766118400,
+					"id_str": "1335529255766118400",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EojAyD0U0AAC_ur.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EojAyD0U0AAC_ur.jpg",
+					"url": "https://t.co/ixE1yg2lbm",
+					"display_url": "pic.twitter.com/ixE1yg2lbm",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1335529361269608448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/qapZ7nOCns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qapZ7nOCns",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 238255,
+			"friends_count": 77,
+			"listed_count": 256,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 1811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1738,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1607235930",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 138,
+		"favorite_count": 622,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥#안방1열직캠] 이달의 소녀 - 목소리\n\n#인기가요 #이달의소녀 #목소리 #LOONA #Voice @loonatheworld\n\n👉https://t.co/5oiDEoypO6 https://t.co/ixE1yg2lbm"
+	},
+	{
+		"created_at": "Sun Dec 06 10:14:45 +0000 2020",
+		"id": 1335520813643047000,
+		"id_str": "1335528094950682625",
+		"full_text": "Scenario 홍예리 \n\n#사랑은언젠가끝에닿아 https://t.co/dkVcfmuWXD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사랑은언젠가끝에닿아",
+					"indices": [
+						15,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1335520805787107300,
+					"id_str": "1335520805787107328",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/Eoi5GNMVgAAcO8h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eoi5GNMVgAAcO8h.jpg",
+					"url": "https://t.co/dkVcfmuWXD",
+					"display_url": "pic.twitter.com/dkVcfmuWXD",
+					"expanded_url": "https://twitter.com/savina0128/status/1335520813643046915/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335520805787107300,
+					"id_str": "1335520805787107328",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/Eoi5GNMVgAAcO8h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eoi5GNMVgAAcO8h.jpg",
+					"url": "https://t.co/dkVcfmuWXD",
+					"display_url": "pic.twitter.com/dkVcfmuWXD",
+					"expanded_url": "https://twitter.com/savina0128/status/1335520813643046915/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1335520805787029500,
+					"id_str": "1335520805787029507",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/Eoi5GNMUUAM_3SY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eoi5GNMUUAM_3SY.jpg",
+					"url": "https://t.co/dkVcfmuWXD",
+					"display_url": "pic.twitter.com/dkVcfmuWXD",
+					"expanded_url": "https://twitter.com/savina0128/status/1335520813643046915/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 554,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1624,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 314,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1335520805795426300,
+					"id_str": "1335520805795426304",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/Eoi5GNOUcAAKsaX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eoi5GNOUcAAKsaX.jpg",
+					"url": "https://t.co/dkVcfmuWXD",
+					"display_url": "pic.twitter.com/dkVcfmuWXD",
+					"expanded_url": "https://twitter.com/savina0128/status/1335520813643046915/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1624,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 554,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 314,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1335520805795422200,
+					"id_str": "1335520805795422209",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/Eoi5GNOUYAE9p7D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eoi5GNOUYAE9p7D.jpg",
+					"url": "https://t.co/dkVcfmuWXD",
+					"display_url": "pic.twitter.com/dkVcfmuWXD",
+					"expanded_url": "https://twitter.com/savina0128/status/1335520813643046915/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 554,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 314,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1624,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나 SAVINA",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "사비나앤드론즈 SAVINA & DRONES Musician",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1346,
+			"friends_count": 248,
+			"listed_count": 31,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Scenario 홍예리 \n\n#사랑은언젠가끝에닿아 https://t.co/dkVcfmuWXD"
+	},
+	{
 		"created_at": "Sun Dec 06 08:45:37 +0000 2020",
 		"id": 1335497974399467500,
 		"id_str": "1335505663405993984",
