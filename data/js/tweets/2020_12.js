@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 06 13:08:26 +0000 2020",
+		"id": 1335561383765631000,
+		"id_str": "1335571802513260547",
+		"full_text": "마마에서 이게 제일 기괴해........ 옷은 왜저래? 공기에 분사한다고 방역이 됨??? 저게 뭐야...? https://t.co/yBN1gfSTwU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1335552143353245700,
+					"id_str": "1335552143353245698",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EojVmSuU8AIeAx1.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EojVmSuU8AIeAx1.jpg",
+					"url": "https://t.co/yBN1gfSTwU",
+					"display_url": "pic.twitter.com/yBN1gfSTwU",
+					"expanded_url": "https://twitter.com/803page/status/1335552209967181824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 642,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 642,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 642,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1335552209967181800,
+					"source_status_id_str": "1335552209967181824",
+					"source_user_id": 960047512802418700,
+					"source_user_id_str": "960047512802418688"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335552143353245700,
+					"id_str": "1335552143353245698",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EojVmSuU8AIeAx1.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EojVmSuU8AIeAx1.jpg",
+					"url": "https://t.co/yBN1gfSTwU",
+					"display_url": "pic.twitter.com/yBN1gfSTwU",
+					"expanded_url": "https://twitter.com/803page/status/1335552209967181824/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 642,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 642,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 642,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1335552209967181800,
+					"source_status_id_str": "1335552209967181824",
+					"source_user_id": 960047512802418700,
+					"source_user_id_str": "960047512802418688",
+					"video_info": {
+						"aspect_ratio": [
+							107,
+							60
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EojVmSuU8AIeAx1.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1114251007,
+			"id_str": "1114251007",
+			"name": "𝐿𝑒𝑠𝑠 𝑖𝑠 𝐿𝑒𝑠𝑠",
+			"screen_name": "lessislessxx",
+			"location": "일본에서미술과패션일을하던사람_이것저것합니다",
+			"description": "無人島 | 친절은 유료 | #소비생활백과 해시 주인 | 체인미러블락 비계 알계 블락 | 광고안함NO협찬디엠",
+			"url": "https://t.co/uOWYO3EkVD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uOWYO3EkVD",
+							"expanded_url": "https://peing.net/lessislessxxxx",
+							"display_url": "peing.net/lessislessxxxx",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8861,
+			"friends_count": 378,
+			"listed_count": 25,
+			"created_at": "Wed Jan 23 12:20:24 +0000 2013",
+			"favourites_count": 23587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41885,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323636703345606657/rMYmnql5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323636703345606657/rMYmnql5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1114251007/1605883952",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1328,
+		"favorite_count": 481,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마마에서 이게 제일 기괴해........ 옷은 왜저래? 공기에 분사한다고 방역이 됨??? 저게 뭐야...? https://t.co/yBN1gfSTwU"
+	},
+	{
 		"created_at": "Sun Dec 06 12:57:34 +0000 2020",
 		"id": 1335568976709996500,
 		"id_str": "1335569068749770753",
