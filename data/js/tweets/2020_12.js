@@ -1,6 +1,1261 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 07 11:02:02 +0000 2020",
+		"id": 1335902381205311500,
+		"id_str": "1335902381205311488",
+		"full_text": "#SMTOWN #PLAYLIST\nBoA 보아 'Better' MV Making Film | Behind of Artist\nhttps://t.co/PVuXNP9tNi\n#보아 #BoA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						96,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PVuXNP9tNi",
+					"expanded_url": "https://www.youtube.com/watch?v=Z6zOXWjMYPw",
+					"display_url": "youtube.com/watch?v=Z6zOXW…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SMTOWN #PLAYLIST\nBoA 보아 'Better' MV Making Film | Behind of Artist\nhttps://t.co/PVuXNP9tNi\n#보아 #BoA"
+	},
+	{
+		"created_at": "Mon Dec 07 10:59:28 +0000 2020",
+		"id": 1335901737551450000,
+		"id_str": "1335901737551450112",
+		"full_text": "수동으로 가져오는 것(팬들은 봇이라 부르는)은 한계가 분명하지만 가끔은 봇보다 더 꼼꼼할 수 있다는 점에서 놀랍기도 하다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "수동으로 가져오는 것(팬들은 봇이라 부르는)은 한계가 분명하지만 가끔은 봇보다 더 꼼꼼할 수 있다는 점에서 놀랍기도 하다."
+	},
+	{
+		"created_at": "Mon Dec 07 10:57:04 +0000 2020",
+		"id": 1335897749842116600,
+		"id_str": "1335901131982028800",
+		"full_text": "이번에 리메이크 된 &lt;우리들의 이별&gt;은 남녀간의 이별, 을 다룬 곡이 아니에요. 노령의 어머니를 하늘로 떠나 보내던 어느 어르신께서 3일내내 우시던 모습을 보았고, 어른이 되어도 몇 살이 된다해도 이별은 어려울것 같다 생각이 들어 쓴 곡이에요. #우리들의이별 #리메이크 #최백호 #김현철",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우리들의이별",
+					"indices": [
+						143,
+						150
+					]
+				},
+				{
+					"text": "리메이크",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "최백호",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "김현철",
+					"indices": [
+						162,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2972799367,
+			"id_str": "2972799367",
+			"name": "정밀아Jeongmilla",
+			"screen_name": "Jeong_milla",
+			"location": "",
+			"description": "정밀아 정규1집_그리움도 병/정규2집_은하수/정규3집_청파소나타/싱글_무명/꽃/언제나그댈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 87,
+			"listed_count": 5,
+			"created_at": "Sat Jan 10 18:56:39 +0000 2015",
+			"favourites_count": 192,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925331758010155009/ponxSZf9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925331758010155009/ponxSZf9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2972799367/1602596479",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이번에 리메이크 된 &lt;우리들의 이별&gt;은 남녀간의 이별, 을 다룬 곡이 아니에요. 노령의 어머니를 하늘로 떠나 보내던 어느 어르신께서 3일내내 우시던 모습을 보았고, 어른이 되어도 몇 살이 된다해도 이별은 어려울것 같다 생각이 들어 쓴 곡이에요. #우리들의이별 #리메이크 #최백호 #김현철"
+	},
+	{
+		"created_at": "Mon Dec 07 10:56:33 +0000 2020",
+		"id": 1335886788452180000,
+		"id_str": "1335901000968720386",
+		"full_text": "BTS Music Theme Instant Tattoo!\n방탄소년단 곡테마 인스턴트타투 출시! 🥳\n\nhttps://t.co/YbszGbgFci\n지금 공식홈페이지에서 'DREAM FOREVER'를 만나보세요!\n\n🌏 Ship to US/JP/SG/HK/TW\n\n@bts_bighit @bighit_merch\n#방탄소년단 #인스턴트타투 #BTS #instanttattoo https://t.co/NShxtVylEE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방탄소년단",
+					"indices": [
+						169,
+						175
+					]
+				},
+				{
+					"text": "인스턴트타투",
+					"indices": [
+						176,
+						183
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						184,
+						188
+					]
+				},
+				{
+					"text": "instanttattoo",
+					"indices": [
+						189,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bts_bighit",
+					"name": "BTS_official",
+					"id": 1409798257,
+					"id_str": "1409798257",
+					"indices": [
+						143,
+						154
+					]
+				},
+				{
+					"screen_name": "bighit_merch",
+					"name": "BIGHIT OFFICIAL MERCH",
+					"id": 1126749496082223100,
+					"id_str": "1126749496082223104",
+					"indices": [
+						155,
+						168
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YbszGbgFci",
+					"expanded_url": "http://instant-tattoo.com",
+					"display_url": "instant-tattoo.com",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1335884811810996200,
+					"id_str": "1335884811810996225",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EooEKJTVgAE5sAM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EooEKJTVgAE5sAM.jpg",
+					"url": "https://t.co/NShxtVylEE",
+					"display_url": "pic.twitter.com/NShxtVylEE",
+					"expanded_url": "https://twitter.com/InstantTattoo/status/1335886788452179970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335884811810996200,
+					"id_str": "1335884811810996225",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EooEKJTVgAE5sAM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EooEKJTVgAE5sAM.jpg",
+					"url": "https://t.co/NShxtVylEE",
+					"display_url": "pic.twitter.com/NShxtVylEE",
+					"expanded_url": "https://twitter.com/InstantTattoo/status/1335886788452179970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1335884864055246800,
+					"id_str": "1335884864055246849",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EooENL7VgAETl6g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EooENL7VgAETl6g.jpg",
+					"url": "https://t.co/NShxtVylEE",
+					"display_url": "pic.twitter.com/NShxtVylEE",
+					"expanded_url": "https://twitter.com/InstantTattoo/status/1335886788452179970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 1133,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1335884893901922300,
+					"id_str": "1335884893901922305",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EooEO7HVoAEVZGR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EooEO7HVoAEVZGR.jpg",
+					"url": "https://t.co/NShxtVylEE",
+					"display_url": "pic.twitter.com/NShxtVylEE",
+					"expanded_url": "https://twitter.com/InstantTattoo/status/1335886788452179970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1133,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 993384526620516400,
+			"id_str": "993384526620516352",
+			"name": "인스턴트타투 Instant Tattoo",
+			"screen_name": "InstantTattoo",
+			"location": "",
+			"description": "Another Record of My Youth 💖",
+			"url": "https://t.co/1Hml319jeu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1Hml319jeu",
+							"expanded_url": "http://instant-tattoo.com",
+							"display_url": "instant-tattoo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1629,
+			"friends_count": 4,
+			"listed_count": 6,
+			"created_at": "Mon May 07 06:58:22 +0000 2018",
+			"favourites_count": 397,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1119256157804093440/fZOzVQtM_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1119256157804093440/fZOzVQtM_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993384526620516352/1607333512",
+			"profile_link_color": "CD8BDA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1769,
+		"favorite_count": 7827,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "BTS Music Theme Instant Tattoo!\n방탄소년단 곡테마 인스턴트타투 출시! 🥳\n\nhttps://t.co/YbszGbgFci\n지금 공식홈페이지에서 'DREAM FOREVER'를 만나보세요!\n\n🌏 Ship to US/JP/SG/HK/TW\n\n@bts_bighit @bighit_merch\n#방탄소년단 #인스턴트타투 #BTS #instanttattoo https://t.co/NShxtVylEE"
+	},
+	{
+		"created_at": "Mon Dec 07 10:56:27 +0000 2020",
+		"id": 1335900978420228000,
+		"id_str": "1335900978420228097",
+		"full_text": "오 타투 굿즈라니! https://t.co/vaavatQU0t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vaavatQU0t",
+					"expanded_url": "https://twitter.com/InstantTattoo/status/1335886788452179970",
+					"display_url": "twitter.com/InstantTattoo/…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1335886788452180000,
+		"quoted_status_id_str": "1335886788452179970",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vaavatQU0t",
+			"expanded": "https://twitter.com/InstantTattoo/status/1335886788452179970",
+			"display": "twitter.com/InstantTattoo/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 07 10:00:04 +0000 2020",
+			"id": 1335886788452180000,
+			"id_str": "1335886788452179970",
+			"full_text": "BTS Music Theme Instant Tattoo!\n방탄소년단 곡테마 인스턴트타투 출시! 🥳\n\nhttps://t.co/YbszGbgFci\n지금 공식홈페이지에서 'DREAM FOREVER'를 만나보세요!\n\n🌏 Ship to US/JP/SG/HK/TW\n\n@bts_bighit @bighit_merch\n#방탄소년단 #인스턴트타투 #BTS #instanttattoo https://t.co/NShxtVylEE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				203
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "방탄소년단",
+						"indices": [
+							169,
+							175
+						]
+					},
+					{
+						"text": "인스턴트타투",
+						"indices": [
+							176,
+							183
+						]
+					},
+					{
+						"text": "BTS",
+						"indices": [
+							184,
+							188
+						]
+					},
+					{
+						"text": "instanttattoo",
+						"indices": [
+							189,
+							203
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bts_bighit",
+						"name": "BTS_official",
+						"id": 1409798257,
+						"id_str": "1409798257",
+						"indices": [
+							143,
+							154
+						]
+					},
+					{
+						"screen_name": "bighit_merch",
+						"name": "BIGHIT OFFICIAL MERCH",
+						"id": 1126749496082223100,
+						"id_str": "1126749496082223104",
+						"indices": [
+							155,
+							168
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/YbszGbgFci",
+						"expanded_url": "http://instant-tattoo.com",
+						"display_url": "instant-tattoo.com",
+						"indices": [
+							56,
+							79
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1335884811810996200,
+						"id_str": "1335884811810996225",
+						"indices": [
+							204,
+							227
+						],
+						"media_url": "http://pbs.twimg.com/media/EooEKJTVgAE5sAM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EooEKJTVgAE5sAM.jpg",
+						"url": "https://t.co/NShxtVylEE",
+						"display_url": "pic.twitter.com/NShxtVylEE",
+						"expanded_url": "https://twitter.com/InstantTattoo/status/1335886788452179970/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1335884811810996200,
+						"id_str": "1335884811810996225",
+						"indices": [
+							204,
+							227
+						],
+						"media_url": "http://pbs.twimg.com/media/EooEKJTVgAE5sAM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EooEKJTVgAE5sAM.jpg",
+						"url": "https://t.co/NShxtVylEE",
+						"display_url": "pic.twitter.com/NShxtVylEE",
+						"expanded_url": "https://twitter.com/InstantTattoo/status/1335886788452179970/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 2000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1335884864055246800,
+						"id_str": "1335884864055246849",
+						"indices": [
+							204,
+							227
+						],
+						"media_url": "http://pbs.twimg.com/media/EooENL7VgAETl6g.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EooENL7VgAETl6g.jpg",
+						"url": "https://t.co/NShxtVylEE",
+						"display_url": "pic.twitter.com/NShxtVylEE",
+						"expanded_url": "https://twitter.com/InstantTattoo/status/1335886788452179970/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2000,
+								"h": 1133,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 385,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1335884893901922300,
+						"id_str": "1335884893901922305",
+						"indices": [
+							204,
+							227
+						],
+						"media_url": "http://pbs.twimg.com/media/EooEO7HVoAEVZGR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EooEO7HVoAEVZGR.jpg",
+						"url": "https://t.co/NShxtVylEE",
+						"display_url": "pic.twitter.com/NShxtVylEE",
+						"expanded_url": "https://twitter.com/InstantTattoo/status/1335886788452179970/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 1133,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 385,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 993384526620516400,
+				"id_str": "993384526620516352",
+				"name": "인스턴트타투 Instant Tattoo",
+				"screen_name": "InstantTattoo",
+				"location": "",
+				"description": "Another Record of My Youth 💖",
+				"url": "https://t.co/1Hml319jeu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1Hml319jeu",
+								"expanded_url": "http://instant-tattoo.com",
+								"display_url": "instant-tattoo.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1629,
+				"friends_count": 4,
+				"listed_count": 6,
+				"created_at": "Mon May 07 06:58:22 +0000 2018",
+				"favourites_count": 397,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 105,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1119256157804093440/fZOzVQtM_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1119256157804093440/fZOzVQtM_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/993384526620516352/1607333512",
+				"profile_link_color": "CD8BDA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1769,
+			"favorite_count": 7827,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오 타투 굿즈라니! https://t.co/vaavatQU0t"
+	},
+	{
+		"created_at": "Mon Dec 07 10:51:03 +0000 2020",
+		"id": 1335899620166135800,
+		"id_str": "1335899620166135808",
+		"full_text": "인스타그램이 이제 로그인을 통한 엑세스를 제외하고는 빈 페이지가 반환됨. 요요처럼 작동하다가 오늘자로 아예 작동이 멈춤.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "인스타그램이 이제 로그인을 통한 엑세스를 제외하고는 빈 페이지가 반환됨. 요요처럼 작동하다가 오늘자로 아예 작동이 멈춤."
+	},
+	{
+		"created_at": "Mon Dec 07 10:45:37 +0000 2020",
+		"id": 1335884406834151400,
+		"id_str": "1335898249748688900",
+		"full_text": "ASCers! Give hints about LOONA's JINSOUL! \nEX) Member of a group with more than 10 members, ETC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1321765501,
+			"id_str": "1321765501",
+			"name": "After School Club",
+			"screen_name": "arirang_ASC",
+			"location": "",
+			"description": "Tired of one-way K-Pop love?\r\nGet on Google Hangouts, video chat with stars and request MVs LIVE on the After School Club!",
+			"url": "https://t.co/eRqGeUFAHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eRqGeUFAHR",
+							"expanded_url": "https://www.youtube.com/arirangworld",
+							"display_url": "youtube.com/arirangworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 697958,
+			"friends_count": 252,
+			"listed_count": 967,
+			"created_at": "Tue Apr 02 04:44:07 +0000 2013",
+			"favourites_count": 2464,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF7F3A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110118241488105472/ospgst8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1321765501/1602478715",
+			"profile_link_color": "FF7F3A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 658,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "ASCers! Give hints about LOONA's JINSOUL! \nEX) Member of a group with more than 10 members, ETC"
+	},
+	{
 		"created_at": "Mon Dec 07 09:14:37 +0000 2020",
 		"id": 1335867790402572300,
 		"id_str": "1335875352179204096",
