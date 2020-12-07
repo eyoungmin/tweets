@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 07 09:14:37 +0000 2020",
+		"id": 1335867790402572300,
+		"id_str": "1335875352179204096",
+		"full_text": "🌙12월 14일 저녁 6시\n월령 月齡 : 下\n발매됩니다\n.\n#심규선 #루시아 #새앨범 #발매 #월령 #Comingsoon https://t.co/rc5kGIKEC2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "루시아",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "새앨범",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "월령",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "Comingsoon",
+					"indices": [
+						56,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1335867787206480000,
+					"id_str": "1335867787206479872",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/Eon0rLtUUAAdRbf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eon0rLtUUAAdRbf.jpg",
+					"url": "https://t.co/rc5kGIKEC2",
+					"display_url": "pic.twitter.com/rc5kGIKEC2",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1335867790402572289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335867787206480000,
+					"id_str": "1335867787206479872",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/Eon0rLtUUAAdRbf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eon0rLtUUAAdRbf.jpg",
+					"url": "https://t.co/rc5kGIKEC2",
+					"display_url": "pic.twitter.com/rc5kGIKEC2",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1335867790402572289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌙월령: 上 20.11.22 pm6시 공개",
+			"url": "https://t.co/NbMjxtK3cL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NbMjxtK3cL",
+							"expanded_url": "http://www.simgyuseon.com",
+							"display_url": "simgyuseon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10631,
+			"friends_count": 158,
+			"listed_count": 161,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 465,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330066919668523010/HbiHUZjb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330066919668523010/HbiHUZjb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1605437886",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 81,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "🌙12월 14일 저녁 6시\n월령 月齡 : 下\n발매됩니다\n.\n#심규선 #루시아 #새앨범 #발매 #월령 #Comingsoon https://t.co/rc5kGIKEC2"
+	},
+	{
 		"created_at": "Mon Dec 07 08:46:35 +0000 2020",
 		"id": 1335868293287211000,
 		"id_str": "1335868293287211008",
