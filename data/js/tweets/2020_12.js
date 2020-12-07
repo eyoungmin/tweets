@@ -1,6 +1,162 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 07 01:27:57 +0000 2020",
+		"id": 1335756622820339700,
+		"id_str": "1335757908349480960",
+		"full_text": "YG에서 견학 왔SM니다 (with.다라 언니)\nA YG Artist is Here to Tour SM Entertainment (with. Sandara Park)\n👉https://t.co/3DipNUgMAE\n\n#예리 #산다라 #yeri #sandara #2NE1 #RedVelvet #레드벨벳",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "산다라",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "yeri",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "sandara",
+					"indices": [
+						134,
+						142
+					]
+				},
+				{
+					"text": "2NE1",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						149,
+						159
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						160,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3DipNUgMAE",
+					"expanded_url": "https://youtu.be/PvEHb5Jbabw",
+					"display_url": "youtu.be/PvEHb5Jbabw",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1230039660572708900,
+			"id_str": "1230039660572708864",
+			"name": "예리한방 - Yeris Room",
+			"screen_name": "yerihan_bang",
+			"location": "",
+			"description": "예리한방(Yeri’s Room) 공식계정\n꿀잼 가득 '덤덤스튜디오' 💜\nDUMDUM STUDIO is full of fun.\n#예리한방 #예리 #레드벨벳 #yerisroom #덤덤스튜디오",
+			"url": "https://t.co/ET3yf5F3Jx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ET3yf5F3Jx",
+							"expanded_url": "http://youtube.com/dumdumstudio",
+							"display_url": "youtube.com/dumdumstudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30804,
+			"friends_count": 0,
+			"listed_count": 155,
+			"created_at": "Wed Feb 19 08:01:31 +0000 2020",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1230039660572708864/1600494343",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 706,
+		"favorite_count": 1122,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "YG에서 견학 왔SM니다 (with.다라 언니)\nA YG Artist is Here to Tour SM Entertainment (with. Sandara Park)\n👉https://t.co/3DipNUgMAE\n\n#예리 #산다라 #yeri #sandara #2NE1 #RedVelvet #레드벨벳"
+	},
+	{
 		"created_at": "Mon Dec 07 01:01:14 +0000 2020",
 		"id": 1335751185224126500,
 		"id_str": "1335751185224126464",
