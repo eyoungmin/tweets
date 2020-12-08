@@ -1,6 +1,179 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 08 02:01:05 +0000 2020",
+		"id": 1334646321228083200,
+		"id_str": "1336128636269649920",
+		"full_text": "유해하고 더럽고 불쾌한 광고 https://t.co/n4E2oYhrSz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334646316014555100,
+					"id_str": "1334646316014555140",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/EoWdwM7U0AQYWan.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoWdwM7U0AQYWan.jpg",
+					"url": "https://t.co/n4E2oYhrSz",
+					"display_url": "pic.twitter.com/n4E2oYhrSz",
+					"expanded_url": "https://twitter.com/brother_mae/status/1334646321228083200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1004,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 607,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 1004,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334646316014555100,
+					"id_str": "1334646316014555140",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/EoWdwM7U0AQYWan.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoWdwM7U0AQYWan.jpg",
+					"url": "https://t.co/n4E2oYhrSz",
+					"display_url": "pic.twitter.com/n4E2oYhrSz",
+					"expanded_url": "https://twitter.com/brother_mae/status/1334646321228083200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1004,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 607,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 1004,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 207855362,
+			"id_str": "207855362",
+			"name": "매형",
+			"screen_name": "brother_mae",
+			"location": "",
+			"description": "나대지마세요 다들",
+			"url": "https://t.co/s4EaSz1Toy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s4EaSz1Toy",
+							"expanded_url": "https://peing.net/ko/brother_mae?event=0",
+							"display_url": "peing.net/ko/brother_mae…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4690,
+			"friends_count": 86,
+			"listed_count": 27,
+			"created_at": "Tue Oct 26 04:51:09 +0000 2010",
+			"favourites_count": 6848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 290706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1333667592502870017/qZkmCiCU_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1333667592502870017/qZkmCiCU_normal.png",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7624,
+		"favorite_count": 5245,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유해하고 더럽고 불쾌한 광고 https://t.co/n4E2oYhrSz"
+	},
+	{
 		"created_at": "Mon Dec 07 23:48:07 +0000 2020",
 		"id": 1336095174057930800,
 		"id_str": "1336095174057930758",
