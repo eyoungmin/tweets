@@ -1,6 +1,440 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 08 07:14:37 +0000 2020",
+		"id": 1336204003030442000,
+		"id_str": "1336207540997271553",
+		"full_text": "[NOTICE]\n⠀\n12월 10일 'tellusboutyourself' 발매를 기념하여 네이버 나우에서 생중계 라이브를 진행합니다. 10일에서 11일 넘어가는 자정에 만나요!\n⠀\n🍄본방사수 이벤트는 @kr_now 계정에서 참여하실 수 있습니다. https://t.co/PdzNH2Wted",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kr_now",
+					"name": "NOW.",
+					"id": 1159646410414817300,
+					"id_str": "1159646410414817281",
+					"indices": [
+						111,
+						118
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PdzNH2Wted",
+					"expanded_url": "https://twitter.com/kr_now/status/1336189426095980545",
+					"display_url": "twitter.com/kr_now/status/…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl contact@bluevinyl.kr",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19800,
+			"friends_count": 0,
+			"listed_count": 123,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1333999688865914883/VUQjoqmj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1333999688865914883/VUQjoqmj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1606885286",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1336189426095980500,
+		"quoted_status_id_str": "1336189426095980545",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PdzNH2Wted",
+			"expanded": "https://twitter.com/kr_now/status/1336189426095980545",
+			"display": "twitter.com/kr_now/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 08 06:02:39 +0000 2020",
+			"id": 1336189426095980500,
+			"id_str": "1336189426095980545",
+			"full_text": "[#OUTNOW #백예린 본방사수 이벤트]\n⠀\n☝️방송 전 해당 포스트 좋아요와 리트윗하고\n✌10일(목) 밤 12시엔 방송 화면 캡처 후 예린에게 하고픈 메시지를 담아 \n해시태그와(#아웃나우백예린 #예린에게하고픈말) 함께 본인 계정에 올려주세요- ✨\n방송 당일 예린이 직접 읽어드려요!👀 https://t.co/YnVfZWd1vy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				160
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OUTNOW",
+						"indices": [
+							1,
+							8
+						]
+					},
+					{
+						"text": "백예린",
+						"indices": [
+							9,
+							13
+						]
+					},
+					{
+						"text": "아웃나우백예린",
+						"indices": [
+							101,
+							109
+						]
+					},
+					{
+						"text": "예린에게하고픈말",
+						"indices": [
+							110,
+							119
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1336189418021896200,
+						"id_str": "1336189418021896194",
+						"indices": [
+							161,
+							184
+						],
+						"media_url": "http://pbs.twimg.com/media/EosZMj3UwAIrKnJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EosZMj3UwAIrKnJ.jpg",
+						"url": "https://t.co/YnVfZWd1vy",
+						"display_url": "pic.twitter.com/YnVfZWd1vy",
+						"expanded_url": "https://twitter.com/kr_now/status/1336189426095980545/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1336189418021896200,
+						"id_str": "1336189418021896194",
+						"indices": [
+							161,
+							184
+						],
+						"media_url": "http://pbs.twimg.com/media/EosZMj3UwAIrKnJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EosZMj3UwAIrKnJ.jpg",
+						"url": "https://t.co/YnVfZWd1vy",
+						"display_url": "pic.twitter.com/YnVfZWd1vy",
+						"expanded_url": "https://twitter.com/kr_now/status/1336189426095980545/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1336189418026070000,
+						"id_str": "1336189418026070017",
+						"indices": [
+							161,
+							184
+						],
+						"media_url": "http://pbs.twimg.com/media/EosZMj4UcAEISd7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EosZMj4UcAEISd7.jpg",
+						"url": "https://t.co/YnVfZWd1vy",
+						"display_url": "pic.twitter.com/YnVfZWd1vy",
+						"expanded_url": "https://twitter.com/kr_now/status/1336189426095980545/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1336189418021900300,
+						"id_str": "1336189418021900289",
+						"indices": [
+							161,
+							184
+						],
+						"media_url": "http://pbs.twimg.com/media/EosZMj3U0AEWmz6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EosZMj3U0AEWmz6.jpg",
+						"url": "https://t.co/YnVfZWd1vy",
+						"display_url": "pic.twitter.com/YnVfZWd1vy",
+						"expanded_url": "https://twitter.com/kr_now/status/1336189426095980545/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1336189418021908500,
+						"id_str": "1336189418021908481",
+						"indices": [
+							161,
+							184
+						],
+						"media_url": "http://pbs.twimg.com/media/EosZMj3U8AEMrke.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EosZMj3U8AEMrke.jpg",
+						"url": "https://t.co/YnVfZWd1vy",
+						"display_url": "pic.twitter.com/YnVfZWd1vy",
+						"expanded_url": "https://twitter.com/kr_now/status/1336189426095980545/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1159646410414817300,
+				"id_str": "1159646410414817281",
+				"name": "NOW.",
+				"screen_name": "kr_now",
+				"location": "",
+				"description": "네이버앱은 지금 방송 중 #네이버NOW",
+				"url": "https://t.co/PTf4ELLDJt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PTf4ELLDJt",
+								"expanded_url": "https://bit.ly/35YqTh2",
+								"display_url": "bit.ly/35YqTh2",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 70842,
+				"friends_count": 1,
+				"listed_count": 129,
+				"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+				"favourites_count": 85,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2633,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1603177066",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 127,
+			"favorite_count": 180,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 150,
+		"favorite_count": 268,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NOTICE]\n⠀\n12월 10일 'tellusboutyourself' 발매를 기념하여 네이버 나우에서 생중계 라이브를 진행합니다. 10일에서 11일 넘어가는 자정에 만나요!\n⠀\n🍄본방사수 이벤트는 @kr_now 계정에서 참여하실 수 있습니다. https://t.co/PdzNH2Wted"
+	},
+	{
 		"created_at": "Tue Dec 08 06:51:24 +0000 2020",
 		"id": 1336201697237065700,
 		"id_str": "1336201697237065731",
