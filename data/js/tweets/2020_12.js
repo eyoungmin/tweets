@@ -1,6 +1,825 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 08 06:51:24 +0000 2020",
+		"id": 1336201697237065700,
+		"id_str": "1336201697237065731",
+		"full_text": "#SMTOWN #Artist_News\n임윤아, ‘허쉬’를 위해 만반의 준비를 다졌다! ‘디테일 살리려 노력’\nhttps://t.co/vTl3mJfBli\n#소녀시대 #GirlsGeneration https://t.co/fEBMtXyux8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						91,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vTl3mJfBli",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/4327",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1336201696133984300,
+					"id_str": "1336201696133984256",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EoskXPZXMAA9CG6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoskXPZXMAA9CG6.jpg",
+					"url": "https://t.co/fEBMtXyux8",
+					"display_url": "pic.twitter.com/fEBMtXyux8",
+					"expanded_url": "https://twitter.com/fromminn/status/1336201697237065731/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336201696133984300,
+					"id_str": "1336201696133984256",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EoskXPZXMAA9CG6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoskXPZXMAA9CG6.jpg",
+					"url": "https://t.co/fEBMtXyux8",
+					"display_url": "pic.twitter.com/fEBMtXyux8",
+					"expanded_url": "https://twitter.com/fromminn/status/1336201697237065731/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73814,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n임윤아, ‘허쉬’를 위해 만반의 준비를 다졌다! ‘디테일 살리려 노력’\nhttps://t.co/vTl3mJfBli\n#소녀시대 #GirlsGeneration https://t.co/fEBMtXyux8"
+	},
+	{
+		"created_at": "Tue Dec 08 06:45:37 +0000 2020",
+		"id": 1336187077164028000,
+		"id_str": "1336200239162806273",
+		"full_text": "요즘 하늘에 달이 보이지 않아서 걱정했더니 더쇼에 세상에서 제일 아름다운 별들이 떡하니 빛나고 있지 모예용?🌙\n우리 최강 아름다운 이달소만 있다면 온 우주의 까만 하늘 쯤이야 환하게 밝히고도 남지 남아➿💟\n\n#이달의_소녀 #목소리 #THESHOW @loonatheworld https://t.co/tWQbuD1Fwz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의_소녀",
+					"indices": [
+						116,
+						123
+					]
+				},
+				{
+					"text": "목소리",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "THESHOW",
+					"indices": [
+						129,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						138,
+						152
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1336187060089045000,
+					"id_str": "1336187060089044992",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EosXDT4UwAA6gJg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EosXDT4UwAA6gJg.jpg",
+					"url": "https://t.co/tWQbuD1Fwz",
+					"display_url": "pic.twitter.com/tWQbuD1Fwz",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1336187077164027904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1867,
+							"h": 1950,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1149,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 651,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336187060089045000,
+					"id_str": "1336187060089044992",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EosXDT4UwAA6gJg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EosXDT4UwAA6gJg.jpg",
+					"url": "https://t.co/tWQbuD1Fwz",
+					"display_url": "pic.twitter.com/tWQbuD1Fwz",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1336187077164027904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1867,
+							"h": 1950,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1149,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 651,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 517295819,
+			"id_str": "517295819",
+			"name": "THE SHOW",
+			"screen_name": "sbsmtvtheshow",
+			"location": "",
+			"description": "SBS MTV THE SHOW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 872463,
+			"friends_count": 84,
+			"listed_count": 1420,
+			"created_at": "Wed Mar 07 06:49:30 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/517295819/1528422724",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 470,
+		"favorite_count": 1739,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "요즘 하늘에 달이 보이지 않아서 걱정했더니 더쇼에 세상에서 제일 아름다운 별들이 떡하니 빛나고 있지 모예용?🌙\n우리 최강 아름다운 이달소만 있다면 온 우주의 까만 하늘 쯤이야 환하게 밝히고도 남지 남아➿💟\n\n#이달의_소녀 #목소리 #THESHOW @loonatheworld https://t.co/tWQbuD1Fwz"
+	},
+	{
+		"created_at": "Tue Dec 08 06:14:38 +0000 2020",
+		"id": 1336190523262943200,
+		"id_str": "1336192442626879488",
+		"full_text": "[#예술경영 웹진: 자료읽기]\n\n&lt;개인과 지역사회의 웰빙(wellbeing)위한 예술&gt;\n\n458호 자료읽기 더보기👇\nhttps://t.co/hN5pZdE2lQ\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/AE3fYexb2R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						106,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hN5pZdE2lQ",
+					"expanded_url": "https://bit.ly/3lmeZBS",
+					"display_url": "bit.ly/3lmeZBS",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1336190516187172900,
+					"id_str": "1336190516187172864",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EosaMe2VEAApG0k.png",
+					"media_url_https": "https://pbs.twimg.com/media/EosaMe2VEAApG0k.png",
+					"url": "https://t.co/AE3fYexb2R",
+					"display_url": "pic.twitter.com/AE3fYexb2R",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1336190523262943232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 301,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 709,
+							"h": 314,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 709,
+							"h": 314,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336190516187172900,
+					"id_str": "1336190516187172864",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EosaMe2VEAApG0k.png",
+					"media_url_https": "https://pbs.twimg.com/media/EosaMe2VEAApG0k.png",
+					"url": "https://t.co/AE3fYexb2R",
+					"display_url": "pic.twitter.com/AE3fYexb2R",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1336190523262943232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 301,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 709,
+							"h": 314,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 709,
+							"h": 314,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6964,
+			"friends_count": 2984,
+			"listed_count": 98,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예술경영 웹진: 자료읽기]\n\n&lt;개인과 지역사회의 웰빙(wellbeing)위한 예술&gt;\n\n458호 자료읽기 더보기👇\nhttps://t.co/hN5pZdE2lQ\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/AE3fYexb2R"
+	},
+	{
+		"created_at": "Tue Dec 08 06:12:22 +0000 2020",
+		"id": 1336191872008654800,
+		"id_str": "1336191872008654850",
+		"full_text": "#네이버TV #네이버공연\n국립오페라단 &lt;�오페라 하이라이트 콘서트 - 이탈리아&gt; 중계 예고\nhttps://t.co/yZ9KNJmeDo https://t.co/i6eZW61uRs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "네이버TV",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "네이버공연",
+					"indices": [
+						7,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yZ9KNJmeDo",
+					"expanded_url": "https://tv.naver.com/v/14531856",
+					"display_url": "tv.naver.com/v/14531856",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1336191870930710500,
+					"id_str": "1336191870930710528",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EosbbVqW8AAdTZQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EosbbVqW8AAdTZQ.jpg",
+					"url": "https://t.co/i6eZW61uRs",
+					"display_url": "pic.twitter.com/i6eZW61uRs",
+					"expanded_url": "https://twitter.com/fromminn/status/1336191872008654850/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336191870930710500,
+					"id_str": "1336191870930710528",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EosbbVqW8AAdTZQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EosbbVqW8AAdTZQ.jpg",
+					"url": "https://t.co/i6eZW61uRs",
+					"display_url": "pic.twitter.com/i6eZW61uRs",
+					"expanded_url": "https://twitter.com/fromminn/status/1336191872008654850/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73814,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#네이버TV #네이버공연\n국립오페라단 &lt;�오페라 하이라이트 콘서트 - 이탈리아&gt; 중계 예고\nhttps://t.co/yZ9KNJmeDo https://t.co/i6eZW61uRs"
+	},
+	{
 		"created_at": "Tue Dec 08 05:57:32 +0000 2020",
 		"id": 1336188138637709300,
 		"id_str": "1336188138637709312",
