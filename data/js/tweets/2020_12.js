@@ -1,6 +1,1306 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 08 09:45:47 +0000 2020",
+		"id": 1336234060977467400,
+		"id_str": "1336245580889198600",
+		"full_text": "[🎥#안방1열직캠] 이달의 소녀 - 목소리\n\n#인기가요 #이달의소녀 #목소리 #LOONA #Voice @loonatheworld\n\n#츄: https://t.co/vRf1mx06N6\n#고원: https://t.co/6nwQ6hRmUL\n#올리비아혜: https://t.co/QYyFyXZeAz https://t.co/dKfZ6KSO42",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안방1열직캠",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						25,
+						30
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "목소리",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"text": "Voice",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						73,
+						75
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						130,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						57,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vRf1mx06N6",
+					"expanded_url": "https://youtu.be/oJAMgWxUChw",
+					"display_url": "youtu.be/oJAMgWxUChw",
+					"indices": [
+						77,
+						100
+					]
+				},
+				{
+					"url": "https://t.co/6nwQ6hRmUL",
+					"expanded_url": "https://youtu.be/wTAIKr36DVs",
+					"display_url": "youtu.be/wTAIKr36DVs",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/QYyFyXZeAz",
+					"expanded_url": "https://youtu.be/LXGJ1eGyXG4",
+					"display_url": "youtu.be/LXGJ1eGyXG4",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1336208841097154600,
+					"id_str": "1336208841097154561",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/Eosq3IdVEAEXWtU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eosq3IdVEAEXWtU.jpg",
+					"url": "https://t.co/dKfZ6KSO42",
+					"display_url": "pic.twitter.com/dKfZ6KSO42",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1336234060977467393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336208841097154600,
+					"id_str": "1336208841097154561",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/Eosq3IdVEAEXWtU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eosq3IdVEAEXWtU.jpg",
+					"url": "https://t.co/dKfZ6KSO42",
+					"display_url": "pic.twitter.com/dKfZ6KSO42",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1336234060977467393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/qapZ7nOCns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qapZ7nOCns",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 241917,
+			"friends_count": 77,
+			"listed_count": 256,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 1838,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1766,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1607235930",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 166,
+		"favorite_count": 539,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥#안방1열직캠] 이달의 소녀 - 목소리\n\n#인기가요 #이달의소녀 #목소리 #LOONA #Voice @loonatheworld\n\n#츄: https://t.co/vRf1mx06N6\n#고원: https://t.co/6nwQ6hRmUL\n#올리비아혜: https://t.co/QYyFyXZeAz https://t.co/dKfZ6KSO42"
+	},
+	{
+		"created_at": "Tue Dec 08 09:45:39 +0000 2020",
+		"id": 1336234060281069600,
+		"id_str": "1336245546844106754",
+		"full_text": "[🎥#안방1열직캠] 이달의 소녀 - 목소리\n\n#인기가요 #이달의소녀 #목소리 #LOONA #Voice @loonatheworld\n\n#희진: https://t.co/eEQPYPmQKd\n#현진: https://t.co/gGGD86fCVD\n#여진: https://t.co/DNmb23USTK\n#비비: https://t.co/JqWTAJRWjn https://t.co/yJgcgZleLF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안방1열직캠",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						25,
+						30
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "목소리",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"text": "Voice",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "비비",
+					"indices": [
+						160,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						57,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eEQPYPmQKd",
+					"expanded_url": "https://youtu.be/QZ77Ddd-g9k",
+					"display_url": "youtu.be/QZ77Ddd-g9k",
+					"indices": [
+						78,
+						101
+					]
+				},
+				{
+					"url": "https://t.co/gGGD86fCVD",
+					"expanded_url": "https://youtu.be/Sdy1aKcTYw4",
+					"display_url": "youtu.be/Sdy1aKcTYw4",
+					"indices": [
+						107,
+						130
+					]
+				},
+				{
+					"url": "https://t.co/DNmb23USTK",
+					"expanded_url": "https://youtu.be/y-TXbeTVHSY",
+					"display_url": "youtu.be/y-TXbeTVHSY",
+					"indices": [
+						136,
+						159
+					]
+				},
+				{
+					"url": "https://t.co/JqWTAJRWjn",
+					"expanded_url": "https://youtu.be/jSlDXUkdCQU",
+					"display_url": "youtu.be/jSlDXUkdCQU",
+					"indices": [
+						165,
+						188
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1336208271229603800,
+					"id_str": "1336208271229603842",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EosqV9iUUAIduIG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EosqV9iUUAIduIG.jpg",
+					"url": "https://t.co/yJgcgZleLF",
+					"display_url": "pic.twitter.com/yJgcgZleLF",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1336234060281069568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336208271229603800,
+					"id_str": "1336208271229603842",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EosqV9iUUAIduIG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EosqV9iUUAIduIG.jpg",
+					"url": "https://t.co/yJgcgZleLF",
+					"display_url": "pic.twitter.com/yJgcgZleLF",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1336234060281069568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/qapZ7nOCns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qapZ7nOCns",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 241917,
+			"friends_count": 77,
+			"listed_count": 256,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 1838,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1766,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1607235930",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 124,
+		"favorite_count": 371,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥#안방1열직캠] 이달의 소녀 - 목소리\n\n#인기가요 #이달의소녀 #목소리 #LOONA #Voice @loonatheworld\n\n#희진: https://t.co/eEQPYPmQKd\n#현진: https://t.co/gGGD86fCVD\n#여진: https://t.co/DNmb23USTK\n#비비: https://t.co/JqWTAJRWjn https://t.co/yJgcgZleLF"
+	},
+	{
+		"created_at": "Tue Dec 08 09:45:37 +0000 2020",
+		"id": 1336234060008591400,
+		"id_str": "1336245537926995969",
+		"full_text": "[🎥#안방1열직캠] 이달의 소녀 - 목소리\n\n#인기가요 #이달의소녀 #목소리 #LOONA #Voice @loonatheworld\n\n#김립: https://t.co/aRjbn2ej9w\n#진솔: https://t.co/GfYyrLPDaq\n#최리: https://t.co/b9vzFIcaRb\n#이브: https://t.co/7ieDHJOOhg https://t.co/4WBJrWb7Xd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안방1열직캠",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						25,
+						30
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "목소리",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"text": "Voice",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						160,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						57,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aRjbn2ej9w",
+					"expanded_url": "https://youtu.be/S1cbo_b9ooE",
+					"display_url": "youtu.be/S1cbo_b9ooE",
+					"indices": [
+						78,
+						101
+					]
+				},
+				{
+					"url": "https://t.co/GfYyrLPDaq",
+					"expanded_url": "https://youtu.be/HhRD3OF2vSU",
+					"display_url": "youtu.be/HhRD3OF2vSU",
+					"indices": [
+						107,
+						130
+					]
+				},
+				{
+					"url": "https://t.co/b9vzFIcaRb",
+					"expanded_url": "https://youtu.be/2Camwq6_CXY",
+					"display_url": "youtu.be/2Camwq6_CXY",
+					"indices": [
+						136,
+						159
+					]
+				},
+				{
+					"url": "https://t.co/7ieDHJOOhg",
+					"expanded_url": "https://youtu.be/SL4Jk8xQXMU",
+					"display_url": "youtu.be/SL4Jk8xQXMU",
+					"indices": [
+						165,
+						188
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1336208655180419000,
+					"id_str": "1336208655180419072",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EosqsT3U0AAwiMs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EosqsT3U0AAwiMs.jpg",
+					"url": "https://t.co/4WBJrWb7Xd",
+					"display_url": "pic.twitter.com/4WBJrWb7Xd",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1336234060008591361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336208655180419000,
+					"id_str": "1336208655180419072",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EosqsT3U0AAwiMs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EosqsT3U0AAwiMs.jpg",
+					"url": "https://t.co/4WBJrWb7Xd",
+					"display_url": "pic.twitter.com/4WBJrWb7Xd",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1336234060008591361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/qapZ7nOCns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qapZ7nOCns",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 241917,
+			"friends_count": 77,
+			"listed_count": 256,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 1838,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1766,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1607235930",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129,
+		"favorite_count": 313,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥#안방1열직캠] 이달의 소녀 - 목소리\n\n#인기가요 #이달의소녀 #목소리 #LOONA #Voice @loonatheworld\n\n#김립: https://t.co/aRjbn2ej9w\n#진솔: https://t.co/GfYyrLPDaq\n#최리: https://t.co/b9vzFIcaRb\n#이브: https://t.co/7ieDHJOOhg https://t.co/4WBJrWb7Xd"
+	},
+	{
+		"created_at": "Tue Dec 08 09:24:05 +0000 2020",
+		"id": 1336240118932320300,
+		"id_str": "1336240118932320257",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 ‘THE ALBUM’, 美 빌보드 선정 ‘2020 베스트 앨범’\nhttps://t.co/OJo6OfBRJy\n#블랙핑크 #BLACKPINK https://t.co/6og0BJgy2H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						88,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OJo6OfBRJy",
+					"expanded_url": "https://yg-life.com/archives/163199?lang=ko",
+					"display_url": "yg-life.com/archives/16319…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1336240117984485400,
+					"id_str": "1336240117984485377",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EotHTr8XYAEudI7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EotHTr8XYAEudI7.jpg",
+					"url": "https://t.co/6og0BJgy2H",
+					"display_url": "pic.twitter.com/6og0BJgy2H",
+					"expanded_url": "https://twitter.com/fromminn/status/1336240118932320257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 297,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 297,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 297,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336240117984485400,
+					"id_str": "1336240117984485377",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EotHTr8XYAEudI7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EotHTr8XYAEudI7.jpg",
+					"url": "https://t.co/6og0BJgy2H",
+					"display_url": "pic.twitter.com/6og0BJgy2H",
+					"expanded_url": "https://twitter.com/fromminn/status/1336240118932320257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 297,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 297,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 297,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44349,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 ‘THE ALBUM’, 美 빌보드 선정 ‘2020 베스트 앨범’\nhttps://t.co/OJo6OfBRJy\n#블랙핑크 #BLACKPINK https://t.co/6og0BJgy2H"
+	},
+	{
+		"created_at": "Tue Dec 08 09:14:53 +0000 2020",
+		"id": 1336236087560208400,
+		"id_str": "1336237804876144640",
+		"full_text": "There will be a live broadcast on Naver Now to celebrate the release of ‘tellusboutyourself’ on December 10th. Join us at midnight between the 10th and 11th! \n\n🍄 You can enter the premiere event via @kr_now.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kr_now",
+					"name": "NOW.",
+					"id": 1159646410414817300,
+					"id_str": "1159646410414817281",
+					"indices": [
+						199,
+						206
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1336204003030442000,
+		"in_reply_to_status_id_str": "1336204003030441984",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl contact@bluevinyl.kr",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19817,
+			"friends_count": 0,
+			"listed_count": 123,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1333999688865914883/VUQjoqmj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1333999688865914883/VUQjoqmj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1606885286",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "There will be a live broadcast on Naver Now to celebrate the release of ‘tellusboutyourself’ on December 10th. Join us at midnight between the 10th and 11th! \n\n🍄 You can enter the premiere event via @kr_now."
+	},
+	{
+		"created_at": "Tue Dec 08 09:14:44 +0000 2020",
+		"id": 1336235963589087200,
+		"id_str": "1336237766372372482",
+		"full_text": "[🗳투표]\naespa - Black Mamba\nSBS MTV #더쇼 초이스 1위 후보에 올랐습니다!\n\n➡️ 스타플레이 APP 실시간 투표 접속\n➡️ 오후 6시 5분~7시 5분(KST)\n➡️ aespa(에스파) ‘Black Mamba’ 투표!\n➡️ 1인 최대 3표 가능\n\nMY 여러분 많은 투표 부탁드려요💖\n\n#aespa #æspa #에스파\n#BlackMamba",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "더쇼",
+					"indices": [
+						34,
+						37
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						172,
+						178
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						179,
+						184
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						185,
+						189
+					]
+				},
+				{
+					"text": "BlackMamba",
+					"indices": [
+						190,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585776,
+			"friends_count": 1,
+			"listed_count": 1826,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 161,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2287,
+		"favorite_count": 10829,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[🗳투표]\naespa - Black Mamba\nSBS MTV #더쇼 초이스 1위 후보에 올랐습니다!\n\n➡️ 스타플레이 APP 실시간 투표 접속\n➡️ 오후 6시 5분~7시 5분(KST)\n➡️ aespa(에스파) ‘Black Mamba’ 투표!\n➡️ 1인 최대 3표 가능\n\nMY 여러분 많은 투표 부탁드려요💖\n\n#aespa #æspa #에스파\n#BlackMamba"
+	},
+	{
 		"created_at": "Tue Dec 08 08:45:53 +0000 2020",
 		"id": 1336229905319690200,
 		"id_str": "1336230507810525185",
