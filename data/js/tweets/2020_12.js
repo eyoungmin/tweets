@@ -1,6 +1,803 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 08 03:14:58 +0000 2020",
+		"id": 1336146907115110400,
+		"id_str": "1336147229493620737",
+		"full_text": "[EVENT] 태연에게 답해주세요 \"What Do I Call You?\"\n\n👉🏻 https://t.co/oVkFv5rN3a\n\n#태연 #TAEYEON #What_Do_I_Call_You #왓두아콜유_201215 #탱콜미바이 #소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						83,
+						102
+					]
+				},
+				{
+					"text": "왓두아콜유_201215",
+					"indices": [
+						103,
+						116
+					]
+				},
+				{
+					"text": "탱콜미바이",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						130,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oVkFv5rN3a",
+					"expanded_url": "http://naver.me/F1Rhb76T",
+					"display_url": "naver.me/F1Rhb76T",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3607973,
+			"friends_count": 4,
+			"listed_count": 5117,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 809,
+		"favorite_count": 2246,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EVENT] 태연에게 답해주세요 \"What Do I Call You?\"\n\n👉🏻 https://t.co/oVkFv5rN3a\n\n#태연 #TAEYEON #What_Do_I_Call_You #왓두아콜유_201215 #탱콜미바이 #소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Tue Dec 08 03:14:53 +0000 2020",
+		"id": 1336031799621849000,
+		"id_str": "1336147207985258498",
+		"full_text": "https://t.co/5rQryHUvCP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5rQryHUvCP",
+					"expanded_url": "https://www.forbes.com/sites/hughmcintyre/2020/12/07/blackpink-talk-debut-album-and-their-dedicated-fans-were-very-grateful-for-how-the-world-sees-us/?utm_campaign=forbes&utm_source=twitter&utm_medium=social&utm_term=Valerie",
+					"display_url": "forbes.com/sites/hughmcin…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.forbes.com\" rel=\"nofollow\">Forbes Botstream</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91478624,
+			"id_str": "91478624",
+			"name": "Forbes",
+			"screen_name": "Forbes",
+			"location": "New York, NY",
+			"description": "Official Twitter account of Forbes, the world’s leading voice for entrepreneurial success and free enterprise.",
+			"url": "http://t.co/KH6EtekF5q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/KH6EtekF5q",
+							"expanded_url": "http://forbes.com",
+							"display_url": "forbes.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16452157,
+			"friends_count": 5227,
+			"listed_count": 58109,
+			"created_at": "Sat Nov 21 02:09:57 +0000 2009",
+			"favourites_count": 10280,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 260417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "072250",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106672424605630465/IC9ipKIt_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106672424605630465/IC9ipKIt_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91478624/1585748525",
+			"profile_link_color": "072250",
+			"profile_sidebar_border_color": "CCCCCC",
+			"profile_sidebar_fill_color": "F7F7F7",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5172,
+		"favorite_count": 19967,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/5rQryHUvCP"
+	},
+	{
+		"created_at": "Tue Dec 08 03:14:45 +0000 2020",
+		"id": 1336143992514257000,
+		"id_str": "1336147173826846725",
+		"full_text": "💛BoA’s 20th anniversary reality show ‘Nobody Talks To BoA’’s last episode to be released this week!\n💛Candid talk with staffs &amp; 20th anniversary album preparation to be revealed!\n\n#보아 #BoA\n#Nobody_Talks_To_BoA\n#모두가_그녀에게_말을_걸지_않아",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보아",
+					"indices": [
+						183,
+						186
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						187,
+						191
+					]
+				},
+				{
+					"text": "Nobody_Talks_To_BoA",
+					"indices": [
+						192,
+						212
+					]
+				},
+				{
+					"text": "모두가_그녀에게_말을_걸지_않아",
+					"indices": [
+						213,
+						231
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1336143990232469500,
+		"in_reply_to_status_id_str": "1336143990232469504",
+		"in_reply_to_user_id": 1288694479197581300,
+		"in_reply_to_user_id_str": "1288694479197581312",
+		"in_reply_to_screen_name": "BoA_Official",
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39943,
+			"friends_count": 1,
+			"listed_count": 128,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 229,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 205,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "💛BoA’s 20th anniversary reality show ‘Nobody Talks To BoA’’s last episode to be released this week!\n💛Candid talk with staffs &amp; 20th anniversary album preparation to be revealed!\n\n#보아 #BoA\n#Nobody_Talks_To_BoA\n#모두가_그녀에게_말을_걸지_않아"
+	},
+	{
+		"created_at": "Tue Dec 08 03:14:40 +0000 2020",
+		"id": 1336143990232469500,
+		"id_str": "1336147152339423232",
+		"full_text": "💛보아 20주년 리얼리티 ‘Nobody Talks To BoA’, 이번 주 마지막 방송!\n💛스태프들과의 진솔한 토크→20주년 앨범 준비 현장 공개\n\n#보아 #BoA\n#Nobody_Talks_To_BoA\n#모두가_그녀에게_말을_걸지_않아 https://t.co/K7Y3ZLoBaP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보아",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "Nobody_Talks_To_BoA",
+					"indices": [
+						92,
+						112
+					]
+				},
+				{
+					"text": "모두가_그녀에게_말을_걸지_않아",
+					"indices": [
+						113,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1336143442301239300,
+					"id_str": "1336143442301239296",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EorvYa9VQAAMYgU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EorvYa9VQAAMYgU.jpg",
+					"url": "https://t.co/K7Y3ZLoBaP",
+					"display_url": "pic.twitter.com/K7Y3ZLoBaP",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1336143990232469504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 711,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1687,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 403,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336143442301239300,
+					"id_str": "1336143442301239296",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EorvYa9VQAAMYgU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EorvYa9VQAAMYgU.jpg",
+					"url": "https://t.co/K7Y3ZLoBaP",
+					"display_url": "pic.twitter.com/K7Y3ZLoBaP",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1336143990232469504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 711,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1687,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 403,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39943,
+			"friends_count": 1,
+			"listed_count": 128,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 229,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 119,
+		"favorite_count": 436,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💛보아 20주년 리얼리티 ‘Nobody Talks To BoA’, 이번 주 마지막 방송!\n💛스태프들과의 진솔한 토크→20주년 앨범 준비 현장 공개\n\n#보아 #BoA\n#Nobody_Talks_To_BoA\n#모두가_그녀에게_말을_걸지_않아 https://t.co/K7Y3ZLoBaP"
+	},
+	{
+		"created_at": "Tue Dec 08 03:14:38 +0000 2020",
+		"id": 1336143464728301600,
+		"id_str": "1336147143464247307",
+		"full_text": "[이달의소녀탐구 #664]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/zhHcLIB9YY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀탐구",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "loonatv",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1335773244352209000,
+					"id_str": "1335773244352208897",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1335773244352208897/pu/img/I40JsSW7RSohMFRd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1335773244352208897/pu/img/I40JsSW7RSohMFRd.jpg",
+					"url": "https://t.co/zhHcLIB9YY",
+					"display_url": "pic.twitter.com/zhHcLIB9YY",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1336143464728301568/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335773244352209000,
+					"id_str": "1335773244352208897",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1335773244352208897/pu/img/I40JsSW7RSohMFRd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1335773244352208897/pu/img/I40JsSW7RSohMFRd.jpg",
+					"url": "https://t.co/zhHcLIB9YY",
+					"display_url": "pic.twitter.com/zhHcLIB9YY",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1336143464728301568/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60561,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1335773244352208897/pu/vid/1280x720/034e25yZOKumGZ9s.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1335773244352208897/pu/vid/480x270/IdI8mTDq5BiPZZ9Y.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1335773244352208897/pu/pl/naPayiOVpDurPCdN.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1335773244352208897/pu/vid/640x360/-17PiZkdJ771jGNK.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 592899,
+			"friends_count": 0,
+			"listed_count": 6054,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1825,
+		"favorite_count": 7131,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀탐구 #664]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/zhHcLIB9YY"
+	},
+	{
 		"created_at": "Tue Dec 08 03:00:40 +0000 2020",
 		"id": 1336143629962850300,
 		"id_str": "1336143629962850305",
