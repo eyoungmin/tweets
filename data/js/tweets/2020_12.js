@@ -1,6 +1,186 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 08 12:14:51 +0000 2020",
+		"id": 1336280788057215000,
+		"id_str": "1336283093959905280",
+		"full_text": "🎵 ❤️&amp;🦋 🎶\n\nhttps://t.co/SH50G9n5J5\n\n🎵 🌙&amp;⭐️ 🎶\n\nhttps://t.co/vkPjgcgbp3\n\n#aespa #æspa #에스파\n#KARINA #카리나\n#GISELLE #지젤\n#WINTER #윈터\n#NINGNING #닝닝",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						96,
+						103
+					]
+				},
+				{
+					"text": "카리나",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "지젤",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						134,
+						143
+					]
+				},
+				{
+					"text": "닝닝",
+					"indices": [
+						144,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SH50G9n5J5",
+					"expanded_url": "https://vt.tiktok.com/ZSsG164t/",
+					"display_url": "vt.tiktok.com/ZSsG164t/",
+					"indices": [
+						14,
+						37
+					]
+				},
+				{
+					"url": "https://t.co/vkPjgcgbp3",
+					"expanded_url": "https://vt.tiktok.com/ZSssEvAy/",
+					"display_url": "vt.tiktok.com/ZSssEvAy/",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 586678,
+			"friends_count": 1,
+			"listed_count": 1825,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2333,
+		"favorite_count": 10405,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🎵 ❤️&amp;🦋 🎶\n\nhttps://t.co/SH50G9n5J5\n\n🎵 🌙&amp;⭐️ 🎶\n\nhttps://t.co/vkPjgcgbp3\n\n#aespa #æspa #에스파\n#KARINA #카리나\n#GISELLE #지젤\n#WINTER #윈터\n#NINGNING #닝닝"
+	},
+	{
 		"created_at": "Tue Dec 08 11:45:46 +0000 2020",
 		"id": 1336272010503016400,
 		"id_str": "1336275775939612675",
