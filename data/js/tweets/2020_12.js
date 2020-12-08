@@ -1,6 +1,1411 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 08 08:45:53 +0000 2020",
+		"id": 1336229905319690200,
+		"id_str": "1336230507810525185",
+		"full_text": "🎤SIMPLY K-POP Year-End Special\n🎊A Contact-Free Concert!🎊\n\n#VERIVERY #ACE #DREAMCATCHER #LOONA #MOMOLAND #SECRETNUMBER #Weeekly #WEi https://t.co/eqnX4MLT5h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VERIVERY",
+					"indices": [
+						58,
+						67
+					]
+				},
+				{
+					"text": "ACE",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "DREAMCATCHER",
+					"indices": [
+						73,
+						86
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "MOMOLAND",
+					"indices": [
+						94,
+						103
+					]
+				},
+				{
+					"text": "SECRETNUMBER",
+					"indices": [
+						104,
+						117
+					]
+				},
+				{
+					"text": "Weeekly",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "WEi",
+					"indices": [
+						127,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eqnX4MLT5h",
+					"expanded_url": "https://twitter.com/arirangworld/status/1336228278193987588",
+					"display_url": "twitter.com/arirangworld/s…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1204659086215671800,
+			"id_str": "1204659086215671808",
+			"name": "K-ROUND",
+			"screen_name": "PLAY_K_ROUND",
+			"location": "",
+			"description": "Playground for K-Pop Fans All Around the World! [official]\n전 세계 K-POP 팬들의 덕질 놀이터, K-ROUND",
+			"url": "https://t.co/eRqGeUFAHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eRqGeUFAHR",
+							"expanded_url": "https://www.youtube.com/arirangworld",
+							"display_url": "youtube.com/arirangworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7823,
+			"friends_count": 2,
+			"listed_count": 67,
+			"created_at": "Wed Dec 11 07:08:16 +0000 2019",
+			"favourites_count": 160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1086,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211805481875820545/Ej0dDVoB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211805481875820545/Ej0dDVoB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1204659086215671808/1577751796",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1336228278193987600,
+		"quoted_status_id_str": "1336228278193987588",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eqnX4MLT5h",
+			"expanded": "https://twitter.com/arirangworld/status/1336228278193987588",
+			"display": "twitter.com/arirangworld/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 08 08:37:02 +0000 2020",
+			"id": 1336228278193987600,
+			"id_str": "1336228278193987588",
+			"full_text": "#VERIVERY #ACE #DREAMCATCHER #LOONA #MOMOLAND #SECRETNUMBER #Weeekly #WEi\n\n💌To apply, send to\n✔simplykpop2021@naver.com\n1. name + country\n2. email adress\n3. a message to share with the guests🌟🌟🌟\n\n✔Follow our TikTok account and stay tuned!🥰\n👉 https://t.co/RIsfVsayur https://t.co/TrfNSwXucd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "VERIVERY",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"text": "ACE",
+						"indices": [
+							10,
+							14
+						]
+					},
+					{
+						"text": "DREAMCATCHER",
+						"indices": [
+							15,
+							28
+						]
+					},
+					{
+						"text": "LOONA",
+						"indices": [
+							29,
+							35
+						]
+					},
+					{
+						"text": "MOMOLAND",
+						"indices": [
+							36,
+							45
+						]
+					},
+					{
+						"text": "SECRETNUMBER",
+						"indices": [
+							46,
+							59
+						]
+					},
+					{
+						"text": "Weeekly",
+						"indices": [
+							60,
+							68
+						]
+					},
+					{
+						"text": "WEi",
+						"indices": [
+							69,
+							73
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RIsfVsayur",
+						"expanded_url": "https://vt.tiktok.com/ZSpnr5MV/",
+						"display_url": "vt.tiktok.com/ZSpnr5MV/",
+						"indices": [
+							242,
+							265
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1336227327341052000,
+						"id_str": "1336227327341051906",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/Eos7rLFVQAI8P3q.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eos7rLFVQAI8P3q.png",
+						"url": "https://t.co/TrfNSwXucd",
+						"display_url": "pic.twitter.com/TrfNSwXucd",
+						"expanded_url": "https://twitter.com/arirangworld/status/1336228278193987588/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1336227327341052000,
+						"id_str": "1336227327341051906",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/Eos7rLFVQAI8P3q.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eos7rLFVQAI8P3q.png",
+						"url": "https://t.co/TrfNSwXucd",
+						"display_url": "pic.twitter.com/TrfNSwXucd",
+						"expanded_url": "https://twitter.com/arirangworld/status/1336228278193987588/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1336227345439412200,
+						"id_str": "1336227345439412224",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/Eos7sOgUUAAQTAD.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eos7sOgUUAAQTAD.png",
+						"url": "https://t.co/TrfNSwXucd",
+						"display_url": "pic.twitter.com/TrfNSwXucd",
+						"expanded_url": "https://twitter.com/arirangworld/status/1336228278193987588/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1336227360467681300,
+						"id_str": "1336227360467681280",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/Eos7tGfVgAAxn9n.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eos7tGfVgAAxn9n.png",
+						"url": "https://t.co/TrfNSwXucd",
+						"display_url": "pic.twitter.com/TrfNSwXucd",
+						"expanded_url": "https://twitter.com/arirangworld/status/1336228278193987588/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1336227374589911000,
+						"id_str": "1336227374589911040",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/Eos7t7GVoAAYhsL.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eos7t7GVoAAYhsL.png",
+						"url": "https://t.co/TrfNSwXucd",
+						"display_url": "pic.twitter.com/TrfNSwXucd",
+						"expanded_url": "https://twitter.com/arirangworld/status/1336228278193987588/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 66625290,
+				"id_str": "66625290",
+				"name": "Arirang World",
+				"screen_name": "arirangworld",
+				"location": "South Korea",
+				"description": "Arirang TV & Radio",
+				"url": "https://t.co/eRqGeUFAHR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eRqGeUFAHR",
+								"expanded_url": "https://www.youtube.com/arirangworld",
+								"display_url": "youtube.com/arirangworld",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 158696,
+				"friends_count": 211,
+				"listed_count": 1203,
+				"created_at": "Tue Aug 18 07:40:53 +0000 2009",
+				"favourites_count": 6049,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 25225,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E6E6E6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/925579596681977856/NBEPP8Pl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/925579596681977856/NBEPP8Pl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/66625290/1491978349",
+				"profile_link_color": "ED1846",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFB2D7",
+				"profile_text_color": "0A0A0A",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 62,
+			"favorite_count": 155,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 14,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎤SIMPLY K-POP Year-End Special\n🎊A Contact-Free Concert!🎊\n\n#VERIVERY #ACE #DREAMCATCHER #LOONA #MOMOLAND #SECRETNUMBER #Weeekly #WEi https://t.co/eqnX4MLT5h"
+	},
+	{
+		"created_at": "Tue Dec 08 08:45:48 +0000 2020",
+		"id": 1336229331182387200,
+		"id_str": "1336230486310604801",
+		"full_text": "연말특집 SIMPLY K-POP\n🎊언택트 공연🎊\n\n많은 관심과 참여 부탁드립니다🎵\n\n#드림캐쳐 #모모랜드 #베리베리 #시크릿넘버 #에이스 #위아이 #위클리 #이달의소녀 https://t.co/EPkriBz1GD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "드림캐쳐",
+					"indices": [
+						47,
+						52
+					]
+				},
+				{
+					"text": "모모랜드",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "베리베리",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "시크릿넘버",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "에이스",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "위아이",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "위클리",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						87,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1336229318133907500,
+					"id_str": "1336229318133907459",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/Eos9fDXVgAMUqrl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eos9fDXVgAMUqrl.jpg",
+					"url": "https://t.co/EPkriBz1GD",
+					"display_url": "pic.twitter.com/EPkriBz1GD",
+					"expanded_url": "https://twitter.com/_Simplykpop/status/1336229331182387200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336229318133907500,
+					"id_str": "1336229318133907459",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/Eos9fDXVgAMUqrl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eos9fDXVgAMUqrl.jpg",
+					"url": "https://t.co/EPkriBz1GD",
+					"display_url": "pic.twitter.com/EPkriBz1GD",
+					"expanded_url": "https://twitter.com/_Simplykpop/status/1336229331182387200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1336229321413861400,
+					"id_str": "1336229321413861377",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/Eos9fPlVoAEkZI5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eos9fPlVoAEkZI5.jpg",
+					"url": "https://t.co/EPkriBz1GD",
+					"display_url": "pic.twitter.com/EPkriBz1GD",
+					"expanded_url": "https://twitter.com/_Simplykpop/status/1336229331182387200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1336229325947895800,
+					"id_str": "1336229325947895808",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/Eos9fgeVgAAdGbJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eos9fgeVgAAdGbJ.jpg",
+					"url": "https://t.co/EPkriBz1GD",
+					"display_url": "pic.twitter.com/EPkriBz1GD",
+					"expanded_url": "https://twitter.com/_Simplykpop/status/1336229331182387200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1336229329181712400,
+					"id_str": "1336229329181712386",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/Eos9fshVoAIjQ4k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eos9fshVoAIjQ4k.jpg",
+					"url": "https://t.co/EPkriBz1GD",
+					"display_url": "pic.twitter.com/EPkriBz1GD",
+					"expanded_url": "https://twitter.com/_Simplykpop/status/1336229331182387200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 505587119,
+			"id_str": "505587119",
+			"name": "Simplykpop",
+			"screen_name": "_Simplykpop",
+			"location": "",
+			"description": "∎해외 아리랑월드채널: 금요일 PM 1시\n∎한국 아리랑채널: 토요일 PM 1시\n∎World Arirang Channel: FRI 1PM KST\n∎Korea Arirang Channel: SAT 1PM KST\nhttps://t.co/Wh92uO9fSs",
+			"url": "https://t.co/eRqGeUFAHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eRqGeUFAHR",
+							"expanded_url": "https://www.youtube.com/arirangworld",
+							"display_url": "youtube.com/arirangworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Wh92uO9fSs",
+							"expanded_url": "http://www.youtube.com/arirangworld",
+							"display_url": "youtube.com/arirangworld",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 365997,
+			"friends_count": 118,
+			"listed_count": 1073,
+			"created_at": "Mon Feb 27 07:32:00 +0000 2012",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11361,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184481211789365248/FtY-a-LE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184481211789365248/FtY-a-LE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/505587119/1571237354",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "연말특집 SIMPLY K-POP\n🎊언택트 공연🎊\n\n많은 관심과 참여 부탁드립니다🎵\n\n#드림캐쳐 #모모랜드 #베리베리 #시크릿넘버 #에이스 #위아이 #위클리 #이달의소녀 https://t.co/EPkriBz1GD"
+	},
+	{
+		"created_at": "Tue Dec 08 08:45:41 +0000 2020",
+		"id": 1336228278193987600,
+		"id_str": "1336230456426176513",
+		"full_text": "#VERIVERY #ACE #DREAMCATCHER #LOONA #MOMOLAND #SECRETNUMBER #Weeekly #WEi\n\n💌To apply, send to\n✔simplykpop2021@naver.com\n1. name + country\n2. email adress\n3. a message to share with the guests🌟🌟🌟\n\n✔Follow our TikTok account and stay tuned!🥰\n👉 https://t.co/RIsfVsayur https://t.co/TrfNSwXucd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VERIVERY",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "ACE",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "DREAMCATCHER",
+					"indices": [
+						15,
+						28
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "MOMOLAND",
+					"indices": [
+						36,
+						45
+					]
+				},
+				{
+					"text": "SECRETNUMBER",
+					"indices": [
+						46,
+						59
+					]
+				},
+				{
+					"text": "Weeekly",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"text": "WEi",
+					"indices": [
+						69,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RIsfVsayur",
+					"expanded_url": "https://vt.tiktok.com/ZSpnr5MV/",
+					"display_url": "vt.tiktok.com/ZSpnr5MV/",
+					"indices": [
+						242,
+						265
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1336227327341052000,
+					"id_str": "1336227327341051906",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/Eos7rLFVQAI8P3q.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eos7rLFVQAI8P3q.png",
+					"url": "https://t.co/TrfNSwXucd",
+					"display_url": "pic.twitter.com/TrfNSwXucd",
+					"expanded_url": "https://twitter.com/arirangworld/status/1336228278193987588/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336227327341052000,
+					"id_str": "1336227327341051906",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/Eos7rLFVQAI8P3q.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eos7rLFVQAI8P3q.png",
+					"url": "https://t.co/TrfNSwXucd",
+					"display_url": "pic.twitter.com/TrfNSwXucd",
+					"expanded_url": "https://twitter.com/arirangworld/status/1336228278193987588/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1336227345439412200,
+					"id_str": "1336227345439412224",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/Eos7sOgUUAAQTAD.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eos7sOgUUAAQTAD.png",
+					"url": "https://t.co/TrfNSwXucd",
+					"display_url": "pic.twitter.com/TrfNSwXucd",
+					"expanded_url": "https://twitter.com/arirangworld/status/1336228278193987588/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1336227360467681300,
+					"id_str": "1336227360467681280",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/Eos7tGfVgAAxn9n.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eos7tGfVgAAxn9n.png",
+					"url": "https://t.co/TrfNSwXucd",
+					"display_url": "pic.twitter.com/TrfNSwXucd",
+					"expanded_url": "https://twitter.com/arirangworld/status/1336228278193987588/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1336227374589911000,
+					"id_str": "1336227374589911040",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/Eos7t7GVoAAYhsL.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eos7t7GVoAAYhsL.png",
+					"url": "https://t.co/TrfNSwXucd",
+					"display_url": "pic.twitter.com/TrfNSwXucd",
+					"expanded_url": "https://twitter.com/arirangworld/status/1336228278193987588/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66625290,
+			"id_str": "66625290",
+			"name": "Arirang World",
+			"screen_name": "arirangworld",
+			"location": "South Korea",
+			"description": "Arirang TV & Radio",
+			"url": "https://t.co/eRqGeUFAHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eRqGeUFAHR",
+							"expanded_url": "https://www.youtube.com/arirangworld",
+							"display_url": "youtube.com/arirangworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 158696,
+			"friends_count": 211,
+			"listed_count": 1203,
+			"created_at": "Tue Aug 18 07:40:53 +0000 2009",
+			"favourites_count": 6049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E6E6E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925579596681977856/NBEPP8Pl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925579596681977856/NBEPP8Pl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66625290/1491978349",
+			"profile_link_color": "ED1846",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFB2D7",
+			"profile_text_color": "0A0A0A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 155,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#VERIVERY #ACE #DREAMCATCHER #LOONA #MOMOLAND #SECRETNUMBER #Weeekly #WEi\n\n💌To apply, send to\n✔simplykpop2021@naver.com\n1. name + country\n2. email adress\n3. a message to share with the guests🌟🌟🌟\n\n✔Follow our TikTok account and stay tuned!🥰\n👉 https://t.co/RIsfVsayur https://t.co/TrfNSwXucd"
+	},
+	{
+		"created_at": "Tue Dec 08 08:45:37 +0000 2020",
+		"id": 1336226554813149200,
+		"id_str": "1336230439183331330",
+		"full_text": "모든 게 암전된 순간 #이달의소녀 와 오빛의 운명적 만남이 시작돼💙 잠시 후 오후 6시(KST) 방송되는 더쇼에서 '목소리(Voice)' 무대를 확인하세요😘\n\n#LOONA https://t.co/7Ksd81zecl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						89,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1336226541567582200,
+					"id_str": "1336226541567582210",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/Eos69b2VoAIHHv4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eos69b2VoAIHHv4.jpg",
+					"url": "https://t.co/7Ksd81zecl",
+					"display_url": "pic.twitter.com/7Ksd81zecl",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1336226554813149184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336226541567582200,
+					"id_str": "1336226541567582210",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/Eos69b2VoAIHHv4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eos69b2VoAIHHv4.jpg",
+					"url": "https://t.co/7Ksd81zecl",
+					"display_url": "pic.twitter.com/7Ksd81zecl",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1336226554813149184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 593106,
+			"friends_count": 0,
+			"listed_count": 6052,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2631,
+		"favorite_count": 9267,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모든 게 암전된 순간 #이달의소녀 와 오빛의 운명적 만남이 시작돼💙 잠시 후 오후 6시(KST) 방송되는 더쇼에서 '목소리(Voice)' 무대를 확인하세요😘\n\n#LOONA https://t.co/7Ksd81zecl"
+	},
+	{
 		"created_at": "Tue Dec 08 07:14:37 +0000 2020",
 		"id": 1336204003030442000,
 		"id_str": "1336207540997271553",
