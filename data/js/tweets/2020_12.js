@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 09 06:14:44 +0000 2020",
+		"id": 1336551150284198000,
+		"id_str": "1336554855767355393",
+		"full_text": "[Teaser] &lt;Nobody Talks To BoA - 모두가 그녀에게 말을 걸지 않아&gt; EP8. BETTER\n\n이번 주 목요일(10일) 오후 6시, 네이버 V앱 비욘드 라이브 채널에서 확인하세요!\n\n#보아 #BoA\n#Nobody_Talks_To_BoA\n#모두가_그녀에게_말을_걸지_않아 https://t.co/3KlBk7iHMB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보아",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "Nobody_Talks_To_BoA",
+					"indices": [
+						128,
+						148
+					]
+				},
+				{
+					"text": "모두가_그녀에게_말을_걸지_않아",
+					"indices": [
+						149,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1335791506972545000,
+					"id_str": "1335791506972545025",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1335791506972545025/img/xZxnJfnBJIBGVH4v.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1335791506972545025/img/xZxnJfnBJIBGVH4v.jpg",
+					"url": "https://t.co/3KlBk7iHMB",
+					"display_url": "pic.twitter.com/3KlBk7iHMB",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1336551150284197890/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335791506972545000,
+					"id_str": "1335791506972545025",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1335791506972545025/img/xZxnJfnBJIBGVH4v.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1335791506972545025/img/xZxnJfnBJIBGVH4v.jpg",
+					"url": "https://t.co/3KlBk7iHMB",
+					"display_url": "pic.twitter.com/3KlBk7iHMB",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1336551150284197890/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 61128,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1335791506972545025/vid/480x270/IE_neFAhQPOfvFGT.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1335791506972545025/vid/1280x720/Sm-4H6zji-xCCbTP.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1335791506972545025/pl/KXQDT0T4owxXABsQ.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1335791506972545025/vid/640x360/5yFUqIQueHfq438g.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40244,
+			"friends_count": 1,
+			"listed_count": 128,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 197,
+		"favorite_count": 1958,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Teaser] &lt;Nobody Talks To BoA - 모두가 그녀에게 말을 걸지 않아&gt; EP8. BETTER\n\n이번 주 목요일(10일) 오후 6시, 네이버 V앱 비욘드 라이브 채널에서 확인하세요!\n\n#보아 #BoA\n#Nobody_Talks_To_BoA\n#모두가_그녀에게_말을_걸지_않아 https://t.co/3KlBk7iHMB"
+	},
+	{
 		"created_at": "Wed Dec 09 05:53:37 +0000 2020",
 		"id": 1336549543790452700,
 		"id_str": "1336549543790452737",
