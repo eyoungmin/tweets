@@ -1,6 +1,390 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 09 11:14:46 +0000 2020",
+		"id": 1336615937756151800,
+		"id_str": "1336630361304993792",
+		"full_text": "[#달리는사이] 1회 본방사수 EVENT💙\n\n잠시 후 저녁 7시 50분!\n'달리자 달달구리'와 첫방 달릴 준비 되셨나요?!\n\n❄참여방법: https://t.co/6lj5Wl1Nk9\n\nK-POP 대표 여자 아이돌들의 #런트립(RUN-TRIP)#리얼리티\n#Mnet &lt;달리는 사이&gt; 12/9(수) 저녁 7시 50분 첫/방/송\n\n#선미 #하니 #유아 #청하 #츄 https://t.co/cLUBbkzuCj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "달리는사이",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "런트립",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "리얼리티",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "선미",
+					"indices": [
+						186,
+						189
+					]
+				},
+				{
+					"text": "하니",
+					"indices": [
+						190,
+						193
+					]
+				},
+				{
+					"text": "유아",
+					"indices": [
+						194,
+						197
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						198,
+						201
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						202,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6lj5Wl1Nk9",
+					"expanded_url": "http://bit.ly/RunningGirls_Event",
+					"display_url": "bit.ly/RunningGirls_E…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1336615887239958500,
+					"id_str": "1336615887239958528",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EoydEVgU0AAdkWF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoydEVgU0AAdkWF.jpg",
+					"url": "https://t.co/cLUBbkzuCj",
+					"display_url": "pic.twitter.com/cLUBbkzuCj",
+					"expanded_url": "https://twitter.com/MnetKR/status/1336615937756151809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336615887239958500,
+					"id_str": "1336615887239958528",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EoydEVgU0AAdkWF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoydEVgU0AAdkWF.jpg",
+					"url": "https://t.co/cLUBbkzuCj",
+					"display_url": "pic.twitter.com/cLUBbkzuCj",
+					"expanded_url": "https://twitter.com/MnetKR/status/1336615937756151809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2796512,
+			"friends_count": 21410,
+			"listed_count": 2737,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 445,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 26665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 134,
+		"favorite_count": 825,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#달리는사이] 1회 본방사수 EVENT💙\n\n잠시 후 저녁 7시 50분!\n'달리자 달달구리'와 첫방 달릴 준비 되셨나요?!\n\n❄참여방법: https://t.co/6lj5Wl1Nk9\n\nK-POP 대표 여자 아이돌들의 #런트립(RUN-TRIP)#리얼리티\n#Mnet &lt;달리는 사이&gt; 12/9(수) 저녁 7시 50분 첫/방/송\n\n#선미 #하니 #유아 #청하 #츄 https://t.co/cLUBbkzuCj"
+	},
+	{
+		"created_at": "Wed Dec 09 11:14:40 +0000 2020",
+		"id": 1336619151121510400,
+		"id_str": "1336630339545014279",
+		"full_text": "[📺] 잠시 후 7시 50분, Mnet ‘달리는 사이’에 청하가 출연합니다.\n\n#청하 #CHUNGHA \n#달리는사이",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						48,
+						56
+					]
+				},
+				{
+					"text": "달리는사이",
+					"indices": [
+						58,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/MasTugaSJD\nCHUNG HA Website 💚💙💜 https://t.co/KNLHLQCXaH",
+			"url": "https://t.co/reTg513UFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg513UFX",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MasTugaSJD",
+							"expanded_url": "http://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								31,
+								54
+							]
+						},
+						{
+							"url": "https://t.co/KNLHLQCXaH",
+							"expanded_url": "http://chunghaofficial.com/",
+							"display_url": "chunghaofficial.com",
+							"indices": [
+								76,
+								99
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 296426,
+			"friends_count": 0,
+			"listed_count": 1805,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1606446336",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 119,
+		"favorite_count": 926,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[📺] 잠시 후 7시 50분, Mnet ‘달리는 사이’에 청하가 출연합니다.\n\n#청하 #CHUNGHA \n#달리는사이"
+	},
+	{
 		"created_at": "Wed Dec 09 10:45:37 +0000 2020",
 		"id": 1336619115717353500,
 		"id_str": "1336623024905318401",
