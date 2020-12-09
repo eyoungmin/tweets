@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 09 17:14:38 +0000 2020",
+		"id": 1336615825227325400,
+		"id_str": "1336720924045930502",
+		"full_text": "Congratulations to @billieeilish and @finneas for their Grand Prize for the best new international work of the year with \"bad guy\" 👏👏👏 #PrixSacem\n\nToday, Sacem is glad to celebrate this multi-award winning song and talented creators who are breaking all records 🏆✊ https://t.co/icVwXJzaNc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PrixSacem",
+					"indices": [
+						135,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "billieeilish",
+					"name": "billie eilish",
+					"id": 2150327072,
+					"id_str": "2150327072",
+					"indices": [
+						19,
+						32
+					]
+				},
+				{
+					"screen_name": "finneas",
+					"name": "FINNEAS",
+					"id": 1573265498,
+					"id_str": "1573265498",
+					"indices": [
+						37,
+						45
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1336615668586778600,
+					"id_str": "1336615668586778626",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/Eoyc3m9WEAI0rSv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eoyc3m9WEAI0rSv.jpg",
+					"url": "https://t.co/icVwXJzaNc",
+					"display_url": "pic.twitter.com/icVwXJzaNc",
+					"expanded_url": "https://twitter.com/sacem/status/1336615825227325442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336615668586778600,
+					"id_str": "1336615668586778626",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/Eoyc3m9WEAI0rSv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eoyc3m9WEAI0rSv.jpg",
+					"url": "https://t.co/icVwXJzaNc",
+					"display_url": "pic.twitter.com/icVwXJzaNc",
+					"expanded_url": "https://twitter.com/sacem/status/1336615825227325442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1194511838,
+			"id_str": "1194511838",
+			"name": "Sacem",
+			"screen_name": "sacem",
+			"location": "France",
+			"description": "Depuis 169 ans, la Sacem agit pour faire rayonner toutes les musiques, dans leur diversité. #EnsembleFaisonsVivreLaMusique ! 🤝🎶",
+			"url": "https://t.co/RqOrZgwzRW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RqOrZgwzRW",
+							"expanded_url": "http://www.sacem.fr",
+							"display_url": "sacem.fr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22932,
+			"friends_count": 2383,
+			"listed_count": 301,
+			"created_at": "Mon Feb 18 19:11:52 +0000 2013",
+			"favourites_count": 6456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14876,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201580377103581184/GV_x8rSJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201580377103581184/GV_x8rSJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1194511838/1575314062",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 448,
+		"favorite_count": 5811,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations to @billieeilish and @finneas for their Grand Prize for the best new international work of the year with \"bad guy\" 👏👏👏 #PrixSacem\n\nToday, Sacem is glad to celebrate this multi-award winning song and talented creators who are breaking all records 🏆✊ https://t.co/icVwXJzaNc"
+	},
+	{
 		"created_at": "Wed Dec 09 15:26:41 +0000 2020",
 		"id": 1336693759589961700,
 		"id_str": "1336693759589961728",
