@@ -1,6 +1,162 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 09 01:14:37 +0000 2020",
+		"id": 1336476454926708700,
+		"id_str": "1336479331426705410",
+		"full_text": "고품격 '예리한 투어' 레드벨벳 Pick! SM 진미 먹방\nHigh Quality \"Yerihan Tour\" Red Velvet's Pick! SM's Great Dish Mukbang\n👉https://t.co/m1C2IzwHoP\n\n#예리 #산다라 #yeri #sandara #2NE1 #RedVelvet #레드벨벳",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "산다라",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "yeri",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "sandara",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "2NE1",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						160,
+						170
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						171,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m1C2IzwHoP",
+					"expanded_url": "https://youtu.be/TTyEvPkd5Ic",
+					"display_url": "youtu.be/TTyEvPkd5Ic",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1230039660572708900,
+			"id_str": "1230039660572708864",
+			"name": "예리한방 - Yeris Room",
+			"screen_name": "yerihan_bang",
+			"location": "",
+			"description": "예리한방(Yeri’s Room) 공식계정\n꿀잼 가득 '덤덤스튜디오' 💜\nDUMDUM STUDIO is full of fun.\n#예리한방 #예리 #레드벨벳 #yerisroom #덤덤스튜디오",
+			"url": "https://t.co/ET3yf5F3Jx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ET3yf5F3Jx",
+							"expanded_url": "http://youtube.com/dumdumstudio",
+							"display_url": "youtube.com/dumdumstudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30932,
+			"friends_count": 0,
+			"listed_count": 154,
+			"created_at": "Wed Feb 19 08:01:31 +0000 2020",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1230039660572708864/1600494343",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 666,
+		"favorite_count": 1038,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "고품격 '예리한 투어' 레드벨벳 Pick! SM 진미 먹방\nHigh Quality \"Yerihan Tour\" Red Velvet's Pick! SM's Great Dish Mukbang\n👉https://t.co/m1C2IzwHoP\n\n#예리 #산다라 #yeri #sandara #2NE1 #RedVelvet #레드벨벳"
+	},
+	{
 		"created_at": "Wed Dec 09 01:01:33 +0000 2020",
 		"id": 1336476039858544600,
 		"id_str": "1336476039858544640",
