@@ -1,6 +1,1699 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 09 09:56:31 +0000 2020",
+		"id": 1336610668523507700,
+		"id_str": "1336610668523507714",
+		"full_text": "#팩트체크 #SNU팩트체크\n\"지하철 야간 운행 감축으로 밀집도 높아져 코로나 감염 위험성 증가했다\"\n▶ 대체로 사실이 아님\nhttps://t.co/mEKcP2kivm\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						95,
+						106
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						107,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mEKcP2kivm",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2657",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n\"지하철 야간 운행 감축으로 밀집도 높아져 코로나 감염 위험성 증가했다\"\n▶ 대체로 사실이 아님\nhttps://t.co/mEKcP2kivm\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
+		"created_at": "Wed Dec 09 09:56:30 +0000 2020",
+		"id": 1336610665340035000,
+		"id_str": "1336610665340035072",
+		"full_text": "#팩트체크 #SNU팩트체크\n해외 제약사들이 광범위한 면책을 요구하는 것은 국제적으로 거의 공통된 현상이다\n▶ 대체로 사실\nhttps://t.co/dU02fpdSBR\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						94,
+						105
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						106,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dU02fpdSBR",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2656",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n해외 제약사들이 광범위한 면책을 요구하는 것은 국제적으로 거의 공통된 현상이다\n▶ 대체로 사실\nhttps://t.co/dU02fpdSBR\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
+		"created_at": "Wed Dec 09 09:14:59 +0000 2020",
+		"id": 1336596955837821000,
+		"id_str": "1336600218553487364",
+		"full_text": "안녕하세요 BLINKs!\n영국에서 내년에 개최 될 유엔 기후변화당사국총회 (@COP26)에 앞서 #기후변화 에 대해 더 자세히 알기 위한 여정을 시작했습니다.\n주한 영국대사관 (@UKinKorea)과 함께 한 이번 영상에 많은 관심 부탁드려요!\n \n#블랙핑크 #ClimateActionInYourArea #TogetherForOurPlanet #YG https://t.co/FE608qB08r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "기후변화",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "ClimateActionInYourArea",
+					"indices": [
+						145,
+						169
+					]
+				},
+				{
+					"text": "TogetherForOurPlanet",
+					"indices": [
+						170,
+						191
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						192,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "COP26",
+					"name": "COP26",
+					"id": 1195025771368239000,
+					"id_str": "1195025771368239106",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"screen_name": "UKinKorea",
+					"name": "UKinKorea🇬🇧🇰🇷",
+					"id": 160748751,
+					"id_str": "160748751",
+					"indices": [
+						99,
+						109
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1336580968333754400,
+					"id_str": "1336580968333754368",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1336580968333754368/img/oHG5w-fUQG8bslK5.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1336580968333754368/img/oHG5w-fUQG8bslK5.jpg",
+					"url": "https://t.co/FE608qB08r",
+					"display_url": "pic.twitter.com/FE608qB08r",
+					"expanded_url": "https://twitter.com/ygent_official/status/1336596955837820929/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336580968333754400,
+					"id_str": "1336580968333754368",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1336580968333754368/img/oHG5w-fUQG8bslK5.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1336580968333754368/img/oHG5w-fUQG8bslK5.jpg",
+					"url": "https://t.co/FE608qB08r",
+					"display_url": "pic.twitter.com/FE608qB08r",
+					"expanded_url": "https://twitter.com/ygent_official/status/1336596955837820929/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 122080,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1336580968333754368/vid/480x270/e5wCFFYQRI0AGtbB.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1336580968333754368/pl/XmWyDWXRQHP0lyuU.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1336580968333754368/vid/640x360/ZyIo2lnWb1PDS_P4.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1336580968333754368/vid/1280x720/Neyb2Q_mOXxhhdsb.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "블링크들 주목! 기후변화에 대해 함께 배워 볼 시간! #COP26",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7057709,
+			"friends_count": 38,
+			"listed_count": 7163,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4557,
+		"favorite_count": 18813,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요 BLINKs!\n영국에서 내년에 개최 될 유엔 기후변화당사국총회 (@COP26)에 앞서 #기후변화 에 대해 더 자세히 알기 위한 여정을 시작했습니다.\n주한 영국대사관 (@UKinKorea)과 함께 한 이번 영상에 많은 관심 부탁드려요!\n \n#블랙핑크 #ClimateActionInYourArea #TogetherForOurPlanet #YG https://t.co/FE608qB08r"
+	},
+	{
+		"created_at": "Wed Dec 09 09:14:51 +0000 2020",
+		"id": 1336596573334036500,
+		"id_str": "1336600184420245504",
+		"full_text": "To all BLINKs across the planet.\nWATCH our video with @UKinKorea on our journey to learn more about #ClimateChange ahead of next year’s UN Climate Summit in UK @COP26. \n\n#BLACKPINK #ClimateActionInYourArea #TogetherForOurPlanet #YG https://t.co/oMX82ibV8R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ClimateChange",
+					"indices": [
+						100,
+						114
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						170,
+						180
+					]
+				},
+				{
+					"text": "ClimateActionInYourArea",
+					"indices": [
+						181,
+						205
+					]
+				},
+				{
+					"text": "TogetherForOurPlanet",
+					"indices": [
+						206,
+						227
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						228,
+						231
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UKinKorea",
+					"name": "UKinKorea🇬🇧🇰🇷",
+					"id": 160748751,
+					"id_str": "160748751",
+					"indices": [
+						54,
+						64
+					]
+				},
+				{
+					"screen_name": "COP26",
+					"name": "COP26",
+					"id": 1195025771368239000,
+					"id_str": "1195025771368239106",
+					"indices": [
+						160,
+						166
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1336580921852526600,
+					"id_str": "1336580921852526592",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1336580921852526592/img/GcToWtx_MXWjNvhx.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1336580921852526592/img/GcToWtx_MXWjNvhx.jpg",
+					"url": "https://t.co/oMX82ibV8R",
+					"display_url": "pic.twitter.com/oMX82ibV8R",
+					"expanded_url": "https://twitter.com/ygent_official/status/1336596573334036481/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336580921852526600,
+					"id_str": "1336580921852526592",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1336580921852526592/img/GcToWtx_MXWjNvhx.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1336580921852526592/img/GcToWtx_MXWjNvhx.jpg",
+					"url": "https://t.co/oMX82ibV8R",
+					"display_url": "pic.twitter.com/oMX82ibV8R",
+					"expanded_url": "https://twitter.com/ygent_official/status/1336596573334036481/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 122080,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1336580921852526592/pl/mzUsMTdjZ3VxdGGt.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1336580921852526592/vid/1280x720/2Nc71IBkq6xCo7xx.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1336580921852526592/vid/640x360/iz8jFlg81lqAZXsm.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1336580921852526592/vid/480x270/_KxD6wRSgAGGfLZX.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "CALLING ALL BLINKS: CLIMATE ACTION IN YOUR AREA! #COP26",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7057709,
+			"friends_count": 38,
+			"listed_count": 7163,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4726,
+		"favorite_count": 19289,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "To all BLINKs across the planet.\nWATCH our video with @UKinKorea on our journey to learn more about #ClimateChange ahead of next year’s UN Climate Summit in UK @COP26. \n\n#BLACKPINK #ClimateActionInYourArea #TogetherForOurPlanet #YG https://t.co/oMX82ibV8R"
+	},
+	{
+		"created_at": "Wed Dec 09 09:14:48 +0000 2020",
+		"id": 1336596615864324000,
+		"id_str": "1336600171375898625",
+		"full_text": "https://t.co/LO9NBwDILr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1336596609816092700,
+					"id_str": "1336596609816092673",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EoyLiPgUYAEsYzg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoyLiPgUYAEsYzg.jpg",
+					"url": "https://t.co/LO9NBwDILr",
+					"display_url": "pic.twitter.com/LO9NBwDILr",
+					"expanded_url": "https://twitter.com/edam_ent/status/1336596615864324097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 585,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 809,
+							"h": 696,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 809,
+							"h": 696,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336596609816092700,
+					"id_str": "1336596609816092673",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EoyLiPgUYAEsYzg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoyLiPgUYAEsYzg.jpg",
+					"url": "https://t.co/LO9NBwDILr",
+					"display_url": "pic.twitter.com/LO9NBwDILr",
+					"expanded_url": "https://twitter.com/edam_ent/status/1336596615864324097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 585,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 809,
+							"h": 696,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 809,
+							"h": 696,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1336596496284729300,
+		"in_reply_to_status_id_str": "1336596496284729345",
+		"in_reply_to_user_id": 1214016219889553400,
+		"in_reply_to_user_id_str": "1214016219889553409",
+		"in_reply_to_screen_name": "edam_ent",
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34671,
+			"friends_count": 1,
+			"listed_count": 109,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 292,
+		"favorite_count": 2238,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/LO9NBwDILr"
+	},
+	{
+		"created_at": "Wed Dec 09 09:14:45 +0000 2020",
+		"id": 1336596557844496400,
+		"id_str": "1336600158281273345",
+		"full_text": "https://t.co/xp9JAQn5XY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1336596550949032000,
+					"id_str": "1336596550949031938",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EoyLe0NUUAII6-x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoyLe0NUUAII6-x.jpg",
+					"url": "https://t.co/xp9JAQn5XY",
+					"display_url": "pic.twitter.com/xp9JAQn5XY",
+					"expanded_url": "https://twitter.com/edam_ent/status/1336596557844496387/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 809,
+							"h": 696,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 809,
+							"h": 696,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 585,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336596550949032000,
+					"id_str": "1336596550949031938",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EoyLe0NUUAII6-x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoyLe0NUUAII6-x.jpg",
+					"url": "https://t.co/xp9JAQn5XY",
+					"display_url": "pic.twitter.com/xp9JAQn5XY",
+					"expanded_url": "https://twitter.com/edam_ent/status/1336596557844496387/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 809,
+							"h": 696,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 809,
+							"h": 696,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 585,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1336596496284729300,
+		"in_reply_to_status_id_str": "1336596496284729345",
+		"in_reply_to_user_id": 1214016219889553400,
+		"in_reply_to_user_id_str": "1214016219889553409",
+		"in_reply_to_screen_name": "edam_ent",
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34671,
+			"friends_count": 1,
+			"listed_count": 109,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 274,
+		"favorite_count": 2380,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/xp9JAQn5XY"
+	},
+	{
+		"created_at": "Wed Dec 09 09:14:43 +0000 2020",
+		"id": 1336596496284729300,
+		"id_str": "1336600149402001408",
+		"full_text": "IU New MD Series ‘The Present II’\n\n아이유의 두 번째 새 MD✌🏻\nEDAM 공식 온라인 MD 쇼핑몰에서\n만나보세요💜\n\n⏲ 2020. 12. 10. 2PM (KST)\n📍 made EDAM https://t.co/VifWSV4BrM https://t.co/Lrk6Iy57Iq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VifWSV4BrM",
+					"expanded_url": "http://madeedam.com",
+					"display_url": "madeedam.com",
+					"indices": [
+						119,
+						142
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1336596488621760500,
+					"id_str": "1336596488621760517",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EoyLbMBVoAULE10.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoyLbMBVoAULE10.jpg",
+					"url": "https://t.co/Lrk6Iy57Iq",
+					"display_url": "pic.twitter.com/Lrk6Iy57Iq",
+					"expanded_url": "https://twitter.com/edam_ent/status/1336596496284729345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 585,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 809,
+							"h": 696,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 809,
+							"h": 696,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336596488621760500,
+					"id_str": "1336596488621760517",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EoyLbMBVoAULE10.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoyLbMBVoAULE10.jpg",
+					"url": "https://t.co/Lrk6Iy57Iq",
+					"display_url": "pic.twitter.com/Lrk6Iy57Iq",
+					"expanded_url": "https://twitter.com/edam_ent/status/1336596496284729345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 585,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 809,
+							"h": 696,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 809,
+							"h": 696,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34671,
+			"friends_count": 1,
+			"listed_count": 109,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 949,
+		"favorite_count": 3390,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "IU New MD Series ‘The Present II’\n\n아이유의 두 번째 새 MD✌🏻\nEDAM 공식 온라인 MD 쇼핑몰에서\n만나보세요💜\n\n⏲ 2020. 12. 10. 2PM (KST)\n📍 made EDAM https://t.co/VifWSV4BrM https://t.co/Lrk6Iy57Iq"
+	},
+	{
+		"created_at": "Wed Dec 09 09:14:37 +0000 2020",
+		"id": 1336596446699810800,
+		"id_str": "1336600127897792513",
+		"full_text": "CALLING ALL BLINKS: CLIMATE ACTION IN YOUR AREA! #COP26 \n\nTo all BLINKs across the planet.\nWATCH our video with @UKinKorea on our journey to learn more about #ClimateChange ahead of next year’s UN Climate Summit in UK @COP26. \n\n#ClimateActionInYourArea #TogetherForOurPlanet https://t.co/uRQJm1XpW5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COP26",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "ClimateChange",
+					"indices": [
+						158,
+						172
+					]
+				},
+				{
+					"text": "ClimateActionInYourArea",
+					"indices": [
+						228,
+						252
+					]
+				},
+				{
+					"text": "TogetherForOurPlanet",
+					"indices": [
+						253,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UKinKorea",
+					"name": "UKinKorea🇬🇧🇰🇷",
+					"id": 160748751,
+					"id_str": "160748751",
+					"indices": [
+						112,
+						122
+					]
+				},
+				{
+					"screen_name": "COP26",
+					"name": "COP26",
+					"id": 1195025771368239000,
+					"id_str": "1195025771368239106",
+					"indices": [
+						218,
+						224
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1336508466165239800,
+					"id_str": "1336508466165239808",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1336508466165239808/pu/img/jjsJYJiYeYfyIfEo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1336508466165239808/pu/img/jjsJYJiYeYfyIfEo.jpg",
+					"url": "https://t.co/uRQJm1XpW5",
+					"display_url": "pic.twitter.com/uRQJm1XpW5",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1336596446699810816/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336508466165239800,
+					"id_str": "1336508466165239808",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1336508466165239808/pu/img/jjsJYJiYeYfyIfEo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1336508466165239808/pu/img/jjsJYJiYeYfyIfEo.jpg",
+					"url": "https://t.co/uRQJm1XpW5",
+					"display_url": "pic.twitter.com/uRQJm1XpW5",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1336596446699810816/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 122080,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1336508466165239808/pu/vid/640x360/nK-VTXbXDr_Xb9rA.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1336508466165239808/pu/pl/lL9kDoHcSNOHKOA9.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1336508466165239808/pu/vid/1280x720/YDVldQE7f737YMJG.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1336508466165239808/pu/vid/480x270/jodcGQiA5FdcbcTl.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/mhaOteBGUV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mhaOteBGUV",
+							"expanded_url": "https://youtu.be/dyRsYk0LyA8",
+							"display_url": "youtu.be/dyRsYk0LyA8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2773587,
+			"friends_count": 0,
+			"listed_count": 3554,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1606964050",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19634,
+		"favorite_count": 50440,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CALLING ALL BLINKS: CLIMATE ACTION IN YOUR AREA! #COP26 \n\nTo all BLINKs across the planet.\nWATCH our video with @UKinKorea on our journey to learn more about #ClimateChange ahead of next year’s UN Climate Summit in UK @COP26. \n\n#ClimateActionInYourArea #TogetherForOurPlanet https://t.co/uRQJm1XpW5"
+	},
+	{
+		"created_at": "Wed Dec 09 09:02:16 +0000 2020",
+		"id": 1336597018811232300,
+		"id_str": "1336597018811232257",
+		"full_text": "#블랙핑크 #BLACKPINK\n블링크들 주목! 기후변화에 대해 함께 배워 볼 시간! #COP26\nhttps://t.co/0f3qubVQAZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "COP26",
+					"indices": [
+						47,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0f3qubVQAZ",
+					"expanded_url": "https://youtu.be/DXKtt8c0Kac",
+					"display_url": "youtu.be/DXKtt8c0Kac",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#블랙핑크 #BLACKPINK\n블링크들 주목! 기후변화에 대해 함께 배워 볼 시간! #COP26\nhttps://t.co/0f3qubVQAZ"
+	},
+	{
 		"created_at": "Wed Dec 09 08:51:28 +0000 2020",
 		"id": 1336594300709245000,
 		"id_str": "1336594300709244928",
