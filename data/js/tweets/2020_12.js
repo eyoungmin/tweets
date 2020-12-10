@@ -1,6 +1,1056 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 10 15:15:03 +0000 2020",
+		"id": 1337050438231752700,
+		"id_str": "1337053218585653250",
+		"full_text": "TAEYEON 태연 The 4th mini Album [What Do I Call You] \n\n🎧 2020.12.15. 6PM KST\n\n#TAEYEON #태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration https://t.co/QSCBVlN2wD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						89,
+						108
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						115,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337010469412868000,
+					"id_str": "1337010469412868101",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo4D8CpVEAU2_R4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo4D8CpVEAU2_R4.jpg",
+					"url": "https://t.co/QSCBVlN2wD",
+					"display_url": "pic.twitter.com/QSCBVlN2wD",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1337050438231752705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337010469412868000,
+					"id_str": "1337010469412868101",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo4D8CpVEAU2_R4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo4D8CpVEAU2_R4.jpg",
+					"url": "https://t.co/QSCBVlN2wD",
+					"display_url": "pic.twitter.com/QSCBVlN2wD",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1337050438231752705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3608460,
+			"friends_count": 4,
+			"listed_count": 5137,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3630,
+		"favorite_count": 7507,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEYEON 태연 The 4th mini Album [What Do I Call You] \n\n🎧 2020.12.15. 6PM KST\n\n#TAEYEON #태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration https://t.co/QSCBVlN2wD"
+	},
+	{
+		"created_at": "Thu Dec 10 15:14:56 +0000 2020",
+		"id": 1337050186682609700,
+		"id_str": "1337053188596396033",
+		"full_text": "TAEYEON 태연 The 4th mini Album [What Do I Call You] \n\n🎧 2020.12.15. 6PM KST\n\n#TAEYEON #태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration https://t.co/sq1MEQY9CP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						89,
+						108
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						115,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337000042058506200,
+					"id_str": "1337000042058506240",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo36dFuUYAAfvz9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo36dFuUYAAfvz9.jpg",
+					"url": "https://t.co/sq1MEQY9CP",
+					"display_url": "pic.twitter.com/sq1MEQY9CP",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1337050186682609666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337000042058506200,
+					"id_str": "1337000042058506240",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo36dFuUYAAfvz9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo36dFuUYAAfvz9.jpg",
+					"url": "https://t.co/sq1MEQY9CP",
+					"display_url": "pic.twitter.com/sq1MEQY9CP",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1337050186682609666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3608460,
+			"friends_count": 4,
+			"listed_count": 5137,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3917,
+		"favorite_count": 7042,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEYEON 태연 The 4th mini Album [What Do I Call You] \n\n🎧 2020.12.15. 6PM KST\n\n#TAEYEON #태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration https://t.co/sq1MEQY9CP"
+	},
+	{
+		"created_at": "Thu Dec 10 15:14:52 +0000 2020",
+		"id": 1337049934860697600,
+		"id_str": "1337053175157764098",
+		"full_text": "TAEYEON 태연 The 4th mini Album [What Do I Call You] \n\n🎧 2020.12.15. 6PM KST\n\n#TAEYEON #태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration https://t.co/clF5BaEzd7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						89,
+						108
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						115,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1336999943823741000,
+					"id_str": "1336999943823740930",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo36XXxU0AIdQUu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo36XXxU0AIdQUu.jpg",
+					"url": "https://t.co/clF5BaEzd7",
+					"display_url": "pic.twitter.com/clF5BaEzd7",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1337049934860697600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336999943823741000,
+					"id_str": "1336999943823740930",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo36XXxU0AIdQUu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo36XXxU0AIdQUu.jpg",
+					"url": "https://t.co/clF5BaEzd7",
+					"display_url": "pic.twitter.com/clF5BaEzd7",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1337049934860697600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3608460,
+			"friends_count": 4,
+			"listed_count": 5137,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4271,
+		"favorite_count": 7651,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEYEON 태연 The 4th mini Album [What Do I Call You] \n\n🎧 2020.12.15. 6PM KST\n\n#TAEYEON #태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration https://t.co/clF5BaEzd7"
+	},
+	{
+		"created_at": "Thu Dec 10 15:14:44 +0000 2020",
+		"id": 1337049683189854200,
+		"id_str": "1337053140978462721",
+		"full_text": "TAEYEON 태연 The 4th mini Album [What Do I Call You] \n\n🎧 2020.12.15. 6PM KST\n\n#TAEYEON #태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration https://t.co/40rYY0fphH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						89,
+						108
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						115,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1336999866476634000,
+					"id_str": "1336999866476634114",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo36S3oVoAIPI8j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo36S3oVoAIPI8j.jpg",
+					"url": "https://t.co/40rYY0fphH",
+					"display_url": "pic.twitter.com/40rYY0fphH",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1337049683189854208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336999866476634000,
+					"id_str": "1336999866476634114",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo36S3oVoAIPI8j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo36S3oVoAIPI8j.jpg",
+					"url": "https://t.co/40rYY0fphH",
+					"display_url": "pic.twitter.com/40rYY0fphH",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1337049683189854208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3608460,
+			"friends_count": 4,
+			"listed_count": 5137,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4288,
+		"favorite_count": 7544,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEYEON 태연 The 4th mini Album [What Do I Call You] \n\n🎧 2020.12.15. 6PM KST\n\n#TAEYEON #태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration https://t.co/40rYY0fphH"
+	},
+	{
+		"created_at": "Thu Dec 10 15:14:41 +0000 2020",
+		"id": 1337049431271731200,
+		"id_str": "1337053127749603329",
+		"full_text": "TAEYEON 태연 The 4th mini Album [What Do I Call You] \n\n🎧 2020.12.15. 6PM KST\n\n#TAEYEON #태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration https://t.co/GP9QRzKTmb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						89,
+						108
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						115,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1336999776957603800,
+					"id_str": "1336999776957603848",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo36NqJVoAgpLja.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo36NqJVoAgpLja.jpg",
+					"url": "https://t.co/GP9QRzKTmb",
+					"display_url": "pic.twitter.com/GP9QRzKTmb",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1337049431271731209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336999776957603800,
+					"id_str": "1336999776957603848",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo36NqJVoAgpLja.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo36NqJVoAgpLja.jpg",
+					"url": "https://t.co/GP9QRzKTmb",
+					"display_url": "pic.twitter.com/GP9QRzKTmb",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1337049431271731209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3608460,
+			"friends_count": 4,
+			"listed_count": 5137,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5169,
+		"favorite_count": 9653,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEYEON 태연 The 4th mini Album [What Do I Call You] \n\n🎧 2020.12.15. 6PM KST\n\n#TAEYEON #태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration https://t.co/GP9QRzKTmb"
+	},
+	{
 		"created_at": "Thu Dec 10 14:28:35 +0000 2020",
 		"id": 1337041527940518000,
 		"id_str": "1337041527940517902",
