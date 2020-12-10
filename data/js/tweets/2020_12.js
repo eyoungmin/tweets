@@ -1,6 +1,1625 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 10 15:54:45 +0000 2020",
+		"id": 1337063211925909500,
+		"id_str": "1337063211925909505",
+		"full_text": "정크 링크 정리하는 스크립트를 만들어보려다가 말았는데 애널리틱스 리퍼러 떼어주는 애드온이야 있지만 국내미디어나 커뮤니티 정크 떼어주는 스크립트는 본 적이 없음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "정크 링크 정리하는 스크립트를 만들어보려다가 말았는데 애널리틱스 리퍼러 떼어주는 애드온이야 있지만 국내미디어나 커뮤니티 정크 떼어주는 스크립트는 본 적이 없음."
+	},
+	{
+		"created_at": "Thu Dec 10 15:52:53 +0000 2020",
+		"id": 1337062741320806400,
+		"id_str": "1337062741320806404",
+		"full_text": "애플뮤직 고유URL\n\nhttps://t.co/h9bWrYzTZf\n\nID값 한글인 경우 encode 되어 보기 싫게 되는데 쓰지 않아도 무방함. 숫자ID만 입력하면 페이지로 이동함.\nhttps://t.co/0vEx1mTpL8\n\n예시) 이달의 소녀 애플뮤직\nhttps://t.co/VH4Gbcodlw\nhttps://t.co/cI4AXT5ysR\n\n#애플뮤직 #AppleMusic #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "애플뮤직",
+					"indices": [
+						191,
+						196
+					]
+				},
+				{
+					"text": "AppleMusic",
+					"indices": [
+						197,
+						208
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						209,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h9bWrYzTZf",
+					"expanded_url": "https://music.apple.com/kr/curator/poclanos/1536480825?l=en",
+					"display_url": "music.apple.com/kr/curator/poc…",
+					"indices": [
+						12,
+						35
+					]
+				},
+				{
+					"url": "https://t.co/0vEx1mTpL8",
+					"expanded_url": "https://music.apple.com/kr/curator/1536480825",
+					"display_url": "music.apple.com/kr/curator/153…",
+					"indices": [
+						101,
+						124
+					]
+				},
+				{
+					"url": "https://t.co/VH4Gbcodlw",
+					"expanded_url": "https://music.apple.com/kr/artist/%EC%9D%B4%EB%8B%AC%EC%9D%98-%EC%86%8C%EB%85%80/1182243801",
+					"display_url": "music.apple.com/kr/artist/%EC%…",
+					"indices": [
+						142,
+						165
+					]
+				},
+				{
+					"url": "https://t.co/cI4AXT5ysR",
+					"expanded_url": "https://music.apple.com/kr/artist/1182243801",
+					"display_url": "music.apple.com/kr/artist/1182…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "애플뮤직 고유URL\n\nhttps://t.co/h9bWrYzTZf\n\nID값 한글인 경우 encode 되어 보기 싫게 되는데 쓰지 않아도 무방함. 숫자ID만 입력하면 페이지로 이동함.\nhttps://t.co/0vEx1mTpL8\n\n예시) 이달의 소녀 애플뮤직\nhttps://t.co/VH4Gbcodlw\nhttps://t.co/cI4AXT5ysR\n\n#애플뮤직 #AppleMusic #minfav"
+	},
+	{
+		"created_at": "Thu Dec 10 15:40:39 +0000 2020",
+		"id": 1337055378136297500,
+		"id_str": "1337059663951650817",
+		"full_text": "https://t.co/wFIuWu7ACA https://t.co/ALs7bX6cVt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wFIuWu7ACA",
+					"expanded_url": "https://music.apple.com/kr/curator/poclanos/1536480825?l=en",
+					"display_url": "music.apple.com/kr/curator/poc…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1337055372989886500,
+					"id_str": "1337055372989886465",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo4sxxgW8AELZPd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo4sxxgW8AELZPd.jpg",
+					"url": "https://t.co/ALs7bX6cVt",
+					"display_url": "pic.twitter.com/ALs7bX6cVt",
+					"expanded_url": "https://twitter.com/supersaladstuff/status/1337055378136297482/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337055372989886500,
+					"id_str": "1337055372989886465",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo4sxxgW8AELZPd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo4sxxgW8AELZPd.jpg",
+					"url": "https://t.co/ALs7bX6cVt",
+					"display_url": "pic.twitter.com/ALs7bX6cVt",
+					"expanded_url": "https://twitter.com/supersaladstuff/status/1337055378136297482/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1337054701699952600,
+		"in_reply_to_status_id_str": "1337054701699952644",
+		"in_reply_to_user_id": 719202626638774300,
+		"in_reply_to_user_id_str": "719202626638774272",
+		"in_reply_to_screen_name": "supersaladstuff",
+		"user": {
+			"id": 719202626638774300,
+			"id_str": "719202626638774272",
+			"name": "SUPERSALADSTUFF",
+			"screen_name": "supersaladstuff",
+			"location": "",
+			"description": "그래픽디자인을 합니다.                                SUPERSALADSTUFF makes printed matter, graphic design for exhibitions, concert, brand identities, typeface, products.",
+			"url": "https://t.co/A8t1l6lfYG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A8t1l6lfYG",
+							"expanded_url": "http://supersaladstuff.com",
+							"display_url": "supersaladstuff.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2075,
+			"friends_count": 143,
+			"listed_count": 4,
+			"created_at": "Sun Apr 10 16:37:23 +0000 2016",
+			"favourites_count": 580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/922722639507947520/EMCXDEVB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/922722639507947520/EMCXDEVB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/719202626638774272/1583942293",
+			"profile_link_color": "FFFFFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/wFIuWu7ACA https://t.co/ALs7bX6cVt"
+	},
+	{
+		"created_at": "Thu Dec 10 15:40:32 +0000 2020",
+		"id": 1337054701699952600,
+		"id_str": "1337059634339786753",
+		"full_text": "새롭고 신선한 음악을 소개하는 포크라노스가 @AppleMusic 의 공식 큐레이터가 되었습니다. 아티스트들이 직접 추천하는 음악 리스트와 매주 업데이트 되는 아시안 팝들을 들어볼 수 있으니 poclanos 를 검색해 보세요! 저는 디자인으로 함께합니다. https://t.co/z9v6yp0sxq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						24,
+						35
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337054691386138600,
+					"id_str": "1337054691386138628",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo4sKGVXIAQma-d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo4sKGVXIAQma-d.jpg",
+					"url": "https://t.co/z9v6yp0sxq",
+					"display_url": "pic.twitter.com/z9v6yp0sxq",
+					"expanded_url": "https://twitter.com/supersaladstuff/status/1337054701699952644/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337054691386138600,
+					"id_str": "1337054691386138628",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo4sKGVXIAQma-d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo4sKGVXIAQma-d.jpg",
+					"url": "https://t.co/z9v6yp0sxq",
+					"display_url": "pic.twitter.com/z9v6yp0sxq",
+					"expanded_url": "https://twitter.com/supersaladstuff/status/1337054701699952644/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1337054691969130500,
+					"id_str": "1337054691969130498",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo4sKIgW4AIKXf2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo4sKIgW4AIKXf2.jpg",
+					"url": "https://t.co/z9v6yp0sxq",
+					"display_url": "pic.twitter.com/z9v6yp0sxq",
+					"expanded_url": "https://twitter.com/supersaladstuff/status/1337054701699952644/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1337054691763622000,
+					"id_str": "1337054691763621892",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo4sKHvXEAQTB1e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo4sKHvXEAQTB1e.jpg",
+					"url": "https://t.co/z9v6yp0sxq",
+					"display_url": "pic.twitter.com/z9v6yp0sxq",
+					"expanded_url": "https://twitter.com/supersaladstuff/status/1337054701699952644/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1337054691935608800,
+					"id_str": "1337054691935608837",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo4sKIYXYAU8xA1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo4sKIYXYAU8xA1.jpg",
+					"url": "https://t.co/z9v6yp0sxq",
+					"display_url": "pic.twitter.com/z9v6yp0sxq",
+					"expanded_url": "https://twitter.com/supersaladstuff/status/1337054701699952644/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 719202626638774300,
+			"id_str": "719202626638774272",
+			"name": "SUPERSALADSTUFF",
+			"screen_name": "supersaladstuff",
+			"location": "",
+			"description": "그래픽디자인을 합니다.                                SUPERSALADSTUFF makes printed matter, graphic design for exhibitions, concert, brand identities, typeface, products.",
+			"url": "https://t.co/A8t1l6lfYG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A8t1l6lfYG",
+							"expanded_url": "http://supersaladstuff.com",
+							"display_url": "supersaladstuff.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2075,
+			"friends_count": 143,
+			"listed_count": 4,
+			"created_at": "Sun Apr 10 16:37:23 +0000 2016",
+			"favourites_count": 580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/922722639507947520/EMCXDEVB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/922722639507947520/EMCXDEVB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/719202626638774272/1583942293",
+			"profile_link_color": "FFFFFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "새롭고 신선한 음악을 소개하는 포크라노스가 @AppleMusic 의 공식 큐레이터가 되었습니다. 아티스트들이 직접 추천하는 음악 리스트와 매주 업데이트 되는 아시안 팝들을 들어볼 수 있으니 poclanos 를 검색해 보세요! 저는 디자인으로 함께합니다. https://t.co/z9v6yp0sxq"
+	},
+	{
+		"created_at": "Thu Dec 10 15:40:11 +0000 2020",
+		"id": 1335679151144104000,
+		"id_str": "1337059544434872327",
+		"full_text": "마마가 안하니까 내가 만든다\n2020년 여돌들 수고 많았어요 https://t.co/3PWBE0y4AF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1335678105030103000,
+					"id_str": "1335678105030103040",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1335678105030103040/pu/img/1_qzkIwWkBIWIkfz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1335678105030103040/pu/img/1_qzkIwWkBIWIkfz.jpg",
+					"url": "https://t.co/3PWBE0y4AF",
+					"display_url": "pic.twitter.com/3PWBE0y4AF",
+					"expanded_url": "https://twitter.com/_allthedust/status/1335679151144103937/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335678105030103000,
+					"id_str": "1335678105030103040",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1335678105030103040/pu/img/1_qzkIwWkBIWIkfz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1335678105030103040/pu/img/1_qzkIwWkBIWIkfz.jpg",
+					"url": "https://t.co/3PWBE0y4AF",
+					"display_url": "pic.twitter.com/3PWBE0y4AF",
+					"expanded_url": "https://twitter.com/_allthedust/status/1335679151144103937/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 139973,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1335678105030103040/pu/pl/G9psS5ZUwDyfVZ5Y.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1335678105030103040/pu/vid/1280x720/n5AG960HEsYiulLd.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1335678105030103040/pu/vid/640x360/KXnX3uXE8pheiL0U.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1335678105030103040/pu/vid/480x270/Xn4EGEBxvjWxxh2V.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1278162663642726400,
+			"id_str": "1278162663642726400",
+			"name": "먼지털이 | 현생 살다가 올게여",
+			"screen_name": "_allthedust",
+			"location": "먼지 같은 떡밥을 탈탈✨",
+			"description": "덕질하다가 현생 망하게 생겨서 입시 끝나고 오겠음 (가끔 알 수 없는 시간에 나타나서 맘찍하고 영상 투척)",
+			"url": "https://t.co/W8nIey807B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W8nIey807B",
+							"expanded_url": "https://peing.net/ko/__allthedust",
+							"display_url": "peing.net/ko/__allthedust",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 898,
+			"friends_count": 106,
+			"listed_count": 5,
+			"created_at": "Wed Jul 01 03:06:40 +0000 2020",
+			"favourites_count": 3714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278200642041974784/_k6fgzX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278200642041974784/_k6fgzX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1278162663642726400/1601928955",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14775,
+		"favorite_count": 17060,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마마가 안하니까 내가 만든다\n2020년 여돌들 수고 많았어요 https://t.co/3PWBE0y4AF"
+	},
+	{
+		"created_at": "Thu Dec 10 15:36:36 +0000 2020",
+		"id": 1337058642936406000,
+		"id_str": "1337058642936406019",
+		"full_text": "#Melon #멜론 #포토\n[심규선] &lt;�월령 月齡 &gt; 다이어리 앨범 예약 판매 공지-\n▶ https://t.co/ojbBRtgGz2\n원본 : https://t.co/7izptgbN7I\n#심규선 #LUCIA https://t.co/tyB8AgJFlx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "포토",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "심규선",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "LUCIA",
+					"indices": [
+						115,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ojbBRtgGz2",
+					"expanded_url": "https://www.melon.com/artist/photo_detail.htm?artistId=177241&photoId=80120876&orderBy=NEW",
+					"display_url": "melon.com/artist/photo_d…",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/7izptgbN7I",
+					"expanded_url": "https://cdnimg.melon.co.kr/cm2/photo/images/000/801/20/876/80120876_20201210211925_org.jpg",
+					"display_url": "cdnimg.melon.co.kr/cm2/photo/imag…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1337058641694892000,
+					"id_str": "1337058641694892033",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo4vwCYXIAEZ5Lv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo4vwCYXIAEZ5Lv.jpg",
+					"url": "https://t.co/tyB8AgJFlx",
+					"display_url": "pic.twitter.com/tyB8AgJFlx",
+					"expanded_url": "https://twitter.com/fromminn/status/1337058642936406019/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337058641694892000,
+					"id_str": "1337058641694892033",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo4vwCYXIAEZ5Lv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo4vwCYXIAEZ5Lv.jpg",
+					"url": "https://t.co/tyB8AgJFlx",
+					"display_url": "pic.twitter.com/tyB8AgJFlx",
+					"expanded_url": "https://twitter.com/fromminn/status/1337058642936406019/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #포토\n[심규선] &lt;�월령 月齡 &gt; 다이어리 앨범 예약 판매 공지-\n▶ https://t.co/ojbBRtgGz2\n원본 : https://t.co/7izptgbN7I\n#심규선 #LUCIA https://t.co/tyB8AgJFlx"
+	},
+	{
+		"created_at": "Thu Dec 10 15:36:29 +0000 2020",
+		"id": 1337058614947803100,
+		"id_str": "1337058614947803136",
+		"full_text": "#Melon #멜론 #포토\n[심규선] &lt;�월령 月齡 &gt; 다이어리 앨범 예약 판매 공지-\n▶ https://t.co/IvQSr0RG1z\n원본 : https://t.co/I4YE7a0NF0\n#심규선 #LUCIA https://t.co/qISBqZCJFe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "포토",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "심규선",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "LUCIA",
+					"indices": [
+						115,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IvQSr0RG1z",
+					"expanded_url": "https://www.melon.com/artist/photo_detail.htm?artistId=177241&photoId=80120877&orderBy=NEW",
+					"display_url": "melon.com/artist/photo_d…",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/I4YE7a0NF0",
+					"expanded_url": "https://cdnimg.melon.co.kr/cm2/photo/images/000/801/20/877/80120877_20201210211925_org.jpg",
+					"display_url": "cdnimg.melon.co.kr/cm2/photo/imag…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1337058613194526700,
+					"id_str": "1337058613194526727",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo4vuYNWEAcjyhp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo4vuYNWEAcjyhp.jpg",
+					"url": "https://t.co/qISBqZCJFe",
+					"display_url": "pic.twitter.com/qISBqZCJFe",
+					"expanded_url": "https://twitter.com/fromminn/status/1337058614947803136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337058613194526700,
+					"id_str": "1337058613194526727",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo4vuYNWEAcjyhp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo4vuYNWEAcjyhp.jpg",
+					"url": "https://t.co/qISBqZCJFe",
+					"display_url": "pic.twitter.com/qISBqZCJFe",
+					"expanded_url": "https://twitter.com/fromminn/status/1337058614947803136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #포토\n[심규선] &lt;�월령 月齡 &gt; 다이어리 앨범 예약 판매 공지-\n▶ https://t.co/IvQSr0RG1z\n원본 : https://t.co/I4YE7a0NF0\n#심규선 #LUCIA https://t.co/qISBqZCJFe"
+	},
+	{
+		"created_at": "Thu Dec 10 15:36:22 +0000 2020",
+		"id": 1337058585881301000,
+		"id_str": "1337058585881300998",
+		"full_text": "#Melon #멜론 #포토\n[심규선] &lt;�월령 月齡 &gt; 다이어리 앨범 예약 판매 공지-\n▶ https://t.co/JYguQDGuKl\n원본 : https://t.co/mA0a5hyKz2\n#심규선 #LUCIA https://t.co/ysQjdYd3L9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "포토",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "심규선",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "LUCIA",
+					"indices": [
+						115,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JYguQDGuKl",
+					"expanded_url": "https://www.melon.com/artist/photo_detail.htm?artistId=177241&photoId=80120878&orderBy=NEW",
+					"display_url": "melon.com/artist/photo_d…",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/mA0a5hyKz2",
+					"expanded_url": "https://cdnimg.melon.co.kr/cm2/photo/images/000/801/20/878/80120878_20201210211925_org.jpg",
+					"display_url": "cdnimg.melon.co.kr/cm2/photo/imag…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1337058583989670000,
+					"id_str": "1337058583989669891",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo4vsraXUAMlkod.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo4vsraXUAMlkod.jpg",
+					"url": "https://t.co/ysQjdYd3L9",
+					"display_url": "pic.twitter.com/ysQjdYd3L9",
+					"expanded_url": "https://twitter.com/fromminn/status/1337058585881300998/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337058583989670000,
+					"id_str": "1337058583989669891",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo4vsraXUAMlkod.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo4vsraXUAMlkod.jpg",
+					"url": "https://t.co/ysQjdYd3L9",
+					"display_url": "pic.twitter.com/ysQjdYd3L9",
+					"expanded_url": "https://twitter.com/fromminn/status/1337058585881300998/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #포토\n[심규선] &lt;�월령 月齡 &gt; 다이어리 앨범 예약 판매 공지-\n▶ https://t.co/JYguQDGuKl\n원본 : https://t.co/mA0a5hyKz2\n#심규선 #LUCIA https://t.co/ysQjdYd3L9"
+	},
+	{
 		"created_at": "Thu Dec 10 15:15:03 +0000 2020",
 		"id": 1337050438231752700,
 		"id_str": "1337053218585653250",
