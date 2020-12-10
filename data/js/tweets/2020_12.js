@@ -1,6 +1,1140 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 10 09:15:03 +0000 2020",
+		"id": 1336960118513004500,
+		"id_str": "1336962623808692224",
+		"full_text": "Yerin Baek 2nd full-length album ‘tellusboutyourself’ is out now. Go listen on your favorite streaming platform.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1336960112309620700,
+		"in_reply_to_status_id_str": "1336960112309620738",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl contact@bluevinyl.kr",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20306,
+			"friends_count": 0,
+			"listed_count": 124,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1336970677748842497/UmAJjdzR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336970677748842497/UmAJjdzR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1606885286",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 257,
+		"favorite_count": 478,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Yerin Baek 2nd full-length album ‘tellusboutyourself’ is out now. Go listen on your favorite streaming platform."
+	},
+	{
+		"created_at": "Thu Dec 10 09:14:55 +0000 2020",
+		"id": 1336960112309620700,
+		"id_str": "1336962589817966593",
+		"full_text": "[Release]\n\n백예린 정규 2집 'tellusboutyourself'가 발매되었습니다. 지금 바로 모든 음원사이트에서 감상하실 수 있습니다.\n\n#yerinbaek #tellusboutyourself\n#백예린 #백예린정규2집 https://t.co/b2QkpCbtic",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "yerinbaek",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"text": "tellusboutyourself",
+					"indices": [
+						94,
+						113
+					]
+				},
+				{
+					"text": "백예린",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "백예린정규2집",
+					"indices": [
+						119,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1336959865734852600,
+					"id_str": "1336959865734852608",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo3V6hQUcAANcw4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo3V6hQUcAANcw4.jpg",
+					"url": "https://t.co/b2QkpCbtic",
+					"display_url": "pic.twitter.com/b2QkpCbtic",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1336960112309620738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336959865734852600,
+					"id_str": "1336959865734852608",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo3V6hQUcAANcw4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo3V6hQUcAANcw4.jpg",
+					"url": "https://t.co/b2QkpCbtic",
+					"display_url": "pic.twitter.com/b2QkpCbtic",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1336960112309620738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl contact@bluevinyl.kr",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20306,
+			"friends_count": 0,
+			"listed_count": 124,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1336970677748842497/UmAJjdzR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336970677748842497/UmAJjdzR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1606885286",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1837,
+		"favorite_count": 1861,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release]\n\n백예린 정규 2집 'tellusboutyourself'가 발매되었습니다. 지금 바로 모든 음원사이트에서 감상하실 수 있습니다.\n\n#yerinbaek #tellusboutyourself\n#백예린 #백예린정규2집 https://t.co/b2QkpCbtic"
+	},
+	{
+		"created_at": "Thu Dec 10 09:14:51 +0000 2020",
+		"id": 1336959091449589800,
+		"id_str": "1336962572633976834",
+		"full_text": "&lt;Nobody Talks To BoA - 모두가 그녀에게 말을 걸지 않아&gt; EP8. BETTER\n\n🎬 https://t.co/NKynmr5Y0R\n\n#보아 #BoA\n#Nobody_Talks_To_BoA\n#모두가_그녀에게_말을_걸지_않아",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보아",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "Nobody_Talks_To_BoA",
+					"indices": [
+						97,
+						117
+					]
+				},
+				{
+					"text": "모두가_그녀에게_말을_걸지_않아",
+					"indices": [
+						118,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NKynmr5Y0R",
+					"expanded_url": "https://www.vlive.tv/video/226638",
+					"display_url": "vlive.tv/video/226638",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40431,
+			"friends_count": 1,
+			"listed_count": 129,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 151,
+		"favorite_count": 1614,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;Nobody Talks To BoA - 모두가 그녀에게 말을 걸지 않아&gt; EP8. BETTER\n\n🎬 https://t.co/NKynmr5Y0R\n\n#보아 #BoA\n#Nobody_Talks_To_BoA\n#모두가_그녀에게_말을_걸지_않아"
+	},
+	{
+		"created_at": "Thu Dec 10 09:14:48 +0000 2020",
+		"id": 1336958480305901600,
+		"id_str": "1336962559501602816",
+		"full_text": "[#예술경영 웹진 제459호] 나왔습니다😊😊😊\n\n&lt;무용음성해설, 어디까지 왔냐구요?&gt; \n\n아래 링크를 통해 바로 확인하세요 :)\n\n웹진[예술경영] 보러가기👇 \n웹) https://t.co/nnJOswx4up\n모바일)https://t.co/ot3uNW18eC\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/hnDPDu1JMO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						161,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nnJOswx4up",
+					"expanded_url": "http://www.gokams.or.kr/webzine/",
+					"display_url": "gokams.or.kr/webzine/",
+					"indices": [
+						98,
+						121
+					]
+				},
+				{
+					"url": "https://t.co/ot3uNW18eC",
+					"expanded_url": "http://www.gokams.or.kr/webzine/mobile/",
+					"display_url": "gokams.or.kr/webzine/mobile/",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1336958472915542000,
+					"id_str": "1336958472915542018",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo3UpcmUYAIMjiP.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eo3UpcmUYAIMjiP.png",
+					"url": "https://t.co/hnDPDu1JMO",
+					"display_url": "pic.twitter.com/hnDPDu1JMO",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1336958480305901575/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 875,
+							"h": 653,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 875,
+							"h": 653,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 507,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336958472915542000,
+					"id_str": "1336958472915542018",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo3UpcmUYAIMjiP.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eo3UpcmUYAIMjiP.png",
+					"url": "https://t.co/hnDPDu1JMO",
+					"display_url": "pic.twitter.com/hnDPDu1JMO",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1336958480305901575/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 875,
+							"h": 653,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 875,
+							"h": 653,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 507,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6970,
+			"friends_count": 2984,
+			"listed_count": 98,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2724,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예술경영 웹진 제459호] 나왔습니다😊😊😊\n\n&lt;무용음성해설, 어디까지 왔냐구요?&gt; \n\n아래 링크를 통해 바로 확인하세요 :)\n\n웹진[예술경영] 보러가기👇 \n웹) https://t.co/nnJOswx4up\n모바일)https://t.co/ot3uNW18eC\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/hnDPDu1JMO"
+	},
+	{
+		"created_at": "Thu Dec 10 09:14:44 +0000 2020",
+		"id": 1336899420386836500,
+		"id_str": "1336962542082662400",
+		"full_text": "Who else is counting down the seconds to hear @CHUNGHA_MNHent perform at our #KIISJingleBall Village?! 🎄🎶 Name your favorite song! \n\nListen tomorrow 12/10 on @1027KIISFM at 5:10 PM P.T. \n\n🎧: https://t.co/PkQboszyuU https://t.co/1jTRnx5c0x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KIISJingleBall",
+					"indices": [
+						77,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						46,
+						61
+					]
+				},
+				{
+					"screen_name": "1027KIISFM",
+					"name": "102.7 KIIS FM",
+					"id": 19046392,
+					"id_str": "19046392",
+					"indices": [
+						158,
+						169
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PkQboszyuU",
+					"expanded_url": "http://kiisfm.com/listen",
+					"display_url": "kiisfm.com/listen",
+					"indices": [
+						191,
+						214
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1336899417530495000,
+					"id_str": "1336899417530494977",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo2e7-JU8AE0u2X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo2e7-JU8AE0u2X.jpg",
+					"url": "https://t.co/1jTRnx5c0x",
+					"display_url": "pic.twitter.com/1jTRnx5c0x",
+					"expanded_url": "https://twitter.com/1027KIISFM/status/1336899420386836481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 636,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 636,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336899417530495000,
+					"id_str": "1336899417530494977",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo2e7-JU8AE0u2X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo2e7-JU8AE0u2X.jpg",
+					"url": "https://t.co/1jTRnx5c0x",
+					"display_url": "pic.twitter.com/1jTRnx5c0x",
+					"expanded_url": "https://twitter.com/1027KIISFM/status/1336899420386836481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 636,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 636,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19046392,
+			"id_str": "19046392",
+			"name": "102.7 KIIS FM",
+			"screen_name": "1027KIISFM",
+			"location": "Los Angeles",
+			"description": "LA's #1 Hit Music Station! Follow us: Instagram 📸 | @1027KIISFM TikTok 📹 | @1027kiisfm Snapchat 🤳 | kiis_fm",
+			"url": "https://t.co/J55XgxXFRh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J55XgxXFRh",
+							"expanded_url": "http://kiisfm.com/listen",
+							"display_url": "kiisfm.com/listen",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 343523,
+			"friends_count": 926,
+			"listed_count": 1709,
+			"created_at": "Fri Jan 16 00:05:12 +0000 2009",
+			"favourites_count": 23862,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 128952,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322949351568625671/JO1U3q5N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322949351568625671/JO1U3q5N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19046392/1605888064",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 548,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Who else is counting down the seconds to hear @CHUNGHA_MNHent perform at our #KIISJingleBall Village?! 🎄🎶 Name your favorite song! \n\nListen tomorrow 12/10 on @1027KIISFM at 5:10 PM P.T. \n\n🎧: https://t.co/PkQboszyuU https://t.co/1jTRnx5c0x"
+	},
+	{
+		"created_at": "Thu Dec 10 09:14:38 +0000 2020",
+		"id": 1336917009989132300,
+		"id_str": "1336962516421922816",
+		"full_text": "[#달리는사이/2회예고] '이제... 탈퇴했을 때...' 모두를 펑펑 울린 선미의 솔직한 고백\n\nK-POP 대표 여자 아이돌들의 #런트립(RUN-TRIP)#리얼리티\n#Mnet ＜달리는 사이＞ 매주 수요일 저녁 7시 50분 본방사수\n\n#선미 #하니 #유아 #청하 #츄 #엠넷 https://t.co/FbW5YG8eWh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "달리는사이",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "런트립",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "리얼리티",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "선미",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "하니",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "유아",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						142,
+						145
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						146,
+						148
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						149,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1336916295539773400,
+					"id_str": "1336916295539773441",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo2u5zMUcAQ9m5c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo2u5zMUcAQ9m5c.jpg",
+					"url": "https://t.co/FbW5YG8eWh",
+					"display_url": "pic.twitter.com/FbW5YG8eWh",
+					"expanded_url": "https://twitter.com/MnetKR/status/1336917009989132291/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336916295539773400,
+					"id_str": "1336916295539773441",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo2u5zMUcAQ9m5c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo2u5zMUcAQ9m5c.jpg",
+					"url": "https://t.co/FbW5YG8eWh",
+					"display_url": "pic.twitter.com/FbW5YG8eWh",
+					"expanded_url": "https://twitter.com/MnetKR/status/1336917009989132291/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1336916295539773441/vid/640x360/06-dn1e3rj9ggcQZ.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1336916295539773441/vid/480x270/QxOOD5uhAVoe_gTj.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1336916295539773441/vid/1280x720/uFgbaHF9JQOHBNhn.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1336916295539773441/pl/rGkPNpk8yTue1Awa.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2792920,
+			"friends_count": 21408,
+			"listed_count": 2737,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 445,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 26673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 239,
+		"favorite_count": 1133,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#달리는사이/2회예고] '이제... 탈퇴했을 때...' 모두를 펑펑 울린 선미의 솔직한 고백\n\nK-POP 대표 여자 아이돌들의 #런트립(RUN-TRIP)#리얼리티\n#Mnet ＜달리는 사이＞ 매주 수요일 저녁 7시 50분 본방사수\n\n#선미 #하니 #유아 #청하 #츄 #엠넷 https://t.co/FbW5YG8eWh"
+	},
+	{
 		"created_at": "Thu Dec 10 09:01:19 +0000 2020",
 		"id": 1336959165131059200,
 		"id_str": "1336959165131059202",
