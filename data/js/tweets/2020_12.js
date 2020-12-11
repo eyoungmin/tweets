@@ -1,6 +1,419 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 11 09:14:37 +0000 2020",
+		"id": 1337320674797387800,
+		"id_str": "1337324903134089219",
+		"full_text": "▶️[Teaser]\n\n🌙월령月齡: 下\n다음 주 월요일 저녁 6시\n\n12월 14일 6pm 공개됩니다\n\n#심규선 #루시아 #새앨범 #신보 #월령 #생존약속 #창백한푸른점 #야래향 #섬광 #혜성충돌 #티저 #Teaser #Comingsoon https://t.co/HCX9abj7cw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "루시아",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "새앨범",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "신보",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "월령",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "생존약속",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "창백한푸른점",
+					"indices": [
+						85,
+						92
+					]
+				},
+				{
+					"text": "야래향",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "섬광",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "혜성충돌",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "티저",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "Teaser",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "Comingsoon",
+					"indices": [
+						120,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337320622527934500,
+					"id_str": "1337320622527934466",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1337320622527934466/pu/img/TKXJl2oJqD8Cy-Tj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1337320622527934466/pu/img/TKXJl2oJqD8Cy-Tj.jpg",
+					"url": "https://t.co/HCX9abj7cw",
+					"display_url": "pic.twitter.com/HCX9abj7cw",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1337320674797387777/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337320622527934500,
+					"id_str": "1337320622527934466",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1337320622527934466/pu/img/TKXJl2oJqD8Cy-Tj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1337320622527934466/pu/img/TKXJl2oJqD8Cy-Tj.jpg",
+					"url": "https://t.co/HCX9abj7cw",
+					"display_url": "pic.twitter.com/HCX9abj7cw",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1337320674797387777/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 29792,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1337320622527934466/pu/vid/720x406/HiZpd4xii0_s65j_.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1337320622527934466/pu/pl/ADKUZWoe2u36Bbho.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1337320622527934466/pu/vid/478x270/eEUoScnfvsxobN8Z.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌙월령: 下 20.12.14 pm6시 공개",
+			"url": "https://t.co/NbMjxtK3cL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NbMjxtK3cL",
+							"expanded_url": "http://www.simgyuseon.com",
+							"display_url": "simgyuseon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10638,
+			"friends_count": 158,
+			"listed_count": 161,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 465,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330066919668523010/HbiHUZjb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330066919668523010/HbiHUZjb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1607423257",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "▶️[Teaser]\n\n🌙월령月齡: 下\n다음 주 월요일 저녁 6시\n\n12월 14일 6pm 공개됩니다\n\n#심규선 #루시아 #새앨범 #신보 #월령 #생존약속 #창백한푸른점 #야래향 #섬광 #혜성충돌 #티저 #Teaser #Comingsoon https://t.co/HCX9abj7cw"
+	},
+	{
+		"created_at": "Fri Dec 11 09:04:22 +0000 2020",
+		"id": 1337322323410612200,
+		"id_str": "1337322323410612226",
+		"full_text": "[뒤풀이] 이 노래를 The 사랑하게 될 거야 / 온앤오프 (ONF) - The 사랑하게 될 거야\nhttps://t.co/YOw4cX7oIK\n#MonoTree #모노트리",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MonoTree",
+					"indices": [
+						79,
+						88
+					]
+				},
+				{
+					"text": "모노트리",
+					"indices": [
+						89,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YOw4cX7oIK",
+					"expanded_url": "https://youtu.be/0XBRnCVxk0c",
+					"display_url": "youtu.be/0XBRnCVxk0c",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[뒤풀이] 이 노래를 The 사랑하게 될 거야 / 온앤오프 (ONF) - The 사랑하게 될 거야\nhttps://t.co/YOw4cX7oIK\n#MonoTree #모노트리"
+	},
+	{
 		"created_at": "Fri Dec 11 09:02:02 +0000 2020",
 		"id": 1337321736593928200,
 		"id_str": "1337321736593928193",
