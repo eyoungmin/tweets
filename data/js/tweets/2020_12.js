@@ -1,6 +1,1006 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 11 06:37:36 +0000 2020",
+		"id": 1337285389183316000,
+		"id_str": "1337285389183315968",
+		"full_text": "#네이버TV #네이버공연\n뮤지컬 &lt;�몬테크리스토&gt; 드레스 리허설 온라인 공연 예고\nhttps://t.co/THbslAH8mp https://t.co/noSFlX4ai6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "네이버TV",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "네이버공연",
+					"indices": [
+						7,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/THbslAH8mp",
+					"expanded_url": "https://tv.naver.com/v/17165596",
+					"display_url": "tv.naver.com/v/17165596",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1337285388008878000,
+					"id_str": "1337285388008878080",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo79-aOW8AAW43T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo79-aOW8AAW43T.jpg",
+					"url": "https://t.co/noSFlX4ai6",
+					"display_url": "pic.twitter.com/noSFlX4ai6",
+					"expanded_url": "https://twitter.com/fromminn/status/1337285389183315968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337285388008878000,
+					"id_str": "1337285388008878080",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo79-aOW8AAW43T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo79-aOW8AAW43T.jpg",
+					"url": "https://t.co/noSFlX4ai6",
+					"display_url": "pic.twitter.com/noSFlX4ai6",
+					"expanded_url": "https://twitter.com/fromminn/status/1337285389183315968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74063,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#네이버TV #네이버공연\n뮤지컬 &lt;�몬테크리스토&gt; 드레스 리허설 온라인 공연 예고\nhttps://t.co/THbslAH8mp https://t.co/noSFlX4ai6"
+	},
+	{
+		"created_at": "Fri Dec 11 06:24:24 +0000 2020",
+		"id": 1337282063490297900,
+		"id_str": "1337282063490297856",
+		"full_text": "#SMTOWN #Artist_News\n태연 새 미니앨범 수록곡 ‘들불’, 경쾌+발랄 에너지 예고!\nhttps://t.co/qOwONzA7Wx\n#태연 #TAEYEON https://t.co/ACgZdzOAQl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						83,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qOwONzA7Wx",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/4345",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1337282062437544000,
+					"id_str": "1337282062437543936",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo7681gXcAAqXoF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo7681gXcAAqXoF.jpg",
+					"url": "https://t.co/ACgZdzOAQl",
+					"display_url": "pic.twitter.com/ACgZdzOAQl",
+					"expanded_url": "https://twitter.com/fromminn/status/1337282063490297856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337282062437544000,
+					"id_str": "1337282062437543936",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo7681gXcAAqXoF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo7681gXcAAqXoF.jpg",
+					"url": "https://t.co/ACgZdzOAQl",
+					"display_url": "pic.twitter.com/ACgZdzOAQl",
+					"expanded_url": "https://twitter.com/fromminn/status/1337282063490297856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74063,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n태연 새 미니앨범 수록곡 ‘들불’, 경쾌+발랄 에너지 예고!\nhttps://t.co/qOwONzA7Wx\n#태연 #TAEYEON https://t.co/ACgZdzOAQl"
+	},
+	{
+		"created_at": "Fri Dec 11 06:14:37 +0000 2020",
+		"id": 1337267542381883400,
+		"id_str": "1337279604747366400",
+		"full_text": "[NOTICE] The 30th Seoul Music Awardの投票が始まりました！\n\nビョルハランの皆さんの\n投票と応援お願いします💚💙💜\n\n✔️VOTE\n2020.12.11(金) 12:00 ~\n2021. 1. 24 24:00 (日) (KST)\n\n👉 https://t.co/t0SOQufbol\n\n#청하 #CHUNGHA #チョンハ\n#SeoulMusicAwards https://t.co/LiTpWYXZ9O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						161,
+						164
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						165,
+						173
+					]
+				},
+				{
+					"text": "チョンハ",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "SeoulMusicAwards",
+					"indices": [
+						180,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t0SOQufbol",
+					"expanded_url": "http://bit.ly/341VpoZ",
+					"display_url": "bit.ly/341VpoZ",
+					"indices": [
+						136,
+						159
+					]
+				},
+				{
+					"url": "https://t.co/LiTpWYXZ9O",
+					"expanded_url": "https://twitter.com/chungha_mnhent/status/1337263766342287368",
+					"display_url": "twitter.com/chungha_mnhent…",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 986882185842966500,
+			"id_str": "986882185842966528",
+			"name": "CHUNG HA JAPAN OFFICIAL",
+			"screen_name": "chungha_japan",
+			"location": "",
+			"description": "#CHUNGHA JAPAN OFFICIAL Twitter",
+			"url": "https://t.co/igLeSQLgMf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/igLeSQLgMf",
+							"expanded_url": "https://bit.ly/3q6AiLl",
+							"display_url": "bit.ly/3q6AiLl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16893,
+			"friends_count": 2,
+			"listed_count": 166,
+			"created_at": "Thu Apr 19 08:20:23 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 841,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988221974169059328/l3d7G6Fx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988221974169059328/l3d7G6Fx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/986882185842966528/1603170240",
+			"profile_link_color": "BF83AB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1337263766342287400,
+		"quoted_status_id_str": "1337263766342287368",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LiTpWYXZ9O",
+			"expanded": "https://twitter.com/chungha_mnhent/status/1337263766342287368",
+			"display": "twitter.com/chungha_mnhent…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 11 05:11:41 +0000 2020",
+			"id": 1337263766342287400,
+			"id_str": "1337263766342287368",
+			"full_text": "[NOTICE] 제 30회 하이원 서울가요대상 투표가 시작되었습니다!\n\n본상, 인기상, 한류특별상 후보에 오른 청하! 별하랑 여러분의 많은 투표와 응원 부탁드립니다💚💜💙\n\n✔️VOTE\n2020.12.11 (금) 12:00 ~\n2021. 1. 24 (일) 24:00 (KST)\n\n👉 https://t.co/BuWW81zjtP\n\n#청하 #CHUNGHA \n#서울가요대상 https://t.co/QxOnhWrHxC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				203
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "청하",
+						"indices": [
+							182,
+							185
+						]
+					},
+					{
+						"text": "CHUNGHA",
+						"indices": [
+							186,
+							194
+						]
+					},
+					{
+						"text": "서울가요대상",
+						"indices": [
+							196,
+							203
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BuWW81zjtP",
+						"expanded_url": "http://bit.ly/341VpoZ",
+						"display_url": "bit.ly/341VpoZ",
+						"indices": [
+							157,
+							180
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1337263762240204800,
+						"id_str": "1337263762240204800",
+						"indices": [
+							204,
+							227
+						],
+						"media_url": "http://pbs.twimg.com/media/Eo7qTn9UcAAxU2M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eo7qTn9UcAAxU2M.jpg",
+						"url": "https://t.co/QxOnhWrHxC",
+						"display_url": "pic.twitter.com/QxOnhWrHxC",
+						"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1337263766342287368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 558,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 577,
+								"h": 703,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 577,
+								"h": 703,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1337263762240204800,
+						"id_str": "1337263762240204800",
+						"indices": [
+							204,
+							227
+						],
+						"media_url": "http://pbs.twimg.com/media/Eo7qTn9UcAAxU2M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eo7qTn9UcAAxU2M.jpg",
+						"url": "https://t.co/QxOnhWrHxC",
+						"display_url": "pic.twitter.com/QxOnhWrHxC",
+						"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1337263766342287368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 558,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 577,
+								"h": 703,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 577,
+								"h": 703,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1097557125742489600,
+				"id_str": "1097557125742489600",
+				"name": "CHUNG HA",
+				"screen_name": "CHUNGHA_MNHent",
+				"location": "",
+				"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/MasTugaSJD\nCHUNG HA Website 💚💙💜 https://t.co/KNLHLQCXaH",
+				"url": "https://t.co/reTg513UFX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/reTg513UFX",
+								"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+								"display_url": "cafe.daum.net/MNH-Chungha",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/MasTugaSJD",
+								"expanded_url": "http://bit.ly/2ZZWMlN",
+								"display_url": "bit.ly/2ZZWMlN",
+								"indices": [
+									31,
+									54
+								]
+							},
+							{
+								"url": "https://t.co/KNLHLQCXaH",
+								"expanded_url": "http://chunghaofficial.com/",
+								"display_url": "chunghaofficial.com",
+								"indices": [
+									76,
+									99
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 295220,
+				"friends_count": 0,
+				"listed_count": 1807,
+				"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1402,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1606446336",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 190,
+			"favorite_count": 1152,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 7,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[NOTICE] The 30th Seoul Music Awardの投票が始まりました！\n\nビョルハランの皆さんの\n投票と応援お願いします💚💙💜\n\n✔️VOTE\n2020.12.11(金) 12:00 ~\n2021. 1. 24 24:00 (日) (KST)\n\n👉 https://t.co/t0SOQufbol\n\n#청하 #CHUNGHA #チョンハ\n#SeoulMusicAwards https://t.co/LiTpWYXZ9O"
+	},
+	{
+		"created_at": "Fri Dec 11 06:03:04 +0000 2020",
+		"id": 1337276696366633000,
+		"id_str": "1337276696366632960",
+		"full_text": "#SMTOWN #Artist_News\n태연 새 미니앨범 수록곡 ‘들불’, 경쾌+발랄 에너지 예고!\nhttps://t.co/qOwONzA7Wx\n#소녀시대 #GirlsGeneration https://t.co/OkzqRQDdag",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						85,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qOwONzA7Wx",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/4345",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1337276695141879800,
+					"id_str": "1337276695141879811",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo72EaxXEAMujns.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo72EaxXEAMujns.jpg",
+					"url": "https://t.co/OkzqRQDdag",
+					"display_url": "pic.twitter.com/OkzqRQDdag",
+					"expanded_url": "https://twitter.com/fromminn/status/1337276696366632960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337276695141879800,
+					"id_str": "1337276695141879811",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo72EaxXEAMujns.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo72EaxXEAMujns.jpg",
+					"url": "https://t.co/OkzqRQDdag",
+					"display_url": "pic.twitter.com/OkzqRQDdag",
+					"expanded_url": "https://twitter.com/fromminn/status/1337276696366632960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74063,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n태연 새 미니앨범 수록곡 ‘들불’, 경쾌+발랄 에너지 예고!\nhttps://t.co/qOwONzA7Wx\n#소녀시대 #GirlsGeneration https://t.co/OkzqRQDdag"
+	},
+	{
 		"created_at": "Fri Dec 11 05:49:34 +0000 2020",
 		"id": 1337273300318351400,
 		"id_str": "1337273300318351360",
