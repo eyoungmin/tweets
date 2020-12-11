@@ -1,6 +1,1812 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 11 11:23:17 +0000 2020",
+		"id": 1337357283639038000,
+		"id_str": "1337357283639037958",
+		"full_text": "#Melon #멜론 #매거진\n12월을 책임지는 K-Pop 캐럴 5\nhttps://t.co/dimLPuyIk4\n#태연 #TAEYEON https://t.co/sIkjjL4t79",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "매거진",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						65,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dimLPuyIk4",
+					"expanded_url": "https://www.melon.com/musicstory/inform.htm?mstorySeq=10979",
+					"display_url": "melon.com/musicstory/inf…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1337357282561171500,
+					"id_str": "1337357282561171456",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo8_XOTXIAAotH2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo8_XOTXIAAotH2.jpg",
+					"url": "https://t.co/sIkjjL4t79",
+					"display_url": "pic.twitter.com/sIkjjL4t79",
+					"expanded_url": "https://twitter.com/fromminn/status/1337357283639037958/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337357282561171500,
+					"id_str": "1337357282561171456",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo8_XOTXIAAotH2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo8_XOTXIAAotH2.jpg",
+					"url": "https://t.co/sIkjjL4t79",
+					"display_url": "pic.twitter.com/sIkjjL4t79",
+					"expanded_url": "https://twitter.com/fromminn/status/1337357283639037958/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74099,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #매거진\n12월을 책임지는 K-Pop 캐럴 5\nhttps://t.co/dimLPuyIk4\n#태연 #TAEYEON https://t.co/sIkjjL4t79"
+	},
+	{
+		"created_at": "Fri Dec 11 11:15:04 +0000 2020",
+		"id": 1337353034645434400,
+		"id_str": "1337355214165315585",
+		"full_text": "여러분~~ 에스파입니당!!! 항상 더 성장하는 에스파 될 테니까요! 내일도 저희랑 함께하는 거 잊지않았죵?❤️\n\n#aespa #æspa #에스파\n#BlackMamba https://t.co/ntb5uBANuA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "BlackMamba",
+					"indices": [
+						81,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337353030203633700,
+					"id_str": "1337353030203633665",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo87ftCUcAE2pC_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo87ftCUcAE2pC_.jpg",
+					"url": "https://t.co/ntb5uBANuA",
+					"display_url": "pic.twitter.com/ntb5uBANuA",
+					"expanded_url": "https://twitter.com/aespa_official/status/1337353034645434369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1278,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337353030203633700,
+					"id_str": "1337353030203633665",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo87ftCUcAE2pC_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo87ftCUcAE2pC_.jpg",
+					"url": "https://t.co/ntb5uBANuA",
+					"display_url": "pic.twitter.com/ntb5uBANuA",
+					"expanded_url": "https://twitter.com/aespa_official/status/1337353034645434369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1278,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594357,
+			"friends_count": 1,
+			"listed_count": 1887,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7201,
+		"favorite_count": 25452,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여러분~~ 에스파입니당!!! 항상 더 성장하는 에스파 될 테니까요! 내일도 저희랑 함께하는 거 잊지않았죵?❤️\n\n#aespa #æspa #에스파\n#BlackMamba https://t.co/ntb5uBANuA"
+	},
+	{
+		"created_at": "Fri Dec 11 11:15:01 +0000 2020",
+		"id": 1337352601684197400,
+		"id_str": "1337355201133637632",
+		"full_text": "안녕하세요 앞머리나 입니당~~~!🤗\n새로운 헤어로 왔는데 어떤가요..! 무대를 하면 할수록 더 재밌어지는 것 같아요 여러분한테도 그 에너지가 느껴졌으면 좋겠는데..\n더 열심히 하는 리나 되겠습니당 뿅!😍\n\n#aespa #æspa #에스파\n#KARINA #카리나 #BlackMamba https://t.co/cj28pCb8Ea",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						133,
+						140
+					]
+				},
+				{
+					"text": "카리나",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "BlackMamba",
+					"indices": [
+						146,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337352596596564000,
+					"id_str": "1337352596596563969",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo87GduVoAEMTcQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo87GduVoAEMTcQ.jpg",
+					"url": "https://t.co/cj28pCb8Ea",
+					"display_url": "pic.twitter.com/cj28pCb8Ea",
+					"expanded_url": "https://twitter.com/aespa_official/status/1337352601684197377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337352596596564000,
+					"id_str": "1337352596596563969",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo87GduVoAEMTcQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo87GduVoAEMTcQ.jpg",
+					"url": "https://t.co/cj28pCb8Ea",
+					"display_url": "pic.twitter.com/cj28pCb8Ea",
+					"expanded_url": "https://twitter.com/aespa_official/status/1337352601684197377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594357,
+			"friends_count": 1,
+			"listed_count": 1887,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6479,
+		"favorite_count": 23136,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요 앞머리나 입니당~~~!🤗\n새로운 헤어로 왔는데 어떤가요..! 무대를 하면 할수록 더 재밌어지는 것 같아요 여러분한테도 그 에너지가 느껴졌으면 좋겠는데..\n더 열심히 하는 리나 되겠습니당 뿅!😍\n\n#aespa #æspa #에스파\n#KARINA #카리나 #BlackMamba https://t.co/cj28pCb8Ea"
+	},
+	{
+		"created_at": "Fri Dec 11 11:14:54 +0000 2020",
+		"id": 1337352233105518600,
+		"id_str": "1337355171320504321",
+		"full_text": "마이~! \n오늘 뮤뱅 무대 잘 봤나?!😽ㅎ\n헤어 조금 도전 해봤는데… 어땠나요?! \n이번주 아주 수고했또🌟 \n주말에 또 바용~~\n\n#aespa #æspa #에스파\n#GISELLE #지젤 #BlackMamba https://t.co/y8Bk6JAKKS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "지젤",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "BlackMamba",
+					"indices": [
+						104,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337352228168843300,
+					"id_str": "1337352228168843264",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo86xBOUwAAMfa2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo86xBOUwAAMfa2.jpg",
+					"url": "https://t.co/y8Bk6JAKKS",
+					"display_url": "pic.twitter.com/y8Bk6JAKKS",
+					"expanded_url": "https://twitter.com/aespa_official/status/1337352233105518592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 962,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 902,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337352228168843300,
+					"id_str": "1337352228168843264",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo86xBOUwAAMfa2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo86xBOUwAAMfa2.jpg",
+					"url": "https://t.co/y8Bk6JAKKS",
+					"display_url": "pic.twitter.com/y8Bk6JAKKS",
+					"expanded_url": "https://twitter.com/aespa_official/status/1337352233105518592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 962,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 902,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594357,
+			"friends_count": 1,
+			"listed_count": 1887,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4969,
+		"favorite_count": 19967,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마이~! \n오늘 뮤뱅 무대 잘 봤나?!😽ㅎ\n헤어 조금 도전 해봤는데… 어땠나요?! \n이번주 아주 수고했또🌟 \n주말에 또 바용~~\n\n#aespa #æspa #에스파\n#GISELLE #지젤 #BlackMamba https://t.co/y8Bk6JAKKS"
+	},
+	{
+		"created_at": "Fri Dec 11 11:14:46 +0000 2020",
+		"id": 1337351889315266600,
+		"id_str": "1337355137237585924",
+		"full_text": "오늘도 뮤직뱅크 촬영 재미있게 끝냈습니당 ~~~!!!  앞으로도 저희 많이 사랑해 주세요오❤️ \n\n#aespa #æspa #에스파\n#WINTER #윈터 #BlackMamba https://t.co/MIEC0R9Bzj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						73,
+						80
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "BlackMamba",
+					"indices": [
+						85,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337351884932173800,
+					"id_str": "1337351884932173827",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo86dCkU0AMluI0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo86dCkU0AMluI0.jpg",
+					"url": "https://t.co/MIEC0R9Bzj",
+					"display_url": "pic.twitter.com/MIEC0R9Bzj",
+					"expanded_url": "https://twitter.com/aespa_official/status/1337351889315266562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1016,
+							"h": 1015,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1016,
+							"h": 1015,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337351884932173800,
+					"id_str": "1337351884932173827",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo86dCkU0AMluI0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo86dCkU0AMluI0.jpg",
+					"url": "https://t.co/MIEC0R9Bzj",
+					"display_url": "pic.twitter.com/MIEC0R9Bzj",
+					"expanded_url": "https://twitter.com/aespa_official/status/1337351889315266562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1016,
+							"h": 1015,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1016,
+							"h": 1015,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594357,
+			"friends_count": 1,
+			"listed_count": 1887,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9309,
+		"favorite_count": 32971,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘도 뮤직뱅크 촬영 재미있게 끝냈습니당 ~~~!!!  앞으로도 저희 많이 사랑해 주세요오❤️ \n\n#aespa #æspa #에스파\n#WINTER #윈터 #BlackMamba https://t.co/MIEC0R9Bzj"
+	},
+	{
+		"created_at": "Fri Dec 11 11:14:40 +0000 2020",
+		"id": 1337351545747206100,
+		"id_str": "1337355111627153408",
+		"full_text": "생머리의 닝 ~~~~오래만이네용 뮤뱅 💜\n\n#aespa #æspa #에스파\n#NINGNING #닝닝 #BlackMamba https://t.co/6WsLdFba5h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						31,
+						36
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						42,
+						51
+					]
+				},
+				{
+					"text": "닝닝",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "BlackMamba",
+					"indices": [
+						56,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337351540789502000,
+					"id_str": "1337351540789501953",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo86JAiUYAEagaz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo86JAiUYAEagaz.jpg",
+					"url": "https://t.co/6WsLdFba5h",
+					"display_url": "pic.twitter.com/6WsLdFba5h",
+					"expanded_url": "https://twitter.com/aespa_official/status/1337351545747206146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 935,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 530,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 962,
+							"h": 1235,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337351540789502000,
+					"id_str": "1337351540789501953",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo86JAiUYAEagaz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo86JAiUYAEagaz.jpg",
+					"url": "https://t.co/6WsLdFba5h",
+					"display_url": "pic.twitter.com/6WsLdFba5h",
+					"expanded_url": "https://twitter.com/aespa_official/status/1337351545747206146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 935,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 530,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 962,
+							"h": 1235,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594357,
+			"friends_count": 1,
+			"listed_count": 1887,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6755,
+		"favorite_count": 26689,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "생머리의 닝 ~~~~오래만이네용 뮤뱅 💜\n\n#aespa #æspa #에스파\n#NINGNING #닝닝 #BlackMamba https://t.co/6WsLdFba5h"
+	},
+	{
+		"created_at": "Fri Dec 11 11:14:37 +0000 2020",
+		"id": 1337351507159654400,
+		"id_str": "1337355102659743746",
+		"full_text": "“내가 멋있지 않은 무대를 내 눈으로 보고 싶지 않아요”\n\n&lt;Nobody Talks To BoA - 모두가 그녀에게 말을 걸지 않아&gt;\n[다시 보기] EP8. BETTER \n🎬 https://t.co/NKynmr5Y0R\n\n#보아 #BoA \n#Nobody_Talks_To_BoA\n#모두가_그녀에게_말을_걸지_않아 https://t.co/jhKptASptj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보아",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "Nobody_Talks_To_BoA",
+					"indices": [
+						139,
+						159
+					]
+				},
+				{
+					"text": "모두가_그녀에게_말을_걸지_않아",
+					"indices": [
+						160,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NKynmr5Y0R",
+					"expanded_url": "https://www.vlive.tv/video/226638",
+					"display_url": "vlive.tv/video/226638",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1337351177399197700,
+					"id_str": "1337351177399197696",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo85z2zUYAA9Ela.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo85z2zUYAA9Ela.jpg",
+					"url": "https://t.co/jhKptASptj",
+					"display_url": "pic.twitter.com/jhKptASptj",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1337351507159654400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1451,
+							"h": 813,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 672,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337351177399197700,
+					"id_str": "1337351177399197696",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo85z2zUYAA9Ela.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo85z2zUYAA9Ela.jpg",
+					"url": "https://t.co/jhKptASptj",
+					"display_url": "pic.twitter.com/jhKptASptj",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1337351507159654400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1451,
+							"h": 813,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 672,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40620,
+			"friends_count": 1,
+			"listed_count": 131,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324200240459653120/-_a8hBV-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 117,
+		"favorite_count": 318,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“내가 멋있지 않은 무대를 내 눈으로 보고 싶지 않아요”\n\n&lt;Nobody Talks To BoA - 모두가 그녀에게 말을 걸지 않아&gt;\n[다시 보기] EP8. BETTER \n🎬 https://t.co/NKynmr5Y0R\n\n#보아 #BoA \n#Nobody_Talks_To_BoA\n#모두가_그녀에게_말을_걸지_않아 https://t.co/jhKptASptj"
+	},
+	{
+		"created_at": "Fri Dec 11 11:12:02 +0000 2020",
+		"id": 1337352065446604800,
+		"id_str": "1337354451246452736",
+		"full_text": "[속보] 현지 외신 \"김기덕 감독, 라트비아서 사망\" 보도",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 397672819,
+			"id_str": "397672819",
+			"name": "JTBC 뉴스",
+			"screen_name": "JTBC_news",
+			"location": "서울시 마포구 상암산로 48-6",
+			"description": "JTBC 뉴스 공식 트위터입니다!!\n이곳은 트친 여러분의 이야기와 목소리에 귀 기울이는 곳입니다.\n많은 관심과 사랑 부탁드립니다. ^^",
+			"url": "http://t.co/CrCzofZgOd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/CrCzofZgOd",
+							"expanded_url": "http://facebook.com/jtbcnews",
+							"display_url": "facebook.com/jtbcnews",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 605823,
+			"friends_count": 43752,
+			"listed_count": 2148,
+			"created_at": "Tue Oct 25 00:50:16 +0000 2011",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 79751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A9A9A9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247039086713425922/oOmR2jkc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247039086713425922/oOmR2jkc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/397672819/1586971432",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1522,
+		"favorite_count": 206,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[속보] 현지 외신 \"김기덕 감독, 라트비아서 사망\" 보도"
+	},
+	{
+		"created_at": "Fri Dec 11 11:11:24 +0000 2020",
+		"id": 1337354290940166100,
+		"id_str": "1337354290940166145",
+		"full_text": "인스타그램은 타임라인에 광고도 많은데 사진을 분할해서 9개 올리면 그 사이에 광고가 두 개까지 붙는다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74099,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "인스타그램은 타임라인에 광고도 많은데 사진을 분할해서 9개 올리면 그 사이에 광고가 두 개까지 붙는다."
+	},
+	{
+		"created_at": "Fri Dec 11 11:08:43 +0000 2020",
+		"id": 1337353614478569500,
+		"id_str": "1337353614478569474",
+		"full_text": "지키지 않는 뉴스레터가 생각보다 많기 때문에 더 그렇다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1337353365819281400,
+		"in_reply_to_status_id_str": "1337353365819281408",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74099,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "지키지 않는 뉴스레터가 생각보다 많기 때문에 더 그렇다."
+	},
+	{
+		"created_at": "Fri Dec 11 11:07:43 +0000 2020",
+		"id": 1337353365819281400,
+		"id_str": "1337353365819281408",
+		"full_text": "광고라고 꾸준히 제목에 잘 달아서 발송되는 뉴스레터는 그렇지 않은 뉴스레터보다 신뢰도가 더 높다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74099,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "광고라고 꾸준히 제목에 잘 달아서 발송되는 뉴스레터는 그렇지 않은 뉴스레터보다 신뢰도가 더 높다."
+	},
+	{
 		"created_at": "Fri Dec 11 10:52:44 +0000 2020",
 		"id": 1337349592002617300,
 		"id_str": "1337349592002617345",
