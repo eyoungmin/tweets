@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 11 09:02:02 +0000 2020",
+		"id": 1337321736593928200,
+		"id_str": "1337321736593928193",
+		"full_text": "#DreamMaker #드림메이커\n무반주 라이브도 이렇게 완벽할 수 있다니...❤️ 감동의 '대한민국 동행세일 특별행사'🦋 │ 드림메이커 스페셜 (eng sub)\nhttps://t.co/VEFHSkiBkc\n#SM엔터테인먼트 #공연기획사 #뮤직비지니스 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DreamMaker",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "드림메이커",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "SM엔터테인먼트",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"text": "공연기획사",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						132,
+						139
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						140,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VEFHSkiBkc",
+					"expanded_url": "https://youtu.be/HnZPiv6GYYI",
+					"display_url": "youtu.be/HnZPiv6GYYI",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74071,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#DreamMaker #드림메이커\n무반주 라이브도 이렇게 완벽할 수 있다니...❤️ 감동의 '대한민국 동행세일 특별행사'🦋 │ 드림메이커 스페셜 (eng sub)\nhttps://t.co/VEFHSkiBkc\n#SM엔터테인먼트 #공연기획사 #뮤직비지니스 #minfav"
+	},
+	{
+		"created_at": "Fri Dec 11 08:45:37 +0000 2020",
+		"id": 1337306125805498400,
+		"id_str": "1337317602058711040",
+		"full_text": "[🎥#사이드캠] 이달의 소녀 - 목소리\n\n#인기가요 #이달의소녀 #목소리 #LOONA #Voice @loonatheworld\n\n👉https://t.co/2tdaQ0aab2 https://t.co/fPFOpJmB0A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사이드캠",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "목소리",
+					"indices": [
+						36,
+						40
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						41,
+						47
+					]
+				},
+				{
+					"text": "Voice",
+					"indices": [
+						48,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						55,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2tdaQ0aab2",
+					"expanded_url": "https://youtu.be/yyYPcINvy9o",
+					"display_url": "youtu.be/yyYPcINvy9o",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1337275611266441200,
+					"id_str": "1337275611266441217",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo71FVBUYAEMSLW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo71FVBUYAEMSLW.jpg",
+					"url": "https://t.co/fPFOpJmB0A",
+					"display_url": "pic.twitter.com/fPFOpJmB0A",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1337306125805498370/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337275611266441200,
+					"id_str": "1337275611266441217",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo71FVBUYAEMSLW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo71FVBUYAEMSLW.jpg",
+					"url": "https://t.co/fPFOpJmB0A",
+					"display_url": "pic.twitter.com/fPFOpJmB0A",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1337306125805498370/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/qapZ7nOCns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qapZ7nOCns",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 245547,
+			"friends_count": 77,
+			"listed_count": 257,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 1859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1607235930",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 295,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥#사이드캠] 이달의 소녀 - 목소리\n\n#인기가요 #이달의소녀 #목소리 #LOONA #Voice @loonatheworld\n\n👉https://t.co/2tdaQ0aab2 https://t.co/fPFOpJmB0A"
+	},
+	{
 		"created_at": "Fri Dec 11 07:45:40 +0000 2020",
 		"id": 1337298573118075000,
 		"id_str": "1337302515419930625",
