@@ -1,6 +1,863 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 11 03:00:41 +0000 2020",
+		"id": 1337230799939264500,
+		"id_str": "1337230799939264512",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Dec 11) https://t.co/nAXx38iAAR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nAXx38iAAR",
+					"expanded_url": "https://nzzl.us/iquPblw",
+					"display_url": "nzzl.us/iquPblw",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Dec 11) https://t.co/nAXx38iAAR"
+	},
+	{
+		"created_at": "Fri Dec 11 02:45:49 +0000 2020",
+		"id": 1337220035736002600,
+		"id_str": "1337227056241913856",
+		"full_text": "SIMPLY K-POP Year-End Special\n🎊A Contact-Free Concert!🎊\n\n✔Follow our TikTok account and stay tuned!💘\n✔Plz go to TikTok link\n👉👉 https://t.co/Zpc0uM5wao\n\n#ACE #DREAMCATCHER #LOONA #MOMOLAND #SECRETNUMBER #VERIVERY #Weeekly #WEi https://t.co/oEBvFDHjxY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ACE",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "DREAMCATCHER",
+					"indices": [
+						157,
+						170
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						171,
+						177
+					]
+				},
+				{
+					"text": "MOMOLAND",
+					"indices": [
+						178,
+						187
+					]
+				},
+				{
+					"text": "SECRETNUMBER",
+					"indices": [
+						188,
+						201
+					]
+				},
+				{
+					"text": "VERIVERY",
+					"indices": [
+						202,
+						211
+					]
+				},
+				{
+					"text": "Weeekly",
+					"indices": [
+						212,
+						220
+					]
+				},
+				{
+					"text": "WEi",
+					"indices": [
+						221,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Zpc0uM5wao",
+					"expanded_url": "https://vt.tiktok.com/ZSG2WAsH/",
+					"display_url": "vt.tiktok.com/ZSG2WAsH/",
+					"indices": [
+						127,
+						150
+					]
+				},
+				{
+					"url": "https://t.co/oEBvFDHjxY",
+					"expanded_url": "https://twitter.com/arirangworld/status/1336228278193987588",
+					"display_url": "twitter.com/arirangworld/s…",
+					"indices": [
+						226,
+						249
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66625290,
+			"id_str": "66625290",
+			"name": "Arirang World",
+			"screen_name": "arirangworld",
+			"location": "South Korea",
+			"description": "Arirang TV & Radio",
+			"url": "https://t.co/eRqGeUFAHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eRqGeUFAHR",
+							"expanded_url": "https://www.youtube.com/arirangworld",
+							"display_url": "youtube.com/arirangworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 158410,
+			"friends_count": 211,
+			"listed_count": 1204,
+			"created_at": "Tue Aug 18 07:40:53 +0000 2009",
+			"favourites_count": 6049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E6E6E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925579596681977856/NBEPP8Pl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925579596681977856/NBEPP8Pl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66625290/1491978349",
+			"profile_link_color": "ED1846",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFB2D7",
+			"profile_text_color": "0A0A0A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1336228278193987600,
+		"quoted_status_id_str": "1336228278193987588",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oEBvFDHjxY",
+			"expanded": "https://twitter.com/arirangworld/status/1336228278193987588",
+			"display": "twitter.com/arirangworld/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 08 08:37:02 +0000 2020",
+			"id": 1336228278193987600,
+			"id_str": "1336228278193987588",
+			"full_text": "#VERIVERY #ACE #DREAMCATCHER #LOONA #MOMOLAND #SECRETNUMBER #Weeekly #WEi\n\n💌To apply, send to\n✔simplykpop2021@naver.com\n1. name + country\n2. email adress\n3. a message to share with the guests🌟🌟🌟\n\n✔Follow our TikTok account and stay tuned!🥰\n👉 https://t.co/RIsfVsayur https://t.co/TrfNSwXucd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "VERIVERY",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"text": "ACE",
+						"indices": [
+							10,
+							14
+						]
+					},
+					{
+						"text": "DREAMCATCHER",
+						"indices": [
+							15,
+							28
+						]
+					},
+					{
+						"text": "LOONA",
+						"indices": [
+							29,
+							35
+						]
+					},
+					{
+						"text": "MOMOLAND",
+						"indices": [
+							36,
+							45
+						]
+					},
+					{
+						"text": "SECRETNUMBER",
+						"indices": [
+							46,
+							59
+						]
+					},
+					{
+						"text": "Weeekly",
+						"indices": [
+							60,
+							68
+						]
+					},
+					{
+						"text": "WEi",
+						"indices": [
+							69,
+							73
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RIsfVsayur",
+						"expanded_url": "https://vt.tiktok.com/ZSpnr5MV/",
+						"display_url": "vt.tiktok.com/ZSpnr5MV/",
+						"indices": [
+							242,
+							265
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1336227327341052000,
+						"id_str": "1336227327341051906",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/Eos7rLFVQAI8P3q.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eos7rLFVQAI8P3q.png",
+						"url": "https://t.co/TrfNSwXucd",
+						"display_url": "pic.twitter.com/TrfNSwXucd",
+						"expanded_url": "https://twitter.com/arirangworld/status/1336228278193987588/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1336227327341052000,
+						"id_str": "1336227327341051906",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/Eos7rLFVQAI8P3q.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eos7rLFVQAI8P3q.png",
+						"url": "https://t.co/TrfNSwXucd",
+						"display_url": "pic.twitter.com/TrfNSwXucd",
+						"expanded_url": "https://twitter.com/arirangworld/status/1336228278193987588/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1336227345439412200,
+						"id_str": "1336227345439412224",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/Eos7sOgUUAAQTAD.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eos7sOgUUAAQTAD.png",
+						"url": "https://t.co/TrfNSwXucd",
+						"display_url": "pic.twitter.com/TrfNSwXucd",
+						"expanded_url": "https://twitter.com/arirangworld/status/1336228278193987588/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1336227360467681300,
+						"id_str": "1336227360467681280",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/Eos7tGfVgAAxn9n.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eos7tGfVgAAxn9n.png",
+						"url": "https://t.co/TrfNSwXucd",
+						"display_url": "pic.twitter.com/TrfNSwXucd",
+						"expanded_url": "https://twitter.com/arirangworld/status/1336228278193987588/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1336227374589911000,
+						"id_str": "1336227374589911040",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/Eos7t7GVoAAYhsL.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eos7t7GVoAAYhsL.png",
+						"url": "https://t.co/TrfNSwXucd",
+						"display_url": "pic.twitter.com/TrfNSwXucd",
+						"expanded_url": "https://twitter.com/arirangworld/status/1336228278193987588/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 66625290,
+				"id_str": "66625290",
+				"name": "Arirang World",
+				"screen_name": "arirangworld",
+				"location": "South Korea",
+				"description": "Arirang TV & Radio",
+				"url": "https://t.co/eRqGeUFAHR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eRqGeUFAHR",
+								"expanded_url": "https://www.youtube.com/arirangworld",
+								"display_url": "youtube.com/arirangworld",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 158410,
+				"friends_count": 211,
+				"listed_count": 1204,
+				"created_at": "Tue Aug 18 07:40:53 +0000 2009",
+				"favourites_count": 6049,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 25230,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E6E6E6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/925579596681977856/NBEPP8Pl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/925579596681977856/NBEPP8Pl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/66625290/1491978349",
+				"profile_link_color": "ED1846",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFB2D7",
+				"profile_text_color": "0A0A0A",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 285,
+			"favorite_count": 883,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 13,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SIMPLY K-POP Year-End Special\n🎊A Contact-Free Concert!🎊\n\n✔Follow our TikTok account and stay tuned!💘\n✔Plz go to TikTok link\n👉👉 https://t.co/Zpc0uM5wao\n\n#ACE #DREAMCATCHER #LOONA #MOMOLAND #SECRETNUMBER #VERIVERY #Weeekly #WEi https://t.co/oEBvFDHjxY"
+	},
+	{
+		"created_at": "Fri Dec 11 02:45:44 +0000 2020",
+		"id": 1337218702995943400,
+		"id_str": "1337227034746118145",
+		"full_text": "&lt;쇼! 음악중심&gt; 출연자 라인업 공개🌸🌻 #아이즈원 #김현철 (feat. #주현미) #카이 #ONEWE #GHOST9 #노라조 #모모랜드 #이달의소녀 #aespa #다크비 #wooah #엘라스트 #P1Harmony #STAYC #블링블링 #BAE173 토요일 오후 3시 50분🎞📽🎬",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이즈원",
+					"indices": [
+						29,
+						34
+					]
+				},
+				{
+					"text": "김현철",
+					"indices": [
+						35,
+						39
+					]
+				},
+				{
+					"text": "주현미",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "카이",
+					"indices": [
+						53,
+						56
+					]
+				},
+				{
+					"text": "ONEWE",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "GHOST9",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"text": "노라조",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "모모랜드",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "다크비",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "wooah",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "엘라스트",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "P1Harmony",
+					"indices": [
+						115,
+						125
+					]
+				},
+				{
+					"text": "STAYC",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "블링블링",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "BAE173",
+					"indices": [
+						139,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 224566089,
+			"id_str": "224566089",
+			"name": "쇼! 음악중심",
+			"screen_name": "MBCMusicCore",
+			"location": "대한민국 서울 (South Korea)",
+			"description": "쇼!음악중심 공식 트위터 / 매주 토요일 오후 3시30분 방송",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 249548,
+			"friends_count": 0,
+			"listed_count": 526,
+			"created_at": "Thu Dec 09 09:33:13 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134414494191374336/lUaIDPwc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134414494191374336/lUaIDPwc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/224566089/1591971824",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 466,
+		"favorite_count": 1044,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "&lt;쇼! 음악중심&gt; 출연자 라인업 공개🌸🌻 #아이즈원 #김현철 (feat. #주현미) #카이 #ONEWE #GHOST9 #노라조 #모모랜드 #이달의소녀 #aespa #다크비 #wooah #엘라스트 #P1Harmony #STAYC #블링블링 #BAE173 토요일 오후 3시 50분🎞📽🎬"
+	},
+	{
 		"created_at": "Fri Dec 11 01:14:37 +0000 2020",
 		"id": 1337200429936074800,
 		"id_str": "1337204107283730432",
