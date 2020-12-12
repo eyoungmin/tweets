@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 12 01:59:05 +0000 2020",
+		"id": 1337444212019642400,
+		"id_str": "1337577682159079424",
+		"full_text": "코로나 확진시 고양이 보호자가 준비해야 할 사항을 정리했습니다. \nhttps://t.co/GFUUocljyO https://t.co/lyLuNXOfNX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GFUUocljyO",
+					"expanded_url": "https://www.bodmon.co.kr/covid19_info/",
+					"display_url": "bodmon.co.kr/covid19_info/",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1337444209981227000,
+					"id_str": "1337444209981227009",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo-ObELVgAEO1w0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo-ObELVgAEO1w0.jpg",
+					"url": "https://t.co/lyLuNXOfNX",
+					"display_url": "pic.twitter.com/lyLuNXOfNX",
+					"expanded_url": "https://twitter.com/bodmon_kr/status/1337444212019642371/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337444209981227000,
+					"id_str": "1337444209981227009",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo-ObELVgAEO1w0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo-ObELVgAEO1w0.jpg",
+					"url": "https://t.co/lyLuNXOfNX",
+					"display_url": "pic.twitter.com/lyLuNXOfNX",
+					"expanded_url": "https://twitter.com/bodmon_kr/status/1337444212019642371/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113471534117453800,
+			"id_str": "1113471534117453825",
+			"name": "보듬온",
+			"screen_name": "bodmon_kr",
+			"location": "서울 경기 세종 부산 창원",
+			"description": "국내 최초 고양이 전문 방문돌봄 서비스 #보듬온 입니다. 장기간의 여행이나 명절, 바쁜 업무로 직접 케어해줄 수 없을 때 도움의 손길이 되어드리겠습니다.",
+			"url": "https://t.co/fmviW6LeqE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fmviW6LeqE",
+							"expanded_url": "http://bodmon.co.kr",
+							"display_url": "bodmon.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 477,
+			"friends_count": 1005,
+			"listed_count": 2,
+			"created_at": "Wed Apr 03 16:01:15 +0000 2019",
+			"favourites_count": 1265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113481516678414336/CvTJwc9H_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113481516678414336/CvTJwc9H_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113471534117453825/1554309730",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 898,
+		"favorite_count": 566,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코로나 확진시 고양이 보호자가 준비해야 할 사항을 정리했습니다. \nhttps://t.co/GFUUocljyO https://t.co/lyLuNXOfNX"
+	},
+	{
 		"created_at": "Fri Dec 11 22:01:06 +0000 2020",
 		"id": 1337517793290358800,
 		"id_str": "1337517793290358786",
