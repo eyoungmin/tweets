@@ -1,6 +1,808 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 12 11:14:58 +0000 2020",
+		"id": 1337704208896651300,
+		"id_str": "1337717576277889025",
+		"full_text": "여러분 오늘도 블랙맘바 무대 잘 보셨나요?\n빨리 여러분 앞에서 무대 하고 싶어요ㅠ\n다들 건강 잘 챙기고 건강하게 만나요❤️\n\n#aespa #æspa #에스파\n#BlackMamba https://t.co/gpBRH5jhUs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "BlackMamba",
+					"indices": [
+						88,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337704170703388700,
+					"id_str": "1337704170703388674",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EpB62xVVgAICZNO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpB62xVVgAICZNO.jpg",
+					"url": "https://t.co/gpBRH5jhUs",
+					"display_url": "pic.twitter.com/gpBRH5jhUs",
+					"expanded_url": "https://twitter.com/aespa_official/status/1337704208896651265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337704170703388700,
+					"id_str": "1337704170703388674",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EpB62xVVgAICZNO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpB62xVVgAICZNO.jpg",
+					"url": "https://t.co/gpBRH5jhUs",
+					"display_url": "pic.twitter.com/gpBRH5jhUs",
+					"expanded_url": "https://twitter.com/aespa_official/status/1337704208896651265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 597934,
+			"friends_count": 1,
+			"listed_count": 1896,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6322,
+		"favorite_count": 24086,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여러분 오늘도 블랙맘바 무대 잘 보셨나요?\n빨리 여러분 앞에서 무대 하고 싶어요ㅠ\n다들 건강 잘 챙기고 건강하게 만나요❤️\n\n#aespa #æspa #에스파\n#BlackMamba https://t.co/gpBRH5jhUs"
+	},
+	{
+		"created_at": "Sat Dec 12 11:14:51 +0000 2020",
+		"id": 1337704105934901200,
+		"id_str": "1337717546456408065",
+		"full_text": "안녕하세요 카리나입니다~~\n오랜만에 음중이에요🌝 하루빨리 상황이 좋아져서 모두 불안에 떨지 않는 하루하루가 됐으면 좋겠어요 저희도 항상 조심 또 조심! 여러분도 많이 지치겠지만 같이 힘내요😍\n\n#aespa #æspa #에스파\n#KARINA #카리나 #BlackMamba https://t.co/ZgrjiKKxMQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						126,
+						133
+					]
+				},
+				{
+					"text": "카리나",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "BlackMamba",
+					"indices": [
+						139,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337704069922615300,
+					"id_str": "1337704069922615296",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EpB6w55U8AAq5Nt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpB6w55U8AAq5Nt.jpg",
+					"url": "https://t.co/ZgrjiKKxMQ",
+					"display_url": "pic.twitter.com/ZgrjiKKxMQ",
+					"expanded_url": "https://twitter.com/aespa_official/status/1337704105934901249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337704069922615300,
+					"id_str": "1337704069922615296",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EpB6w55U8AAq5Nt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpB6w55U8AAq5Nt.jpg",
+					"url": "https://t.co/ZgrjiKKxMQ",
+					"display_url": "pic.twitter.com/ZgrjiKKxMQ",
+					"expanded_url": "https://twitter.com/aespa_official/status/1337704105934901249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 597934,
+			"friends_count": 1,
+			"listed_count": 1896,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6155,
+		"favorite_count": 25730,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요 카리나입니다~~\n오랜만에 음중이에요🌝 하루빨리 상황이 좋아져서 모두 불안에 떨지 않는 하루하루가 됐으면 좋겠어요 저희도 항상 조심 또 조심! 여러분도 많이 지치겠지만 같이 힘내요😍\n\n#aespa #æspa #에스파\n#KARINA #카리나 #BlackMamba https://t.co/ZgrjiKKxMQ"
+	},
+	{
+		"created_at": "Sat Dec 12 11:14:49 +0000 2020",
+		"id": 1337704015572832300,
+		"id_str": "1337717537560268802",
+		"full_text": "마이~! \n지금 음중 마치고 차 안이에용!\n오늘도 무대 잘 봤나유~?! \n남은 토욜 밤 푹쉬어용☺️\n낼 봐🖤🖤 \n뿅\n\n#aespa #æspa #에스파\n#GISELLE #지젤 #BlackMamba https://t.co/hyxp2tfBEY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "지젤",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "BlackMamba",
+					"indices": [
+						97,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337703983977123800,
+					"id_str": "1337703983977123840",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EpB6r5uU0AATgSk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpB6r5uU0AATgSk.jpg",
+					"url": "https://t.co/hyxp2tfBEY",
+					"display_url": "pic.twitter.com/hyxp2tfBEY",
+					"expanded_url": "https://twitter.com/aespa_official/status/1337704015572832256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337703983977123800,
+					"id_str": "1337703983977123840",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EpB6r5uU0AATgSk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpB6r5uU0AATgSk.jpg",
+					"url": "https://t.co/hyxp2tfBEY",
+					"display_url": "pic.twitter.com/hyxp2tfBEY",
+					"expanded_url": "https://twitter.com/aespa_official/status/1337704015572832256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 597934,
+			"friends_count": 1,
+			"listed_count": 1896,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4833,
+		"favorite_count": 21557,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마이~! \n지금 음중 마치고 차 안이에용!\n오늘도 무대 잘 봤나유~?! \n남은 토욜 밤 푹쉬어용☺️\n낼 봐🖤🖤 \n뿅\n\n#aespa #æspa #에스파\n#GISELLE #지젤 #BlackMamba https://t.co/hyxp2tfBEY"
+	},
+	{
+		"created_at": "Sat Dec 12 11:14:40 +0000 2020",
+		"id": 1337703936317243400,
+		"id_str": "1337717499329196032",
+		"full_text": "여러분~~! 윈터에요!! 오늘 무대 잘 보셨나요😎 내일도 기대해 주세요 화이팅🥰😇\n\n#aespa #æspa #에스파\n#WINTER #윈터 #BlackMamba https://t.co/EbfXCn1ic2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						47,
+						53
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "BlackMamba",
+					"indices": [
+						77,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337703922765480000,
+					"id_str": "1337703922765479937",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EpB6oVsVQAEYuSE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpB6oVsVQAEYuSE.jpg",
+					"url": "https://t.co/EbfXCn1ic2",
+					"display_url": "pic.twitter.com/EbfXCn1ic2",
+					"expanded_url": "https://twitter.com/aespa_official/status/1337703936317243394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1246,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 662,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1168,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337703922765480000,
+					"id_str": "1337703922765479937",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EpB6oVsVQAEYuSE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpB6oVsVQAEYuSE.jpg",
+					"url": "https://t.co/EbfXCn1ic2",
+					"display_url": "pic.twitter.com/EbfXCn1ic2",
+					"expanded_url": "https://twitter.com/aespa_official/status/1337703936317243394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1246,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 662,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1168,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 597934,
+			"friends_count": 1,
+			"listed_count": 1896,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7778,
+		"favorite_count": 32711,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여러분~~! 윈터에요!! 오늘 무대 잘 보셨나요😎 내일도 기대해 주세요 화이팅🥰😇\n\n#aespa #æspa #에스파\n#WINTER #윈터 #BlackMamba https://t.co/EbfXCn1ic2"
+	},
+	{
 		"created_at": "Sat Dec 12 10:14:44 +0000 2020",
 		"id": 1337698917228540000,
 		"id_str": "1337702420428812289",
