@@ -1,6 +1,508 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 13 04:19:18 +0000 2020",
+		"id": 1337710623308669000,
+		"id_str": "1337975357849231363",
+		"full_text": "몽셀 1화🎉\n코몽상 소속사로 찾아간 코몽🐵\n과연 오디션을 합격했는지 보러가라몽!\nhttps://t.co/neo0u2F3cE https://t.co/fOjnkskCaJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/neo0u2F3cE",
+					"expanded_url": "https://youtu.be/i1Yuis8zPuI",
+					"display_url": "youtu.be/i1Yuis8zPuI",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1337710614106370000,
+					"id_str": "1337710614106370048",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EpCAt04UcAAd9qu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpCAt04UcAAd9qu.jpg",
+					"url": "https://t.co/fOjnkskCaJ",
+					"display_url": "pic.twitter.com/fOjnkskCaJ",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1337710623308668929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337710614106370000,
+					"id_str": "1337710614106370048",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EpCAt04UcAAd9qu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpCAt04UcAAd9qu.jpg",
+					"url": "https://t.co/fOjnkskCaJ",
+					"display_url": "pic.twitter.com/fOjnkskCaJ",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1337710623308668929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1337710614110584800,
+					"id_str": "1337710614110584832",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EpCAt05UwAArt03.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpCAt05UwAArt03.jpg",
+					"url": "https://t.co/fOjnkskCaJ",
+					"display_url": "pic.twitter.com/fOjnkskCaJ",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1337710623308668929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1337710614114758700,
+					"id_str": "1337710614114758663",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EpCAt06UcAcSAyN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpCAt06UcAcSAyN.jpg",
+					"url": "https://t.co/fOjnkskCaJ",
+					"display_url": "pic.twitter.com/fOjnkskCaJ",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1337710623308668929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1337710614144188400,
+					"id_str": "1337710614144188416",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EpCAt1BVgAA4pV1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpCAt1BVgAA4pV1.jpg",
+					"url": "https://t.co/fOjnkskCaJ",
+					"display_url": "pic.twitter.com/fOjnkskCaJ",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1337710623308668929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097461345677500400,
+			"id_str": "1097461345677500417",
+			"name": "코코몽",
+			"screen_name": "cocomong_kr",
+			"location": "냉장고나라 ",
+			"description": "코코몽(냉장코 코씨,12살)\n회사몰래하는 케이팝 덕질 계정🙈\n코몽이 언급하면 달려간다몽",
+			"url": "https://t.co/Iva8494tnf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Iva8494tnf",
+							"expanded_url": "https://www.instagram.com/cocomong.official",
+							"display_url": "instagram.com/cocomong.offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1555,
+			"friends_count": 0,
+			"listed_count": 3,
+			"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+			"favourites_count": 845,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257178347957714945/o7LiNEE9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257178347957714945/o7LiNEE9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 391,
+		"favorite_count": 1322,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "몽셀 1화🎉\n코몽상 소속사로 찾아간 코몽🐵\n과연 오디션을 합격했는지 보러가라몽!\nhttps://t.co/neo0u2F3cE https://t.co/fOjnkskCaJ"
+	},
+	{
+		"created_at": "Sun Dec 13 04:07:16 +0000 2020",
+		"id": 1337935027833737200,
+		"id_str": "1337972329788235777",
+		"full_text": "아마존이 보유한 IP주소 1억개는 약 2.5조원가치 https://t.co/hZlfmFJxAa \n- 2020년 12월 11일 현재 109,847,486개의 IP주소를 보유\n- 현재 IP당 가격은 약 $20~$30 \n- $20씩 잡았을 때 $2.2B, $30이면 $3.3B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hZlfmFJxAa",
+					"expanded_url": "https://j.mp/2JQw36J",
+					"display_url": "j.mp/2JQw36J",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4478,
+			"friends_count": 0,
+			"listed_count": 69,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아마존이 보유한 IP주소 1억개는 약 2.5조원가치 https://t.co/hZlfmFJxAa \n- 2020년 12월 11일 현재 109,847,486개의 IP주소를 보유\n- 현재 IP당 가격은 약 $20~$30 \n- $20씩 잡았을 때 $2.2B, $30이면 $3.3B"
+	},
+	{
+		"created_at": "Sun Dec 13 04:07:06 +0000 2020",
+		"id": 1337921690144141300,
+		"id_str": "1337972289053192192",
+		"full_text": "Weather Icons - 222개 날씨 아이콘 모음  https://t.co/FopM6VvldB \n- CSS,SVG,Font(OTF/TTF) 등으로 제공\n- Less/Sass 지원\n- 낮시간 / 밤시간용 날씨 아이콘 구분\n- 28개의 달 모양, 0~12시 시간, 바람 방향/풍속 아이콘등 \n- 각종 날씨 API와 매핑 지원 : Yahoo, Forecast, Weather Underg...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FopM6VvldB",
+					"expanded_url": "https://j.mp/3mbvxNG",
+					"display_url": "j.mp/3mbvxNG",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4478,
+			"friends_count": 0,
+			"listed_count": 69,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Weather Icons - 222개 날씨 아이콘 모음  https://t.co/FopM6VvldB \n- CSS,SVG,Font(OTF/TTF) 등으로 제공\n- Less/Sass 지원\n- 낮시간 / 밤시간용 날씨 아이콘 구분\n- 28개의 달 모양, 0~12시 시간, 바람 방향/풍속 아이콘등 \n- 각종 날씨 API와 매핑 지원 : Yahoo, Forecast, Weather Underg..."
+	},
+	{
 		"created_at": "Sun Dec 13 03:59:33 +0000 2020",
 		"id": 1337321225601900500,
 		"id_str": "1337970389830418434",
@@ -2000,7 +2502,7 @@ Grailbird.data.tweets_2020_12 =
 						]
 					},
 					"additional_media_info": {
-						"title": "[런 온_워밍업] 예고💕 런 온 배우들의 소통 능력치는?! 〈런 온〉의 모든 것!🏃🏻‍ 12/9(수) 밤 9시!",
+						"title": "[런 온_워밍업] 예고💕 런 온 배우들의 소통 능력치는?! 〈런 온〉의 모든 것!🏃🏻 12/9(수) 밤 9시!",
 						"description": "",
 						"call_to_actions": {
 							"visit_site": {
