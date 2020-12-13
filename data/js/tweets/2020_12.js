@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 13 03:01:04 +0000 2020",
+		"id": 1337955671564836900,
+		"id_str": "1337955671564836872",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Dec 13) https://t.co/EYDsqoKH91",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EYDsqoKH91",
+					"expanded_url": "https://nzzl.us/GgE9gb5",
+					"display_url": "nzzl.us/GgE9gb5",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Dec 13) https://t.co/EYDsqoKH91"
+	},
+	{
+		"created_at": "Sun Dec 13 02:14:42 +0000 2020",
+		"id": 1337517606153162800,
+		"id_str": "1337944000532189196",
+		"full_text": "Don't miss @BillieEilish, @Finneas, @HansZimmer &amp; @Johnny_Marr at Variety FYC Fest for a panel conversation exploring the creation of the Bond song #NoTimetoDie. Register today: https://t.co/YaC9EIHChU #VarietyFYCFest https://t.co/6Sd5G6zwq9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NoTimetoDie",
+					"indices": [
+						152,
+						164
+					]
+				},
+				{
+					"text": "VarietyFYCFest",
+					"indices": [
+						206,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "billieeilish",
+					"name": "billie eilish",
+					"id": 2150327072,
+					"id_str": "2150327072",
+					"indices": [
+						11,
+						24
+					]
+				},
+				{
+					"screen_name": "finneas",
+					"name": "FINNEAS",
+					"id": 1573265498,
+					"id_str": "1573265498",
+					"indices": [
+						26,
+						34
+					]
+				},
+				{
+					"screen_name": "HansZimmer",
+					"name": "Hans Zimmer",
+					"id": 407137170,
+					"id_str": "407137170",
+					"indices": [
+						36,
+						47
+					]
+				},
+				{
+					"screen_name": "Johnny_Marr",
+					"name": "Johnny Marr",
+					"id": 19238548,
+					"id_str": "19238548",
+					"indices": [
+						54,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YaC9EIHChU",
+					"expanded_url": "https://bit.ly/3m2w1Gz",
+					"display_url": "bit.ly/3m2w1Gz",
+					"indices": [
+						182,
+						205
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1337516869834694700,
+					"id_str": "1337516869834694662",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo_QgbOW4AYXKAN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo_QgbOW4AYXKAN.jpg",
+					"url": "https://t.co/6Sd5G6zwq9",
+					"display_url": "pic.twitter.com/6Sd5G6zwq9",
+					"expanded_url": "https://twitter.com/Variety/status/1337517606153162755/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337516869834694700,
+					"id_str": "1337516869834694662",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo_QgbOW4AYXKAN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo_QgbOW4AYXKAN.jpg",
+					"url": "https://t.co/6Sd5G6zwq9",
+					"display_url": "pic.twitter.com/6Sd5G6zwq9",
+					"expanded_url": "https://twitter.com/Variety/status/1337517606153162755/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17525171,
+			"id_str": "17525171",
+			"name": "Variety",
+			"screen_name": "Variety",
+			"location": "Los Angeles, CA",
+			"description": "The business of entertainment.",
+			"url": "https://t.co/8QkvN6A5Nf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8QkvN6A5Nf",
+							"expanded_url": "http://www.variety.com",
+							"display_url": "variety.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2546097,
+			"friends_count": 249642,
+			"listed_count": 17432,
+			"created_at": "Thu Nov 20 23:02:29 +0000 2008",
+			"favourites_count": 1149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 313984,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060236422500704257/jltNN1hQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060236422500704257/jltNN1hQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17525171/1607535722",
+			"profile_link_color": "60728A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 235,
+		"favorite_count": 4371,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don't miss @BillieEilish, @Finneas, @HansZimmer &amp; @Johnny_Marr at Variety FYC Fest for a panel conversation exploring the creation of the Bond song #NoTimetoDie. Register today: https://t.co/YaC9EIHChU #VarietyFYCFest https://t.co/6Sd5G6zwq9"
+	},
+	{
 		"created_at": "Sat Dec 12 18:18:02 +0000 2020",
 		"id": 1337824044087840800,
 		"id_str": "1337824044087840770",
