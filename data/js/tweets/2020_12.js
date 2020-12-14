@@ -1,6 +1,1982 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 14 07:58:51 +0000 2020",
+		"id": 1338392997566746600,
+		"id_str": "1338392997566746624",
+		"full_text": "#듣다보면똑똑해지는라디오 #듣똑라\n[공지]듣똑라와 함께 할 인턴사원을 모집합니다\nhttps://t.co/moOi5KEx8G\n\n▶ https://t.co/YeBxcLsonR\n\n#미디어 #시사 #경제 #법조 #문화\n#팟캐스트 #Podcast #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "듣다보면똑똑해지는라디오",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "듣똑라",
+					"indices": [
+						14,
+						18
+					]
+				},
+				{
+					"text": "미디어",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "시사",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "경제",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "법조",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "문화",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "팟캐스트",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "Podcast",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						133,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/moOi5KEx8G",
+					"expanded_url": "https://www.podty.me/episode/14965661",
+					"display_url": "podty.me/episode/149656…",
+					"indices": [
+						45,
+						68
+					]
+				},
+				{
+					"url": "https://t.co/YeBxcLsonR",
+					"expanded_url": "https://cdn-cf.podty.me/meta/episode_audio/100007804/190484_1607931909726.mp3",
+					"display_url": "cdn-cf.podty.me/meta/episode_a…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://zapier.com/\" rel=\"nofollow\">Zapier.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#듣다보면똑똑해지는라디오 #듣똑라\n[공지]듣똑라와 함께 할 인턴사원을 모집합니다\nhttps://t.co/moOi5KEx8G\n\n▶ https://t.co/YeBxcLsonR\n\n#미디어 #시사 #경제 #법조 #문화\n#팟캐스트 #Podcast #minfav"
+	},
+	{
+		"created_at": "Mon Dec 14 07:41:59 +0000 2020",
+		"id": 1338388752515936300,
+		"id_str": "1338388752515936257",
+		"full_text": "#Onthespot #DRAW\nNIKE X STUSSY 'U NRG CUFFED BEANIE BR QS' (GREY) (2020-12-15)\nhttps://t.co/0QECcXAgug https://t.co/p0pGRj0HXu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Onthespot",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "DRAW",
+					"indices": [
+						11,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0QECcXAgug",
+					"expanded_url": "https://www.onthespot.co.kr/promotion/event/detail?eventNo=2000000228",
+					"display_url": "onthespot.co.kr/promotion/even…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1338388751102435300,
+					"id_str": "1338388751102435328",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/EpLpemDW4AAGtkX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpLpemDW4AAGtkX.jpg",
+					"url": "https://t.co/p0pGRj0HXu",
+					"display_url": "pic.twitter.com/p0pGRj0HXu",
+					"expanded_url": "https://twitter.com/fromminn/status/1338388752515936257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338388751102435300,
+					"id_str": "1338388751102435328",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/EpLpemDW4AAGtkX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpLpemDW4AAGtkX.jpg",
+					"url": "https://t.co/p0pGRj0HXu",
+					"display_url": "pic.twitter.com/p0pGRj0HXu",
+					"expanded_url": "https://twitter.com/fromminn/status/1338388752515936257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Onthespot #DRAW\nNIKE X STUSSY 'U NRG CUFFED BEANIE BR QS' (GREY) (2020-12-15)\nhttps://t.co/0QECcXAgug https://t.co/p0pGRj0HXu"
+	},
+	{
+		"created_at": "Mon Dec 14 07:41:54 +0000 2020",
+		"id": 1338388731020136400,
+		"id_str": "1338388731020136449",
+		"full_text": "#Onthespot #DRAW\nNIKE X STUSSY 'U NRG CUFFED BEANIE BR QS' (BLACK) (2020-12-15)\nhttps://t.co/0no4UBlN12 https://t.co/HPmCqZjXRX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Onthespot",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "DRAW",
+					"indices": [
+						11,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0no4UBlN12",
+					"expanded_url": "https://www.onthespot.co.kr/promotion/event/detail?eventNo=2000000227",
+					"display_url": "onthespot.co.kr/promotion/even…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1338388729707303000,
+					"id_str": "1338388729707302912",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EpLpdWWXEAA657e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpLpdWWXEAA657e.jpg",
+					"url": "https://t.co/HPmCqZjXRX",
+					"display_url": "pic.twitter.com/HPmCqZjXRX",
+					"expanded_url": "https://twitter.com/fromminn/status/1338388731020136449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338388729707303000,
+					"id_str": "1338388729707302912",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EpLpdWWXEAA657e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpLpdWWXEAA657e.jpg",
+					"url": "https://t.co/HPmCqZjXRX",
+					"display_url": "pic.twitter.com/HPmCqZjXRX",
+					"expanded_url": "https://twitter.com/fromminn/status/1338388731020136449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Onthespot #DRAW\nNIKE X STUSSY 'U NRG CUFFED BEANIE BR QS' (BLACK) (2020-12-15)\nhttps://t.co/0no4UBlN12 https://t.co/HPmCqZjXRX"
+	},
+	{
+		"created_at": "Mon Dec 14 07:41:49 +0000 2020",
+		"id": 1338388711067807700,
+		"id_str": "1338388711067807744",
+		"full_text": "#Onthespot #DRAW\nNIKE X STUSSY 'M NRG LS TEE ZR' (GORGE GREEN) (2020-12-15)\nhttps://t.co/mxKrFOolkY https://t.co/nbhirbjZXd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Onthespot",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "DRAW",
+					"indices": [
+						11,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mxKrFOolkY",
+					"expanded_url": "https://www.onthespot.co.kr/promotion/event/detail?eventNo=2000000226",
+					"display_url": "onthespot.co.kr/promotion/even…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1338388709989888000,
+					"id_str": "1338388709989888001",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EpLpcM5XMAEspke.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpLpcM5XMAEspke.jpg",
+					"url": "https://t.co/nbhirbjZXd",
+					"display_url": "pic.twitter.com/nbhirbjZXd",
+					"expanded_url": "https://twitter.com/fromminn/status/1338388711067807744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338388709989888000,
+					"id_str": "1338388709989888001",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EpLpcM5XMAEspke.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpLpcM5XMAEspke.jpg",
+					"url": "https://t.co/nbhirbjZXd",
+					"display_url": "pic.twitter.com/nbhirbjZXd",
+					"expanded_url": "https://twitter.com/fromminn/status/1338388711067807744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "#Onthespot #DRAW\nNIKE X STUSSY 'M NRG LS TEE ZR' (GORGE GREEN) (2020-12-15)\nhttps://t.co/mxKrFOolkY https://t.co/nbhirbjZXd"
+	},
+	{
+		"created_at": "Mon Dec 14 07:41:44 +0000 2020",
+		"id": 1338388690058555400,
+		"id_str": "1338388690058555392",
+		"full_text": "#Onthespot #DRAW\nNIKE X STUSSY 'M NRG LS TEE ZR' (WHITE) (2020-12-15)\nhttps://t.co/Kln0eXOFaQ https://t.co/EwLf79M5Qx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Onthespot",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "DRAW",
+					"indices": [
+						11,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Kln0eXOFaQ",
+					"expanded_url": "https://www.onthespot.co.kr/promotion/event/detail?eventNo=2000000225",
+					"display_url": "onthespot.co.kr/promotion/even…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1338388688749924400,
+					"id_str": "1338388688749924354",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EpLpa9xXEAI0TIY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpLpa9xXEAI0TIY.jpg",
+					"url": "https://t.co/EwLf79M5Qx",
+					"display_url": "pic.twitter.com/EwLf79M5Qx",
+					"expanded_url": "https://twitter.com/fromminn/status/1338388690058555392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338388688749924400,
+					"id_str": "1338388688749924354",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EpLpa9xXEAI0TIY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpLpa9xXEAI0TIY.jpg",
+					"url": "https://t.co/EwLf79M5Qx",
+					"display_url": "pic.twitter.com/EwLf79M5Qx",
+					"expanded_url": "https://twitter.com/fromminn/status/1338388690058555392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "pl",
+		"text": "#Onthespot #DRAW\nNIKE X STUSSY 'M NRG LS TEE ZR' (WHITE) (2020-12-15)\nhttps://t.co/Kln0eXOFaQ https://t.co/EwLf79M5Qx"
+	},
+	{
+		"created_at": "Mon Dec 14 07:41:39 +0000 2020",
+		"id": 1338388669091209200,
+		"id_str": "1338388669091209216",
+		"full_text": "#Onthespot #DRAW\nNIKE X STUSSY 'M NRG SS TEE ZR' (GORGE GREEN) (2020-12-15)\nhttps://t.co/2Sg0HModrV https://t.co/F7Ojpc75Nd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Onthespot",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "DRAW",
+					"indices": [
+						11,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2Sg0HModrV",
+					"expanded_url": "https://www.onthespot.co.kr/promotion/event/detail?eventNo=2000000224",
+					"display_url": "onthespot.co.kr/promotion/even…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1338388667975479300,
+					"id_str": "1338388667975479296",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EpLpZwYWMAAwWJp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpLpZwYWMAAwWJp.jpg",
+					"url": "https://t.co/F7Ojpc75Nd",
+					"display_url": "pic.twitter.com/F7Ojpc75Nd",
+					"expanded_url": "https://twitter.com/fromminn/status/1338388669091209216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338388667975479300,
+					"id_str": "1338388667975479296",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EpLpZwYWMAAwWJp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpLpZwYWMAAwWJp.jpg",
+					"url": "https://t.co/F7Ojpc75Nd",
+					"display_url": "pic.twitter.com/F7Ojpc75Nd",
+					"expanded_url": "https://twitter.com/fromminn/status/1338388669091209216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "#Onthespot #DRAW\nNIKE X STUSSY 'M NRG SS TEE ZR' (GORGE GREEN) (2020-12-15)\nhttps://t.co/2Sg0HModrV https://t.co/F7Ojpc75Nd"
+	},
+	{
+		"created_at": "Mon Dec 14 07:41:32 +0000 2020",
+		"id": 1338388641614323700,
+		"id_str": "1338388641614323712",
+		"full_text": "#Onthespot #DRAW\nNIKE X STUSSY 'M NRG SS TEE ZR' (WHITE) (2020-12-15)\nhttps://t.co/KDNDVOrZNq https://t.co/cEFPrrRGtx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Onthespot",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "DRAW",
+					"indices": [
+						11,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KDNDVOrZNq",
+					"expanded_url": "https://www.onthespot.co.kr/promotion/event/detail?eventNo=2000000223",
+					"display_url": "onthespot.co.kr/promotion/even…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1338388640674836500,
+					"id_str": "1338388640674836480",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EpLpYKrXcAAk-2w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpLpYKrXcAAk-2w.jpg",
+					"url": "https://t.co/cEFPrrRGtx",
+					"display_url": "pic.twitter.com/cEFPrrRGtx",
+					"expanded_url": "https://twitter.com/fromminn/status/1338388641614323712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338388640674836500,
+					"id_str": "1338388640674836480",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EpLpYKrXcAAk-2w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpLpYKrXcAAk-2w.jpg",
+					"url": "https://t.co/cEFPrrRGtx",
+					"display_url": "pic.twitter.com/cEFPrrRGtx",
+					"expanded_url": "https://twitter.com/fromminn/status/1338388641614323712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "pl",
+		"text": "#Onthespot #DRAW\nNIKE X STUSSY 'M NRG SS TEE ZR' (WHITE) (2020-12-15)\nhttps://t.co/KDNDVOrZNq https://t.co/cEFPrrRGtx"
+	},
+	{
+		"created_at": "Mon Dec 14 07:41:26 +0000 2020",
+		"id": 1338388616020717600,
+		"id_str": "1338388616020717570",
+		"full_text": "#Onthespot #DRAW\nNIKE X STUSSY 'M NRG SS TEE ZR' (BLACK) (2020-12-15)\nhttps://t.co/yTv1wnMsK4 https://t.co/YnUvrLdvD5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Onthespot",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "DRAW",
+					"indices": [
+						11,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yTv1wnMsK4",
+					"expanded_url": "https://www.onthespot.co.kr/promotion/event/detail?eventNo=2000000222",
+					"display_url": "onthespot.co.kr/promotion/even…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1338388615060131800,
+					"id_str": "1338388615060131841",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EpLpWrQWEAEY_wv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpLpWrQWEAEY_wv.jpg",
+					"url": "https://t.co/YnUvrLdvD5",
+					"display_url": "pic.twitter.com/YnUvrLdvD5",
+					"expanded_url": "https://twitter.com/fromminn/status/1338388616020717570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338388615060131800,
+					"id_str": "1338388615060131841",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EpLpWrQWEAEY_wv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpLpWrQWEAEY_wv.jpg",
+					"url": "https://t.co/YnUvrLdvD5",
+					"display_url": "pic.twitter.com/YnUvrLdvD5",
+					"expanded_url": "https://twitter.com/fromminn/status/1338388616020717570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "pl",
+		"text": "#Onthespot #DRAW\nNIKE X STUSSY 'M NRG SS TEE ZR' (BLACK) (2020-12-15)\nhttps://t.co/yTv1wnMsK4 https://t.co/YnUvrLdvD5"
+	},
+	{
+		"created_at": "Mon Dec 14 07:29:38 +0000 2020",
+		"id": 1338385645207687200,
+		"id_str": "1338385645207687170",
+		"full_text": "#SMTOWN #Artist_News\n태연, 새 미니앨범 수록곡 ‘Galaxy’, 미니멀한 알앤비 발라드 곡!\nhttps://t.co/0QOEVuUQAg\n#태연 #TAEYEON https://t.co/Q26OrJWyGK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						90,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0QOEVuUQAg",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/4356",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1338385644255588400,
+					"id_str": "1338385644255588353",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EpLmpwJWMAE7oNp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpLmpwJWMAE7oNp.jpg",
+					"url": "https://t.co/Q26OrJWyGK",
+					"display_url": "pic.twitter.com/Q26OrJWyGK",
+					"expanded_url": "https://twitter.com/fromminn/status/1338385645207687170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338385644255588400,
+					"id_str": "1338385644255588353",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EpLmpwJWMAE7oNp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpLmpwJWMAE7oNp.jpg",
+					"url": "https://t.co/Q26OrJWyGK",
+					"display_url": "pic.twitter.com/Q26OrJWyGK",
+					"expanded_url": "https://twitter.com/fromminn/status/1338385645207687170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n태연, 새 미니앨범 수록곡 ‘Galaxy’, 미니멀한 알앤비 발라드 곡!\nhttps://t.co/0QOEVuUQAg\n#태연 #TAEYEON https://t.co/Q26OrJWyGK"
+	},
+	{
+		"created_at": "Mon Dec 14 07:27:57 +0000 2020",
+		"id": 1338383023062970400,
+		"id_str": "1338385219963990017",
+		"full_text": "2020 RELAY BRAND SALE ✨\n\n릴레이 브랜드 세일 4차가 오픈 되었습니다!\n매주 달라지는 특별한 할인과 더 특별한 균일가 상품을 한정 기간동안 만나보세요.\n\n✔4th WEEK 기간 : 12. 14(MON) ~ 12. 22(TUE)\n🔸CELEB : TVXQ!, SHINee, Red Velvet\n🔸BRAND : &amp;STORE\n\nhttps://t.co/a885Icd3dU https://t.co/K4MpZgCbAI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a885Icd3dU",
+					"expanded_url": "https://bit.ly/3m32lJn",
+					"display_url": "bit.ly/3m32lJn",
+					"indices": [
+						193,
+						216
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1338383015026720800,
+					"id_str": "1338383015026720769",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/EpLkQtgVgAE_yJU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpLkQtgVgAE_yJU.jpg",
+					"url": "https://t.co/K4MpZgCbAI",
+					"display_url": "pic.twitter.com/K4MpZgCbAI",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1338383023062970368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1050,
+							"h": 1050,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1050,
+							"h": 1050,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338383015026720800,
+					"id_str": "1338383015026720769",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/EpLkQtgVgAE_yJU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpLkQtgVgAE_yJU.jpg",
+					"url": "https://t.co/K4MpZgCbAI",
+					"display_url": "pic.twitter.com/K4MpZgCbAI",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1338383023062970368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1050,
+							"h": 1050,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1050,
+							"h": 1050,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 96007,
+			"friends_count": 0,
+			"listed_count": 168,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1020,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 144,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2020 RELAY BRAND SALE ✨\n\n릴레이 브랜드 세일 4차가 오픈 되었습니다!\n매주 달라지는 특별한 할인과 더 특별한 균일가 상품을 한정 기간동안 만나보세요.\n\n✔4th WEEK 기간 : 12. 14(MON) ~ 12. 22(TUE)\n🔸CELEB : TVXQ!, SHINee, Red Velvet\n🔸BRAND : &amp;STORE\n\nhttps://t.co/a885Icd3dU https://t.co/K4MpZgCbAI"
+	},
+	{
 		"created_at": "Mon Dec 14 06:45:36 +0000 2020",
 		"id": 1338365625240981500,
 		"id_str": "1338374565995667457",
