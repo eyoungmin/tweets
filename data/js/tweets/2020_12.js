@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 14 22:02:06 +0000 2020",
+		"id": 1338551832843575300,
+		"id_str": "1338605206980923392",
+		"full_text": "In case you missed it, or want to relive all the incredible moments, tune in to our 2020 iHeartRadio Jingle Ball special tonight at 8pm ET/PT on @TheCW! ❤️🎄 #iHeartOnCW https://t.co/4r8PIarOAN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "iHeartOnCW",
+					"indices": [
+						157,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheCW",
+					"name": "The CW",
+					"id": 22083910,
+					"id_str": "22083910",
+					"indices": [
+						145,
+						151
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1338545616574689300,
+					"id_str": "1338545616574689280",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EpN4JXeXMAAXm_8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpN4JXeXMAAXm_8.jpg",
+					"url": "https://t.co/4r8PIarOAN",
+					"display_url": "pic.twitter.com/4r8PIarOAN",
+					"expanded_url": "https://twitter.com/iHeartRadio/status/1338551832843575298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338545616574689300,
+					"id_str": "1338545616574689280",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EpN4JXeXMAAXm_8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpN4JXeXMAAXm_8.jpg",
+					"url": "https://t.co/4r8PIarOAN",
+					"display_url": "pic.twitter.com/4r8PIarOAN",
+					"expanded_url": "https://twitter.com/iHeartRadio/status/1338551832843575298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46116615,
+			"id_str": "46116615",
+			"name": "iHeartRadio",
+			"screen_name": "iHeartRadio",
+			"location": "United States",
+			"description": "Your Music, Your Stations and Podcasts too. All Free.",
+			"url": "https://t.co/id6i82tLiU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/id6i82tLiU",
+							"expanded_url": "http://iheartradio.com",
+							"display_url": "iheartradio.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1735434,
+			"friends_count": 71245,
+			"listed_count": 4686,
+			"created_at": "Wed Jun 10 13:56:14 +0000 2009",
+			"favourites_count": 26910,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 138957,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1333431716174835715/cpnyr-_T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1333431716174835715/cpnyr-_T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46116615/1607662321",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "787878",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2844,
+		"favorite_count": 37390,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In case you missed it, or want to relive all the incredible moments, tune in to our 2020 iHeartRadio Jingle Ball special tonight at 8pm ET/PT on @TheCW! ❤️🎄 #iHeartOnCW https://t.co/4r8PIarOAN"
+	},
+	{
 		"created_at": "Mon Dec 14 20:12:48 +0000 2020",
 		"id": 1338577702023028700,
 		"id_str": "1338577702023028737",
