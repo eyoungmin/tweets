@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 14 17:02:06 +0000 2020",
+		"id": 1338529325776191500,
+		"id_str": "1338529710033276935",
+		"full_text": "“Billie Eilish: The World’s A Little Blurry”\nThe documentary film\nTrailer out tomorrow at 9am PT \n@appletv https://t.co/Uo6KSKMMrj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleTV",
+					"name": "Apple TV",
+					"id": 82652901,
+					"id_str": "82652901",
+					"indices": [
+						98,
+						106
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1338526217582997500,
+					"id_str": "1338526217582997504",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EpNmgMmU8AATWcO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpNmgMmU8AATWcO.jpg",
+					"url": "https://t.co/Uo6KSKMMrj",
+					"display_url": "pic.twitter.com/Uo6KSKMMrj",
+					"expanded_url": "https://twitter.com/billieeilish/status/1338529325776191498/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338526217582997500,
+					"id_str": "1338526217582997504",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EpNmgMmU8AATWcO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpNmgMmU8AATWcO.jpg",
+					"url": "https://t.co/Uo6KSKMMrj",
+					"display_url": "pic.twitter.com/Uo6KSKMMrj",
+					"expanded_url": "https://twitter.com/billieeilish/status/1338529325776191498/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? https://t.co/jPS2qPEVbA | “Therefore I Am” https://t.co/E5ubhVL7x3",
+			"url": "https://t.co/oRhmwrN1J1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRhmwrN1J1",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPS2qPEVbA",
+							"expanded_url": "https://smarturl.it/BILLIEALBUM",
+							"display_url": "smarturl.it/BILLIEALBUM",
+							"indices": [
+								41,
+								64
+							]
+						},
+						{
+							"url": "https://t.co/E5ubhVL7x3",
+							"expanded_url": "https://smarturl.it/ThereforeIAm",
+							"display_url": "smarturl.it/ThereforeIAm",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5255885,
+			"friends_count": 0,
+			"listed_count": 3191,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326956252845371394/4UYImnxl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326956252845371394/4UYImnxl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1605204422",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 683,
+		"favorite_count": 4519,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Billie Eilish: The World’s A Little Blurry”\nThe documentary film\nTrailer out tomorrow at 9am PT \n@appletv https://t.co/Uo6KSKMMrj"
+	},
+	{
 		"created_at": "Mon Dec 14 15:02:21 +0000 2020",
 		"id": 1338499486415515600,
 		"id_str": "1338499574625935360",
