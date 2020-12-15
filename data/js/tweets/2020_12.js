@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 15 05:02:06 +0000 2020",
+		"id": 1338698424472891400,
+		"id_str": "1338710903177568256",
+		"full_text": "[NOTICE] 'tellusboutyourself' 음반 판매 • ‘tellusboutyourself’ Physical Album ▶️ https://t.co/SkjfEbFJRo\n\n#백예린 #tellusboutyourself\n#yerinbaek #백예린정규2집 https://t.co/Fw9j53NLKS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "tellusboutyourself",
+					"indices": [
+						107,
+						126
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						127,
+						137
+					]
+				},
+				{
+					"text": "백예린정규2집",
+					"indices": [
+						138,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SkjfEbFJRo",
+					"expanded_url": "http://instagram.com/p/CIze4kajgMI/?utm_source=ig_web_copy_link",
+					"display_url": "instagram.com/p/CIze4kajgMI/…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1338692791782633500,
+					"id_str": "1338692791782633472",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EpP-AF2UcAANGA4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpP-AF2UcAANGA4.jpg",
+					"url": "https://t.co/Fw9j53NLKS",
+					"display_url": "pic.twitter.com/Fw9j53NLKS",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1338698424472891392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338692791782633500,
+					"id_str": "1338692791782633472",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EpP-AF2UcAANGA4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpP-AF2UcAANGA4.jpg",
+					"url": "https://t.co/Fw9j53NLKS",
+					"display_url": "pic.twitter.com/Fw9j53NLKS",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1338698424472891392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1338692791782674400,
+					"id_str": "1338692791782674433",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EpP-AF2VEAE3hDu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpP-AF2VEAE3hDu.jpg",
+					"url": "https://t.co/Fw9j53NLKS",
+					"display_url": "pic.twitter.com/Fw9j53NLKS",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1338698424472891392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1338692791778472000,
+					"id_str": "1338692791778471941",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EpP-AF1U8AUAcXa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpP-AF1U8AUAcXa.jpg",
+					"url": "https://t.co/Fw9j53NLKS",
+					"display_url": "pic.twitter.com/Fw9j53NLKS",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1338698424472891392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1338692791866552300,
+					"id_str": "1338692791866552321",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EpP-AGKU8AElJhi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpP-AGKU8AElJhi.jpg",
+					"url": "https://t.co/Fw9j53NLKS",
+					"display_url": "pic.twitter.com/Fw9j53NLKS",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1338698424472891392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl contact@bluevinyl.kr",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22517,
+			"friends_count": 0,
+			"listed_count": 134,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1336970677748842497/UmAJjdzR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336970677748842497/UmAJjdzR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1606885286",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 445,
+		"favorite_count": 845,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[NOTICE] 'tellusboutyourself' 음반 판매 • ‘tellusboutyourself’ Physical Album ▶️ https://t.co/SkjfEbFJRo\n\n#백예린 #tellusboutyourself\n#yerinbaek #백예린정규2집 https://t.co/Fw9j53NLKS"
+	},
+	{
 		"created_at": "Tue Dec 15 03:29:39 +0000 2020",
 		"id": 1338677388683702300,
 		"id_str": "1338687637792681990",
