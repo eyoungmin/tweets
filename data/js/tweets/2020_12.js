@@ -1,6 +1,884 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 15 03:02:06 +0000 2020",
+		"id": 1338680180294955000,
+		"id_str": "1338680704218124288",
+		"full_text": "[이달의소녀탐구 #669]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/rieXk87WDT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀탐구",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "loonatv",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1338304177399709700,
+					"id_str": "1338304177399709696",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1338304177399709696/pu/img/FrqwmU9fSrDlt0u5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1338304177399709696/pu/img/FrqwmU9fSrDlt0u5.jpg",
+					"url": "https://t.co/rieXk87WDT",
+					"display_url": "pic.twitter.com/rieXk87WDT",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1338680180294955012/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338304177399709700,
+					"id_str": "1338304177399709696",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1338304177399709696/pu/img/FrqwmU9fSrDlt0u5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1338304177399709696/pu/img/FrqwmU9fSrDlt0u5.jpg",
+					"url": "https://t.co/rieXk87WDT",
+					"display_url": "pic.twitter.com/rieXk87WDT",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1338680180294955012/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60561,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1338304177399709696/pu/vid/640x360/wlE0DmCECgUZgXr9.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1338304177399709696/pu/pl/WnI71joQSTEGSpVp.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1338304177399709696/pu/vid/1280x720/U80SfS6d-En6LkZx.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1338304177399709696/pu/vid/480x270/AqnYTxeMtW0X0BGh.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 595150,
+			"friends_count": 0,
+			"listed_count": 6086,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 642,
+		"favorite_count": 2224,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀탐구 #669]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA https://t.co/rieXk87WDT"
+	},
+	{
+		"created_at": "Tue Dec 15 03:01:02 +0000 2020",
+		"id": 1338680439658193000,
+		"id_str": "1338680439658192901",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Dec 15) https://t.co/pk0YoV1wyd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pk0YoV1wyd",
+					"expanded_url": "https://nzzl.us/11FZbLd",
+					"display_url": "nzzl.us/11FZbLd",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다. #minfav",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1025,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Dec 15) https://t.co/pk0YoV1wyd"
+	},
+	{
+		"created_at": "Tue Dec 15 02:45:37 +0000 2020",
+		"id": 1338673551818121200,
+		"id_str": "1338676558383419393",
+		"full_text": "★D-13★ 2020 K-CHAMP AWARDS\n\n올해의 내친방 베프돌은? 👀\nALL THE K-POP 유튜브 구독하고 확인‼️\n\n👉🏻Online Awards Live\n12/28(Mon) PM 6:00 (KST)\n~ 12/30(Wed) PM 6:00 (KST)\n👉🏻ALL THE K-POP https://t.co/QQdYry757v\n\n#ALLTHEKPOP #2020_KCHAMP_AWARDS\n#TXT #KANGDANIEL #ITZY #LOONA #G_I_DLE https://t.co/wykd9qHL0y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALLTHEKPOP",
+					"indices": [
+						187,
+						198
+					]
+				},
+				{
+					"text": "2020_KCHAMP_AWARDS",
+					"indices": [
+						199,
+						218
+					]
+				},
+				{
+					"text": "TXT",
+					"indices": [
+						219,
+						223
+					]
+				},
+				{
+					"text": "KANGDANIEL",
+					"indices": [
+						224,
+						235
+					]
+				},
+				{
+					"text": "ITZY",
+					"indices": [
+						236,
+						241
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						242,
+						248
+					]
+				},
+				{
+					"text": "G_I_DLE",
+					"indices": [
+						249,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QQdYry757v",
+					"expanded_url": "http://bit.ly/34D6sCe",
+					"display_url": "bit.ly/34D6sCe",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1338673460214517800,
+					"id_str": "1338673460214517761",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EpPsa2JUUAERnbC.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EpPsa2JUUAERnbC.jpg",
+					"url": "https://t.co/wykd9qHL0y",
+					"display_url": "pic.twitter.com/wykd9qHL0y",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1338673551818121216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338673460214517800,
+					"id_str": "1338673460214517761",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EpPsa2JUUAERnbC.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EpPsa2JUUAERnbC.jpg",
+					"url": "https://t.co/wykd9qHL0y",
+					"display_url": "pic.twitter.com/wykd9qHL0y",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1338673551818121216/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EpPsa2JUUAERnbC.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/YpjchEd2rf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YpjchEd2rf",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66241,
+			"friends_count": 2007,
+			"listed_count": 259,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "★D-13★ 2020 K-CHAMP AWARDS\n\n올해의 내친방 베프돌은? 👀\nALL THE K-POP 유튜브 구독하고 확인‼️\n\n👉🏻Online Awards Live\n12/28(Mon) PM 6:00 (KST)\n~ 12/30(Wed) PM 6:00 (KST)\n👉🏻ALL THE K-POP https://t.co/QQdYry757v\n\n#ALLTHEKPOP #2020_KCHAMP_AWARDS\n#TXT #KANGDANIEL #ITZY #LOONA #G_I_DLE https://t.co/wykd9qHL0y"
+	},
+	{
+		"created_at": "Tue Dec 15 02:29:39 +0000 2020",
+		"id": 1338671810934526000,
+		"id_str": "1338672539166535680",
+		"full_text": "#오늘의발매_bk🎵\n💿2020.DECEMBER.15 - Today's Release\n@epitoneproject - 불면증 (Vocal by @younhaholic)\n태연TAEYEON - Mini Album [What Do I Call You]\n\n#에피톤프로젝트 #윤하 #불면증 \n#EpitoneProject #YOUNHA\n#TAEYEON #태연 #What_Do_I_Call_You @GirlsGeneration https://t.co/sgpLvdgXWl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오늘의발매_bk",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "에피톤프로젝트",
+					"indices": [
+						138,
+						146
+					]
+				},
+				{
+					"text": "윤하",
+					"indices": [
+						147,
+						150
+					]
+				},
+				{
+					"text": "불면증",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "EpitoneProject",
+					"indices": [
+						157,
+						172
+					]
+				},
+				{
+					"text": "YOUNHA",
+					"indices": [
+						173,
+						180
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						181,
+						189
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						190,
+						193
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						194,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "epitoneproject",
+					"name": "에피톤 프로젝트",
+					"id": 112908182,
+					"id_str": "112908182",
+					"indices": [
+						47,
+						62
+					]
+				},
+				{
+					"screen_name": "younhaholic",
+					"name": "YOUNHA",
+					"id": 62755629,
+					"id_str": "62755629",
+					"indices": [
+						79,
+						91
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						214,
+						230
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1338670224858497000,
+					"id_str": "1338670224858497025",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/EpPpehgVQAEri4P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpPpehgVQAEri4P.jpg",
+					"url": "https://t.co/sgpLvdgXWl",
+					"display_url": "pic.twitter.com/sgpLvdgXWl",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1338671810934525953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 918,
+							"h": 518,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 918,
+							"h": 518,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338670224858497000,
+					"id_str": "1338670224858497025",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/EpPpehgVQAEri4P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpPpehgVQAEri4P.jpg",
+					"url": "https://t.co/sgpLvdgXWl",
+					"display_url": "pic.twitter.com/sgpLvdgXWl",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1338671810934525953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 918,
+							"h": 518,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 918,
+							"h": 518,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "빌보드 코리아 Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. \n팔로우를 통해 더 많은 KPOP 소식을 받아보세요! \nFollow us to get more KPOP news, chart and events!\n#빌보드코리아 #BillboardKorea",
+			"url": "https://t.co/CLFhjiCU9P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CLFhjiCU9P",
+							"expanded_url": "http://billboard.co.kr",
+							"display_url": "billboard.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51214,
+			"friends_count": 31,
+			"listed_count": 92,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1604568753",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#오늘의발매_bk🎵\n💿2020.DECEMBER.15 - Today's Release\n@epitoneproject - 불면증 (Vocal by @younhaholic)\n태연TAEYEON - Mini Album [What Do I Call You]\n\n#에피톤프로젝트 #윤하 #불면증 \n#EpitoneProject #YOUNHA\n#TAEYEON #태연 #What_Do_I_Call_You @GirlsGeneration https://t.co/sgpLvdgXWl"
+	},
+	{
 		"created_at": "Tue Dec 15 00:58:19 +0000 2020",
 		"id": 1338649553562689500,
 		"id_str": "1338649553562689536",
