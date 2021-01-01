@@ -1,6 +1,671 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 01 14:53:09 +0000 2021",
+		"id": 1345020243287146500,
+		"id_str": "1345020243287146496",
+		"full_text": "최정윤 (Choi Jung Yoon) - Dance with me baby [Teaser]\nhttps://t.co/0aC3bPw4tO\n#최정윤 #JungyoonChoi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최정윤",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "JungyoonChoi",
+					"indices": [
+						80,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0aC3bPw4tO",
+					"expanded_url": "https://youtu.be/0XrVWWmPRCE",
+					"display_url": "youtu.be/0XrVWWmPRCE",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1028,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44475,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "최정윤 (Choi Jung Yoon) - Dance with me baby [Teaser]\nhttps://t.co/0aC3bPw4tO\n#최정윤 #JungyoonChoi"
+	},
+	{
+		"created_at": "Fri Jan 01 14:31:36 +0000 2021",
+		"id": 1344954895657435100,
+		"id_str": "1345014819913494528",
+		"full_text": "#SMTOWN_LIVE \"Culture Humanity\" Concert @SMTOWNGLOBAL with #KANGTA #TVXQ! #SUPERJUNIOR #GirlsGeneration #TAEYEON #SHINee #TAEMIN #EXO #BAEKHYUN #KAI #RedVelvet #NCT #NCTU #NCT127 #NCTDREAM #WayV #SuperM #aespa #Raiden #GINJO #IMLAY\nhttps://t.co/DfEBMG1lxz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "KANGTA",
+					"indices": [
+						59,
+						66
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						74,
+						86
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						87,
+						103
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						104,
+						112
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						113,
+						120
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "BAEKHYUN",
+					"indices": [
+						134,
+						143
+					]
+				},
+				{
+					"text": "KAI",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						149,
+						159
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "NCTU",
+					"indices": [
+						165,
+						170
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						171,
+						178
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						179,
+						188
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						189,
+						194
+					]
+				},
+				{
+					"text": "SuperM",
+					"indices": [
+						195,
+						202
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						203,
+						209
+					]
+				},
+				{
+					"text": "Raiden",
+					"indices": [
+						210,
+						217
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						218,
+						224
+					]
+				},
+				{
+					"text": "IMLAY",
+					"indices": [
+						225,
+						231
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SMTOWNGLOBAL",
+					"name": "SMTOWN",
+					"id": 884378714,
+					"id_str": "884378714",
+					"indices": [
+						40,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DfEBMG1lxz",
+					"expanded_url": "https://www.pscp.tv/w/cr2OIjQ4ODU4MzN8MU1uR25sV3pwcVZ4T4LLL1J_EWm7opoorCsc10QoOy_hFo_tBIn2cg0Hwdfk?t=11m35s",
+					"display_url": "pscp.tv/w/cr2OIjQ4ODU4…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1344855552963141600,
+		"in_reply_to_status_id_str": "1344855552963141633",
+		"in_reply_to_user_id": 216531294,
+		"in_reply_to_user_id_str": "216531294",
+		"in_reply_to_screen_name": "TwitterKorea",
+		"user": {
+			"id": 216531294,
+			"id_str": "216531294",
+			"name": "Twitter Korea",
+			"screen_name": "TwitterKorea",
+			"location": "대한민국",
+			"description": "트위터 코리아의 공식 계정입니다. 트위터 서비스 관련 문의는 https://t.co/jTMg7YsLw5 을, 광고 관련 문의는 @TwitterMktgKR 계정을 이용해 주세요.",
+			"url": "https://t.co/SvWUEpsmUj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SvWUEpsmUj",
+							"expanded_url": "https://blog.twitter.com/korea",
+							"display_url": "blog.twitter.com/korea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jTMg7YsLw5",
+							"expanded_url": "https://support.twitter.com",
+							"display_url": "support.twitter.com",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1247939,
+			"friends_count": 312,
+			"listed_count": 1992,
+			"created_at": "Tue Nov 16 23:59:11 +0000 2010",
+			"favourites_count": 3446,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311075559582044160/56qq5tAH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311075559582044160/56qq5tAH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/216531294/1601419747",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 193,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SMTOWN_LIVE \"Culture Humanity\" Concert @SMTOWNGLOBAL with #KANGTA #TVXQ! #SUPERJUNIOR #GirlsGeneration #TAEYEON #SHINee #TAEMIN #EXO #BAEKHYUN #KAI #RedVelvet #NCT #NCTU #NCT127 #NCTDREAM #WayV #SuperM #aespa #Raiden #GINJO #IMLAY\nhttps://t.co/DfEBMG1lxz"
+	},
+	{
+		"created_at": "Fri Jan 01 14:02:08 +0000 2021",
+		"id": 1344994360522227700,
+		"id_str": "1345007401511120896",
+		"full_text": "Happy Birthday WINTER &amp; Happy New Year MY!\n\n#aespa #æspa #에스파\n#HappyWINTERDay https://t.co/YVUwiWNkQx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "HappyWINTERDay",
+					"indices": [
+						66,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1344994351466696700,
+					"id_str": "1344994351466696704",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EqphPJAUUAAqucz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqphPJAUUAAqucz.jpg",
+					"url": "https://t.co/YVUwiWNkQx",
+					"display_url": "pic.twitter.com/YVUwiWNkQx",
+					"expanded_url": "https://twitter.com/aespa_official/status/1344994360522227718/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344994351466696700,
+					"id_str": "1344994351466696704",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EqphPJAUUAAqucz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqphPJAUUAAqucz.jpg",
+					"url": "https://t.co/YVUwiWNkQx",
+					"display_url": "pic.twitter.com/YVUwiWNkQx",
+					"expanded_url": "https://twitter.com/aespa_official/status/1344994360522227718/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1344994351479312400,
+					"id_str": "1344994351479312384",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EqphPJDU0AAoXM1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqphPJDU0AAoXM1.jpg",
+					"url": "https://t.co/YVUwiWNkQx",
+					"display_url": "pic.twitter.com/YVUwiWNkQx",
+					"expanded_url": "https://twitter.com/aespa_official/status/1344994360522227718/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 566,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 998,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1704,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1344994351466758100,
+					"id_str": "1344994351466758144",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EqphPJAVQAAGxfx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqphPJAVQAAGxfx.jpg",
+					"url": "https://t.co/YVUwiWNkQx",
+					"display_url": "pic.twitter.com/YVUwiWNkQx",
+					"expanded_url": "https://twitter.com/aespa_official/status/1344994360522227718/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 650049,
+			"friends_count": 1,
+			"listed_count": 2117,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16979,
+		"favorite_count": 48197,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy Birthday WINTER &amp; Happy New Year MY!\n\n#aespa #æspa #에스파\n#HappyWINTERDay https://t.co/YVUwiWNkQx"
+	},
+	{
 		"created_at": "Fri Jan 01 13:48:41 +0000 2021",
 		"id": 1345004015923261400,
 		"id_str": "1345004015923261442",
