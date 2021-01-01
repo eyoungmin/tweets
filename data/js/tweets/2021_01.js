@@ -1,6 +1,470 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 01 13:48:41 +0000 2021",
+		"id": 1345004015923261400,
+		"id_str": "1345004015923261442",
+		"full_text": "나는 이 부분을 서비스 제공자가 분명 개선할 수 있다고 생각하는데 그냥 두는 것이라 본다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1345003610443137000,
+		"in_reply_to_status_id_str": "1345003610443137024",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1028,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44475,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "나는 이 부분을 서비스 제공자가 분명 개선할 수 있다고 생각하는데 그냥 두는 것이라 본다."
+	},
+	{
+		"created_at": "Fri Jan 01 13:47:04 +0000 2021",
+		"id": 1345003610443137000,
+		"id_str": "1345003610443137024",
+		"full_text": "크라우드 펀딩에는 꼭 소비자가 불만사항을 남기면 여기가 오픈마켓인줄 아냐는 우매한 소비자 취급하는 인간들이 있다. 본인이 만족했다고 다른이들도 그래야하고. 그 중에는 가짜, 친인척 지인 계정도 꽤 있다는 사실.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1028,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44475,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "크라우드 펀딩에는 꼭 소비자가 불만사항을 남기면 여기가 오픈마켓인줄 아냐는 우매한 소비자 취급하는 인간들이 있다. 본인이 만족했다고 다른이들도 그래야하고. 그 중에는 가짜, 친인척 지인 계정도 꽤 있다는 사실."
+	},
+	{
+		"created_at": "Fri Jan 01 13:27:57 +0000 2021",
+		"id": 1344994533403054000,
+		"id_str": "1344998798377054209",
+		"full_text": "Thank you for enjoying  \nSMTOWN LIVE \"Culture Humanity\" with us! \n#RedVelvet🎞\n\n#SMTOWN_LIVE_Culture_Humanity\n#IRENE #SEULGI #WENDY #JOY #YERI\n#SMTOWN_LIVE #SMTOWN https://t.co/XRLGtuaPyf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						66,
+						76
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE_Culture_Humanity",
+					"indices": [
+						79,
+						108
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						116,
+						123
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						142,
+						154
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						155,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1344992161956208600,
+					"id_str": "1344992161956208641",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EqpfPscVoAEQ2OD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqpfPscVoAEQ2OD.jpg",
+					"url": "https://t.co/XRLGtuaPyf",
+					"display_url": "pic.twitter.com/XRLGtuaPyf",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1344994533403054080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 597,
+							"h": 1791,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 227,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344992161956208600,
+					"id_str": "1344992161956208641",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EqpfPscVoAEQ2OD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqpfPscVoAEQ2OD.jpg",
+					"url": "https://t.co/XRLGtuaPyf",
+					"display_url": "pic.twitter.com/XRLGtuaPyf",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1344994533403054080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 597,
+							"h": 1791,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 227,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1344992162006458400,
+					"id_str": "1344992162006458368",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EqpfPsoUYAA3VET.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqpfPsoUYAA3VET.jpg",
+					"url": "https://t.co/XRLGtuaPyf",
+					"display_url": "pic.twitter.com/XRLGtuaPyf",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1344994533403054080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 227,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 401,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 601,
+							"h": 1799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8894884,
+			"friends_count": 53,
+			"listed_count": 8699,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14084,
+		"favorite_count": 31742,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you for enjoying  \nSMTOWN LIVE \"Culture Humanity\" with us! \n#RedVelvet🎞\n\n#SMTOWN_LIVE_Culture_Humanity\n#IRENE #SEULGI #WENDY #JOY #YERI\n#SMTOWN_LIVE #SMTOWN https://t.co/XRLGtuaPyf"
+	},
+	{
 		"created_at": "Fri Jan 01 12:54:37 +0000 2021",
 		"id": 1344990410725322800,
 		"id_str": "1344990410725322752",
