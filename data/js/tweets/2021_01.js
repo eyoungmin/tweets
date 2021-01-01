@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 01 06:00:58 +0000 2021",
+		"id": 1344656630877540400,
+		"id_str": "1344886314039005189",
+		"full_text": "제가 백업한 모든 플래시게임을 배포합니다. 아이부라보, 비비빅, 한게임플래시 등 유명게임들 능력되는대로 전부 구제했구요... 여기 없는 게임의 경우\n1. 업로드가 된 곳이 없었음(비비빅 퍼가기게임류)\n2. 다수의 플래시파일이 이어붙여져서 백업이 어려움(한게임플래시)\n3. 내기억으로 노잼이었음 https://t.co/gX95MAGAVO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1344656626079342600,
+					"id_str": "1344656626079342594",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EqkuE75VoAIhcu7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqkuE75VoAIhcu7.jpg",
+					"url": "https://t.co/gX95MAGAVO",
+					"display_url": "pic.twitter.com/gX95MAGAVO",
+					"expanded_url": "https://twitter.com/lovelumi_s2/status/1344656630877540356/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344656626079342600,
+					"id_str": "1344656626079342594",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EqkuE75VoAIhcu7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqkuE75VoAIhcu7.jpg",
+					"url": "https://t.co/gX95MAGAVO",
+					"display_url": "pic.twitter.com/gX95MAGAVO",
+					"expanded_url": "https://twitter.com/lovelumi_s2/status/1344656630877540356/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 736809304389357600,
+			"id_str": "736809304389357568",
+			"name": "헝거게임프로게이머",
+			"screen_name": "lovelumi_s2",
+			"location": "꼬우면 블락해",
+			"description": "뼈치킨을 알고계세요? 순살치킨보다 좋아요 씹다가 뱉다가 살뺄수있어요 너무예쁜 뼈치킨을 회사에서 사주겠죠? 안사준다그러면 안먹고말어요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103,
+			"friends_count": 437,
+			"listed_count": 1,
+			"created_at": "Sun May 29 06:40:02 +0000 2016",
+			"favourites_count": 4939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326146289625571328/YRl6-S_q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326146289625571328/YRl6-S_q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/736809304389357568/1583348624",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6814,
+		"favorite_count": 4101,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제가 백업한 모든 플래시게임을 배포합니다. 아이부라보, 비비빅, 한게임플래시 등 유명게임들 능력되는대로 전부 구제했구요... 여기 없는 게임의 경우\n1. 업로드가 된 곳이 없었음(비비빅 퍼가기게임류)\n2. 다수의 플래시파일이 이어붙여져서 백업이 어려움(한게임플래시)\n3. 내기억으로 노잼이었음 https://t.co/gX95MAGAVO"
+	},
+	{
+		"created_at": "Fri Jan 01 05:53:27 +0000 2021",
+		"id": 1344657222442258400,
+		"id_str": "1344884422500179968",
+		"full_text": "https://t.co/Dt0hTLXkk9\n다운은 여기\n\n이거 외에도 해외 국내 많은분들이 1년간 열심히 방주를 만들어주셨구요 게임용 대체 플래시실행기도 많이 나온상태입니다 많관부\n\n플래시게임\n슈게임\n한게임\n아이부라보\n어도비 플래시",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dt0hTLXkk9",
+					"expanded_url": "https://drive.google.com/file/d/1TNA8aM0iZxZxv2st1fMyq74vu--I5aSy/view?usp=drivesdk",
+					"display_url": "drive.google.com/file/d/1TNA8aM…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1344656630877540400,
+		"in_reply_to_status_id_str": "1344656630877540356",
+		"in_reply_to_user_id": 736809304389357600,
+		"in_reply_to_user_id_str": "736809304389357568",
+		"in_reply_to_screen_name": "lovelumi_s2",
+		"user": {
+			"id": 736809304389357600,
+			"id_str": "736809304389357568",
+			"name": "헝거게임프로게이머",
+			"screen_name": "lovelumi_s2",
+			"location": "꼬우면 블락해",
+			"description": "뼈치킨을 알고계세요? 순살치킨보다 좋아요 씹다가 뱉다가 살뺄수있어요 너무예쁜 뼈치킨을 회사에서 사주겠죠? 안사준다그러면 안먹고말어요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103,
+			"friends_count": 437,
+			"listed_count": 1,
+			"created_at": "Sun May 29 06:40:02 +0000 2016",
+			"favourites_count": 4939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326146289625571328/YRl6-S_q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326146289625571328/YRl6-S_q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/736809304389357568/1583348624",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1539,
+		"favorite_count": 988,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/Dt0hTLXkk9\n다운은 여기\n\n이거 외에도 해외 국내 많은분들이 1년간 열심히 방주를 만들어주셨구요 게임용 대체 플래시실행기도 많이 나온상태입니다 많관부\n\n플래시게임\n슈게임\n한게임\n아이부라보\n어도비 플래시"
+	},
+	{
+		"created_at": "Fri Jan 01 05:03:18 +0000 2021",
+		"id": 1344871800908488700,
+		"id_str": "1344871800908488706",
+		"full_text": "Dua Lipa performs “Levitating” | Hello 2021: Americas\nhttps://t.co/2fyz3MzMfO\n#DuaLipa #두아리파",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DuaLipa",
+					"indices": [
+						78,
+						86
+					]
+				},
+				{
+					"text": "두아리파",
+					"indices": [
+						87,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2fyz3MzMfO",
+					"expanded_url": "https://youtu.be/v6buf3K5KoE",
+					"display_url": "youtu.be/v6buf3K5KoE",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303,
+			"friends_count": 1028,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "Dua Lipa performs “Levitating” | Hello 2021: Americas\nhttps://t.co/2fyz3MzMfO\n#DuaLipa #두아리파"
+	},
+	{
 		"created_at": "Fri Jan 01 04:29:58 +0000 2021",
 		"id": 1344862996107993000,
 		"id_str": "1344863410207518721",
