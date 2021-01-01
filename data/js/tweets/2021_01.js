@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 01 11:58:31 +0000 2021",
+		"id": 1344961461647409200,
+		"id_str": "1344976294572818432",
+		"full_text": "미밴드 5 NFC 버전에 도어락 스마트키 등록하기  https://t.co/gnPmPtoA9Y (서울비블로그) #lk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lk",
+					"indices": [
+						62,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gnPmPtoA9Y",
+					"expanded_url": "http://seoulrain.net/2021/01/01/miband5-nfc-doorlock/",
+					"display_url": "seoulrain.net/2021/01/01/mib…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14941102,
+			"id_str": "14941102",
+			"name": "서울비",
+			"screen_name": "seoulrain",
+			"location": "Seoul, South Korea",
+			"description": "개인취향 자료수집 계정입니다. 텔레그램 채널로 수시발행: https://t.co/nLevlm8cEH",
+			"url": "https://t.co/CmzdLuGwGe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CmzdLuGwGe",
+							"expanded_url": "http://seoulrain.net",
+							"display_url": "seoulrain.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nLevlm8cEH",
+							"expanded_url": "http://t.me/ththlink",
+							"display_url": "t.me/ththlink",
+							"indices": [
+								32,
+								55
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4138,
+			"friends_count": 3953,
+			"listed_count": 169,
+			"created_at": "Thu May 29 04:50:30 +0000 2008",
+			"favourites_count": 28081,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ECCE74",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/745020971975860224/ZR9BJxCb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/745020971975860224/ZR9BJxCb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14941102/1469005647",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미밴드 5 NFC 버전에 도어락 스마트키 등록하기  https://t.co/gnPmPtoA9Y (서울비블로그) #lk"
+	},
+	{
+		"created_at": "Fri Jan 01 11:58:08 +0000 2021",
+		"id": 1344968878112161800,
+		"id_str": "1344976196732239872",
+		"full_text": "억만장자 만들기 https://t.co/N94AIKzBG1 \nY Combinator 의 창립자인 폴 그레미엄이 쓴 글, '억만장자 만들기' 입니다. \n\n인상깊게 읽어 내용을 요약해서 번역해봤습니다. 그리 영어 실력이 부족해서 번역 퀄리티가 좋지 않은 점은 양해 부탁드립니다. ;ㅁ ;- 글을 두개 쓰려고 했는데. \n    -...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N94AIKzBG1",
+					"expanded_url": "https://j.mp/352GrPX",
+					"display_url": "j.mp/352GrPX",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4602,
+			"friends_count": 0,
+			"listed_count": 75,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "억만장자 만들기 https://t.co/N94AIKzBG1 \nY Combinator 의 창립자인 폴 그레미엄이 쓴 글, '억만장자 만들기' 입니다. \n\n인상깊게 읽어 내용을 요약해서 번역해봤습니다. 그리 영어 실력이 부족해서 번역 퀄리티가 좋지 않은 점은 양해 부탁드립니다. ;ㅁ ;- 글을 두개 쓰려고 했는데. \n    -..."
+	},
+	{
 		"created_at": "Fri Jan 01 10:46:14 +0000 2021",
 		"id": 1344956533050785800,
 		"id_str": "1344958104224604162",
