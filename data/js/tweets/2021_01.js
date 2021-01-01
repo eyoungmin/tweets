@@ -1,6 +1,1899 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 01 07:01:24 +0000 2021",
+		"id": 1344901522916720600,
+		"id_str": "1344901522916720640",
+		"full_text": "킹태연 넘이쁘쟈나.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303,
+			"friends_count": 1028,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "킹태연 넘이쁘쟈나."
+	},
+	{
+		"created_at": "Fri Jan 01 06:40:14 +0000 2021",
+		"id": 1344493038161318000,
+		"id_str": "1344896195068526595",
+		"full_text": "\"스트리밍전쟁은 잊어라. 올해 스트리밍 서비스들은 다같이 동반성장했고, 그중 원톱은 넷플릭스다\"라는 WSJ기사 https://t.co/JGHdFrdXOi 코로나로 식당, 극장도 못가고 스포츠경기도 못보게 된 미국인들이 스트리밍으로 몰린 한 해. 미국 가구는 평균 3.1개의 스트리밍 서비스 가입. https://t.co/xfIYvbTCIE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JGHdFrdXOi",
+					"expanded_url": "https://www.wsj.com/articles/forget-the-streaming-warspandemic-stricken-2020-lifted-netflix-and-others-11609338780?mod=hp_lead_pos4",
+					"display_url": "wsj.com/articles/forge…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1344493029487300600,
+					"id_str": "1344493029487300609",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EqiZSXGUUAEFipS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqiZSXGUUAEFipS.jpg",
+					"url": "https://t.co/xfIYvbTCIE",
+					"display_url": "pic.twitter.com/xfIYvbTCIE",
+					"expanded_url": "https://twitter.com/estima7/status/1344493038161317889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1460,
+							"h": 1032,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344493029487300600,
+					"id_str": "1344493029487300609",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EqiZSXGUUAEFipS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqiZSXGUUAEFipS.jpg",
+					"url": "https://t.co/xfIYvbTCIE",
+					"display_url": "pic.twitter.com/xfIYvbTCIE",
+					"expanded_url": "https://twitter.com/estima7/status/1344493038161317889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1460,
+							"h": 1032,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 366240,
+			"friends_count": 2259,
+			"listed_count": 4422,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 75719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"스트리밍전쟁은 잊어라. 올해 스트리밍 서비스들은 다같이 동반성장했고, 그중 원톱은 넷플릭스다\"라는 WSJ기사 https://t.co/JGHdFrdXOi 코로나로 식당, 극장도 못가고 스포츠경기도 못보게 된 미국인들이 스트리밍으로 몰린 한 해. 미국 가구는 평균 3.1개의 스트리밍 서비스 가입. https://t.co/xfIYvbTCIE"
+	},
+	{
+		"created_at": "Fri Jan 01 06:35:11 +0000 2021",
+		"id": 1344536067966341000,
+		"id_str": "1344894922126544897",
+		"full_text": "이영도 판타지 ‘눈물을 마시는 새’ 오디오북 최초 매출 1억원 돌파 https://t.co/thCOKeWF3A 네이버의 오디오북 플랫폼에서 출시한지 3개월만에 매출 1억원 돌파. 종이책 출시한지 17년 지나서도 신기록, 드래곤라자도 오디오북 제작 예정. 출판 불황속에서도 오디오북은 계속 성장중. https://t.co/aaSlKEooRJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/thCOKeWF3A",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LPOD&mid=sec&oid=023&aid=0003586864",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1344536063159672800,
+					"id_str": "1344536063159672834",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EqjAbQBVoAIZ1pq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqjAbQBVoAIZ1pq.jpg",
+					"url": "https://t.co/aaSlKEooRJ",
+					"display_url": "pic.twitter.com/aaSlKEooRJ",
+					"expanded_url": "https://twitter.com/estima7/status/1344536067966341120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 647,
+							"h": 299,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 647,
+							"h": 299,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 647,
+							"h": 299,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344536063159672800,
+					"id_str": "1344536063159672834",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EqjAbQBVoAIZ1pq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqjAbQBVoAIZ1pq.jpg",
+					"url": "https://t.co/aaSlKEooRJ",
+					"display_url": "pic.twitter.com/aaSlKEooRJ",
+					"expanded_url": "https://twitter.com/estima7/status/1344536067966341120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 647,
+							"h": 299,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 647,
+							"h": 299,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 647,
+							"h": 299,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 366240,
+			"friends_count": 2259,
+			"listed_count": 4422,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 75719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이영도 판타지 ‘눈물을 마시는 새’ 오디오북 최초 매출 1억원 돌파 https://t.co/thCOKeWF3A 네이버의 오디오북 플랫폼에서 출시한지 3개월만에 매출 1억원 돌파. 종이책 출시한지 17년 지나서도 신기록, 드래곤라자도 오디오북 제작 예정. 출판 불황속에서도 오디오북은 계속 성장중. https://t.co/aaSlKEooRJ"
+	},
+	{
+		"created_at": "Fri Jan 01 06:33:01 +0000 2021",
+		"id": 1344780382068035600,
+		"id_str": "1344894379685625857",
+		"full_text": "Adobe, 약속했던 대로 오늘 Flash Player 지원을 공식적으로 종료 https://t.co/4wZPQoYDZh \n2020/12/31 Flash Player의 지원이 중단됨에 따라 2021/01/12부터 Flash Player를 통해 실행되는 Flash 콘텐츠 또한 차단될 예정입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4wZPQoYDZh",
+					"expanded_url": "https://j.mp/2MnA2se",
+					"display_url": "j.mp/2MnA2se",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4599,
+			"friends_count": 0,
+			"listed_count": 75,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Adobe, 약속했던 대로 오늘 Flash Player 지원을 공식적으로 종료 https://t.co/4wZPQoYDZh \n2020/12/31 Flash Player의 지원이 중단됨에 따라 2021/01/12부터 Flash Player를 통해 실행되는 Flash 콘텐츠 또한 차단될 예정입니다."
+	},
+	{
+		"created_at": "Fri Jan 01 06:21:02 +0000 2021",
+		"id": 1344886076884844500,
+		"id_str": "1344891362139807745",
+		"full_text": "공정하고 객관적인 최고 권위의 대중음악시상식\n■ 제35회 #골든디스크어워즈 with 큐라프록스\n디지털 음원 부문, 음반 부문, 신인상 후보🏆\n\n▶️2021년 1월 9일(토) - 1월 10일(일) 오후 3시 50분\n▶️JTBC, JTBC2, JTBC4 동시생중계 https://t.co/cfSpjoJo98",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "골든디스크어워즈",
+					"indices": [
+						32,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1344484995151192000,
+					"id_str": "1344484995151192064",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EqiVSeKUYAAWkhx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqiVSeKUYAAWkhx.jpg",
+					"url": "https://t.co/cfSpjoJo98",
+					"display_url": "pic.twitter.com/cfSpjoJo98",
+					"expanded_url": "https://twitter.com/jtbclove/status/1344886076884844546/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344484995151192000,
+					"id_str": "1344484995151192064",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EqiVSeKUYAAWkhx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqiVSeKUYAAWkhx.jpg",
+					"url": "https://t.co/cfSpjoJo98",
+					"display_url": "pic.twitter.com/cfSpjoJo98",
+					"expanded_url": "https://twitter.com/jtbclove/status/1344886076884844546/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 42042,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1344484995151192064/vid/640x360/mLhOZhigZJaiutb5.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1344484995151192064/vid/1280x720/dw2_CxOy-qeLfqrz.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1344484995151192064/vid/480x270/CpzFM6dkIdW2fzPk.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1344484995151192064/pl/qhoNVqawIMzUMqLB.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[제35회 골든디스크] 후보자 종합🏆 디지털 음원 부문, 음반 부문, 신인상",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://tv.naver.com/v/17563107"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 438082,
+			"friends_count": 110,
+			"listed_count": 654,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1607565168",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 56,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "공정하고 객관적인 최고 권위의 대중음악시상식\n■ 제35회 #골든디스크어워즈 with 큐라프록스\n디지털 음원 부문, 음반 부문, 신인상 후보🏆\n\n▶️2021년 1월 9일(토) - 1월 10일(일) 오후 3시 50분\n▶️JTBC, JTBC2, JTBC4 동시생중계 https://t.co/cfSpjoJo98"
+	},
+	{
+		"created_at": "Fri Jan 01 06:19:25 +0000 2021",
+		"id": 1344659618484478000,
+		"id_str": "1344890955049025537",
+		"full_text": "[📽] (여자)아이들((G)I-DLE) - '화(火花)' Typography Motion Teaser\n\n#여자아이들 #GIDLE\n#I_burn\n\n▶️ https://t.co/ybnnAcF9lx https://t.co/cbodnZ3FIM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						58,
+						64
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "I_burn",
+					"indices": [
+						72,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ybnnAcF9lx",
+					"expanded_url": "https://youtu.be/-RLp1yiTPh0",
+					"display_url": "youtu.be/-RLp1yiTPh0",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1344657557126844400,
+					"id_str": "1344657557126844416",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EqkvlubVkAIGof5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqkvlubVkAIGof5.jpg",
+					"url": "https://t.co/cbodnZ3FIM",
+					"display_url": "pic.twitter.com/cbodnZ3FIM",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1344659618484477959/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344657557126844400,
+					"id_str": "1344657557126844416",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EqkvlubVkAIGof5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqkvlubVkAIGof5.jpg",
+					"url": "https://t.co/cbodnZ3FIM",
+					"display_url": "pic.twitter.com/cbodnZ3FIM",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1344659618484477959/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 10978,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1344657557126844416/pl/pTNeTzKs193GXpRK.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1344657557126844416/vid/640x360/2y7j41HHUC6ar7er.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1344657557126844416/vid/1280x720/tiER-_X_3O883e2Z.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1344657557126844416/vid/480x270/Q-L4ml67oh1wr3AE.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[📽] (여자)아이들((G)I-DLE) - '화(火花)' Typography Motion Teaser",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/-RLp1yiTPh0"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/wJhVLqpGQb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wJhVLqpGQb",
+							"expanded_url": "https://united-cube.com/",
+							"display_url": "united-cube.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1045386,
+			"friends_count": 37,
+			"listed_count": 3289,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1596606115",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5787,
+		"favorite_count": 15491,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📽] (여자)아이들((G)I-DLE) - '화(火花)' Typography Motion Teaser\n\n#여자아이들 #GIDLE\n#I_burn\n\n▶️ https://t.co/ybnnAcF9lx https://t.co/cbodnZ3FIM"
+	},
+	{
+		"created_at": "Fri Jan 01 06:18:32 +0000 2021",
+		"id": 1344297202932334600,
+		"id_str": "1344890733770076160",
+		"full_text": "(G)I-DLE 4th Mini Album\n[I burn] Track List 🥀\n\n2021.01.11 18:00 (KST) \n\n#여자아이들 #GIDLE #I_burn\n#한(寒) #화(花火) #MOON\n#Whereislove #LOST #DAHLIA https://t.co/b3lunP8cuV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						72,
+						78
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "I_burn",
+					"indices": [
+						86,
+						93
+					]
+				},
+				{
+					"text": "한",
+					"indices": [
+						94,
+						96
+					]
+				},
+				{
+					"text": "화",
+					"indices": [
+						100,
+						102
+					]
+				},
+				{
+					"text": "MOON",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "Whereislove",
+					"indices": [
+						113,
+						125
+					]
+				},
+				{
+					"text": "LOST",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "DAHLIA",
+					"indices": [
+						132,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1344297195290255400,
+					"id_str": "1344297195290255362",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EqfnLT3UYAIDu6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqfnLT3UYAIDu6J.jpg",
+					"url": "https://t.co/b3lunP8cuV",
+					"display_url": "pic.twitter.com/b3lunP8cuV",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1344297202932334592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1654,
+							"h": 1654,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344297195290255400,
+					"id_str": "1344297195290255362",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EqfnLT3UYAIDu6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqfnLT3UYAIDu6J.jpg",
+					"url": "https://t.co/b3lunP8cuV",
+					"display_url": "pic.twitter.com/b3lunP8cuV",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1344297202932334592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1654,
+							"h": 1654,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/wJhVLqpGQb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wJhVLqpGQb",
+							"expanded_url": "https://united-cube.com/",
+							"display_url": "united-cube.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1045386,
+			"friends_count": 37,
+			"listed_count": 3289,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1596606115",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13863,
+		"favorite_count": 39922,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "(G)I-DLE 4th Mini Album\n[I burn] Track List 🥀\n\n2021.01.11 18:00 (KST) \n\n#여자아이들 #GIDLE #I_burn\n#한(寒) #화(花火) #MOON\n#Whereislove #LOST #DAHLIA https://t.co/b3lunP8cuV"
+	},
+	{
+		"created_at": "Fri Jan 01 06:18:16 +0000 2021",
+		"id": 1343934809278718000,
+		"id_str": "1344890667554668544",
+		"full_text": "(G)I-DLE 4th Mini Album\n[I burn] Scheduler 🥀\n\n2021.01.11 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_burn https://t.co/bmwKbcghBj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "I_burn",
+					"indices": [
+						85,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1343806685232517000,
+					"id_str": "1343806685232517120",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EqYpD3gUUAAK_Cr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqYpD3gUUAAK_Cr.jpg",
+					"url": "https://t.co/bmwKbcghBj",
+					"display_url": "pic.twitter.com/bmwKbcghBj",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1343934809278717952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1100,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 499,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343806685232517000,
+					"id_str": "1343806685232517120",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EqYpD3gUUAAK_Cr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqYpD3gUUAAK_Cr.jpg",
+					"url": "https://t.co/bmwKbcghBj",
+					"display_url": "pic.twitter.com/bmwKbcghBj",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1343934809278717952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1100,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 499,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/wJhVLqpGQb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wJhVLqpGQb",
+							"expanded_url": "https://united-cube.com/",
+							"display_url": "united-cube.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1045386,
+			"friends_count": 37,
+			"listed_count": 3289,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1596606115",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11040,
+		"favorite_count": 36365,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "(G)I-DLE 4th Mini Album\n[I burn] Scheduler 🥀\n\n2021.01.11 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_burn https://t.co/bmwKbcghBj"
+	},
+	{
+		"created_at": "Fri Jan 01 06:17:40 +0000 2021",
+		"id": 1343572415448662000,
+		"id_str": "1344890516559679488",
+		"full_text": "(G)I-DLE 4th Mini Album\n[I burn] 🥀\n\n2021.01.11 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_burn https://t.co/ziQngxuqIn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "I_burn",
+					"indices": [
+						75,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1343481547865800700,
+					"id_str": "1343481547865800705",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EqUBWYbVQAEokHo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqUBWYbVQAEokHo.jpg",
+					"url": "https://t.co/ziQngxuqIn",
+					"display_url": "pic.twitter.com/ziQngxuqIn",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1343572415448662017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343481547865800700,
+					"id_str": "1343481547865800705",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EqUBWYbVQAEokHo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqUBWYbVQAEokHo.jpg",
+					"url": "https://t.co/ziQngxuqIn",
+					"display_url": "pic.twitter.com/ziQngxuqIn",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1343572415448662017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/wJhVLqpGQb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wJhVLqpGQb",
+							"expanded_url": "https://united-cube.com/",
+							"display_url": "united-cube.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1045386,
+			"friends_count": 37,
+			"listed_count": 3289,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1596606115",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20102,
+		"favorite_count": 58054,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "pl",
+		"text": "(G)I-DLE 4th Mini Album\n[I burn] 🥀\n\n2021.01.11 18:00 (KST) \n\n#여자아이들 #GIDLE\n#I_burn https://t.co/ziQngxuqIn"
+	},
+	{
+		"created_at": "Fri Jan 01 06:14:40 +0000 2021",
+		"id": 1344889759349485600,
+		"id_str": "1344889759349485569",
+		"full_text": "#놀라운토요일 #도레미마켓\n[선공개] 조남지대가 놀토에 온 목적은? \"태연씨 거마비도 드릴게요..\"#놀라운토요일-도레미마켓 | amazingsaturday EP.141\nhttps://t.co/EjcHNqY9Ww\n#태연 #탱구 #TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "도레미마켓",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						55,
+						62
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "탱구",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						126,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EjcHNqY9Ww",
+					"expanded_url": "https://www.youtube.com/watch?v=8O0XMAi3z8s",
+					"display_url": "youtube.com/watch?v=8O0XMA…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303,
+			"friends_count": 1028,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#놀라운토요일 #도레미마켓\n[선공개] 조남지대가 놀토에 온 목적은? \"태연씨 거마비도 드릴게요..\"#놀라운토요일-도레미마켓 | amazingsaturday EP.141\nhttps://t.co/EjcHNqY9Ww\n#태연 #탱구 #TAEYEON"
+	},
+	{
+		"created_at": "Fri Jan 01 06:14:02 +0000 2021",
+		"id": 1344614708813287400,
+		"id_str": "1344889603610722306",
+		"full_text": "차별 편견 퇴치 교육이 효과 낮은 이유: 단기 개입은 사람 못 바꾼다; 속으로 편견 더 강화; 전시 효과가 노력 대체; 사고 교정은 반발 심리 유발. 개인 심리/태도보다 구조/관행 문제. 정보/지식만으론 행동 잘 안 변해. 서로 다른 사람들과 다양하게 어울리는 환경 조성 중요https://t.co/iJxO182zO6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iJxO182zO6",
+					"expanded_url": "https://www.nytimes.com/2020/12/31/opinion/social-change-bias-training.html",
+					"display_url": "nytimes.com/2020/12/31/opi…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101605,
+			"friends_count": 2385,
+			"listed_count": 316,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16345,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 305,
+		"favorite_count": 276,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "차별 편견 퇴치 교육이 효과 낮은 이유: 단기 개입은 사람 못 바꾼다; 속으로 편견 더 강화; 전시 효과가 노력 대체; 사고 교정은 반발 심리 유발. 개인 심리/태도보다 구조/관행 문제. 정보/지식만으론 행동 잘 안 변해. 서로 다른 사람들과 다양하게 어울리는 환경 조성 중요https://t.co/iJxO182zO6"
+	},
+	{
 		"created_at": "Fri Jan 01 06:00:58 +0000 2021",
 		"id": 1344656630877540400,
 		"id_str": "1344886314039005189",
