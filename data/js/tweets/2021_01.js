@@ -1,6 +1,359 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 03 21:01:21 +0000 2021",
+		"id": 1345837678777032700,
+		"id_str": "1345837678777032705",
+		"full_text": "#뉴닉 #NEWNEEK\n🦔언제 마스크 벗을 수 있어?\nhttps://t.co/Jc1O8ujLV4\n#미디어 #뉴스레터 #Newsletter",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뉴닉",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "NEWNEEK",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "미디어",
+					"indices": [
+						54,
+						58
+					]
+				},
+				{
+					"text": "뉴스레터",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						65,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Jc1O8ujLV4",
+					"expanded_url": "https://notifier.in/item/cd94dtt3hvzvydnzoos1525jx1hgjkv6/2354404.html",
+					"display_url": "notifier.in/item/cd94dtt3h…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1027,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#뉴닉 #NEWNEEK\n🦔언제 마스크 벗을 수 있어?\nhttps://t.co/Jc1O8ujLV4\n#미디어 #뉴스레터 #Newsletter"
+	},
+	{
+		"created_at": "Sun Jan 03 20:34:59 +0000 2021",
+		"id": 1345750865504653300,
+		"id_str": "1345831040548360193",
+		"full_text": "[𝗗-𝟮] 𝘀𝗶𝗻𝗴𝗹𝗲 '??' 𝗠/𝗩 𝘁𝗲𝗮𝘀𝗲𝗿.𝟮 \n\n제목을 상상해주세요  맞추려고 하지 말고 그냥 여러분만의 제목을 느껴봐주세요..! 제가 붙인 제목은 발매 전날, 1/4 에 저의 공식 유튜브 채널에서 진행될 Streaming Day 에 full M/V 선공개로 확인해주세요✨ https://t.co/KPhZpGnk4D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1345750822068469800,
+					"id_str": "1345750822068469761",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1345750822068469761/pu/img/grp1NQk9ZJNIeOUj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1345750822068469761/pu/img/grp1NQk9ZJNIeOUj.jpg",
+					"url": "https://t.co/KPhZpGnk4D",
+					"display_url": "pic.twitter.com/KPhZpGnk4D",
+					"expanded_url": "https://twitter.com/sunwooJeongA/status/1345750865504653313/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1345750822068469800,
+					"id_str": "1345750822068469761",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1345750822068469761/pu/img/grp1NQk9ZJNIeOUj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1345750822068469761/pu/img/grp1NQk9ZJNIeOUj.jpg",
+					"url": "https://t.co/KPhZpGnk4D",
+					"display_url": "pic.twitter.com/KPhZpGnk4D",
+					"expanded_url": "https://twitter.com/sunwooJeongA/status/1345750865504653313/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26193,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1345750822068469761/pu/vid/640x360/bev26wm-RxKwGPxE.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1345750822068469761/pu/vid/480x270/ZD9DB6E9BJb0gALP.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1345750822068469761/pu/pl/-_L3ov-13MZr_0FX.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1345750822068469761/pu/vid/1280x720/msTH4KnohLD5iJvU.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 253607159,
+			"id_str": "253607159",
+			"name": "선우정아 / sunwoojunga",
+			"screen_name": "sunwooJeongA",
+			"location": "",
+			"description": "YouTube▶️ https://t.co/7z1T7o8aPc instagram🖼 https://t.co/uIIyhcT5yZ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7z1T7o8aPc",
+							"expanded_url": "http://www.youtube.com/c/Sunwoojunga",
+							"display_url": "youtube.com/c/Sunwoojunga",
+							"indices": [
+								10,
+								33
+							]
+						},
+						{
+							"url": "https://t.co/uIIyhcT5yZ",
+							"expanded_url": "https://www.instagram.com/sunwoojunga_official/",
+							"display_url": "instagram.com/sunwoojunga_of…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 14571,
+			"friends_count": 123,
+			"listed_count": 57,
+			"created_at": "Thu Feb 17 16:00:36 +0000 2011",
+			"favourites_count": 728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/582626662967197696/zSyXdBON_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/582626662967197696/zSyXdBON_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/253607159/1591663015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[𝗗-𝟮] 𝘀𝗶𝗻𝗴𝗹𝗲 '??' 𝗠/𝗩 𝘁𝗲𝗮𝘀𝗲𝗿.𝟮 \n\n제목을 상상해주세요  맞추려고 하지 말고 그냥 여러분만의 제목을 느껴봐주세요..! 제가 붙인 제목은 발매 전날, 1/4 에 저의 공식 유튜브 채널에서 진행될 Streaming Day 에 full M/V 선공개로 확인해주세요✨ https://t.co/KPhZpGnk4D"
+	},
+	{
 		"created_at": "Sun Jan 03 13:02:05 +0000 2021",
 		"id": 1345713056853069800,
 		"id_str": "1345717068172316672",
