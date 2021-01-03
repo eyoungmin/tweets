@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 03 12:03:48 +0000 2021",
+		"id": 1345698067664629800,
+		"id_str": "1345702399365718019",
+		"full_text": "새해 성취감 위한 취미 활동 위해:\n수익이나 칭찬 같은 보상 말고 그 자체로 즐거운 것 찾아서 하라\n특별한 때나 여건 기대 말고 하루 중 시간 정해 놓고 하라\n무료 온라인 강좌를 듣는 것도 방법\n몰입 방해하는 기기는 꺼 두라\n첫날 실적에 일희일비하지 말고 꾸준히 이어가라https://t.co/bu8g3WVV9s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bu8g3WVV9s",
+					"expanded_url": "https://www.theguardian.com/lifeandstyle/2021/jan/02/finding-time-for-creativity-will-give-you-respite-from-worries",
+					"display_url": "theguardian.com/lifeandstyle/2…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101691,
+			"friends_count": 2384,
+			"listed_count": 317,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 141,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "새해 성취감 위한 취미 활동 위해:\n수익이나 칭찬 같은 보상 말고 그 자체로 즐거운 것 찾아서 하라\n특별한 때나 여건 기대 말고 하루 중 시간 정해 놓고 하라\n무료 온라인 강좌를 듣는 것도 방법\n몰입 방해하는 기기는 꺼 두라\n첫날 실적에 일희일비하지 말고 꾸준히 이어가라https://t.co/bu8g3WVV9s"
+	},
+	{
 		"created_at": "Sun Jan 03 11:59:57 +0000 2021",
 		"id": 1345701429156036600,
 		"id_str": "1345701429156036611",
