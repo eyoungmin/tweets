@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 03 10:11:15 +0000 2021",
+		"id": 1345673651832512500,
+		"id_str": "1345674074001793024",
+		"full_text": "엉덩이는 두개다! 왼쪽과 오른쪽이 있으니! 빨대도 구멍이 두개다! 한쪽만 있으면 빨대가 아니니!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2347170860,
+			"id_str": "2347170860",
+			"name": "Miyayeah",
+			"screen_name": "miyaohyeah",
+			"location": "",
+			"description": "SUNMI",
+			"url": "https://t.co/I7h917DQPU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I7h917DQPU",
+							"expanded_url": "https://youtu.be/Is7glC9Jp7Q",
+							"display_url": "youtu.be/Is7glC9Jp7Q",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 513814,
+			"friends_count": 79,
+			"listed_count": 1692,
+			"created_at": "Sun Feb 16 17:17:54 +0000 2014",
+			"favourites_count": 1649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277983707437993985/-8ED-kIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277983707437993985/-8ED-kIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2347170860/1555513044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 226,
+		"favorite_count": 2167,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "엉덩이는 두개다! 왼쪽과 오른쪽이 있으니! 빨대도 구멍이 두개다! 한쪽만 있으면 빨대가 아니니!"
+	},
+	{
 		"created_at": "Sun Jan 03 09:48:08 +0000 2021",
 		"id": 1345622167279390700,
 		"id_str": "1345668258460962816",
