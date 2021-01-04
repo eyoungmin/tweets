@@ -1,6 +1,535 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 04 16:59:46 +0000 2021",
+		"id": 1346138174125432800,
+		"id_str": "1346139268108832768",
+		"full_text": "Notion is currently experiencing an outage. We are investigating and will share further updates by 9:30 AM PST.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1136389047138508800,
+			"id_str": "1136389047138508801",
+			"name": "Notion Status",
+			"screen_name": "NotionStatus",
+			"location": "San Francisco, CA",
+			"description": "Updates on the status of Notion. Official status page at https://t.co/DhGmNNITIn. Our tweets at @NotionHQ are more fun.",
+			"url": "https://t.co/QLXvpGSa1o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QLXvpGSa1o",
+							"expanded_url": "http://notion.so",
+							"display_url": "notion.so",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DhGmNNITIn",
+							"expanded_url": "https://status.notion.so",
+							"display_url": "status.notion.so",
+							"indices": [
+								57,
+								80
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2824,
+			"friends_count": 0,
+			"listed_count": 36,
+			"created_at": "Wed Jun 05 21:47:16 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136390042778198016/Gp-XxtAY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136390042778198016/Gp-XxtAY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1136389047138508801/1559776904",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Notion is currently experiencing an outage. We are investigating and will share further updates by 9:30 AM PST."
+	},
+	{
+		"created_at": "Mon Jan 04 16:51:21 +0000 2021",
+		"id": 1346137151524638700,
+		"id_str": "1346137151524638720",
+		"full_text": "EO에서 전부 기획한 것인가 아니면 약간의 회사의 가이드가 있었던 건가 모르겠다만 영상에 빨려들어가 순식간에 봤다. 바이럴과 고객관리 이슈관리에 능통한 회사가 글로벌 회사를 만들기까지의 과정을 담은 영상.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1346136324122660900,
+		"in_reply_to_status_id_str": "1346136324122660865",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1028,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44484,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "EO에서 전부 기획한 것인가 아니면 약간의 회사의 가이드가 있었던 건가 모르겠다만 영상에 빨려들어가 순식간에 봤다. 바이럴과 고객관리 이슈관리에 능통한 회사가 글로벌 회사를 만들기까지의 과정을 담은 영상."
+	},
+	{
+		"created_at": "Mon Jan 04 16:48:04 +0000 2021",
+		"id": 1346136324122660900,
+		"id_str": "1346136324122660865",
+		"full_text": "영상 퀄리티 왜 이렇게 높아졌지... 영상 몰입감 장난 아니다....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1346102743799312400,
+		"in_reply_to_status_id_str": "1346102743799312385",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1028,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44484,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "영상 퀄리티 왜 이렇게 높아졌지... 영상 몰입감 장난 아니다...."
+	},
+	{
+		"created_at": "Mon Jan 04 16:47:33 +0000 2021",
+		"id": 1346110031847047200,
+		"id_str": "1346136194124431360",
+		"full_text": "many of you know ive done my own makeup for a long time. i believe makeup is about feeling cool, not looking perfect. “about-face” is available for preorder now ✨ https://t.co/0Psz9jTdCO -- @aboutfacebeauty https://t.co/wsdqWK2BEW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aboutfacebeauty",
+					"name": "Natalie J Sperling",
+					"id": 1340386716994084900,
+					"id_str": "1340386716994084864",
+					"indices": [
+						190,
+						206
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0Psz9jTdCO",
+					"expanded_url": "http://aboutface.com",
+					"display_url": "aboutface.com",
+					"indices": [
+						163,
+						186
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1346106759539134500,
+					"id_str": "1346106759539134466",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq5XUOVUUAAJdEC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq5XUOVUUAAJdEC.jpg",
+					"url": "https://t.co/wsdqWK2BEW",
+					"display_url": "pic.twitter.com/wsdqWK2BEW",
+					"expanded_url": "https://twitter.com/halsey/status/1346110031847047168/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1346106759539134500,
+					"id_str": "1346106759539134466",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq5XUOVUUAAJdEC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq5XUOVUUAAJdEC.jpg",
+					"url": "https://t.co/wsdqWK2BEW",
+					"display_url": "pic.twitter.com/wsdqWK2BEW",
+					"expanded_url": "https://twitter.com/halsey/status/1346110031847047168/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1346106759539134466/vid/640x360/rhkTQFvBEMSweXwa.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1346106759539134466/vid/480x270/zzNAwZ7z5t_4xF-N.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1346106759539134466/vid/1280x720/N-UfT8jdzFgwzGr9.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1346106759539134466/pl/udJ8ECEh7fKu6vTf.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Introducing: ABOUT-FACE",
+						"description": "Introducing: ABOUT-FACE. A Multi-dimensional makeup for everyone, everywhere created by Ashley Frangipane a.k.a. Halsey. @aboutfacebeauty",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://aboutface.com"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45709328,
+			"id_str": "45709328",
+			"name": "h",
+			"screen_name": "halsey",
+			"location": "she/her",
+			"description": "xo",
+			"url": "https://t.co/zGx6vwyaDT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zGx6vwyaDT",
+							"expanded_url": "http://aboutface.com",
+							"display_url": "aboutface.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13882044,
+			"friends_count": 3125,
+			"listed_count": 6466,
+			"created_at": "Mon Jun 08 23:58:35 +0000 2009",
+			"favourites_count": 5332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1346112034606235649/O0wcI4ds_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1346112034606235649/O0wcI4ds_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45709328/1609773094",
+			"profile_link_color": "41CFD9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2410,
+		"favorite_count": 15865,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "many of you know ive done my own makeup for a long time. i believe makeup is about feeling cool, not looking perfect. “about-face” is available for preorder now ✨ https://t.co/0Psz9jTdCO -- @aboutfacebeauty https://t.co/wsdqWK2BEW"
+	},
+	{
 		"created_at": "Mon Jan 04 15:54:19 +0000 2021",
 		"id": 1346122796607291400,
 		"id_str": "1346122796607291392",
