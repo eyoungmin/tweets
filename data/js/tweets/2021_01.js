@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 04 13:40:35 +0000 2021",
+		"id": 1346086967889383400,
+		"id_str": "1346089144666054656",
+		"full_text": "블로그를 시작했습니다 :)\n소소한 글들을 써보려고 해요\n아주 가끔 들러주세요 🍏\nhttps://t.co/QMqlm2f6nW\n\n#심규선 #루시아 #수필 #에세이 #심규선블로그 https://t.co/pj7lmUIfA8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "루시아",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "수필",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "에세이",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "심규선블로그",
+					"indices": [
+						89,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QMqlm2f6nW",
+					"expanded_url": "https://blog.naver.com/luciatune",
+					"display_url": "blog.naver.com/luciatune",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1346086965221892000,
+					"id_str": "1346086965221892096",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq5C9obVoAAwDFL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq5C9obVoAAwDFL.jpg",
+					"url": "https://t.co/pj7lmUIfA8",
+					"display_url": "pic.twitter.com/pj7lmUIfA8",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1346086967889383424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1346086965221892000,
+					"id_str": "1346086965221892096",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq5C9obVoAAwDFL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq5C9obVoAAwDFL.jpg",
+					"url": "https://t.co/pj7lmUIfA8",
+					"display_url": "pic.twitter.com/pj7lmUIfA8",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1346086967889383424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌙월령: 下 20.12.14 pm6시 공개",
+			"url": "https://t.co/NbMjxtK3cL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NbMjxtK3cL",
+							"expanded_url": "http://www.simgyuseon.com",
+							"display_url": "simgyuseon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10724,
+			"friends_count": 157,
+			"listed_count": 160,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 465,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330066919668523010/HbiHUZjb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330066919668523010/HbiHUZjb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1607423257",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블로그를 시작했습니다 :)\n소소한 글들을 써보려고 해요\n아주 가끔 들러주세요 🍏\nhttps://t.co/QMqlm2f6nW\n\n#심규선 #루시아 #수필 #에세이 #심규선블로그 https://t.co/pj7lmUIfA8"
+	},
+	{
 		"created_at": "Mon Jan 04 12:58:58 +0000 2021",
 		"id": 1345716545637425200,
 		"id_str": "1346078671807737857",
