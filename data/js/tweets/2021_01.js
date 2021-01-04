@@ -1,6 +1,1236 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 04 08:55:55 +0000 2021",
+		"id": 1346017504942936000,
+		"id_str": "1346017504942936065",
+		"full_text": "인스타그램 임베드 트위터 서드파티에서도 죽고 텔레그램에서는 멀티이미지 지원안된다. 한 장만 보여줌.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1027,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44487,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "인스타그램 임베드 트위터 서드파티에서도 죽고 텔레그램에서는 멀티이미지 지원안된다. 한 장만 보여줌."
+	},
+	{
+		"created_at": "Mon Jan 04 08:50:52 +0000 2021",
+		"id": 1346004197376868400,
+		"id_str": "1346016232756154369",
+		"full_text": "서비스 기획 뽀개기 [138p 슬라이드] https://t.co/OuzkKD0Bml \n- IT서비스 기획자 : IT서비스 기획자란?, 서비스 기획이란?\n- 상위기획 : 비즈니스 모델 캔버스, 플라이휠, 페르소나, 고객 여정 지도, MVP\n- 정책 : 왜 역사와 문화, 생태계를 고려해야 하는가?, 관련 법령을 모르면..\n- 스토리...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OuzkKD0Bml",
+					"expanded_url": "https://j.mp/3rYyLIz",
+					"display_url": "j.mp/3rYyLIz",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4627,
+			"friends_count": 0,
+			"listed_count": 75,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서비스 기획 뽀개기 [138p 슬라이드] https://t.co/OuzkKD0Bml \n- IT서비스 기획자 : IT서비스 기획자란?, 서비스 기획이란?\n- 상위기획 : 비즈니스 모델 캔버스, 플라이휠, 페르소나, 고객 여정 지도, MVP\n- 정책 : 왜 역사와 문화, 생태계를 고려해야 하는가?, 관련 법령을 모르면..\n- 스토리..."
+	},
+	{
+		"created_at": "Mon Jan 04 08:50:25 +0000 2021",
+		"id": 1345278851471954000,
+		"id_str": "1346016118389968896",
+		"full_text": "몽셀 4화 비하인드.ccm\n이정도 전기쯤은 아무것도 아니다몽\n눈나들을 향한 코몽이의 심장박ㄷ...\nhttps://t.co/sOIgsIrwJf https://t.co/5dK3vEuCr6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sOIgsIrwJf",
+					"expanded_url": "https://youtu.be/Zf2qbQeXQm8",
+					"display_url": "youtu.be/Zf2qbQeXQm8",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1345278843062349800,
+					"id_str": "1345278843062349824",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Eqtj-uyUcAA03GY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eqtj-uyUcAA03GY.jpg",
+					"url": "https://t.co/5dK3vEuCr6",
+					"display_url": "pic.twitter.com/5dK3vEuCr6",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1345278851471953920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1345278843062349800,
+					"id_str": "1345278843062349824",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Eqtj-uyUcAA03GY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eqtj-uyUcAA03GY.jpg",
+					"url": "https://t.co/5dK3vEuCr6",
+					"display_url": "pic.twitter.com/5dK3vEuCr6",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1345278851471953920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097461345677500400,
+			"id_str": "1097461345677500417",
+			"name": "코코몽",
+			"screen_name": "cocomong_kr",
+			"location": "냉장고나라 ",
+			"description": "코코몽(냉장코 코씨,12살)\n회사몰래하는 케이팝 덕질 계정🙈\n코몽이 언급하면 달려간다몽",
+			"url": "https://t.co/Iva8494tnf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Iva8494tnf",
+							"expanded_url": "https://www.instagram.com/cocomong.official",
+							"display_url": "instagram.com/cocomong.offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1789,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+			"favourites_count": 888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257178347957714945/o7LiNEE9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257178347957714945/o7LiNEE9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 119,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "몽셀 4화 비하인드.ccm\n이정도 전기쯤은 아무것도 아니다몽\n눈나들을 향한 코몽이의 심장박ㄷ...\nhttps://t.co/sOIgsIrwJf https://t.co/5dK3vEuCr6"
+	},
+	{
+		"created_at": "Mon Jan 04 08:50:21 +0000 2021",
+		"id": 1344933765705916400,
+		"id_str": "1346016104724930560",
+		"full_text": "포토카드 갖고시푼 칭구들!\n코몽이 잉스따에서 이벤트 하니까 마니마니 참여해달라몽! 재밌었던 부분 or 다음 오디션 볼 소속사 맞춰주면 참여 완료! \n고마오 칭구들아🙈💕\nhttps://t.co/vI2TnAaZ6T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vI2TnAaZ6T",
+					"expanded_url": "https://www.instagram.com/p/CJfyjnvl0Nm/?igshid=emlb86r15r1k",
+					"display_url": "instagram.com/p/CJfyjnvl0Nm/…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097461345677500400,
+			"id_str": "1097461345677500417",
+			"name": "코코몽",
+			"screen_name": "cocomong_kr",
+			"location": "냉장고나라 ",
+			"description": "코코몽(냉장코 코씨,12살)\n회사몰래하는 케이팝 덕질 계정🙈\n코몽이 언급하면 달려간다몽",
+			"url": "https://t.co/Iva8494tnf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Iva8494tnf",
+							"expanded_url": "https://www.instagram.com/cocomong.official",
+							"display_url": "instagram.com/cocomong.offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1789,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+			"favourites_count": 888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257178347957714945/o7LiNEE9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257178347957714945/o7LiNEE9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "포토카드 갖고시푼 칭구들!\n코몽이 잉스따에서 이벤트 하니까 마니마니 참여해달라몽! 재밌었던 부분 or 다음 오디션 볼 소속사 맞춰주면 참여 완료! \n고마오 칭구들아🙈💕\nhttps://t.co/vI2TnAaZ6T"
+	},
+	{
+		"created_at": "Mon Jan 04 08:50:18 +0000 2021",
+		"id": 1345641099965079600,
+		"id_str": "1346016091714113538",
+		"full_text": "눈나들의 응원으로 멋지게 첫번째 오디션이 끝났다몽! 코몽이 다음엔 어디로 오디션 보러 갈까?🤔\n댓글로 추천해주기다몽!🐵\nhttps://t.co/sOIgsIrwJf https://t.co/apJ3QMzPF1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sOIgsIrwJf",
+					"expanded_url": "https://youtu.be/Zf2qbQeXQm8",
+					"display_url": "youtu.be/Zf2qbQeXQm8",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1345641093522604000,
+					"id_str": "1345641093522604032",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/Eqytce6VQAA4i5Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eqytce6VQAA4i5Z.jpg",
+					"url": "https://t.co/apJ3QMzPF1",
+					"display_url": "pic.twitter.com/apJ3QMzPF1",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1345641099965079552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1345641093522604000,
+					"id_str": "1345641093522604032",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/Eqytce6VQAA4i5Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eqytce6VQAA4i5Z.jpg",
+					"url": "https://t.co/apJ3QMzPF1",
+					"display_url": "pic.twitter.com/apJ3QMzPF1",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1345641099965079552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097461345677500400,
+			"id_str": "1097461345677500417",
+			"name": "코코몽",
+			"screen_name": "cocomong_kr",
+			"location": "냉장고나라 ",
+			"description": "코코몽(냉장코 코씨,12살)\n회사몰래하는 케이팝 덕질 계정🙈\n코몽이 언급하면 달려간다몽",
+			"url": "https://t.co/Iva8494tnf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Iva8494tnf",
+							"expanded_url": "https://www.instagram.com/cocomong.official",
+							"display_url": "instagram.com/cocomong.offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1789,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+			"favourites_count": 888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257178347957714945/o7LiNEE9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257178347957714945/o7LiNEE9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 177,
+		"favorite_count": 823,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "눈나들의 응원으로 멋지게 첫번째 오디션이 끝났다몽! 코몽이 다음엔 어디로 오디션 보러 갈까?🤔\n댓글로 추천해주기다몽!🐵\nhttps://t.co/sOIgsIrwJf https://t.co/apJ3QMzPF1"
+	},
+	{
+		"created_at": "Mon Jan 04 08:39:09 +0000 2021",
+		"id": 1345946821097476000,
+		"id_str": "1346013285649272833",
+		"full_text": "2021년 달라지는 문화콘텐츠산업 정책을\n카드뉴스로 알아봅니다.(2/2)\n\n#2021년 #정책 #달라지는정책 #콘텐츠 #문화콘텐츠산업 #문화콘텐츠 #콘텐츠펀드 https://t.co/R1sWJDvSeC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2021년",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"text": "정책",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "달라지는정책",
+					"indices": [
+						53,
+						60
+					]
+				},
+				{
+					"text": "콘텐츠",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "문화콘텐츠산업",
+					"indices": [
+						66,
+						74
+					]
+				},
+				{
+					"text": "문화콘텐츠",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "콘텐츠펀드",
+					"indices": [
+						82,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1345946410038923300,
+					"id_str": "1345946410038923264",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq3DIPkVEAA4wFp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq3DIPkVEAA4wFp.jpg",
+					"url": "https://t.co/R1sWJDvSeC",
+					"display_url": "pic.twitter.com/R1sWJDvSeC",
+					"expanded_url": "https://twitter.com/mcstkorea/status/1345946821097476097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1345946410038923300,
+					"id_str": "1345946410038923264",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq3DIPkVEAA4wFp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq3DIPkVEAA4wFp.jpg",
+					"url": "https://t.co/R1sWJDvSeC",
+					"display_url": "pic.twitter.com/R1sWJDvSeC",
+					"expanded_url": "https://twitter.com/mcstkorea/status/1345946821097476097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1345946410147975200,
+					"id_str": "1345946410147975169",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq3DIP-VEAEZl0C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq3DIP-VEAEZl0C.jpg",
+					"url": "https://t.co/R1sWJDvSeC",
+					"display_url": "pic.twitter.com/R1sWJDvSeC",
+					"expanded_url": "https://twitter.com/mcstkorea/status/1345946821097476097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1345946410760376300,
+					"id_str": "1345946410760376320",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq3DISQVkAASRg8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq3DISQVkAASRg8.jpg",
+					"url": "https://t.co/R1sWJDvSeC",
+					"display_url": "pic.twitter.com/R1sWJDvSeC",
+					"expanded_url": "https://twitter.com/mcstkorea/status/1345946821097476097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1345946813543587800,
+		"in_reply_to_status_id_str": "1345946813543587840",
+		"in_reply_to_user_id": 141083064,
+		"in_reply_to_user_id_str": "141083064",
+		"in_reply_to_screen_name": "mcstkorea",
+		"user": {
+			"id": 141083064,
+			"id_str": "141083064",
+			"name": "문화체육관광부",
+			"screen_name": "mcstkorea",
+			"location": "Republic of Korea",
+			"description": "문화·체육·관광으로 행복한 대한민국",
+			"url": "http://t.co/mVy4NdMos2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/mVy4NdMos2",
+							"expanded_url": "http://www.mcst.go.kr",
+							"display_url": "mcst.go.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 137536,
+			"friends_count": 22347,
+			"listed_count": 988,
+			"created_at": "Fri May 07 04:19:09 +0000 2010",
+			"favourites_count": 2166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/884265284655226882/w8LPTguu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/884265284655226882/w8LPTguu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141083064/1608188479",
+			"profile_link_color": "4C4C4C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2021년 달라지는 문화콘텐츠산업 정책을\n카드뉴스로 알아봅니다.(2/2)\n\n#2021년 #정책 #달라지는정책 #콘텐츠 #문화콘텐츠산업 #문화콘텐츠 #콘텐츠펀드 https://t.co/R1sWJDvSeC"
+	},
+	{
+		"created_at": "Mon Jan 04 08:39:07 +0000 2021",
+		"id": 1345946813543587800,
+		"id_str": "1346013276354670594",
+		"full_text": "2021년 달라지는 문화콘텐츠산업 정책을\n카드뉴스로 알아봅니다.(1/2)\n\n#2021년 #정책 #달라지는정책 #콘텐츠 #문화콘텐츠산업 #문화콘텐츠 #콘텐츠펀드 https://t.co/y86yqCaCak",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2021년",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"text": "정책",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "달라지는정책",
+					"indices": [
+						53,
+						60
+					]
+				},
+				{
+					"text": "콘텐츠",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "문화콘텐츠산업",
+					"indices": [
+						66,
+						74
+					]
+				},
+				{
+					"text": "문화콘텐츠",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "콘텐츠펀드",
+					"indices": [
+						82,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1345946388870254600,
+					"id_str": "1345946388870254593",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq3DHAtU0AEY1O0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq3DHAtU0AEY1O0.jpg",
+					"url": "https://t.co/y86yqCaCak",
+					"display_url": "pic.twitter.com/y86yqCaCak",
+					"expanded_url": "https://twitter.com/mcstkorea/status/1345946813543587840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1345946388870254600,
+					"id_str": "1345946388870254593",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq3DHAtU0AEY1O0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq3DHAtU0AEY1O0.jpg",
+					"url": "https://t.co/y86yqCaCak",
+					"display_url": "pic.twitter.com/y86yqCaCak",
+					"expanded_url": "https://twitter.com/mcstkorea/status/1345946813543587840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1345946389327401000,
+					"id_str": "1345946389327400962",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq3DHCaUUAI6qDf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq3DHCaUUAI6qDf.jpg",
+					"url": "https://t.co/y86yqCaCak",
+					"display_url": "pic.twitter.com/y86yqCaCak",
+					"expanded_url": "https://twitter.com/mcstkorea/status/1345946813543587840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 141083064,
+			"id_str": "141083064",
+			"name": "문화체육관광부",
+			"screen_name": "mcstkorea",
+			"location": "Republic of Korea",
+			"description": "문화·체육·관광으로 행복한 대한민국",
+			"url": "http://t.co/mVy4NdMos2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/mVy4NdMos2",
+							"expanded_url": "http://www.mcst.go.kr",
+							"display_url": "mcst.go.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 137536,
+			"friends_count": 22347,
+			"listed_count": 988,
+			"created_at": "Fri May 07 04:19:09 +0000 2010",
+			"favourites_count": 2166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/884265284655226882/w8LPTguu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/884265284655226882/w8LPTguu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141083064/1608188479",
+			"profile_link_color": "4C4C4C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2021년 달라지는 문화콘텐츠산업 정책을\n카드뉴스로 알아봅니다.(1/2)\n\n#2021년 #정책 #달라지는정책 #콘텐츠 #문화콘텐츠산업 #문화콘텐츠 #콘텐츠펀드 https://t.co/y86yqCaCak"
+	},
+	{
 		"created_at": "Mon Jan 04 07:11:32 +0000 2021",
 		"id": 1345991236264611800,
 		"id_str": "1345991236264611840",
