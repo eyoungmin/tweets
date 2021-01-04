@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 04 12:58:58 +0000 2021",
+		"id": 1345716545637425200,
+		"id_str": "1346078671807737857",
+		"full_text": "“나이가 어리다고 보자마자 반말은 기본”(4년차, 분장팀), “‘지랄을 한다’ ‘이 파일 잘못되면 죽여버린다’ 등 말이 5년이 지난 아직까지도 깊이 남아있다”(예능 조연출), “40대인 남자 선배에게 오빠라고 하지 않으면 아는 척을 하지 않았다”(2년차, 연출부).\nhttps://t.co/xJ2q5NFcLk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xJ2q5NFcLk",
+					"expanded_url": "https://news.khan.kr/DNwX",
+					"display_url": "news.khan.kr/DNwX",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 721410,
+			"friends_count": 77056,
+			"listed_count": 5870,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 88855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 411,
+		"favorite_count": 136,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“나이가 어리다고 보자마자 반말은 기본”(4년차, 분장팀), “‘지랄을 한다’ ‘이 파일 잘못되면 죽여버린다’ 등 말이 5년이 지난 아직까지도 깊이 남아있다”(예능 조연출), “40대인 남자 선배에게 오빠라고 하지 않으면 아는 척을 하지 않았다”(2년차, 연출부).\nhttps://t.co/xJ2q5NFcLk"
+	},
+	{
+		"created_at": "Mon Jan 04 12:58:37 +0000 2021",
+		"id": 1345689964583944200,
+		"id_str": "1346078583131815937",
+		"full_text": "정인-이샛별-노선영-이소별 https://t.co/oylUIw5RVt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1345688627666272300,
+					"id_str": "1345688627666272256",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/EqzYrVZUwAA76Y0.png",
+					"media_url_https": "https://pbs.twimg.com/media/EqzYrVZUwAA76Y0.png",
+					"url": "https://t.co/oylUIw5RVt",
+					"display_url": "pic.twitter.com/oylUIw5RVt",
+					"expanded_url": "https://twitter.com/d8373b/status/1345689964583944192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 276,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 276,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 276,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1345688627666272300,
+					"id_str": "1345688627666272256",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/EqzYrVZUwAA76Y0.png",
+					"media_url_https": "https://pbs.twimg.com/media/EqzYrVZUwAA76Y0.png",
+					"url": "https://t.co/oylUIw5RVt",
+					"display_url": "pic.twitter.com/oylUIw5RVt",
+					"expanded_url": "https://twitter.com/d8373b/status/1345689964583944192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 276,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 276,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 276,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1345688839663231000,
+					"id_str": "1345688839663230976",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/EqzY3rJVoAASyfq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqzY3rJVoAASyfq.jpg",
+					"url": "https://t.co/oylUIw5RVt",
+					"display_url": "pic.twitter.com/oylUIw5RVt",
+					"expanded_url": "https://twitter.com/d8373b/status/1345689964583944192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 516,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 516,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1345689532016988200,
+					"id_str": "1345689532016988161",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/EqzZf-XVkAE0nZz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqzZf-XVkAE0nZz.jpg",
+					"url": "https://t.co/oylUIw5RVt",
+					"display_url": "pic.twitter.com/oylUIw5RVt",
+					"expanded_url": "https://twitter.com/d8373b/status/1345689964583944192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1345689811634458600,
+					"id_str": "1345689811634458625",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/EqzZwQBVkAEMjQP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqzZwQBVkAEMjQP.jpg",
+					"url": "https://t.co/oylUIw5RVt",
+					"display_url": "pic.twitter.com/oylUIw5RVt",
+					"expanded_url": "https://twitter.com/d8373b/status/1345689964583944192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1596,
+							"h": 908,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1345688557625593900,
+		"in_reply_to_status_id_str": "1345688557625593856",
+		"in_reply_to_user_id": 905377402229989400,
+		"in_reply_to_user_id_str": "905377402229989376",
+		"in_reply_to_screen_name": "d8373b",
+		"user": {
+			"id": 905377402229989400,
+			"id_str": "905377402229989376",
+			"name": "이방인🎗",
+			"screen_name": "d8373b",
+			"location": "🔇",
+			"description": "청각장애를 연성소재로 사용하실 청인분들은 블언블 부탁드립니다. 그러라고 만든 계정 아닙니다. 수어 교육 계정도 아닙니다. / I'm Deaf enough. / Likes, follows, and retweets do not imply endorsement. / 인장: 바삭님 제공",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3418,
+			"friends_count": 533,
+			"listed_count": 14,
+			"created_at": "Wed Sep 06 10:29:28 +0000 2017",
+			"favourites_count": 14449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344533510065848322/zRKrNjn5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344533510065848322/zRKrNjn5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/905377402229989376/1593442583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 134,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정인-이샛별-노선영-이소별 https://t.co/oylUIw5RVt"
+	},
+	{
 		"created_at": "Mon Jan 04 11:26:21 +0000 2021",
 		"id": 1346055363452395500,
 		"id_str": "1346055363452395524",
