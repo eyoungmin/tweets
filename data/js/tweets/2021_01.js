@@ -1,6 +1,733 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 04 18:49:56 +0000 2021",
+		"id": 1346166000773808000,
+		"id_str": "1346166995654328322",
+		"full_text": "실용음악, K-POP, 클래식, 국악, 록, EDM, 힙합, 뮤지컬, 재즈, 월드뮤직 등 장르 불문에 나이 / 국적 / 학벌 다 상관 없지만 여성은 안되는 자격조건 매우 규탄합니다. https://t.co/uX2auSDhu4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1346165993450524700,
+					"id_str": "1346165993450524673",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq6K1rhUUAEl8bw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq6K1rhUUAEl8bw.jpg",
+					"url": "https://t.co/uX2auSDhu4",
+					"display_url": "pic.twitter.com/uX2auSDhu4",
+					"expanded_url": "https://twitter.com/billy_carter_/status/1346166000773808128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1133,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1133,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 658,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1346165993450524700,
+					"id_str": "1346165993450524673",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq6K1rhUUAEl8bw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq6K1rhUUAEl8bw.jpg",
+					"url": "https://t.co/uX2auSDhu4",
+					"display_url": "pic.twitter.com/uX2auSDhu4",
+					"expanded_url": "https://twitter.com/billy_carter_/status/1346166000773808128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1133,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1133,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 658,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372242250,
+			"id_str": "372242250",
+			"name": "Billy Carter 빌리카터",
+			"screen_name": "billy_carter_",
+			"location": "",
+			"description": "Two singing guitaring dancing and jumping girls from Seoul - We're gonna fuck you with our music and you'll get pregnant!",
+			"url": "https://t.co/pY6LGLq0eW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pY6LGLq0eW",
+							"expanded_url": "http://www.facebook.com/blyctr",
+							"display_url": "facebook.com/blyctr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1024,
+			"friends_count": 720,
+			"listed_count": 17,
+			"created_at": "Mon Sep 12 12:15:38 +0000 2011",
+			"favourites_count": 2485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2886,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1307702922398949384/uv4ZKIFQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307702922398949384/uv4ZKIFQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372242250/1597920828",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "실용음악, K-POP, 클래식, 국악, 록, EDM, 힙합, 뮤지컬, 재즈, 월드뮤직 등 장르 불문에 나이 / 국적 / 학벌 다 상관 없지만 여성은 안되는 자격조건 매우 규탄합니다. https://t.co/uX2auSDhu4"
+	},
+	{
+		"created_at": "Mon Jan 04 18:43:44 +0000 2021",
+		"id": 1346162225296248800,
+		"id_str": "1346165432286203905",
+		"full_text": "We're continuing to work on a fix. Thanks so much for bearing with us.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1346138174125432800,
+		"in_reply_to_status_id_str": "1346138174125432832",
+		"in_reply_to_user_id": 1136389047138508800,
+		"in_reply_to_user_id_str": "1136389047138508801",
+		"in_reply_to_screen_name": "NotionStatus",
+		"user": {
+			"id": 1136389047138508800,
+			"id_str": "1136389047138508801",
+			"name": "Notion Status",
+			"screen_name": "NotionStatus",
+			"location": "San Francisco, CA",
+			"description": "Updates on the status of Notion. Official status page at https://t.co/DhGmNNITIn. Our tweets at @NotionHQ are more fun.",
+			"url": "https://t.co/QLXvpGSa1o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QLXvpGSa1o",
+							"expanded_url": "http://notion.so",
+							"display_url": "notion.so",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DhGmNNITIn",
+							"expanded_url": "https://status.notion.so",
+							"display_url": "status.notion.so",
+							"indices": [
+								57,
+								80
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3747,
+			"friends_count": 0,
+			"listed_count": 44,
+			"created_at": "Wed Jun 05 21:47:16 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136390042778198016/Gp-XxtAY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136390042778198016/Gp-XxtAY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1136389047138508801/1559776904",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 138,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We're continuing to work on a fix. Thanks so much for bearing with us."
+	},
+	{
+		"created_at": "Mon Jan 04 18:43:37 +0000 2021",
+		"id": 1346147436268404700,
+		"id_str": "1346165402267619330",
+		"full_text": "We are continuing to investigate and are working on a resolution. Stay tuned for more updates — thanks for your patience.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1346138174125432800,
+		"in_reply_to_status_id_str": "1346138174125432832",
+		"in_reply_to_user_id": 1136389047138508800,
+		"in_reply_to_user_id_str": "1136389047138508801",
+		"in_reply_to_screen_name": "NotionStatus",
+		"user": {
+			"id": 1136389047138508800,
+			"id_str": "1136389047138508801",
+			"name": "Notion Status",
+			"screen_name": "NotionStatus",
+			"location": "San Francisco, CA",
+			"description": "Updates on the status of Notion. Official status page at https://t.co/DhGmNNITIn. Our tweets at @NotionHQ are more fun.",
+			"url": "https://t.co/QLXvpGSa1o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QLXvpGSa1o",
+							"expanded_url": "http://notion.so",
+							"display_url": "notion.so",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DhGmNNITIn",
+							"expanded_url": "https://status.notion.so",
+							"display_url": "status.notion.so",
+							"indices": [
+								57,
+								80
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3747,
+			"friends_count": 0,
+			"listed_count": 44,
+			"created_at": "Wed Jun 05 21:47:16 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136390042778198016/Gp-XxtAY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136390042778198016/Gp-XxtAY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1136389047138508801/1559776904",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 126,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We are continuing to investigate and are working on a resolution. Stay tuned for more updates — thanks for your patience."
+	},
+	{
+		"created_at": "Mon Jan 04 18:43:06 +0000 2021",
+		"id": 1346165273460527000,
+		"id_str": "1346165273460527105",
+		"full_text": "클라우드플레어 문제인건지 AWS 문제인건지 모르겠다만 쓰는 서비스가 죽으니까 불편하네.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 1028,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "클라우드플레어 문제인건지 AWS 문제인건지 모르겠다만 쓰는 서비스가 죽으니까 불편하네."
+	},
+	{
+		"created_at": "Mon Jan 04 18:42:33 +0000 2021",
+		"id": 1346122086176186400,
+		"id_str": "1346165133614071809",
+		"full_text": "Customers may be experiencing issues connecting and using Slack at this time. Our team is currently investigating and we’re sorry for any troubles this may be causing. Please see https://t.co/hlhV4Z15g6 for updates.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hlhV4Z15g6",
+					"expanded_url": "https://status.slack.com",
+					"display_url": "status.slack.com",
+					"indices": [
+						179,
+						202
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1305940272,
+			"id_str": "1305940272",
+			"name": "Slack",
+			"screen_name": "SlackHQ",
+			"location": "",
+			"description": "On a mission to make your working life simpler, more pleasant and more productive. Need help? Send us a tweet! For updates on status, follow @SlackStatus.",
+			"url": "https://t.co/g7wEcNCq0P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/g7wEcNCq0P",
+							"expanded_url": "https://slack.com/",
+							"display_url": "slack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 446382,
+			"friends_count": 144380,
+			"listed_count": 6462,
+			"created_at": "Tue Mar 26 23:44:06 +0000 2013",
+			"favourites_count": 160852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 271054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4D394B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192935671473659905/AMUy2VsJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192935671473659905/AMUy2VsJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1305940272/1602778720",
+			"profile_link_color": "4C9689",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 573,
+		"favorite_count": 1158,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Customers may be experiencing issues connecting and using Slack at this time. Our team is currently investigating and we’re sorry for any troubles this may be causing. Please see https://t.co/hlhV4Z15g6 for updates."
+	},
+	{
+		"created_at": "Mon Jan 04 18:14:33 +0000 2021",
+		"id": 1346158088106160000,
+		"id_str": "1346158088106160129",
+		"full_text": "#청하 #CHUNGHA\n[청하] 우리 별하랑 축하해!!\nhttps://t.co/JaVuKsFKbU\n#다음팬카페 #공식팬카페 #From",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "다음팬카페",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "From",
+					"indices": [
+						69,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JaVuKsFKbU",
+					"expanded_url": "http://cafe.daum.net/MNH-Chungha/g3oh/169",
+					"display_url": "cafe.daum.net/MNH-Chungha/g3…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300,
+			"friends_count": 1028,
+			"listed_count": 8,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청하 #CHUNGHA\n[청하] 우리 별하랑 축하해!!\nhttps://t.co/JaVuKsFKbU\n#다음팬카페 #공식팬카페 #From"
+	},
+	{
 		"created_at": "Mon Jan 04 17:33:08 +0000 2021",
 		"id": 1346147664451281000,
 		"id_str": "1346147664451280897",
