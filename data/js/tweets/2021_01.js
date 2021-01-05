@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 05 07:34:33 +0000 2021",
+		"id": 1346320757228359700,
+		"id_str": "1346359417306943490",
+		"full_text": "“프로그램을 기획한 2019년 말은 여성 연예인들의 안 좋은 소식이 연달아 들리던 시기였어요. 엔터테인먼트 업계에 몸담고 있는 사람으로서 이 구조를 완전히 바꾸지는 못하더라도 서로에게 힘이 될 수 있는 기회를 만들고 싶었어요.”\nhttps://t.co/U5UA7wpOIY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U5UA7wpOIY",
+					"expanded_url": "https://news.khan.kr/MK68",
+					"display_url": "news.khan.kr/MK68",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118720645,
+			"id_str": "118720645",
+			"name": "경향신문",
+			"screen_name": "kyunghyang",
+			"location": "seoul",
+			"description": "'The Kyunghyang daily news' is  a daily newspaper in South Korea. The 'Kyunghyang' means ‘Urbi et Orbi(to the city and to the world)’.",
+			"url": "https://t.co/1CeEMiCmWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CeEMiCmWg",
+							"expanded_url": "http://www.khan.co.kr/",
+							"display_url": "khan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 721393,
+			"friends_count": 77060,
+			"listed_count": 5869,
+			"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 88869,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135350054401716224/hrx70Bwa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1559523510",
+			"profile_link_color": "07B6EB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 346,
+		"favorite_count": 180,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“프로그램을 기획한 2019년 말은 여성 연예인들의 안 좋은 소식이 연달아 들리던 시기였어요. 엔터테인먼트 업계에 몸담고 있는 사람으로서 이 구조를 완전히 바꾸지는 못하더라도 서로에게 힘이 될 수 있는 기회를 만들고 싶었어요.”\nhttps://t.co/U5UA7wpOIY"
+	},
+	{
+		"created_at": "Tue Jan 05 07:19:14 +0000 2021",
+		"id": 1346332760714006500,
+		"id_str": "1346355562267611137",
+		"full_text": "연희동 최초의 예술 영화관 라이카시네마가 1월 13일(수) 오픈과 함께 1월 24일(일)까지 개관기획전 'LIFE LIVE LIKE'를 개최합니다. 라이카시네마 홈페이지를 통해 예매 가능하며, 6일(수)부터 예매가 오픈됩니다.\nhttps://t.co/gXSCFLzz6u https://t.co/uYRvOBCJGk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gXSCFLzz6u",
+					"expanded_url": "http://www.laikacinema.com/",
+					"display_url": "laikacinema.com",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1346332111012122600,
+					"id_str": "1346332111012122624",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq8h6_qUUAA0qq6.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eq8h6_qUUAA0qq6.png",
+					"url": "https://t.co/uYRvOBCJGk",
+					"display_url": "pic.twitter.com/uYRvOBCJGk",
+					"expanded_url": "https://twitter.com/tailorcontents/status/1346332760714006529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1346332111012122600,
+					"id_str": "1346332111012122624",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq8h6_qUUAA0qq6.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eq8h6_qUUAA0qq6.png",
+					"url": "https://t.co/uYRvOBCJGk",
+					"display_url": "pic.twitter.com/uYRvOBCJGk",
+					"expanded_url": "https://twitter.com/tailorcontents/status/1346332760714006529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4838971693,
+			"id_str": "4838971693",
+			"name": "테일러콘텐츠 TailorContent",
+			"screen_name": "tailorcontents",
+			"location": "",
+			"description": "테일러콘텐츠는 작품과 배우의 데이터를 구축하고 새로운 형태의 콘텐츠를 만드는 일에 늘 도전하는 스타트업입니다",
+			"url": "https://t.co/IOMUmlyIDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IOMUmlyIDN",
+							"expanded_url": "http://tailorcontents.com",
+							"display_url": "tailorcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17770,
+			"friends_count": 733,
+			"listed_count": 95,
+			"created_at": "Sun Jan 31 08:05:08 +0000 2016",
+			"favourites_count": 995,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4838971693/1591696070",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "연희동 최초의 예술 영화관 라이카시네마가 1월 13일(수) 오픈과 함께 1월 24일(일)까지 개관기획전 'LIFE LIVE LIKE'를 개최합니다. 라이카시네마 홈페이지를 통해 예매 가능하며, 6일(수)부터 예매가 오픈됩니다.\nhttps://t.co/gXSCFLzz6u https://t.co/uYRvOBCJGk"
+	},
+	{
 		"created_at": "Tue Jan 05 06:45:36 +0000 2021",
 		"id": 1346340181880672300,
 		"id_str": "1346347098875318272",
