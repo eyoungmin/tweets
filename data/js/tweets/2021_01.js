@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 05 13:16:59 +0000 2021",
+		"id": 1346038930945130500,
+		"id_str": "1346445591824371713",
+		"full_text": "코로나가 앞당긴 원격시대, 종이문서 더 빨리 사라진다 https://t.co/ESe5Vqhi62 종이의 종말까지는 아니지만 일상 생활에서 종이문서에 뭔가 적는 일은 갈수록 줄어들고 있음. 은행, 보험사, 이통사대리점 등 가보면 모두 타블렛 사용. https://t.co/CoDBiZaJk9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ESe5Vqhi62",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LPOD&mid=sec&oid=025&aid=0003066613",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1346038918483832800,
+					"id_str": "1346038918483832834",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq4XQ8YUcAIuumF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq4XQ8YUcAIuumF.jpg",
+					"url": "https://t.co/CoDBiZaJk9",
+					"display_url": "pic.twitter.com/CoDBiZaJk9",
+					"expanded_url": "https://twitter.com/estima7/status/1346038930945130496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 560,
+							"h": 373,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 560,
+							"h": 373,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 373,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1346038918483832800,
+					"id_str": "1346038918483832834",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq4XQ8YUcAIuumF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq4XQ8YUcAIuumF.jpg",
+					"url": "https://t.co/CoDBiZaJk9",
+					"display_url": "pic.twitter.com/CoDBiZaJk9",
+					"expanded_url": "https://twitter.com/estima7/status/1346038930945130496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 560,
+							"h": 373,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 560,
+							"h": 373,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 373,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1346038919414964200,
+					"id_str": "1346038919414964225",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq4XQ_2UYAERH9E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq4XQ_2UYAERH9E.jpg",
+					"url": "https://t.co/CoDBiZaJk9",
+					"display_url": "pic.twitter.com/CoDBiZaJk9",
+					"expanded_url": "https://twitter.com/estima7/status/1346038930945130496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 560,
+							"h": 491,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 560,
+							"h": 491,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 491,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1346038920115413000,
+					"id_str": "1346038920115412992",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq4XRCdUYAAGlCu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq4XRCdUYAAGlCu.jpg",
+					"url": "https://t.co/CoDBiZaJk9",
+					"display_url": "pic.twitter.com/CoDBiZaJk9",
+					"expanded_url": "https://twitter.com/estima7/status/1346038930945130496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 559,
+							"h": 461,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 559,
+							"h": 461,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 559,
+							"h": 461,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 366233,
+			"friends_count": 2256,
+			"listed_count": 4421,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 75742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코로나가 앞당긴 원격시대, 종이문서 더 빨리 사라진다 https://t.co/ESe5Vqhi62 종이의 종말까지는 아니지만 일상 생활에서 종이문서에 뭔가 적는 일은 갈수록 줄어들고 있음. 은행, 보험사, 이통사대리점 등 가보면 모두 타블렛 사용. https://t.co/CoDBiZaJk9"
+	},
+	{
 		"created_at": "Tue Jan 05 12:49:24 +0000 2021",
 		"id": 1346438650331078700,
 		"id_str": "1346438650331078656",
