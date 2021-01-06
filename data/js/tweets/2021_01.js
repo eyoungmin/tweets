@@ -1,6 +1,361 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 06 09:19:38 +0000 2021",
+		"id": 1346748247558287400,
+		"id_str": "1346748247558287360",
+		"full_text": "#놀라운토요일 #도레미마켓\n[#도레미가족] 𝐇𝐨𝐱𝐲,, 태연 씨 피처링 되나요? 파격적인 스케줄로 영업하는 조남지대 ㅋㅋㅋ 거마비도 챙겨드려요'-^ | #놀라운토요일 Amazing Saturday\nhttps://t.co/LMXTczKdXd\n#태연 #탱구 #TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "도레미마켓",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "도레미가족",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						85,
+						92
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "탱구",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						142,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LMXTczKdXd",
+					"expanded_url": "https://www.youtube.com/watch?v=DvH9L8ZDnb4",
+					"display_url": "youtube.com/watch?v=DvH9L8…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1030,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44492,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75639,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#놀라운토요일 #도레미마켓\n[#도레미가족] 𝐇𝐨𝐱𝐲,, 태연 씨 피처링 되나요? 파격적인 스케줄로 영업하는 조남지대 ㅋㅋㅋ 거마비도 챙겨드려요'-^ | #놀라운토요일 Amazing Saturday\nhttps://t.co/LMXTczKdXd\n#태연 #탱구 #TAEYEON"
+	},
+	{
+		"created_at": "Wed Jan 06 09:04:48 +0000 2021",
+		"id": 1346401618191732700,
+		"id_str": "1346744517534257152",
+		"full_text": "에고펑션에러의 민정님과 함께 쿠키뉴스 슈퍼밴드2 관련기사에 한마디 보탰습니다.\n\nhttps://t.co/Vao8Nzo0cZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vao8Nzo0cZ",
+					"expanded_url": "http://www.kukinews.com/newsView/kuk202101050363",
+					"display_url": "kukinews.com/newsView/kuk20…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 372242250,
+			"id_str": "372242250",
+			"name": "Billy Carter 빌리카터",
+			"screen_name": "billy_carter_",
+			"location": "",
+			"description": "Two singing guitaring dancing and jumping girls from Seoul - We're gonna fuck you with our music and you'll get pregnant!",
+			"url": "https://t.co/pY6LGLq0eW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pY6LGLq0eW",
+							"expanded_url": "http://www.facebook.com/blyctr",
+							"display_url": "facebook.com/blyctr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1037,
+			"friends_count": 720,
+			"listed_count": 17,
+			"created_at": "Mon Sep 12 12:15:38 +0000 2011",
+			"favourites_count": 2487,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1307702922398949384/uv4ZKIFQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307702922398949384/uv4ZKIFQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372242250/1597920828",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에고펑션에러의 민정님과 함께 쿠키뉴스 슈퍼밴드2 관련기사에 한마디 보탰습니다.\n\nhttps://t.co/Vao8Nzo0cZ"
+	},
+	{
+		"created_at": "Wed Jan 06 09:04:31 +0000 2021",
+		"id": 1346581864937472000,
+		"id_str": "1346744444389793795",
+		"full_text": "“김형중 피디는 이 프로그램의 의미를 \"장르적으로 주목받지 못해 좋은 실력을 갖고 있음에도 대중들 앞에 나서지 못했던 훌륭한 보컬들을 수면 위로 끄집어내자는 의미\"라고 밝히며, \"4성부가 완벽한 소리이며 중창은 남성의 이미지가 좀 더 강하기 때문\"이라고 언급했다.”  https://t.co/IYw6hLJpOR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IYw6hLJpOR",
+					"expanded_url": "http://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0002259858",
+					"display_url": "star.ohmynews.com/NWS_Web/OhmySt…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1346581863314276400,
+		"in_reply_to_status_id_str": "1346581863314276352",
+		"in_reply_to_user_id": 2938055528,
+		"in_reply_to_user_id_str": "2938055528",
+		"in_reply_to_screen_name": "alreadyblues",
+		"user": {
+			"id": 2938055528,
+			"id_str": "2938055528",
+			"name": "유지영",
+			"screen_name": "alreadyblues",
+			"location": "영화관",
+			"description": "오마이뉴스 사회부 기자. 메일(alreadyblues@gmail.com)로 연락해주세요.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1479,
+			"friends_count": 184,
+			"listed_count": 0,
+			"created_at": "Sun Dec 21 11:01:23 +0000 2014",
+			"favourites_count": 4328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1282186442333020169/bvMHsYob_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1282186442333020169/bvMHsYob_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2938055528/1596896075",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 288,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“김형중 피디는 이 프로그램의 의미를 \"장르적으로 주목받지 못해 좋은 실력을 갖고 있음에도 대중들 앞에 나서지 못했던 훌륭한 보컬들을 수면 위로 끄집어내자는 의미\"라고 밝히며, \"4성부가 완벽한 소리이며 중창은 남성의 이미지가 좀 더 강하기 때문\"이라고 언급했다.”  https://t.co/IYw6hLJpOR"
+	},
+	{
 		"created_at": "Wed Jan 06 08:48:46 +0000 2021",
 		"id": 1346736362095956000,
 		"id_str": "1346740481313521668",
