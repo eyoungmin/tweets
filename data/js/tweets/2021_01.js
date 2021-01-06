@@ -1,6 +1,770 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 06 13:56:07 +0000 2021",
+		"id": 1346817829069176800,
+		"id_str": "1346817829069176834",
+		"full_text": "딥하게 자신을 성찰해보거나 이슈에 대해 깊게 생각해보지 못한 티가 나는 사람을 멀리 하는 편이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1346817633996345300,
+		"in_reply_to_status_id_str": "1346817633996345345",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1030,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44492,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "딥하게 자신을 성찰해보거나 이슈에 대해 깊게 생각해보지 못한 티가 나는 사람을 멀리 하는 편이다."
+	},
+	{
+		"created_at": "Wed Jan 06 13:55:21 +0000 2021",
+		"id": 1346817633996345300,
+		"id_str": "1346817633996345345",
+		"full_text": "살면서 어떤 사안과 이슈에 열심히 말하고 있는데 A를 B로 말하는 사람과 냉담하게 어차피 먹고 살기 위한 일, 자기 돈이고 자기 자본인데 무슨 상관, 그게 무슨 문제라는 건지 모르겠어라고 바로 말하는 사람은 멀리 하는 것이 좋다고 항상 생각한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1030,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44492,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "살면서 어떤 사안과 이슈에 열심히 말하고 있는데 A를 B로 말하는 사람과 냉담하게 어차피 먹고 살기 위한 일, 자기 돈이고 자기 자본인데 무슨 상관, 그게 무슨 문제라는 건지 모르겠어라고 바로 말하는 사람은 멀리 하는 것이 좋다고 항상 생각한다."
+	},
+	{
+		"created_at": "Wed Jan 06 13:40:47 +0000 2021",
+		"id": 1346813054265168000,
+		"id_str": "1346813969139265536",
+		"full_text": "AI 딥러닝 활용한 자연어생성 모델 GPT-3가 작문으로 놀래킨 데 이어 이번엔 일러스트레이션 시연. 텍스트 묘사 데이터로 이미지 생성하는 프로그램 달리DALL-E 개발. 자연어로 지시하면 동물/사물 의인화, 관계없는 개념들 결합, 변형 기존 이미지 적용 등 다양한 임무 수행.\nhttps://t.co/EZ3v6DsX8T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EZ3v6DsX8T",
+					"expanded_url": "https://openai.com/blog/dall-e/",
+					"display_url": "openai.com/blog/dall-e/",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101768,
+			"friends_count": 2383,
+			"listed_count": 315,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "AI 딥러닝 활용한 자연어생성 모델 GPT-3가 작문으로 놀래킨 데 이어 이번엔 일러스트레이션 시연. 텍스트 묘사 데이터로 이미지 생성하는 프로그램 달리DALL-E 개발. 자연어로 지시하면 동물/사물 의인화, 관계없는 개념들 결합, 변형 기존 이미지 적용 등 다양한 임무 수행.\nhttps://t.co/EZ3v6DsX8T"
+	},
+	{
+		"created_at": "Wed Jan 06 13:23:39 +0000 2021",
+		"id": 1346400788449382400,
+		"id_str": "1346809659051503616",
+		"full_text": "210105 아직 모든게 완전히 다 정해진 건 아니라 팬들한테 다 말해주진 못해도 소통하겠다는 효녀🥺 #블랙핑크 #로제 #BLACKPINK #ROSÉ https://t.co/Cgrxp9EdEe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						67,
+						77
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						78,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1346400181600731100,
+					"id_str": "1346400181600731142",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1346400181600731142/pu/img/B0IjvXqzywwNZiP1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1346400181600731142/pu/img/B0IjvXqzywwNZiP1.jpg",
+					"url": "https://t.co/Cgrxp9EdEe",
+					"display_url": "pic.twitter.com/Cgrxp9EdEe",
+					"expanded_url": "https://twitter.com/record211/status/1346400788449382400/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1346400181600731100,
+					"id_str": "1346400181600731142",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1346400181600731142/pu/img/B0IjvXqzywwNZiP1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1346400181600731142/pu/img/B0IjvXqzywwNZiP1.jpg",
+					"url": "https://t.co/Cgrxp9EdEe",
+					"display_url": "pic.twitter.com/Cgrxp9EdEe",
+					"expanded_url": "https://twitter.com/record211/status/1346400788449382400/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 31682,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1346400181600731142/pu/vid/720x1280/t6lEnK34_xFD_bef.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1346400181600731142/pu/pl/v2y98kCqp4koSNea.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1346400181600731142/pu/vid/320x568/xXNw5JpAeLAId9Wf.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1346400181600731142/pu/vid/360x640/W9hcmzhRkmWc8Xlw.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 990715497619509200,
+			"id_str": "990715497619509249",
+			"name": "RÉCORD 레코드",
+			"screen_name": "record211",
+			"location": "HD=💙 / DON'T RE-UPLOAD & EDIT",
+			"description": "BLACKPINK ROSÉ🎥",
+			"url": "https://t.co/vUzomcx3tx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vUzomcx3tx",
+							"expanded_url": "https://www.youtube.com/c/RECORD211",
+							"display_url": "youtube.com/c/RECORD211",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 139433,
+			"friends_count": 35,
+			"listed_count": 1466,
+			"created_at": "Sun Apr 29 22:12:36 +0000 2018",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1029,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245373274206269440/0uwe6KPl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245373274206269440/0uwe6KPl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/990715497619509249/1568785667",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3870,
+		"favorite_count": 8126,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "210105 아직 모든게 완전히 다 정해진 건 아니라 팬들한테 다 말해주진 못해도 소통하겠다는 효녀🥺 #블랙핑크 #로제 #BLACKPINK #ROSÉ https://t.co/Cgrxp9EdEe"
+	},
+	{
+		"created_at": "Wed Jan 06 13:23:37 +0000 2021",
+		"id": 1346394075650396200,
+		"id_str": "1346809650792919040",
+		"full_text": "210105 다들 주목📢 앞으로 나올 로제 솔로는 다들 가사에 집중해서 들어주시기 바랍니다❤️ #블랙핑크 #로제 #BLACKPINK #ROSÉ https://t.co/TAKLbw9UzZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						63,
+						73
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						74,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1346393889125462000,
+					"id_str": "1346393889125462017",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1346393889125462017/pu/img/zbipJUM6U1JPi12L.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1346393889125462017/pu/img/zbipJUM6U1JPi12L.jpg",
+					"url": "https://t.co/TAKLbw9UzZ",
+					"display_url": "pic.twitter.com/TAKLbw9UzZ",
+					"expanded_url": "https://twitter.com/record211/status/1346394075650396160/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1346393889125462000,
+					"id_str": "1346393889125462017",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1346393889125462017/pu/img/zbipJUM6U1JPi12L.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1346393889125462017/pu/img/zbipJUM6U1JPi12L.jpg",
+					"url": "https://t.co/TAKLbw9UzZ",
+					"display_url": "pic.twitter.com/TAKLbw9UzZ",
+					"expanded_url": "https://twitter.com/record211/status/1346394075650396160/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 40207,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1346393889125462017/pu/vid/720x1280/77O-aQgQ4wtk5Pz9.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1346393889125462017/pu/vid/360x640/PhwhF9jAjf6OU-CY.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1346393889125462017/pu/vid/320x568/GsFh4H7ygaRK5MOr.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1346393889125462017/pu/pl/FtnvPT8WBhpVj9eP.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 990715497619509200,
+			"id_str": "990715497619509249",
+			"name": "RÉCORD 레코드",
+			"screen_name": "record211",
+			"location": "HD=💙 / DON'T RE-UPLOAD & EDIT",
+			"description": "BLACKPINK ROSÉ🎥",
+			"url": "https://t.co/vUzomcx3tx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vUzomcx3tx",
+							"expanded_url": "https://www.youtube.com/c/RECORD211",
+							"display_url": "youtube.com/c/RECORD211",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 139433,
+			"friends_count": 35,
+			"listed_count": 1466,
+			"created_at": "Sun Apr 29 22:12:36 +0000 2018",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1029,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245373274206269440/0uwe6KPl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245373274206269440/0uwe6KPl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/990715497619509249/1568785667",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9608,
+		"favorite_count": 23592,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "210105 다들 주목📢 앞으로 나올 로제 솔로는 다들 가사에 집중해서 들어주시기 바랍니다❤️ #블랙핑크 #로제 #BLACKPINK #ROSÉ https://t.co/TAKLbw9UzZ"
+	},
+	{
 		"created_at": "Wed Jan 06 12:50:24 +0000 2021",
 		"id": 1346801290936893400,
 		"id_str": "1346801290936893443",
