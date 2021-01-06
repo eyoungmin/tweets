@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 06 11:02:15 +0000 2021",
+		"id": 1346773904455438300,
+		"id_str": "1346774072441643009",
+		"full_text": "[PHOTO] 🎨#BHR_2nd_Only\n\n📸'C'HUNG HA RANGㅣEP 17. 衝撃のハリーポッター百味ビーンズチャレンジ！(feat. Drive)\n\n✌🏻 https://t.co/aYIboxYYsE\n\n#청하 #CHUNGHA #チョンハ\n#별하랑 #BYULHARANG\n#시청하랑 #SEECHUNGHARANG\n#OfficialBYULHARANG2nd 💚💙💜 https://t.co/LVxEeDoWkU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BHR_2nd_Only",
+					"indices": [
+						9,
+						22
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						117,
+						125
+					]
+				},
+				{
+					"text": "チョンハ",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						137,
+						148
+					]
+				},
+				{
+					"text": "시청하랑",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "SEECHUNGHARANG",
+					"indices": [
+						155,
+						170
+					]
+				},
+				{
+					"text": "OfficialBYULHARANG2nd",
+					"indices": [
+						171,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aYIboxYYsE",
+					"expanded_url": "https://www.vlive.tv/post/1-20743370",
+					"display_url": "vlive.tv/post/1-20743370",
+					"indices": [
+						88,
+						111
+					]
+				},
+				{
+					"url": "https://t.co/LVxEeDoWkU",
+					"expanded_url": "https://twitter.com/chungha_mnhent/status/1346773506877374464",
+					"display_url": "twitter.com/chungha_mnhent…",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 986882185842966500,
+			"id_str": "986882185842966528",
+			"name": "CHUNG HA JAPAN OFFICIAL",
+			"screen_name": "chungha_japan",
+			"location": "",
+			"description": "#CHUNGHA JAPAN OFFICIAL Twitter",
+			"url": "https://t.co/igLeSQLgMf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/igLeSQLgMf",
+							"expanded_url": "https://bit.ly/3q6AiLl",
+							"display_url": "bit.ly/3q6AiLl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16999,
+			"friends_count": 2,
+			"listed_count": 167,
+			"created_at": "Thu Apr 19 08:20:23 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988221974169059328/l3d7G6Fx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988221974169059328/l3d7G6Fx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/986882185842966528/1603170240",
+			"profile_link_color": "BF83AB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1346773506877374500,
+		"quoted_status_id_str": "1346773506877374464",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LVxEeDoWkU",
+			"expanded": "https://twitter.com/chungha_mnhent/status/1346773506877374464",
+			"display": "twitter.com/chungha_mnhent…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 06 11:00:00 +0000 2021",
+			"id": 1346773506877374500,
+			"id_str": "1346773506877374464",
+			"full_text": "[PHOTO] 🎨#BHR_2nd_Only\n\n📸'C'HUNG HA RANGㅣEP 17. 충격의 해리포터 젤리빈 도전하기! (feat.드라이브)!\n\n✌🏻 https://t.co/WHQSf7xyJQ\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#시청하랑 #SEECHUNGHARANG\n#OfficialBYULHARANG2nd 💚💙💜",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				187
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BHR_2nd_Only",
+						"indices": [
+							9,
+							22
+						]
+					},
+					{
+						"text": "청하",
+						"indices": [
+							109,
+							112
+						]
+					},
+					{
+						"text": "CHUNGHA",
+						"indices": [
+							113,
+							121
+						]
+					},
+					{
+						"text": "별하랑",
+						"indices": [
+							122,
+							126
+						]
+					},
+					{
+						"text": "BYULHARANG",
+						"indices": [
+							127,
+							138
+						]
+					},
+					{
+						"text": "시청하랑",
+						"indices": [
+							139,
+							144
+						]
+					},
+					{
+						"text": "SEECHUNGHARANG",
+						"indices": [
+							145,
+							160
+						]
+					},
+					{
+						"text": "OfficialBYULHARANG2nd",
+						"indices": [
+							161,
+							183
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WHQSf7xyJQ",
+						"expanded_url": "https://www.vlive.tv/post/1-20743370",
+						"display_url": "vlive.tv/post/1-20743370",
+						"indices": [
+							84,
+							107
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1097557125742489600,
+				"id_str": "1097557125742489600",
+				"name": "CHUNG HA",
+				"screen_name": "CHUNGHA_MNHent",
+				"location": "",
+				"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/MasTugaSJD\nCHUNG HA Website 💚💙💜 https://t.co/KNLHLQCXaH",
+				"url": "https://t.co/reTg513UFX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/reTg513UFX",
+								"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+								"display_url": "cafe.daum.net/MNH-Chungha",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/MasTugaSJD",
+								"expanded_url": "http://bit.ly/2ZZWMlN",
+								"display_url": "bit.ly/2ZZWMlN",
+								"indices": [
+									31,
+									54
+								]
+							},
+							{
+								"url": "https://t.co/KNLHLQCXaH",
+								"expanded_url": "http://chunghaofficial.com/",
+								"display_url": "chunghaofficial.com",
+								"indices": [
+									76,
+									99
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 297881,
+				"friends_count": 0,
+				"listed_count": 1835,
+				"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1446,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1606446336",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 139,
+			"favorite_count": 822,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 11,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[PHOTO] 🎨#BHR_2nd_Only\n\n📸'C'HUNG HA RANGㅣEP 17. 衝撃のハリーポッター百味ビーンズチャレンジ！(feat. Drive)\n\n✌🏻 https://t.co/aYIboxYYsE\n\n#청하 #CHUNGHA #チョンハ\n#별하랑 #BYULHARANG\n#시청하랑 #SEECHUNGHARANG\n#OfficialBYULHARANG2nd 💚💙💜 https://t.co/LVxEeDoWkU"
+	},
+	{
 		"created_at": "Wed Jan 06 10:42:06 +0000 2021",
 		"id": 1346769001066582000,
 		"id_str": "1346769001066582017",
