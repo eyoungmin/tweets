@@ -1,6 +1,179 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 07 05:02:06 +0000 2021",
+		"id": 1347032589245190100,
+		"id_str": "1347045824820338689",
+		"full_text": "#BLACKPINK 두근두근 'THE SHOW' ANNOUNCEMENT LIVE 비하인드\n\n👉 https://t.co/YC2WOTlcR4\n\n#블랙핑크 #PALMSTAGE #THESHOW #LIVESTREAMCONCERT #YOUTUBEMUSIC #YOUTUBE #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "PALMSTAGE",
+					"indices": [
+						84,
+						94
+					]
+				},
+				{
+					"text": "THESHOW",
+					"indices": [
+						95,
+						103
+					]
+				},
+				{
+					"text": "LIVESTREAMCONCERT",
+					"indices": [
+						104,
+						122
+					]
+				},
+				{
+					"text": "YOUTUBEMUSIC",
+					"indices": [
+						123,
+						136
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						137,
+						145
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						146,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YC2WOTlcR4",
+					"expanded_url": "http://naver.me/GhEZo33K",
+					"display_url": "naver.me/GhEZo33K",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7156901,
+			"friends_count": 38,
+			"listed_count": 7408,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7227,
+		"favorite_count": 29717,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BLACKPINK 두근두근 'THE SHOW' ANNOUNCEMENT LIVE 비하인드\n\n👉 https://t.co/YC2WOTlcR4\n\n#블랙핑크 #PALMSTAGE #THESHOW #LIVESTREAMCONCERT #YOUTUBEMUSIC #YOUTUBE #YG"
+	},
+	{
 		"created_at": "Thu Jan 07 03:56:08 +0000 2021",
 		"id": 1347029225560289300,
 		"id_str": "1347029225560289281",
