@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 08 14:02:05 +0000 2021",
+		"id": 1347534686633947100,
+		"id_str": "1347544107128934401",
+		"full_text": "누더기를 걸친 노래\nhttps://t.co/QMqlm2f6nW\n\n#심규선 #루시아 #수필 #에세이 #심규선블로그 https://t.co/SCop3kzKnd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "심규선",
+					"indices": [
+						36,
+						40
+					]
+				},
+				{
+					"text": "루시아",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "수필",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "에세이",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "심규선블로그",
+					"indices": [
+						55,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QMqlm2f6nW",
+					"expanded_url": "https://blog.naver.com/luciatune",
+					"display_url": "blog.naver.com/luciatune",
+					"indices": [
+						11,
+						34
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1347534684310311000,
+					"id_str": "1347534684310310914",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/ErNnp-TVkAIXUro.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErNnp-TVkAIXUro.jpg",
+					"url": "https://t.co/SCop3kzKnd",
+					"display_url": "pic.twitter.com/SCop3kzKnd",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1347534686633947143/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 492,
+							"h": 492,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 492,
+							"h": 492,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 492,
+							"h": 492,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347534684310311000,
+					"id_str": "1347534684310310914",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/ErNnp-TVkAIXUro.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErNnp-TVkAIXUro.jpg",
+					"url": "https://t.co/SCop3kzKnd",
+					"display_url": "pic.twitter.com/SCop3kzKnd",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1347534686633947143/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 492,
+							"h": 492,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 492,
+							"h": 492,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 492,
+							"h": 492,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌙월령: 下 20.12.14 pm6시 공개",
+			"url": "https://t.co/NbMjxtK3cL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NbMjxtK3cL",
+							"expanded_url": "http://www.simgyuseon.com",
+							"display_url": "simgyuseon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10731,
+			"friends_count": 157,
+			"listed_count": 160,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 465,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330066919668523010/HbiHUZjb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330066919668523010/HbiHUZjb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1607423257",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "누더기를 걸친 노래\nhttps://t.co/QMqlm2f6nW\n\n#심규선 #루시아 #수필 #에세이 #심규선블로그 https://t.co/SCop3kzKnd"
+	},
+	{
 		"created_at": "Fri Jan 08 13:41:25 +0000 2021",
 		"id": 1347538905218887700,
 		"id_str": "1347538905218887680",
