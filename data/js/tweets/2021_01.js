@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 08 16:32:18 +0000 2021",
+		"id": 1347107234963050500,
+		"id_str": "1347581910432706561",
+		"full_text": "연하녀가 설레어하는 행동 몇 가지 시전했지만 알고보니 언니여서 당황한 지우 https://t.co/SN9GMqs8za",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1347107186556616700,
+					"id_str": "1347107186556616710",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1347107186556616710/pu/img/Wj6vDhvLEFZhxzHN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1347107186556616710/pu/img/Wj6vDhvLEFZhxzHN.jpg",
+					"url": "https://t.co/SN9GMqs8za",
+					"display_url": "pic.twitter.com/SN9GMqs8za",
+					"expanded_url": "https://twitter.com/archive_Chuu/status/1347107234963050496/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347107186556616700,
+					"id_str": "1347107186556616710",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1347107186556616710/pu/img/Wj6vDhvLEFZhxzHN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1347107186556616710/pu/img/Wj6vDhvLEFZhxzHN.jpg",
+					"url": "https://t.co/SN9GMqs8za",
+					"display_url": "pic.twitter.com/SN9GMqs8za",
+					"expanded_url": "https://twitter.com/archive_Chuu/status/1347107234963050496/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 21467,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1347107186556616710/pu/pl/AesHYawtjCpKcQcX.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1347107186556616710/pu/vid/320x320/D7ZQ0D3slnyUjQ7k.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1347107186556616710/pu/vid/480x480/Ei3wiTrT05ZJDmqS.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1347107186556616710/pu/vid/720x720/pMWHJeYbjosr8fUL.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1300097557742329900,
+			"id_str": "1300097557742329856",
+			"name": "츄 아카이브",
+			"screen_name": "archive_Chuu",
+			"location": "우주최고깜찌기를 기록 ◡̈ ",
+			"description": "지구를 지키는 중입니다 🖇 https://t.co/NlkDVfwSwj",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NlkDVfwSwj",
+							"expanded_url": "https://youtu.be/8oaBBL4azdQ",
+							"display_url": "youtu.be/8oaBBL4azdQ",
+							"indices": [
+								15,
+								38
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6109,
+			"friends_count": 2,
+			"listed_count": 42,
+			"created_at": "Sun Aug 30 15:46:41 +0000 2020",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344227547232391168/DnzoLTjc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344227547232391168/DnzoLTjc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1300097557742329856/1609431341",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 693,
+		"favorite_count": 439,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "연하녀가 설레어하는 행동 몇 가지 시전했지만 알고보니 언니여서 당황한 지우 https://t.co/SN9GMqs8za"
+	},
+	{
+		"created_at": "Fri Jan 08 16:30:52 +0000 2021",
+		"id": 1347408162433876000,
+		"id_str": "1347581547793113094",
+		"full_text": "누르면 알라뷰해주는 개 https://t.co/W2sMmEoQKd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1347408131517632500,
+					"id_str": "1347408131517632515",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1347408131517632515/pu/img/zwPu3aTflNFp4-rB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1347408131517632515/pu/img/zwPu3aTflNFp4-rB.jpg",
+					"url": "https://t.co/W2sMmEoQKd",
+					"display_url": "pic.twitter.com/W2sMmEoQKd",
+					"expanded_url": "https://twitter.com/archive_Chuu/status/1347408162433875969/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347408131517632500,
+					"id_str": "1347408131517632515",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1347408131517632515/pu/img/zwPu3aTflNFp4-rB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1347408131517632515/pu/img/zwPu3aTflNFp4-rB.jpg",
+					"url": "https://t.co/W2sMmEoQKd",
+					"display_url": "pic.twitter.com/W2sMmEoQKd",
+					"expanded_url": "https://twitter.com/archive_Chuu/status/1347408162433875969/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 12233,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1347408131517632515/pu/pl/oOn3aNb-D3zi8wNj.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1347408131517632515/pu/vid/320x320/4D66jMl9GYqWklN2.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1347408131517632515/pu/vid/480x480/sKW9WImvG-R8hvmi.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1347408131517632515/pu/vid/720x720/NPW0xAol5HQ0YFyA.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1300097557742329900,
+			"id_str": "1300097557742329856",
+			"name": "츄 아카이브",
+			"screen_name": "archive_Chuu",
+			"location": "우주최고깜찌기를 기록 ◡̈ ",
+			"description": "지구를 지키는 중입니다 🖇 https://t.co/NlkDVfwSwj",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NlkDVfwSwj",
+							"expanded_url": "https://youtu.be/8oaBBL4azdQ",
+							"display_url": "youtu.be/8oaBBL4azdQ",
+							"indices": [
+								15,
+								38
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6109,
+			"friends_count": 2,
+			"listed_count": 42,
+			"created_at": "Sun Aug 30 15:46:41 +0000 2020",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344227547232391168/DnzoLTjc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344227547232391168/DnzoLTjc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1300097557742329856/1609431341",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 156,
+		"favorite_count": 188,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "누르면 알라뷰해주는 개 https://t.co/W2sMmEoQKd"
+	},
+	{
 		"created_at": "Fri Jan 08 14:02:05 +0000 2021",
 		"id": 1347534686633947100,
 		"id_str": "1347544107128934401",
