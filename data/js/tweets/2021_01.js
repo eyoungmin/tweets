@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 09 10:27:58 +0000 2021",
+		"id": 1347849918015148000,
+		"id_str": "1347852606778048514",
+		"full_text": "The 35th Golden Disc Awards with #CURAPROX\n\nCongratulations!🥳🎉 \n@RVsmtown won the  BEST DIGITAL SONG🏆\n\n#레드벨벳 #RedVelvet \n\n#골든디스크어워즈 #goldendiscawards\n#골든디스크 #goldendisc #gda\n#큐라프록스 #큐라덴 #curaden https://t.co/bue4XifC8u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CURAPROX",
+					"indices": [
+						33,
+						42
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"text": "골든디스크어워즈",
+					"indices": [
+						122,
+						131
+					]
+				},
+				{
+					"text": "goldendiscawards",
+					"indices": [
+						132,
+						149
+					]
+				},
+				{
+					"text": "골든디스크",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "goldendisc",
+					"indices": [
+						157,
+						168
+					]
+				},
+				{
+					"text": "gda",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "큐라프록스",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "큐라덴",
+					"indices": [
+						181,
+						185
+					]
+				},
+				{
+					"text": "curaden",
+					"indices": [
+						186,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						64,
+						73
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1347849905021206500,
+					"id_str": "1347849905021206529",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/ErSGWO9VQAE37SI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErSGWO9VQAE37SI.jpg",
+					"url": "https://t.co/bue4XifC8u",
+					"display_url": "pic.twitter.com/bue4XifC8u",
+					"expanded_url": "https://twitter.com/GoldenDisc_en/status/1347849918015148032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347849905021206500,
+					"id_str": "1347849905021206529",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/ErSGWO9VQAE37SI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErSGWO9VQAE37SI.jpg",
+					"url": "https://t.co/bue4XifC8u",
+					"display_url": "pic.twitter.com/bue4XifC8u",
+					"expanded_url": "https://twitter.com/GoldenDisc_en/status/1347849918015148032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 795535472197935100,
+			"id_str": "795535472197935104",
+			"name": "GoldenDisc_en",
+			"screen_name": "GoldenDisc_en",
+			"location": "Seoul, Republic of Korea",
+			"description": "Golden Disc Awards Official Twitter\nThe 35th Golden Disc Awards with CURAPROX\n2021.01.09 - 10",
+			"url": "https://t.co/RG3uj2id2Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RG3uj2id2Y",
+							"expanded_url": "http://www.goldendisc.co.kr/kr/",
+							"display_url": "goldendisc.co.kr/kr/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21526,
+			"friends_count": 73,
+			"listed_count": 42,
+			"created_at": "Mon Nov 07 07:56:51 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1336538035580649472/konh-2EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336538035580649472/konh-2EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/795535472197935104/1607490475",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1809,
+		"favorite_count": 2923,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 35th Golden Disc Awards with #CURAPROX\n\nCongratulations!🥳🎉 \n@RVsmtown won the  BEST DIGITAL SONG🏆\n\n#레드벨벳 #RedVelvet \n\n#골든디스크어워즈 #goldendiscawards\n#골든디스크 #goldendisc #gda\n#큐라프록스 #큐라덴 #curaden https://t.co/bue4XifC8u"
+	},
+	{
 		"created_at": "Sat Jan 09 09:45:45 +0000 2021",
 		"id": 1347830723487535000,
 		"id_str": "1347841984636080128",
