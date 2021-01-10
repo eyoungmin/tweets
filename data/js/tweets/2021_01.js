@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 10 17:34:52 +0000 2021",
+		"id": 1348159058298032000,
+		"id_str": "1348322428536066049",
+		"full_text": "발명자인 기후현 이나가키 류우키(15)는 2019년 발생한 교토 애니메이션 방화사건이 이번 발명을 하게 된 계기라고 이야기 하며 도망치던 사람들이 방범창에 막혀 죽은것을 보고 왜 사람을 살리기 위한 방범창이 사람을 죽이게 되는것인가 고민한 결과라고 코멘트.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1348158414883483600,
+		"in_reply_to_status_id_str": "1348158414883483648",
+		"in_reply_to_user_id": 19104463,
+		"in_reply_to_user_id_str": "19104463",
+		"in_reply_to_screen_name": "cailia",
+		"user": {
+			"id": 19104463,
+			"id_str": "19104463",
+			"name": "Cailia",
+			"screen_name": "cailia",
+			"location": "ritsuko@765.productions",
+			"description": "아키하바라 어딘가에서 게임 같은거 만듬.",
+			"url": "https://t.co/vR19UguNw5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vR19UguNw5",
+							"expanded_url": "http://765.productions",
+							"display_url": "765.productions",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3450,
+			"friends_count": 398,
+			"listed_count": 59,
+			"created_at": "Sat Jan 17 07:44:44 +0000 2009",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 342447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1308822718909788160/XN2IarmP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1308822718909788160/XN2IarmP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19104463/1549152747",
+			"profile_link_color": "B0E3FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "633119",
+			"profile_text_color": "91551C",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2208,
+		"favorite_count": 700,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "발명자인 기후현 이나가키 류우키(15)는 2019년 발생한 교토 애니메이션 방화사건이 이번 발명을 하게 된 계기라고 이야기 하며 도망치던 사람들이 방범창에 막혀 죽은것을 보고 왜 사람을 살리기 위한 방범창이 사람을 죽이게 되는것인가 고민한 결과라고 코멘트."
+	},
+	{
+		"created_at": "Sun Jan 10 17:34:50 +0000 2021",
+		"id": 1348158414883483600,
+		"id_str": "1348322422726946816",
+		"full_text": "국제 발명대회에서 은상을 받았다는 일본 중학생이 만든 방범창.\n\n일반적인 방범창은 외벽에 부착하는 형태인데, 이 물건은 벽 사방에 구멍을 뚫어 방범창을 고정한 뒤 집 안에서 고정하는 형태.\n\n이 같은 방법으로 설치함으로 건물안에서 유사시 방범창을 풀고 탈출하는것이 가능하다는 설명으로, https://t.co/oJx5VUAbNz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1348156135912587300,
+					"id_str": "1348156135912587269",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/ErWc3N7VQAUwlRg.png",
+					"media_url_https": "https://pbs.twimg.com/media/ErWc3N7VQAUwlRg.png",
+					"url": "https://t.co/oJx5VUAbNz",
+					"display_url": "pic.twitter.com/oJx5VUAbNz",
+					"expanded_url": "https://twitter.com/cailia/status/1348158414883483648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 630,
+							"h": 353,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 630,
+							"h": 353,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 630,
+							"h": 353,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348156135912587300,
+					"id_str": "1348156135912587269",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/ErWc3N7VQAUwlRg.png",
+					"media_url_https": "https://pbs.twimg.com/media/ErWc3N7VQAUwlRg.png",
+					"url": "https://t.co/oJx5VUAbNz",
+					"display_url": "pic.twitter.com/oJx5VUAbNz",
+					"expanded_url": "https://twitter.com/cailia/status/1348158414883483648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 630,
+							"h": 353,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 630,
+							"h": 353,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 630,
+							"h": 353,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1348156135908413400,
+					"id_str": "1348156135908413441",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/ErWc3N6VkAE96L-.png",
+					"media_url_https": "https://pbs.twimg.com/media/ErWc3N6VkAE96L-.png",
+					"url": "https://t.co/oJx5VUAbNz",
+					"display_url": "pic.twitter.com/oJx5VUAbNz",
+					"expanded_url": "https://twitter.com/cailia/status/1348158414883483648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 628,
+							"h": 354,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 628,
+							"h": 354,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 628,
+							"h": 354,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1348156135908405200,
+					"id_str": "1348156135908405248",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/ErWc3N6VcAAvCE7.png",
+					"media_url_https": "https://pbs.twimg.com/media/ErWc3N6VcAAvCE7.png",
+					"url": "https://t.co/oJx5VUAbNz",
+					"display_url": "pic.twitter.com/oJx5VUAbNz",
+					"expanded_url": "https://twitter.com/cailia/status/1348158414883483648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 629,
+							"h": 353,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 629,
+							"h": 353,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 629,
+							"h": 353,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1348156135916728300,
+					"id_str": "1348156135916728327",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/ErWc3N8UcAckKru.png",
+					"media_url_https": "https://pbs.twimg.com/media/ErWc3N8UcAckKru.png",
+					"url": "https://t.co/oJx5VUAbNz",
+					"display_url": "pic.twitter.com/oJx5VUAbNz",
+					"expanded_url": "https://twitter.com/cailia/status/1348158414883483648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 627,
+							"h": 353,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 627,
+							"h": 353,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 627,
+							"h": 353,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19104463,
+			"id_str": "19104463",
+			"name": "Cailia",
+			"screen_name": "cailia",
+			"location": "ritsuko@765.productions",
+			"description": "아키하바라 어딘가에서 게임 같은거 만듬.",
+			"url": "https://t.co/vR19UguNw5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vR19UguNw5",
+							"expanded_url": "http://765.productions",
+							"display_url": "765.productions",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3450,
+			"friends_count": 398,
+			"listed_count": 59,
+			"created_at": "Sat Jan 17 07:44:44 +0000 2009",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 342447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1308822718909788160/XN2IarmP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1308822718909788160/XN2IarmP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19104463/1549152747",
+			"profile_link_color": "B0E3FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "633119",
+			"profile_text_color": "91551C",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5836,
+		"favorite_count": 2297,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "국제 발명대회에서 은상을 받았다는 일본 중학생이 만든 방범창.\n\n일반적인 방범창은 외벽에 부착하는 형태인데, 이 물건은 벽 사방에 구멍을 뚫어 방범창을 고정한 뒤 집 안에서 고정하는 형태.\n\n이 같은 방법으로 설치함으로 건물안에서 유사시 방범창을 풀고 탈출하는것이 가능하다는 설명으로, https://t.co/oJx5VUAbNz"
+	},
+	{
 		"created_at": "Sun Jan 10 15:30:04 +0000 2021",
 		"id": 1348291021944152000,
 		"id_str": "1348291021944152072",
