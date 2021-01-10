@@ -1,6 +1,489 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 10 15:30:04 +0000 2021",
+		"id": 1348291021944152000,
+		"id_str": "1348291021944152072",
+		"full_text": "이슈 파악해보려고 글 몇 개 읽었는데... ☹\nhttps://t.co/Z0hxIKGzQT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z0hxIKGzQT",
+					"expanded_url": "https://gall.dcinside.com/mgallery/board/lists/?id=irudagall",
+					"display_url": "gall.dcinside.com/mgallery/board…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1035,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이슈 파악해보려고 글 몇 개 읽었는데... ☹\nhttps://t.co/Z0hxIKGzQT"
+	},
+	{
+		"created_at": "Sun Jan 10 15:27:09 +0000 2021",
+		"id": 1348290287760625700,
+		"id_str": "1348290287760625664",
+		"full_text": "클라우드플레어 페이지 빨리 나왔으면 좋겠다. Workers를 쓰면 노션 셧다운 되면 같이 셧다운 되니까.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1348287682007289900,
+		"in_reply_to_status_id_str": "1348287682007289863",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1035,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "클라우드플레어 페이지 빨리 나왔으면 좋겠다. Workers를 쓰면 노션 셧다운 되면 같이 셧다운 되니까."
+	},
+	{
+		"created_at": "Sun Jan 10 15:23:57 +0000 2021",
+		"id": 1348275670040735700,
+		"id_str": "1348289482135461888",
+		"full_text": "백예린 정규 2집 'tellusboutyourself' 피지컬 앨범 디자인\n\nPVC Jacket\nMetalic Silver Hard Cover Booklet 176x246mm\n88 Pages\n14 Tracks in 1CD https://t.co/gZmRxganJb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1348275665632600000,
+					"id_str": "1348275665632600064",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/ErYJkw1VoAAMPND.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErYJkw1VoAAMPND.jpg",
+					"url": "https://t.co/gZmRxganJb",
+					"display_url": "pic.twitter.com/gZmRxganJb",
+					"expanded_url": "https://twitter.com/supersaladstuff/status/1348275670040735749/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 961,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348275665632600000,
+					"id_str": "1348275665632600064",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/ErYJkw1VoAAMPND.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErYJkw1VoAAMPND.jpg",
+					"url": "https://t.co/gZmRxganJb",
+					"display_url": "pic.twitter.com/gZmRxganJb",
+					"expanded_url": "https://twitter.com/supersaladstuff/status/1348275670040735749/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 961,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348275665628369000,
+					"id_str": "1348275665628368896",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/ErYJkw0VEAABSZF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErYJkw0VEAABSZF.jpg",
+					"url": "https://t.co/gZmRxganJb",
+					"display_url": "pic.twitter.com/gZmRxganJb",
+					"expanded_url": "https://twitter.com/supersaladstuff/status/1348275670040735749/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348275665636782000,
+					"id_str": "1348275665636782080",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/ErYJkw2VcAAjwqO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErYJkw2VcAAjwqO.jpg",
+					"url": "https://t.co/gZmRxganJb",
+					"display_url": "pic.twitter.com/gZmRxganJb",
+					"expanded_url": "https://twitter.com/supersaladstuff/status/1348275670040735749/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348275665632514000,
+					"id_str": "1348275665632514048",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/ErYJkw1UUAAVAQJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErYJkw1UUAAVAQJ.jpg",
+					"url": "https://t.co/gZmRxganJb",
+					"display_url": "pic.twitter.com/gZmRxganJb",
+					"expanded_url": "https://twitter.com/supersaladstuff/status/1348275670040735749/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1336986697028923400,
+		"in_reply_to_status_id_str": "1336986697028923393",
+		"in_reply_to_user_id": 719202626638774300,
+		"in_reply_to_user_id_str": "719202626638774272",
+		"in_reply_to_screen_name": "supersaladstuff",
+		"user": {
+			"id": 719202626638774300,
+			"id_str": "719202626638774272",
+			"name": "SUPERSALADSTUFF",
+			"screen_name": "supersaladstuff",
+			"location": "",
+			"description": "그래픽디자인을 합니다. SUPERSALADSTUFF makes printed matter, graphic design for exhibition, concert, brand identity, typeface, product.",
+			"url": "https://t.co/A8t1l6lfYG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A8t1l6lfYG",
+							"expanded_url": "http://supersaladstuff.com",
+							"display_url": "supersaladstuff.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2504,
+			"friends_count": 147,
+			"listed_count": 7,
+			"created_at": "Sun Apr 10 16:37:23 +0000 2016",
+			"favourites_count": 590,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/922722639507947520/EMCXDEVB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/922722639507947520/EMCXDEVB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/719202626638774272/1583942293",
+			"profile_link_color": "FFFFFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "백예린 정규 2집 'tellusboutyourself' 피지컬 앨범 디자인\n\nPVC Jacket\nMetalic Silver Hard Cover Booklet 176x246mm\n88 Pages\n14 Tracks in 1CD https://t.co/gZmRxganJb"
+	},
+	{
 		"created_at": "Sun Jan 10 15:16:48 +0000 2021",
 		"id": 1348287682007289900,
 		"id_str": "1348287682007289863",
