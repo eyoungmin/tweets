@@ -1,6 +1,667 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 11 03:57:21 +0000 2021",
+		"id": 1348464782681149400,
+		"id_str": "1348479080836919297",
+		"full_text": "[🎬] Hayeon(하연) - 'WALK AWAY' [M/V]\n\n▶️ https://t.co/qw0Hshh1P0 \n\n💌 Official Fancafe \n👉 https://t.co/OMD6UVU66A\n\n#하연 #Hayeon #WALKAWAY\n#Hayeon_WALKAWAY https://t.co/d0I7YMDPaD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하연",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "Hayeon",
+					"indices": [
+						116,
+						123
+					]
+				},
+				{
+					"text": "WALKAWAY",
+					"indices": [
+						124,
+						133
+					]
+				},
+				{
+					"text": "Hayeon_WALKAWAY",
+					"indices": [
+						134,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qw0Hshh1P0",
+					"expanded_url": "https://youtu.be/FQUKU8xgaM4",
+					"display_url": "youtu.be/FQUKU8xgaM4",
+					"indices": [
+						39,
+						62
+					]
+				},
+				{
+					"url": "https://t.co/OMD6UVU66A",
+					"expanded_url": "http://cafe.daum.net/Hayeon",
+					"display_url": "cafe.daum.net/Hayeon",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1348464772262424600,
+					"id_str": "1348464772262424577",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Era1kN7UcAE-ZRO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Era1kN7UcAE-ZRO.jpg",
+					"url": "https://t.co/d0I7YMDPaD",
+					"display_url": "pic.twitter.com/d0I7YMDPaD",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1348464782681149441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348464772262424600,
+					"id_str": "1348464772262424577",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Era1kN7UcAE-ZRO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Era1kN7UcAE-ZRO.jpg",
+					"url": "https://t.co/d0I7YMDPaD",
+					"display_url": "pic.twitter.com/d0I7YMDPaD",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1348464782681149441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 964372210436591600,
+			"id_str": "964372210436591616",
+			"name": "Enterarts - A.I.M",
+			"screen_name": "aimbyenterarts",
+			"location": "대한민국 서울",
+			"description": "The World's First AI Music Production Company & Record Label / Artist Management\n세계 최초 인공지능 음반 제작 레이블",
+			"url": "https://t.co/4A9OjJKnmN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4A9OjJKnmN",
+							"expanded_url": "http://www.enterarts.net",
+							"display_url": "enterarts.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276,
+			"friends_count": 11,
+			"listed_count": 3,
+			"created_at": "Fri Feb 16 05:33:46 +0000 2018",
+			"favourites_count": 894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/964372210436591616/1518759589",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 186,
+		"favorite_count": 173,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[🎬] Hayeon(하연) - 'WALK AWAY' [M/V]\n\n▶️ https://t.co/qw0Hshh1P0 \n\n💌 Official Fancafe \n👉 https://t.co/OMD6UVU66A\n\n#하연 #Hayeon #WALKAWAY\n#Hayeon_WALKAWAY https://t.co/d0I7YMDPaD"
+	},
+	{
+		"created_at": "Mon Jan 11 03:46:04 +0000 2021",
+		"id": 1323087067535069200,
+		"id_str": "1348476244661178369",
+		"full_text": "#KOCCA_MUSIC #코카뮤직 #한국콘텐츠진흥원\n[MU:CON Conference] 인공지능 음악 작곡 기술 (EVOM)을 이용한 K-POP 음반 발매 프로젝트\nhttps://t.co/uLkJdR9EGw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KOCCA_MUSIC",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "코카뮤직",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "한국콘텐츠진흥원",
+					"indices": [
+						19,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uLkJdR9EGw",
+					"expanded_url": "https://youtu.be/OPlC8umTNx0",
+					"display_url": "youtu.be/OPlC8umTNx0",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 249,
+			"friends_count": 437,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67246,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#KOCCA_MUSIC #코카뮤직 #한국콘텐츠진흥원\n[MU:CON Conference] 인공지능 음악 작곡 기술 (EVOM)을 이용한 K-POP 음반 발매 프로젝트\nhttps://t.co/uLkJdR9EGw"
+	},
+	{
+		"created_at": "Mon Jan 11 03:17:48 +0000 2021",
+		"id": 1348468283289211000,
+		"id_str": "1348469129993338880",
+		"full_text": "[🎧]  Hayeon 하연 'WALK AWAY' 가 발매되었습니다 🎉💗\n\n🎬 https://t.co/qw0Hshh1P0\n\n▶️ Melon - https://t.co/o82pFS9kSB\n▶️ Genie - https://t.co/HprAC0w809\n▶️ Bugs - https://t.co/ni2PaM3z1H\n▶️ VIBE - https://t.co/h0XjQenek1\n\n#하연 #Hayeon #WALKAWAY\n#Hayeon_WALKAWAY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하연",
+					"indices": [
+						207,
+						210
+					]
+				},
+				{
+					"text": "Hayeon",
+					"indices": [
+						211,
+						218
+					]
+				},
+				{
+					"text": "WALKAWAY",
+					"indices": [
+						219,
+						228
+					]
+				},
+				{
+					"text": "Hayeon_WALKAWAY",
+					"indices": [
+						229,
+						245
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qw0Hshh1P0",
+					"expanded_url": "https://youtu.be/FQUKU8xgaM4",
+					"display_url": "youtu.be/FQUKU8xgaM4",
+					"indices": [
+						43,
+						66
+					]
+				},
+				{
+					"url": "https://t.co/o82pFS9kSB",
+					"expanded_url": "http://kko.to/2GY2F_NDj",
+					"display_url": "kko.to/2GY2F_NDj",
+					"indices": [
+						79,
+						102
+					]
+				},
+				{
+					"url": "https://t.co/HprAC0w809",
+					"expanded_url": "http://genie.co.kr/HPEDP6",
+					"display_url": "genie.co.kr/HPEDP6",
+					"indices": [
+						114,
+						137
+					]
+				},
+				{
+					"url": "https://t.co/ni2PaM3z1H",
+					"expanded_url": "https://m.bugs.co.kr/track/6050861",
+					"display_url": "m.bugs.co.kr/track/6050861",
+					"indices": [
+						148,
+						171
+					]
+				},
+				{
+					"url": "https://t.co/h0XjQenek1",
+					"expanded_url": "http://naver.me/F6mMuXQq",
+					"display_url": "naver.me/F6mMuXQq",
+					"indices": [
+						182,
+						205
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 964372210436591600,
+			"id_str": "964372210436591616",
+			"name": "Enterarts - A.I.M",
+			"screen_name": "aimbyenterarts",
+			"location": "대한민국 서울",
+			"description": "The World's First AI Music Production Company & Record Label / Artist Management\n세계 최초 인공지능 음반 제작 레이블",
+			"url": "https://t.co/4A9OjJKnmN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4A9OjJKnmN",
+							"expanded_url": "http://www.enterarts.net",
+							"display_url": "enterarts.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276,
+			"friends_count": 11,
+			"listed_count": 3,
+			"created_at": "Fri Feb 16 05:33:46 +0000 2018",
+			"favourites_count": 894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/964372210436591616/1518759589",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎧]  Hayeon 하연 'WALK AWAY' 가 발매되었습니다 🎉💗\n\n🎬 https://t.co/qw0Hshh1P0\n\n▶️ Melon - https://t.co/o82pFS9kSB\n▶️ Genie - https://t.co/HprAC0w809\n▶️ Bugs - https://t.co/ni2PaM3z1H\n▶️ VIBE - https://t.co/h0XjQenek1\n\n#하연 #Hayeon #WALKAWAY\n#Hayeon_WALKAWAY"
+	},
+	{
+		"created_at": "Mon Jan 11 03:02:37 +0000 2021",
+		"id": 1348465309263532000,
+		"id_str": "1348465309263532032",
+		"full_text": "이달의소녀탐구 #688 (LOONA TV #688)\nhttps://t.co/iepSxpnXqf\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						60,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iepSxpnXqf",
+					"expanded_url": "https://youtu.be/5y60-8YYl7M",
+					"display_url": "youtu.be/5y60-8YYl7M",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1035,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44514,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이달의소녀탐구 #688 (LOONA TV #688)\nhttps://t.co/iepSxpnXqf\n#이달의소녀 #LOONA"
+	},
+	{
 		"created_at": "Mon Jan 11 03:01:23 +0000 2021",
 		"id": 1348464997706424300,
 		"id_str": "1348464997706424327",
