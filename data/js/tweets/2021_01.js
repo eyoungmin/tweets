@@ -1,6 +1,470 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 10 23:32:46 +0000 2021",
+		"id": 1348290555357249500,
+		"id_str": "1348412496277770245",
+		"full_text": "https://t.co/Aq2mP5lKgi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1348290495349354500,
+					"id_str": "1348290495349354496",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ErYXD91VcAAu6FA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErYXD91VcAAu6FA.jpg",
+					"url": "https://t.co/Aq2mP5lKgi",
+					"display_url": "pic.twitter.com/Aq2mP5lKgi",
+					"expanded_url": "https://twitter.com/thetearoffear/status/1348290555357249537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1899,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 387,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 682,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348290495349354500,
+					"id_str": "1348290495349354496",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ErYXD91VcAAu6FA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErYXD91VcAAu6FA.jpg",
+					"url": "https://t.co/Aq2mP5lKgi",
+					"display_url": "pic.twitter.com/Aq2mP5lKgi",
+					"expanded_url": "https://twitter.com/thetearoffear/status/1348290555357249537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1899,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 387,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 682,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348290506879422500,
+					"id_str": "1348290506879422464",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ErYXEoyUUAAoh0P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErYXEoyUUAAoh0P.jpg",
+					"url": "https://t.co/Aq2mP5lKgi",
+					"display_url": "pic.twitter.com/Aq2mP5lKgi",
+					"expanded_url": "https://twitter.com/thetearoffear/status/1348290555357249537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 704,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1074,
+							"h": 1830,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 399,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1348286793704067000,
+		"in_reply_to_status_id_str": "1348286793704067072",
+		"in_reply_to_user_id": 1346356235197563000,
+		"in_reply_to_user_id_str": "1346356235197562880",
+		"in_reply_to_screen_name": "thetearoffear",
+		"user": {
+			"id": 1346356235197563000,
+			"id_str": "1346356235197562880",
+			"name": "Thetearoffear",
+			"screen_name": "thetearoffear",
+			"location": "",
+			"description": "어린 여자는 영원히 어리지 않다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Tue Jan 05 07:22:04 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 672,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/Aq2mP5lKgi"
+	},
+	{
+		"created_at": "Sun Jan 10 23:32:44 +0000 2021",
+		"id": 1348286793704067000,
+		"id_str": "1348412487792615426",
+		"full_text": "https://t.co/dGamVrkQ3z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1348286700439564300,
+					"id_str": "1348286700439564295",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ErYTnEsVcAcXL6N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErYTnEsVcAcXL6N.jpg",
+					"url": "https://t.co/dGamVrkQ3z",
+					"display_url": "pic.twitter.com/dGamVrkQ3z",
+					"expanded_url": "https://twitter.com/thetearoffear/status/1348286793704067072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 741,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348286700439564300,
+					"id_str": "1348286700439564295",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ErYTnEsVcAcXL6N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErYTnEsVcAcXL6N.jpg",
+					"url": "https://t.co/dGamVrkQ3z",
+					"display_url": "pic.twitter.com/dGamVrkQ3z",
+					"expanded_url": "https://twitter.com/thetearoffear/status/1348286793704067072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 741,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1750,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348286720320499700,
+					"id_str": "1348286720320499717",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ErYToOwUcAUlZU-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErYToOwUcAUlZU-.jpg",
+					"url": "https://t.co/dGamVrkQ3z",
+					"display_url": "pic.twitter.com/dGamVrkQ3z",
+					"expanded_url": "https://twitter.com/thetearoffear/status/1348286793704067072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 683,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 387,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1898,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348286741719912400,
+					"id_str": "1348286741719912448",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ErYTpeeVkAAT3li.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErYTpeeVkAAT3li.jpg",
+					"url": "https://t.co/dGamVrkQ3z",
+					"display_url": "pic.twitter.com/dGamVrkQ3z",
+					"expanded_url": "https://twitter.com/thetearoffear/status/1348286793704067072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 688,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1884,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 390,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348286773957283800,
+					"id_str": "1348286773957283843",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ErYTrWkU0AM2eq8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErYTrWkU0AM2eq8.jpg",
+					"url": "https://t.co/dGamVrkQ3z",
+					"display_url": "pic.twitter.com/dGamVrkQ3z",
+					"expanded_url": "https://twitter.com/thetearoffear/status/1348286793704067072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1727,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 425,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1346356235197563000,
+			"id_str": "1346356235197562880",
+			"name": "Thetearoffear",
+			"screen_name": "thetearoffear",
+			"location": "",
+			"description": "어린 여자는 영원히 어리지 않다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Tue Jan 05 07:22:04 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2872,
+		"favorite_count": 374,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/dGamVrkQ3z"
+	},
+	{
 		"created_at": "Sun Jan 10 21:13:21 +0000 2021",
 		"id": 1348377413340844000,
 		"id_str": "1348377413340844040",
