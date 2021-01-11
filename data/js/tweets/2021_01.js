@@ -1,6 +1,2171 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 11 15:19:16 +0000 2021",
+		"id": 1348464651206463500,
+		"id_str": "1348650690877423618",
+		"full_text": "U-KNOW 유노윤호 The 2nd Mini Album [NOIR]\n‘불면 (不眠; La Rosa)’ Film Poster\n\n🎧 2021.01.18. 6PM KST\n\n#U_KNOW #유노윤호\n#동방신기 #TVXQ! #東方神起\n#NOIR\n#불면 #不眠 #LaRosa https://t.co/0NVPNYPCt4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "U_KNOW",
+					"indices": [
+						93,
+						100
+					]
+				},
+				{
+					"text": "유노윤호",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "NOIR",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "불면",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "不眠",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "LaRosa",
+					"indices": [
+						140,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1348453030060912600,
+					"id_str": "1348453030060912641",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/Eraq4u0UcAEB4y6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eraq4u0UcAEB4y6.jpg",
+					"url": "https://t.co/0NVPNYPCt4",
+					"display_url": "pic.twitter.com/0NVPNYPCt4",
+					"expanded_url": "https://twitter.com/TVXQ/status/1348464651206463488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1430,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348453030060912600,
+					"id_str": "1348453030060912641",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/Eraq4u0UcAEB4y6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eraq4u0UcAEB4y6.jpg",
+					"url": "https://t.co/0NVPNYPCt4",
+					"display_url": "pic.twitter.com/0NVPNYPCt4",
+					"expanded_url": "https://twitter.com/TVXQ/status/1348464651206463488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1430,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296989,
+			"friends_count": 1,
+			"listed_count": 884,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278891382002774016/ohtM6XiE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278891382002774016/ohtM6XiE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4246,
+		"favorite_count": 15183,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "U-KNOW 유노윤호 The 2nd Mini Album [NOIR]\n‘불면 (不眠; La Rosa)’ Film Poster\n\n🎧 2021.01.18. 6PM KST\n\n#U_KNOW #유노윤호\n#동방신기 #TVXQ! #東方神起\n#NOIR\n#불면 #不眠 #LaRosa https://t.co/0NVPNYPCt4"
+	},
+	{
+		"created_at": "Mon Jan 11 15:19:11 +0000 2021",
+		"id": 1348555266103550000,
+		"id_str": "1348650672191782915",
+		"full_text": "U-KNOW 유노윤호 The 2nd Mini Album [NOIR]\n‘불면 (不眠; La Rosa)’ Teaser Image\n\n🎧 2021.01.18. 6PM KST\n\n#U_KNOW #유노윤호\n#동방신기 #TVXQ! #東方神起\n#NOIR\n#불면 #不眠 #LaRosa https://t.co/A1DobFQN3H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "U_KNOW",
+					"indices": [
+						94,
+						101
+					]
+				},
+				{
+					"text": "유노윤호",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "NOIR",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "불면",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "不眠",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "LaRosa",
+					"indices": [
+						141,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1348519876021784600,
+					"id_str": "1348519876021784578",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/ErbnrrbVEAIEbbc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErbnrrbVEAIEbbc.jpg",
+					"url": "https://t.co/A1DobFQN3H",
+					"display_url": "pic.twitter.com/A1DobFQN3H",
+					"expanded_url": "https://twitter.com/TVXQ/status/1348555266103549952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1367,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348519876021784600,
+					"id_str": "1348519876021784578",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/ErbnrrbVEAIEbbc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErbnrrbVEAIEbbc.jpg",
+					"url": "https://t.co/A1DobFQN3H",
+					"display_url": "pic.twitter.com/A1DobFQN3H",
+					"expanded_url": "https://twitter.com/TVXQ/status/1348555266103549952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1367,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296989,
+			"friends_count": 1,
+			"listed_count": 884,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278891382002774016/ohtM6XiE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278891382002774016/ohtM6XiE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3695,
+		"favorite_count": 11336,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "U-KNOW 유노윤호 The 2nd Mini Album [NOIR]\n‘불면 (不眠; La Rosa)’ Teaser Image\n\n🎧 2021.01.18. 6PM KST\n\n#U_KNOW #유노윤호\n#동방신기 #TVXQ! #東方神起\n#NOIR\n#불면 #不眠 #LaRosa https://t.co/A1DobFQN3H"
+	},
+	{
+		"created_at": "Mon Jan 11 15:19:08 +0000 2021",
+		"id": 1348555297376272400,
+		"id_str": "1348650657838891013",
+		"full_text": "U-KNOW 유노윤호 The 2nd Mini Album [NOIR]\n‘불면 (不眠; La Rosa)’ Teaser Image\n\n🎧 2021.01.18. 6PM KST\n\n#U_KNOW #유노윤호\n#동방신기 #TVXQ! #東方神起\n#NOIR\n#불면 #不眠 #LaRosa https://t.co/gyOtG0gTny",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "U_KNOW",
+					"indices": [
+						94,
+						101
+					]
+				},
+				{
+					"text": "유노윤호",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "NOIR",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "불면",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "不眠",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "LaRosa",
+					"indices": [
+						141,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1348519876227342300,
+					"id_str": "1348519876227342339",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/ErbnrsMVoAMShgw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErbnrsMVoAMShgw.jpg",
+					"url": "https://t.co/gyOtG0gTny",
+					"display_url": "pic.twitter.com/gyOtG0gTny",
+					"expanded_url": "https://twitter.com/TVXQ/status/1348555297376272386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1367,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348519876227342300,
+					"id_str": "1348519876227342339",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/ErbnrsMVoAMShgw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErbnrsMVoAMShgw.jpg",
+					"url": "https://t.co/gyOtG0gTny",
+					"display_url": "pic.twitter.com/gyOtG0gTny",
+					"expanded_url": "https://twitter.com/TVXQ/status/1348555297376272386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1367,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296989,
+			"friends_count": 1,
+			"listed_count": 884,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278891382002774016/ohtM6XiE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278891382002774016/ohtM6XiE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3215,
+		"favorite_count": 9521,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "U-KNOW 유노윤호 The 2nd Mini Album [NOIR]\n‘불면 (不眠; La Rosa)’ Teaser Image\n\n🎧 2021.01.18. 6PM KST\n\n#U_KNOW #유노윤호\n#동방신기 #TVXQ! #東方神起\n#NOIR\n#불면 #不眠 #LaRosa https://t.co/gyOtG0gTny"
+	},
+	{
+		"created_at": "Mon Jan 11 15:19:00 +0000 2021",
+		"id": 1348555363239436300,
+		"id_str": "1348650627274969089",
+		"full_text": "U-KNOW 유노윤호 The 2nd Mini Album [NOIR]\n‘불면 (不眠; La Rosa)’ Teaser Image\n\n🎧 2021.01.18. 6PM KST\n\n#U_KNOW #유노윤호\n#동방신기 #TVXQ! #東方神起\n#NOIR\n#불면 #不眠 #LaRosa https://t.co/53Z30dzbC9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "U_KNOW",
+					"indices": [
+						94,
+						101
+					]
+				},
+				{
+					"text": "유노윤호",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "NOIR",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "불면",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "不眠",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "LaRosa",
+					"indices": [
+						141,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1348519876655161300,
+					"id_str": "1348519876655161344",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/ErbnrtyVoAAsEca.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErbnrtyVoAAsEca.jpg",
+					"url": "https://t.co/53Z30dzbC9",
+					"display_url": "pic.twitter.com/53Z30dzbC9",
+					"expanded_url": "https://twitter.com/TVXQ/status/1348555363239436294/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348519876655161300,
+					"id_str": "1348519876655161344",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/ErbnrtyVoAAsEca.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErbnrtyVoAAsEca.jpg",
+					"url": "https://t.co/53Z30dzbC9",
+					"display_url": "pic.twitter.com/53Z30dzbC9",
+					"expanded_url": "https://twitter.com/TVXQ/status/1348555363239436294/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296989,
+			"friends_count": 1,
+			"listed_count": 884,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278891382002774016/ohtM6XiE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278891382002774016/ohtM6XiE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2294,
+		"favorite_count": 6976,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "U-KNOW 유노윤호 The 2nd Mini Album [NOIR]\n‘불면 (不眠; La Rosa)’ Teaser Image\n\n🎧 2021.01.18. 6PM KST\n\n#U_KNOW #유노윤호\n#동방신기 #TVXQ! #東方神起\n#NOIR\n#불면 #不眠 #LaRosa https://t.co/53Z30dzbC9"
+	},
+	{
+		"created_at": "Mon Jan 11 15:18:54 +0000 2021",
+		"id": 1348555395334213600,
+		"id_str": "1348650602033631236",
+		"full_text": "U-KNOW 유노윤호 The 2nd Mini Album [NOIR]\n‘불면 (不眠; La Rosa)’ Teaser Image\n\n🎧 2021.01.18. 6PM KST\n\n#U_KNOW #유노윤호\n#동방신기 #TVXQ! #東方神起\n#NOIR\n#불면 #不眠 #LaRosa https://t.co/ruGZBQrU9S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "U_KNOW",
+					"indices": [
+						94,
+						101
+					]
+				},
+				{
+					"text": "유노윤호",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "NOIR",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "불면",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "不眠",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "LaRosa",
+					"indices": [
+						141,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1348519884099997700,
+					"id_str": "1348519884099997698",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/ErbnsJhU0AIzcd4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErbnsJhU0AIzcd4.jpg",
+					"url": "https://t.co/ruGZBQrU9S",
+					"display_url": "pic.twitter.com/ruGZBQrU9S",
+					"expanded_url": "https://twitter.com/TVXQ/status/1348555395334213632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348519884099997700,
+					"id_str": "1348519884099997698",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/ErbnsJhU0AIzcd4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErbnsJhU0AIzcd4.jpg",
+					"url": "https://t.co/ruGZBQrU9S",
+					"display_url": "pic.twitter.com/ruGZBQrU9S",
+					"expanded_url": "https://twitter.com/TVXQ/status/1348555395334213632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296989,
+			"friends_count": 1,
+			"listed_count": 884,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278891382002774016/ohtM6XiE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278891382002774016/ohtM6XiE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3173,
+		"favorite_count": 9597,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "U-KNOW 유노윤호 The 2nd Mini Album [NOIR]\n‘불면 (不眠; La Rosa)’ Teaser Image\n\n🎧 2021.01.18. 6PM KST\n\n#U_KNOW #유노윤호\n#동방신기 #TVXQ! #東方神起\n#NOIR\n#불면 #不眠 #LaRosa https://t.co/ruGZBQrU9S"
+	},
+	{
+		"created_at": "Mon Jan 11 15:16:19 +0000 2021",
+		"id": 1348645847316230100,
+		"id_str": "1348649950041702400",
+		"full_text": "U-KNOW - NOIR Film EP.3 '불면 (不眠; La Rosa) (Feat. 신예은)'\n\nU-KNOW 유노윤호 The 2nd Mini Album [NOIR]\n\n🎧 2021.01.18. 6PM KST\n\n#U_KNOW #유노윤호\n#동방신기 #TVXQ! #東方神起\n#NOIR\n#불면 #不眠 #LaRosa https://t.co/awvyAxtCdK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "U_KNOW",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "유노윤호",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "NOIR",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "불면",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "不眠",
+					"indices": [
+						161,
+						164
+					]
+				},
+				{
+					"text": "LaRosa",
+					"indices": [
+						165,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1348549010915659800,
+					"id_str": "1348549010915659776",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/ErcT_0sVoAAfmG1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErcT_0sVoAAfmG1.jpg",
+					"url": "https://t.co/awvyAxtCdK",
+					"display_url": "pic.twitter.com/awvyAxtCdK",
+					"expanded_url": "https://twitter.com/TVXQ/status/1348645847316230151/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348549010915659800,
+					"id_str": "1348549010915659776",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/ErcT_0sVoAAfmG1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErcT_0sVoAAfmG1.jpg",
+					"url": "https://t.co/awvyAxtCdK",
+					"display_url": "pic.twitter.com/awvyAxtCdK",
+					"expanded_url": "https://twitter.com/TVXQ/status/1348645847316230151/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 136386,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1348549010915659776/pl/rcdEFUM0mBO4Hqvx.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1348549010915659776/vid/480x270/4cfS-qaek4WZIxR3.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1348549010915659776/vid/1280x720/yBVdYqXuF8ZfXRzN.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1348549010915659776/vid/640x360/BkeKP5xd7Zewr6iR.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296989,
+			"friends_count": 1,
+			"listed_count": 884,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278891382002774016/ohtM6XiE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278891382002774016/ohtM6XiE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1583379566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1719,
+		"favorite_count": 2675,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "U-KNOW - NOIR Film EP.3 '불면 (不眠; La Rosa) (Feat. 신예은)'\n\nU-KNOW 유노윤호 The 2nd Mini Album [NOIR]\n\n🎧 2021.01.18. 6PM KST\n\n#U_KNOW #유노윤호\n#동방신기 #TVXQ! #東方神起\n#NOIR\n#불면 #不眠 #LaRosa https://t.co/awvyAxtCdK"
+	},
+	{
+		"created_at": "Mon Jan 11 15:10:19 +0000 2021",
+		"id": 1348132461461573600,
+		"id_str": "1348648441040179201",
+		"full_text": "[📽] (여자)아이들((G)I-DLE) - I-TALK #79 : \"I burn\" 재킷 촬영 현장 비하인드\n\n#여자아이들 #GIDLE #I_TALK\n#I_burn #화(火花) #HWAA\n\n▶️ https://t.co/yfjvANjppR https://t.co/CX84fX8wae",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "I_TALK",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"text": "I_burn",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "화",
+					"indices": [
+						91,
+						93
+					]
+				},
+				{
+					"text": "HWAA",
+					"indices": [
+						98,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yfjvANjppR",
+					"expanded_url": "https://youtu.be/QTaC9QjUlNo",
+					"display_url": "youtu.be/QTaC9QjUlNo",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1348103501444911000,
+					"id_str": "1348103501444911105",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/ErVs_fQVkAEAK2t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErVs_fQVkAEAK2t.jpg",
+					"url": "https://t.co/CX84fX8wae",
+					"display_url": "pic.twitter.com/CX84fX8wae",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1348132461461573632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348103501444911000,
+					"id_str": "1348103501444911105",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/ErVs_fQVkAEAK2t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErVs_fQVkAEAK2t.jpg",
+					"url": "https://t.co/CX84fX8wae",
+					"display_url": "pic.twitter.com/CX84fX8wae",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1348132461461573632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/wJhVLqpGQb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wJhVLqpGQb",
+							"expanded_url": "https://united-cube.com/",
+							"display_url": "united-cube.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1073842,
+			"friends_count": 37,
+			"listed_count": 3379,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 165,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1609686380",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3608,
+		"favorite_count": 14218,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📽] (여자)아이들((G)I-DLE) - I-TALK #79 : \"I burn\" 재킷 촬영 현장 비하인드\n\n#여자아이들 #GIDLE #I_TALK\n#I_burn #화(火花) #HWAA\n\n▶️ https://t.co/yfjvANjppR https://t.co/CX84fX8wae"
+	},
+	{
+		"created_at": "Mon Jan 11 15:10:08 +0000 2021",
+		"id": 1348556301777789000,
+		"id_str": "1348648392537239554",
+		"full_text": "[🎧] (여자)아이들 - I burn\n\n✔ 멜론: https://t.co/WZZAMfwSH0\n✔ 지니: https://t.co/kWYBY65UL6\n✔ 벅스: https://t.co/g4OjTHblmF\n✔ 플로: https://t.co/T73ltEBVXI\n✔ 바이브: https://t.co/vJwbXBfezR\n\n#여자아이들 #GIDLE\n#I_burn #화(火花) #HWAA https://t.co/emucgYutri",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						181,
+						187
+					]
+				},
+				{
+					"text": "I_burn",
+					"indices": [
+						188,
+						195
+					]
+				},
+				{
+					"text": "화",
+					"indices": [
+						196,
+						198
+					]
+				},
+				{
+					"text": "HWAA",
+					"indices": [
+						203,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WZZAMfwSH0",
+					"expanded_url": "https://bit.ly/2MU3uq3",
+					"display_url": "bit.ly/2MU3uq3",
+					"indices": [
+						28,
+						51
+					]
+				},
+				{
+					"url": "https://t.co/kWYBY65UL6",
+					"expanded_url": "https://bit.ly/2XxgMKU",
+					"display_url": "bit.ly/2XxgMKU",
+					"indices": [
+						58,
+						81
+					]
+				},
+				{
+					"url": "https://t.co/g4OjTHblmF",
+					"expanded_url": "https://bit.ly/3oxlm88",
+					"display_url": "bit.ly/3oxlm88",
+					"indices": [
+						88,
+						111
+					]
+				},
+				{
+					"url": "https://t.co/T73ltEBVXI",
+					"expanded_url": "https://bit.ly/39hRQNf",
+					"display_url": "bit.ly/39hRQNf",
+					"indices": [
+						118,
+						141
+					]
+				},
+				{
+					"url": "https://t.co/vJwbXBfezR",
+					"expanded_url": "https://bit.ly/3btitRN",
+					"display_url": "bit.ly/3btitRN",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1348556294760775700,
+					"id_str": "1348556294760775685",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/ErcIzhzVQAUJL6j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErcIzhzVQAUJL6j.jpg",
+					"url": "https://t.co/emucgYutri",
+					"display_url": "pic.twitter.com/emucgYutri",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1348556301777788934/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348556294760775700,
+					"id_str": "1348556294760775685",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/ErcIzhzVQAUJL6j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErcIzhzVQAUJL6j.jpg",
+					"url": "https://t.co/emucgYutri",
+					"display_url": "pic.twitter.com/emucgYutri",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1348556301777788934/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/wJhVLqpGQb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wJhVLqpGQb",
+							"expanded_url": "https://united-cube.com/",
+							"display_url": "united-cube.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1073842,
+			"friends_count": 37,
+			"listed_count": 3379,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 165,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1609686380",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4742,
+		"favorite_count": 12835,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎧] (여자)아이들 - I burn\n\n✔ 멜론: https://t.co/WZZAMfwSH0\n✔ 지니: https://t.co/kWYBY65UL6\n✔ 벅스: https://t.co/g4OjTHblmF\n✔ 플로: https://t.co/T73ltEBVXI\n✔ 바이브: https://t.co/vJwbXBfezR\n\n#여자아이들 #GIDLE\n#I_burn #화(火花) #HWAA https://t.co/emucgYutri"
+	},
+	{
+		"created_at": "Mon Jan 11 15:10:02 +0000 2021",
+		"id": 1348555247090884600,
+		"id_str": "1348648369330143232",
+		"full_text": "[📽] (여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Official Music Video\n\n#여자아이들 #GIDLE\n#I_burn #화(火花) #HWAA\n\n▶️ https://t.co/uMnHiYZScQ https://t.co/e6RDWuF73C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "I_burn",
+					"indices": [
+						74,
+						81
+					]
+				},
+				{
+					"text": "화",
+					"indices": [
+						82,
+						84
+					]
+				},
+				{
+					"text": "HWAA",
+					"indices": [
+						89,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uMnHiYZScQ",
+					"expanded_url": "https://youtu.be/z3szNvgQxHo",
+					"display_url": "youtu.be/z3szNvgQxHo",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1348542907125358600,
+					"id_str": "1348542907125358596",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/Erb8oQ-UYAQI63V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Erb8oQ-UYAQI63V.jpg",
+					"url": "https://t.co/e6RDWuF73C",
+					"display_url": "pic.twitter.com/e6RDWuF73C",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1348555247090884608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348542907125358600,
+					"id_str": "1348542907125358596",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/Erb8oQ-UYAQI63V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Erb8oQ-UYAQI63V.jpg",
+					"url": "https://t.co/e6RDWuF73C",
+					"display_url": "pic.twitter.com/e6RDWuF73C",
+					"expanded_url": "https://twitter.com/G_I_DLE/status/1348555247090884608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 967000437797761000,
+			"id_str": "967000437797761024",
+			"name": "(G)I-DLE·(여자)아이들",
+			"screen_name": "G_I_DLE",
+			"location": "",
+			"description": "#GIDLE Official Twitter",
+			"url": "https://t.co/wJhVLqpGQb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wJhVLqpGQb",
+							"expanded_url": "https://united-cube.com/",
+							"display_url": "united-cube.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1073842,
+			"friends_count": 37,
+			"listed_count": 3379,
+			"created_at": "Fri Feb 23 11:37:25 +0000 2018",
+			"favourites_count": 165,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982475173315018752/ieEV98Wo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967000437797761024/1609686380",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17769,
+		"favorite_count": 30071,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "[📽] (여자)아이들((G)I-DLE) - '화(火花)(HWAA)' Official Music Video\n\n#여자아이들 #GIDLE\n#I_burn #화(火花) #HWAA\n\n▶️ https://t.co/uMnHiYZScQ https://t.co/e6RDWuF73C"
+	},
+	{
 		"created_at": "Mon Jan 11 13:22:31 +0000 2021",
 		"id": 1348298661436903400,
 		"id_str": "1348621312311271424",
