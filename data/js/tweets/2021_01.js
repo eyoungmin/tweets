@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 12 18:02:06 +0000 2021",
+		"id": 1349046558373732400,
+		"id_str": "1349054057307058176",
+		"full_text": "“Billie Eilish” - The photo book by Billie \nGet the book and the audiobook companion (narrated by Billie) on 5/11. \nPre-order now https://t.co/PAYxvTW64A https://t.co/MM95UUVI8Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PAYxvTW64A",
+					"expanded_url": "http://billieeilish.com/book",
+					"display_url": "billieeilish.com/book",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1349040654567936000,
+					"id_str": "1349040654567936001",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/ErjBU-sVEAExb_R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErjBU-sVEAExb_R.jpg",
+					"url": "https://t.co/MM95UUVI8Y",
+					"display_url": "pic.twitter.com/MM95UUVI8Y",
+					"expanded_url": "https://twitter.com/billieeilish/status/1349046558373732355/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1707,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 567,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349040654567936000,
+					"id_str": "1349040654567936001",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/ErjBU-sVEAExb_R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErjBU-sVEAExb_R.jpg",
+					"url": "https://t.co/MM95UUVI8Y",
+					"display_url": "pic.twitter.com/MM95UUVI8Y",
+					"expanded_url": "https://twitter.com/billieeilish/status/1349046558373732355/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1707,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 567,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? https://t.co/jPS2qPEVbA | “Therefore I Am” https://t.co/E5ubhVL7x3",
+			"url": "https://t.co/oRhmwrN1J1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRhmwrN1J1",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPS2qPEVbA",
+							"expanded_url": "https://smarturl.it/BILLIEALBUM",
+							"display_url": "smarturl.it/BILLIEALBUM",
+							"indices": [
+								41,
+								64
+							]
+						},
+						{
+							"url": "https://t.co/E5ubhVL7x3",
+							"expanded_url": "https://smarturl.it/ThereforeIAm",
+							"display_url": "smarturl.it/ThereforeIAm",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5355877,
+			"friends_count": 0,
+			"listed_count": 3320,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326956252845371394/4UYImnxl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326956252845371394/4UYImnxl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1605204422",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1638,
+		"favorite_count": 18250,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Billie Eilish” - The photo book by Billie \nGet the book and the audiobook companion (narrated by Billie) on 5/11. \nPre-order now https://t.co/PAYxvTW64A https://t.co/MM95UUVI8Y"
+	},
+	{
 		"created_at": "Tue Jan 12 17:27:07 +0000 2021",
 		"id": 1349045256952668200,
 		"id_str": "1349045256952668160",
