@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 12 15:02:06 +0000 2021",
+		"id": 1349008233898283000,
+		"id_str": "1349008758446436360",
+		"full_text": "CHUNG HA\nThe 1st Studio Album\n[ Querencia ]\n\nTrack List 2\n\n#청하 #CHUNGHA\n#X #CHUNGHA_X\n#걸어온_길에_꽃밭_따윈_없었죠\n#Querencia https://t.co/wDcJTU9QrF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						63,
+						71
+					]
+				},
+				{
+					"text": "X",
+					"indices": [
+						72,
+						74
+					]
+				},
+				{
+					"text": "CHUNGHA_X",
+					"indices": [
+						75,
+						85
+					]
+				},
+				{
+					"text": "걸어온_길에_꽃밭_따윈_없었죠",
+					"indices": [
+						86,
+						103
+					]
+				},
+				{
+					"text": "Querencia",
+					"indices": [
+						104,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1348974248065306600,
+					"id_str": "1348974248065306625",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EriE7nMVEAEMR3a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EriE7nMVEAEMR3a.jpg",
+					"url": "https://t.co/wDcJTU9QrF",
+					"display_url": "pic.twitter.com/wDcJTU9QrF",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1349008233898283008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348974248065306600,
+					"id_str": "1348974248065306625",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EriE7nMVEAEMR3a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EriE7nMVEAEMR3a.jpg",
+					"url": "https://t.co/wDcJTU9QrF",
+					"display_url": "pic.twitter.com/wDcJTU9QrF",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1349008233898283008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/MasTugaSJD\nCHUNG HA Website 💚💙💜 https://t.co/KNLHLQCXaH",
+			"url": "https://t.co/reTg513UFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg513UFX",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MasTugaSJD",
+							"expanded_url": "http://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								31,
+								54
+							]
+						},
+						{
+							"url": "https://t.co/KNLHLQCXaH",
+							"expanded_url": "http://chunghaofficial.com/",
+							"display_url": "chunghaofficial.com",
+							"indices": [
+								76,
+								99
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 300807,
+			"friends_count": 0,
+			"listed_count": 1864,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1606446336",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3104,
+		"favorite_count": 7314,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CHUNG HA\nThe 1st Studio Album\n[ Querencia ]\n\nTrack List 2\n\n#청하 #CHUNGHA\n#X #CHUNGHA_X\n#걸어온_길에_꽃밭_따윈_없었죠\n#Querencia https://t.co/wDcJTU9QrF"
+	},
+	{
 		"created_at": "Tue Jan 12 13:41:12 +0000 2021",
 		"id": 1348988401991766000,
 		"id_str": "1348988401991766018",
