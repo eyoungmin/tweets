@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 13 15:02:06 +0000 2021",
+		"id": 1349370620060991500,
+		"id_str": "1349371146819547139",
+		"full_text": "CHUNG HA\nThe 1st Studio Album\n[ Querencia ]\n\nOnline Cover Image\n\n#청하 #CHUNGHA\n#CHUNGHA_Querencia\n#CHUNGHA_Bicycle\n#Querencia #Bicycle https://t.co/oJcC8jEqhS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						69,
+						77
+					]
+				},
+				{
+					"text": "CHUNGHA_Querencia",
+					"indices": [
+						78,
+						96
+					]
+				},
+				{
+					"text": "CHUNGHA_Bicycle",
+					"indices": [
+						97,
+						113
+					]
+				},
+				{
+					"text": "Querencia",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"text": "Bicycle",
+					"indices": [
+						125,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1349285802484793300,
+					"id_str": "1349285802484793346",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ErmgSd2VgAIw1I3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErmgSd2VgAIw1I3.jpg",
+					"url": "https://t.co/oJcC8jEqhS",
+					"display_url": "pic.twitter.com/oJcC8jEqhS",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1349370620060991489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349285802484793300,
+					"id_str": "1349285802484793346",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/ErmgSd2VgAIw1I3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErmgSd2VgAIw1I3.jpg",
+					"url": "https://t.co/oJcC8jEqhS",
+					"display_url": "pic.twitter.com/oJcC8jEqhS",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1349370620060991489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/MasTugaSJD\nCHUNG HA Website 💚💙💜 https://t.co/KNLHLQCXaH",
+			"url": "https://t.co/reTg513UFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg513UFX",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MasTugaSJD",
+							"expanded_url": "http://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								31,
+								54
+							]
+						},
+						{
+							"url": "https://t.co/KNLHLQCXaH",
+							"expanded_url": "http://chunghaofficial.com/",
+							"display_url": "chunghaofficial.com",
+							"indices": [
+								76,
+								99
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 304862,
+			"friends_count": 0,
+			"listed_count": 1861,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1606446336",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3077,
+		"favorite_count": 7565,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CHUNG HA\nThe 1st Studio Album\n[ Querencia ]\n\nOnline Cover Image\n\n#청하 #CHUNGHA\n#CHUNGHA_Querencia\n#CHUNGHA_Bicycle\n#Querencia #Bicycle https://t.co/oJcC8jEqhS"
+	},
+	{
 		"created_at": "Wed Jan 13 14:07:15 +0000 2021",
 		"id": 1349357345046859800,
 		"id_str": "1349357345046859776",
