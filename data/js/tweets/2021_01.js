@@ -1,6 +1,1111 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 13 11:28:03 +0000 2021",
+		"id": 1349315654143250400,
+		"id_str": "1349317279528398848",
+		"full_text": "레드벨벳 #골든디스크어워즈 디지털 음원 부문 본상🏆\n#가온차트뮤직어워즈 올해의 가수상 디지털 음원부문 12월 1위🥇💕\n\n#레드벨벳 #RedVelvet\n#아이린 #슬기 #웬디 #조이 #예리\n#IRENE #SEULGI #WENDY #JOY #YERI https://t.co/FMQSssX5Wc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "골든디스크어워즈",
+					"indices": [
+						5,
+						14
+					]
+				},
+				{
+					"text": "가온차트뮤직어워즈",
+					"indices": [
+						29,
+						39
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						73,
+						83
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						132,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1349315638536200200,
+					"id_str": "1349315638536200195",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Erm7bJzUYAMlGK0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Erm7bJzUYAMlGK0.jpg",
+					"url": "https://t.co/FMQSssX5Wc",
+					"display_url": "pic.twitter.com/FMQSssX5Wc",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1349315654143250436/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349315638536200200,
+					"id_str": "1349315638536200195",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Erm7bJzUYAMlGK0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Erm7bJzUYAMlGK0.jpg",
+					"url": "https://t.co/FMQSssX5Wc",
+					"display_url": "pic.twitter.com/FMQSssX5Wc",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1349315654143250436/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3589782,
+			"friends_count": 1,
+			"listed_count": 7537,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1575,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20717,
+		"favorite_count": 43530,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳 #골든디스크어워즈 디지털 음원 부문 본상🏆\n#가온차트뮤직어워즈 올해의 가수상 디지털 음원부문 12월 1위🥇💕\n\n#레드벨벳 #RedVelvet\n#아이린 #슬기 #웬디 #조이 #예리\n#IRENE #SEULGI #WENDY #JOY #YERI https://t.co/FMQSssX5Wc"
+	},
+	{
+		"created_at": "Wed Jan 13 11:27:57 +0000 2021",
+		"id": 1349313668815618000,
+		"id_str": "1349317253897068545",
+		"full_text": "💜LEVEL UP 프로젝트 2💜 스트리밍 안내 \n\n✔️ 언제 : 1월 14일 (목), 15일 (금) 오후 1시 (KST)\n✔️ 어디서 : SM C&amp;C STUDIO 채널(👇🏻 여기 👇🏻)에서\nhttps://t.co/ICFYlenIRC\n\n👍🏻구독👍🏻과 ⏰알림 설정⏰과 함께 \n SM C&amp;C STUDIO의 콘텐츠를 만나보세요✨\n\n#RedVelvet #레벨업2 #레벨업프로젝트2 https://t.co/4MKDdRvPxj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						189,
+						199
+					]
+				},
+				{
+					"text": "레벨업2",
+					"indices": [
+						200,
+						205
+					]
+				},
+				{
+					"text": "레벨업프로젝트2",
+					"indices": [
+						206,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ICFYlenIRC",
+					"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+					"display_url": "youtube.com/c/SMCCStudio",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1349313569431515100,
+					"id_str": "1349313569431515149",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Erm5ityUcA0gcbR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Erm5ityUcA0gcbR.jpg",
+					"url": "https://t.co/4MKDdRvPxj",
+					"display_url": "pic.twitter.com/4MKDdRvPxj",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1349313668815618049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349313569431515100,
+					"id_str": "1349313569431515149",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Erm5ityUcA0gcbR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Erm5ityUcA0gcbR.jpg",
+					"url": "https://t.co/4MKDdRvPxj",
+					"display_url": "pic.twitter.com/4MKDdRvPxj",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1349313668815618049/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Erm5ityUcA0gcbR.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page\n\n🏖 M토피아\n🔥 심포유 찬열 편\n📺 WayVision\n🍴 청담KEY친\n💙 슈주 리턴즈4",
+			"url": "https://t.co/qCwgD9FIgZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qCwgD9FIgZ",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31924,
+			"friends_count": 0,
+			"listed_count": 50,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1607069106",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 188,
+		"favorite_count": 370,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💜LEVEL UP 프로젝트 2💜 스트리밍 안내 \n\n✔️ 언제 : 1월 14일 (목), 15일 (금) 오후 1시 (KST)\n✔️ 어디서 : SM C&amp;C STUDIO 채널(👇🏻 여기 👇🏻)에서\nhttps://t.co/ICFYlenIRC\n\n👍🏻구독👍🏻과 ⏰알림 설정⏰과 함께 \n SM C&amp;C STUDIO의 콘텐츠를 만나보세요✨\n\n#RedVelvet #레벨업2 #레벨업프로젝트2 https://t.co/4MKDdRvPxj"
+	},
+	{
+		"created_at": "Wed Jan 13 11:02:19 +0000 2021",
+		"id": 1349306046037123000,
+		"id_str": "1349310803887972352",
+		"full_text": "[NOTICE] 금일 저녁 8시 예정된 '청하's 별★별 라디오'는 \n송출 확인 중 발견한 이슈로 인해 \n8시 30분에 시작 될 예정입니다.\n기다려주신 별하랑 여러분께 사과 말씀 드립니다. \n\n▶️ https://t.co/jqxiNUIZAP\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#MEMBERSHIP_ONLY\n#BHR_2nd_Only",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						140,
+						148
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						154,
+						165
+					]
+				},
+				{
+					"text": "MEMBERSHIP_ONLY",
+					"indices": [
+						166,
+						182
+					]
+				},
+				{
+					"text": "BHR_2nd_Only",
+					"indices": [
+						183,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jqxiNUIZAP",
+					"expanded_url": "https://vlive.tv/post/0-20821090",
+					"display_url": "vlive.tv/post/0-20821090",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/MasTugaSJD\nCHUNG HA Website 💚💙💜 https://t.co/KNLHLQCXaH",
+			"url": "https://t.co/reTg513UFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg513UFX",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MasTugaSJD",
+							"expanded_url": "http://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								31,
+								54
+							]
+						},
+						{
+							"url": "https://t.co/KNLHLQCXaH",
+							"expanded_url": "http://chunghaofficial.com/",
+							"display_url": "chunghaofficial.com",
+							"indices": [
+								76,
+								99
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 304413,
+			"friends_count": 0,
+			"listed_count": 1858,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1458,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1606446336",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 130,
+		"favorite_count": 844,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NOTICE] 금일 저녁 8시 예정된 '청하's 별★별 라디오'는 \n송출 확인 중 발견한 이슈로 인해 \n8시 30분에 시작 될 예정입니다.\n기다려주신 별하랑 여러분께 사과 말씀 드립니다. \n\n▶️ https://t.co/jqxiNUIZAP\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#MEMBERSHIP_ONLY\n#BHR_2nd_Only"
+	},
+	{
+		"created_at": "Wed Jan 13 11:02:14 +0000 2021",
+		"id": 1349303336441270300,
+		"id_str": "1349310782169894913",
+		"full_text": "[PHOTO] 🎨#BHR_2nd_Only\n\n📸'C'HUNG HA RANGㅣEP 18. チプコクチョンハ先生の Breakfast 作り(feat.ネギ味シリアル)\n\n✌🏻 https://t.co/l0qpaTYztr\n\n#청하 #CHUNGHA #チョンハ\n#별하랑 #BYULHARANG\n#시청하랑 #SEECHUNGHARANG\n#OfficialBYULHARANG2nd 💚💙💜 https://t.co/dMOTeM4EdQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BHR_2nd_Only",
+					"indices": [
+						9,
+						22
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						120,
+						128
+					]
+				},
+				{
+					"text": "チョンハ",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						140,
+						151
+					]
+				},
+				{
+					"text": "시청하랑",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "SEECHUNGHARANG",
+					"indices": [
+						158,
+						173
+					]
+				},
+				{
+					"text": "OfficialBYULHARANG2nd",
+					"indices": [
+						174,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l0qpaTYztr",
+					"expanded_url": "https://www.vlive.tv/post/0-20823690",
+					"display_url": "vlive.tv/post/0-20823690",
+					"indices": [
+						91,
+						114
+					]
+				},
+				{
+					"url": "https://t.co/dMOTeM4EdQ",
+					"expanded_url": "https://twitter.com/chungha_mnhent/status/1349302673225494528",
+					"display_url": "twitter.com/chungha_mnhent…",
+					"indices": [
+						201,
+						224
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 986882185842966500,
+			"id_str": "986882185842966528",
+			"name": "CHUNG HA JAPAN OFFICIAL",
+			"screen_name": "chungha_japan",
+			"location": "",
+			"description": "#CHUNGHA JAPAN OFFICIAL Twitter",
+			"url": "https://t.co/igLeSQLgMf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/igLeSQLgMf",
+							"expanded_url": "https://bit.ly/3q6AiLl",
+							"display_url": "bit.ly/3q6AiLl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17028,
+			"friends_count": 2,
+			"listed_count": 168,
+			"created_at": "Thu Apr 19 08:20:23 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 858,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988221974169059328/l3d7G6Fx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988221974169059328/l3d7G6Fx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/986882185842966528/1603170240",
+			"profile_link_color": "BF83AB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1349302673225494500,
+		"quoted_status_id_str": "1349302673225494528",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dMOTeM4EdQ",
+			"expanded": "https://twitter.com/chungha_mnhent/status/1349302673225494528",
+			"display": "twitter.com/chungha_mnhent…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 13 10:30:00 +0000 2021",
+			"id": 1349302673225494500,
+			"id_str": "1349302673225494528",
+			"full_text": "[PHOTO] 🎨#BHR_2nd_Only\n\n📸'C'HUNG HA RANGㅣEP 18. 집콕 청선생의 Breakfast 만들기 (feat.파맛첵스)\n\n✌🏻 https://t.co/w4PIhlRlfa\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#시청하랑 #SEECHUNGHARANG\n#OfficialBYULHARANG2nd 💚💙💜 https://t.co/MVqNjLQ5iP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				189
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BHR_2nd_Only",
+						"indices": [
+							9,
+							22
+						]
+					},
+					{
+						"text": "청하",
+						"indices": [
+							111,
+							114
+						]
+					},
+					{
+						"text": "CHUNGHA",
+						"indices": [
+							115,
+							123
+						]
+					},
+					{
+						"text": "별하랑",
+						"indices": [
+							124,
+							128
+						]
+					},
+					{
+						"text": "BYULHARANG",
+						"indices": [
+							129,
+							140
+						]
+					},
+					{
+						"text": "시청하랑",
+						"indices": [
+							141,
+							146
+						]
+					},
+					{
+						"text": "SEECHUNGHARANG",
+						"indices": [
+							147,
+							162
+						]
+					},
+					{
+						"text": "OfficialBYULHARANG2nd",
+						"indices": [
+							163,
+							185
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/w4PIhlRlfa",
+						"expanded_url": "https://www.vlive.tv/post/0-20823690",
+						"display_url": "vlive.tv/post/0-20823690",
+						"indices": [
+							86,
+							109
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1349273072541388800,
+						"id_str": "1349273072541388804",
+						"indices": [
+							190,
+							213
+						],
+						"media_url": "http://pbs.twimg.com/media/ErmUtfHUUAQsoNi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErmUtfHUUAQsoNi.jpg",
+						"url": "https://t.co/MVqNjLQ5iP",
+						"display_url": "pic.twitter.com/MVqNjLQ5iP",
+						"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1349302673225494528/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1349273072541388800,
+						"id_str": "1349273072541388804",
+						"indices": [
+							190,
+							213
+						],
+						"media_url": "http://pbs.twimg.com/media/ErmUtfHUUAQsoNi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErmUtfHUUAQsoNi.jpg",
+						"url": "https://t.co/MVqNjLQ5iP",
+						"display_url": "pic.twitter.com/MVqNjLQ5iP",
+						"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1349302673225494528/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1097557125742489600,
+				"id_str": "1097557125742489600",
+				"name": "CHUNG HA",
+				"screen_name": "CHUNGHA_MNHent",
+				"location": "",
+				"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/MasTugaSJD\nCHUNG HA Website 💚💙💜 https://t.co/KNLHLQCXaH",
+				"url": "https://t.co/reTg513UFX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/reTg513UFX",
+								"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+								"display_url": "cafe.daum.net/MNH-Chungha",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/MasTugaSJD",
+								"expanded_url": "http://bit.ly/2ZZWMlN",
+								"display_url": "bit.ly/2ZZWMlN",
+								"indices": [
+									31,
+									54
+								]
+							},
+							{
+								"url": "https://t.co/KNLHLQCXaH",
+								"expanded_url": "http://chunghaofficial.com/",
+								"display_url": "chunghaofficial.com",
+								"indices": [
+									76,
+									99
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 304413,
+				"friends_count": 0,
+				"listed_count": 1858,
+				"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1458,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1606446336",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 308,
+			"favorite_count": 1658,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 14,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[PHOTO] 🎨#BHR_2nd_Only\n\n📸'C'HUNG HA RANGㅣEP 18. チプコクチョンハ先生の Breakfast 作り(feat.ネギ味シリアル)\n\n✌🏻 https://t.co/l0qpaTYztr\n\n#청하 #CHUNGHA #チョンハ\n#별하랑 #BYULHARANG\n#시청하랑 #SEECHUNGHARANG\n#OfficialBYULHARANG2nd 💚💙💜 https://t.co/dMOTeM4EdQ"
+	},
+	{
 		"created_at": "Wed Jan 13 09:04:15 +0000 2021",
 		"id": 1349281092201828400,
 		"id_str": "1349281092201828353",
