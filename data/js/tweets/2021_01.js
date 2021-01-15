@@ -1,6 +1,704 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 15 06:31:05 +0000 2021",
+		"id": 1349967321067114500,
+		"id_str": "1349967321067114498",
+		"full_text": "#SMTOWN #Artist_News\n‘허쉬’ 임윤아의 새로운 변신! 연기도 스타일도 눈길\nhttps://t.co/FPBXdn3Aoc\n#소녀시대 #GirlsGeneration https://t.co/bCl5zZ0Lbw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						81,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FPBXdn3Aoc",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/4494",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1349967319674593300,
+					"id_str": "1349967319674593280",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/ErwMH_OXIAA0vvV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErwMH_OXIAA0vvV.jpg",
+					"url": "https://t.co/bCl5zZ0Lbw",
+					"display_url": "pic.twitter.com/bCl5zZ0Lbw",
+					"expanded_url": "https://twitter.com/fromminn/status/1349967321067114498/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349967319674593300,
+					"id_str": "1349967319674593280",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/ErwMH_OXIAA0vvV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErwMH_OXIAA0vvV.jpg",
+					"url": "https://t.co/bCl5zZ0Lbw",
+					"display_url": "pic.twitter.com/bCl5zZ0Lbw",
+					"expanded_url": "https://twitter.com/fromminn/status/1349967321067114498/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1039,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n‘허쉬’ 임윤아의 새로운 변신! 연기도 스타일도 눈길\nhttps://t.co/FPBXdn3Aoc\n#소녀시대 #GirlsGeneration https://t.co/bCl5zZ0Lbw"
+	},
+	{
+		"created_at": "Fri Jan 15 06:27:57 +0000 2021",
+		"id": 1349955032590913500,
+		"id_str": "1349966535289425932",
+		"full_text": "9회차 WENDY letter 마감까지 남은 시간\nCOUNTDOWN⏰\n⠀\n구독 신청하러 가기 (~1월 16일 23:59)\n&gt; https://t.co/oKW0yElQZV (한국)\n⠀\n#Dear_U_letter #RedVelvet #WENDY #WENDY_letter #웬디 #레드벨벳 #디어유레터 https://t.co/TwCuGx0Dmn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Dear_U_letter",
+					"indices": [
+						104,
+						118
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						119,
+						129
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "WENDY_letter",
+					"indices": [
+						137,
+						150
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "디어유레터",
+					"indices": [
+						161,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oKW0yElQZV",
+					"expanded_url": "http://dear-u.lysn.com",
+					"display_url": "dear-u.lysn.com",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1349955014425419800,
+					"id_str": "1349955014425419777",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1349955014425419777/pu/img/rVqbzFarnGD4k2LR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1349955014425419777/pu/img/rVqbzFarnGD4k2LR.jpg",
+					"url": "https://t.co/TwCuGx0Dmn",
+					"display_url": "pic.twitter.com/TwCuGx0Dmn",
+					"expanded_url": "https://twitter.com/lysn_official/status/1349955032590913538/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 886,
+							"h": 886,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 886,
+							"h": 886,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349955014425419800,
+					"id_str": "1349955014425419777",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1349955014425419777/pu/img/rVqbzFarnGD4k2LR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1349955014425419777/pu/img/rVqbzFarnGD4k2LR.jpg",
+					"url": "https://t.co/TwCuGx0Dmn",
+					"display_url": "pic.twitter.com/TwCuGx0Dmn",
+					"expanded_url": "https://twitter.com/lysn_official/status/1349955032590913538/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 886,
+							"h": 886,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 886,
+							"h": 886,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 8555,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1349955014425419777/pu/vid/320x320/qbk5z29JOPLgr2ey.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1349955014425419777/pu/vid/720x720/EqbH9S0lUpNRFlZx.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1349955014425419777/pu/vid/480x480/qf8bqHBEyoFvDuP7.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1349955014425419777/pu/pl/F9GZft10hlQuEtXM.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1073401702512906200,
+			"id_str": "1073401702512906240",
+			"name": "Lysn",
+			"screen_name": "lysn_official",
+			"location": "",
+			"description": "관심사 기반 커뮤니티 #Lysn, 최애와 나만의 프라이빗 메시지 #Dear_U_bubble 💌(Lysn that Community based interest, DearU bubble that Private messages from my idol)",
+			"url": "https://t.co/1Rc5cWj5Zb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1Rc5cWj5Zb",
+							"expanded_url": "https://www.lysn.com/",
+							"display_url": "lysn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13416,
+			"friends_count": 0,
+			"listed_count": 25,
+			"created_at": "Fri Dec 14 02:18:03 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076015181090582529/oBMqBCQ2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076015181090582529/oBMqBCQ2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1073401702512906240/1548383663",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "9회차 WENDY letter 마감까지 남은 시간\nCOUNTDOWN⏰\n⠀\n구독 신청하러 가기 (~1월 16일 23:59)\n&gt; https://t.co/oKW0yElQZV (한국)\n⠀\n#Dear_U_letter #RedVelvet #WENDY #WENDY_letter #웬디 #레드벨벳 #디어유레터 https://t.co/TwCuGx0Dmn"
+	},
+	{
+		"created_at": "Fri Jan 15 06:02:44 +0000 2021",
+		"id": 1349960189638828000,
+		"id_str": "1349960189638828032",
+		"full_text": "#SMTOWN #네이버포스트\n[SM STATION] 강타 '감기약 (Cough Syrup)'\nhttps://t.co/FDzcnfBfYq\n#STATION #SMSTATION #스테이션 https://t.co/nlk52anLGZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						85,
+						95
+					]
+				},
+				{
+					"text": "스테이션",
+					"indices": [
+						96,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FDzcnfBfYq",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.nhn?volumeNo=30448915&memberNo=41350603&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1349960188363726800,
+					"id_str": "1349960188363726849",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/ErwFo5BW4AE-ROV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErwFo5BW4AE-ROV.jpg",
+					"url": "https://t.co/nlk52anLGZ",
+					"display_url": "pic.twitter.com/nlk52anLGZ",
+					"expanded_url": "https://twitter.com/fromminn/status/1349960189638828032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349960188363726800,
+					"id_str": "1349960188363726849",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/ErwFo5BW4AE-ROV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErwFo5BW4AE-ROV.jpg",
+					"url": "https://t.co/nlk52anLGZ",
+					"display_url": "pic.twitter.com/nlk52anLGZ",
+					"expanded_url": "https://twitter.com/fromminn/status/1349960189638828032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1039,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #네이버포스트\n[SM STATION] 강타 '감기약 (Cough Syrup)'\nhttps://t.co/FDzcnfBfYq\n#STATION #SMSTATION #스테이션 https://t.co/nlk52anLGZ"
+	},
+	{
 		"created_at": "Fri Jan 15 05:57:04 +0000 2021",
 		"id": 1347772490588639200,
 		"id_str": "1349958761809539073",
