@@ -1,6 +1,460 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 15 05:57:04 +0000 2021",
+		"id": 1347772490588639200,
+		"id_str": "1349958761809539073",
+		"full_text": "#협찬 #W_Beauty\n천사인가요, 사람인가요? 청순하기 그지 없는 #블랙핑크 #지수 의 피부! 맑고 투명한 윤기와 광채, 은은한 결광이 탐나는 스킨은 NEW '디올 포에버 스킨 글로우 쿠션'을 발라 완성했습니다. 푸석한 겨울 피부가 고민이라면 #디올쿠션 과 함께 잃어버린 '글로우'를 되찾아보세요. https://t.co/Nh5ubKTkCN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "협찬",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "W_Beauty",
+					"indices": [
+						4,
+						13
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						39,
+						44
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "디올쿠션",
+					"indices": [
+						138,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1347765390026231800,
+					"id_str": "1347765390026231811",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/ErQ-kSNVoAEmZvi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErQ-kSNVoAEmZvi.jpg",
+					"url": "https://t.co/Nh5ubKTkCN",
+					"display_url": "pic.twitter.com/Nh5ubKTkCN",
+					"expanded_url": "https://twitter.com/wkorea/status/1347772490588639233/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347765390026231800,
+					"id_str": "1347765390026231811",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/ErQ-kSNVoAEmZvi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErQ-kSNVoAEmZvi.jpg",
+					"url": "https://t.co/Nh5ubKTkCN",
+					"display_url": "pic.twitter.com/Nh5ubKTkCN",
+					"expanded_url": "https://twitter.com/wkorea/status/1347772490588639233/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29655,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1347765390026231811/vid/480x270/7DksY3PxB6QZAnpe.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1347765390026231811/vid/640x360/u1TCoJrIKU5wKzzp.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1347765390026231811/vid/1280x720/CPb5fnNFHn35Wg9P.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1347765390026231811/pl/1LeNawrI08LDuU-_.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "블랙핑크 지수의 촉촉한 ‘글로우’ 메이크업 팁",
+						"description": "푸석한 겨울 피부가 고민이라면 지수의 '디올 포에버 스킨 글로우 쿠션'과 함께 잃어버린 ‘글로우’를 되찾아보세요.",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "http://wkorea.com/?ddw=82165"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/m6zPKg47IM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/m6zPKg47IM",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 256021,
+			"friends_count": 0,
+			"listed_count": 774,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 4247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1608184098",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7809,
+		"favorite_count": 18295,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#협찬 #W_Beauty\n천사인가요, 사람인가요? 청순하기 그지 없는 #블랙핑크 #지수 의 피부! 맑고 투명한 윤기와 광채, 은은한 결광이 탐나는 스킨은 NEW '디올 포에버 스킨 글로우 쿠션'을 발라 완성했습니다. 푸석한 겨울 피부가 고민이라면 #디올쿠션 과 함께 잃어버린 '글로우'를 되찾아보세요. https://t.co/Nh5ubKTkCN"
+	},
+	{
+		"created_at": "Fri Jan 15 05:29:39 +0000 2021",
+		"id": 1349945712402788400,
+		"id_str": "1349951861487529984",
+		"full_text": "[#NOTICE] 안녕하세요, 나무엑터스입니다.\nSEOHYUN 2021 Season's Greetings 출시 안내 드립니다. \n자세한 내용은 공식 판매처를 통해 확인해주시기 바랍니다.\n\n▶ https://t.co/asYotpXYL6\n\n■ 예약판매기간 : 1월 15일 (금) 오후 14시 ~ 1월 22일 (금) 24시\n\n#서현 #SEOHYUN https://t.co/A4M92Mced2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NOTICE",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						183,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/asYotpXYL6",
+					"expanded_url": "https://bit.ly/2XGmTwD",
+					"display_url": "bit.ly/2XGmTwD",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1349945705603846100,
+					"id_str": "1349945705603846145",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/Erv4d4iU0AE0Xow.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Erv4d4iU0AE0Xow.jpg",
+					"url": "https://t.co/A4M92Mced2",
+					"display_url": "pic.twitter.com/A4M92Mced2",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1349945712402788353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349945705603846100,
+					"id_str": "1349945705603846145",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/Erv4d4iU0AE0Xow.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Erv4d4iU0AE0Xow.jpg",
+					"url": "https://t.co/A4M92Mced2",
+					"display_url": "pic.twitter.com/A4M92Mced2",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1349945712402788353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37066,
+			"friends_count": 12,
+			"listed_count": 211,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13473,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 415,
+		"favorite_count": 450,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NOTICE] 안녕하세요, 나무엑터스입니다.\nSEOHYUN 2021 Season's Greetings 출시 안내 드립니다. \n자세한 내용은 공식 판매처를 통해 확인해주시기 바랍니다.\n\n▶ https://t.co/asYotpXYL6\n\n■ 예약판매기간 : 1월 15일 (금) 오후 14시 ~ 1월 22일 (금) 24시\n\n#서현 #SEOHYUN https://t.co/A4M92Mced2"
+	},
+	{
 		"created_at": "Fri Jan 15 04:54:28 +0000 2021",
 		"id": 1349884367020015600,
 		"id_str": "1349943006774743045",
