@@ -1,6 +1,617 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 17 13:02:40 +0000 2021",
+		"id": 1350780805144957000,
+		"id_str": "1350790644990672896",
+		"full_text": "🎉❤️❤️❤️❤️🎉\n\n#aespa #æspa #에스파\n#BlackMamba #인기가요 https://t.co/QfJuulNWQP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						19,
+						24
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "BlackMamba",
+					"indices": [
+						30,
+						41
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						42,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1350780796206911500,
+					"id_str": "1350780796206911488",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/Er7v-jdVEAAEIHW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Er7v-jdVEAAEIHW.jpg",
+					"url": "https://t.co/QfJuulNWQP",
+					"display_url": "pic.twitter.com/QfJuulNWQP",
+					"expanded_url": "https://twitter.com/aespa_official/status/1350780805144956930/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1350780796206911500,
+					"id_str": "1350780796206911488",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/Er7v-jdVEAAEIHW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Er7v-jdVEAAEIHW.jpg",
+					"url": "https://t.co/QfJuulNWQP",
+					"display_url": "pic.twitter.com/QfJuulNWQP",
+					"expanded_url": "https://twitter.com/aespa_official/status/1350780805144956930/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 691118,
+			"friends_count": 1,
+			"listed_count": 2284,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 384,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15119,
+		"favorite_count": 44079,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🎉❤️❤️❤️❤️🎉\n\n#aespa #æspa #에스파\n#BlackMamba #인기가요 https://t.co/QfJuulNWQP"
+	},
+	{
+		"created_at": "Sun Jan 17 13:02:31 +0000 2021",
+		"id": 1350780529398825000,
+		"id_str": "1350790606713462784",
+		"full_text": "저희한테 1위라는 큰 선물 주셔서 너무 감사드리구 저희는 증말 행복해서 몸 둘 바를 모르게써요..☺️😍\n빨리 더 좋은 음악으로 보답할게요! 사랑해요오😘😘😘😘😘\n제 새해 소원 이뤄줘서 너무 고마워요 흐엥 애들이랑 기쁨의 댄스 춰야지.\n\n#aespa #æspa #에스파\n#KARINA #카리나 #인기가요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						149,
+						156
+					]
+				},
+				{
+					"text": "카리나",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						162,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1350780527939186700,
+		"in_reply_to_status_id_str": "1350780527939186690",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 691118,
+			"friends_count": 1,
+			"listed_count": 2284,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 384,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2921,
+		"favorite_count": 10712,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "저희한테 1위라는 큰 선물 주셔서 너무 감사드리구 저희는 증말 행복해서 몸 둘 바를 모르게써요..☺️😍\n빨리 더 좋은 음악으로 보답할게요! 사랑해요오😘😘😘😘😘\n제 새해 소원 이뤄줘서 너무 고마워요 흐엥 애들이랑 기쁨의 댄스 춰야지.\n\n#aespa #æspa #에스파\n#KARINA #카리나 #인기가요"
+	},
+	{
+		"created_at": "Sun Jan 17 13:02:23 +0000 2021",
+		"id": 1350780527939186700,
+		"id_str": "1350790572676624384",
+		"full_text": "MY들ㅠㅠㅠㅠㅠㅠ 오늘 저희가 인기가요에서 음방 첫 1위를 했어요!!!!! 와아... 이게 진짜 인가.... 신인상부터 해서 공중파 1위까지...🥺\n너무 많은 사랑 받고 있는 게 느껴져서 더더더더ㅓ더 빨리 좋은 모습 보여드리고 싶어요.😳",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 691118,
+			"friends_count": 1,
+			"listed_count": 2284,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 384,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4830,
+		"favorite_count": 17796,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "MY들ㅠㅠㅠㅠㅠㅠ 오늘 저희가 인기가요에서 음방 첫 1위를 했어요!!!!! 와아... 이게 진짜 인가.... 신인상부터 해서 공중파 1위까지...🥺\n너무 많은 사랑 받고 있는 게 느껴져서 더더더더ㅓ더 빨리 좋은 모습 보여드리고 싶어요.😳"
+	},
+	{
+		"created_at": "Sun Jan 17 13:02:16 +0000 2021",
+		"id": 1350780319775953000,
+		"id_str": "1350790542842613760",
+		"full_text": "앞으로도 더더 노력해서 다 같이 울 마이와 함께 성장하는 에스파 가 될 거니까 앞으로도 마이 마이 사랑해주세요🙈🥰\n\n#aespa #æspa #에스파\n#GISELLE #지젤 #인기가요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						83,
+						91
+					]
+				},
+				{
+					"text": "지젤",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						96,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1350780318148542500,
+		"in_reply_to_status_id_str": "1350780318148542471",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 691118,
+			"friends_count": 1,
+			"listed_count": 2284,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 384,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2298,
+		"favorite_count": 9839,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "앞으로도 더더 노력해서 다 같이 울 마이와 함께 성장하는 에스파 가 될 거니까 앞으로도 마이 마이 사랑해주세요🙈🥰\n\n#aespa #æspa #에스파\n#GISELLE #지젤 #인기가요"
+	},
+	{
+		"created_at": "Sun Jan 17 13:02:13 +0000 2021",
+		"id": 1350780318148542500,
+		"id_str": "1350790529592778753",
+		"full_text": "아직도 모든 게 다 새롭고 많이 부족한 우리를 계속 이끌어주시는 우리 매니저 언니 오빠들 그리고 스태프분들 그리고 트레이닝팀 언니 오빠들 너무나 큰 힘이 되었습니다 모두 너무나 감사드립니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1350780316588261400,
+		"in_reply_to_status_id_str": "1350780316588261376",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 691118,
+			"friends_count": 1,
+			"listed_count": 2284,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 384,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2259,
+		"favorite_count": 10099,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아직도 모든 게 다 새롭고 많이 부족한 우리를 계속 이끌어주시는 우리 매니저 언니 오빠들 그리고 스태프분들 그리고 트레이닝팀 언니 오빠들 너무나 큰 힘이 되었습니다 모두 너무나 감사드립니다."
+	},
+	{
 		"created_at": "Sun Jan 17 12:02:08 +0000 2021",
 		"id": 1350760515564306400,
 		"id_str": "1350775411630870528",
