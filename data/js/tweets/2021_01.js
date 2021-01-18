@@ -1,6 +1,1012 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 18 07:02:06 +0000 2021",
+		"id": 1351054205600084000,
+		"id_str": "1351062289533825041",
+		"full_text": "aespa is posed to have a breakthrough year predicted by @Shazam https://t.co/M3Gj8e9tRt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Shazam",
+					"name": "Shazam",
+					"id": 14772687,
+					"id_str": "14772687",
+					"indices": [
+						56,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/M3Gj8e9tRt",
+					"expanded_url": "https://twitter.com/shazam/status/1350126395465207809",
+					"display_url": "twitter.com/shazam/status/…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 693720,
+			"friends_count": 1,
+			"listed_count": 2293,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320379752553746432/Sfvkyf4L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1603638044",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1350126395465207800,
+		"quoted_status_id_str": "1350126395465207809",
+		"quoted_status_permalink": {
+			"url": "https://t.co/M3Gj8e9tRt",
+			"expanded": "https://twitter.com/shazam/status/1350126395465207809",
+			"display": "twitter.com/shazam/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 15 17:03:11 +0000 2021",
+			"id": 1350126395465207800,
+			"id_str": "1350126395465207809",
+			"full_text": "The Shazam Predictions 2021 playlist features 50 emerging artists who, based on Shazam data reviewed by @AppleMusic editors, are poised to make a splash in 2021 and beyond! Listen exclusively on Apple Music: https://t.co/EvCHwIR9Y8 https://t.co/JkeWUCKFUL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				231
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AppleMusic",
+						"name": "Apple Music",
+						"id": 74580436,
+						"id_str": "74580436",
+						"indices": [
+							104,
+							115
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/EvCHwIR9Y8",
+						"expanded_url": "http://apple.co/ShazamPredictions2021",
+						"display_url": "apple.co/ShazamPredicti…",
+						"indices": [
+							208,
+							231
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1350123279621660700,
+						"id_str": "1350123279621660672",
+						"indices": [
+							232,
+							255
+						],
+						"media_url": "http://pbs.twimg.com/media/EryZ-DTVoAATxoW.png",
+						"media_url_https": "https://pbs.twimg.com/media/EryZ-DTVoAATxoW.png",
+						"url": "https://t.co/JkeWUCKFUL",
+						"display_url": "pic.twitter.com/JkeWUCKFUL",
+						"expanded_url": "https://twitter.com/Shazam/status/1350126395465207809/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1350123279621660700,
+						"id_str": "1350123279621660672",
+						"indices": [
+							232,
+							255
+						],
+						"media_url": "http://pbs.twimg.com/media/EryZ-DTVoAATxoW.png",
+						"media_url_https": "https://pbs.twimg.com/media/EryZ-DTVoAATxoW.png",
+						"url": "https://t.co/JkeWUCKFUL",
+						"display_url": "pic.twitter.com/JkeWUCKFUL",
+						"expanded_url": "https://twitter.com/Shazam/status/1350126395465207809/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14772687,
+				"id_str": "14772687",
+				"name": "Shazam",
+				"screen_name": "Shazam",
+				"location": "Worldwide",
+				"description": "#BlackLivesMatter",
+				"url": "https://t.co/RIQ4qDim2d",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RIQ4qDim2d",
+								"expanded_url": "https://www.shazam.com/apps",
+								"display_url": "shazam.com/apps",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 658159,
+				"friends_count": 6574,
+				"listed_count": 2012,
+				"created_at": "Wed May 14 13:03:08 +0000 2008",
+				"favourites_count": 10175,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 18162,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0088FF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/999000042479337472/kZ5Avb6G_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/999000042479337472/kZ5Avb6G_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14772687/1576088329",
+				"profile_link_color": "0088FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 75,
+			"favorite_count": 416,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1586,
+		"favorite_count": 7671,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa is posed to have a breakthrough year predicted by @Shazam https://t.co/M3Gj8e9tRt"
+	},
+	{
+		"created_at": "Mon Jan 18 06:56:41 +0000 2021",
+		"id": 1351060927089684500,
+		"id_str": "1351060927089684483",
+		"full_text": "#SMTOWN #Artist_News\n‘허쉬’ 임윤아, 상처받은 눈빛으로 갈등 최고조 이끌었다!\nhttps://t.co/YcDOWLzTbr\n#소녀시대 #GirlsGeneration https://t.co/ToiSYGmSBH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						84,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YcDOWLzTbr",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/4500",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1351060926158561300,
+					"id_str": "1351060926158561289",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/Er_uwQ2XYAkgWh1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Er_uwQ2XYAkgWh1.jpg",
+					"url": "https://t.co/ToiSYGmSBH",
+					"display_url": "pic.twitter.com/ToiSYGmSBH",
+					"expanded_url": "https://twitter.com/fromminn/status/1351060927089684483/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351060926158561300,
+					"id_str": "1351060926158561289",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/Er_uwQ2XYAkgWh1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Er_uwQ2XYAkgWh1.jpg",
+					"url": "https://t.co/ToiSYGmSBH",
+					"display_url": "pic.twitter.com/ToiSYGmSBH",
+					"expanded_url": "https://twitter.com/fromminn/status/1351060927089684483/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1038,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n‘허쉬’ 임윤아, 상처받은 눈빛으로 갈등 최고조 이끌었다!\nhttps://t.co/YcDOWLzTbr\n#소녀시대 #GirlsGeneration https://t.co/ToiSYGmSBH"
+	},
+	{
+		"created_at": "Mon Jan 18 06:49:16 +0000 2021",
+		"id": 1351059062302105600,
+		"id_str": "1351059062302105602",
+		"full_text": "#SMTOWN #News\nSM 글로벌 오디션 ‘2021 SM NEW BOY GROUP AUDITION’ 개최!\nhttps://t.co/kTZoHiGFRq\n#SM엔터테인먼트 #minfav https://t.co/TCaTIzZWKN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "News",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "SM엔터테인먼트",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						96,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kTZoHiGFRq",
+					"expanded_url": "https://www.smtown.com/news/detail/256",
+					"display_url": "smtown.com/news/detail/256",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1351059061316448300,
+					"id_str": "1351059061316448258",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/Er_tDtxW8AI0LH_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Er_tDtxW8AI0LH_.jpg",
+					"url": "https://t.co/TCaTIzZWKN",
+					"display_url": "pic.twitter.com/TCaTIzZWKN",
+					"expanded_url": "https://twitter.com/fromminn/status/1351059062302105602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351059061316448300,
+					"id_str": "1351059061316448258",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/Er_tDtxW8AI0LH_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Er_tDtxW8AI0LH_.jpg",
+					"url": "https://t.co/TCaTIzZWKN",
+					"display_url": "pic.twitter.com/TCaTIzZWKN",
+					"expanded_url": "https://twitter.com/fromminn/status/1351059062302105602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1038,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #News\nSM 글로벌 오디션 ‘2021 SM NEW BOY GROUP AUDITION’ 개최!\nhttps://t.co/kTZoHiGFRq\n#SM엔터테인먼트 #minfav https://t.co/TCaTIzZWKN"
+	},
+	{
+		"created_at": "Mon Jan 18 06:17:00 +0000 2021",
+		"id": 1351050942830030800,
+		"id_str": "1351050942830030848",
+		"full_text": "트위터가 트위터 했군.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1038,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "트위터가 트위터 했군."
+	},
+	{
+		"created_at": "Mon Jan 18 06:16:51 +0000 2021",
+		"id": 1351025956740345900,
+		"id_str": "1351050902384369667",
+		"full_text": "해외결제는 원래 소득공제 제외대상입니다. 앱스토어도 국내 게임사 아니면 대부분은 안되고, 된다도 원래 직접 문의해야 한다네요(다른 카드들도). 너무 놀라지 마시고 카카오페이 계속 쓰세요. 혹시 모르니 현금영수증 설정 체크 하시구요. https://t.co/tDLfwItloM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tDLfwItloM",
+					"expanded_url": "https://twitter.com/ep_j2/status/1350988901859602435",
+					"display_url": "twitter.com/ep_j2/status/1…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1204276304045998000,
+			"id_str": "1204276304045998081",
+			"name": "부랑자",
+			"screen_name": "07_talk",
+			"location": "",
+			"description": "망겜(07) 덕질 계정이었는데 반 탈덕하고 그냥 공개계정으로 이런저런 얘기하는 계정 된 듯",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 0,
+			"friends_count": 9,
+			"listed_count": 0,
+			"created_at": "Tue Dec 10 05:47:13 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1336891292245057541/0gzHRW9n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336891292245057541/0gzHRW9n_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1350988901859602400,
+		"quoted_status_id_str": "1350988901859602435",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tDLfwItloM",
+			"expanded": "https://twitter.com/ep_j2/status/1350988901859602435",
+			"display": "twitter.com/ep_j2/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 18 02:10:29 +0000 2021",
+			"id": 1350988901859602400,
+			"id_str": "1350988901859602435",
+			"full_text": "카카오페이 미쳤냐 ㅋㅋㅋ 카카오페이로 앱스토어 결제한 비용 연말정산에 하나도 지출 비용으러 안 잡혔네 ㅋㅋㅋㅋ \n\n앱스토어에 돈 많이 썼는데 ㅋㅋㅋ 덕분에 소득공제 0 ㅅㅂㅋㅋㅋ\n\n따박따박 지출비용 잡히는 카드 쓰고 말지, 다신 카카오페이 안 쓴다",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 108465528,
+				"id_str": "108465528",
+				"name": "J２@お金欲しい〜",
+				"screen_name": "ep_j2",
+				"location": "すし",
+				"description": "韓国人。名古屋大学 航空宇宙工学科専攻 学部・修士卒 。天研。OB。항공우주계열 업무 종사 중",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 749,
+				"friends_count": 211,
+				"listed_count": 5,
+				"created_at": "Tue Jan 26 01:22:18 +0000 2010",
+				"favourites_count": 22923,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 35647,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/927192890157162496/_ro43isX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/927192890157162496/_ro43isX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/108465528/1456758289",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4783,
+			"favorite_count": 597,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1760,
+		"favorite_count": 194,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "해외결제는 원래 소득공제 제외대상입니다. 앱스토어도 국내 게임사 아니면 대부분은 안되고, 된다도 원래 직접 문의해야 한다네요(다른 카드들도). 너무 놀라지 마시고 카카오페이 계속 쓰세요. 혹시 모르니 현금영수증 설정 체크 하시구요. https://t.co/tDLfwItloM"
+	},
+	{
 		"created_at": "Mon Jan 18 04:09:14 +0000 2021",
 		"id": 1351018789207474200,
 		"id_str": "1351018789207474179",
