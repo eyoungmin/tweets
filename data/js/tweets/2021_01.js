@@ -1,6 +1,571 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 18 10:00:16 +0000 2021",
+		"id": 1351105629553832000,
+		"id_str": "1351107128954597378",
+		"full_text": "에픽하이 10집 “Epik High Is Here 上” 앨범이 발매되었습니다. 저는 6번 트랙 ‘Leica’ 의 피처링으로 참여했어요. 에픽하이 선배님과 함께 작업할 수 있어서 정말 행복했고 영광이었습니다. 10집 앨범 많이 들어주시고 ‘Leica’ 도 많이 사랑해 주세요❤️ https://t.co/yC9RxbrYlX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1351105437102436400,
+					"id_str": "1351105437102436355",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1351105437102436355/pu/img/KzLPZyITRaLhi7fi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1351105437102436355/pu/img/KzLPZyITRaLhi7fi.jpg",
+					"url": "https://t.co/yC9RxbrYlX",
+					"display_url": "pic.twitter.com/yC9RxbrYlX",
+					"expanded_url": "https://twitter.com/aprilsour/status/1351105629553831936/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351105437102436400,
+					"id_str": "1351105437102436355",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1351105437102436355/pu/img/KzLPZyITRaLhi7fi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1351105437102436355/pu/img/KzLPZyITRaLhi7fi.jpg",
+					"url": "https://t.co/yC9RxbrYlX",
+					"display_url": "pic.twitter.com/yC9RxbrYlX",
+					"expanded_url": "https://twitter.com/aprilsour/status/1351105629553831936/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 612,
+							"h": 612,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 86992,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1351105437102436355/pu/pl/IWJ3DQCqyj1IHNsy.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1351105437102436355/pu/vid/480x480/cYO4YV58mk0oV6R2.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1351105437102436355/pu/vid/612x612/FzwvUTCgy4Om-bfl.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1351105437102436355/pu/vid/320x320/PSHdZz4e5qOqHm4c.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568866057,
+			"id_str": "568866057",
+			"name": "김사월",
+			"screen_name": "aprilsour",
+			"location": "",
+			"description": "지옥에서 온 포크 전사🥗💚🌈 Kim Sawol🎸헤븐, 사랑하는 미움들, 로맨스, 7102, 수잔 💌 문의 : nina@yoursummer.net ☎️ 070-4176-3311",
+			"url": "https://t.co/aF26VLhODV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aF26VLhODV",
+							"expanded_url": "http://www.youtube.com/c/kimsawol",
+							"display_url": "youtube.com/c/kimsawol",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13079,
+			"friends_count": 862,
+			"listed_count": 54,
+			"created_at": "Wed May 02 04:12:49 +0000 2012",
+			"favourites_count": 10663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305171132618686464/QdVoRN9t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305171132618686464/QdVoRN9t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568866057/1600071003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에픽하이 10집 “Epik High Is Here 上” 앨범이 발매되었습니다. 저는 6번 트랙 ‘Leica’ 의 피처링으로 참여했어요. 에픽하이 선배님과 함께 작업할 수 있어서 정말 행복했고 영광이었습니다. 10집 앨범 많이 들어주시고 ‘Leica’ 도 많이 사랑해 주세요❤️ https://t.co/yC9RxbrYlX"
+	},
+	{
+		"created_at": "Mon Jan 18 09:27:57 +0000 2021",
+		"id": 1351091963739586600,
+		"id_str": "1351098994253033473",
+		"full_text": "[#더블패티] \n\nComing Soon! \n고열량 충전 무비 &lt;더블패티&gt; \n\n🍔 1월 19일(화) 오후 6시 예고편 공개 \n🍟 2월, 극장 &amp; #Seezn 개봉 \n\n#Seezn오리지널 #영화 #DoublePatty #백승환 #신승호 #배주현 #아이린 #먹방 #힐링 https://t.co/A2vyLFHlDE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "더블패티",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "Seezn",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "Seezn오리지널",
+					"indices": [
+						102,
+						112
+					]
+				},
+				{
+					"text": "영화",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "DoublePatty",
+					"indices": [
+						117,
+						129
+					]
+				},
+				{
+					"text": "백승환",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "신승호",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "배주현",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "먹방",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "힐링",
+					"indices": [
+						154,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1349642875148013600,
+					"id_str": "1349642875148013568",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/ErrlC1LVkAAMV8E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErrlC1LVkAAMV8E.jpg",
+					"url": "https://t.co/A2vyLFHlDE",
+					"display_url": "pic.twitter.com/A2vyLFHlDE",
+					"expanded_url": "https://twitter.com/my_seezn/status/1351091963739586561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349642875148013600,
+					"id_str": "1349642875148013568",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/ErrlC1LVkAAMV8E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErrlC1LVkAAMV8E.jpg",
+					"url": "https://t.co/A2vyLFHlDE",
+					"display_url": "pic.twitter.com/A2vyLFHlDE",
+					"expanded_url": "https://twitter.com/my_seezn/status/1351091963739586561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1349642940147110000,
+					"id_str": "1349642940147109889",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/ErrlGnUVEAEqYt2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErrlGnUVEAEqYt2.jpg",
+					"url": "https://t.co/A2vyLFHlDE",
+					"display_url": "pic.twitter.com/A2vyLFHlDE",
+					"expanded_url": "https://twitter.com/my_seezn/status/1351091963739586561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1349643079670587400,
+					"id_str": "1349643079670587392",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/ErrlOvFUYAAmNu2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErrlOvFUYAAmNu2.jpg",
+					"url": "https://t.co/A2vyLFHlDE",
+					"display_url": "pic.twitter.com/A2vyLFHlDE",
+					"expanded_url": "https://twitter.com/my_seezn/status/1351091963739586561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1349643125375946800,
+					"id_str": "1349643125375946753",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/ErrlRZWU0AEyXCc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErrlRZWU0AEyXCc.jpg",
+					"url": "https://t.co/A2vyLFHlDE",
+					"display_url": "pic.twitter.com/A2vyLFHlDE",
+					"expanded_url": "https://twitter.com/my_seezn/status/1351091963739586561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1194503596139671600,
+			"id_str": "1194503596139671558",
+			"name": "Seezn(시즌)",
+			"screen_name": "my_seezn",
+			"location": "대한민국 어디서나",
+			"description": "Seezn의 공식계정입니다!\n\n👉시즌 오리지널: #위너베케이션 #7일만로맨스 #아이돌원더랜드 #아스트로의천일야화 #인어왕자 #예술의전당포 #WayVision #우석이의언박싱 #빽투더아이돌 #뮤시즌 #놓지마정신줄 #NCTLIFE #싱스테이 #예리한방 #예병대캠프 #히든트랙 #고막메이트",
+			"url": "https://t.co/ZCvEUUjA7C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCvEUUjA7C",
+							"expanded_url": "https://myseezn.com",
+							"display_url": "myseezn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52915,
+			"friends_count": 6,
+			"listed_count": 77,
+			"created_at": "Wed Nov 13 06:34:16 +0000 2019",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245010163850870786/Lf56Mf63_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245010163850870786/Lf56Mf63_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1194503596139671558/1607316148",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4220,
+		"favorite_count": 5129,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#더블패티] \n\nComing Soon! \n고열량 충전 무비 &lt;더블패티&gt; \n\n🍔 1월 19일(화) 오후 6시 예고편 공개 \n🍟 2월, 극장 &amp; #Seezn 개봉 \n\n#Seezn오리지널 #영화 #DoublePatty #백승환 #신승호 #배주현 #아이린 #먹방 #힐링 https://t.co/A2vyLFHlDE"
+	},
+	{
 		"created_at": "Mon Jan 18 08:24:03 +0000 2021",
 		"id": 1351082913195053000,
 		"id_str": "1351082913195053056",
