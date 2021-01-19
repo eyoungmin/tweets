@@ -1,6 +1,965 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 19 06:57:40 +0000 2021",
+		"id": 1351423561861378000,
+		"id_str": "1351423561861378053",
+		"full_text": "#이달의소녀 #LOONA #알라딘\n이달의 소녀 - 미니 2집 [#][한정 B Ver.][재발매] (다날 | 2021년 01월 | 22,300원)\nhttps://t.co/GJPQ68bAIP https://t.co/lfz3WXGh00",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "알라딘",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GJPQ68bAIP",
+					"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?itemid=261841439",
+					"display_url": "aladin.co.kr/shop/wproduct.…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1351423560817012700,
+					"id_str": "1351423560817012739",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/EsE4kYOXcAMubq5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsE4kYOXcAMubq5.jpg",
+					"url": "https://t.co/lfz3WXGh00",
+					"display_url": "pic.twitter.com/lfz3WXGh00",
+					"expanded_url": "https://twitter.com/fromminn/status/1351423561861378053/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351423560817012700,
+					"id_str": "1351423560817012739",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/EsE4kYOXcAMubq5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsE4kYOXcAMubq5.jpg",
+					"url": "https://t.co/lfz3WXGh00",
+					"display_url": "pic.twitter.com/lfz3WXGh00",
+					"expanded_url": "https://twitter.com/fromminn/status/1351423561861378053/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1037,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA #알라딘\n이달의 소녀 - 미니 2집 [#][한정 B Ver.][재발매] (다날 | 2021년 01월 | 22,300원)\nhttps://t.co/GJPQ68bAIP https://t.co/lfz3WXGh00"
+	},
+	{
+		"created_at": "Tue Jan 19 06:57:36 +0000 2021",
+		"id": 1351423545964953600,
+		"id_str": "1351423545964953602",
+		"full_text": "#이달의소녀 #LOONA #알라딘\n이달의 소녀 - 미니 2집 [#][일반 A Ver.][재발매] (다날 | 2021년 01월 | 22,300원)\nhttps://t.co/qH4WsJfebR https://t.co/Hg4xWiJd5n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "알라딘",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qH4WsJfebR",
+					"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?itemid=261837023",
+					"display_url": "aladin.co.kr/shop/wproduct.…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1351423545067368400,
+					"id_str": "1351423545067368448",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/EsE4jdjW8AAUjgp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsE4jdjW8AAUjgp.jpg",
+					"url": "https://t.co/Hg4xWiJd5n",
+					"display_url": "pic.twitter.com/Hg4xWiJd5n",
+					"expanded_url": "https://twitter.com/fromminn/status/1351423545964953602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351423545067368400,
+					"id_str": "1351423545067368448",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/EsE4jdjW8AAUjgp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsE4jdjW8AAUjgp.jpg",
+					"url": "https://t.co/Hg4xWiJd5n",
+					"display_url": "pic.twitter.com/Hg4xWiJd5n",
+					"expanded_url": "https://twitter.com/fromminn/status/1351423545964953602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1037,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA #알라딘\n이달의 소녀 - 미니 2집 [#][일반 A Ver.][재발매] (다날 | 2021년 01월 | 22,300원)\nhttps://t.co/qH4WsJfebR https://t.co/Hg4xWiJd5n"
+	},
+	{
+		"created_at": "Tue Jan 19 06:57:32 +0000 2021",
+		"id": 1351423530169225200,
+		"id_str": "1351423530169225216",
+		"full_text": "#이달의소녀 #LOONA #알라딘\n이달의 소녀 - 미니 2집 [#][한정 A Ver.][재발매] (다날 | 2021년 01월 | 22,300원)\nhttps://t.co/tpgA9vPraO https://t.co/lbPG5ID7GL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "알라딘",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tpgA9vPraO",
+					"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?itemid=261840994",
+					"display_url": "aladin.co.kr/shop/wproduct.…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1351423529070317600,
+					"id_str": "1351423529070317568",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/EsE4ih9XUAAN-iO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsE4ih9XUAAN-iO.jpg",
+					"url": "https://t.co/lbPG5ID7GL",
+					"display_url": "pic.twitter.com/lbPG5ID7GL",
+					"expanded_url": "https://twitter.com/fromminn/status/1351423530169225216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351423529070317600,
+					"id_str": "1351423529070317568",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/EsE4ih9XUAAN-iO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsE4ih9XUAAN-iO.jpg",
+					"url": "https://t.co/lbPG5ID7GL",
+					"display_url": "pic.twitter.com/lbPG5ID7GL",
+					"expanded_url": "https://twitter.com/fromminn/status/1351423530169225216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1037,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA #알라딘\n이달의 소녀 - 미니 2집 [#][한정 A Ver.][재발매] (다날 | 2021년 01월 | 22,300원)\nhttps://t.co/tpgA9vPraO https://t.co/lbPG5ID7GL"
+	},
+	{
+		"created_at": "Tue Jan 19 06:57:28 +0000 2021",
+		"id": 1351423514964844500,
+		"id_str": "1351423514964844549",
+		"full_text": "#이달의소녀 #LOONA #알라딘\n이달의 소녀 - 미니 2집 [#][일반 B Ver.][재발매] (다날 | 2021년 01월 | 22,300원)\nhttps://t.co/9WCnebF54S https://t.co/L0dtPvEym3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "알라딘",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9WCnebF54S",
+					"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?itemid=261837857",
+					"display_url": "aladin.co.kr/shop/wproduct.…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1351423513958224000,
+					"id_str": "1351423513958223877",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/EsE4hpqXEAUEuEa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsE4hpqXEAUEuEa.jpg",
+					"url": "https://t.co/L0dtPvEym3",
+					"display_url": "pic.twitter.com/L0dtPvEym3",
+					"expanded_url": "https://twitter.com/fromminn/status/1351423514964844549/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351423513958224000,
+					"id_str": "1351423513958223877",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/EsE4hpqXEAUEuEa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsE4hpqXEAUEuEa.jpg",
+					"url": "https://t.co/L0dtPvEym3",
+					"display_url": "pic.twitter.com/L0dtPvEym3",
+					"expanded_url": "https://twitter.com/fromminn/status/1351423514964844549/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1037,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA #알라딘\n이달의 소녀 - 미니 2집 [#][일반 B Ver.][재발매] (다날 | 2021년 01월 | 22,300원)\nhttps://t.co/9WCnebF54S https://t.co/L0dtPvEym3"
+	},
+	{
+		"created_at": "Tue Jan 19 06:31:12 +0000 2021",
+		"id": 1351416902304878600,
+		"id_str": "1351416902304878598",
+		"full_text": "#팩트체크 #SNU팩트체크\n2020년에 OECD 모든 국가가 다 마이너스 성장을 했지만, 한국은 가장 선방해서 최상위권 성장률을 유지했다\n▶ 사실\nhttps://t.co/ezXvOkJAXb\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						108,
+						119
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						120,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ezXvOkJAXb",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2750",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1037,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n2020년에 OECD 모든 국가가 다 마이너스 성장을 했지만, 한국은 가장 선방해서 최상위권 성장률을 유지했다\n▶ 사실\nhttps://t.co/ezXvOkJAXb\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
 		"created_at": "Tue Jan 19 06:02:06 +0000 2021",
 		"id": 1351409052903850000,
 		"id_str": "1351409578282545156",
