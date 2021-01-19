@@ -1,6 +1,1318 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 19 14:00:05 +0000 2021",
+		"id": 1351325079838224400,
+		"id_str": "1351529869646020610",
+		"full_text": "팬심 불태우는 퍼포먼스!🔥\n올해도 (여자)아이들이 꽃피우리라🌸\n\n#여자아이들 #GIDLE\n#I_burn #화(火花) #HWAA https://t.co/Jrj1x4kmMo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "여자아이들",
+					"indices": [
+						36,
+						42
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"text": "I_burn",
+					"indices": [
+						50,
+						57
+					]
+				},
+				{
+					"text": "화",
+					"indices": [
+						58,
+						60
+					]
+				},
+				{
+					"text": "HWAA",
+					"indices": [
+						65,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1351321393246343200,
+					"id_str": "1351321393246343168",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EsDe9NEVoAEBYCu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsDe9NEVoAEBYCu.jpg",
+					"url": "https://t.co/Jrj1x4kmMo",
+					"display_url": "pic.twitter.com/Jrj1x4kmMo",
+					"expanded_url": "https://twitter.com/KBSMusicBank/status/1351325079838224384/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351321393246343200,
+					"id_str": "1351321393246343168",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EsDe9NEVoAEBYCu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsDe9NEVoAEBYCu.jpg",
+					"url": "https://t.co/Jrj1x4kmMo",
+					"display_url": "pic.twitter.com/Jrj1x4kmMo",
+					"expanded_url": "https://twitter.com/KBSMusicBank/status/1351325079838224384/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 222990,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1351321393246343168/vid/1280x720/phbQvUGoOAOTmbqG.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1351321393246343168/vid/480x270/GB2n427jC8vK4gsx.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1351321393246343168/vid/640x360/-SmLaYOkwjYZq5Cx.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1351321393246343168/pl/47aBm6ZHlcje6hvG.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52661072,
+			"id_str": "52661072",
+			"name": "뮤직뱅크 (Music Bank)🏦",
+			"screen_name": "KBSMusicBank",
+			"location": "대한민국 서울 (Seoul, South Korea)",
+			"description": "Friday 17:00 KBS 2TV 가장 신뢰할 수 있는 음악 차트 K-Chart, 현재 KBS World를 통해 117개국 방송 中",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1949202,
+			"friends_count": 17,
+			"listed_count": 4806,
+			"created_at": "Wed Jul 01 07:17:45 +0000 2009",
+			"favourites_count": 141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "010C0D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345965786691633153/SvTfIsxC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345965786691633153/SvTfIsxC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52661072/1558753651",
+			"profile_link_color": "96268B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FADD4B",
+			"profile_text_color": "030003",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2047,
+		"favorite_count": 8863,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "팬심 불태우는 퍼포먼스!🔥\n올해도 (여자)아이들이 꽃피우리라🌸\n\n#여자아이들 #GIDLE\n#I_burn #화(火花) #HWAA https://t.co/Jrj1x4kmMo"
+	},
+	{
+		"created_at": "Tue Jan 19 13:59:29 +0000 2021",
+		"id": 1351499647739519000,
+		"id_str": "1351529718567223296",
+		"full_text": "(여자)#아이들((G)I-DLE) - 화(HWAA)♪\n퍼포 요정들이 무대를 뒤집어 놓으셔따😍\n#뮤직뱅크 #MusicBank #kpop #idol #뮤뱅 https://t.co/7gS9Hd0bI8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이들",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "뮤직뱅크",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "MusicBank",
+					"indices": [
+						58,
+						68
+					]
+				},
+				{
+					"text": "kpop",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "idol",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "뮤뱅",
+					"indices": [
+						81,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1351316173715955700,
+					"id_str": "1351316173715955712",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EsDYWETVkAAiCkj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsDYWETVkAAiCkj.jpg",
+					"url": "https://t.co/7gS9Hd0bI8",
+					"display_url": "pic.twitter.com/7gS9Hd0bI8",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1351499647739518978/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351316173715955700,
+					"id_str": "1351316173715955712",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EsDYWETVkAAiCkj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsDYWETVkAAiCkj.jpg",
+					"url": "https://t.co/7gS9Hd0bI8",
+					"display_url": "pic.twitter.com/7gS9Hd0bI8",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1351499647739518978/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 213413,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1351316173715955712/vid/1280x720/pfr67SoGREDMcZRJ.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1351316173715955712/vid/640x360/SPKebcIKsglYWO4x.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1351316173715955712/vid/480x270/tiuXtXhklk32vWkN.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1351316173715955712/pl/Nq2yiL74qcWiB9vg.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/V6p1lhj6qs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V6p1lhj6qs",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1109345,
+			"friends_count": 58294,
+			"listed_count": 2032,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 52561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247410515019620352/Nio3ZxzN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247410515019620352/Nio3ZxzN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1607410667",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "(여자)#아이들((G)I-DLE) - 화(HWAA)♪\n퍼포 요정들이 무대를 뒤집어 놓으셔따😍\n#뮤직뱅크 #MusicBank #kpop #idol #뮤뱅 https://t.co/7gS9Hd0bI8"
+	},
+	{
+		"created_at": "Tue Jan 19 13:59:21 +0000 2021",
+		"id": 1351499715364360200,
+		"id_str": "1351529683876077568",
+		"full_text": "출발! 뮤직비디오 여행 [Thank U] 🎥 유노윤호X황정민X이정현\n\n🎬 https://t.co/19wJCL2l4O\n\n#유노윤호 #U_KNOW\n#동방신기 #TVXQ! #東方神起\n#NOIR\n#ThankU\n#황정민 #이정현 #김경식 https://t.co/DoaPdJxK16",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유노윤호",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "U_KNOW",
+					"indices": [
+						72,
+						79
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "NOIR",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "ThankU",
+					"indices": [
+						105,
+						112
+					]
+				},
+				{
+					"text": "황정민",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "이정현",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "김경식",
+					"indices": [
+						123,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/19wJCL2l4O",
+					"expanded_url": "https://youtu.be/-_SEuWXCaao",
+					"display_url": "youtu.be/-_SEuWXCaao",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1351497674998993000,
+					"id_str": "1351497674998992897",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EsF7-ZEU0AEV4wj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsF7-ZEU0AEV4wj.jpg",
+					"url": "https://t.co/DoaPdJxK16",
+					"display_url": "pic.twitter.com/DoaPdJxK16",
+					"expanded_url": "https://twitter.com/TVXQ/status/1351499715364360192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351497674998993000,
+					"id_str": "1351497674998992897",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EsF7-ZEU0AEV4wj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsF7-ZEU0AEV4wj.jpg",
+					"url": "https://t.co/DoaPdJxK16",
+					"display_url": "pic.twitter.com/DoaPdJxK16",
+					"expanded_url": "https://twitter.com/TVXQ/status/1351499715364360192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300732,
+			"friends_count": 1,
+			"listed_count": 902,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 918,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1351094380363472907/lRbDd7Y5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1351094380363472907/lRbDd7Y5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1610960996",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2115,
+		"favorite_count": 3702,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "출발! 뮤직비디오 여행 [Thank U] 🎥 유노윤호X황정민X이정현\n\n🎬 https://t.co/19wJCL2l4O\n\n#유노윤호 #U_KNOW\n#동방신기 #TVXQ! #東方神起\n#NOIR\n#ThankU\n#황정민 #이정현 #김경식 https://t.co/DoaPdJxK16"
+	},
+	{
+		"created_at": "Tue Jan 19 13:55:25 +0000 2021",
+		"id": 1351507700576899000,
+		"id_str": "1351528694066470913",
+		"full_text": "'소설 복붙'으로 상 받은 작가…논문도 '표절·돌려막기' https://t.co/hcfVXgNwTx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hcfVXgNwTx",
+					"expanded_url": "https://news.jtbc.joins.com/html/712/NB11988712.html",
+					"display_url": "news.jtbc.joins.com/html/712/NB119…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 397672819,
+			"id_str": "397672819",
+			"name": "JTBC 뉴스",
+			"screen_name": "JTBC_news",
+			"location": "서울시 마포구 상암산로 48-6",
+			"description": "JTBC 뉴스 공식 트위터입니다!!\n이곳은 트친 여러분의 이야기와 목소리에 귀 기울이는 곳입니다.\n많은 관심과 사랑 부탁드립니다. ^^",
+			"url": "http://t.co/CrCzofZgOd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/CrCzofZgOd",
+							"expanded_url": "http://facebook.com/jtbcnews",
+							"display_url": "facebook.com/jtbcnews",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 607761,
+			"friends_count": 43597,
+			"listed_count": 2157,
+			"created_at": "Tue Oct 25 00:50:16 +0000 2011",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 80814,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A9A9A9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247039086713425922/oOmR2jkc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247039086713425922/oOmR2jkc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/397672819/1586971432",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 167,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'소설 복붙'으로 상 받은 작가…논문도 '표절·돌려막기' https://t.co/hcfVXgNwTx"
+	},
+	{
+		"created_at": "Tue Jan 19 13:55:18 +0000 2021",
+		"id": 1351507872157323300,
+		"id_str": "1351528664257626114",
+		"full_text": "어제 발매한 에픽하이 정규앨범의 “내 얘기 같아 (feat.헤이즈)” 반도네온으로 참여했습니다.😀\n너무너무 조금 나오지만 ㅋㅋ 대단하신 분들 음악에 조금 소리낼수 있어서 기뻤습니다😭 ㅋㅋ.!! https://t.co/OJG3LXBanW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1351507866339823600,
+					"id_str": "1351507866339823618",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EsGFPmxU0AIAsSx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsGFPmxU0AIAsSx.jpg",
+					"url": "https://t.co/OJG3LXBanW",
+					"display_url": "pic.twitter.com/OJG3LXBanW",
+					"expanded_url": "https://twitter.com/sangji_koh/status/1351507872157323264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 969,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 526,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 969,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351507866339823600,
+					"id_str": "1351507866339823618",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EsGFPmxU0AIAsSx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsGFPmxU0AIAsSx.jpg",
+					"url": "https://t.co/OJG3LXBanW",
+					"display_url": "pic.twitter.com/OJG3LXBanW",
+					"expanded_url": "https://twitter.com/sangji_koh/status/1351507872157323264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 969,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 526,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 969,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 899522378576797700,
+			"id_str": "899522378576797696",
+			"name": "고상지 Koh Sangji",
+			"screen_name": "sangji_koh",
+			"location": "",
+			"description": "Bandoneonist. Composer",
+			"url": "https://t.co/0Fx7QWohQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0Fx7QWohQp",
+							"expanded_url": "https://youtu.be/qHECi3Rn6-M",
+							"display_url": "youtu.be/qHECi3Rn6-M",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1890,
+			"friends_count": 76,
+			"listed_count": 13,
+			"created_at": "Mon Aug 21 06:43:42 +0000 2017",
+			"favourites_count": 199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283980393641766912/aIMspZmv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283980393641766912/aIMspZmv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/899522378576797696/1594959758",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 44,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어제 발매한 에픽하이 정규앨범의 “내 얘기 같아 (feat.헤이즈)” 반도네온으로 참여했습니다.😀\n너무너무 조금 나오지만 ㅋㅋ 대단하신 분들 음악에 조금 소리낼수 있어서 기뻤습니다😭 ㅋㅋ.!! https://t.co/OJG3LXBanW"
+	},
+	{
+		"created_at": "Tue Jan 19 13:53:05 +0000 2021",
+		"id": 1351448765257797600,
+		"id_str": "1351528108109688833",
+		"full_text": "&lt;그것이 알고싶다&gt;에서는 딥페이크, 딥보이스 피해를 \n입었거나, 딥페이크의 실태를 잘 아시는 분들의 연락을 기다립니다.\n\n02-2113-5500 \nsbs21135500@gmail.com\n카카오톡플러스친구:그것이알고싶다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2158216256,
+			"id_str": "2158216256",
+			"name": "그것이 알고싶다 공식계정",
+			"screen_name": "SBSunanswered",
+			"location": "서울시",
+			"description": "매주 토요일 밤 11시 10분 본 방송 | 제보 : 02-2113-5500 / sbs21135500@gmail.com",
+			"url": "https://t.co/j2QMWocfJg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j2QMWocfJg",
+							"expanded_url": "http://tv.sbs.co.kr/docu/",
+							"display_url": "tv.sbs.co.kr/docu/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43460,
+			"friends_count": 265,
+			"listed_count": 139,
+			"created_at": "Sun Oct 27 06:16:47 +0000 2013",
+			"favourites_count": 145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 814,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1128591894135488512/GcNwQSN1_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128591894135488512/GcNwQSN1_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2158216256/1557821351",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4920,
+		"favorite_count": 420,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "&lt;그것이 알고싶다&gt;에서는 딥페이크, 딥보이스 피해를 \n입었거나, 딥페이크의 실태를 잘 아시는 분들의 연락을 기다립니다.\n\n02-2113-5500 \nsbs21135500@gmail.com\n카카오톡플러스친구:그것이알고싶다"
+	},
+	{
+		"created_at": "Tue Jan 19 13:51:09 +0000 2021",
+		"id": 1351527618873487400,
+		"id_str": "1351527618873487361",
+		"full_text": "커리어리 실행 오류는 피드백도 없고...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1038,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44586,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "커리어리 실행 오류는 피드백도 없고..."
+	},
+	{
+		"created_at": "Tue Jan 19 13:49:03 +0000 2021",
+		"id": 1351332305030193200,
+		"id_str": "1351527092811227136",
+		"full_text": "GPT-Neo : GPT-3 규모의 모델을 오픈소스/무료로 만드는 프로젝트 https://t.co/DVCSWlZB8C \n- GPT-3+ 사이즈로 스케일 가능한 두가지 구현체를 개발중\nㅤ→ GPT-Neo : Tensorflow-mesh(TPU) 기반 코드 \nㅤ→ GPT-Neox : DeepSpeed(GPU) 기반 코드 \n- 현재 GPT-2 규모는 학습완료하고 모델 평가...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DVCSWlZB8C",
+					"expanded_url": "https://j.mp/3bNu1Qd",
+					"display_url": "j.mp/3bNu1Qd",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4751,
+			"friends_count": 0,
+			"listed_count": 76,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "GPT-Neo : GPT-3 규모의 모델을 오픈소스/무료로 만드는 프로젝트 https://t.co/DVCSWlZB8C \n- GPT-3+ 사이즈로 스케일 가능한 두가지 구현체를 개발중\nㅤ→ GPT-Neo : Tensorflow-mesh(TPU) 기반 코드 \nㅤ→ GPT-Neox : DeepSpeed(GPU) 기반 코드 \n- 현재 GPT-2 규모는 학습완료하고 모델 평가..."
+	},
+	{
 		"created_at": "Tue Jan 19 12:48:37 +0000 2021",
 		"id": 1351511882293780500,
 		"id_str": "1351511882293780487",
