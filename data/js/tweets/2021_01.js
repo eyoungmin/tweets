@@ -1,6 +1,641 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 19 09:02:06 +0000 2021",
+		"id": 1351454350833549300,
+		"id_str": "1351454876430196736",
+		"full_text": "CHUNG HA\nPre-Release Single #3\n[ X (걸어온 길에 꽃밭 따윈 없었죠) ]\n\nMusic Video\n▶ https://t.co/Vk2bjDTajI\n\n#청하 #CHUNGHA\n#X #CHUNGHA_X \n#걸어온_길에_꽃밭_따윈_없었죠 \n#Querencia https://t.co/pfyvHRwF7b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"text": "X",
+					"indices": [
+						109,
+						111
+					]
+				},
+				{
+					"text": "CHUNGHA_X",
+					"indices": [
+						112,
+						122
+					]
+				},
+				{
+					"text": "걸어온_길에_꽃밭_따윈_없었죠",
+					"indices": [
+						124,
+						141
+					]
+				},
+				{
+					"text": "Querencia",
+					"indices": [
+						143,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vk2bjDTajI",
+					"expanded_url": "https://bit.ly/2XNDwXb",
+					"display_url": "bit.ly/2XNDwXb",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1349954716663382000,
+					"id_str": "1349954716663382016",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/ErwAqZWVgAAjeQi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErwAqZWVgAAjeQi.jpg",
+					"url": "https://t.co/pfyvHRwF7b",
+					"display_url": "pic.twitter.com/pfyvHRwF7b",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1351454350833549313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349954716663382000,
+					"id_str": "1349954716663382016",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/ErwAqZWVgAAjeQi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErwAqZWVgAAjeQi.jpg",
+					"url": "https://t.co/pfyvHRwF7b",
+					"display_url": "pic.twitter.com/pfyvHRwF7b",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1351454350833549313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/MasTugaSJD\nCHUNG HA Website 💚💙💜 https://t.co/KNLHLQCXaH",
+			"url": "https://t.co/reTg513UFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg513UFX",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MasTugaSJD",
+							"expanded_url": "http://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								31,
+								54
+							]
+						},
+						{
+							"url": "https://t.co/KNLHLQCXaH",
+							"expanded_url": "http://chunghaofficial.com/",
+							"display_url": "chunghaofficial.com",
+							"indices": [
+								76,
+								99
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 308023,
+			"friends_count": 0,
+			"listed_count": 1859,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1606446336",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 609,
+		"favorite_count": 1026,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "CHUNG HA\nPre-Release Single #3\n[ X (걸어온 길에 꽃밭 따윈 없었죠) ]\n\nMusic Video\n▶ https://t.co/Vk2bjDTajI\n\n#청하 #CHUNGHA\n#X #CHUNGHA_X \n#걸어온_길에_꽃밭_따윈_없었죠 \n#Querencia https://t.co/pfyvHRwF7b"
+	},
+	{
+		"created_at": "Tue Jan 19 09:02:05 +0000 2021",
+		"id": 1351454873326395400,
+		"id_str": "1351454873326395393",
+		"full_text": "#청하 #CHUNGHA\nCHUNG HA 청하 'X (걸어온 길에 꽃밭 따윈 없었죠)' MV\nhttps://t.co/T1f7rCMaDj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T1f7rCMaDj",
+					"expanded_url": "https://youtu.be/lLsg9X_CWCQ",
+					"display_url": "youtu.be/lLsg9X_CWCQ",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1037,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44577,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청하 #CHUNGHA\nCHUNG HA 청하 'X (걸어온 길에 꽃밭 따윈 없었죠)' MV\nhttps://t.co/T1f7rCMaDj"
+	},
+	{
+		"created_at": "Tue Jan 19 08:29:38 +0000 2021",
+		"id": 1351436956178083800,
+		"id_str": "1351446709411446786",
+		"full_text": "[#PopsinSeoul]\nIdol's comfort items🎀\n\n#KPop stars also have comfort items that they cherish deeply🙌\nLet's check them out!👀\n\n🎬Youtube Link\n👉👉https://t.co/ns3iHj0GgZ\n\n#TAEYEON #SEOHO #JIMIN #DONGHAE #LUCAS https://t.co/F4vblLEIKY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PopsinSeoul",
+					"indices": [
+						1,
+						13
+					]
+				},
+				{
+					"text": "KPop",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						165,
+						173
+					]
+				},
+				{
+					"text": "SEOHO",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "JIMIN",
+					"indices": [
+						181,
+						187
+					]
+				},
+				{
+					"text": "DONGHAE",
+					"indices": [
+						188,
+						196
+					]
+				},
+				{
+					"text": "LUCAS",
+					"indices": [
+						197,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ns3iHj0GgZ",
+					"expanded_url": "https://youtu.be/GCi4HSZ5OqA",
+					"display_url": "youtu.be/GCi4HSZ5OqA",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1351418016878116900,
+					"id_str": "1351418016878116866",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EsE0X-TUwAIFHTM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsE0X-TUwAIFHTM.jpg",
+					"url": "https://t.co/F4vblLEIKY",
+					"display_url": "pic.twitter.com/F4vblLEIKY",
+					"expanded_url": "https://twitter.com/arirangworld/status/1351436956178083842/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351418016878116900,
+					"id_str": "1351418016878116866",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EsE0X-TUwAIFHTM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsE0X-TUwAIFHTM.jpg",
+					"url": "https://t.co/F4vblLEIKY",
+					"display_url": "pic.twitter.com/F4vblLEIKY",
+					"expanded_url": "https://twitter.com/arirangworld/status/1351436956178083842/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 328933,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1351418016878116866/vid/1280x720/bKqWxZaJ5UOPFR07.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1351418016878116866/vid/640x360/g9T9-vzeERL_LF4M.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1351418016878116866/vid/480x270/DkyYMhk6mJuR8aQt.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1351418016878116866/pl/JpyQodA1LH7ErxVQ.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66625290,
+			"id_str": "66625290",
+			"name": "Arirang World",
+			"screen_name": "arirangworld",
+			"location": "South Korea",
+			"description": "Arirang TV & Radio",
+			"url": "https://t.co/eRqGeUFAHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eRqGeUFAHR",
+							"expanded_url": "https://www.youtube.com/arirangworld",
+							"display_url": "youtube.com/arirangworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 158388,
+			"friends_count": 211,
+			"listed_count": 1203,
+			"created_at": "Tue Aug 18 07:40:53 +0000 2009",
+			"favourites_count": 6052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E6E6E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925579596681977856/NBEPP8Pl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925579596681977856/NBEPP8Pl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66625290/1491978349",
+			"profile_link_color": "ED1846",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFB2D7",
+			"profile_text_color": "0A0A0A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#PopsinSeoul]\nIdol's comfort items🎀\n\n#KPop stars also have comfort items that they cherish deeply🙌\nLet's check them out!👀\n\n🎬Youtube Link\n👉👉https://t.co/ns3iHj0GgZ\n\n#TAEYEON #SEOHO #JIMIN #DONGHAE #LUCAS https://t.co/F4vblLEIKY"
+	},
+	{
 		"created_at": "Tue Jan 19 07:54:19 +0000 2021",
 		"id": 1351437818933829600,
 		"id_str": "1351437818933829633",
