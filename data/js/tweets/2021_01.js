@@ -1,6 +1,451 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 20 12:02:05 +0000 2021",
+		"id": 1351850144761692200,
+		"id_str": "1351862562325999616",
+		"full_text": "[PHOTO] 🎨#BHR_2nd_Only\n📸'C'HUNG HA RANGㅣEP 19. 2021年は大当たりの年?! チョンハの新年タロット占い\n\n✌🏻 https://t.co/A2w32WYqgH\n\n#청하 #CHUNGHA #チョンハ\n#별하랑 #BYULHARANG\n#시청하랑 #SEECHUNGHARANG\n#OfficialBYULHARANG2nd 💚💙💜 https://t.co/7L3XngZxlY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BHR_2nd_Only",
+					"indices": [
+						9,
+						22
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "チョンハ",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						129,
+						140
+					]
+				},
+				{
+					"text": "시청하랑",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "SEECHUNGHARANG",
+					"indices": [
+						147,
+						162
+					]
+				},
+				{
+					"text": "OfficialBYULHARANG2nd",
+					"indices": [
+						163,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A2w32WYqgH",
+					"expanded_url": "http://vlive.tv/post/1-20956956",
+					"display_url": "vlive.tv/post/1-20956956",
+					"indices": [
+						80,
+						103
+					]
+				},
+				{
+					"url": "https://t.co/7L3XngZxlY",
+					"expanded_url": "https://twitter.com/chungha_mnhent/status/1351846941219426305",
+					"display_url": "twitter.com/chungha_mnhent…",
+					"indices": [
+						190,
+						213
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 986882185842966500,
+			"id_str": "986882185842966528",
+			"name": "CHUNG HA JAPAN OFFICIAL",
+			"screen_name": "chungha_japan",
+			"location": "",
+			"description": "#CHUNGHA JAPAN OFFICIAL Twitter",
+			"url": "https://t.co/mfDdPispWO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mfDdPispWO",
+							"expanded_url": "https://ffm.to/chungha_x",
+							"display_url": "ffm.to/chungha_x",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17171,
+			"friends_count": 2,
+			"listed_count": 168,
+			"created_at": "Thu Apr 19 08:20:23 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 867,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988221974169059328/l3d7G6Fx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988221974169059328/l3d7G6Fx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/986882185842966528/1603170240",
+			"profile_link_color": "BF83AB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1351846941219426300,
+		"quoted_status_id_str": "1351846941219426305",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7L3XngZxlY",
+			"expanded": "https://twitter.com/chungha_mnhent/status/1351846941219426305",
+			"display": "twitter.com/chungha_mnhent…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 20 11:00:01 +0000 2021",
+			"id": 1351846941219426300,
+			"id_str": "1351846941219426305",
+			"full_text": "[PHOTO] 🎨#BHR_2nd_Only\n📸'C'HUNG HA RANGㅣEP 19. 2021년 대박각?! 청하의 신년맞이 타로점\n\n✌🏻 https://t.co/vaSa6mdOGd\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#시청하랑 #SEECHUNGHARANG\n#OfficialBYULHARANG2nd 💚💙💜 https://t.co/UudgDyvspK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				179
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BHR_2nd_Only",
+						"indices": [
+							9,
+							22
+						]
+					},
+					{
+						"text": "청하",
+						"indices": [
+							101,
+							104
+						]
+					},
+					{
+						"text": "CHUNGHA",
+						"indices": [
+							105,
+							113
+						]
+					},
+					{
+						"text": "별하랑",
+						"indices": [
+							114,
+							118
+						]
+					},
+					{
+						"text": "BYULHARANG",
+						"indices": [
+							119,
+							130
+						]
+					},
+					{
+						"text": "시청하랑",
+						"indices": [
+							131,
+							136
+						]
+					},
+					{
+						"text": "SEECHUNGHARANG",
+						"indices": [
+							137,
+							152
+						]
+					},
+					{
+						"text": "OfficialBYULHARANG2nd",
+						"indices": [
+							153,
+							175
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vaSa6mdOGd",
+						"expanded_url": "https://www.vlive.tv/post/1-20956956",
+						"display_url": "vlive.tv/post/1-20956956",
+						"indices": [
+							76,
+							99
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1351777448636031000,
+						"id_str": "1351777448636030979",
+						"indices": [
+							180,
+							203
+						],
+						"media_url": "http://pbs.twimg.com/media/EsJ6bXFVoAMhh-v.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EsJ6bXFVoAMhh-v.jpg",
+						"url": "https://t.co/UudgDyvspK",
+						"display_url": "pic.twitter.com/UudgDyvspK",
+						"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1351846941219426305/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1351777448636031000,
+						"id_str": "1351777448636030979",
+						"indices": [
+							180,
+							203
+						],
+						"media_url": "http://pbs.twimg.com/media/EsJ6bXFVoAMhh-v.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EsJ6bXFVoAMhh-v.jpg",
+						"url": "https://t.co/UudgDyvspK",
+						"display_url": "pic.twitter.com/UudgDyvspK",
+						"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1351846941219426305/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1097557125742489600,
+				"id_str": "1097557125742489600",
+				"name": "CHUNG HA",
+				"screen_name": "CHUNGHA_MNHent",
+				"location": "",
+				"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/MasTugaSJD\nCHUNG HA Website 💚💙💜 https://t.co/KNLHLQCXaH",
+				"url": "https://t.co/reTg513UFX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/reTg513UFX",
+								"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+								"display_url": "cafe.daum.net/MNH-Chungha",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/MasTugaSJD",
+								"expanded_url": "http://bit.ly/2ZZWMlN",
+								"display_url": "bit.ly/2ZZWMlN",
+								"indices": [
+									31,
+									54
+								]
+							},
+							{
+								"url": "https://t.co/KNLHLQCXaH",
+								"expanded_url": "http://chunghaofficial.com/",
+								"display_url": "chunghaofficial.com",
+								"indices": [
+									76,
+									99
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 308776,
+				"friends_count": 0,
+				"listed_count": 1873,
+				"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1481,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1611047124",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 463,
+			"favorite_count": 2171,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 7,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[PHOTO] 🎨#BHR_2nd_Only\n📸'C'HUNG HA RANGㅣEP 19. 2021年は大当たりの年?! チョンハの新年タロット占い\n\n✌🏻 https://t.co/A2w32WYqgH\n\n#청하 #CHUNGHA #チョンハ\n#별하랑 #BYULHARANG\n#시청하랑 #SEECHUNGHARANG\n#OfficialBYULHARANG2nd 💚💙💜 https://t.co/7L3XngZxlY"
+	},
+	{
 		"created_at": "Wed Jan 20 11:02:05 +0000 2021",
 		"id": 1351846941219426300,
 		"id_str": "1351847462936391687",
@@ -406,7 +851,7 @@ Grailbird.data.tweets_2021_01 =
 		"created_at": "Wed Jan 20 10:13:11 +0000 2021",
 		"id": 1351835153061064700,
 		"id_str": "1351835153061064704",
-		"full_text": "#SMTOWN #PLAYLIST\n에스파🎤 → 에스파👩🏻‍💼 | aespa TMI 인터뷰\nhttps://t.co/qwbsHAMb8T\n#에스파 #aespa #æspa",
+		"full_text": "#SMTOWN #PLAYLIST\n에스파🎤 → 에스파👩🏻💼 | aespa TMI 인터뷰\nhttps://t.co/qwbsHAMb8T\n#에스파 #aespa #æspa",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -542,7 +987,7 @@ Grailbird.data.tweets_2021_01 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#SMTOWN #PLAYLIST\n에스파🎤 → 에스파👩🏻‍💼 | aespa TMI 인터뷰\nhttps://t.co/qwbsHAMb8T\n#에스파 #aespa #æspa"
+		"text": "#SMTOWN #PLAYLIST\n에스파🎤 → 에스파👩🏻💼 | aespa TMI 인터뷰\nhttps://t.co/qwbsHAMb8T\n#에스파 #aespa #æspa"
 	},
 	{
 		"created_at": "Wed Jan 20 10:02:04 +0000 2021",
