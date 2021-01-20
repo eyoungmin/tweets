@@ -1,6 +1,1861 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 20 06:41:28 +0000 2021",
+		"id": 1351781875321344000,
+		"id_str": "1351781875321344000",
+		"full_text": "#팩트체크 #SNU팩트체크\n집값 급등과 공급 부족 원인, '1인 가구 세대수 증가' 때문이다\n▶ 전혀 사실 아님\nhttps://t.co/StyyxlBKlE\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						89,
+						100
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						101,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/StyyxlBKlE",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2753",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1039,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44597,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n집값 급등과 공급 부족 원인, '1인 가구 세대수 증가' 때문이다\n▶ 전혀 사실 아님\nhttps://t.co/StyyxlBKlE\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
+		"created_at": "Wed Jan 20 06:36:42 +0000 2021",
+		"id": 1351611455204962300,
+		"id_str": "1351780673883787267",
+		"full_text": "𝐈𝐓'𝐒 𝐇𝐀𝐏𝐏𝐄𝐍𝐈𝐍𝐆: @BillieEilish x Rosalía’s new collab 𝙻𝚘 𝚅𝚊𝚜 𝙰 𝙾𝚕𝚟𝚒𝚍𝚊𝚛 for @EuphoriaHBO officially drops 1.21 🖤 https://t.co/z5RceCyjGz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "billieeilish",
+					"name": "billie eilish",
+					"id": 2150327072,
+					"id_str": "2150327072",
+					"indices": [
+						16,
+						29
+					]
+				},
+				{
+					"screen_name": "euphoriaHBO",
+					"name": "euphoria",
+					"id": 1023959908687982600,
+					"id_str": "1023959908687982593",
+					"indices": [
+						74,
+						86
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1351608474254209000,
+					"id_str": "1351608474254209024",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1351608474254209024/pu/img/DDbkPMo58YtoRl4C.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1351608474254209024/pu/img/DDbkPMo58YtoRl4C.jpg",
+					"url": "https://t.co/z5RceCyjGz",
+					"display_url": "pic.twitter.com/z5RceCyjGz",
+					"expanded_url": "https://twitter.com/billieeilish/status/1351608573525061634/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1351608573525061600,
+					"source_status_id_str": "1351608573525061634",
+					"source_user_id": 2150327072,
+					"source_user_id_str": "2150327072"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351608474254209000,
+					"id_str": "1351608474254209024",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1351608474254209024/pu/img/DDbkPMo58YtoRl4C.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1351608474254209024/pu/img/DDbkPMo58YtoRl4C.jpg",
+					"url": "https://t.co/z5RceCyjGz",
+					"display_url": "pic.twitter.com/z5RceCyjGz",
+					"expanded_url": "https://twitter.com/billieeilish/status/1351608573525061634/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1351608573525061600,
+					"source_status_id_str": "1351608573525061634",
+					"source_user_id": 2150327072,
+					"source_user_id_str": "2150327072",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15000,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1351608474254209024/pu/vid/320x320/Zb7QtX7fHJJofp0f.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1351608474254209024/pu/vid/480x480/ttAAYFiAaATh9SC8.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1351608474254209024/pu/vid/720x720/2Qk5JRP2WYAi_5Un.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1351608474254209024/pu/pl/E8Pxe7dcakhwOgkh.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2150327072,
+							"id_str": "2150327072",
+							"name": "billie eilish",
+							"screen_name": "billieeilish",
+							"location": "",
+							"description": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? https://t.co/jPS2qPEVbA | “Therefore I Am” https://t.co/E5ubhVL7x3",
+							"url": "https://t.co/oRhmwrN1J1",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/oRhmwrN1J1",
+											"expanded_url": "http://Instagram.com/billieeilish",
+											"display_url": "Instagram.com/billieeilish",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/jPS2qPEVbA",
+											"expanded_url": "https://smarturl.it/BILLIEALBUM",
+											"display_url": "smarturl.it/BILLIEALBUM",
+											"indices": [
+												41,
+												64
+											]
+										},
+										{
+											"url": "https://t.co/E5ubhVL7x3",
+											"expanded_url": "https://smarturl.it/ThereforeIAm",
+											"display_url": "smarturl.it/ThereforeIAm",
+											"indices": [
+												84,
+												107
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 5378120,
+							"friends_count": 0,
+							"listed_count": 3316,
+							"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+							"favourites_count": 7278,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 585,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1326956252845371394/4UYImnxl_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326956252845371394/4UYImnxl_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1605204422",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": true,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18033062,
+			"id_str": "18033062",
+			"name": "Universal Music Group",
+			"screen_name": "UMG",
+			"location": "Santa Monica, CA",
+			"description": "The world's leading music company.",
+			"url": "https://t.co/hseCxhX0F7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hseCxhX0F7",
+							"expanded_url": "http://www.universalmusic.com",
+							"display_url": "universalmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 607767,
+			"friends_count": 2220,
+			"listed_count": 4495,
+			"created_at": "Wed Dec 10 22:37:02 +0000 2008",
+			"favourites_count": 3178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25514,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145735934748631042/vQ_kGDjX_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145735934748631042/vQ_kGDjX_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18033062/1539028836",
+			"profile_link_color": "66D7FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EBEFF4",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 201,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "𝐈𝐓'𝐒 𝐇𝐀𝐏𝐏𝐄𝐍𝐈𝐍𝐆: @BillieEilish x Rosalía’s new collab 𝙻𝚘 𝚅𝚊𝚜 𝙰 𝙾𝚕𝚟𝚒𝚍𝚊𝚛 for @EuphoriaHBO officially drops 1.21 🖤 https://t.co/z5RceCyjGz"
+	},
+	{
+		"created_at": "Wed Jan 20 06:32:13 +0000 2021",
+		"id": 1351762507107430400,
+		"id_str": "1351779546945634304",
+		"full_text": "MBC에서 3주간 매주 목요일 저녁 10시 30분에 한국 독립 영화를 특별 편성한 '집콕 영화제'를 선보입니다.\n1월 21일 목요일 - &lt;윤희에게&gt;\n1월 28일 목요일 - &lt;찬실이는 복도 많지&gt;\n2월 4일 목요일 - &lt;잔칫날&gt;\n2월에는 '집콕 콘서트'를 편성할 예정이라고.\nhttps://t.co/OdgnPGrd0D https://t.co/hyYkTqUKe9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OdgnPGrd0D",
+					"expanded_url": "https://entertain.naver.com/now/read?oid=408&aid=0000112745",
+					"display_url": "entertain.naver.com/now/read?oid=4…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1351761510297555000,
+					"id_str": "1351761510297554946",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EsJr7oJU0AIph4V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsJr7oJU0AIph4V.jpg",
+					"url": "https://t.co/hyYkTqUKe9",
+					"display_url": "pic.twitter.com/hyYkTqUKe9",
+					"expanded_url": "https://twitter.com/tailorcontents/status/1351762507107430402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351761510297555000,
+					"id_str": "1351761510297554946",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EsJr7oJU0AIph4V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsJr7oJU0AIph4V.jpg",
+					"url": "https://t.co/hyYkTqUKe9",
+					"display_url": "pic.twitter.com/hyYkTqUKe9",
+					"expanded_url": "https://twitter.com/tailorcontents/status/1351762507107430402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4838971693,
+			"id_str": "4838971693",
+			"name": "테일러콘텐츠 TailorContent",
+			"screen_name": "tailorcontents",
+			"location": "",
+			"description": "테일러콘텐츠는 작품과 배우의 데이터를 구축하고 새로운 형태의 콘텐츠를 만드는 일에 늘 도전하는 스타트업입니다",
+			"url": "https://t.co/IOMUmlyIDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IOMUmlyIDN",
+							"expanded_url": "http://tailorcontents.com",
+							"display_url": "tailorcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18173,
+			"friends_count": 730,
+			"listed_count": 99,
+			"created_at": "Sun Jan 31 08:05:08 +0000 2016",
+			"favourites_count": 995,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4838971693/1591696070",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 183,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MBC에서 3주간 매주 목요일 저녁 10시 30분에 한국 독립 영화를 특별 편성한 '집콕 영화제'를 선보입니다.\n1월 21일 목요일 - &lt;윤희에게&gt;\n1월 28일 목요일 - &lt;찬실이는 복도 많지&gt;\n2월 4일 목요일 - &lt;잔칫날&gt;\n2월에는 '집콕 콘서트'를 편성할 예정이라고.\nhttps://t.co/OdgnPGrd0D https://t.co/hyYkTqUKe9"
+	},
+	{
+		"created_at": "Wed Jan 20 06:31:48 +0000 2021",
+		"id": 1350986385398837200,
+		"id_str": "1351779440594882561",
+		"full_text": "2⃣0⃣2⃣1⃣\n\n2021년, 국립극단의 공연 일정을 소개합니다.\n\n연극을 보는 즐거움\n연극을 만드는 즐거움\n\n올해도 국립극단과 함께 [연극]해요!\n\n-\n※공연 일정은 변경될 수 있습니다.\n※개별 공연 예매 개시 일정은 추후 홈페이지를 통해 별도 공지됩니다.\n\n#2021_국립극단 #국립극단 #공연일정 #라인업 https://t.co/5dZcJNu9JD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2021_국립극단",
+					"indices": [
+						146,
+						156
+					]
+				},
+				{
+					"text": "국립극단",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "라인업",
+					"indices": [
+						169,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1350986225012891600,
+					"id_str": "1350986225012891651",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/Er-q0FZW4AMDVe8.png",
+					"media_url_https": "https://pbs.twimg.com/media/Er-q0FZW4AMDVe8.png",
+					"url": "https://t.co/5dZcJNu9JD",
+					"display_url": "pic.twitter.com/5dZcJNu9JD",
+					"expanded_url": "https://twitter.com/NTCK_/status/1350986385398837251/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1350986225012891600,
+					"id_str": "1350986225012891651",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/Er-q0FZW4AMDVe8.png",
+					"media_url_https": "https://pbs.twimg.com/media/Er-q0FZW4AMDVe8.png",
+					"url": "https://t.co/5dZcJNu9JD",
+					"display_url": "pic.twitter.com/5dZcJNu9JD",
+					"expanded_url": "https://twitter.com/NTCK_/status/1350986385398837251/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1350986243501392000,
+					"id_str": "1350986243501391872",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/Er-q1KRXAAAYYYF.png",
+					"media_url_https": "https://pbs.twimg.com/media/Er-q1KRXAAAYYYF.png",
+					"url": "https://t.co/5dZcJNu9JD",
+					"display_url": "pic.twitter.com/5dZcJNu9JD",
+					"expanded_url": "https://twitter.com/NTCK_/status/1350986385398837251/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226819495,
+			"id_str": "226819495",
+			"name": "국립극단 National Theater Company of Korea",
+			"screen_name": "NTCK_",
+			"location": "Seoul KOREA",
+			"description": "명동예술극장 / 백성희장민호극장 / 소극장 판",
+			"url": "https://t.co/8rq59bjJgr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8rq59bjJgr",
+							"expanded_url": "http://www.ntck.or.kr",
+							"display_url": "ntck.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8262,
+			"friends_count": 4001,
+			"listed_count": 110,
+			"created_at": "Wed Dec 15 04:42:53 +0000 2010",
+			"favourites_count": 109,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5575,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C29932",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160798818977247232/TKusMqlE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160798818977247232/TKusMqlE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226819495/1565333757",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C9AE41",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 155,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2⃣0⃣2⃣1⃣\n\n2021년, 국립극단의 공연 일정을 소개합니다.\n\n연극을 보는 즐거움\n연극을 만드는 즐거움\n\n올해도 국립극단과 함께 [연극]해요!\n\n-\n※공연 일정은 변경될 수 있습니다.\n※개별 공연 예매 개시 일정은 추후 홈페이지를 통해 별도 공지됩니다.\n\n#2021_국립극단 #국립극단 #공연일정 #라인업 https://t.co/5dZcJNu9JD"
+	},
+	{
+		"created_at": "Wed Jan 20 06:29:52 +0000 2021",
+		"id": 1351778955812999200,
+		"id_str": "1351778955812999168",
+		"full_text": "문제되는 기업 처벌을 제대로 하면 서서히 사라진다. 처벌은 대충하고 피해자만  억울한 나라에서 청원 시스템에나 기대는 것 같아서 어이가 없을 뿐.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1351778338587644000,
+		"in_reply_to_status_id_str": "1351778338587643905",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1039,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44597,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "문제되는 기업 처벌을 제대로 하면 서서히 사라진다. 처벌은 대충하고 피해자만  억울한 나라에서 청원 시스템에나 기대는 것 같아서 어이가 없을 뿐."
+	},
+	{
+		"created_at": "Wed Jan 20 06:28:09 +0000 2021",
+		"id": 1351778523829186600,
+		"id_str": "1351778523829186561",
+		"full_text": "#청하 #CHUNGHA #VLIVE\nCHUNG HA 청하 'X (걸어온 길에 꽃밭 따윈 없었죠)' MV Making | CHUNG HA\nhttps://t.co/jxkMFLBhHz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						13,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jxkMFLBhHz",
+					"expanded_url": "https://www.vlive.tv/video/233286",
+					"display_url": "vlive.tv/video/233286",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1039,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44597,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청하 #CHUNGHA #VLIVE\nCHUNG HA 청하 'X (걸어온 길에 꽃밭 따윈 없었죠)' MV Making | CHUNG HA\nhttps://t.co/jxkMFLBhHz"
+	},
+	{
+		"created_at": "Wed Jan 20 06:27:25 +0000 2021",
+		"id": 1351778338587644000,
+		"id_str": "1351778338587643905",
+		"full_text": "청원 시스템이 효율적인지 검증된 모델인지 모르겠는데 왜 이걸 국가에서 도입해서 하는 건지 모르겠다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1039,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44597,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "청원 시스템이 효율적인지 검증된 모델인지 모르겠는데 왜 이걸 국가에서 도입해서 하는 건지 모르겠다."
+	},
+	{
+		"created_at": "Wed Jan 20 06:26:58 +0000 2021",
+		"id": 1351771440362635300,
+		"id_str": "1351778224330604545",
+		"full_text": "매일 먹고 쓰는 #식품, #의약품, #화장품\n궁금하거나 불안하신가요? 🤔\n\n국민이 요청하는 식의약품 등을\n직접 검사하고 결과를 공개하는 \n'#국민청원안전검사제'를 이용해 보세요!👀\n\n▼ 국민청원 안전검사제 홈페이지 클릭! ▼\nhttps://t.co/siuuHN1zly\n\n#식약처 #식품의약품안전처 #고객지원담당관실 https://t.co/MMJ9HaJKno",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "식품",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "의약품",
+					"indices": [
+						14,
+						18
+					]
+				},
+				{
+					"text": "화장품",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "국민청원안전검사제",
+					"indices": [
+						78,
+						88
+					]
+				},
+				{
+					"text": "식약처",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "식품의약품안전처",
+					"indices": [
+						156,
+						165
+					]
+				},
+				{
+					"text": "고객지원담당관실",
+					"indices": [
+						166,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/siuuHN1zly",
+					"expanded_url": "https://petition.mfds.go.kr/main.do",
+					"display_url": "petition.mfds.go.kr/main.do",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1351759105610838000,
+					"id_str": "1351759105610838018",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EsJpvp_VcAIkeMK.png",
+					"media_url_https": "https://pbs.twimg.com/media/EsJpvp_VcAIkeMK.png",
+					"url": "https://t.co/MMJ9HaJKno",
+					"display_url": "pic.twitter.com/MMJ9HaJKno",
+					"expanded_url": "https://twitter.com/TheMFDS/status/1351771440362635264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 604,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351759105610838000,
+					"id_str": "1351759105610838018",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EsJpvp_VcAIkeMK.png",
+					"media_url_https": "https://pbs.twimg.com/media/EsJpvp_VcAIkeMK.png",
+					"url": "https://t.co/MMJ9HaJKno",
+					"display_url": "pic.twitter.com/MMJ9HaJKno",
+					"expanded_url": "https://twitter.com/TheMFDS/status/1351771440362635264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 604,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 138347667,
+			"id_str": "138347667",
+			"name": "식품의약품안전처",
+			"screen_name": "TheMFDS",
+			"location": "",
+			"description": "식품의약품안전처 공식 트위터입니다. 안전한 식의약! 건강한 국민! 행복한 사회를 위해 식의약의 生生한 정보를 신속하게 전달하는 메신저입니다. #식약처 #식품의약품안전처",
+			"url": "https://t.co/0prRVmineH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0prRVmineH",
+							"expanded_url": "http://www.mfds.go.kr",
+							"display_url": "mfds.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37486,
+			"friends_count": 452,
+			"listed_count": 481,
+			"created_at": "Thu Apr 29 08:51:52 +0000 2010",
+			"favourites_count": 1685,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323854357444534273/DQ64Cj_G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323854357444534273/DQ64Cj_G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/138347667/1604466451",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "매일 먹고 쓰는 #식품, #의약품, #화장품\n궁금하거나 불안하신가요? 🤔\n\n국민이 요청하는 식의약품 등을\n직접 검사하고 결과를 공개하는 \n'#국민청원안전검사제'를 이용해 보세요!👀\n\n▼ 국민청원 안전검사제 홈페이지 클릭! ▼\nhttps://t.co/siuuHN1zly\n\n#식약처 #식품의약품안전처 #고객지원담당관실 https://t.co/MMJ9HaJKno"
+	},
+	{
+		"created_at": "Wed Jan 20 06:25:29 +0000 2021",
+		"id": 1351772692567847000,
+		"id_str": "1351777853298282499",
+		"full_text": "(여자)아이들 미연 '화(火花)' 페이스캠❤\n\n너무 너무 아름다운 미연..💜✨ \n\nFull📺 https://t.co/zSiJ6ZR9qm\n\n#인기가요 #inkigayo #여자아이들  #미연 #화 @G_I_DLE https://t.co/AJ0rCoxbD8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인기가요",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "inkigayo",
+					"indices": [
+						83,
+						92
+					]
+				},
+				{
+					"text": "여자아이들",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "미연",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "화",
+					"indices": [
+						105,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "G_I_DLE",
+					"name": "(G)I-DLE·(여자)아이들",
+					"id": 967000437797761000,
+					"id_str": "967000437797761024",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zSiJ6ZR9qm",
+					"expanded_url": "https://programs.sbs.co.kr/enter/gayo/clip/54768/22000402136",
+					"display_url": "programs.sbs.co.kr/enter/gayo/cli…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1351772685575962600,
+					"id_str": "1351772685575962633",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EsJ2GHTUwAkSEut.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsJ2GHTUwAkSEut.jpg",
+					"url": "https://t.co/AJ0rCoxbD8",
+					"display_url": "pic.twitter.com/AJ0rCoxbD8",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1351772692567846914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351772685575962600,
+					"id_str": "1351772685575962633",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EsJ2GHTUwAkSEut.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsJ2GHTUwAkSEut.jpg",
+					"url": "https://t.co/AJ0rCoxbD8",
+					"display_url": "pic.twitter.com/AJ0rCoxbD8",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1351772692567846914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130755875210088400,
+			"id_str": "1130755875210088448",
+			"name": "SBS인기가요 (SBS Inkigayo)",
+			"screen_name": "sbsnoriter",
+			"location": "Seoul, Republic of Korea",
+			"description": "일요일엔 인기가요! 'SBS인기가요' 공식 채널에서만 만날 수 있는 다양한 콘텐츠를 지금 만나보세요 ~♡ \n--------------------------------\n매주 일요일 오후 3시 50분 \nEvery Sun 3:50(KST) SBS Live on Air",
+			"url": "https://t.co/skgJieaVqa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/skgJieaVqa",
+							"expanded_url": "https://programs.sbs.co.kr/enter/gayo/main",
+							"display_url": "programs.sbs.co.kr/enter/gayo/main",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33013,
+			"friends_count": 0,
+			"listed_count": 191,
+			"created_at": "Tue May 21 08:43:03 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1280728616762933253/4YOXJPkh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1280728616762933253/4YOXJPkh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130755875210088448/1594184572",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 843,
+		"favorite_count": 3029,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "(여자)아이들 미연 '화(火花)' 페이스캠❤\n\n너무 너무 아름다운 미연..💜✨ \n\nFull📺 https://t.co/zSiJ6ZR9qm\n\n#인기가요 #inkigayo #여자아이들  #미연 #화 @G_I_DLE https://t.co/AJ0rCoxbD8"
+	},
+	{
+		"created_at": "Wed Jan 20 06:23:43 +0000 2021",
+		"id": 1349897853473153000,
+		"id_str": "1351777406873346050",
+		"full_text": "Backslide - HTML 발표자료 쉽게 만들기 https://t.co/w41axIjJgB \n- Remark.js 와 Markdown을 이용한 HTML 슬라이드 만들기 \n- CLI 로 간단히 기본구조 생성하고 마크다운 편집\n- Sass 템플릿 생성기 \n- 개발 서버 내장 \n- CSS/JS까지 하나로 묶은 HTML 또는 웹사이트 로 Export해서 서비스 가...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w41axIjJgB",
+					"expanded_url": "https://j.mp/3bDPrz1",
+					"display_url": "j.mp/3bDPrz1",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4753,
+			"friends_count": 0,
+			"listed_count": 76,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3517,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 49,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Backslide - HTML 발표자료 쉽게 만들기 https://t.co/w41axIjJgB \n- Remark.js 와 Markdown을 이용한 HTML 슬라이드 만들기 \n- CLI 로 간단히 기본구조 생성하고 마크다운 편집\n- Sass 템플릿 생성기 \n- 개발 서버 내장 \n- CSS/JS까지 하나로 묶은 HTML 또는 웹사이트 로 Export해서 서비스 가..."
+	},
+	{
+		"created_at": "Wed Jan 20 06:22:19 +0000 2021",
+		"id": 1351777055843631000,
+		"id_str": "1351777055843631105",
+		"full_text": "격리해제 나왔다길래 들었는데 농도 짙은 교회 비판 같은 건 역시나 없네. 사회비판은 그냥 짧게 치고 가는 정도가 끝이고 머니스웩 하는 랩퍼도 많네.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1039,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44597,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "격리해제 나왔다길래 들었는데 농도 짙은 교회 비판 같은 건 역시나 없네. 사회비판은 그냥 짧게 치고 가는 정도가 끝이고 머니스웩 하는 랩퍼도 많네."
+	},
+	{
 		"created_at": "Wed Jan 20 05:45:37 +0000 2021",
 		"id": 1351757712506318800,
 		"id_str": "1351767818786766849",
