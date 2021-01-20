@@ -1,10 +1,554 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 20 11:02:05 +0000 2021",
+		"id": 1351846941219426300,
+		"id_str": "1351847462936391687",
+		"full_text": "[PHOTO] 🎨#BHR_2nd_Only\n📸'C'HUNG HA RANGㅣEP 19. 2021년 대박각?! 청하의 신년맞이 타로점\n\n✌🏻 https://t.co/vaSa6mdOGd\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#시청하랑 #SEECHUNGHARANG\n#OfficialBYULHARANG2nd 💚💙💜 https://t.co/UudgDyvspK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BHR_2nd_Only",
+					"indices": [
+						9,
+						22
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						105,
+						113
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						119,
+						130
+					]
+				},
+				{
+					"text": "시청하랑",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "SEECHUNGHARANG",
+					"indices": [
+						137,
+						152
+					]
+				},
+				{
+					"text": "OfficialBYULHARANG2nd",
+					"indices": [
+						153,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vaSa6mdOGd",
+					"expanded_url": "https://www.vlive.tv/post/1-20956956",
+					"display_url": "vlive.tv/post/1-20956956",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1351777448636031000,
+					"id_str": "1351777448636030979",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/EsJ6bXFVoAMhh-v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsJ6bXFVoAMhh-v.jpg",
+					"url": "https://t.co/UudgDyvspK",
+					"display_url": "pic.twitter.com/UudgDyvspK",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1351846941219426305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351777448636031000,
+					"id_str": "1351777448636030979",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/EsJ6bXFVoAMhh-v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsJ6bXFVoAMhh-v.jpg",
+					"url": "https://t.co/UudgDyvspK",
+					"display_url": "pic.twitter.com/UudgDyvspK",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1351846941219426305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/MasTugaSJD\nCHUNG HA Website 💚💙💜 https://t.co/KNLHLQCXaH",
+			"url": "https://t.co/reTg513UFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg513UFX",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MasTugaSJD",
+							"expanded_url": "http://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								31,
+								54
+							]
+						},
+						{
+							"url": "https://t.co/KNLHLQCXaH",
+							"expanded_url": "http://chunghaofficial.com/",
+							"display_url": "chunghaofficial.com",
+							"indices": [
+								76,
+								99
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 308765,
+			"friends_count": 0,
+			"listed_count": 1872,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1611047124",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 125,
+		"favorite_count": 430,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[PHOTO] 🎨#BHR_2nd_Only\n📸'C'HUNG HA RANGㅣEP 19. 2021년 대박각?! 청하의 신년맞이 타로점\n\n✌🏻 https://t.co/vaSa6mdOGd\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#시청하랑 #SEECHUNGHARANG\n#OfficialBYULHARANG2nd 💚💙💜 https://t.co/UudgDyvspK"
+	},
+	{
+		"created_at": "Wed Jan 20 10:42:24 +0000 2021",
+		"id": 1351842506049257500,
+		"id_str": "1351842506049257472",
+		"full_text": "#이달의소녀 #LOONA\n[이달의 소녀] 달의 주파수 ep.31 | 이달의 소녀(LOONA)\nhttps://t.co/jAliGb7fiv\n#VLIVE #브이앱 #브이라이브",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "브이앱",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "브이라이브",
+					"indices": [
+						88,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jAliGb7fiv",
+					"expanded_url": "https://www.vlive.tv/video/233262%22%20data-ga-vtype=%22LIVE%22%20data-ga-product=%22NONE%22%20data-ga-cname=%22%EC%9D%B4%EB%8B%AC%EC%9D%98%20%EC%86%8C%EB%85%80(LOONA)%22%20data-ga-cseq=%22468%22%20data-ga-ctype=%22%22%3E%20LIVE%20[%EC%9D%B4%EB%8B%AC%EC%9D%98%20%EC%86%8C%EB%85%80]%20%EB%8B%AC%EC%9D%98%20%EC%A3%BC%ED%8C%8C%EC%88%98%20ep.31%20%EC%9D%B4%EB%8B%AC%EC%9D%98%20%EC%86%8C%EB%85%80(LOONA)%20%EC%9E%AC%EC%83%9D%EC%88%9828,662%20%EC%A2%8B%EC%95%84%EC%9A%941,668,310%20%3Ca%20href=%22https://m.vlive.tv/video/231488%22%20class=%22inner_link%22%20onclick=%22vlive.common.videoGa(this);%22%20data-ga-vname=%22[LOONA+]%20Happy%20Christmas!%22%20data-ga-vseq=%22231488",
+					"display_url": "vlive.tv/video/233262%2…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1039,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76437,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA\n[이달의 소녀] 달의 주파수 ep.31 | 이달의 소녀(LOONA)\nhttps://t.co/jAliGb7fiv\n#VLIVE #브이앱 #브이라이브"
+	},
+	{
+		"created_at": "Wed Jan 20 10:13:11 +0000 2021",
+		"id": 1351835153061064700,
+		"id_str": "1351835153061064704",
+		"full_text": "#SMTOWN #PLAYLIST\n에스파🎤 → 에스파👩🏻‍💼 | aespa TMI 인터뷰\nhttps://t.co/qwbsHAMb8T\n#에스파 #aespa #æspa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						85,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qwbsHAMb8T",
+					"expanded_url": "https://www.youtube.com/watch?v=xaQMEikeZ3o",
+					"display_url": "youtube.com/watch?v=xaQMEi…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1039,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76437,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #PLAYLIST\n에스파🎤 → 에스파👩🏻‍💼 | aespa TMI 인터뷰\nhttps://t.co/qwbsHAMb8T\n#에스파 #aespa #æspa"
+	},
+	{
 		"created_at": "Wed Jan 20 10:02:04 +0000 2021",
 		"id": 1351832357674889200,
 		"id_str": "1351832357674889218",
-		"full_text": "#aespa #æspa #에스파\n에스파🎤 → 에스파👩🏻‍💼 | aespa TMI 인터뷰\nhttps://t.co/DWaWuMNFBc",
+		"full_text": "#aespa #æspa #에스파\n에스파🎤 → 에스파👩🏻💼 | aespa TMI 인터뷰\nhttps://t.co/DWaWuMNFBc",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -126,7 +670,7 @@ Grailbird.data.tweets_2021_01 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#aespa #æspa #에스파\n에스파🎤 → 에스파👩🏻‍💼 | aespa TMI 인터뷰\nhttps://t.co/DWaWuMNFBc"
+		"text": "#aespa #æspa #에스파\n에스파🎤 → 에스파👩🏻💼 | aespa TMI 인터뷰\nhttps://t.co/DWaWuMNFBc"
 	},
 	{
 		"created_at": "Wed Jan 20 09:45:37 +0000 2021",
