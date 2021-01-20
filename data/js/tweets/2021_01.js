@@ -1,6 +1,577 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 20 14:02:06 +0000 2021",
+		"id": 1351892396317921300,
+		"id_str": "1351892761973321728",
+		"full_text": "[#희진 / #HeeJin] 뽀삐즈 말고 북극곰즈🐻 ❄\n\n#이달의소녀 #LOONA https://t.co/GUZcUbBhft",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "희진",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						32,
+						38
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						39,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1351892383953158100,
+					"id_str": "1351892383953158149",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EsLi9egVgAUfqrd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsLi9egVgAUfqrd.jpg",
+					"url": "https://t.co/GUZcUbBhft",
+					"display_url": "pic.twitter.com/GUZcUbBhft",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1351892396317921280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1504,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351892383953158100,
+					"id_str": "1351892383953158149",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EsLi9egVgAUfqrd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsLi9egVgAUfqrd.jpg",
+					"url": "https://t.co/GUZcUbBhft",
+					"display_url": "pic.twitter.com/GUZcUbBhft",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1351892396317921280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1504,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1351892383957360600,
+					"id_str": "1351892383957360646",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EsLi9ehVoAYRcVs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsLi9ehVoAYRcVs.jpg",
+					"url": "https://t.co/GUZcUbBhft",
+					"display_url": "pic.twitter.com/GUZcUbBhft",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1351892396317921280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1128,
+							"h": 1504,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1351892383969931300,
+					"id_str": "1351892383969931266",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EsLi9ekVcAImlqz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsLi9ekVcAImlqz.jpg",
+					"url": "https://t.co/GUZcUbBhft",
+					"display_url": "pic.twitter.com/GUZcUbBhft",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1351892396317921280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1504,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627909,
+			"friends_count": 0,
+			"listed_count": 6458,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2199,
+		"favorite_count": 4697,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#희진 / #HeeJin] 뽀삐즈 말고 북극곰즈🐻 ❄\n\n#이달의소녀 #LOONA https://t.co/GUZcUbBhft"
+	},
+	{
+		"created_at": "Wed Jan 20 13:40:35 +0000 2021",
+		"id": 1351876390518460400,
+		"id_str": "1351887348921819138",
+		"full_text": "5분 뒤면 백익관을 떠나는 트럼프. 간밤-새벽에 자기 등극을 도운 극우 기획자 배넌 등 지지자 140여명을 사면/복권하고, 관료부패를 막겠다며 자기가 내세웠던 퇴임후 5년 내 로비 금지명령을 무화하고(자기가 퇴임하니까),  바이든 취임식 불참으로 인해 그 행사에서 전달되는 핵가방도 들고감. https://t.co/l9qzyMcxDg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l9qzyMcxDg",
+					"expanded_url": "https://twitter.com/AndrewSolender/status/1351774598052896768",
+					"display_url": "twitter.com/AndrewSolender…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37586683,
+			"id_str": "37586683",
+			"name": "Nakho Kim",
+			"screen_name": "capcold",
+			"location": "Harrisburg, PA",
+			"description": "Researches media. Reads comics. Embraces stupidity. / PSU HBG.\n기회는 공정하게, 과정은 정의롭게, 결과는 평등하게.",
+			"url": "https://t.co/jlgpmpTdEJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jlgpmpTdEJ",
+							"expanded_url": "http://capcold.net/blog",
+							"display_url": "capcold.net/blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68180,
+			"friends_count": 169,
+			"listed_count": 465,
+			"created_at": "Mon May 04 03:42:08 +0000 2009",
+			"favourites_count": 196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C1C1C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1329882520058519554/2Ydi42TU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329882520058519554/2Ydi42TU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37586683/1605904422",
+			"profile_link_color": "6B6B6B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D9D9D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1351774598052896800,
+		"quoted_status_id_str": "1351774598052896768",
+		"quoted_status_permalink": {
+			"url": "https://t.co/l9qzyMcxDg",
+			"expanded": "https://twitter.com/AndrewSolender/status/1351774598052896768",
+			"display": "twitter.com/AndrewSolender…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 20 06:12:33 +0000 2021",
+			"id": 1351774598052896800,
+			"id_str": "1351774598052896768",
+			"full_text": "More news: Trump revokes an executive order that *he signed* 8 days into his presidency requiring appointees to sign a pledge that they won't become lobbyists within 5 years of leaving the administration.\nhttps://t.co/hRewy8shCX https://t.co/pn9CiGHfD8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				228
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hRewy8shCX",
+						"expanded_url": "https://www.whitehouse.gov/presidential-actions/executive-order-ethics-commitments-executive-branch-appointees/",
+						"display_url": "whitehouse.gov/presidential-a…",
+						"indices": [
+							205,
+							228
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1351774196926476300,
+						"id_str": "1351774196926476288",
+						"indices": [
+							229,
+							252
+						],
+						"media_url": "http://pbs.twimg.com/media/EsJ3eFhXcAAiZtb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EsJ3eFhXcAAiZtb.jpg",
+						"url": "https://t.co/pn9CiGHfD8",
+						"display_url": "pic.twitter.com/pn9CiGHfD8",
+						"expanded_url": "https://twitter.com/AndrewSolender/status/1351774598052896768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 405,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 714,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1219,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1351774196926476300,
+						"id_str": "1351774196926476288",
+						"indices": [
+							229,
+							252
+						],
+						"media_url": "http://pbs.twimg.com/media/EsJ3eFhXcAAiZtb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EsJ3eFhXcAAiZtb.jpg",
+						"url": "https://t.co/pn9CiGHfD8",
+						"display_url": "pic.twitter.com/pn9CiGHfD8",
+						"expanded_url": "https://twitter.com/AndrewSolender/status/1351774598052896768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 405,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 714,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1219,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1163618839,
+				"id_str": "1163618839",
+				"name": "Andrew Solender",
+				"screen_name": "AndrewSolender",
+				"location": "New York, NY",
+				"description": "@Forbes reporter covering politics, dollar store Michael Cera丨Past: @MSNBC丨@Vassar, @LSENews alum丨tips: asolender@forbes.com",
+				"url": "https://t.co/KFzE2PW7Y6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KFzE2PW7Y6",
+								"expanded_url": "https://www.forbes.com/sites/andrewsolender/#208bdcc55133",
+								"display_url": "forbes.com/sites/andrewso…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 34668,
+				"friends_count": 950,
+				"listed_count": 488,
+				"created_at": "Sat Feb 09 17:54:41 +0000 2013",
+				"favourites_count": 28571,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 25659,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1237806902773518336/skiReVPP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1237806902773518336/skiReVPP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1163618839/1596777471",
+				"profile_link_color": "0F52BA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2016,
+			"favorite_count": 4016,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 131,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "5분 뒤면 백익관을 떠나는 트럼프. 간밤-새벽에 자기 등극을 도운 극우 기획자 배넌 등 지지자 140여명을 사면/복권하고, 관료부패를 막겠다며 자기가 내세웠던 퇴임후 5년 내 로비 금지명령을 무화하고(자기가 퇴임하니까),  바이든 취임식 불참으로 인해 그 행사에서 전달되는 핵가방도 들고감. https://t.co/l9qzyMcxDg"
+	},
+	{
 		"created_at": "Wed Jan 20 12:03:48 +0000 2021",
 		"id": 1351851583152087000,
 		"id_str": "1351862992476860417",
