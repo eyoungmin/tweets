@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 21 09:02:05 +0000 2021",
+		"id": 1352179125369245700,
+		"id_str": "1352179651536445440",
+		"full_text": "[VIDEO] 📹 [B-HAind] CHUNG HA 청하 'X (걸어온 길에 꽃밭 따윈 없었죠)' MV 비하인드\n\n▶ https://t.co/IPc1QbJfhG\n✌🏻 https://t.co/J1S40uP4Uo\n\n#청하 #CHUNGHA\n#X #CHUNGHA_X\n#걸어온_길에_꽃밭_따윈_없었죠\n#Querencia https://t.co/CBRszHCNdt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "X",
+					"indices": [
+						131,
+						133
+					]
+				},
+				{
+					"text": "CHUNGHA_X",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"text": "걸어온_길에_꽃밭_따윈_없었죠",
+					"indices": [
+						145,
+						162
+					]
+				},
+				{
+					"text": "Querencia",
+					"indices": [
+						163,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IPc1QbJfhG",
+					"expanded_url": "https://youtu.be/5jdxHYKsQF8",
+					"display_url": "youtu.be/5jdxHYKsQF8",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/J1S40uP4Uo",
+					"expanded_url": "https://www.vlive.tv/video/233445",
+					"display_url": "vlive.tv/video/233445",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1351818551556862000,
+					"id_str": "1351818551556861954",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1351818551556861954/pu/img/tb9N_lWOUOT218LG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1351818551556861954/pu/img/tb9N_lWOUOT218LG.jpg",
+					"url": "https://t.co/CBRszHCNdt",
+					"display_url": "pic.twitter.com/CBRszHCNdt",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1352179125369245699/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351818551556862000,
+					"id_str": "1351818551556861954",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1351818551556861954/pu/img/tb9N_lWOUOT218LG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1351818551556861954/pu/img/tb9N_lWOUOT218LG.jpg",
+					"url": "https://t.co/CBRszHCNdt",
+					"display_url": "pic.twitter.com/CBRszHCNdt",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1352179125369245699/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 27261,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1351818551556861954/pu/vid/640x360/YZxsz4vQCaau-0KX.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1351818551556861954/pu/pl/R5B4UQPhtdN7rnYT.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1351818551556861954/pu/vid/480x270/zj2N5IiGFPiPeaYX.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1351818551556861954/pu/vid/1280x720/N5PP6tr9HZ5FD-8O.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/MasTugaSJD\nCHUNG HA Website 💚💙💜 https://t.co/KNLHLQCXaH",
+			"url": "https://t.co/reTg513UFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg513UFX",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MasTugaSJD",
+							"expanded_url": "http://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								31,
+								54
+							]
+						},
+						{
+							"url": "https://t.co/KNLHLQCXaH",
+							"expanded_url": "http://chunghaofficial.com/",
+							"display_url": "chunghaofficial.com",
+							"indices": [
+								76,
+								99
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 309012,
+			"friends_count": 0,
+			"listed_count": 1857,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1611047124",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 101,
+		"favorite_count": 308,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] 📹 [B-HAind] CHUNG HA 청하 'X (걸어온 길에 꽃밭 따윈 없었죠)' MV 비하인드\n\n▶ https://t.co/IPc1QbJfhG\n✌🏻 https://t.co/J1S40uP4Uo\n\n#청하 #CHUNGHA\n#X #CHUNGHA_X\n#걸어온_길에_꽃밭_따윈_없었죠\n#Querencia https://t.co/CBRszHCNdt"
+	},
+	{
 		"created_at": "Thu Jan 21 08:02:06 +0000 2021",
 		"id": 1352154352014811100,
 		"id_str": "1352164554487291905",
