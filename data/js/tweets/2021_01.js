@@ -1,6 +1,316 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 21 14:02:06 +0000 2021",
+		"id": 1352243161553256400,
+		"id_str": "1352255149650153473",
+		"full_text": "[NOTICE] 청하's 별★별 라디오 세 번째 밤\n별의 별 숙제 도착!📝\n\n숙제 확인하러 가기\n👉 https://t.co/U2FQHIUzyy\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#MEMBERSHIP_ONLY\n#BHR_2nd_Only 💚💙💜\n#김교수님의_숙제타임",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						85,
+						93
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						99,
+						110
+					]
+				},
+				{
+					"text": "MEMBERSHIP_ONLY",
+					"indices": [
+						111,
+						127
+					]
+				},
+				{
+					"text": "BHR_2nd_Only",
+					"indices": [
+						128,
+						141
+					]
+				},
+				{
+					"text": "김교수님의_숙제타임",
+					"indices": [
+						146,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U2FQHIUzyy",
+					"expanded_url": "https://www.vlive.tv/post/0-20967846",
+					"display_url": "vlive.tv/post/0-20967846",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜  https://t.co/MasTugaSJD\nCHUNG HA Website 💚💙💜 https://t.co/KNLHLQCXaH",
+			"url": "https://t.co/reTg513UFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg513UFX",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MasTugaSJD",
+							"expanded_url": "http://bit.ly/2ZZWMlN",
+							"display_url": "bit.ly/2ZZWMlN",
+							"indices": [
+								31,
+								54
+							]
+						},
+						{
+							"url": "https://t.co/KNLHLQCXaH",
+							"expanded_url": "http://chunghaofficial.com/",
+							"display_url": "chunghaofficial.com",
+							"indices": [
+								76,
+								99
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 309042,
+			"friends_count": 0,
+			"listed_count": 1859,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332158600228208642/DdvgDhjp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1611047124",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 132,
+		"favorite_count": 782,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NOTICE] 청하's 별★별 라디오 세 번째 밤\n별의 별 숙제 도착!📝\n\n숙제 확인하러 가기\n👉 https://t.co/U2FQHIUzyy\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG\n#MEMBERSHIP_ONLY\n#BHR_2nd_Only 💚💙💜\n#김교수님의_숙제타임"
+	},
+	{
+		"created_at": "Thu Jan 21 13:34:35 +0000 2021",
+		"id": 1352248225491783700,
+		"id_str": "1352248225491783680",
+		"full_text": "#EO\n아마존과 디즈니를 거쳐 7번 창업하고 얻은 인생의 깨달음\nhttps://t.co/9MjMPMn0BC\n#스타트업 #태용 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EO",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "스타트업",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "태용",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						70,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9MjMPMn0BC",
+					"expanded_url": "https://youtu.be/DjpfuzlsDRA",
+					"display_url": "youtu.be/DjpfuzlsDRA",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1039,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#EO\n아마존과 디즈니를 거쳐 7번 창업하고 얻은 인생의 깨달음\nhttps://t.co/9MjMPMn0BC\n#스타트업 #태용 #minfav"
+	},
+	{
 		"created_at": "Thu Jan 21 12:48:27 +0000 2021",
 		"id": 1352236619064086500,
 		"id_str": "1352236619064086535",
