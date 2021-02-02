@@ -1,6 +1,759 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 02 10:35:17 +0000 2021",
+		"id": 1356551760765087700,
+		"id_str": "1356551760765087745",
+		"full_text": "mbti 이야기 좀 그만했으면 좋겠는데 뭐만하면 같다 붙이는 사람들땜시롱. 아티스트도 별로 안믿고 광인아니라고 하는데.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1039,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "mbti 이야기 좀 그만했으면 좋겠는데 뭐만하면 같다 붙이는 사람들땜시롱. 아티스트도 별로 안믿고 광인아니라고 하는데."
+	},
+	{
+		"created_at": "Tue Feb 02 10:32:12 +0000 2021",
+		"id": 1356550981949956000,
+		"id_str": "1356550981949956096",
+		"full_text": "@HAVAQQUQ 가상번호 서비스를 쓰는데 이게 자주 누락되는 모양이에요. 뭐 유료를 쓰면 될 것 같지만요.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HAVAQQUQ",
+					"name": "하박국HAVAQQUQ",
+					"id": 8098922,
+					"id_str": "8098922",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1356550679381254100,
+		"in_reply_to_status_id_str": "1356550679381254151",
+		"in_reply_to_user_id": 8098922,
+		"in_reply_to_user_id_str": "8098922",
+		"in_reply_to_screen_name": "HAVAQQUQ",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1039,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@HAVAQQUQ 가상번호 서비스를 쓰는데 이게 자주 누락되는 모양이에요. 뭐 유료를 쓰면 될 것 같지만요."
+	},
+	{
+		"created_at": "Tue Feb 02 10:22:39 +0000 2021",
+		"id": 1356548579301732400,
+		"id_str": "1356548579301732352",
+		"full_text": "#이달의소녀 #LOONA\n[이달의 소녀] 달의 주파수 ep.34 | 이달의 소녀(LOONA)\nhttps://t.co/gyDSVmDsiF\n#VLIVE #브이앱 #브이라이브",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "브이앱",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "브이라이브",
+					"indices": [
+						88,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gyDSVmDsiF",
+					"expanded_url": "https://www.vlive.tv/video/235028",
+					"display_url": "vlive.tv/video/235028",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1039,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA\n[이달의 소녀] 달의 주파수 ep.34 | 이달의 소녀(LOONA)\nhttps://t.co/gyDSVmDsiF\n#VLIVE #브이앱 #브이라이브"
+	},
+	{
+		"created_at": "Tue Feb 02 10:22:34 +0000 2021",
+		"id": 1356548557470195700,
+		"id_str": "1356548557470195712",
+		"full_text": "오세훈이 v가 버전이란걸 알건 모르건 적어도 글올릴때 저 정도 검토해줄 사람이 곁에 없다는 건 정치인으로 큰 결점이지. 곁에 그정도 말해줄 사람이 없거나 독단적이라는건데.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1039,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "오세훈이 v가 버전이란걸 알건 모르건 적어도 글올릴때 저 정도 검토해줄 사람이 곁에 없다는 건 정치인으로 큰 결점이지. 곁에 그정도 말해줄 사람이 없거나 독단적이라는건데."
+	},
+	{
+		"created_at": "Tue Feb 02 10:14:10 +0000 2021",
+		"id": 1356546445441028000,
+		"id_str": "1356546445441028098",
+		"full_text": "임금체불이나 해결해라.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1039,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "임금체불이나 해결해라."
+	},
+	{
+		"created_at": "Tue Feb 02 10:09:45 +0000 2021",
+		"id": 1356514720073666600,
+		"id_str": "1356545332947996673",
+		"full_text": "부활하는 ‘싸이월드’, 되살아나면 그 다음은 https://t.co/E5mTXiFGNT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E5mTXiFGNT",
+					"expanded_url": "http://www.bloter.net/archives/520708",
+					"display_url": "bloter.net/archives/520708",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54644,
+			"friends_count": 9,
+			"listed_count": 2336,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 28866,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "부활하는 ‘싸이월드’, 되살아나면 그 다음은 https://t.co/E5mTXiFGNT"
+	},
+	{
+		"created_at": "Tue Feb 02 10:09:35 +0000 2021",
+		"id": 1356498363940659200,
+		"id_str": "1356545289499201536",
+		"full_text": "싸이월드, 3월에 부활…10억 원에 인수 #SBS뉴스 https://t.co/ItnAtccFfl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SBS뉴스",
+					"indices": [
+						23,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ItnAtccFfl",
+					"expanded_url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1006194787&plink=TWEET&cooper=TWITTER",
+					"display_url": "news.sbs.co.kr/news/endPage.d…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.sbs.co.kr\" rel=\"nofollow\">sbs8news</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91946403,
+			"id_str": "91946403",
+			"name": "SBS 뉴스",
+			"screen_name": "SBS8news",
+			"location": "KOREA",
+			"description": "SBS 보도본부 공식 트위터입니다. 시청자 여러분과 함께 하는 뉴스를 만들도록 최선을 다하겠습니다. 제보는 이메일 sbs8news@sbs.co.kr로 연락 주시기 바랍니다.",
+			"url": "https://t.co/HNq9OuURor",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HNq9OuURor",
+							"expanded_url": "https://news.sbs.co.kr",
+							"display_url": "news.sbs.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 432506,
+			"friends_count": 91771,
+			"listed_count": 3831,
+			"created_at": "Mon Nov 23 05:47:28 +0000 2009",
+			"favourites_count": 2076,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 212164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1313384888578400256/jdylIb2a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1313384888578400256/jdylIb2a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91946403/1434703804",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1975,
+		"favorite_count": 249,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "싸이월드, 3월에 부활…10억 원에 인수 #SBS뉴스 https://t.co/ItnAtccFfl"
+	},
+	{
 		"created_at": "Tue Feb 02 10:01:34 +0000 2021",
 		"id": 1356543272026595300,
 		"id_str": "1356543272026595329",
@@ -1117,7 +1870,7 @@ Grailbird.data.tweets_2021_02 =
 			"created_at": "Tue Feb 02 09:27:26 +0000 2021",
 			"id": 1356534685338275800,
 			"id_str": "1356534685338275841",
-			"full_text": "클로즈 한다고 해놓고 얼마 지나지도 않았지만 염치없이 다시 오픈해도 괜찮을까요 그 대신 앞으로는 조금 느리게 굴러가겠습니다🙇🏻‍♀️ https://t.co/C3CpyqLpql",
+			"full_text": "클로즈 한다고 해놓고 얼마 지나지도 않았지만 염치없이 다시 오픈해도 괜찮을까요 그 대신 앞으로는 조금 느리게 굴러가겠습니다🙇🏻♀️ https://t.co/C3CpyqLpql",
 			"truncated": false,
 			"display_text_range": [
 				0,
@@ -1541,7 +2294,7 @@ Grailbird.data.tweets_2021_02 =
 		"created_at": "Tue Feb 02 09:27:58 +0000 2021",
 		"id": 1356527783434801200,
 		"id_str": "1356534816259379201",
-		"full_text": "[#더블패티] \n📽 메인 예고편 \n \n앵커 지망생, 현지🙋 ‍\n슬럼프에 빠진 태백장사, 우람💪 \n\n삶이 버거운 어느 날 만난 우리. \n#Seezn 에서도 같이, 봐요. \n🍔🍔https://t.co/1JrnJXNt0b \n\n#Seezn오리지널 #영화 #DoublePatty #백승환 #신승호 #배주현 #아이린 #먹방 #씨름 #힐링 https://t.co/2PiUAEJ1KS",
+		"full_text": "[#더블패티] \n📽 메인 예고편 \n \n앵커 지망생, 현지🙋 \n슬럼프에 빠진 태백장사, 우람💪 \n\n삶이 버거운 어느 날 만난 우리. \n#Seezn 에서도 같이, 봐요. \n🍔🍔https://t.co/1JrnJXNt0b \n\n#Seezn오리지널 #영화 #DoublePatty #백승환 #신승호 #배주현 #아이린 #먹방 #씨름 #힐링 https://t.co/2PiUAEJ1KS",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1835,7 +2588,7 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#더블패티] \n📽 메인 예고편 \n \n앵커 지망생, 현지🙋 ‍\n슬럼프에 빠진 태백장사, 우람💪 \n\n삶이 버거운 어느 날 만난 우리. \n#Seezn 에서도 같이, 봐요. \n🍔🍔https://t.co/1JrnJXNt0b \n\n#Seezn오리지널 #영화 #DoublePatty #백승환 #신승호 #배주현 #아이린 #먹방 #씨름 #힐링 https://t.co/2PiUAEJ1KS"
+		"text": "[#더블패티] \n📽 메인 예고편 \n \n앵커 지망생, 현지🙋 \n슬럼프에 빠진 태백장사, 우람💪 \n\n삶이 버거운 어느 날 만난 우리. \n#Seezn 에서도 같이, 봐요. \n🍔🍔https://t.co/1JrnJXNt0b \n\n#Seezn오리지널 #영화 #DoublePatty #백승환 #신승호 #배주현 #아이린 #먹방 #씨름 #힐링 https://t.co/2PiUAEJ1KS"
 	},
 	{
 		"created_at": "Tue Feb 02 09:22:53 +0000 2021",
