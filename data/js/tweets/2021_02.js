@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 02 13:03:05 +0000 2021",
+		"id": 1356585627211296800,
+		"id_str": "1356588953751547905",
+		"full_text": "#블랙핑크 의 #지수 오늘만은 터틀레드지수킴로 변신! #블핑 #지수 의 가지각색 매력 모아보기 ▶️ https://t.co/XkU1fP6GCu #JISOO #BLACKPINK https://t.co/WriauBcSn8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						8,
+						11
+					]
+				},
+				{
+					"text": "블핑",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						34,
+						37
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						87,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XkU1fP6GCu",
+					"expanded_url": "http://bit.ly/39CXBGD",
+					"display_url": "bit.ly/39CXBGD",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1356583288618422300,
+					"id_str": "1356583288618422273",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EtOPTnUVcAEScz2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtOPTnUVcAEScz2.jpg",
+					"url": "https://t.co/WriauBcSn8",
+					"display_url": "pic.twitter.com/WriauBcSn8",
+					"expanded_url": "https://twitter.com/wkorea/status/1356585627211296768/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1356583288618422300,
+					"id_str": "1356583288618422273",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EtOPTnUVcAEScz2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtOPTnUVcAEScz2.jpg",
+					"url": "https://t.co/WriauBcSn8",
+					"display_url": "pic.twitter.com/WriauBcSn8",
+					"expanded_url": "https://twitter.com/wkorea/status/1356585627211296768/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 21522,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1356583288618422273/vid/1280x720/yVUnAncli4_3Lmow.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1356583288618422273/pl/hlZ6nUaKclTxhWJP.m3u8?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1356583288618422273/vid/640x360/pnf-dF4071wDI4Ud.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1356583288618422273/vid/480x270/V-O8KvnKDu-u4z8l.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "#W화보촬영비하인드 지수",
+						"description": "블랙핑크 지수의 디올 뷰티 화보 촬영 비하인드 - 더블유코리아",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/m6zPKg47IM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/m6zPKg47IM",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257841,
+			"friends_count": 0,
+			"listed_count": 778,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 4270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1611124823",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2377,
+		"favorite_count": 4505,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#블랙핑크 의 #지수 오늘만은 터틀레드지수킴로 변신! #블핑 #지수 의 가지각색 매력 모아보기 ▶️ https://t.co/XkU1fP6GCu #JISOO #BLACKPINK https://t.co/WriauBcSn8"
+	},
+	{
 		"created_at": "Tue Feb 02 12:43:18 +0000 2021",
 		"id": 1356583975297384400,
 		"id_str": "1356583975297384450",
