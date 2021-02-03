@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 03 09:29:39 +0000 2021",
+		"id": 1356890166913241000,
+		"id_str": "1356897627963555842",
+		"full_text": "은비(#류아벨)의 기사로 에이전시와\n선겸(#임시완) 가족은 난리가 난다😧\n\n한편, 단아(#최수영)를 집으로 초대한 영화(#강태오)🙈\n이 때 로맨틱한 두 사람 사이로 전화벨이 울리는데..!\n\n▶️오늘 밤 9시 &lt;#런온&gt; 본방사수💨 https://t.co/y5P8gZefF7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "류아벨",
+					"indices": [
+						3,
+						7
+					]
+				},
+				{
+					"text": "임시완",
+					"indices": [
+						23,
+						27
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "강태오",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "런온",
+					"indices": [
+						120,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1356771727968149500,
+					"id_str": "1356771727968149508",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EtRAODcVoAEfZz7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtRAODcVoAEfZz7.jpg",
+					"url": "https://t.co/y5P8gZefF7",
+					"display_url": "pic.twitter.com/y5P8gZefF7",
+					"expanded_url": "https://twitter.com/jtbclove/status/1356890166913241088/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1356771727968149500,
+					"id_str": "1356771727968149508",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EtRAODcVoAEfZz7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtRAODcVoAEfZz7.jpg",
+					"url": "https://t.co/y5P8gZefF7",
+					"display_url": "pic.twitter.com/y5P8gZefF7",
+					"expanded_url": "https://twitter.com/jtbclove/status/1356890166913241088/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 47047,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1356771727968149508/vid/480x270/megAttGNj3jTU18C.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1356771727968149508/vid/640x360/Lod8Nz39agh-o2ez.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1356771727968149508/pl/6_uPqeq-dAbiPssP.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1356771727968149508/vid/1280x720/vqcPzyAE5x8rI24A.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[15회 예고] 너무 열렬히 외치고 있잖아, 사랑한다고..",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://tv.naver.com/v/18192215"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 438720,
+			"friends_count": 110,
+			"listed_count": 657,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1610497817",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "은비(#류아벨)의 기사로 에이전시와\n선겸(#임시완) 가족은 난리가 난다😧\n\n한편, 단아(#최수영)를 집으로 초대한 영화(#강태오)🙈\n이 때 로맨틱한 두 사람 사이로 전화벨이 울리는데..!\n\n▶️오늘 밤 9시 &lt;#런온&gt; 본방사수💨 https://t.co/y5P8gZefF7"
+	},
+	{
+		"created_at": "Wed Feb 03 09:03:43 +0000 2021",
+		"id": 1356891102381547500,
+		"id_str": "1356891102381547521",
+		"full_text": "#이지금 #아이유 #IU\n[IU TV] You are my 셀럽트위티\nhttps://t.co/Hap8KOHLjG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이지금",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						5,
+						9
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						10,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Hap8KOHLjG",
+					"expanded_url": "https://youtu.be/rfjnzoYLvIU",
+					"display_url": "youtu.be/rfjnzoYLvIU",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1040,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이지금 #아이유 #IU\n[IU TV] You are my 셀럽트위티\nhttps://t.co/Hap8KOHLjG"
+	},
+	{
 		"created_at": "Wed Feb 03 08:58:56 +0000 2021",
 		"id": 1356889898511433700,
 		"id_str": "1356889898511433730",
@@ -948,7 +1325,7 @@ Grailbird.data.tweets_2021_02 =
 		"created_at": "Wed Feb 03 08:45:37 +0000 2021",
 		"id": 1356876241782136800,
 		"id_str": "1356886546671140864",
-		"full_text": "[#이브 / #Yves] 오빛 보고 싶다💗 요즘 무슨 노래 들어요? 저는 유빈 언니의 향수(PERFUME) 추천🥰 퓸,,,퓸,,,🧚🏻‍♀️\n\n#이달의소녀 #LOONA https://t.co/m9H5TEu4uV",
+		"full_text": "[#이브 / #Yves] 오빛 보고 싶다💗 요즘 무슨 노래 들어요? 저는 유빈 언니의 향수(PERFUME) 추천🥰 퓸,,,퓸,,,🧚🏻♀️\n\n#이달의소녀 #LOONA https://t.co/m9H5TEu4uV",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1253,7 +1630,7 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#이브 / #Yves] 오빛 보고 싶다💗 요즘 무슨 노래 들어요? 저는 유빈 언니의 향수(PERFUME) 추천🥰 퓸,,,퓸,,,🧚🏻‍♀️\n\n#이달의소녀 #LOONA https://t.co/m9H5TEu4uV"
+		"text": "[#이브 / #Yves] 오빛 보고 싶다💗 요즘 무슨 노래 들어요? 저는 유빈 언니의 향수(PERFUME) 추천🥰 퓸,,,퓸,,,🧚🏻♀️\n\n#이달의소녀 #LOONA https://t.co/m9H5TEu4uV"
 	},
 	{
 		"created_at": "Wed Feb 03 08:36:03 +0000 2021",
