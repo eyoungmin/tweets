@@ -1,6 +1,1020 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 03 15:02:44 +0000 2021",
+		"id": 1356981258228691000,
+		"id_str": "1356981454106996739",
+		"full_text": "CHUNG HA\nThe 1st Studio Album\n[ Querencia ]\n\nPre-order!\n▶️ https://t.co/hB8mMIANmh\n▶️ https://t.co/ua3cQHwOG7\n\n#청하 #CHUNGHA\n#CHUNGHA_Querencia\n#CHUNGHA_Bicycle\n#Querencia #Bicycle",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						115,
+						123
+					]
+				},
+				{
+					"text": "CHUNGHA_Querencia",
+					"indices": [
+						124,
+						142
+					]
+				},
+				{
+					"text": "CHUNGHA_Bicycle",
+					"indices": [
+						143,
+						159
+					]
+				},
+				{
+					"text": "Querencia",
+					"indices": [
+						160,
+						170
+					]
+				},
+				{
+					"text": "Bicycle",
+					"indices": [
+						171,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hB8mMIANmh",
+					"expanded_url": "http://chunghaofficial.com",
+					"display_url": "chunghaofficial.com",
+					"indices": [
+						59,
+						82
+					]
+				},
+				{
+					"url": "https://t.co/ua3cQHwOG7",
+					"expanded_url": "https://ffm.to/chungha_querencia",
+					"display_url": "ffm.to/chungha_queren…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1356980766782222300,
+		"in_reply_to_status_id_str": "1356980766782222342",
+		"in_reply_to_user_id": 1097557125742489600,
+		"in_reply_to_user_id_str": "1097557125742489600",
+		"in_reply_to_screen_name": "CHUNGHA_MNHent",
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜          \n\n'Qurerencia' PRE-ORDER 👉 https://t.co/6FjcqRIqMF",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6FjcqRIqMF",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								66,
+								89
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 312604,
+			"friends_count": 0,
+			"listed_count": 1893,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353580382994587648/zWJDlVAQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353580382994587648/zWJDlVAQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1611565202",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 489,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CHUNG HA\nThe 1st Studio Album\n[ Querencia ]\n\nPre-order!\n▶️ https://t.co/hB8mMIANmh\n▶️ https://t.co/ua3cQHwOG7\n\n#청하 #CHUNGHA\n#CHUNGHA_Querencia\n#CHUNGHA_Bicycle\n#Querencia #Bicycle"
+	},
+	{
+		"created_at": "Wed Feb 03 15:02:43 +0000 2021",
+		"id": 1356981448364986400,
+		"id_str": "1356981448364986368",
+		"full_text": "#청하 #CHUNGHA\nCHUNG HA 청하 The 1st Studio Album Audio Snippet SIDE C {UNKNOWN}\nhttps://t.co/YkVIE9lHLa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YkVIE9lHLa",
+					"expanded_url": "https://youtu.be/gTmRrupOgkE",
+					"display_url": "youtu.be/gTmRrupOgkE",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1040,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#청하 #CHUNGHA\nCHUNG HA 청하 The 1st Studio Album Audio Snippet SIDE C {UNKNOWN}\nhttps://t.co/YkVIE9lHLa"
+	},
+	{
+		"created_at": "Wed Feb 03 15:02:35 +0000 2021",
+		"id": 1356981015936434200,
+		"id_str": "1356981415829733380",
+		"full_text": "💫Orbit 3기 모집 마감까지 D-1💫\nOrbit 3기는 새해 복을 더 많이 받는다는 전설이 있대요🎊 Orbit 3기 가입하고 이달의 소녀랑 행복해요🐺\n\n#이달의소녀 #LOONA #OliviaHye\n\n▶️ https://t.co/lGeeSDdNWQ https://t.co/NdxHcyGEFd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						101,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lGeeSDdNWQ",
+					"expanded_url": "http://blockberrycreativeshop.com",
+					"display_url": "blockberrycreativeshop.com",
+					"indices": [
+						116,
+						139
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1356897689506435000,
+					"id_str": "1356897689506435072",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1356897689506435072/pu/img/YgxsNWFNJnGRFGWT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1356897689506435072/pu/img/YgxsNWFNJnGRFGWT.jpg",
+					"url": "https://t.co/NdxHcyGEFd",
+					"display_url": "pic.twitter.com/NdxHcyGEFd",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1356981015936434176/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1356897689506435000,
+					"id_str": "1356897689506435072",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1356897689506435072/pu/img/YgxsNWFNJnGRFGWT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1356897689506435072/pu/img/YgxsNWFNJnGRFGWT.jpg",
+					"url": "https://t.co/NdxHcyGEFd",
+					"display_url": "pic.twitter.com/NdxHcyGEFd",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1356981015936434176/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 18500,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1356897689506435072/pu/vid/480x270/0hqtBImi0Y5Onrss.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1356897689506435072/pu/pl/PzmGPu3SjhVyzrHX.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1356897689506435072/pu/vid/640x360/2r46wLBRrf4O-5ih.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1356897689506435072/pu/vid/854x480/4Xno9-3PxdhP5Wkm.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 638445,
+			"friends_count": 0,
+			"listed_count": 6553,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2019,
+		"favorite_count": 6506,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💫Orbit 3기 모집 마감까지 D-1💫\nOrbit 3기는 새해 복을 더 많이 받는다는 전설이 있대요🎊 Orbit 3기 가입하고 이달의 소녀랑 행복해요🐺\n\n#이달의소녀 #LOONA #OliviaHye\n\n▶️ https://t.co/lGeeSDdNWQ https://t.co/NdxHcyGEFd"
+	},
+	{
+		"created_at": "Wed Feb 03 15:02:21 +0000 2021",
+		"id": 1356980767079948300,
+		"id_str": "1356981355385602057",
+		"full_text": "💫Orbit 3기 모집 마감까지 D-1💫\n이달의 소녀 보고 싶은 Orbit 3기 어디 숨었어요?🤔 Orbit 3기 가입하고 이달의 소녀 만나러 오세요🦋\n\n#이달의소녀 #고원 #LOONA #GoWon\n\n▶️ https://t.co/lGeeSDdNWQ https://t.co/vrsp88TJGZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						104,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lGeeSDdNWQ",
+					"expanded_url": "http://blockberrycreativeshop.com",
+					"display_url": "blockberrycreativeshop.com",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1356897454109544400,
+					"id_str": "1356897454109544448",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1356897454109544448/pu/img/c74-tBVeXEDbmtyb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1356897454109544448/pu/img/c74-tBVeXEDbmtyb.jpg",
+					"url": "https://t.co/vrsp88TJGZ",
+					"display_url": "pic.twitter.com/vrsp88TJGZ",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1356980767079948289/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1356897454109544400,
+					"id_str": "1356897454109544448",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1356897454109544448/pu/img/c74-tBVeXEDbmtyb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1356897454109544448/pu/img/c74-tBVeXEDbmtyb.jpg",
+					"url": "https://t.co/vrsp88TJGZ",
+					"display_url": "pic.twitter.com/vrsp88TJGZ",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1356980767079948289/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 15459,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1356897454109544448/pu/pl/0VWgjyfeCpYdzJwM.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1356897454109544448/pu/vid/854x480/TFSAx-iAN4luscqq.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1356897454109544448/pu/vid/640x360/oT0b4OwGgOzVqAJ4.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1356897454109544448/pu/vid/480x270/uW3uL0IOXgapPJbD.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 638445,
+			"friends_count": 0,
+			"listed_count": 6553,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1905,
+		"favorite_count": 6307,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💫Orbit 3기 모집 마감까지 D-1💫\n이달의 소녀 보고 싶은 Orbit 3기 어디 숨었어요?🤔 Orbit 3기 가입하고 이달의 소녀 만나러 오세요🦋\n\n#이달의소녀 #고원 #LOONA #GoWon\n\n▶️ https://t.co/lGeeSDdNWQ https://t.co/vrsp88TJGZ"
+	},
+	{
+		"created_at": "Wed Feb 03 15:02:15 +0000 2021",
+		"id": 1356980766782222300,
+		"id_str": "1356981329682980869",
+		"full_text": "CHUNG HA\nThe 1st Studio Album\n[#Querencia]\n\nAudio Snippet SIDE C {UNKNOWN}\n2021. 02. 15. 6PM (KST)\n2021. 02. 15. 4AM (EST)\n\n11. SIDE C {UNKNOWN}\n12. PLAY (Feat. 창모)\n13. Demente (Feat. Guaynaa)\n14. Lemon (Feat. Colde)\n15. 별하랑 (160504 + 170607)\n\n#청하 #CHUNGHA\n#CHUNGHA_Bicycle https://t.co/nY2y0IeiUD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Querencia",
+					"indices": [
+						31,
+						41
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						244,
+						247
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						248,
+						256
+					]
+				},
+				{
+					"text": "CHUNGHA_Bicycle",
+					"indices": [
+						257,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1356922692474036200,
+					"id_str": "1356922692474036226",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1356922692474036226/pu/img/d9MEPBtabGVIxBDH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1356922692474036226/pu/img/d9MEPBtabGVIxBDH.jpg",
+					"url": "https://t.co/nY2y0IeiUD",
+					"display_url": "pic.twitter.com/nY2y0IeiUD",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1356980766782222342/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1356922692474036200,
+					"id_str": "1356922692474036226",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1356922692474036226/pu/img/d9MEPBtabGVIxBDH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1356922692474036226/pu/img/d9MEPBtabGVIxBDH.jpg",
+					"url": "https://t.co/nY2y0IeiUD",
+					"display_url": "pic.twitter.com/nY2y0IeiUD",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1356980766782222342/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 81717,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1356922692474036226/pu/pl/vUBHNdC04_RkvEBc.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1356922692474036226/pu/vid/480x270/rxQnj-18hhrFEWoc.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1356922692474036226/pu/vid/1280x720/To0rtuFY9IXUAdzz.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1356922692474036226/pu/vid/640x360/d4g4Y92jqQ9j0ovR.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜          \n\n'Qurerencia' PRE-ORDER 👉 https://t.co/6FjcqRIqMF",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6FjcqRIqMF",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								66,
+								89
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 312604,
+			"friends_count": 0,
+			"listed_count": 1893,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353580382994587648/zWJDlVAQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353580382994587648/zWJDlVAQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1611565202",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1499,
+		"favorite_count": 3270,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CHUNG HA\nThe 1st Studio Album\n[#Querencia]\n\nAudio Snippet SIDE C {UNKNOWN}\n2021. 02. 15. 6PM (KST)\n2021. 02. 15. 4AM (EST)\n\n11. SIDE C {UNKNOWN}\n12. PLAY (Feat. 창모)\n13. Demente (Feat. Guaynaa)\n14. Lemon (Feat. Colde)\n15. 별하랑 (160504 + 170607)\n\n#청하 #CHUNGHA\n#CHUNGHA_Bicycle https://t.co/nY2y0IeiUD"
+	},
+	{
 		"created_at": "Wed Feb 03 14:19:38 +0000 2021",
 		"id": 1356970604830818300,
 		"id_str": "1356970604830818306",
