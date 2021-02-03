@@ -1,6 +1,598 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 03 11:57:24 +0000 2021",
+		"id": 1356934811965882400,
+		"id_str": "1356934811965882368",
+		"full_text": "#이달의소녀 #LOONA\n[이달의 소녀] 달의 주파수 ep.35 | 이달의 소녀(LOONA)\nhttps://t.co/BtpsTPvzuV\n#VLIVE #브이앱 #브이라이브",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "브이앱",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "브이라이브",
+					"indices": [
+						88,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BtpsTPvzuV",
+					"expanded_url": "https://www.vlive.tv/video/235285",
+					"display_url": "vlive.tv/video/235285",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1040,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44683,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA\n[이달의 소녀] 달의 주파수 ep.35 | 이달의 소녀(LOONA)\nhttps://t.co/BtpsTPvzuV\n#VLIVE #브이앱 #브이라이브"
+	},
+	{
+		"created_at": "Wed Feb 03 11:30:41 +0000 2021",
+		"id": 1356923337365151700,
+		"id_str": "1356928090308366338",
+		"full_text": "Excited to share our progress with the Q4'20 earnings report. Continued strong growth in our community of users and creators. https://t.co/WSW1oqNx4q https://t.co/79HxfOm4WU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WSW1oqNx4q",
+					"expanded_url": "https://newsroom.spotify.com/2021-02-03/spotify-reports-fourth-quarter-2020-earnings",
+					"display_url": "newsroom.spotify.com/2021-02-03/spo…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1356923333057642500,
+					"id_str": "1356923333057642496",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EtTClQZXAAAVTDD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtTClQZXAAAVTDD.jpg",
+					"url": "https://t.co/79HxfOm4WU",
+					"display_url": "pic.twitter.com/79HxfOm4WU",
+					"expanded_url": "https://twitter.com/eldsjal/status/1356923337365151746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 461,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 270,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 153,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1356923333057642500,
+					"id_str": "1356923333057642496",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EtTClQZXAAAVTDD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtTClQZXAAAVTDD.jpg",
+					"url": "https://t.co/79HxfOm4WU",
+					"display_url": "pic.twitter.com/79HxfOm4WU",
+					"expanded_url": "https://twitter.com/eldsjal/status/1356923337365151746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 461,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 270,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 153,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11094232,
+			"id_str": "11094232",
+			"name": "Daniel Ek",
+			"screen_name": "eldsjal",
+			"location": "",
+			"description": "Father, CEO and Founder of Spotify",
+			"url": "https://t.co/tKXJzkaxhZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tKXJzkaxhZ",
+							"expanded_url": "http://www.spotify.com",
+							"display_url": "spotify.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 153499,
+			"friends_count": 649,
+			"listed_count": 2558,
+			"created_at": "Wed Dec 12 16:39:54 +0000 2007",
+			"favourites_count": 1311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988146044449034241/j3BQbodY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988146044449034241/j3BQbodY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11094232/1509395294",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 106,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excited to share our progress with the Q4'20 earnings report. Continued strong growth in our community of users and creators. https://t.co/WSW1oqNx4q https://t.co/79HxfOm4WU"
+	},
+	{
+		"created_at": "Wed Feb 03 11:06:39 +0000 2021",
+		"id": 1356860219603775500,
+		"id_str": "1356922042394628097",
+		"full_text": "듣기만 해도 사랑에 빠질 것 같은 \nBLACKPINK(@BLACKPINK)와 함께 \n스포티파이 한국 런칭을 축하해 주세요! \nBLACKPINK와 함께 스포티파이에서\n당신을 설레게 할 노래를 찾아보세요.\n\n#SpotifyKR #GlobalMusicPlatform\n#글로벌뮤직플랫폼 \n#스포티파이 #안녕스포티파이\n#BLACKPINK #블랙핑크 https://t.co/uL2MajML75",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SpotifyKR",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"text": "GlobalMusicPlatform",
+					"indices": [
+						125,
+						145
+					]
+				},
+				{
+					"text": "글로벌뮤직플랫폼",
+					"indices": [
+						146,
+						155
+					]
+				},
+				{
+					"text": "스포티파이",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "안녕스포티파이",
+					"indices": [
+						164,
+						172
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						173,
+						183
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						184,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						30,
+						40
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1356837609893335000,
+					"id_str": "1356837609893335042",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1356837609893335042/pu/img/Aga4HLwxYOeAB9bS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1356837609893335042/pu/img/Aga4HLwxYOeAB9bS.jpg",
+					"url": "https://t.co/uL2MajML75",
+					"display_url": "pic.twitter.com/uL2MajML75",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1356860219603775490/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1356837609893335000,
+					"id_str": "1356837609893335042",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1356837609893335042/pu/img/Aga4HLwxYOeAB9bS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1356837609893335042/pu/img/Aga4HLwxYOeAB9bS.jpg",
+					"url": "https://t.co/uL2MajML75",
+					"display_url": "pic.twitter.com/uL2MajML75",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1356860219603775490/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 23148,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1356837609893335042/pu/vid/720x720/VOwp80QVmpNinXZr.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1356837609893335042/pu/vid/480x480/kh_Hl28RGdlBqGqe.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1356837609893335042/pu/vid/320x320/682JLONvUghR_AsA.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1356837609893335042/pu/pl/gf-b6YiWNCroVngo.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1207908245118963700,
+			"id_str": "1207908245118963712",
+			"name": "Spotify Korea",
+			"screen_name": "SpotifyKR",
+			"location": "",
+			"description": "Spotify Korea 공식 계정\n언제 어디서나 음악과 함께.\n새로운 음악을 발견하고, 듣고, 공유해보세요!",
+			"url": "https://t.co/wO2qjsJlaO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wO2qjsJlaO",
+							"expanded_url": "https://www.spotify.com/kr-ko",
+							"display_url": "spotify.com/kr-ko",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6229,
+			"friends_count": 0,
+			"listed_count": 16,
+			"created_at": "Fri Dec 20 06:19:10 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1207908245118963712/1611891505",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6688,
+		"favorite_count": 13682,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "듣기만 해도 사랑에 빠질 것 같은 \nBLACKPINK(@BLACKPINK)와 함께 \n스포티파이 한국 런칭을 축하해 주세요! \nBLACKPINK와 함께 스포티파이에서\n당신을 설레게 할 노래를 찾아보세요.\n\n#SpotifyKR #GlobalMusicPlatform\n#글로벌뮤직플랫폼 \n#스포티파이 #안녕스포티파이\n#BLACKPINK #블랙핑크 https://t.co/uL2MajML75"
+	},
+	{
 		"created_at": "Wed Feb 03 10:02:05 +0000 2021",
 		"id": 1356899796712231000,
 		"id_str": "1356905793401012227",
