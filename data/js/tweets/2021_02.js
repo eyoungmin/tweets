@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 03 07:05:00 +0000 2021",
+		"id": 1356860003202650000,
+		"id_str": "1356861227872317444",
+		"full_text": "[공지] 안녕하세요. 큐브 엔터테인먼트입니다. https://t.co/4zK0v1OUwC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1356859996684738600,
+					"id_str": "1356859996684738560",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/EtSI-mBU4AA41dw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtSI-mBU4AA41dw.jpg",
+					"url": "https://t.co/4zK0v1OUwC",
+					"display_url": "pic.twitter.com/4zK0v1OUwC",
+					"expanded_url": "https://twitter.com/CUBECLC/status/1356860003202650112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 594,
+							"h": 266,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 594,
+							"h": 266,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 594,
+							"h": 266,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1356859996684738600,
+					"id_str": "1356859996684738560",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/EtSI-mBU4AA41dw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtSI-mBU4AA41dw.jpg",
+					"url": "https://t.co/4zK0v1OUwC",
+					"display_url": "pic.twitter.com/4zK0v1OUwC",
+					"expanded_url": "https://twitter.com/CUBECLC/status/1356860003202650112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 594,
+							"h": 266,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 594,
+							"h": 266,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 594,
+							"h": 266,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1356859996676395000,
+					"id_str": "1356859996676395009",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/EtSI-l_VkAE5nHa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtSI-l_VkAE5nHa.jpg",
+					"url": "https://t.co/4zK0v1OUwC",
+					"display_url": "pic.twitter.com/4zK0v1OUwC",
+					"expanded_url": "https://twitter.com/CUBECLC/status/1356860003202650112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 594,
+							"h": 248,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 594,
+							"h": 248,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 594,
+							"h": 248,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1356859996676391000,
+					"id_str": "1356859996676390913",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/EtSI-l_VgAESWrK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtSI-l_VgAESWrK.jpg",
+					"url": "https://t.co/4zK0v1OUwC",
+					"display_url": "pic.twitter.com/4zK0v1OUwC",
+					"expanded_url": "https://twitter.com/CUBECLC/status/1356860003202650112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 596,
+							"h": 231,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 596,
+							"h": 231,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 596,
+							"h": 231,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1356859996680544300,
+					"id_str": "1356859996680544257",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/EtSI-mAU4AEglTb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtSI-mAU4AEglTb.jpg",
+					"url": "https://t.co/4zK0v1OUwC",
+					"display_url": "pic.twitter.com/4zK0v1OUwC",
+					"expanded_url": "https://twitter.com/CUBECLC/status/1356860003202650112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 572,
+							"h": 231,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 572,
+							"h": 231,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 572,
+							"h": 231,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3076464103,
+			"id_str": "3076464103",
+			"name": "CLC·씨엘씨",
+			"screen_name": "CUBECLC",
+			"location": "",
+			"description": "#CLC Official Twitter",
+			"url": "https://t.co/gvGmsd9kYb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gvGmsd9kYb",
+							"expanded_url": "https://youtu.be/NeUODC6F7zk",
+							"display_url": "youtu.be/NeUODC6F7zk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 374092,
+			"friends_count": 6,
+			"listed_count": 2382,
+			"created_at": "Fri Mar 13 10:13:43 +0000 2015",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3867,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1296099946890854400/ylsSoRXa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1296099946890854400/ylsSoRXa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3076464103/1598281940",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1650,
+		"favorite_count": 4420,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공지] 안녕하세요. 큐브 엔터테인먼트입니다. https://t.co/4zK0v1OUwC"
+	},
+	{
+		"created_at": "Wed Feb 03 07:02:12 +0000 2021",
+		"id": 1356850296228515800,
+		"id_str": "1356860521371303937",
+		"full_text": "(서울시 재대본) 기상청에 따르면 2.3.(수) 18:00 부터 서울지역에 많은 눈이 내릴 것으로 예보하고 있습니다. 시민여러분께서는 퇴근길 승용차 이용을 자제하고 대중교통을 이용하여 주시고, 강설로 인한 미끄럼 사고가 발생하지 않도록 주의하여 주시기 바랍니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://social.seoul.go.kr\" rel=\"nofollow\">서울 SMC(소셜미디어센터)</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1654849231,
+			"id_str": "1654849231",
+			"name": "서울라이프라인",
+			"screen_name": "SeoulLifeline",
+			"location": "",
+			"description": "서울특별시 재난분야 대표계정 SeoulLifeline입니다. 서울시에서 관리하는 재난재해 소식을 신속하게 알려드리는 시민님의 안전 지킴이가 되겠습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4100,
+			"friends_count": 904,
+			"listed_count": 39,
+			"created_at": "Thu Aug 08 07:35:51 +0000 2013",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000307073798/b73267ede951dad25fa0f6824cb12b47_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000307073798/b73267ede951dad25fa0f6824cb12b47_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1654849231/1376872038",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "(서울시 재대본) 기상청에 따르면 2.3.(수) 18:00 부터 서울지역에 많은 눈이 내릴 것으로 예보하고 있습니다. 시민여러분께서는 퇴근길 승용차 이용을 자제하고 대중교통을 이용하여 주시고, 강설로 인한 미끄럼 사고가 발생하지 않도록 주의하여 주시기 바랍니다."
+	},
+	{
 		"created_at": "Wed Feb 03 06:53:04 +0000 2021",
 		"id": 1356858223966343200,
 		"id_str": "1356858223966343170",
