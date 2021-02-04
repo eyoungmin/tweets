@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 04 04:29:39 +0000 2021",
+		"id": 1357177060058308600,
+		"id_str": "1357184518852141056",
+		"full_text": "집 나간🏃🏠 인성 챙겨!\n지수(#임윤아): 빗취다녀와서 지각했고\nssi말서!! 쓸게여ㅎㅎ\n\n▶매주 금·토 밤 11시 &lt;#허쉬&gt; 본방사수📸 https://t.co/sOsNveR5Do",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "허쉬",
+					"indices": [
+						69,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1357142493050007600,
+					"id_str": "1357142493050007553",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EtWKvlcUYAAxFW-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtWKvlcUYAAxFW-.jpg",
+					"url": "https://t.co/sOsNveR5Do",
+					"display_url": "pic.twitter.com/sOsNveR5Do",
+					"expanded_url": "https://twitter.com/jtbclove/status/1357177060058308610/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357142493050007600,
+					"id_str": "1357142493050007553",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EtWKvlcUYAAxFW-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtWKvlcUYAAxFW-.jpg",
+					"url": "https://t.co/sOsNveR5Do",
+					"display_url": "pic.twitter.com/sOsNveR5Do",
+					"expanded_url": "https://twitter.com/jtbclove/status/1357177060058308610/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 346580,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1357142493050007553/vid/640x360/iLChvhjCrxuxN4dl.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1357142493050007553/vid/480x270/kTmmmRW-QxOIkcvL.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1357142493050007553/vid/1280x720/fFc7b_ZoLfXgJZWL.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1357142493050007553/pl/bHV9YBBVJsmbV0mm.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[허쉬] 메이킹 집 나간🏃🏠 인성 챙겨!! | 13-14화 메이킹 ",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://tv.naver.com/v/18293187"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 438744,
+			"friends_count": 110,
+			"listed_count": 657,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1610497817",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "집 나간🏃🏠 인성 챙겨!\n지수(#임윤아): 빗취다녀와서 지각했고\nssi말서!! 쓸게여ㅎㅎ\n\n▶매주 금·토 밤 11시 &lt;#허쉬&gt; 본방사수📸 https://t.co/sOsNveR5Do"
+	},
+	{
 		"created_at": "Thu Feb 04 03:45:41 +0000 2021",
 		"id": 1357164920928784400,
 		"id_str": "1357173453577674753",
