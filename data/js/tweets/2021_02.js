@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 04 15:32:03 +0000 2021",
+		"id": 1357344834416119800,
+		"id_str": "1357351220172623872",
+		"full_text": "&lt; 2021 경록절 in the House 이번엔 집에서 놀자 &gt; 최종 라인업!\n\n섹스피스톨즈의 글렌 매트록, 하이어뮤직 수장 박재범까지 총 82팀이 15시간 이상 출연하는 2021 경록절! \n\n➡️2021.2.11(목) PM 12:00\n➡️유튜브 크라잉넛 오피셜 https://t.co/gyv3vuslnf\n➡️굿즈 구매  https://t.co/xBGC54MHcr https://t.co/v5o0kB0lMu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gyv3vuslnf",
+					"expanded_url": "https://youtube.com/cryingnut",
+					"display_url": "youtube.com/cryingnut",
+					"indices": [
+						154,
+						177
+					]
+				},
+				{
+					"url": "https://t.co/xBGC54MHcr",
+					"expanded_url": "https://captainrock.net",
+					"display_url": "captainrock.net",
+					"indices": [
+						187,
+						210
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1357344824618225700,
+					"id_str": "1357344824618225671",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EtZB7S0VkAcQfRR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtZB7S0VkAcQfRR.jpg",
+					"url": "https://t.co/v5o0kB0lMu",
+					"display_url": "pic.twitter.com/v5o0kB0lMu",
+					"expanded_url": "https://twitter.com/captainrock_co/status/1357344834416119814/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357344824618225700,
+					"id_str": "1357344824618225671",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EtZB7S0VkAcQfRR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtZB7S0VkAcQfRR.jpg",
+					"url": "https://t.co/v5o0kB0lMu",
+					"display_url": "pic.twitter.com/v5o0kB0lMu",
+					"expanded_url": "https://twitter.com/captainrock_co/status/1357344834416119814/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1357344824618193000,
+					"id_str": "1357344824618192898",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EtZB7S0VEAIj4BG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtZB7S0VEAIj4BG.jpg",
+					"url": "https://t.co/v5o0kB0lMu",
+					"display_url": "pic.twitter.com/v5o0kB0lMu",
+					"expanded_url": "https://twitter.com/captainrock_co/status/1357344834416119814/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1357344824618193000,
+					"id_str": "1357344824618192899",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EtZB7S0VEAMONeL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtZB7S0VEAMONeL.jpg",
+					"url": "https://t.co/v5o0kB0lMu",
+					"display_url": "pic.twitter.com/v5o0kB0lMu",
+					"expanded_url": "https://twitter.com/captainrock_co/status/1357344834416119814/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1357344824613949400,
+					"id_str": "1357344824613949446",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EtZB7SzUUAYTTPK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtZB7SzUUAYTTPK.jpg",
+					"url": "https://t.co/v5o0kB0lMu",
+					"display_url": "pic.twitter.com/v5o0kB0lMu",
+					"expanded_url": "https://twitter.com/captainrock_co/status/1357344834416119814/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 908719413708308500,
+			"id_str": "908719413708308480",
+			"name": "캡틴락",
+			"screen_name": "captainrock_co",
+			"location": "",
+			"description": "CaptainRock Company 💘 / 크라잉넛 베이시스트 캡틴락 한경록 official",
+			"url": "https://t.co/ZQdkjIUjd1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZQdkjIUjd1",
+							"expanded_url": "http://www.captainrock.net",
+							"display_url": "captainrock.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 257,
+			"listed_count": 0,
+			"created_at": "Fri Sep 15 15:49:26 +0000 2017",
+			"favourites_count": 589,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189182559860609024/JviuBBhA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189182559860609024/JviuBBhA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/908719413708308480/1572358193",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt; 2021 경록절 in the House 이번엔 집에서 놀자 &gt; 최종 라인업!\n\n섹스피스톨즈의 글렌 매트록, 하이어뮤직 수장 박재범까지 총 82팀이 15시간 이상 출연하는 2021 경록절! \n\n➡️2021.2.11(목) PM 12:00\n➡️유튜브 크라잉넛 오피셜 https://t.co/gyv3vuslnf\n➡️굿즈 구매  https://t.co/xBGC54MHcr https://t.co/v5o0kB0lMu"
+	},
+	{
 		"created_at": "Thu Feb 04 15:02:22 +0000 2021",
 		"id": 1357343746291949600,
 		"id_str": "1357343746291949568",
