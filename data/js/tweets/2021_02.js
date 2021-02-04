@@ -1,6 +1,1196 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 04 01:44:12 +0000 2021",
+		"id": 1356932233139867600,
+		"id_str": "1357142882856013828",
+		"full_text": "운동은 창의력에도 좋다. 활동적인 사람이 가만 있는 사람보다 창의력 점수 높아. 움직일 때 뇌에 혈액, 산소, 영양소 증가. 설치류 실험에서도 뇌세포 생성 증가. 사람은 사고/기억력 향상 기분 상승. 운동이 기분 고조시켜 창의력 높이는 게 아니라 운동 자체가 창의력 촉진.https://t.co/YhUR6A8cBh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YhUR6A8cBh",
+					"expanded_url": "https://www.nytimes.com/2021/02/03/well/exercise-creativity.html",
+					"display_url": "nytimes.com/2021/02/03/wel…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102051,
+			"friends_count": 2382,
+			"listed_count": 318,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 466,
+		"favorite_count": 578,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "운동은 창의력에도 좋다. 활동적인 사람이 가만 있는 사람보다 창의력 점수 높아. 움직일 때 뇌에 혈액, 산소, 영양소 증가. 설치류 실험에서도 뇌세포 생성 증가. 사람은 사고/기억력 향상 기분 상승. 운동이 기분 고조시켜 창의력 높이는 게 아니라 운동 자체가 창의력 촉진.https://t.co/YhUR6A8cBh"
+	},
+	{
+		"created_at": "Thu Feb 04 01:44:06 +0000 2021",
+		"id": 1356954453148987400,
+		"id_str": "1357142859225337858",
+		"full_text": "창작 과정 수료생 축사\n무엇이든 읽어라. 망자의 책도 번역서도.\n글쓰기와 무관한 취미를 가져라.\n모임에선 자기 얘기보다 묻고 배워라.\n수입 10%는 저축해라. 필요할 때 있다.\n글쓰기도 중노동이다. 운동해라.\n동료 작가 시기는 어리석은 일. 상은 때 되면 받는 것. /계속 https://t.co/wLe6biquM6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wLe6biquM6",
+					"expanded_url": "https://lithub.com/for-writers-graduating-from-an-mfa-during-a-pandemic-read-everything/",
+					"display_url": "lithub.com/for-writers-gr…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102051,
+			"friends_count": 2382,
+			"listed_count": 318,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 257,
+		"favorite_count": 426,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "창작 과정 수료생 축사\n무엇이든 읽어라. 망자의 책도 번역서도.\n글쓰기와 무관한 취미를 가져라.\n모임에선 자기 얘기보다 묻고 배워라.\n수입 10%는 저축해라. 필요할 때 있다.\n글쓰기도 중노동이다. 운동해라.\n동료 작가 시기는 어리석은 일. 상은 때 되면 받는 것. /계속 https://t.co/wLe6biquM6"
+	},
+	{
+		"created_at": "Thu Feb 04 01:39:09 +0000 2021",
+		"id": 1356869099385577500,
+		"id_str": "1357141612938235908",
+		"full_text": "새로운 싸이월드, ‘도토리·가상자산’ 투트랙 서비스한다 https://t.co/779Zh9yh5H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/779Zh9yh5H",
+					"expanded_url": "http://www.bloter.net/archives/523025",
+					"display_url": "bloter.net/archives/523025",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54642,
+			"friends_count": 9,
+			"listed_count": 2337,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 28894,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "새로운 싸이월드, ‘도토리·가상자산’ 투트랙 서비스한다 https://t.co/779Zh9yh5H"
+	},
+	{
+		"created_at": "Thu Feb 04 01:35:32 +0000 2021",
+		"id": 1356885811992518700,
+		"id_str": "1357140701029433346",
+		"full_text": "[현장+]페이스북, ‘라쏘’ 대신 인스타 ‘릴스’ 택한 이유는 https://t.co/N3sjZ8ocL1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N3sjZ8ocL1",
+					"expanded_url": "http://www.bloter.net/archives/523453",
+					"display_url": "bloter.net/archives/523453",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54642,
+			"friends_count": 9,
+			"listed_count": 2337,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 28894,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[현장+]페이스북, ‘라쏘’ 대신 인스타 ‘릴스’ 택한 이유는 https://t.co/N3sjZ8ocL1"
+	},
+	{
+		"created_at": "Thu Feb 04 01:34:46 +0000 2021",
+		"id": 1356891004066881500,
+		"id_str": "1357140507445526529",
+		"full_text": "하나투어, 본사 사옥 매각까지…자구책 마련에 안간힘 https://t.co/8NCAaVe9C9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8NCAaVe9C9",
+					"expanded_url": "http://www.bloter.net/archives/523521",
+					"display_url": "bloter.net/archives/523521",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.bloter.net\" rel=\"nofollow\">bloter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123416413,
+			"id_str": "123416413",
+			"name": "블로터",
+			"screen_name": "bloter_news",
+			"location": "Seoul",
+			"description": "따뜻한 디지털 세상을 읽는 눈, [블로터]의 공식 트위터입니다.",
+			"url": "http://t.co/iWgIfBB6mF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iWgIfBB6mF",
+							"expanded_url": "http://bloter.net",
+							"display_url": "bloter.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54642,
+			"friends_count": 9,
+			"listed_count": 2337,
+			"created_at": "Tue Mar 16 01:30:34 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 28894,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975606990532591616/eRJKd1zX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123416413/1521437861",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "하나투어, 본사 사옥 매각까지…자구책 마련에 안간힘 https://t.co/8NCAaVe9C9"
+	},
+	{
+		"created_at": "Thu Feb 04 01:34:06 +0000 2021",
+		"id": 1357140340772401200,
+		"id_str": "1357140340772401153",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 ‘더 쇼’, 미국서 가장 많이 팔려…점유율 19.2%\nhttps://t.co/Qr5GBmyG2g\n#블랙핑크 #BLACKPINK https://t.co/8l94SFCsHn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						82,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qr5GBmyG2g",
+					"expanded_url": "https://yg-life.com/archives/164999?lang=ko",
+					"display_url": "yg-life.com/archives/16499…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1357140339497328600,
+					"id_str": "1357140339497328641",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EtWH8sYXYAEq6Fe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtWH8sYXYAEq6Fe.jpg",
+					"url": "https://t.co/8l94SFCsHn",
+					"display_url": "pic.twitter.com/8l94SFCsHn",
+					"expanded_url": "https://twitter.com/fromminn/status/1357140340772401153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357140339497328600,
+					"id_str": "1357140339497328641",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EtWH8sYXYAEq6Fe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtWH8sYXYAEq6Fe.jpg",
+					"url": "https://t.co/8l94SFCsHn",
+					"display_url": "pic.twitter.com/8l94SFCsHn",
+					"expanded_url": "https://twitter.com/fromminn/status/1357140340772401153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1040,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 ‘더 쇼’, 미국서 가장 많이 팔려…점유율 19.2%\nhttps://t.co/Qr5GBmyG2g\n#블랙핑크 #BLACKPINK https://t.co/8l94SFCsHn"
+	},
+	{
+		"created_at": "Thu Feb 04 01:32:49 +0000 2021",
+		"id": 1356765330517811200,
+		"id_str": "1357140017550794753",
+		"full_text": "오디오 소셜 네트워크, 클럽하우스 https://t.co/qw4aWDYunv 아직 베타서비스중임에도 불구하고 전세계적으로 큰 화제를 모으고 있는 새로운 음성기반 SNS 클럽하우스에 대해서 메모해 봤습니다. https://t.co/IdjMeUZGdS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qw4aWDYunv",
+					"expanded_url": "https://estimastory.com/2021/02/02/clubhouse/",
+					"display_url": "estimastory.com/2021/02/02/clu…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1356765320006881300,
+					"id_str": "1356765320006881280",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EtQy3r6UUAAMFnV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtQy3r6UUAAMFnV.jpg",
+					"url": "https://t.co/IdjMeUZGdS",
+					"display_url": "pic.twitter.com/IdjMeUZGdS",
+					"expanded_url": "https://twitter.com/estima7/status/1356765330517811204/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 426,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1230,
+							"h": 770,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 751,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1356765320006881300,
+					"id_str": "1356765320006881280",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EtQy3r6UUAAMFnV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtQy3r6UUAAMFnV.jpg",
+					"url": "https://t.co/IdjMeUZGdS",
+					"display_url": "pic.twitter.com/IdjMeUZGdS",
+					"expanded_url": "https://twitter.com/estima7/status/1356765330517811204/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 426,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1230,
+							"h": 770,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 751,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 366022,
+			"friends_count": 2245,
+			"listed_count": 4410,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 75971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오디오 소셜 네트워크, 클럽하우스 https://t.co/qw4aWDYunv 아직 베타서비스중임에도 불구하고 전세계적으로 큰 화제를 모으고 있는 새로운 음성기반 SNS 클럽하우스에 대해서 메모해 봤습니다. https://t.co/IdjMeUZGdS"
+	},
+	{
+		"created_at": "Thu Feb 04 01:30:04 +0000 2021",
+		"id": 1357101217034301400,
+		"id_str": "1357139327126441984",
+		"full_text": "미국의 주류 배달 서비스 Drizly를 우버가 약 1.2조원을 주고 인수 https://t.co/sVUcLGXTF7 지역 리쿼스토어에서 술을 배달시킬 수 있는 서비스. https://t.co/ceAyXxxyte",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sVUcLGXTF7",
+					"expanded_url": "https://techcrunch.com/2021/02/02/uber-is-buying-alcohol-delivery-service-drizly-for-1-1b/",
+					"display_url": "techcrunch.com/2021/02/02/ube…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1357101211376226300,
+					"id_str": "1357101211376226304",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EtVkXIxVEAARG42.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtVkXIxVEAARG42.jpg",
+					"url": "https://t.co/ceAyXxxyte",
+					"display_url": "pic.twitter.com/ceAyXxxyte",
+					"expanded_url": "https://twitter.com/estima7/status/1357101217034301440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1390,
+							"h": 933,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 805,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357101211376226300,
+					"id_str": "1357101211376226304",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EtVkXIxVEAARG42.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtVkXIxVEAARG42.jpg",
+					"url": "https://t.co/ceAyXxxyte",
+					"display_url": "pic.twitter.com/ceAyXxxyte",
+					"expanded_url": "https://twitter.com/estima7/status/1357101217034301440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1390,
+							"h": 933,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 805,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 366022,
+			"friends_count": 2245,
+			"listed_count": 4410,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 75971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미국의 주류 배달 서비스 Drizly를 우버가 약 1.2조원을 주고 인수 https://t.co/sVUcLGXTF7 지역 리쿼스토어에서 술을 배달시킬 수 있는 서비스. https://t.co/ceAyXxxyte"
+	},
+	{
+		"created_at": "Thu Feb 04 01:29:33 +0000 2021",
+		"id": 1357121201747808300,
+		"id_str": "1357139195974754305",
+		"full_text": "이제 없애야할 나쁜 TypeScript 습관들 https://t.co/FeWHZjqugd \n1. strict 모드를 사용하지 않는 것\n2. 디폴트 값을 || 로 정의 하는 것 \nㅤ→ㅤ??를 쓰거나, 파라미터 단위 폴백 정의할 것\n3. any를 타입으로 쓰는 것\nㅤ→ unknown 으로 교체할 것\n4. val as SomeType \nㅤ→ 타입가드 함수...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FeWHZjqugd",
+					"expanded_url": "https://j.mp/2YFXjs2",
+					"display_url": "j.mp/2YFXjs2",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4837,
+			"friends_count": 0,
+			"listed_count": 80,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이제 없애야할 나쁜 TypeScript 습관들 https://t.co/FeWHZjqugd \n1. strict 모드를 사용하지 않는 것\n2. 디폴트 값을 || 로 정의 하는 것 \nㅤ→ㅤ??를 쓰거나, 파라미터 단위 폴백 정의할 것\n3. any를 타입으로 쓰는 것\nㅤ→ unknown 으로 교체할 것\n4. val as SomeType \nㅤ→ 타입가드 함수..."
+	},
+	{
 		"created_at": "Wed Feb 03 23:45:37 +0000 2021",
 		"id": 1357102591407231000,
 		"id_str": "1357113040500641797",
