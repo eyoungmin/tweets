@@ -1,6 +1,501 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 04 05:49:09 +0000 2021",
+		"id": 1357204525199855600,
+		"id_str": "1357204525199855617",
+		"full_text": "#SMTOWN #News\n에스팀 아카데미, 주니어 위한 인플루언서 클래스 오는 3월 초 오픈!\nhttps://t.co/dO7O0lSbwI\n#SM엔터테인먼트 #minfav https://t.co/7B4TdvExAO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "News",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "SM엔터테인먼트",
+					"indices": [
+						77,
+						86
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						87,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dO7O0lSbwI",
+					"expanded_url": "https://www.smtown.com/news/detail/260",
+					"display_url": "smtown.com/news/detail/260",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1357204524243570700,
+					"id_str": "1357204524243570689",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EtXCUvMXUAE0cl3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtXCUvMXUAE0cl3.jpg",
+					"url": "https://t.co/7B4TdvExAO",
+					"display_url": "pic.twitter.com/7B4TdvExAO",
+					"expanded_url": "https://twitter.com/fromminn/status/1357204525199855617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357204524243570700,
+					"id_str": "1357204524243570689",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EtXCUvMXUAE0cl3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtXCUvMXUAE0cl3.jpg",
+					"url": "https://t.co/7B4TdvExAO",
+					"display_url": "pic.twitter.com/7B4TdvExAO",
+					"expanded_url": "https://twitter.com/fromminn/status/1357204525199855617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 346,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1040,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77229,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #News\n에스팀 아카데미, 주니어 위한 인플루언서 클래스 오는 3월 초 오픈!\nhttps://t.co/dO7O0lSbwI\n#SM엔터테인먼트 #minfav https://t.co/7B4TdvExAO"
+	},
+	{
+		"created_at": "Thu Feb 04 05:29:39 +0000 2021",
+		"id": 1357199120268599300,
+		"id_str": "1357199618719838214",
+		"full_text": "[#CatchyKorea💃]\n\nK팝 속 히든보이스🎤 가수 #크리즈 를 만나다❤️\n#KPOP's hidden voice🎵 #KRIZ\n👉👉Winner of 'The Performer of This Year Chorus'\nat #2020GAONCHART MUSICAWARDS👑\n\n🎬Youtube Link\n👉👉https://t.co/OUCktfruFo\n\n#지코​ #아무노래​ #트와이스​ #태연 https://t.co/ZHmFw2AnCN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CatchyKorea",
+					"indices": [
+						1,
+						13
+					]
+				},
+				{
+					"text": "크리즈",
+					"indices": [
+						32,
+						36
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "KRIZ",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "2020GAONCHART",
+					"indices": [
+						124,
+						138
+					]
+				},
+				{
+					"text": "지코",
+					"indices": [
+						194,
+						197
+					]
+				},
+				{
+					"text": "아무노래",
+					"indices": [
+						199,
+						204
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						206,
+						211
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						213,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OUCktfruFo",
+					"expanded_url": "https://youtu.be/obzBBLL30KU",
+					"display_url": "youtu.be/obzBBLL30KU",
+					"indices": [
+						169,
+						192
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1357197731597410300,
+					"id_str": "1357197731597410308",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/EtW8_DqVcAAFjI5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtW8_DqVcAAFjI5.jpg",
+					"url": "https://t.co/ZHmFw2AnCN",
+					"display_url": "pic.twitter.com/ZHmFw2AnCN",
+					"expanded_url": "https://twitter.com/arirangworld/status/1357199120268599296/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357197731597410300,
+					"id_str": "1357197731597410308",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/EtW8_DqVcAAFjI5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtW8_DqVcAAFjI5.jpg",
+					"url": "https://t.co/ZHmFw2AnCN",
+					"display_url": "pic.twitter.com/ZHmFw2AnCN",
+					"expanded_url": "https://twitter.com/arirangworld/status/1357199120268599296/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 162929,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1357197731597410308/vid/480x270/tFoC2v5OadUusUWf.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1357197731597410308/vid/1280x720/eXyJtZ-vcIdWJlZz.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1357197731597410308/pl/88zRAg5xXwehKSa6.m3u8?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1357197731597410308/vid/640x360/BOs5G_huIikHeo1p.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66625290,
+			"id_str": "66625290",
+			"name": "Arirang World",
+			"screen_name": "arirangworld",
+			"location": "South Korea",
+			"description": "Arirang TV & Radio",
+			"url": "https://t.co/eRqGeUFAHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eRqGeUFAHR",
+							"expanded_url": "https://www.youtube.com/arirangworld",
+							"display_url": "youtube.com/arirangworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 158316,
+			"friends_count": 213,
+			"listed_count": 1204,
+			"created_at": "Tue Aug 18 07:40:53 +0000 2009",
+			"favourites_count": 6052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E6E6E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925579596681977856/NBEPP8Pl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925579596681977856/NBEPP8Pl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66625290/1491978349",
+			"profile_link_color": "ED1846",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFB2D7",
+			"profile_text_color": "0A0A0A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#CatchyKorea💃]\n\nK팝 속 히든보이스🎤 가수 #크리즈 를 만나다❤️\n#KPOP's hidden voice🎵 #KRIZ\n👉👉Winner of 'The Performer of This Year Chorus'\nat #2020GAONCHART MUSICAWARDS👑\n\n🎬Youtube Link\n👉👉https://t.co/OUCktfruFo\n\n#지코​ #아무노래​ #트와이스​ #태연 https://t.co/ZHmFw2AnCN"
+	},
+	{
 		"created_at": "Thu Feb 04 04:29:39 +0000 2021",
 		"id": 1357177060058308600,
 		"id_str": "1357184518852141056",
