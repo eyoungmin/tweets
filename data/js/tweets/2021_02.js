@@ -1,6 +1,615 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 04 08:55:03 +0000 2021",
+		"id": 1356890322685489200,
+		"id_str": "1357251311905824770",
+		"full_text": "[IU TV]\n보이니 이번 아티비가\n얼마나 재미있는지 말야🎶\nYou’re my Celebrity✨\n\n🎥 https://t.co/Q7qNrFr2KN https://t.co/MUmpa6bjdN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q7qNrFr2KN",
+					"expanded_url": "https://youtu.be/rfjnzoYLvIU",
+					"display_url": "youtu.be/rfjnzoYLvIU",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1356888049842446300,
+					"id_str": "1356888049842446341",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EtSifgLU4AU_BND.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtSifgLU4AU_BND.jpg",
+					"url": "https://t.co/MUmpa6bjdN",
+					"display_url": "pic.twitter.com/MUmpa6bjdN",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1356890322685489154/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1356888049842446300,
+					"id_str": "1356888049842446341",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EtSifgLU4AU_BND.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtSifgLU4AU_BND.jpg",
+					"url": "https://t.co/MUmpa6bjdN",
+					"display_url": "pic.twitter.com/MUmpa6bjdN",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1356890322685489154/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 861148,
+			"friends_count": 0,
+			"listed_count": 1514,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 918,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1354357825355411464/kJZxEWo5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354357825355411464/kJZxEWo5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1574070514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5798,
+		"favorite_count": 26472,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[IU TV]\n보이니 이번 아티비가\n얼마나 재미있는지 말야🎶\nYou’re my Celebrity✨\n\n🎥 https://t.co/Q7qNrFr2KN https://t.co/MUmpa6bjdN"
+	},
+	{
+		"created_at": "Thu Feb 04 08:02:18 +0000 2021",
+		"id": 1357237567930863600,
+		"id_str": "1357238035012812802",
+		"full_text": "[예리한방] 뚜-하 와썹💜 MC 뚜뚜 예리가 돌아왔다! 시즌2 Coming Soon🎉\n[Yeris Room] Ddu Ddu What's Up💜 MC Yeri is Coming Back! Season 2 TEASER🎉\n👉 https://t.co/LhY7X9IUOY\n\n#예리​  #Yeri​  #레드벨벳 #RedVelvet​  #예리한방​  #컴백 ​#YerisRoom #Comeback",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "Yeri",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						168,
+						178
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "컴백",
+					"indices": [
+						189,
+						192
+					]
+				},
+				{
+					"text": "YerisRoom",
+					"indices": [
+						194,
+						204
+					]
+				},
+				{
+					"text": "Comeback",
+					"indices": [
+						205,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LhY7X9IUOY",
+					"expanded_url": "https://youtu.be/cVf-h7iQuhY",
+					"display_url": "youtu.be/cVf-h7iQuhY",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1230039660572708900,
+			"id_str": "1230039660572708864",
+			"name": "예리한방 - Yeris Room",
+			"screen_name": "yerihan_bang",
+			"location": "",
+			"description": "예리한방(Yeri’s Room) 공식계정\n꿀잼 가득 '덤덤스튜디오' 💜\nDUMDUM STUDIO is full of fun.\n#예리한방 #예리 #레드벨벳 #yerisroom #덤덤스튜디오",
+			"url": "https://t.co/ET3yf5F3Jx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ET3yf5F3Jx",
+							"expanded_url": "http://youtube.com/dumdumstudio",
+							"display_url": "youtube.com/dumdumstudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32256,
+			"friends_count": 0,
+			"listed_count": 176,
+			"created_at": "Wed Feb 19 08:01:31 +0000 2020",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1230039660572708864/1600494343",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1078,
+		"favorite_count": 1740,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[예리한방] 뚜-하 와썹💜 MC 뚜뚜 예리가 돌아왔다! 시즌2 Coming Soon🎉\n[Yeris Room] Ddu Ddu What's Up💜 MC Yeri is Coming Back! Season 2 TEASER🎉\n👉 https://t.co/LhY7X9IUOY\n\n#예리​  #Yeri​  #레드벨벳 #RedVelvet​  #예리한방​  #컴백 ​#YerisRoom #Comeback"
+	},
+	{
+		"created_at": "Thu Feb 04 08:02:11 +0000 2021",
+		"id": 1357231903284187100,
+		"id_str": "1357238004742504448",
+		"full_text": "#BLACKPINK '붐바야 (BOOMBAYAH)' M/V HITS 1.1 BILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n'붐바야 (BOOMBAYAH)' M/V\n🎥https://t.co/agc3pZNRCO\n\n#블랙핑크 #BOOMBAYAH #붐바야 #MV #1_1BILLION #YOUTUBE #YG https://t.co/g9dJ9cIDTn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "BOOMBAYAH",
+					"indices": [
+						157,
+						167
+					]
+				},
+				{
+					"text": "붐바야",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						173,
+						176
+					]
+				},
+				{
+					"text": "1_1BILLION",
+					"indices": [
+						177,
+						188
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						189,
+						197
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						198,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						56,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/agc3pZNRCO",
+					"expanded_url": "https://youtu.be/bwmSjveL3Lc",
+					"display_url": "youtu.be/bwmSjveL3Lc",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1357231894400696300,
+					"id_str": "1357231894400696320",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EtXbN4-VgAAO19z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtXbN4-VgAAO19z.jpg",
+					"url": "https://t.co/g9dJ9cIDTn",
+					"display_url": "pic.twitter.com/g9dJ9cIDTn",
+					"expanded_url": "https://twitter.com/ygent_official/status/1357231903284187136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357231894400696300,
+					"id_str": "1357231894400696320",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EtXbN4-VgAAO19z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtXbN4-VgAAO19z.jpg",
+					"url": "https://t.co/g9dJ9cIDTn",
+					"display_url": "pic.twitter.com/g9dJ9cIDTn",
+					"expanded_url": "https://twitter.com/ygent_official/status/1357231903284187136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7286404,
+			"friends_count": 38,
+			"listed_count": 7640,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13540,
+		"favorite_count": 42823,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK '붐바야 (BOOMBAYAH)' M/V HITS 1.1 BILLION VIEWS @Youtube\nBLINKs worldwide, thank you so much!\n\n'붐바야 (BOOMBAYAH)' M/V\n🎥https://t.co/agc3pZNRCO\n\n#블랙핑크 #BOOMBAYAH #붐바야 #MV #1_1BILLION #YOUTUBE #YG https://t.co/g9dJ9cIDTn"
+	},
+	{
 		"created_at": "Thu Feb 04 07:54:37 +0000 2021",
 		"id": 1357236103049334800,
 		"id_str": "1357236103049334792",
