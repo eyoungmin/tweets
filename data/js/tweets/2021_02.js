@@ -1,6 +1,504 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 04 07:54:37 +0000 2021",
+		"id": 1357236103049334800,
+		"id_str": "1357236103049334792",
+		"full_text": "#KBS #공지사항 #가요심의\n[#뮤직비디오심의] 뮤직비디오 2021년 2월 1주차 심의결과\nhttps://t.co/LYlqTQMGTY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KBS",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "공지사항",
+					"indices": [
+						5,
+						10
+					]
+				},
+				{
+					"text": "가요심의",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "뮤직비디오심의",
+					"indices": [
+						18,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LYlqTQMGTY",
+					"expanded_url": "http://www.kbs.co.kr/board/board.html?bbs_loc=X2017-0031-04-699231,read,%EB%AE%A4%EC%A7%81%EB%B9%84%EB%94%94%EC%98%A4%EC%8B%AC%EC%9D%98,2095,1015834",
+					"display_url": "kbs.co.kr/board/board.ht…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1040,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#KBS #공지사항 #가요심의\n[#뮤직비디오심의] 뮤직비디오 2021년 2월 1주차 심의결과\nhttps://t.co/LYlqTQMGTY"
+	},
+	{
+		"created_at": "Thu Feb 04 07:54:09 +0000 2021",
+		"id": 1356887880673624000,
+		"id_str": "1357235983461220360",
+		"full_text": "모든 출판외주노동자들이 고용보험을 적용받는 길이 열렸습니다. 조금 전 분야에 관계없는 고용보험 적용을 결정하였다고 해요! https://t.co/Hd0ldoICdJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Hd0ldoICdJ",
+					"expanded_url": "https://twitter.com/happybooknodong/status/1356837029590433793",
+					"display_url": "twitter.com/happybooknodon…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 254431246,
+			"id_str": "254431246",
+			"name": "출판노동유니온",
+			"screen_name": "happybooknodong",
+			"location": "출판노동현장",
+			"description": "출판노동유니온\n(전국언론노동조합 서울경기지역 출판지부)\n\n회사가 노답일 때 노조가 답이다! happybooknodong@gmail.com\n카카오톡 '출판노조' / 010-8477-1297",
+			"url": "https://t.co/5XRcKJXHz9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5XRcKJXHz9",
+							"expanded_url": "http://bit.ly/happybooknodongjoin",
+							"display_url": "bit.ly/happybooknodon…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1872,
+			"friends_count": 774,
+			"listed_count": 24,
+			"created_at": "Sat Feb 19 07:45:39 +0000 2011",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108888385450471424/pAiGNX_M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108888385450471424/pAiGNX_M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/254431246/1551062722",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1356837029590433800,
+		"quoted_status_id_str": "1356837029590433793",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Hd0ldoICdJ",
+			"expanded": "https://twitter.com/happybooknodong/status/1356837029590433793",
+			"display": "twitter.com/happybooknodon…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 03 05:28:51 +0000 2021",
+			"id": 1356837029590433800,
+			"id_str": "1356837029590433793",
+			"full_text": "출판외주노동자들의 고용보험 적용을 위해 근로복지공단의 '피보험자격협의회'에 출판 종사자단체로 참고발언을 하였습니다. 다른 예술분야와 마찬가지로 기획, 번역, 편집부터 디자인, 일러스트까지 고용보험을 적용할 수 있기를 기대합니다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				127
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 254431246,
+				"id_str": "254431246",
+				"name": "출판노동유니온",
+				"screen_name": "happybooknodong",
+				"location": "출판노동현장",
+				"description": "출판노동유니온\n(전국언론노동조합 서울경기지역 출판지부)\n\n회사가 노답일 때 노조가 답이다! happybooknodong@gmail.com\n카카오톡 '출판노조' / 010-8477-1297",
+				"url": "https://t.co/5XRcKJXHz9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5XRcKJXHz9",
+								"expanded_url": "http://bit.ly/happybooknodongjoin",
+								"display_url": "bit.ly/happybooknodon…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1872,
+				"friends_count": 774,
+				"listed_count": 24,
+				"created_at": "Sat Feb 19 07:45:39 +0000 2011",
+				"favourites_count": 142,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4186,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1108888385450471424/pAiGNX_M_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108888385450471424/pAiGNX_M_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/254431246/1551062722",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 43,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 85,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모든 출판외주노동자들이 고용보험을 적용받는 길이 열렸습니다. 조금 전 분야에 관계없는 고용보험 적용을 결정하였다고 해요! https://t.co/Hd0ldoICdJ"
+	},
+	{
+		"created_at": "Thu Feb 04 07:26:13 +0000 2021",
+		"id": 1357228952666931200,
+		"id_str": "1357228952666931205",
+		"full_text": "#덤덤스튜디오 #DUMDUM_STUDIO #예리한방\n[예리한방] 뚜-하 와썹💜 MC 뚜뚜 예리가 돌아왔다! 시즌2 Coming Soon🎉\nhttps://t.co/K3N1khGQZd\n#레드벨벳 #RedVelvet #예리 #YERI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "덤덤스튜디오",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "DUMDUM_STUDIO",
+					"indices": [
+						8,
+						22
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						107,
+						117
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						122,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K3N1khGQZd",
+					"expanded_url": "https://youtu.be/cVf-h7iQuhY",
+					"display_url": "youtu.be/cVf-h7iQuhY",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1040,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#덤덤스튜디오 #DUMDUM_STUDIO #예리한방\n[예리한방] 뚜-하 와썹💜 MC 뚜뚜 예리가 돌아왔다! 시즌2 Coming Soon🎉\nhttps://t.co/K3N1khGQZd\n#레드벨벳 #RedVelvet #예리 #YERI"
+	},
+	{
 		"created_at": "Thu Feb 04 06:58:25 +0000 2021",
 		"id": 1357221957960401000,
 		"id_str": "1357221957960400896",
