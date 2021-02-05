@@ -1,6 +1,938 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 05 07:58:05 +0000 2021",
+		"id": 1357599362000429000,
+		"id_str": "1357599362000429060",
+		"full_text": "런온 같은 이야기는 비현실적이지만 드라마라서 할 수 있는 선이었다고 생각함. 어떠한 교훈이나 기획의도을 계속 주입시키면서 보기 부담스러운 드라마도 많은데 잘 풀어서 꽤 간결하고 기깔나게 대사에 풀었고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303,
+			"friends_count": 1039,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "런온 같은 이야기는 비현실적이지만 드라마라서 할 수 있는 선이었다고 생각함. 어떠한 교훈이나 기획의도을 계속 주입시키면서 보기 부담스러운 드라마도 많은데 잘 풀어서 꽤 간결하고 기깔나게 대사에 풀었고."
+	},
+	{
+		"created_at": "Fri Feb 05 07:27:28 +0000 2021",
+		"id": 1357557210822307800,
+		"id_str": "1357591658372583426",
+		"full_text": "개인 오디오 방송 플랫폼 ‘스푼’, 지난해 아이템 판매액 837억원 https://t.co/kS6LdvqJkj 전년 대비 70%이상 성장. 일본의 매출비중이 50%이상으로 한국을 추월. 일본에서 대단히 인기가 있다는 얘기를 들었는데 매출로 증명. 대단합니다! https://t.co/c7RKSDN2tV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kS6LdvqJkj",
+					"expanded_url": "https://platum.kr/archives/157513",
+					"display_url": "platum.kr/archives/157513",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1357557206674075600,
+					"id_str": "1357557206674075650",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EtcDFjoUcAI6-J6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtcDFjoUcAI6-J6.jpg",
+					"url": "https://t.co/c7RKSDN2tV",
+					"display_url": "pic.twitter.com/c7RKSDN2tV",
+					"expanded_url": "https://twitter.com/estima7/status/1357557210822307840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 724,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 724,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357557206674075600,
+					"id_str": "1357557206674075650",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EtcDFjoUcAI6-J6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtcDFjoUcAI6-J6.jpg",
+					"url": "https://t.co/c7RKSDN2tV",
+					"display_url": "pic.twitter.com/c7RKSDN2tV",
+					"expanded_url": "https://twitter.com/estima7/status/1357557210822307840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 724,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 724,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14060875,
+			"id_str": "14060875",
+			"name": "에스티마",
+			"screen_name": "estima7",
+			"location": "Seoul",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 366027,
+			"friends_count": 2246,
+			"listed_count": 4405,
+			"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+			"favourites_count": 2931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 75952,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "개인 오디오 방송 플랫폼 ‘스푼’, 지난해 아이템 판매액 837억원 https://t.co/kS6LdvqJkj 전년 대비 70%이상 성장. 일본의 매출비중이 50%이상으로 한국을 추월. 일본에서 대단히 인기가 있다는 얘기를 들었는데 매출로 증명. 대단합니다! https://t.co/c7RKSDN2tV"
+	},
+	{
+		"created_at": "Fri Feb 05 07:26:40 +0000 2021",
+		"id": 1357573183512133600,
+		"id_str": "1357591455515119617",
+		"full_text": "스타트업 리걸클리닉 [1. 공동창업 분쟁예방] https://t.co/4NT04kl15V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4NT04kl15V",
+					"expanded_url": "https://www.venturesquare.net/823257",
+					"display_url": "venturesquare.net/823257",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 109783731,
+			"id_str": "109783731",
+			"name": "VentureSquare",
+			"screen_name": "VentureSquare",
+			"location": "서울 강남구",
+			"description": "::벤처스퀘어 공식 트위터:: 벤처기업 (스타트업)과 기업가들을 위한 벤처전문 온라인 미디어입니다. 국내외의 다양한 스타트업과 관련 인물을 소개하고 비즈니스 트렌드, 경영, 마케팅, 투자, 기술 등 비즈니스 전반에 걸친 내용을 전달합니다.",
+			"url": "http://t.co/Sv72C5q8FI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Sv72C5q8FI",
+							"expanded_url": "http://www.venturesquare.net",
+							"display_url": "venturesquare.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6338,
+			"friends_count": 286,
+			"listed_count": 310,
+			"created_at": "Sat Jan 30 07:12:31 +0000 2010",
+			"favourites_count": 101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22273,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/637133781669834752/-I7mcBt8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/637133781669834752/-I7mcBt8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109783731/1451867938",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "스타트업 리걸클리닉 [1. 공동창업 분쟁예방] https://t.co/4NT04kl15V"
+	},
+	{
+		"created_at": "Fri Feb 05 07:23:52 +0000 2021",
+		"id": 1357253438698967000,
+		"id_str": "1357590751274627076",
+		"full_text": "🔈#블립 이 SNS 운영자를 구합니다\n작고 소중한 블립 ㄱㅖ정..한번 키워보고 싶지 않아?👼\n인턴, 신입, 경력 모두 모두 환영🙌\n\n👉자세히 보기 https://t.co/1hTyBfeLbk\n#블립은_채용중 #스페이스오디티 @kpopradar_blip https://t.co/WGjnZ6DRls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블립",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "블립은_채용중",
+					"indices": [
+						106,
+						114
+					]
+				},
+				{
+					"text": "스페이스오디티",
+					"indices": [
+						115,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kpopradar_blip",
+					"name": "K-Pop Radar (케이팝 레이더)",
+					"id": 1157200608106967000,
+					"id_str": "1157200608106967040",
+					"indices": [
+						124,
+						139
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1hTyBfeLbk",
+					"expanded_url": "http://bit.ly/blip_join_SNS",
+					"display_url": "bit.ly/blip_join_SNS",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1357252904113950700,
+					"id_str": "1357252904113950720",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EtXuU0QUUAAr6Xs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtXuU0QUUAAr6Xs.jpg",
+					"url": "https://t.co/WGjnZ6DRls",
+					"display_url": "pic.twitter.com/WGjnZ6DRls",
+					"expanded_url": "https://twitter.com/blip_twt/status/1357253438698967040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1900,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357252904113950700,
+					"id_str": "1357252904113950720",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EtXuU0QUUAAr6Xs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtXuU0QUUAAr6Xs.jpg",
+					"url": "https://t.co/WGjnZ6DRls",
+					"display_url": "pic.twitter.com/WGjnZ6DRls",
+					"expanded_url": "https://twitter.com/blip_twt/status/1357253438698967040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1900,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1222406929932095500,
+			"id_str": "1222406929932095491",
+			"name": "blip.official",
+			"screen_name": "blip_twt",
+			"location": "",
+			"description": "❤️ 어서오세요 ❤️ 블립이의 트위터 ❤️\n\n내 손안의 덕메이트, 블립(blip)\nFor Smart K-Pop Stans, Blip\n\n📱App download https://t.co/DMvoy5qUZ9",
+			"url": "https://t.co/O1SzIUFbht",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O1SzIUFbht",
+							"expanded_url": "https://blip.kr/",
+							"display_url": "blip.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DMvoy5qUZ9",
+							"expanded_url": "https://s.blip.kr/download",
+							"display_url": "s.blip.kr/download",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2205,
+			"friends_count": 54,
+			"listed_count": 4,
+			"created_at": "Wed Jan 29 06:33:18 +0000 2020",
+			"favourites_count": 1799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 616,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264788775156150273/YbTEz56O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264788775156150273/YbTEz56O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1222406929932095491/1600879611",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔈#블립 이 SNS 운영자를 구합니다\n작고 소중한 블립 ㄱㅖ정..한번 키워보고 싶지 않아?👼\n인턴, 신입, 경력 모두 모두 환영🙌\n\n👉자세히 보기 https://t.co/1hTyBfeLbk\n#블립은_채용중 #스페이스오디티 @kpopradar_blip https://t.co/WGjnZ6DRls"
+	},
+	{
+		"created_at": "Fri Feb 05 07:23:35 +0000 2021",
+		"id": 1357255079129063400,
+		"id_str": "1357590679690510342",
+		"full_text": "🔈#블립 이 브랜드 마케터를 구합니다\n덕질지원금 주는 회사 들어봤ㄴㅑ구..💸\n덕력 하나는 자신 있는 모든 경력자 컴온!✋\n\n👉자세히 보기 https://t.co/rnrxv9mZ86\n#블립은_채용중 #스페이스오디티 @kpopradar_blip https://t.co/zfOQKxqaMg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블립",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "블립은_채용중",
+					"indices": [
+						101,
+						109
+					]
+				},
+				{
+					"text": "스페이스오디티",
+					"indices": [
+						110,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kpopradar_blip",
+					"name": "K-Pop Radar (케이팝 레이더)",
+					"id": 1157200608106967000,
+					"id_str": "1157200608106967040",
+					"indices": [
+						119,
+						134
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rnrxv9mZ86",
+					"expanded_url": "http://bit.ly/blip_join_BrandMarketer",
+					"display_url": "bit.ly/blip_join_Bran…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1357255060476944400,
+					"id_str": "1357255060476944392",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EtXwSVVUYAgEvjP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtXwSVVUYAgEvjP.jpg",
+					"url": "https://t.co/zfOQKxqaMg",
+					"display_url": "pic.twitter.com/zfOQKxqaMg",
+					"expanded_url": "https://twitter.com/blip_twt/status/1357255079129063425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1900,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357255060476944400,
+					"id_str": "1357255060476944392",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EtXwSVVUYAgEvjP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtXwSVVUYAgEvjP.jpg",
+					"url": "https://t.co/zfOQKxqaMg",
+					"display_url": "pic.twitter.com/zfOQKxqaMg",
+					"expanded_url": "https://twitter.com/blip_twt/status/1357255079129063425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1900,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1222406929932095500,
+			"id_str": "1222406929932095491",
+			"name": "blip.official",
+			"screen_name": "blip_twt",
+			"location": "",
+			"description": "❤️ 어서오세요 ❤️ 블립이의 트위터 ❤️\n\n내 손안의 덕메이트, 블립(blip)\nFor Smart K-Pop Stans, Blip\n\n📱App download https://t.co/DMvoy5qUZ9",
+			"url": "https://t.co/O1SzIUFbht",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O1SzIUFbht",
+							"expanded_url": "https://blip.kr/",
+							"display_url": "blip.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DMvoy5qUZ9",
+							"expanded_url": "https://s.blip.kr/download",
+							"display_url": "s.blip.kr/download",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2205,
+			"friends_count": 54,
+			"listed_count": 4,
+			"created_at": "Wed Jan 29 06:33:18 +0000 2020",
+			"favourites_count": 1799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 616,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264788775156150273/YbTEz56O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264788775156150273/YbTEz56O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1222406929932095491/1600879611",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔈#블립 이 브랜드 마케터를 구합니다\n덕질지원금 주는 회사 들어봤ㄴㅑ구..💸\n덕력 하나는 자신 있는 모든 경력자 컴온!✋\n\n👉자세히 보기 https://t.co/rnrxv9mZ86\n#블립은_채용중 #스페이스오디티 @kpopradar_blip https://t.co/zfOQKxqaMg"
+	},
+	{
+		"created_at": "Fri Feb 05 07:20:48 +0000 2021",
+		"id": 1357556227375468500,
+		"id_str": "1357589977907961856",
+		"full_text": "🦜🦜🦜 동료..동료 무새... \n닷페이스 웹디자이너 어디 계세요.. \n닷페이스 개발자 어디 계세요... \n닷페이스 비디오 저널리스트 어디 계세요... \n닷페 콘텐츠 비즈니스 매니저 어디 계세요.. \n\n닷페 채용 공고 https://t.co/1qvOpkcumM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1qvOpkcumM",
+					"expanded_url": "https://dotf.kr/3pUvisM",
+					"display_url": "dotf.kr/3pUvisM",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 758559773721636900,
+			"id_str": "758559773721636865",
+			"name": "닷페이스 .face",
+			"screen_name": "DotFace",
+			"location": "",
+			"description": "우리가 살아갈 세상은 달라야 하니까\n제보 및 제작 의뢰: we@dotface.kr\n\n👇 닷페이스 후원하는 닷페피플로 함께하기",
+			"url": "https://t.co/B6KnCgbw1Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B6KnCgbw1Y",
+							"expanded_url": "https://dotf.kr/2Tuevyo",
+							"display_url": "dotf.kr/2Tuevyo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11844,
+			"friends_count": 0,
+			"listed_count": 33,
+			"created_at": "Thu Jul 28 07:08:38 +0000 2016",
+			"favourites_count": 3025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118743969402200064/qQ_AsVxT_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118743969402200064/qQ_AsVxT_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/758559773721636865/1603087168",
+			"profile_link_color": "6C19BC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 20,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🦜🦜🦜 동료..동료 무새... \n닷페이스 웹디자이너 어디 계세요.. \n닷페이스 개발자 어디 계세요... \n닷페이스 비디오 저널리스트 어디 계세요... \n닷페 콘텐츠 비즈니스 매니저 어디 계세요.. \n\n닷페 채용 공고 https://t.co/1qvOpkcumM"
+	},
+	{
 		"created_at": "Fri Feb 05 06:53:17 +0000 2021",
 		"id": 1357583053506371600,
 		"id_str": "1357583053506371586",
