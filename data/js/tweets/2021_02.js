@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 05 14:02:28 +0000 2021",
+		"id": 1357679426230571000,
+		"id_str": "1357691062421229569",
+		"full_text": "오늘 저희 에스파의 첫 발라드! Forever 다들 들어 보셨나요!!!🤗 \n우리 에스파 멤버들의 음색이 잘 담긴 예쁜 분위기의 곡이니까 많이 많이 들어주세용ㅎㅎㅎ❤️❤️\n\n#KARINA #카리나\n#aespa #æspa #에스파\n#Forever",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KARINA",
+					"indices": [
+						96,
+						103
+					]
+				},
+				{
+					"text": "카리나",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "Forever",
+					"indices": [
+						127,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 744988,
+			"friends_count": 1,
+			"listed_count": 2568,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356074801421410310/CmVD_DYS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356074801421410310/CmVD_DYS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1612148404",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4459,
+		"favorite_count": 16001,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "오늘 저희 에스파의 첫 발라드! Forever 다들 들어 보셨나요!!!🤗 \n우리 에스파 멤버들의 음색이 잘 담긴 예쁜 분위기의 곡이니까 많이 많이 들어주세용ㅎㅎㅎ❤️❤️\n\n#KARINA #카리나\n#aespa #æspa #에스파\n#Forever"
+	},
+	{
+		"created_at": "Fri Feb 05 14:02:23 +0000 2021",
+		"id": 1357679326150361000,
+		"id_str": "1357691040812122112",
+		"full_text": "여러분~!🌟\n저희 유영진 이사님의 리메이크 신곡 포레버 나왔어요!\n블랙맘바랑은 또 완전히 다른 느낌의 발라드 곡인데요! 너무 좋고 사랑하는 의미로 많이 들어줬으면 좋겠어용😽❤️❤️\n\n#GISELLE #지젤  \n#aespa #æspa #에스파\n#Forever",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GISELLE",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"text": "지젤",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "Forever",
+					"indices": [
+						135,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 744988,
+			"friends_count": 1,
+			"listed_count": 2568,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356074801421410310/CmVD_DYS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356074801421410310/CmVD_DYS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1612148404",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4056,
+		"favorite_count": 14728,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "여러분~!🌟\n저희 유영진 이사님의 리메이크 신곡 포레버 나왔어요!\n블랙맘바랑은 또 완전히 다른 느낌의 발라드 곡인데요! 너무 좋고 사랑하는 의미로 많이 들어줬으면 좋겠어용😽❤️❤️\n\n#GISELLE #지젤  \n#aespa #æspa #에스파\n#Forever"
+	},
+	{
+		"created_at": "Fri Feb 05 14:02:15 +0000 2021",
+		"id": 1357679221494018000,
+		"id_str": "1357691006779592706",
+		"full_text": "여러분~~~~ forever 오조억 번 들으세요~~~~~~~~~❤️\n\n#WINTER #윈터\n#aespa #æspa #에스파\n#Forever",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WINTER",
+					"indices": [
+						39,
+						46
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "Forever",
+					"indices": [
+						69,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 744988,
+			"friends_count": 1,
+			"listed_count": 2568,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356074801421410310/CmVD_DYS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356074801421410310/CmVD_DYS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1612148404",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6236,
+		"favorite_count": 23528,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "여러분~~~~ forever 오조억 번 들으세요~~~~~~~~~❤️\n\n#WINTER #윈터\n#aespa #æspa #에스파\n#Forever"
+	},
+	{
 		"created_at": "Fri Feb 05 13:49:40 +0000 2021",
 		"id": 1357687841988378600,
 		"id_str": "1357687841988378624",
