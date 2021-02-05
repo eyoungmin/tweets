@@ -1,6 +1,1454 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 05 06:53:17 +0000 2021",
+		"id": 1357583053506371600,
+		"id_str": "1357583053506371586",
+		"full_text": "#SMTOWN #Artist_News\n에스파, 신곡 ‘Forever’ 음원+MV 5일 오후 6시 공개!\nhttps://t.co/QVct5yDJSG\n#에스파 #aespa #æspa https://t.co/zIAHQXzO74",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						94,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QVct5yDJSG",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/4582",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1357583052491391000,
+					"id_str": "1357583052491390976",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/Etcal-zXAAA90Bi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Etcal-zXAAA90Bi.jpg",
+					"url": "https://t.co/zIAHQXzO74",
+					"display_url": "pic.twitter.com/zIAHQXzO74",
+					"expanded_url": "https://twitter.com/fromminn/status/1357583053506371586/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357583052491391000,
+					"id_str": "1357583052491390976",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/Etcal-zXAAA90Bi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Etcal-zXAAA90Bi.jpg",
+					"url": "https://t.co/zIAHQXzO74",
+					"display_url": "pic.twitter.com/zIAHQXzO74",
+					"expanded_url": "https://twitter.com/fromminn/status/1357583053506371586/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303,
+			"friends_count": 1039,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n에스파, 신곡 ‘Forever’ 음원+MV 5일 오후 6시 공개!\nhttps://t.co/QVct5yDJSG\n#에스파 #aespa #æspa https://t.co/zIAHQXzO74"
+	},
+	{
+		"created_at": "Fri Feb 05 06:46:21 +0000 2021",
+		"id": 1357581308361384000,
+		"id_str": "1357581308361383936",
+		"full_text": "#팩트체크 #SNU팩트체크\n\"위안부는 성노예가 아닌 매춘부다.\"\n▶ 전혀 사실 아님\nhttps://t.co/6tBeZ1cpJb\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						73,
+						84
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						85,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6tBeZ1cpJb",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2782",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303,
+			"friends_count": 1039,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n\"위안부는 성노예가 아닌 매춘부다.\"\n▶ 전혀 사실 아님\nhttps://t.co/6tBeZ1cpJb\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
+		"created_at": "Fri Feb 05 06:46:20 +0000 2021",
+		"id": 1357581306746597400,
+		"id_str": "1357581306746597378",
+		"full_text": "#팩트체크 #SNU팩트체크\n조두순 복지급여 지급, 법적으로 중단시킬 수 있다\n▶ 전혀 사실 아님\nhttps://t.co/gmv4KEaOPy\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						80,
+						91
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						92,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gmv4KEaOPy",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2781",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303,
+			"friends_count": 1039,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n조두순 복지급여 지급, 법적으로 중단시킬 수 있다\n▶ 전혀 사실 아님\nhttps://t.co/gmv4KEaOPy\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
+		"created_at": "Fri Feb 05 06:41:36 +0000 2021",
+		"id": 1357580115874635800,
+		"id_str": "1357580115874635777",
+		"full_text": "#SMTOWN #Artist_News\n권유리 주연 ‘이별유예, 일주일’ 5일 전격 공개! ‘감성 충전’ 예고\nhttps://t.co/WNEkfxVXK6\n#소녀시대 #GirlsGeneration https://t.co/tNsX5GVpY9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						91,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WNEkfxVXK6",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/4580",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1357580114914136000,
+					"id_str": "1357580114914136064",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EtcX6_eXUAAC6mQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtcX6_eXUAAC6mQ.jpg",
+					"url": "https://t.co/tNsX5GVpY9",
+					"display_url": "pic.twitter.com/tNsX5GVpY9",
+					"expanded_url": "https://twitter.com/fromminn/status/1357580115874635777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357580114914136000,
+					"id_str": "1357580114914136064",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EtcX6_eXUAAC6mQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtcX6_eXUAAC6mQ.jpg",
+					"url": "https://t.co/tNsX5GVpY9",
+					"display_url": "pic.twitter.com/tNsX5GVpY9",
+					"expanded_url": "https://twitter.com/fromminn/status/1357580115874635777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303,
+			"friends_count": 1039,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n권유리 주연 ‘이별유예, 일주일’ 5일 전격 공개! ‘감성 충전’ 예고\nhttps://t.co/WNEkfxVXK6\n#소녀시대 #GirlsGeneration https://t.co/tNsX5GVpY9"
+	},
+	{
+		"created_at": "Fri Feb 05 06:28:01 +0000 2021",
+		"id": 1357575759494140000,
+		"id_str": "1357576693817487360",
+		"full_text": "[#SMTrue_PreOrder] สินค้า 2021 SM ARTIST SEASON'S GREETINGS PHOTO PACK\n\n▶ เซ็ตละ 350฿\n\n▶ ตอนนี้~15 ก.พ. 64 (23.59 น.) ทาง https://t.co/WCIqokSdtm\n\n▶ รายละเอียด: https://t.co/AjsT3RzgyE\n\n#TVXQ! #SUPERJUNIOR #GirlsGeneration_Oh_GG #SHINee\n#EXO #RedVelvet #NCT127 #NCTDREAM #WayV https://t.co/8D2n3KUN1z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTrue_PreOrder",
+					"indices": [
+						1,
+						17
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						186,
+						191
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						193,
+						205
+					]
+				},
+				{
+					"text": "GirlsGeneration_Oh_GG",
+					"indices": [
+						206,
+						228
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						229,
+						236
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						237,
+						241
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						242,
+						252
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						253,
+						260
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						261,
+						270
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						271,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WCIqokSdtm",
+					"expanded_url": "http://store.weloveshopping.com/thsumstore",
+					"display_url": "store.weloveshopping.com/thsumstore",
+					"indices": [
+						122,
+						145
+					]
+				},
+				{
+					"url": "https://t.co/AjsT3RzgyE",
+					"expanded_url": "http://facebook.com/smtruethailand/posts/3735791316468789",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1357572976246313000,
+					"id_str": "1357572976246312962",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EtcRbd3U0AIIbnu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtcRbd3U0AIIbnu.jpg",
+					"url": "https://t.co/8D2n3KUN1z",
+					"display_url": "pic.twitter.com/8D2n3KUN1z",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1357575759494139904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 775,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1322,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357572976246313000,
+					"id_str": "1357572976246312962",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EtcRbd3U0AIIbnu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtcRbd3U0AIIbnu.jpg",
+					"url": "https://t.co/8D2n3KUN1z",
+					"display_url": "pic.twitter.com/8D2n3KUN1z",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1357575759494139904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 775,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1322,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83461,
+			"friends_count": 48,
+			"listed_count": 146,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 229,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "[#SMTrue_PreOrder] สินค้า 2021 SM ARTIST SEASON'S GREETINGS PHOTO PACK\n\n▶ เซ็ตละ 350฿\n\n▶ ตอนนี้~15 ก.พ. 64 (23.59 น.) ทาง https://t.co/WCIqokSdtm\n\n▶ รายละเอียด: https://t.co/AjsT3RzgyE\n\n#TVXQ! #SUPERJUNIOR #GirlsGeneration_Oh_GG #SHINee\n#EXO #RedVelvet #NCT127 #NCTDREAM #WayV https://t.co/8D2n3KUN1z"
+	},
+	{
+		"created_at": "Fri Feb 05 06:02:28 +0000 2021",
+		"id": 1357569727720136700,
+		"id_str": "1357570265333592064",
+		"full_text": "2021 SM ARTIST SEASON'S GREETINGS PHOTO PACK #RedVelvet\n \n▶ Online Store \nYIZHIYU (CHINA) : https://t.co/r4KVJGssKt\nYES24(GLOBAL) : https://t.co/1TliWVVudX\nYES24(KOREA) : https://t.co/aOcZmsQkPj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						45,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r4KVJGssKt",
+					"expanded_url": "http://t.cn/AigXvxEM",
+					"display_url": "t.cn/AigXvxEM",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/1TliWVVudX",
+					"expanded_url": "https://global.yes24.com/Event/197808",
+					"display_url": "global.yes24.com/Event/197808",
+					"indices": [
+						132,
+						155
+					]
+				},
+				{
+					"url": "https://t.co/aOcZmsQkPj",
+					"expanded_url": "http://www.yes24.com/eWorld/EventWorld/Event?eventno=197808",
+					"display_url": "yes24.com/eWorld/EventWo…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1357569668836331500,
+		"in_reply_to_status_id_str": "1357569668836331521",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3667607,
+			"friends_count": 1,
+			"listed_count": 7767,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 515,
+		"favorite_count": 2308,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2021 SM ARTIST SEASON'S GREETINGS PHOTO PACK #RedVelvet\n \n▶ Online Store \nYIZHIYU (CHINA) : https://t.co/r4KVJGssKt\nYES24(GLOBAL) : https://t.co/1TliWVVudX\nYES24(KOREA) : https://t.co/aOcZmsQkPj"
+	},
+	{
+		"created_at": "Fri Feb 05 06:02:19 +0000 2021",
+		"id": 1357569704060088300,
+		"id_str": "1357570227077328897",
+		"full_text": "2021 SM ARTIST SEASON'S GREETINGS PHOTO PACK #GirlsGenerationOhGG #소녀시대\n\n▶ Online Store \nYIZHIYU (CHINA) : https://t.co/JxdP4eoroV\nYES24(GLOBAL) : https://t.co/2GhN3krmxl\nYES24(KOREA) : https://t.co/0anSoC5AOv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGenerationOhGG",
+					"indices": [
+						45,
+						65
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						66,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JxdP4eoroV",
+					"expanded_url": "http://t.cn/AigXvxEM",
+					"display_url": "t.cn/AigXvxEM",
+					"indices": [
+						107,
+						130
+					]
+				},
+				{
+					"url": "https://t.co/2GhN3krmxl",
+					"expanded_url": "https://global.yes24.com/Event/197808",
+					"display_url": "global.yes24.com/Event/197808",
+					"indices": [
+						147,
+						170
+					]
+				},
+				{
+					"url": "https://t.co/0anSoC5AOv",
+					"expanded_url": "http://www.yes24.com/eWorld/EventWorld/Event?eventno=197808",
+					"display_url": "yes24.com/eWorld/EventWo…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1357569645688062000,
+		"in_reply_to_status_id_str": "1357569645688061955",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3635213,
+			"friends_count": 4,
+			"listed_count": 5201,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 149,
+		"favorite_count": 573,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2021 SM ARTIST SEASON'S GREETINGS PHOTO PACK #GirlsGenerationOhGG #소녀시대\n\n▶ Online Store \nYIZHIYU (CHINA) : https://t.co/JxdP4eoroV\nYES24(GLOBAL) : https://t.co/2GhN3krmxl\nYES24(KOREA) : https://t.co/0anSoC5AOv"
+	},
+	{
+		"created_at": "Fri Feb 05 06:02:15 +0000 2021",
+		"id": 1357569668836331500,
+		"id_str": "1357570209779974147",
+		"full_text": "2021 SM ARTIST SEASON'S GREETINGS PHOTO PACK #RedVelvet\n\n2월 5일(금)부터 다양한 온라인 판매처를 통해 예약하실 수 있습니다.\n\n▶ Online Store\n\nSMTOWN &amp;STORE : https://t.co/qdZNjj1HzK\n\nSM Global Shop : https://t.co/lIvgGCHN3U\n\nSM TRUE Store : https://t.co/qouin1zKWd https://t.co/iDdQPfEgj4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						45,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qdZNjj1HzK",
+					"expanded_url": "https://www.smtownandstore.com/",
+					"display_url": "smtownandstore.com",
+					"indices": [
+						134,
+						157
+					]
+				},
+				{
+					"url": "https://t.co/lIvgGCHN3U",
+					"expanded_url": "https://smglobalshop.com/",
+					"display_url": "smglobalshop.com",
+					"indices": [
+						176,
+						199
+					]
+				},
+				{
+					"url": "https://t.co/qouin1zKWd",
+					"expanded_url": "https://store.weloveshopping.com/thsumstore",
+					"display_url": "store.weloveshopping.com/thsumstore",
+					"indices": [
+						217,
+						240
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1357569655045410800,
+					"id_str": "1357569655045410816",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/EtcOaJbU0AAe5c-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtcOaJbU0AAe5c-.jpg",
+					"url": "https://t.co/iDdQPfEgj4",
+					"display_url": "pic.twitter.com/iDdQPfEgj4",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1357569668836331521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 658,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 218,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 386,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357569655045410800,
+					"id_str": "1357569655045410816",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/EtcOaJbU0AAe5c-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtcOaJbU0AAe5c-.jpg",
+					"url": "https://t.co/iDdQPfEgj4",
+					"display_url": "pic.twitter.com/iDdQPfEgj4",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1357569668836331521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 658,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 218,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 386,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3667607,
+			"friends_count": 1,
+			"listed_count": 7767,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3820,
+		"favorite_count": 11109,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2021 SM ARTIST SEASON'S GREETINGS PHOTO PACK #RedVelvet\n\n2월 5일(금)부터 다양한 온라인 판매처를 통해 예약하실 수 있습니다.\n\n▶ Online Store\n\nSMTOWN &amp;STORE : https://t.co/qdZNjj1HzK\n\nSM Global Shop : https://t.co/lIvgGCHN3U\n\nSM TRUE Store : https://t.co/qouin1zKWd https://t.co/iDdQPfEgj4"
+	},
+	{
 		"created_at": "Fri Feb 05 05:29:39 +0000 2021",
 		"id": 1357546995678929000,
 		"id_str": "1357562005788459010",
