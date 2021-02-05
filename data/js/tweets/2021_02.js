@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 05 05:29:39 +0000 2021",
+		"id": 1357546995678929000,
+		"id_str": "1357562005788459010",
+		"full_text": "9초대 드라마🧡\n열심히 달려온 배우들의 종영소감 인터뷰!\n\n기선겸(#임시완) x 오미주(#신세경)\n서단아(#최수영) x 이영화(#강태오)\n육지우(#차화연) 박매이(#이봉련) 정지현(#연제욱)\n\n그동안 &lt;#런온&gt;을 사랑해 주셔서 감사합니다👏 https://t.co/sdoJxVx6L2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임시완",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "신세경",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "강태오",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "차화연",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "이봉련",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "연제욱",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "런온",
+					"indices": [
+						116,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1357505382378131500,
+					"id_str": "1357505382378131457",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EtbVYcCVkAAbGCT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtbVYcCVkAAbGCT.jpg",
+					"url": "https://t.co/sdoJxVx6L2",
+					"display_url": "pic.twitter.com/sdoJxVx6L2",
+					"expanded_url": "https://twitter.com/jtbclove/status/1357546995678928897/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357505382378131500,
+					"id_str": "1357505382378131457",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EtbVYcCVkAAbGCT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtbVYcCVkAAbGCT.jpg",
+					"url": "https://t.co/sdoJxVx6L2",
+					"display_url": "pic.twitter.com/sdoJxVx6L2",
+					"expanded_url": "https://twitter.com/jtbclove/status/1357546995678928897/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 432365,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1357505382378131457/vid/480x270/QOarg0ktTm-uCyGK.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1357505382378131457/vid/640x360/I-3PqTffSCPPtudr.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1357505382378131457/pl/YuwCDntzNPvK9axE.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1357505382378131457/vid/1280x720/YnT6o5Z85EpjWD0t.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[런 온] 메이킹😭 9초대 드라마🧡 열심히 달려온 배우들의 종영소감 인터뷰!",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://tv.naver.com/v/18316384"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 438822,
+			"friends_count": 110,
+			"listed_count": 656,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21918,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1610497817",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 148,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "9초대 드라마🧡\n열심히 달려온 배우들의 종영소감 인터뷰!\n\n기선겸(#임시완) x 오미주(#신세경)\n서단아(#최수영) x 이영화(#강태오)\n육지우(#차화연) 박매이(#이봉련) 정지현(#연제욱)\n\n그동안 &lt;#런온&gt;을 사랑해 주셔서 감사합니다👏 https://t.co/sdoJxVx6L2"
+	},
+	{
 		"created_at": "Fri Feb 05 04:32:29 +0000 2021",
 		"id": 1357547622186238000,
 		"id_str": "1357547622186237952",
