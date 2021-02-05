@@ -1,6 +1,1084 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 05 03:32:38 +0000 2021",
+		"id": 1357532559689867300,
+		"id_str": "1357532559689867267",
+		"full_text": "#네이버TV #네이버공연\n[예고] 가족 뮤지컬 &lt;�우주탐사대 아틀란티스&gt; 전막 녹화중계\nhttps://t.co/wUEDcKTe5U https://t.co/Gr4FctAl8z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "네이버TV",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "네이버공연",
+					"indices": [
+						7,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wUEDcKTe5U",
+					"expanded_url": "https://tv.naver.com/v/18326811",
+					"display_url": "tv.naver.com/v/18326811",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1357532558196695000,
+					"id_str": "1357532558196695040",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Etbsq05XYAADRDV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Etbsq05XYAADRDV.jpg",
+					"url": "https://t.co/Gr4FctAl8z",
+					"display_url": "pic.twitter.com/Gr4FctAl8z",
+					"expanded_url": "https://twitter.com/fromminn/status/1357532559689867267/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 880,
+							"h": 495,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 495,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357532558196695000,
+					"id_str": "1357532558196695040",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Etbsq05XYAADRDV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Etbsq05XYAADRDV.jpg",
+					"url": "https://t.co/Gr4FctAl8z",
+					"display_url": "pic.twitter.com/Gr4FctAl8z",
+					"expanded_url": "https://twitter.com/fromminn/status/1357532559689867267/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 880,
+							"h": 495,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 495,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303,
+			"friends_count": 1039,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77289,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#네이버TV #네이버공연\n[예고] 가족 뮤지컬 &lt;�우주탐사대 아틀란티스&gt; 전막 녹화중계\nhttps://t.co/wUEDcKTe5U https://t.co/Gr4FctAl8z"
+	},
+	{
+		"created_at": "Fri Feb 05 03:29:39 +0000 2021",
+		"id": 1357524349016625200,
+		"id_str": "1357531806648725507",
+		"full_text": "난리법석💨 단아(#최수영) 생일파티 비하인드↗️\n+쿠키 영상: 셀카 못 찍는 선겸(#임시완)😮\n\n♥️그동안 &lt;#런온&gt;을 사랑해 주셔서 감사합니다♥️ https://t.co/z5V1o8rmuz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최수영",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "임시완",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "런온",
+					"indices": [
+						64,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1357505383506403300,
+					"id_str": "1357505383506403328",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EtbUwlhU0AQ8NAz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtbUwlhU0AQ8NAz.jpg",
+					"url": "https://t.co/z5V1o8rmuz",
+					"display_url": "pic.twitter.com/z5V1o8rmuz",
+					"expanded_url": "https://twitter.com/jtbclove/status/1357524349016625152/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357505383506403300,
+					"id_str": "1357505383506403328",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EtbUwlhU0AQ8NAz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtbUwlhU0AQ8NAz.jpg",
+					"url": "https://t.co/z5V1o8rmuz",
+					"display_url": "pic.twitter.com/z5V1o8rmuz",
+					"expanded_url": "https://twitter.com/jtbclove/status/1357524349016625152/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 303370,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1357505383506403328/vid/1280x720/CcXhTfUHah0JLy58.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1357505383506403328/pl/NR4LMMV00GjJMUmI.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1357505383506403328/vid/640x360/9EnwPXAyOdn0xWPR.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1357505383506403328/vid/480x270/v3V_Y_OCEBlpzF4e.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[런 온] 메이킹🎂 엉망진창💥 난리법석💨 단아 생일파티 비하인드! (+쿠키 영상: 셀카 못 찍는 선겸)",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://tv.naver.com/v/18284696"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 438823,
+			"friends_count": 110,
+			"listed_count": 658,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1610497817",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 113,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "난리법석💨 단아(#최수영) 생일파티 비하인드↗️\n+쿠키 영상: 셀카 못 찍는 선겸(#임시완)😮\n\n♥️그동안 &lt;#런온&gt;을 사랑해 주셔서 감사합니다♥️ https://t.co/z5V1o8rmuz"
+	},
+	{
+		"created_at": "Fri Feb 05 03:27:57 +0000 2021",
+		"id": 1357524346093330400,
+		"id_str": "1357531378938707968",
+		"full_text": "[#더블패티] \n🎬 먹방 ASMR 영상 \n \n공복 주의⚠ 침샘 주의⚠  \n고열량으로 에너지 풀충전 완료😋 \n\n♨ 땀샘 폭발 씨름 영상은 \n#Seezn 앱에서 단독 공개! \n보러가기👉https://t.co/1JrnJY54oL \n\n#Seezn오리지널 #영화 #DoublePatty #백승환 #신승호 #배주현 #아이린 #먹방 #씨름 #힐링 https://t.co/oR253ZpRij",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "더블패티",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "Seezn",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "Seezn오리지널",
+					"indices": [
+						127,
+						137
+					]
+				},
+				{
+					"text": "영화",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "DoublePatty",
+					"indices": [
+						142,
+						154
+					]
+				},
+				{
+					"text": "백승환",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "신승호",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "배주현",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "먹방",
+					"indices": [
+						175,
+						178
+					]
+				},
+				{
+					"text": "씨름",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "힐링",
+					"indices": [
+						183,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1JrnJY54oL",
+					"expanded_url": "http://bit.ly/Doublepatty",
+					"display_url": "bit.ly/Doublepatty",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1356922024690557000,
+					"id_str": "1356922024690556934",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1356922024690556934/pu/img/IEyblDo2o9HW11jA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1356922024690556934/pu/img/IEyblDo2o9HW11jA.jpg",
+					"url": "https://t.co/oR253ZpRij",
+					"display_url": "pic.twitter.com/oR253ZpRij",
+					"expanded_url": "https://twitter.com/my_seezn/status/1357524346093330432/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1356922024690557000,
+					"id_str": "1356922024690556934",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1356922024690556934/pu/img/IEyblDo2o9HW11jA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1356922024690556934/pu/img/IEyblDo2o9HW11jA.jpg",
+					"url": "https://t.co/oR253ZpRij",
+					"display_url": "pic.twitter.com/oR253ZpRij",
+					"expanded_url": "https://twitter.com/my_seezn/status/1357524346093330432/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 44711,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1356922024690556934/pu/pl/I5zw2th0mnS95TvS.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1356922024690556934/pu/vid/640x360/4xQUJ8HBQjBwVTgc.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1356922024690556934/pu/vid/1280x720/aavWk71QzHcexntR.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1356922024690556934/pu/vid/480x270/Ng3_BCMszCaeh18v.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1194503596139671600,
+			"id_str": "1194503596139671558",
+			"name": "Seezn(시즌)",
+			"screen_name": "my_seezn",
+			"location": "대한민국 어디서나",
+			"description": "Seezn의 공식계정입니다!\n\n👉시즌 오리지널: #더블패티 #위너베케이션 #7일만로맨스 #아이돌원더랜드 #아스트로의천일야화 #인어왕자 #예술의전당포 #WayVision #우석이의언박싱 #빽투더아이돌 #뮤시즌 #놓지마정신줄 #NCTLIFE #싱스테이 #예리한방 #히든트랙 #고막메이트",
+			"url": "https://t.co/ZCvEUUjA7C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCvEUUjA7C",
+							"expanded_url": "https://myseezn.com",
+							"display_url": "myseezn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54095,
+			"friends_count": 7,
+			"listed_count": 80,
+			"created_at": "Wed Nov 13 06:34:16 +0000 2019",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1077,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245010163850870786/Lf56Mf63_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245010163850870786/Lf56Mf63_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1194503596139671558/1607316148",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1423,
+		"favorite_count": 1871,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#더블패티] \n🎬 먹방 ASMR 영상 \n \n공복 주의⚠ 침샘 주의⚠  \n고열량으로 에너지 풀충전 완료😋 \n\n♨ 땀샘 폭발 씨름 영상은 \n#Seezn 앱에서 단독 공개! \n보러가기👉https://t.co/1JrnJY54oL \n\n#Seezn오리지널 #영화 #DoublePatty #백승환 #신승호 #배주현 #아이린 #먹방 #씨름 #힐링 https://t.co/oR253ZpRij"
+	},
+	{
+		"created_at": "Fri Feb 05 03:02:36 +0000 2021",
+		"id": 1357525000408957000,
+		"id_str": "1357525000408956933",
+		"full_text": "이달의소녀탐구 #707 (LOONA TV #707)\nhttps://t.co/YcnXCoddBj\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						60,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YcnXCoddBj",
+					"expanded_url": "https://youtu.be/-rfEIrgQKiw",
+					"display_url": "youtu.be/-rfEIrgQKiw",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303,
+			"friends_count": 1039,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77289,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이달의소녀탐구 #707 (LOONA TV #707)\nhttps://t.co/YcnXCoddBj\n#이달의소녀 #LOONA"
+	},
+	{
+		"created_at": "Fri Feb 05 03:02:09 +0000 2021",
+		"id": 1357524351126442000,
+		"id_str": "1357524886000984064",
+		"full_text": "[NOTICE] 별하랑의 'Querencia' 취향은?\n\n곧 발매될 청하의 정규앨범을 기대하며!\n별하랑의 취향을 알아보는 시간을 가져보려 합니다🤗\n혼자만의 투표! 눈치 보지 말고\n솔직함을 담아 투표해주세요!💚💙💜\n\n✔️ https://t.co/s6TnQXko1V\n\n#청하 #CHUNGHA \n#chungha_querencia \n#CHUNGHA_Bicycle https://t.co/y6fE1DEXF5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						152,
+						160
+					]
+				},
+				{
+					"text": "chungha_querencia",
+					"indices": [
+						162,
+						180
+					]
+				},
+				{
+					"text": "CHUNGHA_Bicycle",
+					"indices": [
+						182,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s6TnQXko1V",
+					"expanded_url": "https://forms.gle/rG7ERuMgKHVjJbTR6",
+					"display_url": "forms.gle/rG7ERuMgKHVjJb…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1357313154116505600,
+					"id_str": "1357313154116505608",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EtYlH1AUUAgPpo_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtYlH1AUUAgPpo_.jpg",
+					"url": "https://t.co/y6fE1DEXF5",
+					"display_url": "pic.twitter.com/y6fE1DEXF5",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1357524351126441984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357313154116505600,
+					"id_str": "1357313154116505608",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EtYlH1AUUAgPpo_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtYlH1AUUAgPpo_.jpg",
+					"url": "https://t.co/y6fE1DEXF5",
+					"display_url": "pic.twitter.com/y6fE1DEXF5",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1357524351126441984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜          \n\n'Qurerencia' PRE-ORDER 👉 https://t.co/6FjcqRIqMF",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6FjcqRIqMF",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								66,
+								89
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 312700,
+			"friends_count": 0,
+			"listed_count": 1900,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1523,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353580382994587648/zWJDlVAQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353580382994587648/zWJDlVAQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1611565202",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 281,
+		"favorite_count": 1199,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NOTICE] 별하랑의 'Querencia' 취향은?\n\n곧 발매될 청하의 정규앨범을 기대하며!\n별하랑의 취향을 알아보는 시간을 가져보려 합니다🤗\n혼자만의 투표! 눈치 보지 말고\n솔직함을 담아 투표해주세요!💚💙💜\n\n✔️ https://t.co/s6TnQXko1V\n\n#청하 #CHUNGHA \n#chungha_querencia \n#CHUNGHA_Bicycle https://t.co/y6fE1DEXF5"
+	},
+	{
 		"created_at": "Fri Feb 05 03:00:56 +0000 2021",
 		"id": 1357524579519000600,
 		"id_str": "1357524579519000578",
