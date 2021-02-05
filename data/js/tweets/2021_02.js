@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 05 02:02:06 +0000 2021",
+		"id": 1357507156233187300,
+		"id_str": "1357509773621657601",
+		"full_text": "[예리한방 페이스북 개설❗️]\n똑똑똑~뚜-하💜\n어제 시즌 2 티저 영상 잘 보셨나요?\n👉 https://t.co/hfKOwPqaSF\n예리한방의 '페이스북 페이지'도 개설했답니다😀\n페이지 좋아요 눌러주시고, 예리한 방 소식 받아보세요💜\n'Yeris Room' Facebook Page Open! https://t.co/atvUSzTaTJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hfKOwPqaSF",
+					"expanded_url": "https://url.kr/fwxu9c",
+					"display_url": "url.kr/fwxu9c",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1357506689809846300,
+					"id_str": "1357506689809846273",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EtbVJFpVEAEGpgX.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EtbVJFpVEAEGpgX.jpg",
+					"url": "https://t.co/atvUSzTaTJ",
+					"display_url": "pic.twitter.com/atvUSzTaTJ",
+					"expanded_url": "https://twitter.com/yerihan_bang/status/1357507156233187329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 584,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 584,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 584,
+							"h": 338,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357506689809846300,
+					"id_str": "1357506689809846273",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EtbVJFpVEAEGpgX.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EtbVJFpVEAEGpgX.jpg",
+					"url": "https://t.co/atvUSzTaTJ",
+					"display_url": "pic.twitter.com/atvUSzTaTJ",
+					"expanded_url": "https://twitter.com/yerihan_bang/status/1357507156233187329/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 584,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 584,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 584,
+							"h": 338,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							292,
+							169
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EtbVJFpVEAEGpgX.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1230039660572708900,
+			"id_str": "1230039660572708864",
+			"name": "예리한방 - Yeris Room",
+			"screen_name": "yerihan_bang",
+			"location": "",
+			"description": "예리한방(Yeri’s Room) 공식계정\n꿀잼 가득 '덤덤스튜디오' 💜\nDUMDUM STUDIO is full of fun.\n#예리한방 #예리 #레드벨벳 #yerisroom #덤덤스튜디오",
+			"url": "https://t.co/ET3yf5F3Jx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ET3yf5F3Jx",
+							"expanded_url": "http://youtube.com/dumdumstudio",
+							"display_url": "youtube.com/dumdumstudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32370,
+			"friends_count": 0,
+			"listed_count": 175,
+			"created_at": "Wed Feb 19 08:01:31 +0000 2020",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262199226525601798/zopzuJah_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1230039660572708864/1600494343",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 456,
+		"favorite_count": 771,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[예리한방 페이스북 개설❗️]\n똑똑똑~뚜-하💜\n어제 시즌 2 티저 영상 잘 보셨나요?\n👉 https://t.co/hfKOwPqaSF\n예리한방의 '페이스북 페이지'도 개설했답니다😀\n페이지 좋아요 눌러주시고, 예리한 방 소식 받아보세요💜\n'Yeris Room' Facebook Page Open! https://t.co/atvUSzTaTJ"
+	},
+	{
 		"created_at": "Thu Feb 04 23:53:26 +0000 2021",
 		"id": 1357477394647576600,
 		"id_str": "1357477394647576581",
