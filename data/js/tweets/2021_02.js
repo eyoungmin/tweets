@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sat Feb 06 01:27:57 +0000 2021",
+		"id": 1357854216392331300,
+		"id_str": "1357863568268529664",
+		"full_text": "2021 SM ARTIST SEASON’S GREETINGS - PHOTO PACK] 🤍\n\nArtists with more photos in various sizes 📷✨ \nPre-Order 🔗 https://t.co/38rAhkjZkB\n\n#SeasonsGreetings #PHOTOPACK #TVXQ! #SuperJunior #GIRLSGENERATION_OhGG #SHINee #EXO #RedVelvet #NCT127 #NCTDREAM #WayV https://t.co/7WVEMJfGrB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SeasonsGreetings",
+					"indices": [
+						134,
+						151
+					]
+				},
+				{
+					"text": "PHOTOPACK",
+					"indices": [
+						152,
+						162
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "SuperJunior",
+					"indices": [
+						170,
+						182
+					]
+				},
+				{
+					"text": "GIRLSGENERATION_OhGG",
+					"indices": [
+						183,
+						204
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						205,
+						212
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						213,
+						217
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						218,
+						228
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						229,
+						236
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						237,
+						246
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						247,
+						252
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/38rAhkjZkB",
+					"expanded_url": "http://smglobalshop.com",
+					"display_url": "smglobalshop.com",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1357854208171470800,
+					"id_str": "1357854208171470848",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/EtgRNUbUcAA_koT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtgRNUbUcAA_koT.jpg",
+					"url": "https://t.co/7WVEMJfGrB",
+					"display_url": "pic.twitter.com/7WVEMJfGrB",
+					"expanded_url": "https://twitter.com/SMGlobalShop/status/1357854216392331268/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357854208171470800,
+					"id_str": "1357854208171470848",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/EtgRNUbUcAA_koT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtgRNUbUcAA_koT.jpg",
+					"url": "https://t.co/7WVEMJfGrB",
+					"display_url": "pic.twitter.com/7WVEMJfGrB",
+					"expanded_url": "https://twitter.com/SMGlobalShop/status/1357854216392331268/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 994706386696073200,
+			"id_str": "994706386696073221",
+			"name": "SMGlobalShop",
+			"screen_name": "SMGlobalShop",
+			"location": "Los Angeles, CA",
+			"description": "Official SM Entertainment Merchandise Shop ft. #SuperM #SHINee #RedVelvet #NCT #EXO #SuperJunior #TVXQ #GirlsGeneration #fx #aespa",
+			"url": "https://t.co/Rwg3fKZNIy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rwg3fKZNIy",
+							"expanded_url": "https://smglobalshop.com",
+							"display_url": "smglobalshop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36906,
+			"friends_count": 18,
+			"listed_count": 71,
+			"created_at": "Thu May 10 22:30:58 +0000 2018",
+			"favourites_count": 993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278022817506668544/xfnu-OxB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278022817506668544/xfnu-OxB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/994706386696073221/1604527929",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 153,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2021 SM ARTIST SEASON’S GREETINGS - PHOTO PACK] 🤍\n\nArtists with more photos in various sizes 📷✨ \nPre-Order 🔗 https://t.co/38rAhkjZkB\n\n#SeasonsGreetings #PHOTOPACK #TVXQ! #SuperJunior #GIRLSGENERATION_OhGG #SHINee #EXO #RedVelvet #NCT127 #NCTDREAM #WayV https://t.co/7WVEMJfGrB"
+	},
+	{
 		"created_at": "Sat Feb 06 00:21:45 +0000 2021",
 		"id": 1357846910791483400,
 		"id_str": "1357846910791483392",
