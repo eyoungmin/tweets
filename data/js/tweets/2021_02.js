@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sat Feb 06 04:02:05 +0000 2021",
+		"id": 1357871635383136300,
+		"id_str": "1357902359624638464",
+		"full_text": "aespa and hello82 are going to serve you something fun! Are you ready? @ someone who photobombs you all the time 📸\n\n⏰ February 11th, 11AM KST\n🔗 https://t.co/Q23aM39t9e\n\n@aespa_official \n#aespa #hello82 #에스파 #aespaxhello82 https://t.co/frJMROLyZX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						186,
+						192
+					]
+				},
+				{
+					"text": "hello82",
+					"indices": [
+						193,
+						201
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						202,
+						206
+					]
+				},
+				{
+					"text": "aespaxhello82",
+					"indices": [
+						207,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						169,
+						184
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Q23aM39t9e",
+					"expanded_url": "https://www.youtube.com/channel/UC1HHeTLXHMM5FiEyQpS1toA",
+					"display_url": "youtube.com/channel/UC1HHe…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1357622555205456000,
+					"id_str": "1357622555205455877",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1357622555205455877/pu/img/OnEX0HmtFz1DLTOY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1357622555205455877/pu/img/OnEX0HmtFz1DLTOY.jpg",
+					"url": "https://t.co/frJMROLyZX",
+					"display_url": "pic.twitter.com/frJMROLyZX",
+					"expanded_url": "https://twitter.com/hello82official/status/1357871635383136256/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357622555205456000,
+					"id_str": "1357622555205455877",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1357622555205455877/pu/img/OnEX0HmtFz1DLTOY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1357622555205455877/pu/img/OnEX0HmtFz1DLTOY.jpg",
+					"url": "https://t.co/frJMROLyZX",
+					"display_url": "pic.twitter.com/frJMROLyZX",
+					"expanded_url": "https://twitter.com/hello82official/status/1357871635383136256/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 21433,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1357622555205455877/pu/vid/720x900/GvXAUihGQraGuHjT.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1357622555205455877/pu/vid/480x600/OYyOyIblak4irGuh.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1357622555205455877/pu/vid/320x400/CY6LxAFTGqMFCCrx.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1357622555205455877/pu/pl/4dUH0whn1K5w4WpS.m3u8?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1051676602646462500,
+			"id_str": "1051676602646462464",
+			"name": "hello82",
+			"screen_name": "hello82official",
+			"location": "",
+			"description": "Exclusive K-pop channel 🎥 Follow us to get THE fastest update on our content! Family: @hola82oficial @oi82oficial @ahlan82official @halo82official @annyon82",
+			"url": "https://t.co/4nBIADl87X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4nBIADl87X",
+							"expanded_url": "http://hello82.tv",
+							"display_url": "hello82.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59759,
+			"friends_count": 5,
+			"listed_count": 70,
+			"created_at": "Mon Oct 15 03:30:16 +0000 2018",
+			"favourites_count": 532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176387750141911042/qfnjHGfH_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176387750141911042/qfnjHGfH_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1051676602646462464/1609900686",
+			"profile_link_color": "0B1DFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6153,
+		"favorite_count": 15800,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa and hello82 are going to serve you something fun! Are you ready? @ someone who photobombs you all the time 📸\n\n⏰ February 11th, 11AM KST\n🔗 https://t.co/Q23aM39t9e\n\n@aespa_official \n#aespa #hello82 #에스파 #aespaxhello82 https://t.co/frJMROLyZX"
+	},
+	{
 		"created_at": "Sat Feb 06 03:00:42 +0000 2021",
 		"id": 1357886909662572500,
 		"id_str": "1357886909662572546",
