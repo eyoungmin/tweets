@@ -1,6 +1,640 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 07 18:19:40 +0000 2021",
+		"id": 1358062281096102000,
+		"id_str": "1358480562625810435",
+		"full_text": "Twitter has its own power dynamics and status hierarchies—think blue checks, follower counts, etc. But at the most basic level it is flat and open where Clubhouse is hierarchical and closed, and there are crucial tradeoffs between those approaches. https://t.co/Z7UWuFEcdg https://t.co/WpHkjYuL8A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z7UWuFEcdg",
+					"expanded_url": "https://onezero.medium.com/clubhouse-is-the-anti-twitter-c50ff7acca1a",
+					"display_url": "onezero.medium.com/clubhouse-is-t…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1358061979416612900,
+					"id_str": "1358061979416612868",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EtjOLMoXUAQJTrQ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EtjOLMoXUAQJTrQ.png",
+					"url": "https://t.co/WpHkjYuL8A",
+					"display_url": "pic.twitter.com/WpHkjYuL8A",
+					"expanded_url": "https://twitter.com/WillOremus/status/1358062281096101889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 502,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1122,
+							"h": 828,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1122,
+							"h": 828,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1358061979416612900,
+					"id_str": "1358061979416612868",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EtjOLMoXUAQJTrQ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EtjOLMoXUAQJTrQ.png",
+					"url": "https://t.co/WpHkjYuL8A",
+					"display_url": "pic.twitter.com/WpHkjYuL8A",
+					"expanded_url": "https://twitter.com/WillOremus/status/1358062281096101889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 502,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1122,
+							"h": 828,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1122,
+							"h": 828,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1358058678121824300,
+		"in_reply_to_status_id_str": "1358058678121824258",
+		"in_reply_to_user_id": 154016912,
+		"in_reply_to_user_id_str": "154016912",
+		"in_reply_to_screen_name": "WillOremus",
+		"user": {
+			"id": 154016912,
+			"id_str": "154016912",
+			"name": "Will Oremus",
+			"screen_name": "WillOremus",
+			"location": "Newark, DE",
+			"description": "I write about platforms, algorithms, online speech & tech policy for @ozm. Sign up for my weekly newsletter, Pattern Matching: https://t.co/NsrZLkRAD1",
+			"url": "https://t.co/gjfobSdNta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gjfobSdNta",
+							"expanded_url": "https://medium.com/@WillOremus",
+							"display_url": "medium.com/@WillOremus",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NsrZLkRAD1",
+							"expanded_url": "http://read.medium.com/yiHImym",
+							"display_url": "read.medium.com/yiHImym",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 26415,
+			"friends_count": 2664,
+			"listed_count": 1158,
+			"created_at": "Thu Jun 10 04:23:40 +0000 2010",
+			"favourites_count": 42825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1F3952",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/474947556649099264/U8G5jb54_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/474947556649099264/U8G5jb54_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/154016912/1598976097",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Twitter has its own power dynamics and status hierarchies—think blue checks, follower counts, etc. But at the most basic level it is flat and open where Clubhouse is hierarchical and closed, and there are crucial tradeoffs between those approaches. https://t.co/Z7UWuFEcdg https://t.co/WpHkjYuL8A"
+	},
+	{
+		"created_at": "Sun Feb 07 18:19:35 +0000 2021",
+		"id": 1358058678121824300,
+		"id_str": "1358480545223643136",
+		"full_text": "I wrote about Clubhouse as the anti-Twitter: a platform built to replicate human social structures, norms, and status hierarchies rather than collapse them. https://t.co/Z7UWuFEcdg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z7UWuFEcdg",
+					"expanded_url": "https://onezero.medium.com/clubhouse-is-the-anti-twitter-c50ff7acca1a",
+					"display_url": "onezero.medium.com/clubhouse-is-t…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 154016912,
+			"id_str": "154016912",
+			"name": "Will Oremus",
+			"screen_name": "WillOremus",
+			"location": "Newark, DE",
+			"description": "I write about platforms, algorithms, online speech & tech policy for @ozm. Sign up for my weekly newsletter, Pattern Matching: https://t.co/NsrZLkRAD1",
+			"url": "https://t.co/gjfobSdNta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gjfobSdNta",
+							"expanded_url": "https://medium.com/@WillOremus",
+							"display_url": "medium.com/@WillOremus",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NsrZLkRAD1",
+							"expanded_url": "http://read.medium.com/yiHImym",
+							"display_url": "read.medium.com/yiHImym",
+							"indices": [
+								127,
+								150
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 26415,
+			"friends_count": 2664,
+			"listed_count": 1158,
+			"created_at": "Thu Jun 10 04:23:40 +0000 2010",
+			"favourites_count": 42825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1F3952",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/474947556649099264/U8G5jb54_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/474947556649099264/U8G5jb54_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/154016912/1598976097",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 270,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I wrote about Clubhouse as the anti-Twitter: a platform built to replicate human social structures, norms, and status hierarchies rather than collapse them. https://t.co/Z7UWuFEcdg"
+	},
+	{
+		"created_at": "Sun Feb 07 18:18:42 +0000 2021",
+		"id": 1358226482804400000,
+		"id_str": "1358480319733587968",
+		"full_text": "Programming for Cats - 프로그래밍 적성 테스트 https://t.co/9GFknDr2tH \n- 당신도 프로그래머가 될수 있을까? 를 알아보는 9가지 질문\n- 프로그래밍 입문자를 위한 책의 샘플 챕터 + 수많은 고양이 삽화들\nㅤ→ 한글 번역 된다면 \"고양이도 할 수 있는 프로그래밍\" 정도가 될듯 \n\r...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9GFknDr2tH",
+					"expanded_url": "https://j.mp/3jnNzMV",
+					"display_url": "j.mp/3jnNzMV",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://news.hada.io\" rel=\"nofollow\">NewsHada</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149438140811116500,
+			"id_str": "1149438140811116544",
+			"name": "GeekNews",
+			"screen_name": "GeekNewsBot",
+			"location": "",
+			"description": "GeekNews 는 기술,개발,스타트업과 세상의 재미난 것들을 좋아하는 Geek들을 위한 뉴스사이트 입니다. 이 계정은 긱뉴스에 새로 등록된 뉴스들을 자동으로 트윗합니다",
+			"url": "https://t.co/Eeoeh5jF1C",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eeoeh5jF1C",
+							"expanded_url": "https://news.hada.io",
+							"display_url": "news.hada.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4851,
+			"friends_count": 0,
+			"listed_count": 80,
+			"created_at": "Thu Jul 11 21:59:43 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3607,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149438560795107329/F1-aa31C_normal.png",
+			"profile_link_color": "000065",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Programming for Cats - 프로그래밍 적성 테스트 https://t.co/9GFknDr2tH \n- 당신도 프로그래머가 될수 있을까? 를 알아보는 9가지 질문\n- 프로그래밍 입문자를 위한 책의 샘플 챕터 + 수많은 고양이 삽화들\nㅤ→ 한글 번역 된다면 \"고양이도 할 수 있는 프로그래밍\" 정도가 될듯 \n\r..."
+	},
+	{
+		"created_at": "Sun Feb 07 18:18:01 +0000 2021",
+		"id": 1358251645201772500,
+		"id_str": "1358480148849332224",
+		"full_text": "Intelligent Speaker - 품질 우수한 TTS 엔진을 탑재한 브라우저 확장도구 제공. 익명사용자도 즉시 텍스트 파일 첨부해 목소리 청취 \n 가능. 한국어 음성도 우수. 한 달에 1시간 분량 듣기 무료. 월7달러 요금 내면 한 달 24시간 분량 오디오 제공. https://t.co/f7eltEpyHK #lk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lk",
+					"indices": [
+						175,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f7eltEpyHK",
+					"expanded_url": "https://intelligent-speaker.com/",
+					"display_url": "intelligent-speaker.com",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14941102,
+			"id_str": "14941102",
+			"name": "서울비",
+			"screen_name": "seoulrain",
+			"location": "Seoul, South Korea",
+			"description": "개인취향 자료수집 계정입니다. 텔레그램 채널로 수시발행: https://t.co/nLevlm8cEH",
+			"url": "https://t.co/CmzdLuGwGe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CmzdLuGwGe",
+							"expanded_url": "http://seoulrain.net",
+							"display_url": "seoulrain.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nLevlm8cEH",
+							"expanded_url": "http://t.me/ththlink",
+							"display_url": "t.me/ththlink",
+							"indices": [
+								32,
+								55
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4146,
+			"friends_count": 3953,
+			"listed_count": 171,
+			"created_at": "Thu May 29 04:50:30 +0000 2008",
+			"favourites_count": 28356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ECCE74",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/745020971975860224/ZR9BJxCb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/745020971975860224/ZR9BJxCb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14941102/1469005647",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Intelligent Speaker - 품질 우수한 TTS 엔진을 탑재한 브라우저 확장도구 제공. 익명사용자도 즉시 텍스트 파일 첨부해 목소리 청취 \n 가능. 한국어 음성도 우수. 한 달에 1시간 분량 듣기 무료. 월7달러 요금 내면 한 달 24시간 분량 오디오 제공. https://t.co/f7eltEpyHK #lk"
+	},
+	{
+		"created_at": "Sun Feb 07 18:15:08 +0000 2021",
+		"id": 1358377636750192600,
+		"id_str": "1358479423272460290",
+		"full_text": "SNS의 또 다른 진화이자 분기. 트위터가 등장할 당시 현실 사회의 대화 문턱과 위계를 깼다는 점에서 해방적이었지만 불특정 다수에 의한 교란, 혼선을 해결하지 못한 한계에 직면. 이제 다시 적정한 사회/발언자/청중의 틀을 갖춘 소셜이 공백을 메우는 건데 현실의 경계와 위계로 회귀한다는 우려도.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1358373839487471600,
+		"in_reply_to_status_id_str": "1358373839487471619",
+		"in_reply_to_user_id": 27725896,
+		"in_reply_to_user_id_str": "27725896",
+		"in_reply_to_screen_name": "atmostbeautiful",
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102083,
+			"friends_count": 2382,
+			"listed_count": 319,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "SNS의 또 다른 진화이자 분기. 트위터가 등장할 당시 현실 사회의 대화 문턱과 위계를 깼다는 점에서 해방적이었지만 불특정 다수에 의한 교란, 혼선을 해결하지 못한 한계에 직면. 이제 다시 적정한 사회/발언자/청중의 틀을 갖춘 소셜이 공백을 메우는 건데 현실의 경계와 위계로 회귀한다는 우려도."
+	},
+	{
 		"created_at": "Sun Feb 07 16:02:05 +0000 2021",
 		"id": 1358431124490358800,
 		"id_str": "1358445941259395075",
