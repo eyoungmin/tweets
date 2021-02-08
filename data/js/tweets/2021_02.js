@@ -1,6 +1,165 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 08 16:02:06 +0000 2021",
+		"id": 1358801971210195000,
+		"id_str": "1358808330240720897",
+		"full_text": "[VIDEO] #최애돌 을 통해서 전해온 청하의 감사 인사 메세지!💚💙💜\n\n▶️ https://t.co/IrxxSSJMe3\n\n#청하 #CHUNGHA \n#CHUNGHA_Querencia \n#CHUNGHA_Bicycle \n#나의_안식처_청하야_생일_축하해",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최애돌",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "CHUNGHA_Querencia",
+					"indices": [
+						84,
+						102
+					]
+				},
+				{
+					"text": "CHUNGHA_Bicycle",
+					"indices": [
+						104,
+						120
+					]
+				},
+				{
+					"text": "나의_안식처_청하야_생일_축하해",
+					"indices": [
+						122,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IrxxSSJMe3",
+					"expanded_url": "https://youtu.be/v1Cr3Uyg9D8",
+					"display_url": "youtu.be/v1Cr3Uyg9D8",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜 'Querencia' PRE-ORDER 👉 https://t.co/6FjcqRIqMF",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6FjcqRIqMF",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								54,
+								77
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 313979,
+			"friends_count": 0,
+			"listed_count": 1906,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353580382994587648/zWJDlVAQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353580382994587648/zWJDlVAQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1611565202",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 472,
+		"favorite_count": 1759,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] #최애돌 을 통해서 전해온 청하의 감사 인사 메세지!💚💙💜\n\n▶️ https://t.co/IrxxSSJMe3\n\n#청하 #CHUNGHA \n#CHUNGHA_Querencia \n#CHUNGHA_Bicycle \n#나의_안식처_청하야_생일_축하해"
+	},
+	{
 		"created_at": "Mon Feb 08 15:45:37 +0000 2021",
 		"id": 1358804018189852700,
 		"id_str": "1358804185991565312",
