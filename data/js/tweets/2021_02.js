@@ -1,6 +1,863 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 08 11:01:07 +0000 2021",
+		"id": 1358649540685885400,
+		"id_str": "1358732585292025862",
+		"full_text": "제니 솔로- SOLO\n블랙핑크 정규 앨범- THE ALBUM\n블랙핑크 온라인 콘서트- THE SHOW\n와이지 오피스- THE OFFICE\n\nㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/0eVk71oe04",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1358649530120458200,
+					"id_str": "1358649530120458242",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EtrkjJkU0AIexNR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtrkjJkU0AIexNR.jpg",
+					"url": "https://t.co/0eVk71oe04",
+					"display_url": "pic.twitter.com/0eVk71oe04",
+					"expanded_url": "https://twitter.com/charming_chu_/status/1358649540685885441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1358649530120458200,
+					"id_str": "1358649530120458242",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EtrkjJkU0AIexNR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtrkjJkU0AIexNR.jpg",
+					"url": "https://t.co/0eVk71oe04",
+					"display_url": "pic.twitter.com/0eVk71oe04",
+					"expanded_url": "https://twitter.com/charming_chu_/status/1358649540685885441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1358649533639479300,
+					"id_str": "1358649533639479297",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EtrkjWrU0AEB1Bh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtrkjWrU0AEB1Bh.jpg",
+					"url": "https://t.co/0eVk71oe04",
+					"display_url": "pic.twitter.com/0eVk71oe04",
+					"expanded_url": "https://twitter.com/charming_chu_/status/1358649540685885441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1358649536764207000,
+					"id_str": "1358649536764207104",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EtrkjiUUYAAt-_D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtrkjiUUYAAt-_D.jpg",
+					"url": "https://t.co/0eVk71oe04",
+					"display_url": "pic.twitter.com/0eVk71oe04",
+					"expanded_url": "https://twitter.com/charming_chu_/status/1358649540685885441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1358649538832076800,
+					"id_str": "1358649538832076801",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EtrkjqBVkAEGsUe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtrkjqBVkAEGsUe.jpg",
+					"url": "https://t.co/0eVk71oe04",
+					"display_url": "pic.twitter.com/0eVk71oe04",
+					"expanded_url": "https://twitter.com/charming_chu_/status/1358649540685885441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 410,
+							"h": 215,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 410,
+							"h": 215,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 410,
+							"h": 215,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1194449914144575500,
+			"id_str": "1194449914144575489",
+			"name": "𝗽𝗼𝗹𝗹𝘆",
+			"screen_name": "charming_chu_",
+			"location": "토끼사랑단🤍",
+			"description": "#JISOO 푸슝뽀슝뿌슝포슝",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 843,
+			"friends_count": 365,
+			"listed_count": 4,
+			"created_at": "Wed Nov 13 03:00:36 +0000 2019",
+			"favourites_count": 7281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357196416607608832/WXEIm9cG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357196416607608832/WXEIm9cG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1194449914144575489/1612140906",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제니 솔로- SOLO\n블랙핑크 정규 앨범- THE ALBUM\n블랙핑크 온라인 콘서트- THE SHOW\n와이지 오피스- THE OFFICE\n\nㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/0eVk71oe04"
+	},
+	{
+		"created_at": "Mon Feb 08 10:46:28 +0000 2021",
+		"id": 1358574894447952000,
+		"id_str": "1358728900155613186",
+		"full_text": "#상상마당 #파트너사모집\n📍모 집 공 고📍\n안녕하세요! 새로운 상상마당 시네마를 함께 할 파트너사를 모집합니다.\n많은 분들의 관심과 지원 바랍니다.\n\n🟡접수 기간🟡\n• 2021년 2월 8일(월) ~ 3월 12일(금)\n\n📣자세한 내용은 상상마당 홈페이지를 확인하세요👀 (https://t.co/nW7zWfZ77j) https://t.co/QH6Iwqz5vc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상상마당",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "파트너사모집",
+					"indices": [
+						6,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nW7zWfZ77j",
+					"expanded_url": "http://bit.ly/2YUh934",
+					"display_url": "bit.ly/2YUh934",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1358574888202588200,
+					"id_str": "1358574888202588160",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EtqgqawU0AA2ttS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtqgqawU0AA2ttS.jpg",
+					"url": "https://t.co/QH6Iwqz5vc",
+					"display_url": "pic.twitter.com/QH6Iwqz5vc",
+					"expanded_url": "https://twitter.com/SSmadang/status/1358574894447951874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1358574888202588200,
+					"id_str": "1358574888202588160",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EtqgqawU0AA2ttS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtqgqawU0AA2ttS.jpg",
+					"url": "https://t.co/QH6Iwqz5vc",
+					"display_url": "pic.twitter.com/QH6Iwqz5vc",
+					"expanded_url": "https://twitter.com/SSmadang/status/1358574894447951874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18220,
+			"friends_count": 1897,
+			"listed_count": 291,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#상상마당 #파트너사모집\n📍모 집 공 고📍\n안녕하세요! 새로운 상상마당 시네마를 함께 할 파트너사를 모집합니다.\n많은 분들의 관심과 지원 바랍니다.\n\n🟡접수 기간🟡\n• 2021년 2월 8일(월) ~ 3월 12일(금)\n\n📣자세한 내용은 상상마당 홈페이지를 확인하세요👀 (https://t.co/nW7zWfZ77j) https://t.co/QH6Iwqz5vc"
+	},
+	{
+		"created_at": "Mon Feb 08 10:46:24 +0000 2021",
+		"id": 1358707453605552000,
+		"id_str": "1358728884989038594",
+		"full_text": "이게 왜 문제냐면요. 상상마당시네마 운영하던 영화사업팀 말 안 듣는다고 전부 권고사직 시키고, 버티는 팀장 논산 캠핑장으로 발령 보내고, 영사실장은 1층 편집샵으로 보내고나서 \"상상마당 시네마는 없어지지 않습니다\"라고 해놓고 2년 계약 조건으로 하청을 주는 거에요. 장난하세요? https://t.co/9GwV3Mx7Bt https://t.co/yjDpmCzNGr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9GwV3Mx7Bt",
+					"expanded_url": "https://twitter.com/SSmadang/status/1358574894447951874",
+					"display_url": "twitter.com/SSmadang/statu…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1358707373624361000,
+					"id_str": "1358707373624360965",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/EtsZKFaVgAU1k7D.png",
+					"media_url_https": "https://pbs.twimg.com/media/EtsZKFaVgAU1k7D.png",
+					"url": "https://t.co/yjDpmCzNGr",
+					"display_url": "pic.twitter.com/yjDpmCzNGr",
+					"expanded_url": "https://twitter.com/boraleekil/status/1358707453605552128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 562,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 318,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 678,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1358707373624361000,
+					"id_str": "1358707373624360965",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/EtsZKFaVgAU1k7D.png",
+					"media_url_https": "https://pbs.twimg.com/media/EtsZKFaVgAU1k7D.png",
+					"url": "https://t.co/yjDpmCzNGr",
+					"display_url": "pic.twitter.com/yjDpmCzNGr",
+					"expanded_url": "https://twitter.com/boraleekil/status/1358707453605552128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 562,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 318,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 678,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2776030484,
+			"id_str": "2776030484",
+			"name": "Bora Lee-Kil 이길보라",
+			"screen_name": "boraleekil",
+			"location": "Seoul, Republic of Korea",
+			"description": "CODAㅣARTIST Film. 반짝이는 박수 소리(2014) 기억의 전쟁(2018) 우리의 몸(work-in-progress) Publication. 길은 학교다(2009) 반짝이는 박수 소리(2015) 해보지 않으면 알 수 없어서(2020) nomadbora@gmail.com",
+			"url": "https://t.co/UqtVjuwMKE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UqtVjuwMKE",
+							"expanded_url": "http://www.boraleekil.com",
+							"display_url": "boraleekil.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3289,
+			"friends_count": 664,
+			"listed_count": 7,
+			"created_at": "Thu Aug 28 08:39:01 +0000 2014",
+			"favourites_count": 2686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6317,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214927659672592384/UT29GaE0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214927659672592384/UT29GaE0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2776030484/1596357747",
+			"profile_link_color": "0F5403",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1358574894447952000,
+		"quoted_status_id_str": "1358574894447951874",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9GwV3Mx7Bt",
+			"expanded": "https://twitter.com/SSmadang/status/1358574894447951874",
+			"display": "twitter.com/SSmadang/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 08 00:34:30 +0000 2021",
+			"id": 1358574894447952000,
+			"id_str": "1358574894447951874",
+			"full_text": "#상상마당 #파트너사모집\n📍모 집 공 고📍\n안녕하세요! 새로운 상상마당 시네마를 함께 할 파트너사를 모집합니다.\n많은 분들의 관심과 지원 바랍니다.\n\n🟡접수 기간🟡\n• 2021년 2월 8일(월) ~ 3월 12일(금)\n\n📣자세한 내용은 상상마당 홈페이지를 확인하세요👀 (https://t.co/nW7zWfZ77j) https://t.co/QH6Iwqz5vc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				174
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "상상마당",
+						"indices": [
+							0,
+							5
+						]
+					},
+					{
+						"text": "파트너사모집",
+						"indices": [
+							6,
+							13
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nW7zWfZ77j",
+						"expanded_url": "http://bit.ly/2YUh934",
+						"display_url": "bit.ly/2YUh934",
+						"indices": [
+							150,
+							173
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1358574888202588200,
+						"id_str": "1358574888202588160",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/EtqgqawU0AA2ttS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EtqgqawU0AA2ttS.jpg",
+						"url": "https://t.co/QH6Iwqz5vc",
+						"display_url": "pic.twitter.com/QH6Iwqz5vc",
+						"expanded_url": "https://twitter.com/SSmadang/status/1358574894447951874/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 700,
+								"h": 700,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 700,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1358574888202588200,
+						"id_str": "1358574888202588160",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/EtqgqawU0AA2ttS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EtqgqawU0AA2ttS.jpg",
+						"url": "https://t.co/QH6Iwqz5vc",
+						"display_url": "pic.twitter.com/QH6Iwqz5vc",
+						"expanded_url": "https://twitter.com/SSmadang/status/1358574894447951874/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 700,
+								"h": 700,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 700,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 110358280,
+				"id_str": "110358280",
+				"name": "KT&G 상상마당",
+				"screen_name": "SSmadang",
+				"location": "서울 홍대 (Hongdae, Seoul)",
+				"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+				"url": "https://t.co/zkpyp6uMPi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zkpyp6uMPi",
+								"expanded_url": "http://sangsangmadang.com",
+								"display_url": "sangsangmadang.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18220,
+				"friends_count": 1897,
+				"listed_count": 291,
+				"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+				"favourites_count": 503,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9399,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+				"profile_link_color": "242D8C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "595959",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1022,
+		"favorite_count": 146,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이게 왜 문제냐면요. 상상마당시네마 운영하던 영화사업팀 말 안 듣는다고 전부 권고사직 시키고, 버티는 팀장 논산 캠핑장으로 발령 보내고, 영사실장은 1층 편집샵으로 보내고나서 \"상상마당 시네마는 없어지지 않습니다\"라고 해놓고 2년 계약 조건으로 하청을 주는 거에요. 장난하세요? https://t.co/9GwV3Mx7Bt https://t.co/yjDpmCzNGr"
+	},
+	{
 		"created_at": "Mon Feb 08 09:56:49 +0000 2021",
 		"id": 1358716405546438700,
 		"id_str": "1358716405546438656",
