@@ -1,6 +1,747 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 08 03:29:39 +0000 2021",
+		"id": 1358612041670398000,
+		"id_str": "1358618970673340419",
+		"full_text": "[임윤아] 그날이 오고야 말았습니다.\n\n👉🏻https://t.co/W4Fp7x7k34\n\n#LIMYOONA #임윤아 #소녀시대 #GirlsGeneration #허쉬 #HUSH #이지수",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						49,
+						58
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						70,
+						86
+					]
+				},
+				{
+					"text": "허쉬",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "HUSH",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "이지수",
+					"indices": [
+						97,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W4Fp7x7k34",
+					"expanded_url": "http://naver.me/58H91LwW",
+					"display_url": "naver.me/58H91LwW",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3635461,
+			"friends_count": 4,
+			"listed_count": 5208,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 716,
+		"favorite_count": 1905,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[임윤아] 그날이 오고야 말았습니다.\n\n👉🏻https://t.co/W4Fp7x7k34\n\n#LIMYOONA #임윤아 #소녀시대 #GirlsGeneration #허쉬 #HUSH #이지수"
+	},
+	{
+		"created_at": "Mon Feb 08 03:27:57 +0000 2021",
+		"id": 1358611510860386300,
+		"id_str": "1358618543298854912",
+		"full_text": "애정 표현이 어려운🤧 #웬디 와\n가족 앞에서는 애교王인 #규현💓  \n\n▶매주 금요일 밤 9시 &lt;#배달가요_신비한레코드샵&gt; https://t.co/ELL3KsT7kz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						12,
+						15
+					]
+				},
+				{
+					"text": "규현",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "배달가요_신비한레코드샵",
+					"indices": [
+						56,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1358592246812053500,
+					"id_str": "1358592246812053505",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EtqwtnHU0AAGVCE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtqwtnHU0AAGVCE.jpg",
+					"url": "https://t.co/ELL3KsT7kz",
+					"display_url": "pic.twitter.com/ELL3KsT7kz",
+					"expanded_url": "https://twitter.com/jtbclove/status/1358611510860386308/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1358592246812053500,
+					"id_str": "1358592246812053505",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EtqwtnHU0AAGVCE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtqwtnHU0AAGVCE.jpg",
+					"url": "https://t.co/ELL3KsT7kz",
+					"display_url": "pic.twitter.com/ELL3KsT7kz",
+					"expanded_url": "https://twitter.com/jtbclove/status/1358611510860386308/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 86887,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1358592246812053505/pl/prAhM1xA2Yywl97f.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1358592246812053505/vid/640x360/FIfKYbruO0oFrUiy.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1358592246812053505/vid/1280x720/OYZvHeBxJ-X1-NC_.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1358592246812053505/vid/480x270/QqJ_TnvMctXx58JT.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[배달가요-신비한 레코드샵] \"아빠 나둥~♥\" 가족 앞에서는 애교쟁이 아들 규현 | JTBC 210205 방송",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://tv.naver.com/v/18341626"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 438928,
+			"friends_count": 110,
+			"listed_count": 655,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1610497817",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 217,
+		"favorite_count": 300,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "애정 표현이 어려운🤧 #웬디 와\n가족 앞에서는 애교王인 #규현💓  \n\n▶매주 금요일 밤 9시 &lt;#배달가요_신비한레코드샵&gt; https://t.co/ELL3KsT7kz"
+	},
+	{
+		"created_at": "Mon Feb 08 03:02:10 +0000 2021",
+		"id": 1358611512265371600,
+		"id_str": "1358612053620121602",
+		"full_text": "[이달의소녀탐구 #708]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA\n\n📸 ’2021 이달의 소녀 (LOOПΔ) 2nd Season’s Greetings’은 현재 BlockBerryCreative SHOP에서 판매되고 있습니다. https://t.co/jOYZRSWa6C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀탐구",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "loonatv",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1357577043748159500,
+					"id_str": "1357577043748159489",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1357577043748159489/pu/img/61IK3Hin8bi04W8P.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1357577043748159489/pu/img/61IK3Hin8bi04W8P.jpg",
+					"url": "https://t.co/jOYZRSWa6C",
+					"display_url": "pic.twitter.com/jOYZRSWa6C",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1358611512265371648/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357577043748159500,
+					"id_str": "1357577043748159489",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1357577043748159489/pu/img/61IK3Hin8bi04W8P.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1357577043748159489/pu/img/61IK3Hin8bi04W8P.jpg",
+					"url": "https://t.co/jOYZRSWa6C",
+					"display_url": "pic.twitter.com/jOYZRSWa6C",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1358611512265371648/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60561,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1357577043748159489/pu/vid/640x360/i3qo6CkAWU16fJoc.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1357577043748159489/pu/vid/480x270/3gNtAckX8UuJk76o.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1357577043748159489/pu/vid/1280x720/NoU-SLLT2NMYKlib.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1357577043748159489/pu/pl/sIguwZv01Gmkf-Ig.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 640628,
+			"friends_count": 0,
+			"listed_count": 6592,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1787,
+		"favorite_count": 6078,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀탐구 #708]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA\n\n📸 ’2021 이달의 소녀 (LOOПΔ) 2nd Season’s Greetings’은 현재 BlockBerryCreative SHOP에서 판매되고 있습니다. https://t.co/jOYZRSWa6C"
+	},
+	{
+		"created_at": "Mon Feb 08 03:02:05 +0000 2021",
+		"id": 1357630100813021200,
+		"id_str": "1358612036293427200",
+		"full_text": "LOONA are only the second K-pop girl group to do so https://t.co/aYYO42WajO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aYYO42WajO",
+					"expanded_url": "http://ow.ly/MyRh50Ds4il",
+					"display_url": "ow.ly/MyRh50Ds4il",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19063323,
+			"id_str": "19063323",
+			"name": "NME",
+			"screen_name": "NME",
+			"location": "London",
+			"description": "The world’s defining voice in music and pop culture: breaking what’s new and what’s next since 1952. Follow us for news, interviews and more: https://t.co/e8f6nn0SSj",
+			"url": "https://t.co/A278qJqyA1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A278qJqyA1",
+							"expanded_url": "http://www.nme.com",
+							"display_url": "nme.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8f6nn0SSj",
+							"expanded_url": "http://bnd.link/nme",
+							"display_url": "bnd.link/nme",
+							"indices": [
+								142,
+								165
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 904835,
+			"friends_count": 3243,
+			"listed_count": 14332,
+			"created_at": "Fri Jan 16 11:52:57 +0000 2009",
+			"favourites_count": 3909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 218913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268111341673312262/inm0djQ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268111341673312262/inm0djQ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19063323/1612515652",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EDF0F8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3002,
+		"favorite_count": 11146,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LOONA are only the second K-pop girl group to do so https://t.co/aYYO42WajO"
+	},
+	{
 		"created_at": "Mon Feb 08 03:01:03 +0000 2021",
 		"id": 1358611775340617700,
 		"id_str": "1358611775340617728",
