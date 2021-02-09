@@ -1,6 +1,272 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 09 08:02:06 +0000 2021",
+		"id": 1359034798543634400,
+		"id_str": "1359049923568623617",
+		"full_text": "음악으로 우리를 춤추게 만드는 \nChung Ha(@CHUNGHA_MNHent)와 함께 \n스포티파이 한국 런칭을 축하해 주세요!\nChung Ha와 함께 스포티파이에서\n당신을 춤추게 할 노래를 찾아보세요.\n\n#SpotifyKR #GlobalMusicPlatform\n#글로벌뮤직플랫폼 \n#스포티파이 #안녕스포티파이\n#CHUNGHA #청하 https://t.co/HF4qKvIJjG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SpotifyKR",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"text": "GlobalMusicPlatform",
+					"indices": [
+						125,
+						145
+					]
+				},
+				{
+					"text": "글로벌뮤직플랫폼",
+					"indices": [
+						146,
+						155
+					]
+				},
+				{
+					"text": "스포티파이",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "안녕스포티파이",
+					"indices": [
+						164,
+						172
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						173,
+						181
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						182,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						27,
+						42
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1358609859919241200,
+					"id_str": "1358609859919241216",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1358609859919241216/pu/img/eSMXYDHXXHkzRJcN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1358609859919241216/pu/img/eSMXYDHXXHkzRJcN.jpg",
+					"url": "https://t.co/HF4qKvIJjG",
+					"display_url": "pic.twitter.com/HF4qKvIJjG",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1359034798543634435/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1358609859919241200,
+					"id_str": "1358609859919241216",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1358609859919241216/pu/img/eSMXYDHXXHkzRJcN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1358609859919241216/pu/img/eSMXYDHXXHkzRJcN.jpg",
+					"url": "https://t.co/HF4qKvIJjG",
+					"display_url": "pic.twitter.com/HF4qKvIJjG",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1359034798543634435/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 30447,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1358609859919241216/pu/vid/540x540/qzMOjrtmwtL7V4kD.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1358609859919241216/pu/vid/320x320/xKMfuGEaw0ScBZlS.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1358609859919241216/pu/pl/TYljJvocUH6hony0.m3u8?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1358609859919241216/pu/vid/720x720/gec7zE6DHZCMCBYW.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1207908245118963700,
+			"id_str": "1207908245118963712",
+			"name": "Spotify Korea",
+			"screen_name": "SpotifyKR",
+			"location": "",
+			"description": "Spotify Korea 공식 계정\n언제 어디서나 음악과 함께.\n새로운 음악을 발견하고, 듣고, 공유해보세요!",
+			"url": "https://t.co/wO2qjsJlaO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wO2qjsJlaO",
+							"expanded_url": "https://www.spotify.com/kr-ko",
+							"display_url": "spotify.com/kr-ko",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16399,
+			"friends_count": 0,
+			"listed_count": 21,
+			"created_at": "Fri Dec 20 06:19:10 +0000 2019",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 45,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1207908245118963712/1611891505",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 333,
+		"favorite_count": 1332,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "음악으로 우리를 춤추게 만드는 \nChung Ha(@CHUNGHA_MNHent)와 함께 \n스포티파이 한국 런칭을 축하해 주세요!\nChung Ha와 함께 스포티파이에서\n당신을 춤추게 할 노래를 찾아보세요.\n\n#SpotifyKR #GlobalMusicPlatform\n#글로벌뮤직플랫폼 \n#스포티파이 #안녕스포티파이\n#CHUNGHA #청하 https://t.co/HF4qKvIJjG"
+	},
+	{
 		"created_at": "Tue Feb 09 07:45:37 +0000 2021",
 		"id": 1359037501361463300,
 		"id_str": "1359045777599954945",
