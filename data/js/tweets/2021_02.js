@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 09 15:45:46 +0000 2021",
+		"id": 1359155300876640300,
+		"id_str": "1359166609504493571",
+		"full_text": "She's in our mind, she's in our dreams.\nWe're freaking out because it's her birthday🥳🎊! Happy birthday to @loonatheworld's unforgettable eclipse #KIMLIP!\n\nMay you have the happiest day, week, month, year and forever 🦉KIM LIP!🦉\nhttps://t.co/pXofeB7TZk\n\n#HappyKimLipDay #LOONA https://t.co/9Qsd62Pck9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KIMLIP",
+					"indices": [
+						145,
+						152
+					]
+				},
+				{
+					"text": "HappyKimLipDay",
+					"indices": [
+						252,
+						267
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						268,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						106,
+						120
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pXofeB7TZk",
+					"expanded_url": "https://www.youtube.com/watch?v=zW-AIXAnLcE",
+					"display_url": "youtube.com/watch?v=zW-AIX…",
+					"indices": [
+						227,
+						250
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1359155279246594000,
+					"id_str": "1359155279246594054",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Etywhn4XEAYuoWE.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Etywhn4XEAYuoWE.jpg",
+					"url": "https://t.co/9Qsd62Pck9",
+					"display_url": "pic.twitter.com/9Qsd62Pck9",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1359155300876640257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359155279246594000,
+					"id_str": "1359155279246594054",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Etywhn4XEAYuoWE.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Etywhn4XEAYuoWE.jpg",
+					"url": "https://t.co/9Qsd62Pck9",
+					"display_url": "pic.twitter.com/9Qsd62Pck9",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1359155300876640257/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Etywhn4XEAYuoWE.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. \nSTOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 130107,
+			"friends_count": 111,
+			"listed_count": 265,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26199,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1592014887",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 210,
+		"favorite_count": 561,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "She's in our mind, she's in our dreams.\nWe're freaking out because it's her birthday🥳🎊! Happy birthday to @loonatheworld's unforgettable eclipse #KIMLIP!\n\nMay you have the happiest day, week, month, year and forever 🦉KIM LIP!🦉\nhttps://t.co/pXofeB7TZk\n\n#HappyKimLipDay #LOONA https://t.co/9Qsd62Pck9"
+	},
+	{
 		"created_at": "Tue Feb 09 15:07:07 +0000 2021",
 		"id": 1359156884826173400,
 		"id_str": "1359156884826173447",
