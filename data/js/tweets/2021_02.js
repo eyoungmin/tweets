@@ -1,6 +1,1344 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 09 15:01:44 +0000 2021",
+		"id": 1359155530267263000,
+		"id_str": "1359155530267262976",
+		"full_text": "클럽하우스를 왜 이런 것으로 쓰는걸까 스치듯 아주아주 잠깐 생각했다. 다양한 앱이 있지만 찾아보진 않고 유명하고 힙한 앱으로 할 수 있으면 하기 때문.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1040,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44755,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "클럽하우스를 왜 이런 것으로 쓰는걸까 스치듯 아주아주 잠깐 생각했다. 다양한 앱이 있지만 찾아보진 않고 유명하고 힙한 앱으로 할 수 있으면 하기 때문."
+	},
+	{
+		"created_at": "Tue Feb 09 14:59:56 +0000 2021",
+		"id": 1359112663406579700,
+		"id_str": "1359155077198536705",
+		"full_text": "클럽하우스의 백엔드를 담당하는 것으로 알려진 곳은 베이징에 본사를 둔 Agora라는 기업. 여기는 2014년부터 Shunwei Capital이라는 벤처회사로부터 투자를 받았는데, 여기는 샤오미 그룹 산하의 투자사. 아이폰에 녹음이 안 된다고 해도 사실상 데이터를 중국 정부가 들여다볼 수 있을 거라는 것.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1359112661460422700,
+		"in_reply_to_status_id_str": "1359112661460422656",
+		"in_reply_to_user_id": 35781837,
+		"in_reply_to_user_id_str": "35781837",
+		"in_reply_to_screen_name": "dennoch1919",
+		"user": {
+			"id": 35781837,
+			"id_str": "35781837",
+			"name": "dennoch",
+			"screen_name": "dennoch1919",
+			"location": "Seoul, South Korea",
+			"description": "千門萬戶曈曈日",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3811,
+			"friends_count": 394,
+			"listed_count": 29,
+			"created_at": "Mon Apr 27 16:15:57 +0000 2009",
+			"favourites_count": 6586,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1064083726928203777/N6EMQwyz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064083726928203777/N6EMQwyz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35781837/1542530531",
+			"profile_link_color": "001871",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 606,
+		"favorite_count": 180,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "클럽하우스의 백엔드를 담당하는 것으로 알려진 곳은 베이징에 본사를 둔 Agora라는 기업. 여기는 2014년부터 Shunwei Capital이라는 벤처회사로부터 투자를 받았는데, 여기는 샤오미 그룹 산하의 투자사. 아이폰에 녹음이 안 된다고 해도 사실상 데이터를 중국 정부가 들여다볼 수 있을 거라는 것."
+	},
+	{
+		"created_at": "Tue Feb 09 14:59:53 +0000 2021",
+		"id": 1359155061784461300,
+		"id_str": "1359155061784461313",
+		"full_text": "근데 이 글을 적어서 보관해두고 있었는데 방금 이 트윗을 봄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1040,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44755,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "근데 이 글을 적어서 보관해두고 있었는데 방금 이 트윗을 봄"
+	},
+	{
+		"created_at": "Tue Feb 09 14:58:28 +0000 2021",
+		"id": 1359154704991867000,
+		"id_str": "1359154704991866880",
+		"full_text": "중국에서 클럽하우스 유사 앱이 나온다면 그것은 함정일 가능성이 클 것이다. 애초에 허용해주지 않겠지만 된다면 쳐다도 보지 말아야할듯. 시간이 지나고 터지는 기능을 뺀다고 하더라도 내부로 남겨서 들여다보면 방법이 없음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1040,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44755,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "중국에서 클럽하우스 유사 앱이 나온다면 그것은 함정일 가능성이 클 것이다. 애초에 허용해주지 않겠지만 된다면 쳐다도 보지 말아야할듯. 시간이 지나고 터지는 기능을 뺀다고 하더라도 내부로 남겨서 들여다보면 방법이 없음."
+	},
+	{
+		"created_at": "Tue Feb 09 14:51:23 +0000 2021",
+		"id": 1359143550978384000,
+		"id_str": "1359152925403193346",
+		"full_text": "&lt;윤희에게&gt; 임대형 감독님, 41회 청룡영화상 감독상 수상 축하드립니다 🎉🎉🎉 https://t.co/c0zxkM6mUU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1359143427095416800,
+					"id_str": "1359143427095416833",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359143427095416833/pu/img/68DQC3dLcbSLcCVI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359143427095416833/pu/img/68DQC3dLcbSLcCVI.jpg",
+					"url": "https://t.co/c0zxkM6mUU",
+					"display_url": "pic.twitter.com/c0zxkM6mUU",
+					"expanded_url": "https://twitter.com/IndieSpace_kr/status/1359143550978383873/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 716,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359143427095416800,
+					"id_str": "1359143427095416833",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359143427095416833/pu/img/68DQC3dLcbSLcCVI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359143427095416833/pu/img/68DQC3dLcbSLcCVI.jpg",
+					"url": "https://t.co/c0zxkM6mUU",
+					"display_url": "pic.twitter.com/c0zxkM6mUU",
+					"expanded_url": "https://twitter.com/IndieSpace_kr/status/1359143550978383873/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 716,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							179
+						],
+						"duration_millis": 38555,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359143427095416833/pu/vid/642x360/k_FL4GyEdo5DWxXc.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359143427095416833/pu/vid/1280x716/GbSfZmH2A0gZ8CXc.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1359143427095416833/pu/pl/rfmdvvz8Lfmpj-x3.m3u8?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359143427095416833/pu/vid/482x270/wwEQUFhbBiqQ6Tcu.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114669821,
+			"id_str": "114669821",
+			"name": "인디스페이스 indiespace",
+			"screen_name": "IndieSpace_kr",
+			"location": "서울 종로구 돈화문로 13 서울극장 내",
+			"description": "서로를 이해하는 가장 솔직한 방법✨\n우리를 만나는 영화관, 인디스페이스✨",
+			"url": "https://t.co/v1IrWmRucc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v1IrWmRucc",
+							"expanded_url": "http://indiespace.kr",
+							"display_url": "indiespace.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36042,
+			"friends_count": 19792,
+			"listed_count": 390,
+			"created_at": "Tue Feb 16 06:35:40 +0000 2010",
+			"favourites_count": 2200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245225692490391552/9xquS9H0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245225692490391552/9xquS9H0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114669821/1585719337",
+			"profile_link_color": "DC143C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;윤희에게&gt; 임대형 감독님, 41회 청룡영화상 감독상 수상 축하드립니다 🎉🎉🎉 https://t.co/c0zxkM6mUU"
+	},
+	{
+		"created_at": "Tue Feb 09 14:51:18 +0000 2021",
+		"id": 1359144373573673000,
+		"id_str": "1359152902095462400",
+		"full_text": "#윤희에게 🏳️‍🌈🏳️‍⚧️ https://t.co/JkwgiLLqdB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤희에게",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1359144367278051300,
+					"id_str": "1359144367278051331",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/EtymmdoU0AMDeWJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtymmdoU0AMDeWJ.jpg",
+					"url": "https://t.co/JkwgiLLqdB",
+					"display_url": "pic.twitter.com/JkwgiLLqdB",
+					"expanded_url": "https://twitter.com/IndieSpace_kr/status/1359144373573672966/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359144367278051300,
+					"id_str": "1359144367278051331",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/EtymmdoU0AMDeWJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtymmdoU0AMDeWJ.jpg",
+					"url": "https://t.co/JkwgiLLqdB",
+					"display_url": "pic.twitter.com/JkwgiLLqdB",
+					"expanded_url": "https://twitter.com/IndieSpace_kr/status/1359144373573672966/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1359143550978384000,
+		"in_reply_to_status_id_str": "1359143550978383873",
+		"in_reply_to_user_id": 114669821,
+		"in_reply_to_user_id_str": "114669821",
+		"in_reply_to_screen_name": "IndieSpace_kr",
+		"user": {
+			"id": 114669821,
+			"id_str": "114669821",
+			"name": "인디스페이스 indiespace",
+			"screen_name": "IndieSpace_kr",
+			"location": "서울 종로구 돈화문로 13 서울극장 내",
+			"description": "서로를 이해하는 가장 솔직한 방법✨\n우리를 만나는 영화관, 인디스페이스✨",
+			"url": "https://t.co/v1IrWmRucc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v1IrWmRucc",
+							"expanded_url": "http://indiespace.kr",
+							"display_url": "indiespace.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36042,
+			"friends_count": 19792,
+			"listed_count": 390,
+			"created_at": "Tue Feb 16 06:35:40 +0000 2010",
+			"favourites_count": 2200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245225692490391552/9xquS9H0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245225692490391552/9xquS9H0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114669821/1585719337",
+			"profile_link_color": "DC143C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 103,
+		"favorite_count": 84,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#윤희에게 🏳️‍🌈🏳️‍⚧️ https://t.co/JkwgiLLqdB"
+	},
+	{
+		"created_at": "Tue Feb 09 14:49:17 +0000 2021",
+		"id": 1359152395238994000,
+		"id_str": "1359152395238993928",
+		"full_text": "#박제\n연합뉴스 손현규 https://t.co/auYGWbNPr6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박제",
+					"indices": [
+						0,
+						3
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/auYGWbNPr6",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1358702111614111744",
+					"display_url": "twitter.com/yonhaptweet/st…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1040,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44755,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1358702111614111700,
+		"quoted_status_id_str": "1358702111614111744",
+		"quoted_status_permalink": {
+			"url": "https://t.co/auYGWbNPr6",
+			"expanded": "https://twitter.com/yonhaptweet/status/1358702111614111744",
+			"display": "twitter.com/yonhaptweet/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 08 09:00:01 +0000 2021",
+			"id": 1358702111614111700,
+			"id_str": "1358702111614111744",
+			"full_text": "여자화장실 따라가 '묻지마' 벽돌 폭행…살인미수 인정\nhttps://t.co/eUBLbME943\n\n새벽 시간에 길에서 처음 본 10대 여성을 건물 여자 화장실까지 뒤따라간 뒤 벽돌로 머리를 내리쳐 살해하려 한 40대 회사원이 실형을 선고받았습니다. https://t.co/9poVQKkqBf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eUBLbME943",
+						"expanded_url": "https://www.yna.co.kr/view/AKR20210208111600065?input=tw",
+						"display_url": "yna.co.kr/view/AKR202102…",
+						"indices": [
+							30,
+							53
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1358674693486649300,
+						"id_str": "1358674693486649344",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/media/Etr7b2aVoAAxl3H.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Etr7b2aVoAAxl3H.jpg",
+						"url": "https://t.co/9poVQKkqBf",
+						"display_url": "pic.twitter.com/9poVQKkqBf",
+						"expanded_url": "https://twitter.com/yonhaptweet/status/1358702111614111744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 369,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 380,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 380,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1358674693486649300,
+						"id_str": "1358674693486649344",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/media/Etr7b2aVoAAxl3H.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Etr7b2aVoAAxl3H.jpg",
+						"url": "https://t.co/9poVQKkqBf",
+						"display_url": "pic.twitter.com/9poVQKkqBf",
+						"expanded_url": "https://twitter.com/yonhaptweet/status/1358702111614111744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 369,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 380,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 380,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 147451838,
+				"id_str": "147451838",
+				"name": "연합뉴스",
+				"screen_name": "yonhaptweet",
+				"location": "대한민국 서울",
+				"description": "[홈페이지] https://t.co/1xjsaY9KNh  \n제보는 카카오톡, 라인, 위챗 okjebo",
+				"url": "https://t.co/1xjsaY9KNh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1xjsaY9KNh",
+								"expanded_url": "https://www.yna.co.kr",
+								"display_url": "yna.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1xjsaY9KNh",
+								"expanded_url": "https://www.yna.co.kr",
+								"display_url": "yna.co.kr",
+								"indices": [
+									7,
+									30
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 324638,
+				"friends_count": 69092,
+				"listed_count": 4482,
+				"created_at": "Mon May 24 05:08:01 +0000 2010",
+				"favourites_count": 215,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 229061,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1548822583",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 959,
+			"favorite_count": 120,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#박제\n연합뉴스 손현규 https://t.co/auYGWbNPr6"
+	},
+	{
+		"created_at": "Tue Feb 09 14:45:40 +0000 2021",
+		"id": 1359144094493151200,
+		"id_str": "1359151486073253890",
+		"full_text": "[#VPICK] 울 콩알병아리 호그와트라도 다시 입학시켜주세요🐣💦 (YEOJIN’s graduation V!)\n\n▶️ https://t.co/kMl6Y5ivKD\n\n#LOONA #이달의소녀 #VLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VPICK",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						105,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kMl6Y5ivKD",
+					"expanded_url": "https://www.vlive.tv/post/0-21200945",
+					"display_url": "vlive.tv/post/0-21200945",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5244593,
+			"friends_count": 167,
+			"listed_count": 2023,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14791,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 732,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VPICK] 울 콩알병아리 호그와트라도 다시 입학시켜주세요🐣💦 (YEOJIN’s graduation V!)\n\n▶️ https://t.co/kMl6Y5ivKD\n\n#LOONA #이달의소녀 #VLIVE"
+	},
+	{
+		"created_at": "Tue Feb 09 14:27:57 +0000 2021",
+		"id": 1359144287343026200,
+		"id_str": "1359147026202693632",
+		"full_text": "[#VPICK] 제 고민은 울 옒 너무 사랑하는 거.. 해결할 생각은 없어요 (YERI’s problem solving time with book)\n\n▶️ https://t.co/02YKTURNOT\n\n#RedVelvet #레드벨벳 #VLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VPICK",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						112,
+						122
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						129,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/02YKTURNOT",
+					"expanded_url": "https://www.vlive.tv/post/1-21218021",
+					"display_url": "vlive.tv/post/1-21218021",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5244593,
+			"friends_count": 167,
+			"listed_count": 2023,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14791,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 376,
+		"favorite_count": 1483,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VPICK] 제 고민은 울 옒 너무 사랑하는 거.. 해결할 생각은 없어요 (YERI’s problem solving time with book)\n\n▶️ https://t.co/02YKTURNOT\n\n#RedVelvet #레드벨벳 #VLIVE"
+	},
+	{
 		"created_at": "Tue Feb 09 13:02:14 +0000 2021",
 		"id": 1359124923982094300,
 		"id_str": "1359125454083526660",
