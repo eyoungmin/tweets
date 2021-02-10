@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 10 15:02:09 +0000 2021",
+		"id": 1359517563554721800,
+		"id_str": "1359518019911827456",
+		"full_text": "HAPPY BIRTHDAY ROSÉ 🎉\n✅ 2021.02.11\n\n#BLACKPINK #블랙핑크 #ROSÉ #로제 #HAPPYBIRTHDAY #20210211 #YG https://t.co/5jFaVpm0Hz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						36,
+						46
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						47,
+						52
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "HAPPYBIRTHDAY",
+					"indices": [
+						63,
+						77
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						88,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1359515309296676900,
+					"id_str": "1359515309296676864",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/Et33-IVVcAA8-Vw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et33-IVVcAA8-Vw.jpg",
+					"url": "https://t.co/5jFaVpm0Hz",
+					"display_url": "pic.twitter.com/5jFaVpm0Hz",
+					"expanded_url": "https://twitter.com/ygent_official/status/1359517563554721796/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359515309296676900,
+					"id_str": "1359515309296676864",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/Et33-IVVcAA8-Vw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et33-IVVcAA8-Vw.jpg",
+					"url": "https://t.co/5jFaVpm0Hz",
+					"display_url": "pic.twitter.com/5jFaVpm0Hz",
+					"expanded_url": "https://twitter.com/ygent_official/status/1359517563554721796/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7308953,
+			"friends_count": 38,
+			"listed_count": 7699,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55489,
+		"favorite_count": 99679,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HAPPY BIRTHDAY ROSÉ 🎉\n✅ 2021.02.11\n\n#BLACKPINK #블랙핑크 #ROSÉ #로제 #HAPPYBIRTHDAY #20210211 #YG https://t.co/5jFaVpm0Hz"
+	},
+	{
 		"created_at": "Wed Feb 10 14:58:59 +0000 2021",
 		"id": 1359517223291736000,
 		"id_str": "1359517223291736067",
