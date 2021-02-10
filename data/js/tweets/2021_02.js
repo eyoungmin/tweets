@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 10 05:45:37 +0000 2021",
+		"id": 1359369080298328000,
+		"id_str": "1359377963276505089",
+		"full_text": "립이눈나 생일 추카해~🐵\n\n#오늘은_김립_생일\n#KimLipDay \n#HappyKimLipDay\n🦉정은날 정은시🦉\n@loonatheworld https://t.co/r4n3o8VNE0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오늘은_김립_생일",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"text": "KimLipDay",
+					"indices": [
+						26,
+						36
+					]
+				},
+				{
+					"text": "HappyKimLipDay",
+					"indices": [
+						38,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						64,
+						78
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1359369013839597600,
+					"id_str": "1359369013839597570",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359369013839597570/pu/img/ekBzkGGqxAgp0VvF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359369013839597570/pu/img/ekBzkGGqxAgp0VvF.jpg",
+					"url": "https://t.co/r4n3o8VNE0",
+					"display_url": "pic.twitter.com/r4n3o8VNE0",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1359369080298328066/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359369013839597600,
+					"id_str": "1359369013839597570",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359369013839597570/pu/img/ekBzkGGqxAgp0VvF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359369013839597570/pu/img/ekBzkGGqxAgp0VvF.jpg",
+					"url": "https://t.co/r4n3o8VNE0",
+					"display_url": "pic.twitter.com/r4n3o8VNE0",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1359369080298328066/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15500,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359369013839597570/pu/vid/320x320/AJa1lBpVZaYk_kRA.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359369013839597570/pu/vid/480x480/uy_Pos7S1CZ_kztd.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359369013839597570/pu/vid/720x720/BiiCnk_cVnPYRpqt.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1359369013839597570/pu/pl/1jpgAYc1eGx1D8Y4.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097461345677500400,
+			"id_str": "1097461345677500417",
+			"name": "코코몽",
+			"screen_name": "cocomong_kr",
+			"location": "냉장고나라 ",
+			"description": "코코몽(냉장코 코씨,12살) 회사몰래하는 케이팝 덕질 계정🙈",
+			"url": "https://t.co/Iva8494tnf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Iva8494tnf",
+							"expanded_url": "https://www.instagram.com/cocomong.official",
+							"display_url": "instagram.com/cocomong.offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2146,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+			"favourites_count": 963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1347921289353170944/9xiygZlO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1347921289353170944/9xiygZlO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 122,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "립이눈나 생일 추카해~🐵\n\n#오늘은_김립_생일\n#KimLipDay \n#HappyKimLipDay\n🦉정은날 정은시🦉\n@loonatheworld https://t.co/r4n3o8VNE0"
+	},
+	{
 		"created_at": "Wed Feb 10 04:51:45 +0000 2021",
 		"id": 1359364410184245200,
 		"id_str": "1359364410184245250",
