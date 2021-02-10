@@ -1,6 +1,406 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 10 08:46:08 +0000 2021",
+		"id": 1359420236596875300,
+		"id_str": "1359423395205509120",
+		"full_text": "🎬[#블립데이터연구소] #킬포모음\n◼︎ 2/17(수) 6PM Coming Soon\n\n이런 거에 세상 진심인 편.. \n1화 ㄴㅐ내 이 텐션이었다는 소문이.. 🗣👥 🗣👥\n\n👉더 많은 킬포 보기 https://t.co/0BAoTrmsoH\n#이달의소녀 #LOONA @loonatheworld https://t.co/zsUGdDVPKS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블립데이터연구소",
+					"indices": [
+						2,
+						11
+					]
+				},
+				{
+					"text": "킬포모음",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						137,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						144,
+						158
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0BAoTrmsoH",
+					"expanded_url": "https://s.blip.kr/c/3e6715bc",
+					"display_url": "s.blip.kr/c/3e6715bc",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1359419321202577400,
+					"id_str": "1359419321202577409",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359419321202577409/pu/img/1oNE8bTF6L0e52hY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359419321202577409/pu/img/1oNE8bTF6L0e52hY.jpg",
+					"url": "https://t.co/zsUGdDVPKS",
+					"display_url": "pic.twitter.com/zsUGdDVPKS",
+					"expanded_url": "https://twitter.com/blip_twt/status/1359420236596875264/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359419321202577400,
+					"id_str": "1359419321202577409",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359419321202577409/pu/img/1oNE8bTF6L0e52hY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359419321202577409/pu/img/1oNE8bTF6L0e52hY.jpg",
+					"url": "https://t.co/zsUGdDVPKS",
+					"display_url": "pic.twitter.com/zsUGdDVPKS",
+					"expanded_url": "https://twitter.com/blip_twt/status/1359420236596875264/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 17452,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359419321202577409/pu/vid/1280x720/03M1c2LJXsMty1fP.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359419321202577409/pu/vid/480x270/2tD8jRgPbBzUPLLi.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1359419321202577409/pu/pl/zbi2ukULJFZxTm21.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359419321202577409/pu/vid/640x360/vEj0zmbt9KerXeyH.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1222406929932095500,
+			"id_str": "1222406929932095491",
+			"name": "blip.official",
+			"screen_name": "blip_twt",
+			"location": "",
+			"description": "❤️ 어서오세요 ❤️ 블립이의 트위터 ❤️\n\n내 손안의 덕메이트, 블립(blip)\nFor Smart K-Pop Stans, Blip\n\n📱App download https://t.co/DMvoy5qUZ9",
+			"url": "https://t.co/O1SzIUFbht",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O1SzIUFbht",
+							"expanded_url": "https://blip.kr/",
+							"display_url": "blip.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DMvoy5qUZ9",
+							"expanded_url": "https://s.blip.kr/download",
+							"display_url": "s.blip.kr/download",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2185,
+			"friends_count": 54,
+			"listed_count": 4,
+			"created_at": "Wed Jan 29 06:33:18 +0000 2020",
+			"favourites_count": 1795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 620,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264788775156150273/YbTEz56O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264788775156150273/YbTEz56O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1222406929932095491/1600879611",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 108,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎬[#블립데이터연구소] #킬포모음\n◼︎ 2/17(수) 6PM Coming Soon\n\n이런 거에 세상 진심인 편.. \n1화 ㄴㅐ내 이 텐션이었다는 소문이.. 🗣👥 🗣👥\n\n👉더 많은 킬포 보기 https://t.co/0BAoTrmsoH\n#이달의소녀 #LOONA @loonatheworld https://t.co/zsUGdDVPKS"
+	},
+	{
+		"created_at": "Wed Feb 10 08:39:35 +0000 2021",
+		"id": 1359421745908842500,
+		"id_str": "1359421745908842498",
+		"full_text": "#KBS #공지사항 #가요심의\n[#뮤직비디오심의] 뮤직비디오 2021년 2월 2주차 심의결과\nhttps://t.co/zh97nOTkCe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KBS",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "공지사항",
+					"indices": [
+						5,
+						10
+					]
+				},
+				{
+					"text": "가요심의",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "뮤직비디오심의",
+					"indices": [
+						18,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zh97nOTkCe",
+					"expanded_url": "http://www.kbs.co.kr/board/board.html?bbs_loc=X2017-0031-04-699231,read,%EB%AE%A4%EC%A7%81%EB%B9%84%EB%94%94%EC%98%A4%EC%8B%AC%EC%9D%98,2104,1017444",
+					"display_url": "kbs.co.kr/board/board.ht…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1040,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44756,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#KBS #공지사항 #가요심의\n[#뮤직비디오심의] 뮤직비디오 2021년 2월 2주차 심의결과\nhttps://t.co/zh97nOTkCe"
+	},
+	{
 		"created_at": "Wed Feb 10 08:01:35 +0000 2021",
 		"id": 1359412182677655600,
 		"id_str": "1359412182677655553",
