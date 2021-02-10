@@ -1,6 +1,1576 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 10 14:58:59 +0000 2021",
+		"id": 1359517223291736000,
+		"id_str": "1359517223291736067",
+		"full_text": "카톡은 테마를 따로 제작하지 않는이상 흰색박스 검은박스 채팅박스 설정도 불가능하고 임의로 지정되어 만들어서 쓰기가 까다로운데 텔레그램은 이 모든 것이 가능함.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1359516751281594400,
+		"in_reply_to_status_id_str": "1359516751281594373",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1040,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "카톡은 테마를 따로 제작하지 않는이상 흰색박스 검은박스 채팅박스 설정도 불가능하고 임의로 지정되어 만들어서 쓰기가 까다로운데 텔레그램은 이 모든 것이 가능함."
+	},
+	{
+		"created_at": "Wed Feb 10 14:57:06 +0000 2021",
+		"id": 1359516751281594400,
+		"id_str": "1359516751281594373",
+		"full_text": "텔레그램은 피드백을 놓치질 않네. 오래전 비슷한 문의를 했었는데 아예 커스텀 컬러를 넣으라고 해줬네.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1359514006860386300,
+		"in_reply_to_status_id_str": "1359514006860386305",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1040,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "텔레그램은 피드백을 놓치질 않네. 오래전 비슷한 문의를 했었는데 아예 커스텀 컬러를 넣으라고 해줬네."
+	},
+	{
+		"created_at": "Wed Feb 10 14:47:07 +0000 2021",
+		"id": 1359248462932549600,
+		"id_str": "1359514239279353856",
+		"full_text": "Excel keeps evolving to give users even more. Now, with the power of LAMBDA, you can write your own reusable functions with the Excel formula language. See how we're transforming Excel: https://t.co/QaurxsvtHA https://t.co/wToQ7k3lPc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QaurxsvtHA",
+					"expanded_url": "https://msft.it/6014pF2Oa",
+					"display_url": "msft.it/6014pF2Oa",
+					"indices": [
+						186,
+						209
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1359248460344684500,
+					"id_str": "1359248460344684547",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/Et0FRehXcAM4OmN.png",
+					"media_url_https": "https://pbs.twimg.com/media/Et0FRehXcAM4OmN.png",
+					"url": "https://t.co/wToQ7k3lPc",
+					"display_url": "pic.twitter.com/wToQ7k3lPc",
+					"expanded_url": "https://twitter.com/msexcel/status/1359248462932549635/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 313,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 313,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 266,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359248460344684500,
+					"id_str": "1359248460344684547",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/Et0FRehXcAM4OmN.png",
+					"media_url_https": "https://pbs.twimg.com/media/Et0FRehXcAM4OmN.png",
+					"url": "https://t.co/wToQ7k3lPc",
+					"display_url": "pic.twitter.com/wToQ7k3lPc",
+					"expanded_url": "https://twitter.com/msexcel/status/1359248462932549635/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 313,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 313,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 266,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15934026,
+			"id_str": "15934026",
+			"name": "Microsoft Excel",
+			"screen_name": "msexcel",
+			"location": "Redmond, WA",
+			"description": "News and tips from the Microsoft #Excel team. \nSupport: https://t.co/yWvKksePI6 or @MicrosoftHelps \nFeedback: https://t.co/IDSCttlFNX",
+			"url": "http://t.co/HcFOqOg4FX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/HcFOqOg4FX",
+							"expanded_url": "http://office.microsoft.com/excel",
+							"display_url": "office.microsoft.com/excel",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yWvKksePI6",
+							"expanded_url": "http://Aka.ms/ExcelCommunity",
+							"display_url": "Aka.ms/ExcelCommunity",
+							"indices": [
+								56,
+								79
+							]
+						},
+						{
+							"url": "https://t.co/IDSCttlFNX",
+							"expanded_url": "http://Excel.uservoice.com",
+							"display_url": "Excel.uservoice.com",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 167358,
+			"friends_count": 178,
+			"listed_count": 1594,
+			"created_at": "Thu Aug 21 17:27:45 +0000 2008",
+			"favourites_count": 5070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 70764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4A913C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1129474049199882240/RZPZ1KYT_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129474049199882240/RZPZ1KYT_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15934026/1598631685",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 480,
+		"favorite_count": 2022,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excel keeps evolving to give users even more. Now, with the power of LAMBDA, you can write your own reusable functions with the Excel formula language. See how we're transforming Excel: https://t.co/QaurxsvtHA https://t.co/wToQ7k3lPc"
+	},
+	{
+		"created_at": "Wed Feb 10 14:46:12 +0000 2021",
+		"id": 1359514006860386300,
+		"id_str": "1359514006860386305",
+		"full_text": "텔레그램 언제 이런거 들어왔지. 원래 배경테마 제한되었던 걸로 아는데 물론 카톡보다는 좋았고 https://t.co/obj99kTfik",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/obj99kTfik",
+					"expanded_url": "https://twitter.com/telegram/status/1359508674209808384",
+					"display_url": "twitter.com/telegram/statu…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1040,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1359508674209808400,
+		"quoted_status_id_str": "1359508674209808384",
+		"quoted_status_permalink": {
+			"url": "https://t.co/obj99kTfik",
+			"expanded": "https://twitter.com/telegram/status/1359508674209808384",
+			"display": "twitter.com/telegram/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 10 14:25:01 +0000 2021",
+			"id": 1359508674209808400,
+			"id_str": "1359508674209808384",
+			"full_text": "You can customize your chat background with smooth gradients and stylish patterns. From Settings &gt; Chat Settings, or Settings &gt; Appearance, select a preset theme or tap (⋯) to open the editor and pick your preferred pigments. #TelegramTips https://t.co/fKz7ytenqy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				245
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TelegramTips",
+						"indices": [
+							232,
+							245
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1359508286513553400,
+						"id_str": "1359508286513553410",
+						"indices": [
+							246,
+							269
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359508286513553410/pu/img/dbzpjpuPotjz9kDv.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359508286513553410/pu/img/dbzpjpuPotjz9kDv.jpg",
+						"url": "https://t.co/fKz7ytenqy",
+						"display_url": "pic.twitter.com/fKz7ytenqy",
+						"expanded_url": "https://twitter.com/telegram/status/1359508674209808384/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1359508286513553400,
+						"id_str": "1359508286513553410",
+						"indices": [
+							246,
+							269
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359508286513553410/pu/img/dbzpjpuPotjz9kDv.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359508286513553410/pu/img/dbzpjpuPotjz9kDv.jpg",
+						"url": "https://t.co/fKz7ytenqy",
+						"display_url": "pic.twitter.com/fKz7ytenqy",
+						"expanded_url": "https://twitter.com/telegram/status/1359508674209808384/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 10267,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1359508286513553410/pu/vid/480x480/yqxUvddR4uSf9CZE.mp4?tag=10"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1359508286513553410/pu/vid/320x320/vHsAbhmK8Wisn_TV.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1359508286513553410/pu/pl/kGgMO2FRi5MJ3M6K.m3u8?tag=10"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1359508286513553410/pu/vid/720x720/aWOebo0nTQPf_Yjj.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1689053928,
+				"id_str": "1689053928",
+				"name": "Telegram Messenger",
+				"screen_name": "telegram",
+				"location": "",
+				"description": "Simple, fast, secure – and synced across all your devices. One of the top 10 most-used apps in the world with over 500 million active users.",
+				"url": "https://t.co/9G92kS0yd7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9G92kS0yd7",
+								"expanded_url": "http://telegram.org",
+								"display_url": "telegram.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 938894,
+				"friends_count": 161,
+				"listed_count": 3456,
+				"created_at": "Wed Aug 21 19:47:05 +0000 2013",
+				"favourites_count": 6311,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 33166,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1183117696730390529/LRDASku7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183117696730390529/LRDASku7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1689053928/1392066683",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 40,
+			"favorite_count": 283,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "텔레그램 언제 이런거 들어왔지. 원래 배경테마 제한되었던 걸로 아는데 물론 카톡보다는 좋았고 https://t.co/obj99kTfik"
+	},
+	{
+		"created_at": "Wed Feb 10 14:37:43 +0000 2021",
+		"id": 1359511870810452000,
+		"id_str": "1359511870810451969",
+		"full_text": "진행이 유인나고 선우정아, 서지음 게스트라니. 🥰🥰🥰",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1040,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "진행이 유인나고 선우정아, 서지음 게스트라니. 🥰🥰🥰"
+	},
+	{
+		"created_at": "Wed Feb 10 14:32:36 +0000 2021",
+		"id": 1359472194040918000,
+		"id_str": "1359510584903880708",
+		"full_text": "[#딩고뮤직] 💡#충전포차 OPEN💡오늘 밤 우리 함께 따수운 차 한잔과 음악에 취해봐여,,,😊 드루와~ \n@sunwooJeongA @paulkim_twt @antennamusic @jium1215 @type4graphic  @AB6IX\n\n⭐️[충전포차 LIVE] 다시 보기 \nhttps://t.co/6vvsQTCgDB\n\n#유인나 #AB6IX_동현 #선우정아 #폴킴 #적재 #서지음 #하상욱 https://t.co/ybb6Gv1iDa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "충전포차",
+					"indices": [
+						9,
+						14
+					]
+				},
+				{
+					"text": "유인나",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "AB6IX_동현",
+					"indices": [
+						185,
+						194
+					]
+				},
+				{
+					"text": "선우정아",
+					"indices": [
+						195,
+						200
+					]
+				},
+				{
+					"text": "폴킴",
+					"indices": [
+						201,
+						204
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						205,
+						208
+					]
+				},
+				{
+					"text": "서지음",
+					"indices": [
+						209,
+						213
+					]
+				},
+				{
+					"text": "하상욱",
+					"indices": [
+						214,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sunwooJeongA",
+					"name": "선우정아 / sunwoojunga",
+					"id": 253607159,
+					"id_str": "253607159",
+					"indices": [
+						60,
+						73
+					]
+				},
+				{
+					"screen_name": "paulkim_twt",
+					"name": "폴킴 (Paul Kim)",
+					"id": 774874937328754700,
+					"id_str": "774874937328754688",
+					"indices": [
+						74,
+						86
+					]
+				},
+				{
+					"screen_name": "antennamusic",
+					"name": "안테나 Antenna",
+					"id": 266004552,
+					"id_str": "266004552",
+					"indices": [
+						87,
+						100
+					]
+				},
+				{
+					"screen_name": "jium1215",
+					"name": "서지음",
+					"id": 515802851,
+					"id_str": "515802851",
+					"indices": [
+						101,
+						110
+					]
+				},
+				{
+					"screen_name": "TYPE4GRAPHIC",
+					"name": "하상욱",
+					"id": 69320336,
+					"id_str": "69320336",
+					"indices": [
+						111,
+						124
+					]
+				},
+				{
+					"screen_name": "AB6IX",
+					"name": "AB6IX",
+					"id": 1096344582902575100,
+					"id_str": "1096344582902575104",
+					"indices": [
+						126,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6vvsQTCgDB",
+					"expanded_url": "http://youtu.be/lJfQmjsG7Vw",
+					"display_url": "youtu.be/lJfQmjsG7Vw",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1359470974966501400,
+					"id_str": "1359470974966501376",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/Et3PpiFVEAAEVSv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et3PpiFVEAAEVSv.jpg",
+					"url": "https://t.co/ybb6Gv1iDa",
+					"display_url": "pic.twitter.com/ybb6Gv1iDa",
+					"expanded_url": "https://twitter.com/dingo_official/status/1359472194040918016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359470974966501400,
+					"id_str": "1359470974966501376",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/Et3PpiFVEAAEVSv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et3PpiFVEAAEVSv.jpg",
+					"url": "https://t.co/ybb6Gv1iDa",
+					"display_url": "pic.twitter.com/ybb6Gv1iDa",
+					"expanded_url": "https://twitter.com/dingo_official/status/1359472194040918016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 936446104136065000,
+			"id_str": "936446104136065024",
+			"name": "dingo(딩고)",
+			"screen_name": "dingo_official",
+			"location": "",
+			"description": "딩고봇이 운영하는 #딩고 오피셜 계정입니다. 딩고봇은 리트윗🔁이랑 마음❤️ 좋아해!",
+			"url": "https://t.co/kDZqCE1lkP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kDZqCE1lkP",
+							"expanded_url": "https://www.facebook.com/dingo.officialpage.kr/",
+							"display_url": "facebook.com/dingo.official…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128010,
+			"friends_count": 0,
+			"listed_count": 126,
+			"created_at": "Fri Dec 01 04:05:24 +0000 2017",
+			"favourites_count": 14525,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/936446429056319488/H6yq7tt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936446429056319488/H6yq7tt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/936446104136065024/1515406506",
+			"profile_link_color": "FF3823",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 667,
+		"favorite_count": 2082,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#딩고뮤직] 💡#충전포차 OPEN💡오늘 밤 우리 함께 따수운 차 한잔과 음악에 취해봐여,,,😊 드루와~ \n@sunwooJeongA @paulkim_twt @antennamusic @jium1215 @type4graphic  @AB6IX\n\n⭐️[충전포차 LIVE] 다시 보기 \nhttps://t.co/6vvsQTCgDB\n\n#유인나 #AB6IX_동현 #선우정아 #폴킴 #적재 #서지음 #하상욱 https://t.co/ybb6Gv1iDa"
+	},
+	{
+		"created_at": "Wed Feb 10 14:03:15 +0000 2021",
+		"id": 1359443147231686700,
+		"id_str": "1359503198407462912",
+		"full_text": "앱플레이어 녹스에서 보안 문제 발생. 이야기는 전에 들었는데 생각보다 심각한듯. 즉시 삭제 요망. https://t.co/9lIEIpkiZt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9lIEIpkiZt",
+					"expanded_url": "http://m.boannews.com/html/detail.html?idx=94867&kind=&sub_kind=",
+					"display_url": "m.boannews.com/html/detail.ht…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23765036,
+			"id_str": "23765036",
+			"name": "이요훈(자그니)",
+			"screen_name": "Zagni",
+			"location": "",
+			"description": "좋아하는 책과 커피와 사람이 있습니다.",
+			"url": "https://t.co/dE86x63tba",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dE86x63tba",
+							"expanded_url": "http://zagni.net",
+							"display_url": "zagni.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2050,
+			"friends_count": 6,
+			"listed_count": 154,
+			"created_at": "Wed Mar 11 13:51:59 +0000 2009",
+			"favourites_count": 3916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24530,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/922100146938306561/PsmjZGbA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/922100146938306561/PsmjZGbA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23765036/1447082219",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2067,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "앱플레이어 녹스에서 보안 문제 발생. 이야기는 전에 들었는데 생각보다 심각한듯. 즉시 삭제 요망. https://t.co/9lIEIpkiZt"
+	},
+	{
+		"created_at": "Wed Feb 10 14:02:09 +0000 2021",
+		"id": 1359501297494360000,
+		"id_str": "1359502920081960964",
+		"full_text": "옒쓸💛💜\n\n👉🏻 https://t.co/UEfky0YO0B\n\n#레드벨벳 #RedVelvet #슬기 #SEULGI #예리 #YERI #My_birthday_with_Reveluv https://t.co/eMqb4tRU2g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						55,
+						62
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "My_birthday_with_Reveluv",
+					"indices": [
+						73,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UEfky0YO0B",
+					"expanded_url": "http://www.vlive.tv/video/236560",
+					"display_url": "vlive.tv/video/236560",
+					"indices": [
+						9,
+						32
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1359501291903307800,
+					"id_str": "1359501291903307776",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/Et3rONeU0AAWWrA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et3rONeU0AAWWrA.jpg",
+					"url": "https://t.co/eMqb4tRU2g",
+					"display_url": "pic.twitter.com/eMqb4tRU2g",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1359501297494360065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359501291903307800,
+					"id_str": "1359501291903307776",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/Et3rONeU0AAWWrA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et3rONeU0AAWWrA.jpg",
+					"url": "https://t.co/eMqb4tRU2g",
+					"display_url": "pic.twitter.com/eMqb4tRU2g",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1359501297494360065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1359501291903275000,
+					"id_str": "1359501291903275012",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/Et3rONeUUAQgYzk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et3rONeUUAQgYzk.jpg",
+					"url": "https://t.co/eMqb4tRU2g",
+					"display_url": "pic.twitter.com/eMqb4tRU2g",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1359501297494360065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1359501291928518700,
+					"id_str": "1359501291928518659",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/Et3rONkVgAMYt95.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et3rONkVgAMYt95.jpg",
+					"url": "https://t.co/eMqb4tRU2g",
+					"display_url": "pic.twitter.com/eMqb4tRU2g",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1359501297494360065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1359501291920105500,
+					"id_str": "1359501291920105488",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/Et3rONiVIBAuSx-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et3rONiVIBAuSx-.jpg",
+					"url": "https://t.co/eMqb4tRU2g",
+					"display_url": "pic.twitter.com/eMqb4tRU2g",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1359501297494360065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3690111,
+			"friends_count": 1,
+			"listed_count": 7864,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15200,
+		"favorite_count": 38793,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "옒쓸💛💜\n\n👉🏻 https://t.co/UEfky0YO0B\n\n#레드벨벳 #RedVelvet #슬기 #SEULGI #예리 #YERI #My_birthday_with_Reveluv https://t.co/eMqb4tRU2g"
+	},
+	{
 		"created_at": "Wed Feb 10 13:39:33 +0000 2021",
 		"id": 1359497233222144000,
 		"id_str": "1359497233222144006",
