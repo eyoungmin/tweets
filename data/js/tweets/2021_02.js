@@ -1,6 +1,876 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 10 03:58:40 +0000 2021",
+		"id": 1359351048977043500,
+		"id_str": "1359351048977043461",
+		"full_text": "네이밍 구리다... 그냥 브이라이브해... https://t.co/z4Om1KWku3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z4Om1KWku3",
+					"expanded_url": "https://twitter.com/BigHitEnt/status/1359347764904173568",
+					"display_url": "twitter.com/BigHitEnt/stat…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1040,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77600,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1359347764904173600,
+		"quoted_status_id_str": "1359347764904173568",
+		"quoted_status_permalink": {
+			"url": "https://t.co/z4Om1KWku3",
+			"expanded": "https://twitter.com/BigHitEnt/status/1359347764904173568",
+			"display": "twitter.com/BigHitEnt/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 10 03:45:37 +0000 2021",
+			"id": 1359347764904173600,
+			"id_str": "1359347764904173568",
+			"full_text": "[기사] #빅히트 ·YG·유니버설뮤직·키스위 뭉쳐 라이브 스트리밍 플랫폼 출범\nhttps://t.co/XfIttycW60",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				67
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "빅히트",
+						"indices": [
+							5,
+							9
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XfIttycW60",
+						"expanded_url": "https://entertain.naver.com/read?oid=009&aid=0004747262",
+						"display_url": "entertain.naver.com/read?oid=009&a…",
+						"indices": [
+							44,
+							67
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 168683422,
+				"id_str": "168683422",
+				"name": "BigHit Entertainment",
+				"screen_name": "BigHitEnt",
+				"location": "Seoul, Korea",
+				"description": "안녕하세요 빅히트 엔터테인먼트 입니다. Facebook : https://t.co/iSxPWiYTnM",
+				"url": "https://t.co/CyzKyX20Nn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CyzKyX20Nn",
+								"expanded_url": "http://www.bighitcorp.com",
+								"display_url": "bighitcorp.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/iSxPWiYTnM",
+								"expanded_url": "http://facebook.com/ibighit",
+								"display_url": "facebook.com/ibighit",
+								"indices": [
+									33,
+									56
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 19268213,
+				"friends_count": 29,
+				"listed_count": 23187,
+				"created_at": "Tue Jul 20 14:40:33 +0000 2010",
+				"favourites_count": 6,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6858,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFEDBF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1306500843370291201/UcZ0X5be_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306500843370291201/UcZ0X5be_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/168683422/1600329050",
+				"profile_link_color": "C90404",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C1C6F5",
+				"profile_text_color": "383738",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4904,
+			"favorite_count": 31396,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "네이밍 구리다... 그냥 브이라이브해... https://t.co/z4Om1KWku3"
+	},
+	{
+		"created_at": "Wed Feb 10 03:57:15 +0000 2021",
+		"id": 1359347764904173600,
+		"id_str": "1359350694050897922",
+		"full_text": "[기사] #빅히트 ·YG·유니버설뮤직·키스위 뭉쳐 라이브 스트리밍 플랫폼 출범\nhttps://t.co/XfIttycW60",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "빅히트",
+					"indices": [
+						5,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XfIttycW60",
+					"expanded_url": "https://entertain.naver.com/read?oid=009&aid=0004747262",
+					"display_url": "entertain.naver.com/read?oid=009&a…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 168683422,
+			"id_str": "168683422",
+			"name": "BigHit Entertainment",
+			"screen_name": "BigHitEnt",
+			"location": "Seoul, Korea",
+			"description": "안녕하세요 빅히트 엔터테인먼트 입니다. Facebook : https://t.co/iSxPWiYTnM",
+			"url": "https://t.co/CyzKyX20Nn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CyzKyX20Nn",
+							"expanded_url": "http://www.bighitcorp.com",
+							"display_url": "bighitcorp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iSxPWiYTnM",
+							"expanded_url": "http://facebook.com/ibighit",
+							"display_url": "facebook.com/ibighit",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19268213,
+			"friends_count": 29,
+			"listed_count": 23187,
+			"created_at": "Tue Jul 20 14:40:33 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6858,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFEDBF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306500843370291201/UcZ0X5be_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306500843370291201/UcZ0X5be_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/168683422/1600329050",
+			"profile_link_color": "C90404",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C1C6F5",
+			"profile_text_color": "383738",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4904,
+		"favorite_count": 31396,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[기사] #빅히트 ·YG·유니버설뮤직·키스위 뭉쳐 라이브 스트리밍 플랫폼 출범\nhttps://t.co/XfIttycW60"
+	},
+	{
+		"created_at": "Wed Feb 10 03:02:19 +0000 2021",
+		"id": 1359336288755855400,
+		"id_str": "1359336868660322308",
+		"full_text": "[이달의소녀탐구 #710]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA\n\n📸 ’2021 이달의 소녀 (LOOПΔ) 2nd Season’s Greetings’은 현재 BlockBerryCreative SHOP에서 판매되고 있습니다. https://t.co/PPZlMBTRUi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀탐구",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "loonatv",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1357578205087998000,
+					"id_str": "1357578205087997954",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1357578205087997954/pu/img/WIMFzYBKp4rTkEFl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1357578205087997954/pu/img/WIMFzYBKp4rTkEFl.jpg",
+					"url": "https://t.co/PPZlMBTRUi",
+					"display_url": "pic.twitter.com/PPZlMBTRUi",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1359336288755855360/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357578205087998000,
+					"id_str": "1357578205087997954",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1357578205087997954/pu/img/WIMFzYBKp4rTkEFl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1357578205087997954/pu/img/WIMFzYBKp4rTkEFl.jpg",
+					"url": "https://t.co/PPZlMBTRUi",
+					"display_url": "pic.twitter.com/PPZlMBTRUi",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1359336288755855360/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60561,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1357578205087997954/pu/vid/480x270/2qYn-r8ZhCzgZsKK.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1357578205087997954/pu/vid/1280x720/2AXC-TWGqVm9RbsZ.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1357578205087997954/pu/pl/falwN3CFDDQN4ZBJ.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1357578205087997954/pu/vid/640x360/TKWybg0DYT4v2Egj.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 643944,
+			"friends_count": 0,
+			"listed_count": 6685,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1935,
+		"favorite_count": 6721,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀탐구 #710]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA\n\n📸 ’2021 이달의 소녀 (LOOПΔ) 2nd Season’s Greetings’은 현재 BlockBerryCreative SHOP에서 판매되고 있습니다. https://t.co/PPZlMBTRUi"
+	},
+	{
+		"created_at": "Wed Feb 10 03:02:13 +0000 2021",
+		"id": 1359328689478074400,
+		"id_str": "1359336842781458439",
+		"full_text": "🙊🤎\n(촬영 전후엔 마스크를 착용했습니다:) https://t.co/6Mdw0iUYah",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6Mdw0iUYah",
+					"expanded_url": "https://www.instagram.com/p/CLGE-sfB80O/?igshid=54801iahs32j",
+					"display_url": "instagram.com/p/CLGE-sfB80O/…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2173631072,
+			"id_str": "2173631072",
+			"name": "서현(서주현)",
+			"screen_name": "sjhsjh0628",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1384731,
+			"friends_count": 31,
+			"listed_count": 2836,
+			"created_at": "Mon Nov 04 08:58:47 +0000 2013",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1317,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350274158945398785/6B2gOd8K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350274158945398785/6B2gOd8K_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 264,
+		"favorite_count": 643,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🙊🤎\n(촬영 전후엔 마스크를 착용했습니다:) https://t.co/6Mdw0iUYah"
+	},
+	{
+		"created_at": "Wed Feb 10 03:02:06 +0000 2021",
+		"id": 1359325187313864700,
+		"id_str": "1359336812897009670",
+		"full_text": "2F (신용재, 김원주) '리플레이 OST Part 3' Released!\n🔊https://t.co/HnBvTvunfD https://t.co/sgJfZ2gerG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HnBvTvunfD",
+					"expanded_url": "https://www.facebook.com/monotreemusic/posts/4331736203508114",
+					"display_url": "facebook.com/monotreemusic/…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1359325066069086200,
+					"id_str": "1359325066069086209",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/Et1K8hFVEAEmzu0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et1K8hFVEAEmzu0.jpg",
+					"url": "https://t.co/sgJfZ2gerG",
+					"display_url": "pic.twitter.com/sgJfZ2gerG",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1359325187313864709/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359325066069086200,
+					"id_str": "1359325066069086209",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/Et1K8hFVEAEmzu0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et1K8hFVEAEmzu0.jpg",
+					"url": "https://t.co/sgJfZ2gerG",
+					"display_url": "pic.twitter.com/sgJfZ2gerG",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1359325187313864709/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/MUo7s9YgJw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MUo7s9YgJw",
+							"expanded_url": "https://www.monotreemusic.com/",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6983,
+			"friends_count": 0,
+			"listed_count": 49,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2F (신용재, 김원주) '리플레이 OST Part 3' Released!\n🔊https://t.co/HnBvTvunfD https://t.co/sgJfZ2gerG"
+	},
+	{
 		"created_at": "Wed Feb 10 03:01:09 +0000 2021",
 		"id": 1359336576183066600,
 		"id_str": "1359336576183066626",
