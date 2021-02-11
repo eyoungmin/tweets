@@ -1,6 +1,1184 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 11 03:02:37 +0000 2021",
+		"id": 1359699334099595300,
+		"id_str": "1359699334099595265",
+		"full_text": "#청하 #CHUNGHA\nCHUNG HA 청하 HAPPY NEW YEAR 새해 인사\nhttps://t.co/20rYm101p7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/20rYm101p7",
+					"expanded_url": "https://youtu.be/1n-ZXQuo0_g",
+					"display_url": "youtu.be/1n-ZXQuo0_g",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1040,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77686,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청하 #CHUNGHA\nCHUNG HA 청하 HAPPY NEW YEAR 새해 인사\nhttps://t.co/20rYm101p7"
+	},
+	{
+		"created_at": "Thu Feb 11 03:02:36 +0000 2021",
+		"id": 1359698892107903000,
+		"id_str": "1359699329645223936",
+		"full_text": "#OFFICIALBLINK \n2021년도 설날을 맞이하여 #BLACKPINK 의 친필 메시지가 #블링크존 과 #VFANSHIP 에 도착하였습니다🖤💖 \nBLINK 여러분 안전하고 행복한 설 연휴 보내세요🙏\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OFFICIALBLINK",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						32,
+						42
+					]
+				},
+				{
+					"text": "블링크존",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "VFANSHIP",
+					"indices": [
+						61,
+						70
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						127,
+						134
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						141,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/c2mkxA118z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c2mkxA118z",
+							"expanded_url": "https://blink.blackpinkofficial.com/",
+							"display_url": "blink.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6239053,
+			"friends_count": 6,
+			"listed_count": 6864,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1608167567",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5622,
+		"favorite_count": 23189,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#OFFICIALBLINK \n2021년도 설날을 맞이하여 #BLACKPINK 의 친필 메시지가 #블링크존 과 #VFANSHIP 에 도착하였습니다🖤💖 \nBLINK 여러분 안전하고 행복한 설 연휴 보내세요🙏\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA"
+	},
+	{
+		"created_at": "Thu Feb 11 03:02:30 +0000 2021",
+		"id": 1359699305100107800,
+		"id_str": "1359699305100107778",
+		"full_text": "이달의소녀탐구 #711 (LOONA TV #711)\nhttps://t.co/uvebe1JUcD\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						60,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uvebe1JUcD",
+					"expanded_url": "https://youtu.be/EZR62UC1pSM",
+					"display_url": "youtu.be/EZR62UC1pSM",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1040,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77686,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이달의소녀탐구 #711 (LOONA TV #711)\nhttps://t.co/uvebe1JUcD\n#이달의소녀 #LOONA"
+	},
+	{
+		"created_at": "Thu Feb 11 03:02:28 +0000 2021",
+		"id": 1359698678357758000,
+		"id_str": "1359699295574884355",
+		"full_text": "📹 [Dear. Fans] CHUNG HA 청하 HAPPY NEW YEAR 새해 인사\n\n▶ https://t.co/HWPPpL5FG8\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG https://t.co/3JcToCu0bg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						80,
+						88
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						94,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HWPPpL5FG8",
+					"expanded_url": "https://youtu.be/1n-ZXQuo0_g",
+					"display_url": "youtu.be/1n-ZXQuo0_g",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1359373005692883000,
+					"id_str": "1359373005692882944",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359373005692882944/pu/img/k-eUgnrwFHeiBAIl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359373005692882944/pu/img/k-eUgnrwFHeiBAIl.jpg",
+					"url": "https://t.co/3JcToCu0bg",
+					"display_url": "pic.twitter.com/3JcToCu0bg",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1359698678357757954/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359373005692883000,
+					"id_str": "1359373005692882944",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359373005692882944/pu/img/k-eUgnrwFHeiBAIl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359373005692882944/pu/img/k-eUgnrwFHeiBAIl.jpg",
+					"url": "https://t.co/3JcToCu0bg",
+					"display_url": "pic.twitter.com/3JcToCu0bg",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1359698678357757954/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 43977,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359373005692882944/pu/vid/640x360/t2_KAYa-7enGYMQ6.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1359373005692882944/pu/pl/m4z7O0yRMd4wuku7.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359373005692882944/pu/vid/1280x720/hhsEkfB-Fp0jfPb5.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359373005692882944/pu/vid/480x270/u3ptdeMy12Rl3-Yg.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜 'Querencia' PRE-ORDER 👉 https://t.co/6FjcqRIqMF",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6FjcqRIqMF",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								54,
+								77
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 315508,
+			"friends_count": 0,
+			"listed_count": 1941,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353580382994587648/zWJDlVAQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353580382994587648/zWJDlVAQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1611565202",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 442,
+		"favorite_count": 1542,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📹 [Dear. Fans] CHUNG HA 청하 HAPPY NEW YEAR 새해 인사\n\n▶ https://t.co/HWPPpL5FG8\n\n#청하 #CHUNGHA\n#별하랑 #BYULHARANG https://t.co/3JcToCu0bg"
+	},
+	{
+		"created_at": "Thu Feb 11 03:02:19 +0000 2021",
+		"id": 1359698673974734800,
+		"id_str": "1359699257347956739",
+		"full_text": "[이달의소녀탐구 #711]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA\n\n📸 ’2021 이달의 소녀 (LOOПΔ) 2nd Season’s Greetings’은 현재 BlockBerryCreative SHOP에서 판매되고 있습니다. https://t.co/f4i2sqS5bd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀탐구",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "loonatv",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1357579822457778200,
+					"id_str": "1357579822457778176",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1357579822457778176/pu/img/BcJ2BBSotiKhzhRG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1357579822457778176/pu/img/BcJ2BBSotiKhzhRG.jpg",
+					"url": "https://t.co/f4i2sqS5bd",
+					"display_url": "pic.twitter.com/f4i2sqS5bd",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1359698673974734848/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357579822457778200,
+					"id_str": "1357579822457778176",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1357579822457778176/pu/img/BcJ2BBSotiKhzhRG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1357579822457778176/pu/img/BcJ2BBSotiKhzhRG.jpg",
+					"url": "https://t.co/f4i2sqS5bd",
+					"display_url": "pic.twitter.com/f4i2sqS5bd",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1359698673974734848/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60561,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1357579822457778176/pu/vid/1280x720/0AD74US79TSAyDHI.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1357579822457778176/pu/pl/ahkIHYaWyQSjiiak.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1357579822457778176/pu/vid/640x360/aTynfAzI85mDh14o.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1357579822457778176/pu/vid/480x270/4DQZ6KUHn9BHThfS.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 644377,
+			"friends_count": 0,
+			"listed_count": 6681,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2733,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1720,
+		"favorite_count": 6087,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀탐구 #711]\n#이달의소녀탐구 #loonatv #이달의소녀 #LOONA\n\n📸 ’2021 이달의 소녀 (LOOПΔ) 2nd Season’s Greetings’은 현재 BlockBerryCreative SHOP에서 판매되고 있습니다. https://t.co/f4i2sqS5bd"
+	},
+	{
+		"created_at": "Thu Feb 11 03:02:11 +0000 2021",
+		"id": 1359568348837671000,
+		"id_str": "1359699223147671555",
+		"full_text": "[EVENT] @CHUNGHA_MNHent “Virtually” Meets Fans inside @theQoos_! \n\nJoin &amp; talk with #Chungha inside theQoos #kpop app: https://t.co/sXXhE9uQWj\n\nTHIS IS YOUR CHANCE TO SHINE- Follow Chungha @ #theQoos &amp; stay tuned for more events!\n\n#AskChungha #CHUNGHA_Bicycle #CHUNGHA_Querencia https://t.co/tbUE2Vggvt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			286
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Chungha",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"text": "kpop",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "theQoos",
+					"indices": [
+						195,
+						203
+					]
+				},
+				{
+					"text": "AskChungha",
+					"indices": [
+						239,
+						250
+					]
+				},
+				{
+					"text": "CHUNGHA_Bicycle",
+					"indices": [
+						251,
+						267
+					]
+				},
+				{
+					"text": "CHUNGHA_Querencia",
+					"indices": [
+						268,
+						286
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHUNGHA_MNHent",
+					"name": "CHUNG HA",
+					"id": 1097557125742489600,
+					"id_str": "1097557125742489600",
+					"indices": [
+						8,
+						23
+					]
+				},
+				{
+					"screen_name": "theQoos_",
+					"name": "theQoos",
+					"id": 1138712543302520800,
+					"id_str": "1138712543302520834",
+					"indices": [
+						54,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sXXhE9uQWj",
+					"expanded_url": "http://theqoos.sng.link/D2nfl/9iva",
+					"display_url": "theqoos.sng.link/D2nfl/9iva",
+					"indices": [
+						123,
+						146
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1359568163814314000,
+					"id_str": "1359568163814313987",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359568163814313987/pu/img/OCptMd-syBNL9LYy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359568163814313987/pu/img/OCptMd-syBNL9LYy.jpg",
+					"url": "https://t.co/tbUE2Vggvt",
+					"display_url": "pic.twitter.com/tbUE2Vggvt",
+					"expanded_url": "https://twitter.com/theQoos_/status/1359568348837670912/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359568163814314000,
+					"id_str": "1359568163814313987",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359568163814313987/pu/img/OCptMd-syBNL9LYy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359568163814313987/pu/img/OCptMd-syBNL9LYy.jpg",
+					"url": "https://t.co/tbUE2Vggvt",
+					"display_url": "pic.twitter.com/tbUE2Vggvt",
+					"expanded_url": "https://twitter.com/theQoos_/status/1359568348837670912/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 50347,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1359568163814313987/pu/pl/5cf9i512exXBM0mx.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359568163814313987/pu/vid/360x640/InIXegXIVfvZUL-c.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359568163814313987/pu/vid/320x568/P8qSdmJehCpfOo3Z.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359568163814313987/pu/vid/720x1280/qHtKwsaP9Po3U2Ya.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1138712543302520800,
+			"id_str": "1138712543302520834",
+			"name": "theQoos",
+			"screen_name": "theQoos_",
+			"location": "",
+			"description": "We are a #KPOP app for theQoos, by theQoos. Powered by Curated K-Pop Content & Real Fan Interactions ✌🏻✨ Download theQoos app! 📲 https://t.co/jvGyJMSwam",
+			"url": "https://t.co/CGvVQwVVDm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CGvVQwVVDm",
+							"expanded_url": "http://theqoos.com",
+							"display_url": "theqoos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jvGyJMSwam",
+							"expanded_url": "http://theqoos.sng.link/D2nfl/9iva",
+							"display_url": "theqoos.sng.link/D2nfl/9iva",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 526,
+			"friends_count": 124,
+			"listed_count": 0,
+			"created_at": "Wed Jun 12 07:40:01 +0000 2019",
+			"favourites_count": 1130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1150656808253476864/KmVDHWR4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150656808253476864/KmVDHWR4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1138712543302520834/1569514284",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 178,
+		"favorite_count": 693,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[EVENT] @CHUNGHA_MNHent “Virtually” Meets Fans inside @theQoos_! \n\nJoin &amp; talk with #Chungha inside theQoos #kpop app: https://t.co/sXXhE9uQWj\n\nTHIS IS YOUR CHANCE TO SHINE- Follow Chungha @ #theQoos &amp; stay tuned for more events!\n\n#AskChungha #CHUNGHA_Bicycle #CHUNGHA_Querencia https://t.co/tbUE2Vggvt"
+	},
+	{
 		"created_at": "Thu Feb 11 03:00:39 +0000 2021",
 		"id": 1359698837271625700,
 		"id_str": "1359698837271625728",
