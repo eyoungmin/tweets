@@ -1,6 +1,600 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 11 14:32:43 +0000 2021",
+		"id": 1359869714982269000,
+		"id_str": "1359873002490327040",
+		"full_text": "공간반응 링크는 아직 유효합니다. 신청 후 공연을 놓친 분들을 위해 열어두었어요. 이 사진은 관람 전 드리는 당부입니다. 명절 따뜻하게 보내시고 새해 복 많이 받으셔요. 몸도 마음도 건강하시기를 바라요. https://t.co/y2gkFAqvwS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1359869707482931200,
+					"id_str": "1359869707482931204",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/Et86S0dVoAQjeZ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et86S0dVoAQjeZ1.jpg",
+					"url": "https://t.co/y2gkFAqvwS",
+					"display_url": "pic.twitter.com/y2gkFAqvwS",
+					"expanded_url": "https://twitter.com/dawnyboom/status/1359869714982268932/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 276,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 832,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 488,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359869707482931200,
+					"id_str": "1359869707482931204",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/Et86S0dVoAQjeZ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et86S0dVoAQjeZ1.jpg",
+					"url": "https://t.co/y2gkFAqvwS",
+					"display_url": "pic.twitter.com/y2gkFAqvwS",
+					"expanded_url": "https://twitter.com/dawnyboom/status/1359869714982268932/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 276,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 832,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 488,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 115895688,
+			"id_str": "115895688",
+			"name": "한희정 Han Heejung",
+			"screen_name": "dawnyboom",
+			"location": "",
+			"description": "만들고 연주합니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12268,
+			"friends_count": 99,
+			"listed_count": 488,
+			"created_at": "Sat Feb 20 10:21:58 +0000 2010",
+			"favourites_count": 646,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1586,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2F2F2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048146617793036289/_EKaDQ5j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048146617793036289/_EKaDQ5j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/115895688/1570692306",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "C4C4C4",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "363636",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공간반응 링크는 아직 유효합니다. 신청 후 공연을 놓친 분들을 위해 열어두었어요. 이 사진은 관람 전 드리는 당부입니다. 명절 따뜻하게 보내시고 새해 복 많이 받으셔요. 몸도 마음도 건강하시기를 바라요. https://t.co/y2gkFAqvwS"
+	},
+	{
+		"created_at": "Thu Feb 11 14:21:26 +0000 2021",
+		"id": 1359870161940054000,
+		"id_str": "1359870161940054019",
+		"full_text": "#Melon #멜론 #비디오\nForever(약속)으로 돌아온 aespa(에스파)의 멜론 인사 영상 (01:31)\nhttps://t.co/XTHZawLy7r\n#에스파 #aespa ##æspa https://t.co/zbU5UMXbjR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "비디오",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						100,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XTHZawLy7r",
+					"expanded_url": "https://vod.melon.com/video/detail2.htm?mvId=50232550&menuId=27040101",
+					"display_url": "vod.melon.com/video/detail2.…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1359870160648228900,
+					"id_str": "1359870160648228865",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/Et86tMoXUAEGgz5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et86tMoXUAEGgz5.jpg",
+					"url": "https://t.co/zbU5UMXbjR",
+					"display_url": "pic.twitter.com/zbU5UMXbjR",
+					"expanded_url": "https://twitter.com/fromminn/status/1359870161940054019/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359870160648228900,
+					"id_str": "1359870160648228865",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/Et86tMoXUAEGgz5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et86tMoXUAEGgz5.jpg",
+					"url": "https://t.co/zbU5UMXbjR",
+					"display_url": "pic.twitter.com/zbU5UMXbjR",
+					"expanded_url": "https://twitter.com/fromminn/status/1359870161940054019/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1040,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #비디오\nForever(약속)으로 돌아온 aespa(에스파)의 멜론 인사 영상 (01:31)\nhttps://t.co/XTHZawLy7r\n#에스파 #aespa ##æspa https://t.co/zbU5UMXbjR"
+	},
+	{
+		"created_at": "Thu Feb 11 14:10:51 +0000 2021",
+		"id": 1359867497499881500,
+		"id_str": "1359867497499881472",
+		"full_text": "이런 것들이 진짜 의욕을 잃게 만드는 것임. 실제로 이상한 딴지거는 사람이 너무나 많다. https://t.co/V0wmeigdcP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V0wmeigdcP",
+					"expanded_url": "https://twitter.com/chunghavideo/status/1359861766251925508",
+					"display_url": "twitter.com/chunghavideo/s…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1040,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1359861766251925500,
+		"quoted_status_id_str": "1359861766251925508",
+		"quoted_status_permalink": {
+			"url": "https://t.co/V0wmeigdcP",
+			"expanded": "https://twitter.com/chunghavideo/status/1359861766251925508",
+			"display": "twitter.com/chunghavideo/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 11 13:48:04 +0000 2021",
+			"id": 1359861766251925500,
+			"id_str": "1359861766251925508",
+			"full_text": "에스크 주소 내렸는데 자꾸 제 에스크 찾아와서 이상한 소리 좀 그만 하세요 외국인인 것 같은데 불만이 있으면 회사한테 하시던가요",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				71
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1004671538744909800,
+				"id_str": "1004671538744909824",
+				"name": "청하비디오",
+				"screen_name": "chunghavideo",
+				"location": "",
+				"description": "chungha fan account | @29___ch",
+				"url": "https://t.co/fVELnYL6Mg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fVELnYL6Mg",
+								"expanded_url": "https://asked.kr/chunghavideo",
+								"display_url": "asked.kr/chunghavideo",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3879,
+				"friends_count": 0,
+				"listed_count": 86,
+				"created_at": "Thu Jun 07 10:28:55 +0000 2018",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1091,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1356260630961946625/1dIqNvK3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356260630961946625/1dIqNvK3_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이런 것들이 진짜 의욕을 잃게 만드는 것임. 실제로 이상한 딴지거는 사람이 너무나 많다. https://t.co/V0wmeigdcP"
+	},
+	{
 		"created_at": "Thu Feb 11 13:26:32 +0000 2021",
 		"id": 1359856346288455700,
 		"id_str": "1359856346288455684",
