@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 12 12:02:06 +0000 2021",
+		"id": 1360192098981433300,
+		"id_str": "1360197484413394951",
+		"full_text": "[Live/Exit] ➰연습 하이라이트 영상 ‘사랑은 언젠가 끝에 닿아’ Duet Ver. \n\n사비나 x 건탁 (GUNTAC) x 박대현\n170 x 185 x 180\n\n🔗Full Sequence 🔛 Youtube \nLink in bio \n\n🎬[Live/Exit] Live Stage 🔜 2/20 공개\n\n사랑이 끝에 닿은 이야기\nWhere All Loves End \nMusic by SAVINA&amp;DRONES https://t.co/K3Fm8SOkWU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1360192064198115300,
+					"id_str": "1360192064198115332",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1360192064198115332/pu/img/9brvpZtlJM3tZzY9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1360192064198115332/pu/img/9brvpZtlJM3tZzY9.jpg",
+					"url": "https://t.co/K3Fm8SOkWU",
+					"display_url": "pic.twitter.com/K3Fm8SOkWU",
+					"expanded_url": "https://twitter.com/savina0128/status/1360192098981433347/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1360192064198115300,
+					"id_str": "1360192064198115332",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1360192064198115332/pu/img/9brvpZtlJM3tZzY9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1360192064198115332/pu/img/9brvpZtlJM3tZzY9.jpg",
+					"url": "https://t.co/K3Fm8SOkWU",
+					"display_url": "pic.twitter.com/K3Fm8SOkWU",
+					"expanded_url": "https://twitter.com/savina0128/status/1360192098981433347/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							5
+						],
+						"duration_millis": 13555,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1360192064198115332/pu/vid/486x270/n58KR4-mX7_nmvUr.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1360192064198115332/pu/pl/wPYDooOagcFBUxtm.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1360192064198115332/pu/vid/720x400/4VIpBHIf7_EttGHo.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나 SAVINA",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "사비나앤드론즈 SAVINA & DRONES Musician",
+			"url": "https://t.co/HUiR4zmWAI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HUiR4zmWAI",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1339,
+			"friends_count": 245,
+			"listed_count": 31,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2048,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Live/Exit] ➰연습 하이라이트 영상 ‘사랑은 언젠가 끝에 닿아’ Duet Ver. \n\n사비나 x 건탁 (GUNTAC) x 박대현\n170 x 185 x 180\n\n🔗Full Sequence 🔛 Youtube \nLink in bio \n\n🎬[Live/Exit] Live Stage 🔜 2/20 공개\n\n사랑이 끝에 닿은 이야기\nWhere All Loves End \nMusic by SAVINA&amp;DRONES https://t.co/K3Fm8SOkWU"
+	},
+	{
 		"created_at": "Fri Feb 12 11:09:24 +0000 2021",
 		"id": 1360184221826965500,
 		"id_str": "1360184221826965504",
