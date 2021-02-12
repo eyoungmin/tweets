@@ -1,6 +1,534 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 12 15:34:46 +0000 2021",
+		"id": 1360250827005259800,
+		"id_str": "1360251004491427847",
+		"full_text": "#Notion 노션 DNS 장애 임시 해결법  (로컬 /etc/hosts 파일 수정 필요 합니다. 장애 복구 후 폭파 예정!)\n\n101.18.22.110 https://t.co/EZBCewXvPI\n101.18.22.147 https://t.co/IGMC1DDjUB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notion",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EZBCewXvPI",
+					"expanded_url": "http://notion.so",
+					"display_url": "notion.so",
+					"indices": [
+						86,
+						109
+					]
+				},
+				{
+					"url": "https://t.co/IGMC1DDjUB",
+					"expanded_url": "http://www.notion.so",
+					"display_url": "notion.so",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14055951,
+			"id_str": "14055951",
+			"name": "Channy Yun(윤석찬)",
+			"screen_name": "channyun",
+			"location": "Seoul, Korea",
+			"description": "Principal Tech Evangelist @AWSKorea. Cloud, Open API, Open Source, Web Standards. Ex-leader of @DaumDNA, @MozillaKR, and CTO of Nine4u. Opinion is my own.",
+			"url": "https://t.co/39VRh5M9rd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/39VRh5M9rd",
+							"expanded_url": "https://channy.creation.net",
+							"display_url": "channy.creation.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58587,
+			"friends_count": 106,
+			"listed_count": 1447,
+			"created_at": "Thu Feb 28 18:22:55 +0000 2008",
+			"favourites_count": 1669,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1158715567051694080/dHvAIo1V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158715567051694080/dHvAIo1V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14055951/1488390071",
+			"profile_link_color": "2643E3",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3EDCC",
+			"profile_text_color": "3F3D42",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Notion 노션 DNS 장애 임시 해결법  (로컬 /etc/hosts 파일 수정 필요 합니다. 장애 복구 후 폭파 예정!)\n\n101.18.22.110 https://t.co/EZBCewXvPI\n101.18.22.147 https://t.co/IGMC1DDjUB"
+	},
+	{
+		"created_at": "Fri Feb 12 15:33:16 +0000 2021",
+		"id": 1360250628426014700,
+		"id_str": "1360250628426014722",
+		"full_text": "노션은 갈수록 속도도 느리고 이슈도 잦아지고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1040,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77796,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "노션은 갈수록 속도도 느리고 이슈도 잦아지고."
+	},
+	{
+		"created_at": "Fri Feb 12 15:32:14 +0000 2021",
+		"id": 1360220589743480800,
+		"id_str": "1360250365820641282",
+		"full_text": "We're experiencing a DNS issue, causing the site to not resolve for many users. We are actively looking into this issue.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1136389047138508800,
+			"id_str": "1136389047138508801",
+			"name": "Notion Status",
+			"screen_name": "NotionStatus",
+			"location": "San Francisco, CA",
+			"description": "Updates on the status of Notion. Official status page at https://t.co/DhGmNNITIn. Our tweets at @NotionHQ are more fun.",
+			"url": "https://t.co/QLXvpGSa1o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QLXvpGSa1o",
+							"expanded_url": "http://notion.so",
+							"display_url": "notion.so",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DhGmNNITIn",
+							"expanded_url": "https://status.notion.so",
+							"display_url": "status.notion.so",
+							"indices": [
+								57,
+								80
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 12185,
+			"friends_count": 1,
+			"listed_count": 87,
+			"created_at": "Wed Jun 05 21:47:16 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136390042778198016/Gp-XxtAY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136390042778198016/Gp-XxtAY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1136389047138508801/1559776904",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 478,
+		"favorite_count": 2470,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We're experiencing a DNS issue, causing the site to not resolve for many users. We are actively looking into this issue."
+	},
+	{
+		"created_at": "Fri Feb 12 15:28:30 +0000 2021",
+		"id": 1360228414142124000,
+		"id_str": "1360249427974230021",
+		"full_text": "지우 등장했는데 다들 너무 잘 반겨주심 ㅠㅠ ㅋㅋㅋㅋㅋ 영지 사랑해,,, https://t.co/2wyrBAnSAw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1360228267618230300,
+					"id_str": "1360228267618230272",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1360228267618230272/pu/img/aSuGaZWFwPJCvco_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1360228267618230272/pu/img/aSuGaZWFwPJCvco_.jpg",
+					"url": "https://t.co/2wyrBAnSAw",
+					"display_url": "pic.twitter.com/2wyrBAnSAw",
+					"expanded_url": "https://twitter.com/archive_Chuu/status/1360228414142124033/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1360228267618230300,
+					"id_str": "1360228267618230272",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1360228267618230272/pu/img/aSuGaZWFwPJCvco_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1360228267618230272/pu/img/aSuGaZWFwPJCvco_.jpg",
+					"url": "https://t.co/2wyrBAnSAw",
+					"display_url": "pic.twitter.com/2wyrBAnSAw",
+					"expanded_url": "https://twitter.com/archive_Chuu/status/1360228414142124033/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							2
+						],
+						"duration_millis": 53800,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1360228267618230272/pu/vid/404x270/NSeh0DgSqoHRUIq_.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1360228267618230272/pu/pl/IEOPU7Mkrx8Qy2G5.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1360228267618230272/pu/vid/1080x720/-i4WezHVzr1nreqM.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1360228267618230272/pu/vid/540x360/TavbrWCRXxShfwZJ.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1300097557742329900,
+			"id_str": "1300097557742329856",
+			"name": "츄 아카이브",
+			"screen_name": "archive_Chuu",
+			"location": "우주최고깜찌기를 기록 ◡̈ ",
+			"description": "지구를 지키는 중입니다",
+			"url": "https://t.co/COQJGyS49D",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/COQJGyS49D",
+							"expanded_url": "https://asked.kr/Chuuchive",
+							"display_url": "asked.kr/Chuuchive",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6721,
+			"friends_count": 2,
+			"listed_count": 56,
+			"created_at": "Sun Aug 30 15:46:41 +0000 2020",
+			"favourites_count": 69,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1355060542138847236/qSea1mYm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1355060542138847236/qSea1mYm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1300097557742329856/1609431341",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1161,
+		"favorite_count": 606,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지우 등장했는데 다들 너무 잘 반겨주심 ㅠㅠ ㅋㅋㅋㅋㅋ 영지 사랑해,,, https://t.co/2wyrBAnSAw"
+	},
+	{
 		"created_at": "Fri Feb 12 15:07:17 +0000 2021",
 		"id": 1360024844503421000,
 		"id_str": "1360244088465805312",
