@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 12 09:02:11 +0000 2021",
+		"id": 1360141981754609700,
+		"id_str": "1360152206893330432",
+		"full_text": "[PHOTO] #주간계란짐 구해줘몸즈 \n\n촬영 중 웃다가 눈물까지 흘린 \n청하의 주간계란짐 현장!\n생일을 맞아 깜짝 선물 받은\n아이스크림케이크와📸\n\n▶️ https://t.co/Q3zBHYXDRn\n\n#청하 #CHUNGHA \n#CHUNGHA_Querencia \n#CHUNGHA_Bicycle \n#Querencia #Bicycle\n#청하_0215_컴백_많관부 https://t.co/BFgLpAqTR2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "주간계란짐",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						115,
+						123
+					]
+				},
+				{
+					"text": "CHUNGHA_Querencia",
+					"indices": [
+						125,
+						143
+					]
+				},
+				{
+					"text": "CHUNGHA_Bicycle",
+					"indices": [
+						145,
+						161
+					]
+				},
+				{
+					"text": "Querencia",
+					"indices": [
+						163,
+						173
+					]
+				},
+				{
+					"text": "Bicycle",
+					"indices": [
+						174,
+						182
+					]
+				},
+				{
+					"text": "청하_0215_컴백_많관부",
+					"indices": [
+						183,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q3zBHYXDRn",
+					"expanded_url": "https://youtu.be/B5vmrMbjqaI",
+					"display_url": "youtu.be/B5vmrMbjqaI",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1360141976063025200,
+					"id_str": "1360141976063025152",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EuAx679VoAAI5l8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuAx679VoAAI5l8.jpg",
+					"url": "https://t.co/BFgLpAqTR2",
+					"display_url": "pic.twitter.com/BFgLpAqTR2",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1360141981754609670/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1360141976063025200,
+					"id_str": "1360141976063025152",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EuAx679VoAAI5l8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuAx679VoAAI5l8.jpg",
+					"url": "https://t.co/BFgLpAqTR2",
+					"display_url": "pic.twitter.com/BFgLpAqTR2",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1360141981754609670/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1360141976046211000,
+					"id_str": "1360141976046211078",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EuAx675VEAYWcve.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuAx675VEAYWcve.jpg",
+					"url": "https://t.co/BFgLpAqTR2",
+					"display_url": "pic.twitter.com/BFgLpAqTR2",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1360141981754609670/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜 'Querencia' PRE-ORDER 👉 https://t.co/6FjcqRIqMF",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6FjcqRIqMF",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								54,
+								77
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 315629,
+			"friends_count": 0,
+			"listed_count": 1939,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1554,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353580382994587648/zWJDlVAQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353580382994587648/zWJDlVAQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1611565202",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 527,
+		"favorite_count": 1970,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[PHOTO] #주간계란짐 구해줘몸즈 \n\n촬영 중 웃다가 눈물까지 흘린 \n청하의 주간계란짐 현장!\n생일을 맞아 깜짝 선물 받은\n아이스크림케이크와📸\n\n▶️ https://t.co/Q3zBHYXDRn\n\n#청하 #CHUNGHA \n#CHUNGHA_Querencia \n#CHUNGHA_Bicycle \n#Querencia #Bicycle\n#청하_0215_컴백_많관부 https://t.co/BFgLpAqTR2"
+	},
+	{
 		"created_at": "Fri Feb 12 07:49:30 +0000 2021",
 		"id": 1360133917400006700,
 		"id_str": "1360133917400006656",
