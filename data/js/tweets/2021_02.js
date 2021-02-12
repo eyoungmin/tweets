@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 12 17:54:14 +0000 2021",
+		"id": 1360257098781659100,
+		"id_str": "1360286103278809088",
+		"full_text": "The DNS issue responsible for today’s downtime has been resolved - we’re seeing service being restored. \n\nIf you still can’t access the app, you should be able to in the next several minutes.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1136389047138508800,
+			"id_str": "1136389047138508801",
+			"name": "Notion Status",
+			"screen_name": "NotionStatus",
+			"location": "San Francisco, CA",
+			"description": "Updates on the status of Notion. Official status page at https://t.co/DhGmNNITIn. Our tweets at @NotionHQ are more fun.",
+			"url": "https://t.co/QLXvpGSa1o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QLXvpGSa1o",
+							"expanded_url": "http://notion.so",
+							"display_url": "notion.so",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DhGmNNITIn",
+							"expanded_url": "https://status.notion.so",
+							"display_url": "status.notion.so",
+							"indices": [
+								57,
+								80
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 12482,
+			"friends_count": 0,
+			"listed_count": 88,
+			"created_at": "Wed Jun 05 21:47:16 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136390042778198016/Gp-XxtAY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136390042778198016/Gp-XxtAY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1136389047138508801/1559776904",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 94,
+		"favorite_count": 1021,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The DNS issue responsible for today’s downtime has been resolved - we’re seeing service being restored. \n\nIf you still can’t access the app, you should be able to in the next several minutes."
+	},
+	{
 		"created_at": "Fri Feb 12 16:22:32 +0000 2021",
 		"id": 1360263024548974600,
 		"id_str": "1360263024548974598",
