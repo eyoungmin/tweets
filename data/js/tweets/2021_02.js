@@ -1,6 +1,1632 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 12 13:23:34 +0000 2021",
+		"id": 1360217987291115500,
+		"id_str": "1360217987291115525",
+		"full_text": "평소에 인스타 라이브도 잘 안하던 사람이 무슨 소통이랍시고 소통소통하면서 클럽하우스 하는 걸 보면 참",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 1040,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "평소에 인스타 라이브도 잘 안하던 사람이 무슨 소통이랍시고 소통소통하면서 클럽하우스 하는 걸 보면 참"
+	},
+	{
+		"created_at": "Fri Feb 12 13:22:14 +0000 2021",
+		"id": 1359476160371912700,
+		"id_str": "1360217650803011586",
+		"full_text": "근데 그렇게 말하기에는 또 제가 너무 잘 하고 있어서 조금 그렇지만… 어쨌든 이 안에서 좀 그런 느낌을 받았습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1359476159092723700,
+		"in_reply_to_status_id_str": "1359476159092723717",
+		"in_reply_to_user_id": 1300822008972767200,
+		"in_reply_to_user_id_str": "1300822008972767232",
+		"in_reply_to_screen_name": "dindin_sln",
+		"user": {
+			"id": 1300822008972767200,
+			"id_str": "1300822008972767232",
+			"name": "딘딘의 잠못밤문장",
+			"screen_name": "dindin_sln",
+			"location": "107.7MHz 파워FM",
+			"description": "딘딘의 뮤직하이 : 잠못밤 코너의 딘딘 문장을 모읍니다",
+			"url": "https://t.co/e2gC78hB9X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e2gC78hB9X",
+							"expanded_url": "https://programs.sbs.co.kr/radio/dindinmusichigh/main",
+							"display_url": "programs.sbs.co.kr/radio/dindinmu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1167,
+			"friends_count": 1,
+			"listed_count": 5,
+			"created_at": "Tue Sep 01 15:45:40 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1300822008972767232/1609435254",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 81,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "근데 그렇게 말하기에는 또 제가 너무 잘 하고 있어서 조금 그렇지만… 어쨌든 이 안에서 좀 그런 느낌을 받았습니다."
+	},
+	{
+		"created_at": "Fri Feb 12 13:22:11 +0000 2021",
+		"id": 1359476159092723700,
+		"id_str": "1360217637288955907",
+		"full_text": "쌈디형이 방을 열어서 그 얘기를 했어요. ”일반인이고 아니고가 어딨어. 여기선 그냥 다 소통하는 거야.” 이렇게 딱 얘기를 했는데, 그런 마인드로 해야 되는데 뭔가 ‘우리는 이거 하고 있지롱’ 약간 이 느낌이 저는 조금…",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1359476157851127800,
+		"in_reply_to_status_id_str": "1359476157851127812",
+		"in_reply_to_user_id": 1300822008972767200,
+		"in_reply_to_user_id_str": "1300822008972767232",
+		"in_reply_to_screen_name": "dindin_sln",
+		"user": {
+			"id": 1300822008972767200,
+			"id_str": "1300822008972767232",
+			"name": "딘딘의 잠못밤문장",
+			"screen_name": "dindin_sln",
+			"location": "107.7MHz 파워FM",
+			"description": "딘딘의 뮤직하이 : 잠못밤 코너의 딘딘 문장을 모읍니다",
+			"url": "https://t.co/e2gC78hB9X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e2gC78hB9X",
+							"expanded_url": "https://programs.sbs.co.kr/radio/dindinmusichigh/main",
+							"display_url": "programs.sbs.co.kr/radio/dindinmu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1167,
+			"friends_count": 1,
+			"listed_count": 5,
+			"created_at": "Tue Sep 01 15:45:40 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1300822008972767232/1609435254",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 396,
+		"favorite_count": 191,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "쌈디형이 방을 열어서 그 얘기를 했어요. ”일반인이고 아니고가 어딨어. 여기선 그냥 다 소통하는 거야.” 이렇게 딱 얘기를 했는데, 그런 마인드로 해야 되는데 뭔가 ‘우리는 이거 하고 있지롱’ 약간 이 느낌이 저는 조금…"
+	},
+	{
+		"created_at": "Fri Feb 12 13:22:06 +0000 2021",
+		"id": 1359476157851127800,
+		"id_str": "1360217618754326528",
+		"full_text": "해보니까, 음악에 관한 피드백을 만드는 방도 생겨서 실제 뮤지션 분들이 듣고 피드백을 주는 방도 있고, 음악에 대해 이야기하는 방도 있고, 그 지역 맛집들 이야기하는 방도 있고 그런 것들이 있긴 한데.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1359476156555088000,
+		"in_reply_to_status_id_str": "1359476156555087878",
+		"in_reply_to_user_id": 1300822008972767200,
+		"in_reply_to_user_id_str": "1300822008972767232",
+		"in_reply_to_screen_name": "dindin_sln",
+		"user": {
+			"id": 1300822008972767200,
+			"id_str": "1300822008972767232",
+			"name": "딘딘의 잠못밤문장",
+			"screen_name": "dindin_sln",
+			"location": "107.7MHz 파워FM",
+			"description": "딘딘의 뮤직하이 : 잠못밤 코너의 딘딘 문장을 모읍니다",
+			"url": "https://t.co/e2gC78hB9X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e2gC78hB9X",
+							"expanded_url": "https://programs.sbs.co.kr/radio/dindinmusichigh/main",
+							"display_url": "programs.sbs.co.kr/radio/dindinmu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1167,
+			"friends_count": 1,
+			"listed_count": 5,
+			"created_at": "Tue Sep 01 15:45:40 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1300822008972767232/1609435254",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "해보니까, 음악에 관한 피드백을 만드는 방도 생겨서 실제 뮤지션 분들이 듣고 피드백을 주는 방도 있고, 음악에 대해 이야기하는 방도 있고, 그 지역 맛집들 이야기하는 방도 있고 그런 것들이 있긴 한데."
+	},
+	{
+		"created_at": "Fri Feb 12 13:22:04 +0000 2021",
+		"id": 1359476156555088000,
+		"id_str": "1360217611624062982",
+		"full_text": "소통을 한다고 만든 건데 좀 불편함이 있지 않나. \n근데 아마 이게 지금은 테스트라는 개념이어서 그런 것 같고, 조만간 이게 풀리면 좋은 곳에 많이 유용하게 쓰일 수 있을 것 같아요 제 생각에는.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1359476155175161900,
+		"in_reply_to_status_id_str": "1359476155175161857",
+		"in_reply_to_user_id": 1300822008972767200,
+		"in_reply_to_user_id_str": "1300822008972767232",
+		"in_reply_to_screen_name": "dindin_sln",
+		"user": {
+			"id": 1300822008972767200,
+			"id_str": "1300822008972767232",
+			"name": "딘딘의 잠못밤문장",
+			"screen_name": "dindin_sln",
+			"location": "107.7MHz 파워FM",
+			"description": "딘딘의 뮤직하이 : 잠못밤 코너의 딘딘 문장을 모읍니다",
+			"url": "https://t.co/e2gC78hB9X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e2gC78hB9X",
+							"expanded_url": "https://programs.sbs.co.kr/radio/dindinmusichigh/main",
+							"display_url": "programs.sbs.co.kr/radio/dindinmu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1167,
+			"friends_count": 1,
+			"listed_count": 5,
+			"created_at": "Tue Sep 01 15:45:40 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1300822008972767232/1609435254",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 98,
+		"favorite_count": 77,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "소통을 한다고 만든 건데 좀 불편함이 있지 않나. \n근데 아마 이게 지금은 테스트라는 개념이어서 그런 것 같고, 조만간 이게 풀리면 좋은 곳에 많이 유용하게 쓰일 수 있을 것 같아요 제 생각에는."
+	},
+	{
+		"created_at": "Fri Feb 12 13:22:02 +0000 2021",
+		"id": 1359476155175161900,
+		"id_str": "1360217602841186306",
+		"full_text": "되게 같잖았어요 솔직히. \n오늘 잠못밤은 저만 느낀 게 아니라는 생각이 듭니다. 굉장히 좀… 같잖죠. 제가 예전 잠못밤에서도 이야기를 했는데, 지금이 어느 시대인데 무슨 사람과 사람 사이에 격차가 있는 것처럼 하고, 위아래가 있는 것처럼 이렇게 나누는 것 자체가…",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1359476153786933200,
+		"in_reply_to_status_id_str": "1359476153786933257",
+		"in_reply_to_user_id": 1300822008972767200,
+		"in_reply_to_user_id_str": "1300822008972767232",
+		"in_reply_to_screen_name": "dindin_sln",
+		"user": {
+			"id": 1300822008972767200,
+			"id_str": "1300822008972767232",
+			"name": "딘딘의 잠못밤문장",
+			"screen_name": "dindin_sln",
+			"location": "107.7MHz 파워FM",
+			"description": "딘딘의 뮤직하이 : 잠못밤 코너의 딘딘 문장을 모읍니다",
+			"url": "https://t.co/e2gC78hB9X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e2gC78hB9X",
+							"expanded_url": "https://programs.sbs.co.kr/radio/dindinmusichigh/main",
+							"display_url": "programs.sbs.co.kr/radio/dindinmu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1167,
+			"friends_count": 1,
+			"listed_count": 5,
+			"created_at": "Tue Sep 01 15:45:40 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1300822008972767232/1609435254",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 665,
+		"favorite_count": 228,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "되게 같잖았어요 솔직히. \n오늘 잠못밤은 저만 느낀 게 아니라는 생각이 듭니다. 굉장히 좀… 같잖죠. 제가 예전 잠못밤에서도 이야기를 했는데, 지금이 어느 시대인데 무슨 사람과 사람 사이에 격차가 있는 것처럼 하고, 위아래가 있는 것처럼 이렇게 나누는 것 자체가…"
+	},
+	{
+		"created_at": "Fri Feb 12 13:22:01 +0000 2021",
+		"id": 1359476153786933200,
+		"id_str": "1360217595476017153",
+		"full_text": "제가 알기로 초대장을 만 원, 2만 원에 판매한다 이런 이야기를 들었는데, 마치 무슨…제가 느낀 건 이랬어요. 옛날 중세 시대 이럴 땐 귀족이 파티를 하는데 거기 들어가기 위해서 노력을 하는데, 또 막상 들어가면 또 귀족 안에 귀족이 있어서 귀족들끼리만 얘기를 하고 약간 이런 느낌을 받아서",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1359476152423772200,
+		"in_reply_to_status_id_str": "1359476152423772165",
+		"in_reply_to_user_id": 1300822008972767200,
+		"in_reply_to_user_id_str": "1300822008972767232",
+		"in_reply_to_screen_name": "dindin_sln",
+		"user": {
+			"id": 1300822008972767200,
+			"id_str": "1300822008972767232",
+			"name": "딘딘의 잠못밤문장",
+			"screen_name": "dindin_sln",
+			"location": "107.7MHz 파워FM",
+			"description": "딘딘의 뮤직하이 : 잠못밤 코너의 딘딘 문장을 모읍니다",
+			"url": "https://t.co/e2gC78hB9X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e2gC78hB9X",
+							"expanded_url": "https://programs.sbs.co.kr/radio/dindinmusichigh/main",
+							"display_url": "programs.sbs.co.kr/radio/dindinmu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1167,
+			"friends_count": 1,
+			"listed_count": 5,
+			"created_at": "Tue Sep 01 15:45:40 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1300822008972767232/1609435254",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 568,
+		"favorite_count": 162,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "제가 알기로 초대장을 만 원, 2만 원에 판매한다 이런 이야기를 들었는데, 마치 무슨…제가 느낀 건 이랬어요. 옛날 중세 시대 이럴 땐 귀족이 파티를 하는데 거기 들어가기 위해서 노력을 하는데, 또 막상 들어가면 또 귀족 안에 귀족이 있어서 귀족들끼리만 얘기를 하고 약간 이런 느낌을 받아서"
+	},
+	{
+		"created_at": "Fri Feb 12 13:21:58 +0000 2021",
+		"id": 1359476152423772200,
+		"id_str": "1360217583497089029",
+		"full_text": "그래도 스윙스씨는 그나마 소통을 굉장히 잘 하면서 하시는 것 같다는 생각이 들어요. 그리고 이게 되게 지금 좀 질타를 받는 플랫폼인 이유가 ‘지들 끼리끼리만 노네’ 이런 이야기가 생기게 됐는데, 어떻게 보면 이건 이 어플에서 마케팅을 좀 한 것 같은 느낌이 듭니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1359476151069024300,
+		"in_reply_to_status_id_str": "1359476151069024258",
+		"in_reply_to_user_id": 1300822008972767200,
+		"in_reply_to_user_id_str": "1300822008972767232",
+		"in_reply_to_screen_name": "dindin_sln",
+		"user": {
+			"id": 1300822008972767200,
+			"id_str": "1300822008972767232",
+			"name": "딘딘의 잠못밤문장",
+			"screen_name": "dindin_sln",
+			"location": "107.7MHz 파워FM",
+			"description": "딘딘의 뮤직하이 : 잠못밤 코너의 딘딘 문장을 모읍니다",
+			"url": "https://t.co/e2gC78hB9X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e2gC78hB9X",
+							"expanded_url": "https://programs.sbs.co.kr/radio/dindinmusichigh/main",
+							"display_url": "programs.sbs.co.kr/radio/dindinmu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1167,
+			"friends_count": 1,
+			"listed_count": 5,
+			"created_at": "Tue Sep 01 15:45:40 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1300822008972767232/1609435254",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 93,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그래도 스윙스씨는 그나마 소통을 굉장히 잘 하면서 하시는 것 같다는 생각이 들어요. 그리고 이게 되게 지금 좀 질타를 받는 플랫폼인 이유가 ‘지들 끼리끼리만 노네’ 이런 이야기가 생기게 됐는데, 어떻게 보면 이건 이 어플에서 마케팅을 좀 한 것 같은 느낌이 듭니다."
+	},
+	{
+		"created_at": "Fri Feb 12 13:21:56 +0000 2021",
+		"id": 1359476151069024300,
+		"id_str": "1360217577159487493",
+		"full_text": "이런 것들을 알 수 있어서 굉장히 좀 소통이 됐고. 근데 또 느낀 것 하나는 뭔가 이게 좀 권력화된 소통이 될 수도 있겠다 이런 생각이 들면서, 아 나는 그래도 이렇게 사용하지 말아야겠다 이런 생각을 했고.\n방금 제가 스윙스씨가 방을 열어서 계속 들락날락거렸는데. 뮤직하이 홍보하느라.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1359476149672308700,
+		"in_reply_to_status_id_str": "1359476149672308739",
+		"in_reply_to_user_id": 1300822008972767200,
+		"in_reply_to_user_id_str": "1300822008972767232",
+		"in_reply_to_screen_name": "dindin_sln",
+		"user": {
+			"id": 1300822008972767200,
+			"id_str": "1300822008972767232",
+			"name": "딘딘의 잠못밤문장",
+			"screen_name": "dindin_sln",
+			"location": "107.7MHz 파워FM",
+			"description": "딘딘의 뮤직하이 : 잠못밤 코너의 딘딘 문장을 모읍니다",
+			"url": "https://t.co/e2gC78hB9X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e2gC78hB9X",
+							"expanded_url": "https://programs.sbs.co.kr/radio/dindinmusichigh/main",
+							"display_url": "programs.sbs.co.kr/radio/dindinmu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1167,
+			"friends_count": 1,
+			"listed_count": 5,
+			"created_at": "Tue Sep 01 15:45:40 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1300822008972767232/1609435254",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 105,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이런 것들을 알 수 있어서 굉장히 좀 소통이 됐고. 근데 또 느낀 것 하나는 뭔가 이게 좀 권력화된 소통이 될 수도 있겠다 이런 생각이 들면서, 아 나는 그래도 이렇게 사용하지 말아야겠다 이런 생각을 했고.\n방금 제가 스윙스씨가 방을 열어서 계속 들락날락거렸는데. 뮤직하이 홍보하느라."
+	},
+	{
+		"created_at": "Fri Feb 12 13:21:55 +0000 2021",
+		"id": 1359476149672308700,
+		"id_str": "1360217570276642820",
+		"full_text": "근데 어쨌든 하면서 느낀 점은, 좋은 점은 그래도 소통이 되더라구요. 예를 들어서 전 세계니까, 핀란드 분이 들어오셔서 핀란드 현재 ㅋㄹㄴ 상황에 대해서 이야기하고, 스웨덴에 대해서 이야기하고, 갑자기 학교 선배, 그러면서 우리가 알 수 없었던 이야기들, 일본의 ㅋㄹㄴ 상황.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1359476148283928600,
+		"in_reply_to_status_id_str": "1359476148283928582",
+		"in_reply_to_user_id": 1300822008972767200,
+		"in_reply_to_user_id_str": "1300822008972767232",
+		"in_reply_to_screen_name": "dindin_sln",
+		"user": {
+			"id": 1300822008972767200,
+			"id_str": "1300822008972767232",
+			"name": "딘딘의 잠못밤문장",
+			"screen_name": "dindin_sln",
+			"location": "107.7MHz 파워FM",
+			"description": "딘딘의 뮤직하이 : 잠못밤 코너의 딘딘 문장을 모읍니다",
+			"url": "https://t.co/e2gC78hB9X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e2gC78hB9X",
+							"expanded_url": "https://programs.sbs.co.kr/radio/dindinmusichigh/main",
+							"display_url": "programs.sbs.co.kr/radio/dindinmu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1167,
+			"friends_count": 1,
+			"listed_count": 5,
+			"created_at": "Tue Sep 01 15:45:40 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1300822008972767232/1609435254",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 92,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "근데 어쨌든 하면서 느낀 점은, 좋은 점은 그래도 소통이 되더라구요. 예를 들어서 전 세계니까, 핀란드 분이 들어오셔서 핀란드 현재 ㅋㄹㄴ 상황에 대해서 이야기하고, 스웨덴에 대해서 이야기하고, 갑자기 학교 선배, 그러면서 우리가 알 수 없었던 이야기들, 일본의 ㅋㄹㄴ 상황."
+	},
+	{
+		"created_at": "Fri Feb 12 13:21:53 +0000 2021",
+		"id": 1359476148283928600,
+		"id_str": "1360217562760400901",
+		"full_text": "그런 생각이 갑자기 들기 시작한 거예요. 그래서 갑자기 확 짜증이 나는 거예요. 사람들을 엄청 그냥 다 마이크를 열어버렸죠 제가. 그러면서 어제 갑자기 딘딘의 뮤직하이가 거의 5,6,7,8부까지 거기서 이어졌는데. 새벽 한 4시 반까지인가 5시까지인가 한 것 같아요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1359476146883027000,
+		"in_reply_to_status_id_str": "1359476146883026951",
+		"in_reply_to_user_id": 1300822008972767200,
+		"in_reply_to_user_id_str": "1300822008972767232",
+		"in_reply_to_screen_name": "dindin_sln",
+		"user": {
+			"id": 1300822008972767200,
+			"id_str": "1300822008972767232",
+			"name": "딘딘의 잠못밤문장",
+			"screen_name": "dindin_sln",
+			"location": "107.7MHz 파워FM",
+			"description": "딘딘의 뮤직하이 : 잠못밤 코너의 딘딘 문장을 모읍니다",
+			"url": "https://t.co/e2gC78hB9X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e2gC78hB9X",
+							"expanded_url": "https://programs.sbs.co.kr/radio/dindinmusichigh/main",
+							"display_url": "programs.sbs.co.kr/radio/dindinmu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1167,
+			"friends_count": 1,
+			"listed_count": 5,
+			"created_at": "Tue Sep 01 15:45:40 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1300822008972767232/1609435254",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 112,
+		"favorite_count": 82,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그런 생각이 갑자기 들기 시작한 거예요. 그래서 갑자기 확 짜증이 나는 거예요. 사람들을 엄청 그냥 다 마이크를 열어버렸죠 제가. 그러면서 어제 갑자기 딘딘의 뮤직하이가 거의 5,6,7,8부까지 거기서 이어졌는데. 새벽 한 4시 반까지인가 5시까지인가 한 것 같아요."
+	},
+	{
+		"created_at": "Fri Feb 12 13:21:40 +0000 2021",
+		"id": 1359476146883027000,
+		"id_str": "1360217507563413504",
+		"full_text": "이렇게 일반인은 대화를 받아주면 안돼 라고 이야기를 했는데 저는 거기서 “네가 뭔데”라는 생각도 좀 들었고, “일반인이 뭔데?” 뭐 이런 생각이 좀 들었고. 다 이용하라고 만든 플랫폼 안에서 누구는 되고, 얘는 안되고 이건 된다고? 그건 무슨 권위적인 방식이지?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1359476145482129400,
+		"in_reply_to_status_id_str": "1359476145482129409",
+		"in_reply_to_user_id": 1300822008972767200,
+		"in_reply_to_user_id_str": "1300822008972767232",
+		"in_reply_to_screen_name": "dindin_sln",
+		"user": {
+			"id": 1300822008972767200,
+			"id_str": "1300822008972767232",
+			"name": "딘딘의 잠못밤문장",
+			"screen_name": "dindin_sln",
+			"location": "107.7MHz 파워FM",
+			"description": "딘딘의 뮤직하이 : 잠못밤 코너의 딘딘 문장을 모읍니다",
+			"url": "https://t.co/e2gC78hB9X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e2gC78hB9X",
+							"expanded_url": "https://programs.sbs.co.kr/radio/dindinmusichigh/main",
+							"display_url": "programs.sbs.co.kr/radio/dindinmu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1167,
+			"friends_count": 1,
+			"listed_count": 5,
+			"created_at": "Tue Sep 01 15:45:40 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1300822008972767232/1609435254",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 914,
+		"favorite_count": 267,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이렇게 일반인은 대화를 받아주면 안돼 라고 이야기를 했는데 저는 거기서 “네가 뭔데”라는 생각도 좀 들었고, “일반인이 뭔데?” 뭐 이런 생각이 좀 들었고. 다 이용하라고 만든 플랫폼 안에서 누구는 되고, 얘는 안되고 이건 된다고? 그건 무슨 권위적인 방식이지?"
+	},
+	{
+		"created_at": "Fri Feb 12 13:21:35 +0000 2021",
+		"id": 1359476145482129400,
+		"id_str": "1360217490207350789",
+		"full_text": "그래가지고 어제 라디오 끝나고 제가 한번 방을 만들어봤어요. 그래서 얘기를 하는데. 저는 어떻게 하는지를 모르니까, 들어오시는 분들을 다 대화에 참여해서 이야기를 하고 있는데. 지인분 한 분이 들어오셨는데 그분이 저한테 이거 이렇게 하는 거 아니라고 하면서,",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1359476144072917000,
+		"in_reply_to_status_id_str": "1359476144072916994",
+		"in_reply_to_user_id": 1300822008972767200,
+		"in_reply_to_user_id_str": "1300822008972767232",
+		"in_reply_to_screen_name": "dindin_sln",
+		"user": {
+			"id": 1300822008972767200,
+			"id_str": "1300822008972767232",
+			"name": "딘딘의 잠못밤문장",
+			"screen_name": "dindin_sln",
+			"location": "107.7MHz 파워FM",
+			"description": "딘딘의 뮤직하이 : 잠못밤 코너의 딘딘 문장을 모읍니다",
+			"url": "https://t.co/e2gC78hB9X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e2gC78hB9X",
+							"expanded_url": "https://programs.sbs.co.kr/radio/dindinmusichigh/main",
+							"display_url": "programs.sbs.co.kr/radio/dindinmu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1167,
+			"friends_count": 1,
+			"listed_count": 5,
+			"created_at": "Tue Sep 01 15:45:40 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1300822008972767232/1609435254",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 144,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그래가지고 어제 라디오 끝나고 제가 한번 방을 만들어봤어요. 그래서 얘기를 하는데. 저는 어떻게 하는지를 모르니까, 들어오시는 분들을 다 대화에 참여해서 이야기를 하고 있는데. 지인분 한 분이 들어오셨는데 그분이 저한테 이거 이렇게 하는 거 아니라고 하면서,"
+	},
+	{
+		"created_at": "Fri Feb 12 13:21:33 +0000 2021",
+		"id": 1359476144072917000,
+		"id_str": "1360217480652750850",
+		"full_text": "가입을 해서 어제 처음 해봤는데 어떻게 하는지를 전혀 모르겟더라구요. 근데 몇몇 방을 들어가 봤는데 저에게 개인적으로는 끼리끼리 떠들고 있고, 그거를 다른 사람들에게는 대화를 할 기회를 주지 않는. 우리는 우리끼리 얘기할 테니까 너희는 듣기만 해 약간 이런 뉘앙스를 받았어요 개인적으로는.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1359476142583869400,
+		"in_reply_to_status_id_str": "1359476142583869444",
+		"in_reply_to_user_id": 1300822008972767200,
+		"in_reply_to_user_id_str": "1300822008972767232",
+		"in_reply_to_screen_name": "dindin_sln",
+		"user": {
+			"id": 1300822008972767200,
+			"id_str": "1300822008972767232",
+			"name": "딘딘의 잠못밤문장",
+			"screen_name": "dindin_sln",
+			"location": "107.7MHz 파워FM",
+			"description": "딘딘의 뮤직하이 : 잠못밤 코너의 딘딘 문장을 모읍니다",
+			"url": "https://t.co/e2gC78hB9X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e2gC78hB9X",
+							"expanded_url": "https://programs.sbs.co.kr/radio/dindinmusichigh/main",
+							"display_url": "programs.sbs.co.kr/radio/dindinmu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1167,
+			"friends_count": 1,
+			"listed_count": 5,
+			"created_at": "Tue Sep 01 15:45:40 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1300822008972767232/1609435254",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 238,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "가입을 해서 어제 처음 해봤는데 어떻게 하는지를 전혀 모르겟더라구요. 근데 몇몇 방을 들어가 봤는데 저에게 개인적으로는 끼리끼리 떠들고 있고, 그거를 다른 사람들에게는 대화를 할 기회를 주지 않는. 우리는 우리끼리 얘기할 테니까 너희는 듣기만 해 약간 이런 뉘앙스를 받았어요 개인적으로는."
+	},
+	{
+		"created_at": "Fri Feb 12 13:21:31 +0000 2021",
+		"id": 1359476142583869400,
+		"id_str": "1360217470418649095",
+		"full_text": "이게 한 아이디당 두 개의 초대장이 존재합니다. 그래서 초대를 받은 사람들만 가입을 할 수 있는, 그리고 아이폰을 쓰는 사람들만 가입을 할 수 있는 그런 플랫폼인데. 저도 고막메이트 피디님이 저를 초대를 하신 거예요. 그래서 저도 궁금했고, 이런 새로운 것들에 관심이 많아서",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1359476141103353900,
+		"in_reply_to_status_id_str": "1359476141103353858",
+		"in_reply_to_user_id": 1300822008972767200,
+		"in_reply_to_user_id_str": "1300822008972767232",
+		"in_reply_to_screen_name": "dindin_sln",
+		"user": {
+			"id": 1300822008972767200,
+			"id_str": "1300822008972767232",
+			"name": "딘딘의 잠못밤문장",
+			"screen_name": "dindin_sln",
+			"location": "107.7MHz 파워FM",
+			"description": "딘딘의 뮤직하이 : 잠못밤 코너의 딘딘 문장을 모읍니다",
+			"url": "https://t.co/e2gC78hB9X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e2gC78hB9X",
+							"expanded_url": "https://programs.sbs.co.kr/radio/dindinmusichigh/main",
+							"display_url": "programs.sbs.co.kr/radio/dindinmu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1167,
+			"friends_count": 1,
+			"listed_count": 5,
+			"created_at": "Tue Sep 01 15:45:40 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1300822008972767232/1609435254",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이게 한 아이디당 두 개의 초대장이 존재합니다. 그래서 초대를 받은 사람들만 가입을 할 수 있는, 그리고 아이폰을 쓰는 사람들만 가입을 할 수 있는 그런 플랫폼인데. 저도 고막메이트 피디님이 저를 초대를 하신 거예요. 그래서 저도 궁금했고, 이런 새로운 것들에 관심이 많아서"
+	},
+	{
+		"created_at": "Fri Feb 12 13:12:52 +0000 2021",
+		"id": 1359468906277085200,
+		"id_str": "1360215296250765317",
+		"full_text": "딘딘의 뮤직하이 162회. 210209\n\n“ 새로운 플랫폼이 생겼다.\n사용해보고 느낀 점은, 확장된 소통.\n나쁜 의미로는, 끼리끼리 더 권력화된 소통. “",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1300822008972767200,
+			"id_str": "1300822008972767232",
+			"name": "딘딘의 잠못밤문장",
+			"screen_name": "dindin_sln",
+			"location": "107.7MHz 파워FM",
+			"description": "딘딘의 뮤직하이 : 잠못밤 코너의 딘딘 문장을 모읍니다",
+			"url": "https://t.co/e2gC78hB9X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e2gC78hB9X",
+							"expanded_url": "https://programs.sbs.co.kr/radio/dindinmusichigh/main",
+							"display_url": "programs.sbs.co.kr/radio/dindinmu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1167,
+			"friends_count": 1,
+			"listed_count": 5,
+			"created_at": "Tue Sep 01 15:45:40 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312779543275466754/uSVFg-44_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1300822008972767232/1609435254",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5097,
+		"favorite_count": 2325,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "딘딘의 뮤직하이 162회. 210209\n\n“ 새로운 플랫폼이 생겼다.\n사용해보고 느낀 점은, 확장된 소통.\n나쁜 의미로는, 끼리끼리 더 권력화된 소통. “"
+	},
+	{
+		"created_at": "Fri Feb 12 13:09:56 +0000 2021",
+		"id": 1360204963549307000,
+		"id_str": "1360214558493708296",
+		"full_text": "수도권도 '밤 10시까지 영업' 허용 가닥…13일 발표 https://t.co/wJ4Homb41p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wJ4Homb41p",
+					"expanded_url": "https://news.jtbc.joins.com/html/140/NB11992140.html",
+					"display_url": "news.jtbc.joins.com/html/140/NB119…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 397672819,
+			"id_str": "397672819",
+			"name": "JTBC 뉴스",
+			"screen_name": "JTBC_news",
+			"location": "서울시 마포구 상암산로 48-6",
+			"description": "JTBC 뉴스 공식 트위터입니다!!\n이곳은 트친 여러분의 이야기와 목소리에 귀 기울이는 곳입니다.\n많은 관심과 사랑 부탁드립니다. ^^",
+			"url": "http://t.co/CrCzofZgOd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/CrCzofZgOd",
+							"expanded_url": "http://facebook.com/jtbcnews",
+							"display_url": "facebook.com/jtbcnews",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 609250,
+			"friends_count": 43554,
+			"listed_count": 2169,
+			"created_at": "Tue Oct 25 00:50:16 +0000 2011",
+			"favourites_count": 301,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 81453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A9A9A9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247039086713425922/oOmR2jkc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247039086713425922/oOmR2jkc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/397672819/1586971432",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "수도권도 '밤 10시까지 영업' 허용 가닥…13일 발표 https://t.co/wJ4Homb41p"
+	},
+	{
 		"created_at": "Fri Feb 12 12:02:06 +0000 2021",
 		"id": 1360192098981433300,
 		"id_str": "1360197484413394951",
