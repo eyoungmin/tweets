@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sat Feb 13 17:18:11 +0000 2021",
+		"id": 1360637255132434400,
+		"id_str": "1360639420236324866",
+		"full_text": "https://t.co/888mYIJbNp https://t.co/TLHKilREVO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/888mYIJbNp",
+					"expanded_url": "http://arianagrande.lnk.to/3435remixvideo",
+					"display_url": "arianagrande.lnk.to/3435remixvideo",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1360637251852464000,
+					"id_str": "1360637251852464128",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EuH0XyDUcAAcygq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuH0XyDUcAAcygq.jpg",
+					"url": "https://t.co/TLHKilREVO",
+					"display_url": "pic.twitter.com/TLHKilREVO",
+					"expanded_url": "https://twitter.com/ArianaGrande/status/1360637255132434433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1282,
+							"h": 1579,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 552,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 974,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1360637251852464000,
+					"id_str": "1360637251852464128",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EuH0XyDUcAAcygq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuH0XyDUcAAcygq.jpg",
+					"url": "https://t.co/TLHKilREVO",
+					"display_url": "pic.twitter.com/TLHKilREVO",
+					"expanded_url": "https://twitter.com/ArianaGrande/status/1360637255132434433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1282,
+							"h": 1579,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 552,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 974,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34507480,
+			"id_str": "34507480",
+			"name": "Ariana Grande",
+			"screen_name": "ArianaGrande",
+			"location": "ǝʌɐ uooɯʎǝuoɥ",
+			"description": "positions",
+			"url": "https://t.co/0HahMmQtD9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0HahMmQtD9",
+							"expanded_url": "http://arianagrande.lnk.to/3435remixvideo",
+							"display_url": "arianagrande.lnk.to/3435remixvideo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81948695,
+			"friends_count": 57042,
+			"listed_count": 55077,
+			"created_at": "Thu Apr 23 02:56:31 +0000 2009",
+			"favourites_count": 44461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 46849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1348306132125839360/5dBpeAGj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1348306132125839360/5dBpeAGj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34507480/1610660498",
+			"profile_link_color": "AD92D1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "D8A0C1",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10028,
+		"favorite_count": 69053,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/888mYIJbNp https://t.co/TLHKilREVO"
+	},
+	{
 		"created_at": "Sat Feb 13 15:02:20 +0000 2021",
 		"id": 1360605143167864800,
 		"id_str": "1360605231390863364",
