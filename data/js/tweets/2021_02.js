@@ -1,6 +1,186 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 14 12:02:06 +0000 2021",
+		"id": 1360908830700306400,
+		"id_str": "1360922260085866497",
+		"full_text": "[VIDEO] #피지컬갤러리 2탄\n춤배우기 편 - 대머리독수리를 본 청하의 반응은...?\n\n▶️ https://t.co/efYUIGbSmP\n\n#청하  #CHUNGHA  \n#CHUNGHA_Querencia  \n#CHUNGHA_Bicycle  \n#Querencia #Bicycle\n#청하_0215_컴백_많관부\n#김청하가_귀엽다면_삐빅_정상입니다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "피지컬갤러리",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "CHUNGHA_Querencia",
+					"indices": [
+						95,
+						113
+					]
+				},
+				{
+					"text": "CHUNGHA_Bicycle",
+					"indices": [
+						116,
+						132
+					]
+				},
+				{
+					"text": "Querencia",
+					"indices": [
+						135,
+						145
+					]
+				},
+				{
+					"text": "Bicycle",
+					"indices": [
+						146,
+						154
+					]
+				},
+				{
+					"text": "청하_0215_컴백_많관부",
+					"indices": [
+						155,
+						170
+					]
+				},
+				{
+					"text": "김청하가_귀엽다면_삐빅_정상입니다",
+					"indices": [
+						171,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/efYUIGbSmP",
+					"expanded_url": "https://youtu.be/fBw5iwzu7hI",
+					"display_url": "youtu.be/fBw5iwzu7hI",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜 'Querencia' PRE-ORDER 👉 https://t.co/6FjcqRIqMF",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6FjcqRIqMF",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								54,
+								77
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 316002,
+			"friends_count": 0,
+			"listed_count": 1946,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353580382994587648/zWJDlVAQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353580382994587648/zWJDlVAQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1611565202",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 222,
+		"favorite_count": 1139,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] #피지컬갤러리 2탄\n춤배우기 편 - 대머리독수리를 본 청하의 반응은...?\n\n▶️ https://t.co/efYUIGbSmP\n\n#청하  #CHUNGHA  \n#CHUNGHA_Querencia  \n#CHUNGHA_Bicycle  \n#Querencia #Bicycle\n#청하_0215_컴백_많관부\n#김청하가_귀엽다면_삐빅_정상입니다"
+	},
+	{
 		"created_at": "Sun Feb 14 11:01:55 +0000 2021",
 		"id": 1360907115473346600,
 		"id_str": "1360907115473346561",
