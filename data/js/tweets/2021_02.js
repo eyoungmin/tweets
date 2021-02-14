@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 14 18:24:01 +0000 2021",
+		"id": 1361008137478697000,
+		"id_str": "1361018373702754306",
+		"full_text": "Watch Billie describe her experience watching “Billie Eilish: #TheWorldsALittleBlurry” for the first time. \n\nComing 2/26 to Apple TV+ @appletv\nhttps://t.co/hMcO3wtNaG https://t.co/zs2VMTuJTF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheWorldsALittleBlurry",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleTV",
+					"name": "Apple TV",
+					"id": 82652901,
+					"id_str": "82652901",
+					"indices": [
+						134,
+						142
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hMcO3wtNaG",
+					"expanded_url": "http://apple.co/theworldsalittleblurry",
+					"display_url": "apple.co/theworldsalitt…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1361008076447359000,
+					"id_str": "1361008076447358977",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1361008076447358977/pu/img/j2NIhtIipTM5XT0c.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1361008076447358977/pu/img/j2NIhtIipTM5XT0c.jpg",
+					"url": "https://t.co/zs2VMTuJTF",
+					"display_url": "pic.twitter.com/zs2VMTuJTF",
+					"expanded_url": "https://twitter.com/billieeilish/status/1361008137478696965/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1361008076447359000,
+					"id_str": "1361008076447358977",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1361008076447358977/pu/img/j2NIhtIipTM5XT0c.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1361008076447358977/pu/img/j2NIhtIipTM5XT0c.jpg",
+					"url": "https://t.co/zs2VMTuJTF",
+					"display_url": "pic.twitter.com/zs2VMTuJTF",
+					"expanded_url": "https://twitter.com/billieeilish/status/1361008137478696965/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 44331,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1361008076447358977/pu/vid/480x480/z8BjzUHqW09lXGDv.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1361008076447358977/pu/pl/uzGMLptc3xhcI78t.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1361008076447358977/pu/vid/720x720/ahqFpGpG2hd6DuuR.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1361008076447358977/pu/vid/320x320/zCuVPImrJqX8oxdP.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? https://t.co/jPS2qPEVbA | “Therefore I Am” https://t.co/E5ubhVL7x3",
+			"url": "https://t.co/oRhmwrN1J1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRhmwrN1J1",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPS2qPEVbA",
+							"expanded_url": "https://smarturl.it/BILLIEALBUM",
+							"display_url": "smarturl.it/BILLIEALBUM",
+							"indices": [
+								41,
+								64
+							]
+						},
+						{
+							"url": "https://t.co/E5ubhVL7x3",
+							"expanded_url": "https://smarturl.it/ThereforeIAm",
+							"display_url": "smarturl.it/ThereforeIAm",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5462664,
+			"friends_count": 0,
+			"listed_count": 3401,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7262,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356651800682586113/yvC2faZT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356651800682586113/yvC2faZT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1612285649",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2048,
+		"favorite_count": 14222,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watch Billie describe her experience watching “Billie Eilish: #TheWorldsALittleBlurry” for the first time. \n\nComing 2/26 to Apple TV+ @appletv\nhttps://t.co/hMcO3wtNaG https://t.co/zs2VMTuJTF"
+	},
+	{
 		"created_at": "Sun Feb 14 16:02:14 +0000 2021",
 		"id": 1360980988256415700,
 		"id_str": "1360982691085221890",
