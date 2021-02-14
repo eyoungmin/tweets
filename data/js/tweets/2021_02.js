@@ -1,6 +1,1046 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 14 03:01:09 +0000 2021",
+		"id": 1360786125162508300,
+		"id_str": "1360786125162508289",
+		"full_text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Feb 14) https://t.co/N4XoUkzBXt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "Nuzzel",
+					"indices": [
+						21,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N4XoUkzBXt",
+					"expanded_url": "https://nzzl.us/t6JNWXV",
+					"display_url": "nzzl.us/t6JNWXV",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1040,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Twitter #Newsletter #Nuzzel\n트위터 뉴스레터 (Feb 14) https://t.co/N4XoUkzBXt"
+	},
+	{
+		"created_at": "Sun Feb 14 02:53:51 +0000 2021",
+		"id": 1360784290007507000,
+		"id_str": "1360784290007506949",
+		"full_text": "내가 오픈(?) 소셜을 지향하는 것도 같은 맥락. 소셜네트워크가 소셜과 네트워킹을 지우고 폐쇄적인 서비스로 돌아서고 있기 때문에. 정보의 비대칭은 격차를 만들고 차별을 만든다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1040,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "내가 오픈(?) 소셜을 지향하는 것도 같은 맥락. 소셜네트워크가 소셜과 네트워킹을 지우고 폐쇄적인 서비스로 돌아서고 있기 때문에. 정보의 비대칭은 격차를 만들고 차별을 만든다."
+	},
+	{
+		"created_at": "Sun Feb 14 02:48:11 +0000 2021",
+		"id": 1360782862996230100,
+		"id_str": "1360782862996230144",
+		"full_text": "쿠팡이 가격이 조금 비싸도 꾸준히 이용률이 유지되는 것은 간편결제가 영향이 크지. 원터치 간편결제.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1360782209146265600,
+		"in_reply_to_status_id_str": "1360782209146265606",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1040,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "쿠팡이 가격이 조금 비싸도 꾸준히 이용률이 유지되는 것은 간편결제가 영향이 크지. 원터치 간편결제."
+	},
+	{
+		"created_at": "Sun Feb 14 02:45:35 +0000 2021",
+		"id": 1360782209146265600,
+		"id_str": "1360782209146265606",
+		"full_text": "모바일 페이 결제로 넘기면 된다는 의견도 있지만 명의가 다르면 간편결제를 시작하기 어렵기 때문에 허들이 됨. 폰 명의가 하나로 되어 있다면.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1360780762476257300,
+		"in_reply_to_status_id_str": "1360780762476257288",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1040,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "모바일 페이 결제로 넘기면 된다는 의견도 있지만 명의가 다르면 간편결제를 시작하기 어렵기 때문에 허들이 됨. 폰 명의가 하나로 되어 있다면."
+	},
+	{
+		"created_at": "Sun Feb 14 02:41:03 +0000 2021",
+		"id": 1360781068337434600,
+		"id_str": "1360781068337434630",
+		"full_text": "갑자기 단어가 생각이 안나는데... 간편결제인데 결제를 힘들게하고 추가적인 수단을 넣는거를 뭐라고 하는데... 뭐였지....?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1360780762476257300,
+		"in_reply_to_status_id_str": "1360780762476257288",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1040,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "갑자기 단어가 생각이 안나는데... 간편결제인데 결제를 힘들게하고 추가적인 수단을 넣는거를 뭐라고 하는데... 뭐였지....?"
+	},
+	{
+		"created_at": "Sun Feb 14 02:39:50 +0000 2021",
+		"id": 1360780762476257300,
+		"id_str": "1360780762476257288",
+		"full_text": "대부분 내가 결제를 대신하지만 나도 복잡해서 그 티비에서 언급한 금액을 맞출 수 없음. 그리고 말장난도 다수 있고. 개인 명의 폰이 없는 부모님세대도 있을거라 간편결제에 허들이 생김. https://t.co/8slaskGMC4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8slaskGMC4",
+					"expanded_url": "https://twitter.com/kimkkokkam/status/1359607702805045253",
+					"display_url": "twitter.com/kimkkokkam/sta…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1040,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1359607702805045200,
+		"quoted_status_id_str": "1359607702805045253",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8slaskGMC4",
+			"expanded": "https://twitter.com/kimkkokkam/status/1359607702805045253",
+			"display": "twitter.com/kimkkokkam/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 10 20:58:31 +0000 2021",
+			"id": 1359607702805045200,
+			"id_str": "1359607702805045253",
+			"full_text": "가끔 엄마가 홈쇼핑 결제를 해 달라고 폰을 들고 오시는데 과정이 점점 어려워져서 내가 하기에도 어렵다. 젊은 동거가족이 없는 노인들은 이걸 직접 하시는 걸까 아니면 비싼 돈을 내고 억지로 사야하는 걸까. 예전에는 그냥 어플로 결제하면 할인 되는 정도였는데 요즘은 어플 가입 결제는 기본이고",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				161
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 45101740,
+				"id_str": "45101740",
+				"name": "김꼬깜",
+				"screen_name": "kimkkokkam",
+				"location": "방구석",
+				"description": "마켓컬리 추천인 nahoona / 니가 아무리 개같은 소리를 해도 나는 괜찮은 사람이야 https://t.co/7i49eKJs9B",
+				"url": "https://t.co/wQ2nOeH1Bs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wQ2nOeH1Bs",
+								"expanded_url": "https://www.youtube.com/channel/UC6aiK72EFCH0rzJp8OUwMUw",
+								"display_url": "youtube.com/channel/UC6aiK…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/7i49eKJs9B",
+								"expanded_url": "http://dksehffkd323.blog.me",
+								"display_url": "dksehffkd323.blog.me",
+								"indices": [
+									49,
+									72
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 11900,
+				"friends_count": 370,
+				"listed_count": 98,
+				"created_at": "Sat Jun 06 09:42:30 +0000 2009",
+				"favourites_count": 21763,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 35214,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "89C9FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1359724730127818752/p3KqjAhJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1359724730127818752/p3KqjAhJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/45101740/1598785302",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E5507E",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4712,
+			"favorite_count": 2121,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대부분 내가 결제를 대신하지만 나도 복잡해서 그 티비에서 언급한 금액을 맞출 수 없음. 그리고 말장난도 다수 있고. 개인 명의 폰이 없는 부모님세대도 있을거라 간편결제에 허들이 생김. https://t.co/8slaskGMC4"
+	},
+	{
+		"created_at": "Sun Feb 14 02:38:23 +0000 2021",
+		"id": 1359609266991059000,
+		"id_str": "1360780396821053441",
+		"full_text": "그나마 스마트폰 사용에 익숙한 세대인 나도 이렇게 어렵고 오래 걸리는데 따로 이용방법을 교육받지 못한 어르신들이 이걸 어떻게 하라는 건지. 생각하다보니 또 열받네 개자식들이",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1359608883040317400,
+		"in_reply_to_status_id_str": "1359608883040317440",
+		"in_reply_to_user_id": 45101740,
+		"in_reply_to_user_id_str": "45101740",
+		"in_reply_to_screen_name": "kimkkokkam",
+		"user": {
+			"id": 45101740,
+			"id_str": "45101740",
+			"name": "김꼬깜",
+			"screen_name": "kimkkokkam",
+			"location": "방구석",
+			"description": "마켓컬리 추천인 nahoona / 니가 아무리 개같은 소리를 해도 나는 괜찮은 사람이야 https://t.co/7i49eKJs9B",
+			"url": "https://t.co/wQ2nOeH1Bs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wQ2nOeH1Bs",
+							"expanded_url": "https://www.youtube.com/channel/UC6aiK72EFCH0rzJp8OUwMUw",
+							"display_url": "youtube.com/channel/UC6aiK…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7i49eKJs9B",
+							"expanded_url": "http://dksehffkd323.blog.me",
+							"display_url": "dksehffkd323.blog.me",
+							"indices": [
+								49,
+								72
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11900,
+			"friends_count": 370,
+			"listed_count": 98,
+			"created_at": "Sat Jun 06 09:42:30 +0000 2009",
+			"favourites_count": 21763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1359724730127818752/p3KqjAhJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1359724730127818752/p3KqjAhJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45101740/1598785302",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 531,
+		"favorite_count": 383,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그나마 스마트폰 사용에 익숙한 세대인 나도 이렇게 어렵고 오래 걸리는데 따로 이용방법을 교육받지 못한 어르신들이 이걸 어떻게 하라는 건지. 생각하다보니 또 열받네 개자식들이"
+	},
+	{
+		"created_at": "Sun Feb 14 02:38:20 +0000 2021",
+		"id": 1359608883040317400,
+		"id_str": "1360780384338776064",
+		"full_text": "정보가 부족하니 당연하지 하고 차별하기 전에 어플 가입방법이나 이용방법 같은 걸 방송 시 필수로 넣었으면 좋겠다. 얼마 전에 가입해서 결제해드린 쇼핑앱은 너무 복잡한 나머지 결제부터 가입까지 하는데 15분 가까이가 걸려서 결제하려고 보니 방송이 끝나있어서 결국 방송할인가는 적용 불가.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1359608171950600200,
+		"in_reply_to_status_id_str": "1359608171950600193",
+		"in_reply_to_user_id": 45101740,
+		"in_reply_to_user_id_str": "45101740",
+		"in_reply_to_screen_name": "kimkkokkam",
+		"user": {
+			"id": 45101740,
+			"id_str": "45101740",
+			"name": "김꼬깜",
+			"screen_name": "kimkkokkam",
+			"location": "방구석",
+			"description": "마켓컬리 추천인 nahoona / 니가 아무리 개같은 소리를 해도 나는 괜찮은 사람이야 https://t.co/7i49eKJs9B",
+			"url": "https://t.co/wQ2nOeH1Bs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wQ2nOeH1Bs",
+							"expanded_url": "https://www.youtube.com/channel/UC6aiK72EFCH0rzJp8OUwMUw",
+							"display_url": "youtube.com/channel/UC6aiK…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7i49eKJs9B",
+							"expanded_url": "http://dksehffkd323.blog.me",
+							"display_url": "dksehffkd323.blog.me",
+							"indices": [
+								49,
+								72
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11900,
+			"friends_count": 370,
+			"listed_count": 98,
+			"created_at": "Sat Jun 06 09:42:30 +0000 2009",
+			"favourites_count": 21763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1359724730127818752/p3KqjAhJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1359724730127818752/p3KqjAhJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45101740/1598785302",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 628,
+		"favorite_count": 361,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "정보가 부족하니 당연하지 하고 차별하기 전에 어플 가입방법이나 이용방법 같은 걸 방송 시 필수로 넣었으면 좋겠다. 얼마 전에 가입해서 결제해드린 쇼핑앱은 너무 복잡한 나머지 결제부터 가입까지 하는데 15분 가까이가 걸려서 결제하려고 보니 방송이 끝나있어서 결국 방송할인가는 적용 불가."
+	},
+	{
+		"created_at": "Sun Feb 14 02:38:13 +0000 2021",
+		"id": 1359608171950600200,
+		"id_str": "1360780354026545157",
+		"full_text": "할인을 받으려면 쿠폰도 따로 발급받아야 하며 적립금도 어디를 따로 들어가서 신청해야지만 지급받을 수 있다. 그러면서도 방송에서는 최대 혜택가만을 말한다. 사용할 줄 모르는 사람들은 왜 내가 사는 금액이랑 이렇게까지 다르지하고 돈 쓰면서도 억울한 기분이 들 수밖에 없겠음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1359607702805045200,
+		"in_reply_to_status_id_str": "1359607702805045253",
+		"in_reply_to_user_id": 45101740,
+		"in_reply_to_user_id_str": "45101740",
+		"in_reply_to_screen_name": "kimkkokkam",
+		"user": {
+			"id": 45101740,
+			"id_str": "45101740",
+			"name": "김꼬깜",
+			"screen_name": "kimkkokkam",
+			"location": "방구석",
+			"description": "마켓컬리 추천인 nahoona / 니가 아무리 개같은 소리를 해도 나는 괜찮은 사람이야 https://t.co/7i49eKJs9B",
+			"url": "https://t.co/wQ2nOeH1Bs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wQ2nOeH1Bs",
+							"expanded_url": "https://www.youtube.com/channel/UC6aiK72EFCH0rzJp8OUwMUw",
+							"display_url": "youtube.com/channel/UC6aiK…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7i49eKJs9B",
+							"expanded_url": "http://dksehffkd323.blog.me",
+							"display_url": "dksehffkd323.blog.me",
+							"indices": [
+								49,
+								72
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11900,
+			"friends_count": 370,
+			"listed_count": 98,
+			"created_at": "Sat Jun 06 09:42:30 +0000 2009",
+			"favourites_count": 21763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1359724730127818752/p3KqjAhJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1359724730127818752/p3KqjAhJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45101740/1598785302",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 941,
+		"favorite_count": 450,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "할인을 받으려면 쿠폰도 따로 발급받아야 하며 적립금도 어디를 따로 들어가서 신청해야지만 지급받을 수 있다. 그러면서도 방송에서는 최대 혜택가만을 말한다. 사용할 줄 모르는 사람들은 왜 내가 사는 금액이랑 이렇게까지 다르지하고 돈 쓰면서도 억울한 기분이 들 수밖에 없겠음."
+	},
+	{
 		"created_at": "Sat Feb 13 23:08:26 +0000 2021",
 		"id": 1360727560447959000,
 		"id_str": "1360727560447959044",
