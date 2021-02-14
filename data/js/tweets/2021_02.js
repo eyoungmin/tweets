@@ -1,6 +1,1102 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 14 11:01:55 +0000 2021",
+		"id": 1360907115473346600,
+		"id_str": "1360907115473346561",
+		"full_text": "#HYOYEON_STYLE\n[탐나효 EP.4] 스태프들이 저를 버렸네요•_ • 힐링과 킬링을 넘나드는 제주탐방기 (ENG SUB)\nhttps://t.co/kVIu6wmO9V\n　\n#소녀시대 #GirlsGeneration\n#효연 #Hyoyeon #김효연 #HYOYEON_KIM\n#DJ_HYO #HYO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYOYEON_STYLE",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						105,
+						121
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "Hyoyeon",
+					"indices": [
+						126,
+						134
+					]
+				},
+				{
+					"text": "김효연",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "HYOYEON_KIM",
+					"indices": [
+						140,
+						152
+					]
+				},
+				{
+					"text": "DJ_HYO",
+					"indices": [
+						153,
+						160
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						161,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kVIu6wmO9V",
+					"expanded_url": "https://youtu.be/uUuykuNSrzw",
+					"display_url": "youtu.be/uUuykuNSrzw",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1040,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44802,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#HYOYEON_STYLE\n[탐나효 EP.4] 스태프들이 저를 버렸네요•_ • 힐링과 킬링을 넘나드는 제주탐방기 (ENG SUB)\nhttps://t.co/kVIu6wmO9V\n　\n#소녀시대 #GirlsGeneration\n#효연 #Hyoyeon #김효연 #HYOYEON_KIM\n#DJ_HYO #HYO"
+	},
+	{
+		"created_at": "Sun Feb 14 10:45:37 +0000 2021",
+		"id": 1360891534804050000,
+		"id_str": "1360903012353536005",
+		"full_text": "[#딩고뮤직] (스포주의) 달달한 멜로디에💕 그렇지 못한 스토리?!😱 그래서 주아의 선택은 누굴까…?\n@gaho88882970 @PLT_twt @echoglobalgroup @CUBE_PTG @VICTON1109 @GoldenChild @AB6IX @loonatheworld @drippin\n\n❤️#썸타는편의점 OST-'좋아서 그래(Hello)' MV 바로보기\nhttps://t.co/ll1xRgn9Rl https://t.co/WEjWdRJP0z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "썸타는편의점",
+					"indices": [
+						166,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gaho88882970",
+					"name": "gaho",
+					"id": 1004909176533934100,
+					"id_str": "1004909176533934080",
+					"indices": [
+						57,
+						70
+					]
+				},
+				{
+					"screen_name": "PLT_twt",
+					"name": "PLT",
+					"id": 1001703136036376600,
+					"id_str": "1001703136036376576",
+					"indices": [
+						71,
+						79
+					]
+				},
+				{
+					"screen_name": "echoglobalgroup",
+					"name": "ECHO GLOBAL GROUP",
+					"id": 704179449894285300,
+					"id_str": "704179449894285313",
+					"indices": [
+						80,
+						96
+					]
+				},
+				{
+					"screen_name": "CUBE_PTG",
+					"name": "PENTAGON·펜타곤",
+					"id": 717905524444889100,
+					"id_str": "717905524444889088",
+					"indices": [
+						97,
+						106
+					]
+				},
+				{
+					"screen_name": "VICTON1109",
+					"name": "VICTON(빅톤)",
+					"id": 793353793681301500,
+					"id_str": "793353793681301504",
+					"indices": [
+						107,
+						118
+					]
+				},
+				{
+					"screen_name": "GoldenChild",
+					"name": "GoldenChild (골든차일드)",
+					"id": 845170774939906000,
+					"id_str": "845170774939906049",
+					"indices": [
+						119,
+						131
+					]
+				},
+				{
+					"screen_name": "AB6IX",
+					"name": "AB6IX",
+					"id": 1096344582902575100,
+					"id_str": "1096344582902575104",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						139,
+						153
+					]
+				},
+				{
+					"screen_name": "drippin",
+					"name": "DRIPPIN",
+					"id": 1296417773699047400,
+					"id_str": "1296417773699047424",
+					"indices": [
+						154,
+						162
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ll1xRgn9Rl",
+					"expanded_url": "http://youtu.be/U5iqxBmG4r8",
+					"display_url": "youtu.be/U5iqxBmG4r8",
+					"indices": [
+						202,
+						225
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1360887591327858700,
+					"id_str": "1360887591327858689",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EuLYDdRVgAE7XtZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuLYDdRVgAE7XtZ.jpg",
+					"url": "https://t.co/WEjWdRJP0z",
+					"display_url": "pic.twitter.com/WEjWdRJP0z",
+					"expanded_url": "https://twitter.com/dingo_official/status/1360891534804049921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1360887591327858700,
+					"id_str": "1360887591327858689",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EuLYDdRVgAE7XtZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuLYDdRVgAE7XtZ.jpg",
+					"url": "https://t.co/WEjWdRJP0z",
+					"display_url": "pic.twitter.com/WEjWdRJP0z",
+					"expanded_url": "https://twitter.com/dingo_official/status/1360891534804049921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 936446104136065000,
+			"id_str": "936446104136065024",
+			"name": "dingo(딩고)",
+			"screen_name": "dingo_official",
+			"location": "",
+			"description": "딩고봇이 운영하는 #딩고 오피셜 계정입니다. 딩고봇은 리트윗🔁이랑 마음❤️ 좋아해!",
+			"url": "https://t.co/kDZqCE1lkP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kDZqCE1lkP",
+							"expanded_url": "https://www.facebook.com/dingo.officialpage.kr/",
+							"display_url": "facebook.com/dingo.official…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128306,
+			"friends_count": 0,
+			"listed_count": 127,
+			"created_at": "Fri Dec 01 04:05:24 +0000 2017",
+			"favourites_count": 14443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/936446429056319488/H6yq7tt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936446429056319488/H6yq7tt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/936446104136065024/1515406506",
+			"profile_link_color": "FF3823",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1709,
+		"favorite_count": 4789,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#딩고뮤직] (스포주의) 달달한 멜로디에💕 그렇지 못한 스토리?!😱 그래서 주아의 선택은 누굴까…?\n@gaho88882970 @PLT_twt @echoglobalgroup @CUBE_PTG @VICTON1109 @GoldenChild @AB6IX @loonatheworld @drippin\n\n❤️#썸타는편의점 OST-'좋아서 그래(Hello)' MV 바로보기\nhttps://t.co/ll1xRgn9Rl https://t.co/WEjWdRJP0z"
+	},
+	{
+		"created_at": "Sun Feb 14 10:02:30 +0000 2021",
+		"id": 1360887803647643600,
+		"id_str": "1360892163844890626",
+		"full_text": "🍫💖 #aespa #KARINA https://t.co/wHTkGQtzHL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						10,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1360887768549757000,
+					"id_str": "1360887768549756934",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/EuLYNxeVEAYOZWJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuLYNxeVEAYOZWJ.jpg",
+					"url": "https://t.co/wHTkGQtzHL",
+					"display_url": "pic.twitter.com/wHTkGQtzHL",
+					"expanded_url": "https://twitter.com/aespa_official/status/1360887803647643649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 522,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 921,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1150,
+							"h": 1499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1360887768549757000,
+					"id_str": "1360887768549756934",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/EuLYNxeVEAYOZWJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuLYNxeVEAYOZWJ.jpg",
+					"url": "https://t.co/wHTkGQtzHL",
+					"display_url": "pic.twitter.com/wHTkGQtzHL",
+					"expanded_url": "https://twitter.com/aespa_official/status/1360887803647643649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 522,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 921,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1150,
+							"h": 1499,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1360887770890211300,
+					"id_str": "1360887770890211329",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/EuLYN6MVkAE2i1c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuLYN6MVkAE2i1c.jpg",
+					"url": "https://t.co/wHTkGQtzHL",
+					"display_url": "pic.twitter.com/wHTkGQtzHL",
+					"expanded_url": "https://twitter.com/aespa_official/status/1360887803647643649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 762855,
+			"friends_count": 1,
+			"listed_count": 2708,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356074801421410310/CmVD_DYS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356074801421410310/CmVD_DYS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1612148404",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8494,
+		"favorite_count": 24636,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🍫💖 #aespa #KARINA https://t.co/wHTkGQtzHL"
+	},
+	{
+		"created_at": "Sun Feb 14 10:02:25 +0000 2021",
+		"id": 1360887660382888000,
+		"id_str": "1360892142361726977",
+		"full_text": "🍫💖 #aespa #GISELLE https://t.co/JLyZOT80Dd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						10,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1360887622474719200,
+					"id_str": "1360887622474719234",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EuLYFRTU4AIJtLw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuLYFRTU4AIJtLw.jpg",
+					"url": "https://t.co/JLyZOT80Dd",
+					"display_url": "pic.twitter.com/JLyZOT80Dd",
+					"expanded_url": "https://twitter.com/aespa_official/status/1360887660382887936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1360887622474719200,
+					"id_str": "1360887622474719234",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EuLYFRTU4AIJtLw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuLYFRTU4AIJtLw.jpg",
+					"url": "https://t.co/JLyZOT80Dd",
+					"display_url": "pic.twitter.com/JLyZOT80Dd",
+					"expanded_url": "https://twitter.com/aespa_official/status/1360887660382887936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1360887622617297000,
+					"id_str": "1360887622617296896",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EuLYFR1UcAA3Jqk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuLYFR1UcAA3Jqk.jpg",
+					"url": "https://t.co/JLyZOT80Dd",
+					"display_url": "pic.twitter.com/JLyZOT80Dd",
+					"expanded_url": "https://twitter.com/aespa_official/status/1360887660382887936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 762855,
+			"friends_count": 1,
+			"listed_count": 2708,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356074801421410310/CmVD_DYS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356074801421410310/CmVD_DYS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1612148404",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11482,
+		"favorite_count": 33338,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🍫💖 #aespa #GISELLE https://t.co/JLyZOT80Dd"
+	},
+	{
+		"created_at": "Sun Feb 14 10:02:18 +0000 2021",
+		"id": 1360887514127458300,
+		"id_str": "1360892112414388224",
+		"full_text": "🍫💖 #aespa #WINTER https://t.co/Sm2x6gIuGr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						10,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1360887485903999000,
+					"id_str": "1360887485903998982",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/EuLX9UiVEAYAErS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuLX9UiVEAYAErS.jpg",
+					"url": "https://t.co/Sm2x6gIuGr",
+					"display_url": "pic.twitter.com/Sm2x6gIuGr",
+					"expanded_url": "https://twitter.com/aespa_official/status/1360887514127458306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1360887485903999000,
+					"id_str": "1360887485903998982",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/EuLX9UiVEAYAErS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuLX9UiVEAYAErS.jpg",
+					"url": "https://t.co/Sm2x6gIuGr",
+					"display_url": "pic.twitter.com/Sm2x6gIuGr",
+					"expanded_url": "https://twitter.com/aespa_official/status/1360887514127458306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1360887484586938400,
+					"id_str": "1360887484586938370",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/EuLX9PoUUAImSgn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuLX9PoUUAImSgn.jpg",
+					"url": "https://t.co/Sm2x6gIuGr",
+					"display_url": "pic.twitter.com/Sm2x6gIuGr",
+					"expanded_url": "https://twitter.com/aespa_official/status/1360887514127458306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "I’m in SYNK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 762855,
+			"friends_count": 1,
+			"listed_count": 2708,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356074801421410310/CmVD_DYS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356074801421410310/CmVD_DYS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1612148404",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11394,
+		"favorite_count": 30569,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🍫💖 #aespa #WINTER https://t.co/Sm2x6gIuGr"
+	},
+	{
 		"created_at": "Sun Feb 14 10:02:06 +0000 2021",
 		"id": 1360886528726106000,
 		"id_str": "1360892060786700289",
