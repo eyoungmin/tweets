@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 14 13:48:05 +0000 2021",
+		"id": 1360925256580354000,
+		"id_str": "1360948933875273730",
+		"full_text": "3집 앨범 발매 시기에 맞춰 공개하려고 라이브 촬영을 하였으나 앨범은 계속 늦어지고 있어요🙃그래도 기다려주길..🖤 https://t.co/GePkNSF3f5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1360925250217648000,
+					"id_str": "1360925250217648132",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EuL6TfkVIAQSN9r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuL6TfkVIAQSN9r.jpg",
+					"url": "https://t.co/GePkNSF3f5",
+					"display_url": "pic.twitter.com/GePkNSF3f5",
+					"expanded_url": "https://twitter.com/langleeschool/status/1360925256580354052/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 825,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1407,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 467,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1360925250217648000,
+					"id_str": "1360925250217648132",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EuL6TfkVIAQSN9r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuL6TfkVIAQSN9r.jpg",
+					"url": "https://t.co/GePkNSF3f5",
+					"display_url": "pic.twitter.com/GePkNSF3f5",
+					"expanded_url": "https://twitter.com/langleeschool/status/1360925256580354052/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 825,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1407,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 467,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1360925250855211000,
+					"id_str": "1360925250855211011",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EuL6Th8VkAMJZzX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuL6Th8VkAMJZzX.jpg",
+					"url": "https://t.co/GePkNSF3f5",
+					"display_url": "pic.twitter.com/GePkNSF3f5",
+					"expanded_url": "https://twitter.com/langleeschool/status/1360925256580354052/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 829,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1415,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1360925252054782000,
+					"id_str": "1360925252054781956",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EuL6TmaVkAQJqJI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuL6TmaVkAQJqJI.jpg",
+					"url": "https://t.co/GePkNSF3f5",
+					"display_url": "pic.twitter.com/GePkNSF3f5",
+					"expanded_url": "https://twitter.com/langleeschool/status/1360925256580354052/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 813,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1386,
+							"h": 2047,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213091891,
+			"id_str": "213091891",
+			"name": "이랑｜Lang Lee｜イ・ラン",
+			"screen_name": "langleeschool",
+			"location": "Seoul, Korea",
+			"description": "의뢰|문의는 info.langlee@gmail.com 으로 부탁합니다 | 日本の仕事は info.sweetdreams@gmail.com にお願いします🐤STAFF @info_langlee",
+			"url": "https://t.co/qW2YqQ3KGK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qW2YqQ3KGK",
+							"expanded_url": "https://linktr.ee/langlee",
+							"display_url": "linktr.ee/langlee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32183,
+			"friends_count": 1102,
+			"listed_count": 175,
+			"created_at": "Sun Nov 07 23:19:48 +0000 2010",
+			"favourites_count": 4513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFF66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330826133336559623/kUnSnfOV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330826133336559623/kUnSnfOV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213091891/1591790406",
+			"profile_link_color": "800000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 127,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "3집 앨범 발매 시기에 맞춰 공개하려고 라이브 촬영을 하였으나 앨범은 계속 늦어지고 있어요🙃그래도 기다려주길..🖤 https://t.co/GePkNSF3f5"
+	},
+	{
 		"created_at": "Sun Feb 14 12:02:06 +0000 2021",
 		"id": 1360908830700306400,
 		"id_str": "1360922260085866497",
