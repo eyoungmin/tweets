@@ -1,6 +1,775 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 14 10:02:06 +0000 2021",
+		"id": 1360886528726106000,
+		"id_str": "1360892060786700289",
+		"full_text": "[📻] 잠시후 7시, EBS 라디오 ‘경청’에 \n청하가 출연합니다😊 \n오랜만의 경청 나들이에 신난 청하💚💙💜 별하랑 여러분 함께 들어요! \n\n&lt;반디APP&gt;\n📱 https://t.co/kMnwY80oWe\n📱 https://t.co/InylH9KuhR\n\n#청하  #CHUNGHA \n#CHUNGHA_Querencia \n#CHUNGHA_Bicycle \n#Querencia #Bicycle https://t.co/JWZG7miUhD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"text": "CHUNGHA_Querencia",
+					"indices": [
+						161,
+						179
+					]
+				},
+				{
+					"text": "CHUNGHA_Bicycle",
+					"indices": [
+						181,
+						197
+					]
+				},
+				{
+					"text": "Querencia",
+					"indices": [
+						199,
+						209
+					]
+				},
+				{
+					"text": "Bicycle",
+					"indices": [
+						210,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kMnwY80oWe",
+					"expanded_url": "https://apple.co/3phCSNe",
+					"display_url": "apple.co/3phCSNe",
+					"indices": [
+						95,
+						118
+					]
+				},
+				{
+					"url": "https://t.co/InylH9KuhR",
+					"expanded_url": "https://bit.ly/37cYT9G",
+					"display_url": "bit.ly/37cYT9G",
+					"indices": [
+						121,
+						144
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1360886523252543500,
+					"id_str": "1360886523252543493",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/EuLXFSYVkAUj4Wm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuLXFSYVkAUj4Wm.jpg",
+					"url": "https://t.co/JWZG7miUhD",
+					"display_url": "pic.twitter.com/JWZG7miUhD",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1360886528726106112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1350,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1360886523252543500,
+					"id_str": "1360886523252543493",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/EuLXFSYVkAUj4Wm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuLXFSYVkAUj4Wm.jpg",
+					"url": "https://t.co/JWZG7miUhD",
+					"display_url": "pic.twitter.com/JWZG7miUhD",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1360886528726106112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1350,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter 💚💙💜 'Querencia' PRE-ORDER 👉 https://t.co/6FjcqRIqMF",
+			"url": "https://t.co/reTg51lvxv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/reTg51lvxv",
+							"expanded_url": "http://cafe.daum.net/MNH-Chungha",
+							"display_url": "cafe.daum.net/MNH-Chungha",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6FjcqRIqMF",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								54,
+								77
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 315934,
+			"friends_count": 0,
+			"listed_count": 1941,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353580382994587648/zWJDlVAQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353580382994587648/zWJDlVAQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1611565202",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 219,
+		"favorite_count": 1063,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📻] 잠시후 7시, EBS 라디오 ‘경청’에 \n청하가 출연합니다😊 \n오랜만의 경청 나들이에 신난 청하💚💙💜 별하랑 여러분 함께 들어요! \n\n&lt;반디APP&gt;\n📱 https://t.co/kMnwY80oWe\n📱 https://t.co/InylH9KuhR\n\n#청하  #CHUNGHA \n#CHUNGHA_Querencia \n#CHUNGHA_Bicycle \n#Querencia #Bicycle https://t.co/JWZG7miUhD"
+	},
+	{
+		"created_at": "Sun Feb 14 09:45:45 +0000 2021",
+		"id": 1360884077872619500,
+		"id_str": "1360887947071995905",
+		"full_text": "[#딩고뮤직] #썸타는편의점 OST Part 1. 듣기🎧\n\n❤️#츄(#이달의소녀),#이협(#DRIPPIN)❤️ - #좋아서그래(Hello)\n@loonatheworld @drippin\n\n🍫멜론: https://t.co/cYaMdAsZM1\n🍫지니: https://t.co/lcdLbCvKnT\n🍫플로: https://t.co/o66uNNtrJ7\n🍫벅스: https://t.co/HehhjnZQG4\n\n#DINGO #가호 #케이브 https://t.co/QO3vyCA37M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "썸타는편의점",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						35,
+						37
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "이협",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						50,
+						58
+					]
+				},
+				{
+					"text": "좋아서그래",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "DINGO",
+					"indices": [
+						220,
+						226
+					]
+				},
+				{
+					"text": "가호",
+					"indices": [
+						227,
+						230
+					]
+				},
+				{
+					"text": "케이브",
+					"indices": [
+						231,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						78,
+						92
+					]
+				},
+				{
+					"screen_name": "drippin",
+					"name": "DRIPPIN",
+					"id": 1296417773699047400,
+					"id_str": "1296417773699047424",
+					"indices": [
+						93,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cYaMdAsZM1",
+					"expanded_url": "http://kko.to/KGMKu8dDH",
+					"display_url": "kko.to/KGMKu8dDH",
+					"indices": [
+						108,
+						131
+					]
+				},
+				{
+					"url": "https://t.co/lcdLbCvKnT",
+					"expanded_url": "http://genie.co.kr/0OV0M6",
+					"display_url": "genie.co.kr/0OV0M6",
+					"indices": [
+						137,
+						160
+					]
+				},
+				{
+					"url": "https://t.co/o66uNNtrJ7",
+					"expanded_url": "http://flomuz.io/s/a.BCVgu",
+					"display_url": "flomuz.io/s/a.BCVgu",
+					"indices": [
+						166,
+						189
+					]
+				},
+				{
+					"url": "https://t.co/HehhjnZQG4",
+					"expanded_url": "https://music.bugs.co.kr/album/20378482",
+					"display_url": "music.bugs.co.kr/album/20378482",
+					"indices": [
+						195,
+						218
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1360879739058016300,
+					"id_str": "1360879739058016258",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/EuLQ6ZSUUAIXEIk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuLQ6ZSUUAIXEIk.jpg",
+					"url": "https://t.co/QO3vyCA37M",
+					"display_url": "pic.twitter.com/QO3vyCA37M",
+					"expanded_url": "https://twitter.com/dingo_official/status/1360884077872619523/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1360879739058016300,
+					"id_str": "1360879739058016258",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/EuLQ6ZSUUAIXEIk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuLQ6ZSUUAIXEIk.jpg",
+					"url": "https://t.co/QO3vyCA37M",
+					"display_url": "pic.twitter.com/QO3vyCA37M",
+					"expanded_url": "https://twitter.com/dingo_official/status/1360884077872619523/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 936446104136065000,
+			"id_str": "936446104136065024",
+			"name": "dingo(딩고)",
+			"screen_name": "dingo_official",
+			"location": "",
+			"description": "딩고봇이 운영하는 #딩고 오피셜 계정입니다. 딩고봇은 리트윗🔁이랑 마음❤️ 좋아해!",
+			"url": "https://t.co/kDZqCE1lkP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kDZqCE1lkP",
+							"expanded_url": "https://www.facebook.com/dingo.officialpage.kr/",
+							"display_url": "facebook.com/dingo.official…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128295,
+			"friends_count": 0,
+			"listed_count": 127,
+			"created_at": "Fri Dec 01 04:05:24 +0000 2017",
+			"favourites_count": 14443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/936446429056319488/H6yq7tt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936446429056319488/H6yq7tt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/936446104136065024/1515406506",
+			"profile_link_color": "FF3823",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 727,
+		"favorite_count": 1274,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#딩고뮤직] #썸타는편의점 OST Part 1. 듣기🎧\n\n❤️#츄(#이달의소녀),#이협(#DRIPPIN)❤️ - #좋아서그래(Hello)\n@loonatheworld @drippin\n\n🍫멜론: https://t.co/cYaMdAsZM1\n🍫지니: https://t.co/lcdLbCvKnT\n🍫플로: https://t.co/o66uNNtrJ7\n🍫벅스: https://t.co/HehhjnZQG4\n\n#DINGO #가호 #케이브 https://t.co/QO3vyCA37M"
+	},
+	{
+		"created_at": "Sun Feb 14 09:17:35 +0000 2021",
+		"id": 1360880857741934600,
+		"id_str": "1360880857741934595",
+		"full_text": "#Melon #멜론 #비디오\n[Special] 안무팀과 함께 하는 'Bicycle' 이야기 (02:39)\nhttps://t.co/hf7K1PuU8c\n#청하 #CHUNGHA https://t.co/hKEHgmYD10",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "비디오",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						87,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hf7K1PuU8c",
+					"expanded_url": "https://vod.melon.com/video/detail2.htm?mvId=50232553&menuId=27040101",
+					"display_url": "vod.melon.com/video/detail2.…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1360880856592711700,
+					"id_str": "1360880856592711681",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EuLR7cbWgAEbPXd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuLR7cbWgAEbPXd.jpg",
+					"url": "https://t.co/hKEHgmYD10",
+					"display_url": "pic.twitter.com/hKEHgmYD10",
+					"expanded_url": "https://twitter.com/fromminn/status/1360880857741934595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1360880856592711700,
+					"id_str": "1360880856592711681",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EuLR7cbWgAEbPXd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuLR7cbWgAEbPXd.jpg",
+					"url": "https://t.co/hKEHgmYD10",
+					"display_url": "pic.twitter.com/hKEHgmYD10",
+					"expanded_url": "https://twitter.com/fromminn/status/1360880857741934595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 1040,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44802,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #비디오\n[Special] 안무팀과 함께 하는 'Bicycle' 이야기 (02:39)\nhttps://t.co/hf7K1PuU8c\n#청하 #CHUNGHA https://t.co/hKEHgmYD10"
+	},
+	{
 		"created_at": "Sun Feb 14 08:58:22 +0000 2021",
 		"id": 1360876022921633800,
 		"id_str": "1360876022921633798",
