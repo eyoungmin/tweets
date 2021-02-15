@@ -1,6 +1,649 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 15 06:57:39 +0000 2021",
+		"id": 1361208032919773200,
+		"id_str": "1361208032919773184",
+		"full_text": "#SMTOWN #Artist_News\n키이스트, 배우 조보아와 전속계약 체결\nhttps://t.co/JWllTUWdEo\n#보아 #BoA https://t.co/9SJOYYlQQR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						71,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JWllTUWdEo",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/4613",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1361208032026370000,
+					"id_str": "1361208032026370048",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EuP7fj5XIAA0wHb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuP7fj5XIAA0wHb.jpg",
+					"url": "https://t.co/9SJOYYlQQR",
+					"display_url": "pic.twitter.com/9SJOYYlQQR",
+					"expanded_url": "https://twitter.com/fromminn/status/1361208032919773184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1361208032026370000,
+					"id_str": "1361208032026370048",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EuP7fj5XIAA0wHb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuP7fj5XIAA0wHb.jpg",
+					"url": "https://t.co/9SJOYYlQQR",
+					"display_url": "pic.twitter.com/9SJOYYlQQR",
+					"expanded_url": "https://twitter.com/fromminn/status/1361208032919773184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303,
+			"friends_count": 1039,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n키이스트, 배우 조보아와 전속계약 체결\nhttps://t.co/JWllTUWdEo\n#보아 #BoA https://t.co/9SJOYYlQQR"
+	},
+	{
+		"created_at": "Mon Feb 15 06:45:37 +0000 2021",
+		"id": 1361201281629515800,
+		"id_str": "1361205003030065153",
+		"full_text": "[#아이돌차트]\n아차에서 새해 기념(?) CD 이벤트 중인거 다들 알고 계셨나여? (･ｪ-)\n\n#시크릿넘버 #드림캐쳐 #CLC #청하 #러블리즈 #이달의소녀 #빅톤 #더보이즈 #엔하이픈 #몬스타엑스 #임영웅 #원어스 의 싸인CD를 선물로 드립니다🎁\n\n자세한 내용은 링크를 확인해주세요\n\nhttps://t.co/gfMjRLlfiG https://t.co/TjvMGEVFD8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌차트",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "시크릿넘버",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "드림캐쳐",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "CLC",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "러블리즈",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "빅톤",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "더보이즈",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "엔하이픈",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "몬스타엑스",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "임영웅",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "원어스",
+					"indices": [
+						116,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gfMjRLlfiG",
+					"expanded_url": "https://www.idol-chart.com/event/",
+					"display_url": "idol-chart.com/event/",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1361200692782792700,
+					"id_str": "1361200692782792705",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EuP00XFVgAEBGcs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuP00XFVgAEBGcs.jpg",
+					"url": "https://t.co/TjvMGEVFD8",
+					"display_url": "pic.twitter.com/TjvMGEVFD8",
+					"expanded_url": "https://twitter.com/idolchartrank/status/1361201281629515779/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 216,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1361200692782792700,
+					"id_str": "1361200692782792705",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EuP00XFVgAEBGcs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuP00XFVgAEBGcs.jpg",
+					"url": "https://t.co/TjvMGEVFD8",
+					"display_url": "pic.twitter.com/TjvMGEVFD8",
+					"expanded_url": "https://twitter.com/idolchartrank/status/1361201281629515779/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 216,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 969495055047180300,
+			"id_str": "969495055047180291",
+			"name": "아이돌차트",
+			"screen_name": "idolchartrank",
+			"location": "대한민국",
+			"description": "한주간 가장 인기있는 가수를 확인하는 방법 ‘아차’  PC☞ https://t.co/WVnybfPteA 모바일☞ https://t.co/w6GT45pXif",
+			"url": "https://t.co/mjoHwDLYTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mjoHwDLYTO",
+							"expanded_url": "http://www.idol-chart.com/",
+							"display_url": "idol-chart.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/WVnybfPteA",
+							"expanded_url": "http://www.idol-chart.com",
+							"display_url": "idol-chart.com",
+							"indices": [
+								34,
+								57
+							]
+						},
+						{
+							"url": "https://t.co/w6GT45pXif",
+							"expanded_url": "http://m.idol-chart.com",
+							"display_url": "m.idol-chart.com",
+							"indices": [
+								63,
+								86
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1832,
+			"friends_count": 34,
+			"listed_count": 11,
+			"created_at": "Fri Mar 02 08:50:08 +0000 2018",
+			"favourites_count": 464,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051652028491911168/ORh47Rb2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051652028491911168/ORh47Rb2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/969495055047180291/1577944144",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아이돌차트]\n아차에서 새해 기념(?) CD 이벤트 중인거 다들 알고 계셨나여? (･ｪ-)\n\n#시크릿넘버 #드림캐쳐 #CLC #청하 #러블리즈 #이달의소녀 #빅톤 #더보이즈 #엔하이픈 #몬스타엑스 #임영웅 #원어스 의 싸인CD를 선물로 드립니다🎁\n\n자세한 내용은 링크를 확인해주세요\n\nhttps://t.co/gfMjRLlfiG https://t.co/TjvMGEVFD8"
+	},
+	{
+		"created_at": "Mon Feb 15 06:26:24 +0000 2021",
+		"id": 1361200166171250700,
+		"id_str": "1361200166171250689",
+		"full_text": "#팩트체크 #SNU팩트체크\n류호정 의원은 의원실 비서를 면직하는 과정해서 통상적 해고기간을 준수하지 않고 7일전에 통보했기 때문에 노동법을 위반했다\n▶ 전혀 사실 아님\nhttps://t.co/aj7ZvHnACv\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						120,
+						131
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						132,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aj7ZvHnACv",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=2788",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303,
+			"friends_count": 1039,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n류호정 의원은 의원실 비서를 면직하는 과정해서 통상적 해고기간을 준수하지 않고 7일전에 통보했기 때문에 노동법을 위반했다\n▶ 전혀 사실 아님\nhttps://t.co/aj7ZvHnACv\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
 		"created_at": "Mon Feb 15 05:27:07 +0000 2021",
 		"id": 1361185247816130600,
 		"id_str": "1361185247816130561",
