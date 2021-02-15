@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 15 16:02:06 +0000 2021",
+		"id": 1361314478051090400,
+		"id_str": "1361345045547413504",
+		"full_text": "Chung Ha's ‘Bicycle’ – from her debut full-length album 'Querencia' – is the most outrageously brilliant banger of the year so far\n\nRead the ⭐⭐⭐⭐⭐ review of 'Querencia' https://t.co/BKUwASq0Og",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BKUwASq0Og",
+					"expanded_url": "http://ow.ly/fF7g50DAkgW",
+					"display_url": "ow.ly/fF7g50DAkgW",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19063323,
+			"id_str": "19063323",
+			"name": "NME",
+			"screen_name": "NME",
+			"location": "London",
+			"description": "The world’s defining voice in music and pop culture: breaking what’s new and what’s next since 1952. Follow us for news, interviews and more: https://t.co/e8f6nn0SSj",
+			"url": "https://t.co/A278qJqyA1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A278qJqyA1",
+							"expanded_url": "http://www.nme.com",
+							"display_url": "nme.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8f6nn0SSj",
+							"expanded_url": "http://bnd.link/nme",
+							"display_url": "bnd.link/nme",
+							"indices": [
+								142,
+								165
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 905375,
+			"friends_count": 3249,
+			"listed_count": 14332,
+			"created_at": "Fri Jan 16 11:52:57 +0000 2009",
+			"favourites_count": 3917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 219473,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268111341673312262/inm0djQ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268111341673312262/inm0djQ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19063323/1613120452",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EDF0F8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 652,
+		"favorite_count": 2332,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Chung Ha's ‘Bicycle’ – from her debut full-length album 'Querencia' – is the most outrageously brilliant banger of the year so far\n\nRead the ⭐⭐⭐⭐⭐ review of 'Querencia' https://t.co/BKUwASq0Og"
+	},
+	{
 		"created_at": "Mon Feb 15 15:38:51 +0000 2021",
 		"id": 1361339197672607700,
 		"id_str": "1361339197672607746",
