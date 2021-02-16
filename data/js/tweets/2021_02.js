@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 16 03:02:05 +0000 2021",
+		"id": 1361507798580752400,
+		"id_str": "1361511139411193856",
+		"full_text": "아이린 출연작 #더블패티 스페셜 포스터 공개💖\nIRENE’s movie #DoublePatty ‘s special poster is out!\n\n👉🏻 https://t.co/ZTwqqt2tZs\n\n#레드벨벳 #RedVelvet #아이린 #IRENE https://t.co/zlImf8ODho",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "더블패티",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "DoublePatty",
+					"indices": [
+						40,
+						52
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						130,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZTwqqt2tZs",
+					"expanded_url": "https://entertain.naver.com/read?oid=108&aid=0002932718",
+					"display_url": "entertain.naver.com/read?oid=108&a…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1361507793589571600,
+					"id_str": "1361507793589571586",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EuUMH-vVEAILV8Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuUMH-vVEAILV8Q.jpg",
+					"url": "https://t.co/zlImf8ODho",
+					"display_url": "pic.twitter.com/zlImf8ODho",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1361507798580752384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 837,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1428,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 474,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1361507793589571600,
+					"id_str": "1361507793589571586",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EuUMH-vVEAILV8Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuUMH-vVEAILV8Q.jpg",
+					"url": "https://t.co/zlImf8ODho",
+					"display_url": "pic.twitter.com/zlImf8ODho",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1361507798580752384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 837,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1428,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 474,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3708711,
+			"friends_count": 1,
+			"listed_count": 7909,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4367,
+		"favorite_count": 9894,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이린 출연작 #더블패티 스페셜 포스터 공개💖\nIRENE’s movie #DoublePatty ‘s special poster is out!\n\n👉🏻 https://t.co/ZTwqqt2tZs\n\n#레드벨벳 #RedVelvet #아이린 #IRENE https://t.co/zlImf8ODho"
+	},
+	{
 		"created_at": "Mon Feb 15 23:02:06 +0000 2021",
 		"id": 1361450049071247400,
 		"id_str": "1361450742427635714",
