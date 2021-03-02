@@ -1,6 +1,1019 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Tue Mar 02 11:44:23 +0000 2021",
+		"id": 1366716007675547600,
+		"id_str": "1366716007675547650",
+		"full_text": "#놀라운토요일 #도레미마켓\n민호가 탱구에게 서운했던 점?#놀라운토요일 | amazingsaturday EP.149 | tvN 210227 방송\nhttps://t.co/1lW9a0lw4V\n#태연 #탱구 #TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "도레미마켓",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						31,
+						38
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "탱구",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						112,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1lW9a0lw4V",
+					"expanded_url": "https://www.youtube.com/watch?v=CMs_riWJwlI",
+					"display_url": "youtube.com/watch?v=CMs_ri…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 1045,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 78811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#놀라운토요일 #도레미마켓\n민호가 탱구에게 서운했던 점?#놀라운토요일 | amazingsaturday EP.149 | tvN 210227 방송\nhttps://t.co/1lW9a0lw4V\n#태연 #탱구 #TAEYEON"
+	},
+	{
+		"created_at": "Tue Mar 02 11:21:55 +0000 2021",
+		"id": 1366710356815401000,
+		"id_str": "1366710356815400963",
+		"full_text": "@amesimmons @Twitter @SlackHQ @discord The function must be revived. Twitter is a service that supports public access. That's the charm of Twitter. It allows me to see only valuable information in the sea of trolling and information.",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amesimmons",
+					"name": "Amy Simmons ❄️🌨",
+					"id": 42308418,
+					"id_str": "42308418",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						12,
+						20
+					]
+				},
+				{
+					"screen_name": "SlackHQ",
+					"name": "Slack",
+					"id": 1305940272,
+					"id_str": "1305940272",
+					"indices": [
+						21,
+						29
+					]
+				},
+				{
+					"screen_name": "discord",
+					"name": "Discord",
+					"id": 3065618342,
+					"id_str": "3065618342",
+					"indices": [
+						30,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1366710327048429600,
+		"in_reply_to_status_id_str": "1366710327048429569",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 1045,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 78811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@amesimmons @Twitter @SlackHQ @discord The function must be revived. Twitter is a service that supports public access. That's the charm of Twitter. It allows me to see only valuable information in the sea of trolling and information."
+	},
+	{
+		"created_at": "Tue Mar 02 11:21:48 +0000 2021",
+		"id": 1366710327048429600,
+		"id_str": "1366710327048429569",
+		"full_text": "@amesimmons @Twitter - 2/26 03 working\n2/26 07- function not working\n\nI search for a specific keyword in the list and use it. Send it to @SlackHQ or @discord",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amesimmons",
+					"name": "Amy Simmons ❄️🌨",
+					"id": 42308418,
+					"id_str": "42308418",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						12,
+						20
+					]
+				},
+				{
+					"screen_name": "SlackHQ",
+					"name": "Slack",
+					"id": 1305940272,
+					"id_str": "1305940272",
+					"indices": [
+						137,
+						145
+					]
+				},
+				{
+					"screen_name": "discord",
+					"name": "Discord",
+					"id": 3065618342,
+					"id_str": "3065618342",
+					"indices": [
+						149,
+						157
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1366708567844089900,
+		"in_reply_to_status_id_str": "1366708567844089857",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 1045,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 78811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@amesimmons @Twitter - 2/26 03 working\n2/26 07- function not working\n\nI search for a specific keyword in the list and use it. Send it to @SlackHQ or @discord"
+	},
+	{
+		"created_at": "Tue Mar 02 11:14:49 +0000 2021",
+		"id": 1366708567844089900,
+		"id_str": "1366708567844089857",
+		"full_text": "@amesimmons @Twitter Help me! I think Twitter is a very attractive service. But I'm so sad that the function is not working right now. The search problem has occurred again and it is not being fixed. \nhttps://t.co/mcELKF7JZs",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amesimmons",
+					"name": "Amy Simmons ❄️🌨",
+					"id": 42308418,
+					"id_str": "42308418",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						12,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mcELKF7JZs",
+					"expanded_url": "https://twitter.com/fromminn/status/1365545086168178688",
+					"display_url": "twitter.com/fromminn/statu…",
+					"indices": [
+						201,
+						224
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1365993225597509600,
+		"in_reply_to_status_id_str": "1365993225597509635",
+		"in_reply_to_user_id": 42308418,
+		"in_reply_to_user_id_str": "42308418",
+		"in_reply_to_screen_name": "amesimmons",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 1045,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 78811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1365545086168178700,
+		"quoted_status_id_str": "1365545086168178688",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mcELKF7JZs",
+			"expanded": "https://twitter.com/fromminn/status/1365545086168178688",
+			"display": "twitter.com/fromminn/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 27 06:11:33 +0000 2021",
+			"id": 1365545086168178700,
+			"id_str": "1365545086168178688",
+			"full_text": "@TwitterSupport Now this problem is happening again. Unable to get 'list:fromminn/RT' using API. Help me!",
+			"truncated": false,
+			"display_text_range": [
+				16,
+				105
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TwitterSupport",
+						"name": "Twitter Support",
+						"id": 17874544,
+						"id_str": "17874544",
+						"indices": [
+							0,
+							15
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1305580584912158700,
+			"in_reply_to_status_id_str": "1305580584912158720",
+			"in_reply_to_user_id": 17874544,
+			"in_reply_to_user_id_str": "17874544",
+			"in_reply_to_screen_name": "TwitterSupport",
+			"user": {
+				"id": 4531360753,
+				"id_str": "4531360753",
+				"name": "MINN",
+				"screen_name": "fromminn",
+				"location": "",
+				"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+				"url": "https://t.co/Z9WwU5pNg0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Z9WwU5pNg0",
+								"expanded_url": "https://minn.tify.kr",
+								"display_url": "minn.tify.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 306,
+				"friends_count": 1045,
+				"listed_count": 7,
+				"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+				"favourites_count": 44939,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 78811,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E4E4E4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+				"profile_link_color": "848484",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@amesimmons @Twitter Help me! I think Twitter is a very attractive service. But I'm so sad that the function is not working right now. The search problem has occurred again and it is not being fixed. \nhttps://t.co/mcELKF7JZs"
+	},
+	{
+		"created_at": "Tue Mar 02 11:02:41 +0000 2021",
+		"id": 1366705513891823600,
+		"id_str": "1366705513891823618",
+		"full_text": "#Melon #멜론 #비디오\n[B-HAind] CHUNG HA 청하 'Bicycle' MV 비하인드 #1 (00:42)\nhttps://t.co/mtNunVRgFN\n#청하 #CHUNGHA https://t.co/3GKbQ5rOUD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "비디오",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						95,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mtNunVRgFN",
+					"expanded_url": "https://vod.melon.com/video/detail2.htm?mvId=50233210&menuId=27040101",
+					"display_url": "vod.melon.com/video/detail2.…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1366705512562241500,
+					"id_str": "1366705512562241537",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EveDbCzXMAEdEc-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EveDbCzXMAEdEc-.jpg",
+					"url": "https://t.co/3GKbQ5rOUD",
+					"display_url": "pic.twitter.com/3GKbQ5rOUD",
+					"expanded_url": "https://twitter.com/fromminn/status/1366705513891823618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1366705512562241500,
+					"id_str": "1366705512562241537",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EveDbCzXMAEdEc-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EveDbCzXMAEdEc-.jpg",
+					"url": "https://t.co/3GKbQ5rOUD",
+					"display_url": "pic.twitter.com/3GKbQ5rOUD",
+					"expanded_url": "https://twitter.com/fromminn/status/1366705513891823618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 1045,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 78811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #비디오\n[B-HAind] CHUNG HA 청하 'Bicycle' MV 비하인드 #1 (00:42)\nhttps://t.co/mtNunVRgFN\n#청하 #CHUNGHA https://t.co/3GKbQ5rOUD"
+	},
+	{
+		"created_at": "Tue Mar 02 11:02:13 +0000 2021",
+		"id": 1366699796728144000,
+		"id_str": "1366705398741311488",
+		"full_text": "코로나19로 온 세상이 멈춘 힘든 시기가 앨범에 영향을 주었음을 인정하면서도, 장난기 어린 대화와 진지한 설명에서는 베테랑의 여유가 느껴졌다. ‘마침표 같은 쉼표!’. 투컷의 표현처럼 에픽하이의 음악은 순간을 마감한다. 그리고 또 자연스레 다시 시작된다.  #webzineizm https://t.co/oZ71A8hKyE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "webzineizm",
+					"indices": [
+						144,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oZ71A8hKyE",
+					"expanded_url": "https://m.izm.co.kr/interview_epik2021/",
+					"display_url": "m.izm.co.kr/interview_epik…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 225851168,
+			"id_str": "225851168",
+			"name": "이즘 IZM Neo Music Communication",
+			"screen_name": "IZMtweet",
+			"location": "KOREA",
+			"description": "대중음악웹진 이즘(IZM) 공식 트위터입니다. Web : https://t.co/AsQEMaQo2x Mobile : https://t.co/oWeikSX6zd",
+			"url": "https://t.co/tAgIbMhBzx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tAgIbMhBzx",
+							"expanded_url": "http://m.izm.co.kr",
+							"display_url": "m.izm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AsQEMaQo2x",
+							"expanded_url": "https://izm.co.kr",
+							"display_url": "izm.co.kr",
+							"indices": [
+								32,
+								55
+							]
+						},
+						{
+							"url": "https://t.co/oWeikSX6zd",
+							"expanded_url": "https://m.izm.co.kr",
+							"display_url": "m.izm.co.kr",
+							"indices": [
+								65,
+								88
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1630,
+			"friends_count": 744,
+			"listed_count": 0,
+			"created_at": "Sun Dec 12 16:28:05 +0000 2010",
+			"favourites_count": 153,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1671,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224502742791553024/E3Vrbcs5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224502742791553024/E3Vrbcs5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/225851168/1403937249",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코로나19로 온 세상이 멈춘 힘든 시기가 앨범에 영향을 주었음을 인정하면서도, 장난기 어린 대화와 진지한 설명에서는 베테랑의 여유가 느껴졌다. ‘마침표 같은 쉼표!’. 투컷의 표현처럼 에픽하이의 음악은 순간을 마감한다. 그리고 또 자연스레 다시 시작된다.  #webzineizm https://t.co/oZ71A8hKyE"
+	},
+	{
 		"created_at": "Tue Mar 02 10:38:33 +0000 2021",
 		"id": 1366699440661266400,
 		"id_str": "1366699440661266435",
