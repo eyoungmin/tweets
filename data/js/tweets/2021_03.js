@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Wed Mar 03 11:17:14 +0000 2021",
+		"id": 1367071563581960200,
+		"id_str": "1367071563581960193",
+		"full_text": "#Melon #멜론 #비디오\n[B-HAind] CHUNG HA 청하 'Bicycle' MV 비하인드 #2 (00:33)\nhttps://t.co/Wjz4qXvriu\n#청하 #CHUNGHA https://t.co/Yff1cbn9Fw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "비디오",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						95,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wjz4qXvriu",
+					"expanded_url": "https://vod.melon.com/video/detail2.htm?mvId=50233229&menuId=27040101",
+					"display_url": "vod.melon.com/video/detail2.…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1367071561967169500,
+					"id_str": "1367071561967169546",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EvjQV7GXcAof0Da.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvjQV7GXcAof0Da.jpg",
+					"url": "https://t.co/Yff1cbn9Fw",
+					"display_url": "pic.twitter.com/Yff1cbn9Fw",
+					"expanded_url": "https://twitter.com/fromminn/status/1367071563581960193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1367071561967169500,
+					"id_str": "1367071561967169546",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EvjQV7GXcAof0Da.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvjQV7GXcAof0Da.jpg",
+					"url": "https://t.co/Yff1cbn9Fw",
+					"display_url": "pic.twitter.com/Yff1cbn9Fw",
+					"expanded_url": "https://twitter.com/fromminn/status/1367071563581960193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 307,
+			"friends_count": 1045,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44962,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 78835,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #비디오\n[B-HAind] CHUNG HA 청하 'Bicycle' MV 비하인드 #2 (00:33)\nhttps://t.co/Wjz4qXvriu\n#청하 #CHUNGHA https://t.co/Yff1cbn9Fw"
+	},
+	{
 		"created_at": "Wed Mar 03 10:38:14 +0000 2021",
 		"id": 1367061751523647500,
 		"id_str": "1367061751523647490",
@@ -132,7 +352,7 @@ Grailbird.data.tweets_2021_03 =
 		"created_at": "Wed Mar 03 10:14:34 +0000 2021",
 		"id": 1367055791468015600,
 		"id_str": "1367055791468015617",
-		"full_text": "#놀라운토요일 #도레미마켓\n[#도레미가족​] 성장서사 완벽한 놀토 에이스 🦋 괜히 코 끝 찡해지는 탱구의 성장기 | #놀라운토요일​ Amazing Saturday\nhttps://t.co/ooPDOm56z1\n#태연 #탱구 #TAEYEON",
+		"full_text": "#놀라운토요일 #도레미마켓\n[#도레미가족] 성장서사 완벽한 놀토 에이스 🦋 괜히 코 끝 찡해지는 탱구의 성장기 | #놀라운토요일 Amazing Saturday\nhttps://t.co/ooPDOm56z1\n#태연 #탱구 #TAEYEON",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -282,7 +502,7 @@ Grailbird.data.tweets_2021_03 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#놀라운토요일 #도레미마켓\n[#도레미가족​] 성장서사 완벽한 놀토 에이스 🦋 괜히 코 끝 찡해지는 탱구의 성장기 | #놀라운토요일​ Amazing Saturday\nhttps://t.co/ooPDOm56z1\n#태연 #탱구 #TAEYEON"
+		"text": "#놀라운토요일 #도레미마켓\n[#도레미가족] 성장서사 완벽한 놀토 에이스 🦋 괜히 코 끝 찡해지는 탱구의 성장기 | #놀라운토요일 Amazing Saturday\nhttps://t.co/ooPDOm56z1\n#태연 #탱구 #TAEYEON"
 	},
 	{
 		"created_at": "Wed Mar 03 10:01:21 +0000 2021",
