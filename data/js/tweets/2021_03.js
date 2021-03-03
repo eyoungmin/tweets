@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Wed Mar 03 05:01:25 +0000 2021",
+		"id": 1366875966128070700,
+		"id_str": "1366976988313915393",
+		"full_text": "Watch @loonatheworld sing \"Butterfly,\" BLACKPINK, and Secret in a game of #SongAssociation. https://t.co/QjbPEBmQh2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SongAssociation",
+					"indices": [
+						74,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						6,
+						20
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1354139404110061600,
+					"id_str": "1354139404110061569",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1354139404110061569/img/6RlbKeaT-YaZKMKW.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1354139404110061569/img/6RlbKeaT-YaZKMKW.jpg",
+					"url": "https://t.co/QjbPEBmQh2",
+					"display_url": "pic.twitter.com/QjbPEBmQh2",
+					"expanded_url": "https://twitter.com/ELLEmagazine/status/1366875966128070657/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1354139404110061600,
+					"id_str": "1354139404110061569",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1354139404110061569/img/6RlbKeaT-YaZKMKW.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1354139404110061569/img/6RlbKeaT-YaZKMKW.jpg",
+					"url": "https://t.co/QjbPEBmQh2",
+					"display_url": "pic.twitter.com/QjbPEBmQh2",
+					"expanded_url": "https://twitter.com/ELLEmagazine/status/1366875966128070657/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 241700,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1354139404110061569/pl/cyVZ43XA7K9DgyfD.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1354139404110061569/vid/1280x720/P-fd4htczujPwsQs.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1354139404110061569/vid/480x270/UCJrko1fve_mzKfj.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1354139404110061569/vid/640x360/gLAWRtriXsV18Cf2.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "LOONA Plays Song Association on ELLE",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20177423,
+			"id_str": "20177423",
+			"name": "ELLE Magazine (US)",
+			"screen_name": "ELLEmagazine",
+			"location": "",
+			"description": "Fashion. Beauty. Celebrity. Culture. \nFollow ELLE on Instagram and YouTube: https://t.co/oPpHBvsBRv https://t.co/x1Rwchuvn0",
+			"url": "http://t.co/54wdRJ8G1n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/54wdRJ8G1n",
+							"expanded_url": "http://elle.com",
+							"display_url": "elle.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oPpHBvsBRv",
+							"expanded_url": "http://instagram.com/elleusa/",
+							"display_url": "instagram.com/elleusa/",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/x1Rwchuvn0",
+							"expanded_url": "http://youtube.com/elle",
+							"display_url": "youtube.com/elle",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6748788,
+			"friends_count": 1185,
+			"listed_count": 18181,
+			"created_at": "Thu Feb 05 19:26:15 +0000 2009",
+			"favourites_count": 6705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 235584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D7D7DB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/840584515710001154/hZKofewI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/840584515710001154/hZKofewI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20177423/1613568114",
+			"profile_link_color": "AB135A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 581,
+		"favorite_count": 1845,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watch @loonatheworld sing \"Butterfly,\" BLACKPINK, and Secret in a game of #SongAssociation. https://t.co/QjbPEBmQh2"
+	},
+	{
 		"created_at": "Wed Mar 03 03:00:26 +0000 2021",
 		"id": 1366946538463846400,
 		"id_str": "1366946538463846400",
