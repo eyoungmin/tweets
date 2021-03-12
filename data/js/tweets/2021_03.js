@@ -1,6 +1,4162 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Fri Mar 12 09:54:08 +0000 2021",
+		"id": 1370312141601828900,
+		"id_str": "1370312141601828866",
+		"full_text": "업무하면서 전화가 커뮤니케이션에서 가지는 장점을 충분히 알지만 전화로 해결해야만 하는 사람을 별로 선호하지 않는다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1048,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "업무하면서 전화가 커뮤니케이션에서 가지는 장점을 충분히 알지만 전화로 해결해야만 하는 사람을 별로 선호하지 않는다."
+	},
+	{
+		"created_at": "Fri Mar 12 09:51:11 +0000 2021",
+		"id": 1370311397733658600,
+		"id_str": "1370311397733658632",
+		"full_text": "전화로도 제대로 답변하지 못하면서",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1370311291202506800,
+		"in_reply_to_status_id_str": "1370311291202506753",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1048,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "전화로도 제대로 답변하지 못하면서"
+	},
+	{
+		"created_at": "Fri Mar 12 09:50:45 +0000 2021",
+		"id": 1370311291202506800,
+		"id_str": "1370311291202506753",
+		"full_text": "공정위는 전화를 참 좋아해....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1048,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "공정위는 전화를 참 좋아해...."
+	},
+	{
+		"created_at": "Fri Mar 12 09:49:09 +0000 2021",
+		"id": 1370310888176029700,
+		"id_str": "1370310888176029696",
+		"full_text": "https://t.co/F3mMYUc7pQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F3mMYUc7pQ",
+					"expanded_url": "https://developer.twitter.com/en/docs/twitter-api/v1/tweets/search/guides/standard-operators",
+					"display_url": "developer.twitter.com/en/docs/twitte…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1370305659258871800,
+		"in_reply_to_status_id_str": "1370305659258871811",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1048,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/F3mMYUc7pQ"
+	},
+	{
+		"created_at": "Fri Mar 12 09:45:52 +0000 2021",
+		"id": 1370310062602821600,
+		"id_str": "1370310062602821633",
+		"full_text": "문서화 안하고 잠수함 패치하거나 기능 블락 당하면 플랫폼에 신뢰가 내려가는 것도 사실임.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1048,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "문서화 안하고 잠수함 패치하거나 기능 블락 당하면 플랫폼에 신뢰가 내려가는 것도 사실임."
+	},
+	{
+		"created_at": "Fri Mar 12 09:43:19 +0000 2021",
+		"id": 1370309420022784000,
+		"id_str": "1370309420022784002",
+		"full_text": "제발 막지만 말았으면 좋겠다. 인스타나 페이스북 검색이 그게 가능하다면 몰라도 트위터만큼 반응(리액션) 확인하기 좋은 채널이 없음. 트위터가 좋고 나쁘고를 떠나서.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1370309208810221600,
+		"in_reply_to_status_id_str": "1370309208810221570",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1048,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "제발 막지만 말았으면 좋겠다. 인스타나 페이스북 검색이 그게 가능하다면 몰라도 트위터만큼 반응(리액션) 확인하기 좋은 채널이 없음. 트위터가 좋고 나쁘고를 떠나서."
+	},
+	{
+		"created_at": "Fri Mar 12 09:42:29 +0000 2021",
+		"id": 1370309208810221600,
+		"id_str": "1370309208810221570",
+		"full_text": "내부 세일즈 정보를 공유해주는 디스코드 채널도 있고. 웹훅이 자유롭고 봇도 자유로운 디스코드와 트위터 api는 꽤 잘 어울리는 조합인데 리스트 api가 막혀서 리스트 내에서 아티스트 정보만 추려서 볼 수 없다면 슬프다.... 유료해도 괜찮아... 어차피 나는 비즈니스로도 쓸거라서.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1370308233970159600,
+		"in_reply_to_status_id_str": "1370308233970159616",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1048,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "내부 세일즈 정보를 공유해주는 디스코드 채널도 있고. 웹훅이 자유롭고 봇도 자유로운 디스코드와 트위터 api는 꽤 잘 어울리는 조합인데 리스트 api가 막혀서 리스트 내에서 아티스트 정보만 추려서 볼 수 없다면 슬프다.... 유료해도 괜찮아... 어차피 나는 비즈니스로도 쓸거라서."
+	},
+	{
+		"created_at": "Fri Mar 12 09:40:45 +0000 2021",
+		"id": 1370308774397845500,
+		"id_str": "1370308774397845504",
+		"full_text": "뭐 국내에서 팬덤 플랫폼이 활발해지고 있다고 옮겨온다고 생각하면 큰 판단착오이고. 실제로 이용하는 플랫폼은 트위터-레딧-디스코드이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1370308233970159600,
+		"in_reply_to_status_id_str": "1370308233970159616",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1048,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "뭐 국내에서 팬덤 플랫폼이 활발해지고 있다고 옮겨온다고 생각하면 큰 판단착오이고. 실제로 이용하는 플랫폼은 트위터-레딧-디스코드이다."
+	},
+	{
+		"created_at": "Fri Mar 12 09:38:36 +0000 2021",
+		"id": 1370308233970159600,
+		"id_str": "1370308233970159616",
+		"full_text": "트위터가 케이팝 위시한다면 리스트 검색 API를 막으면 안좋을텐데. 실제로 트위터-레딧-디스코드 해외 팬베이스가 형성되어 있다는 것을 모르지 않을텐데.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1048,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "트위터가 케이팝 위시한다면 리스트 검색 API를 막으면 안좋을텐데. 실제로 트위터-레딧-디스코드 해외 팬베이스가 형성되어 있다는 것을 모르지 않을텐데."
+	},
+	{
+		"created_at": "Fri Mar 12 09:33:15 +0000 2021",
+		"id": 1370306885262266400,
+		"id_str": "1370306885262266369",
+		"full_text": "@xinxi1 @TwitterKorea @blondedcat @TheNolja https://t.co/uoy5EHJzmR",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xinxi1",
+					"name": "🇰🇷신희정 Heejung Shin",
+					"id": 41535639,
+					"id_str": "41535639",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "TwitterKorea",
+					"name": "Twitter Korea",
+					"id": 216531294,
+					"id_str": "216531294",
+					"indices": [
+						8,
+						21
+					]
+				},
+				{
+					"screen_name": "blondedcat",
+					"name": "blondedcat",
+					"id": 2988514627,
+					"id_str": "2988514627",
+					"indices": [
+						22,
+						33
+					]
+				},
+				{
+					"screen_name": "TheNolja",
+					"name": "YeonJeong Kim (김연정)",
+					"id": 52111801,
+					"id_str": "52111801",
+					"indices": [
+						34,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uoy5EHJzmR",
+					"expanded_url": "https://twitter.com/TwitterSupport/status/1305580584912158720",
+					"display_url": "twitter.com/TwitterSupport…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1370306755805159400,
+		"in_reply_to_status_id_str": "1370306755805159426",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1048,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1305580584912158700,
+		"quoted_status_id_str": "1305580584912158720",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uoy5EHJzmR",
+			"expanded": "https://twitter.com/TwitterSupport/status/1305580584912158720",
+			"display": "twitter.com/TwitterSupport…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 14 18:54:02 +0000 2020",
+			"id": 1305580584912158700,
+			"id_str": "1305580584912158720",
+			"full_text": "@josematthew Hey Jose, sorry about that. We're working on fixing this bug and searching within Lists should be sorted out soon.",
+			"truncated": false,
+			"display_text_range": [
+				13,
+				127
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "josematthew",
+						"name": "Jose Mathew",
+						"id": 27710681,
+						"id_str": "27710681",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": 1301216476347728000,
+			"in_reply_to_status_id_str": "1301216476347727876",
+			"in_reply_to_user_id": 27710681,
+			"in_reply_to_user_id_str": "27710681",
+			"in_reply_to_screen_name": "josematthew",
+			"user": {
+				"id": 17874544,
+				"id_str": "17874544",
+				"name": "Twitter Support",
+				"screen_name": "TwitterSupport",
+				"location": "Twitter HQ",
+				"description": "Here to help. 💙",
+				"url": "https://t.co/heEvRrl4yN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/heEvRrl4yN",
+								"expanded_url": "https://help.twitter.com",
+								"display_url": "help.twitter.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6616608,
+				"friends_count": 17,
+				"listed_count": 14850,
+				"created_at": "Thu Dec 04 18:51:57 +0000 2008",
+				"favourites_count": 505,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 37248,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1354479896072884225/AaUbc7ao_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354479896072884225/AaUbc7ao_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17874544/1611768148",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@xinxi1 @TwitterKorea @blondedcat @TheNolja https://t.co/uoy5EHJzmR"
+	},
+	{
+		"created_at": "Fri Mar 12 09:32:44 +0000 2021",
+		"id": 1370306755805159400,
+		"id_str": "1370306755805159426",
+		"full_text": "@xinxi1 @TwitterKorea @blondedcat @TheNolja 답변 감사합니다. 해당 이슈는 일전에 이미 레포트 된 바 있고 다시 발생하고 있습니다. 당시 서포트 계정이 답변한 것에 의하면 일시적인 문제라고 하였고 추후 해결되었습니다. 다시 문제가 발생하여 빠른 해결을 위해 전달해주십사 멘션드렸습니다.  https://t.co/BS7qpkSBWv",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xinxi1",
+					"name": "🇰🇷신희정 Heejung Shin",
+					"id": 41535639,
+					"id_str": "41535639",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "TwitterKorea",
+					"name": "Twitter Korea",
+					"id": 216531294,
+					"id_str": "216531294",
+					"indices": [
+						8,
+						21
+					]
+				},
+				{
+					"screen_name": "blondedcat",
+					"name": "blondedcat",
+					"id": 2988514627,
+					"id_str": "2988514627",
+					"indices": [
+						22,
+						33
+					]
+				},
+				{
+					"screen_name": "TheNolja",
+					"name": "YeonJeong Kim (김연정)",
+					"id": 52111801,
+					"id_str": "52111801",
+					"indices": [
+						34,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BS7qpkSBWv",
+					"expanded_url": "https://twittercommunity.com/t/standard-search-operator-list-username-slug-no-longer-working/141857",
+					"display_url": "twittercommunity.com/t/standard-sea…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1370305951148896300,
+		"in_reply_to_status_id_str": "1370305951148896259",
+		"in_reply_to_user_id": 41535639,
+		"in_reply_to_user_id_str": "41535639",
+		"in_reply_to_screen_name": "xinxi1",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1048,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@xinxi1 @TwitterKorea @blondedcat @TheNolja 답변 감사합니다. 해당 이슈는 일전에 이미 레포트 된 바 있고 다시 발생하고 있습니다. 당시 서포트 계정이 답변한 것에 의하면 일시적인 문제라고 하였고 추후 해결되었습니다. 다시 문제가 발생하여 빠른 해결을 위해 전달해주십사 멘션드렸습니다.  https://t.co/BS7qpkSBWv"
+	},
+	{
+		"created_at": "Fri Mar 12 09:29:41 +0000 2021",
+		"id": 1351527170565279700,
+		"id_str": "1370305987953954820",
+		"full_text": "documentにも書いてあるけど、使えない理由がわからん。。。\nhttps://t.co/qK2svi2WOg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qK2svi2WOg",
+					"expanded_url": "https://developer.twitter.com/en/docs/twitter-api/v1/tweets/search/guides/standard-operators",
+					"display_url": "developer.twitter.com/en/docs/twitte…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1351525890451128300,
+		"in_reply_to_status_id_str": "1351525890451128326",
+		"in_reply_to_user_id": 188564205,
+		"in_reply_to_user_id_str": "188564205",
+		"in_reply_to_screen_name": "DG0426",
+		"user": {
+			"id": 188564205,
+			"id_str": "188564205",
+			"name": "どらごん",
+			"screen_name": "DG0426",
+			"location": "",
+			"description": "ボドゲが大好きな社会人。特に「Civilization」,「サイズ - 大鎌戦役 -」,「ドミニオン」がお気に入り。FGOの推し鯖はジャンヌダルクオルタ！",
+			"url": "https://t.co/pqk2wljt3k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pqk2wljt3k",
+							"expanded_url": "http://qiita.com/DG0426",
+							"display_url": "qiita.com/DG0426",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 431,
+			"listed_count": 19,
+			"created_at": "Thu Sep 09 01:20:24 +0000 2010",
+			"favourites_count": 8321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/496081635612188672/6Pm_0dUF_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/496081635612188672/6Pm_0dUF_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/188564205/1550109526",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "documentにも書いてあるけど、使えない理由がわからん。。。\nhttps://t.co/qK2svi2WOg"
+	},
+	{
+		"created_at": "Fri Mar 12 09:29:39 +0000 2021",
+		"id": 1351525890451128300,
+		"id_str": "1370305980030885888",
+		"full_text": "twitter apiのsearch/tweetsで「list:user/listname」を使いたいんだけど、取得できない(´・ω・`)\nfilter系は問題ないんだけどなぁ。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 188564205,
+			"id_str": "188564205",
+			"name": "どらごん",
+			"screen_name": "DG0426",
+			"location": "",
+			"description": "ボドゲが大好きな社会人。特に「Civilization」,「サイズ - 大鎌戦役 -」,「ドミニオン」がお気に入り。FGOの推し鯖はジャンヌダルクオルタ！",
+			"url": "https://t.co/pqk2wljt3k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pqk2wljt3k",
+							"expanded_url": "http://qiita.com/DG0426",
+							"display_url": "qiita.com/DG0426",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 431,
+			"listed_count": 19,
+			"created_at": "Thu Sep 09 01:20:24 +0000 2010",
+			"favourites_count": 8321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/496081635612188672/6Pm_0dUF_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/496081635612188672/6Pm_0dUF_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/188564205/1550109526",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "twitter apiのsearch/tweetsで「list:user/listname」を使いたいんだけど、取得できない(´・ω・`)\nfilter系は問題ないんだけどなぁ。"
+	},
+	{
+		"created_at": "Fri Mar 12 09:28:56 +0000 2021",
+		"id": 1368047213096603600,
+		"id_str": "1370305798753067010",
+		"full_text": "@TwitterDev @twitterapi Reply appreciated. There has been an undocumented change to the search API behavior –– inclusion of list syntax in query strung results in null reply.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TwitterDev",
+					"name": "Twitter Dev",
+					"id": 2244994945,
+					"id_str": "2244994945",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "TwitterAPI",
+					"name": "Twitter API",
+					"id": 6253282,
+					"id_str": "6253282",
+					"indices": [
+						12,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1366071405780074500,
+		"in_reply_to_status_id_str": "1366071405780074496",
+		"in_reply_to_user_id": 7081702,
+		"in_reply_to_user_id_str": "7081702",
+		"in_reply_to_screen_name": "BigChase",
+		"user": {
+			"id": 7081702,
+			"id_str": "7081702",
+			"name": "BigChase",
+			"screen_name": "BigChase",
+			"location": "Washington, DC",
+			"description": "Data scientist and professional smart ass. (If you like my comments, please follow.)",
+			"url": "https://t.co/gJcUIVjGfD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gJcUIVjGfD",
+							"expanded_url": "https://twitter.com/i/lists/1231992553635024897",
+							"display_url": "twitter.com/i/lists/123199…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27,
+			"friends_count": 183,
+			"listed_count": 1,
+			"created_at": "Tue Jun 26 03:36:33 +0000 2007",
+			"favourites_count": 234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102732296766005248/Ja1Sf6fT_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102732296766005248/Ja1Sf6fT_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7081702/1551747168",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@TwitterDev @twitterapi Reply appreciated. There has been an undocumented change to the search API behavior –– inclusion of list syntax in query strung results in null reply."
+	},
+	{
+		"created_at": "Fri Mar 12 09:28:54 +0000 2021",
+		"id": 1366071405780074500,
+		"id_str": "1370305793845645314",
+		"full_text": "@twitterapi @twitterdev Search API 1.1 no longer enables lists to be included in query.   Any queries which include list:123456 return empty \"statuses\" arrays.   Is this intentional?  Will it be corrected?  Broke an app.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TwitterAPI",
+					"name": "Twitter API",
+					"id": 6253282,
+					"id_str": "6253282",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "TwitterDev",
+					"name": "Twitter Dev",
+					"id": 2244994945,
+					"id_str": "2244994945",
+					"indices": [
+						12,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 6253282,
+		"in_reply_to_user_id_str": "6253282",
+		"in_reply_to_screen_name": "TwitterAPI",
+		"user": {
+			"id": 7081702,
+			"id_str": "7081702",
+			"name": "BigChase",
+			"screen_name": "BigChase",
+			"location": "Washington, DC",
+			"description": "Data scientist and professional smart ass. (If you like my comments, please follow.)",
+			"url": "https://t.co/gJcUIVjGfD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gJcUIVjGfD",
+							"expanded_url": "https://twitter.com/i/lists/1231992553635024897",
+							"display_url": "twitter.com/i/lists/123199…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27,
+			"friends_count": 183,
+			"listed_count": 1,
+			"created_at": "Tue Jun 26 03:36:33 +0000 2007",
+			"favourites_count": 234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102732296766005248/Ja1Sf6fT_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102732296766005248/Ja1Sf6fT_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7081702/1551747168",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@twitterapi @twitterdev Search API 1.1 no longer enables lists to be included in query.   Any queries which include list:123456 return empty \"statuses\" arrays.   Is this intentional?  Will it be corrected?  Broke an app."
+	},
+	{
+		"created_at": "Fri Mar 12 09:28:22 +0000 2021",
+		"id": 1370305659258871800,
+		"id_str": "1370305659258871811",
+		"full_text": "@TwitterAPI @TwitterSupport  I have problems in both cases. https://t.co/TxRXiD6aga",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TwitterAPI",
+					"name": "Twitter API",
+					"id": 6253282,
+					"id_str": "6253282",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "TwitterSupport",
+					"name": "Twitter Support",
+					"id": 17874544,
+					"id_str": "17874544",
+					"indices": [
+						12,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TxRXiD6aga",
+					"expanded_url": "https://twitter.com/BigChase/status/1368047083748474881",
+					"display_url": "twitter.com/BigChase/statu…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1370303652112474000,
+		"in_reply_to_status_id_str": "1370303652112474112",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1048,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1368047083748475000,
+		"quoted_status_id_str": "1368047083748474881",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TxRXiD6aga",
+			"expanded": "https://twitter.com/BigChase/status/1368047083748474881",
+			"display": "twitter.com/BigChase/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 06 03:53:36 +0000 2021",
+			"id": 1368047083748475000,
+			"id_str": "1368047083748474881",
+			"full_text": "@TwitterDev @twitterapi Reply appreciated. There has been an undocumented change to the search API behavior –– inclusion of list syntax in query strung results in null reply. https://t.co/DOKr5IhaEK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				174
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TwitterDev",
+						"name": "Twitter Dev",
+						"id": 2244994945,
+						"id_str": "2244994945",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"screen_name": "TwitterAPI",
+						"name": "Twitter API",
+						"id": 6253282,
+						"id_str": "6253282",
+						"indices": [
+							12,
+							23
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/DOKr5IhaEK",
+						"expanded_url": "https://twitter.com/BigChase/status/1366071405780074496",
+						"display_url": "twitter.com/BigChase/statu…",
+						"indices": [
+							175,
+							198
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 2244994945,
+			"in_reply_to_user_id_str": "2244994945",
+			"in_reply_to_screen_name": "TwitterDev",
+			"user": {
+				"id": 7081702,
+				"id_str": "7081702",
+				"name": "BigChase",
+				"screen_name": "BigChase",
+				"location": "Washington, DC",
+				"description": "Data scientist and professional smart ass. (If you like my comments, please follow.)",
+				"url": "https://t.co/gJcUIVjGfD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gJcUIVjGfD",
+								"expanded_url": "https://twitter.com/i/lists/1231992553635024897",
+								"display_url": "twitter.com/i/lists/123199…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27,
+				"friends_count": 183,
+				"listed_count": 1,
+				"created_at": "Tue Jun 26 03:36:33 +0000 2007",
+				"favourites_count": 234,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 584,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1102732296766005248/Ja1Sf6fT_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102732296766005248/Ja1Sf6fT_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7081702/1551747168",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1366071405780074500,
+			"quoted_status_id_str": "1366071405780074496",
+			"quoted_status_permalink": {
+				"url": "https://t.co/DOKr5IhaEK",
+				"expanded": "https://twitter.com/BigChase/status/1366071405780074496",
+				"display": "twitter.com/BigChase/statu…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@TwitterAPI @TwitterSupport  I have problems in both cases. https://t.co/TxRXiD6aga"
+	},
+	{
+		"created_at": "Fri Mar 12 09:27:27 +0000 2021",
+		"id": 1370305427313991700,
+		"id_str": "1370305427313991680",
+		"full_text": "#DreamMaker #드림메이커\nBeyond LIVE - BAEKHYUN : LIGHT │ Concert Making Vlog\nhttps://t.co/efZa4NiuW0\n#SM엔터테인먼트 #공연기획사 #뮤직비지니스 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DreamMaker",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "드림메이커",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "SM엔터테인먼트",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"text": "공연기획사",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						113,
+						120
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						121,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/efZa4NiuW0",
+					"expanded_url": "https://youtu.be/1hAbAxp93M0",
+					"display_url": "youtu.be/1hAbAxp93M0",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1048,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#DreamMaker #드림메이커\nBeyond LIVE - BAEKHYUN : LIGHT │ Concert Making Vlog\nhttps://t.co/efZa4NiuW0\n#SM엔터테인먼트 #공연기획사 #뮤직비지니스 #minfav"
+	},
+	{
+		"created_at": "Fri Mar 12 09:27:25 +0000 2021",
+		"id": 1368047083748475000,
+		"id_str": "1370305419130802183",
+		"full_text": "@TwitterDev @twitterapi Reply appreciated. There has been an undocumented change to the search API behavior –– inclusion of list syntax in query strung results in null reply. https://t.co/DOKr5IhaEK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TwitterDev",
+					"name": "Twitter Dev",
+					"id": 2244994945,
+					"id_str": "2244994945",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "TwitterAPI",
+					"name": "Twitter API",
+					"id": 6253282,
+					"id_str": "6253282",
+					"indices": [
+						12,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DOKr5IhaEK",
+					"expanded_url": "https://twitter.com/BigChase/status/1366071405780074496",
+					"display_url": "twitter.com/BigChase/statu…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 2244994945,
+		"in_reply_to_user_id_str": "2244994945",
+		"in_reply_to_screen_name": "TwitterDev",
+		"user": {
+			"id": 7081702,
+			"id_str": "7081702",
+			"name": "BigChase",
+			"screen_name": "BigChase",
+			"location": "Washington, DC",
+			"description": "Data scientist and professional smart ass. (If you like my comments, please follow.)",
+			"url": "https://t.co/gJcUIVjGfD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gJcUIVjGfD",
+							"expanded_url": "https://twitter.com/i/lists/1231992553635024897",
+							"display_url": "twitter.com/i/lists/123199…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27,
+			"friends_count": 183,
+			"listed_count": 1,
+			"created_at": "Tue Jun 26 03:36:33 +0000 2007",
+			"favourites_count": 234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102732296766005248/Ja1Sf6fT_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102732296766005248/Ja1Sf6fT_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7081702/1551747168",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1366071405780074500,
+		"quoted_status_id_str": "1366071405780074496",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DOKr5IhaEK",
+			"expanded": "https://twitter.com/BigChase/status/1366071405780074496",
+			"display": "twitter.com/BigChase/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 28 17:02:58 +0000 2021",
+			"id": 1366071405780074500,
+			"id_str": "1366071405780074496",
+			"full_text": "@twitterapi @twitterdev Search API 1.1 no longer enables lists to be included in query.   Any queries which include list:123456 return empty \"statuses\" arrays.   Is this intentional?  Will it be corrected?  Broke an app.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				220
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TwitterAPI",
+						"name": "Twitter API",
+						"id": 6253282,
+						"id_str": "6253282",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"screen_name": "TwitterDev",
+						"name": "Twitter Dev",
+						"id": 2244994945,
+						"id_str": "2244994945",
+						"indices": [
+							12,
+							23
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 6253282,
+			"in_reply_to_user_id_str": "6253282",
+			"in_reply_to_screen_name": "TwitterAPI",
+			"user": {
+				"id": 7081702,
+				"id_str": "7081702",
+				"name": "BigChase",
+				"screen_name": "BigChase",
+				"location": "Washington, DC",
+				"description": "Data scientist and professional smart ass. (If you like my comments, please follow.)",
+				"url": "https://t.co/gJcUIVjGfD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gJcUIVjGfD",
+								"expanded_url": "https://twitter.com/i/lists/1231992553635024897",
+								"display_url": "twitter.com/i/lists/123199…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27,
+				"friends_count": 183,
+				"listed_count": 1,
+				"created_at": "Tue Jun 26 03:36:33 +0000 2007",
+				"favourites_count": 234,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 584,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1102732296766005248/Ja1Sf6fT_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102732296766005248/Ja1Sf6fT_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7081702/1551747168",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@TwitterDev @twitterapi Reply appreciated. There has been an undocumented change to the search API behavior –– inclusion of list syntax in query strung results in null reply. https://t.co/DOKr5IhaEK"
+	},
+	{
+		"created_at": "Fri Mar 12 09:23:36 +0000 2021",
+		"id": 1370304457129427000,
+		"id_str": "1370304457129426945",
+		"full_text": "@DigitalSpaceLab @TwitterAPI @TwitterDev I strongly agree with this opinion. It's a great tool for marketers. Please turn the function back.",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DigitalSpaceLab",
+					"name": "Digital Spaces",
+					"id": 2893445801,
+					"id_str": "2893445801",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "TwitterAPI",
+					"name": "Twitter API",
+					"id": 6253282,
+					"id_str": "6253282",
+					"indices": [
+						17,
+						28
+					]
+				},
+				{
+					"screen_name": "TwitterDev",
+					"name": "Twitter Dev",
+					"id": 2244994945,
+					"id_str": "2244994945",
+					"indices": [
+						29,
+						40
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1366331618743492600,
+		"in_reply_to_status_id_str": "1366331618743492609",
+		"in_reply_to_user_id": 2893445801,
+		"in_reply_to_user_id_str": "2893445801",
+		"in_reply_to_screen_name": "DigitalSpaceLab",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1048,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DigitalSpaceLab @TwitterAPI @TwitterDev I strongly agree with this opinion. It's a great tool for marketers. Please turn the function back."
+	},
+	{
+		"created_at": "Fri Mar 12 09:22:21 +0000 2021",
+		"id": 1370304145190645800,
+		"id_str": "1370304145190645764",
+		"full_text": "메일을 읽었지만 답장을 하지 않는다. 나라면 파손제품 빠른 교환해드리겠다고 죄송하다고 하고 리스크를 감소하는쪽을 택할테지만. 실제로 문제가 많은 제품이던 아니던",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1370295103240110000,
+		"in_reply_to_status_id_str": "1370295103240110081",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1048,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "메일을 읽었지만 답장을 하지 않는다. 나라면 파손제품 빠른 교환해드리겠다고 죄송하다고 하고 리스크를 감소하는쪽을 택할테지만. 실제로 문제가 많은 제품이던 아니던"
+	},
+	{
+		"created_at": "Fri Mar 12 09:20:54 +0000 2021",
+		"id": 1366353135720145000,
+		"id_str": "1370303777257889792",
+		"full_text": "@DigitalSpaceLab @TwitterAPI @TwitterDev such a pain, hope it comes back. Possibly the most useful operator.",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DigitalSpaceLab",
+					"name": "Digital Spaces",
+					"id": 2893445801,
+					"id_str": "2893445801",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "TwitterAPI",
+					"name": "Twitter API",
+					"id": 6253282,
+					"id_str": "6253282",
+					"indices": [
+						17,
+						28
+					]
+				},
+				{
+					"screen_name": "TwitterDev",
+					"name": "Twitter Dev",
+					"id": 2244994945,
+					"id_str": "2244994945",
+					"indices": [
+						29,
+						40
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1366331618743492600,
+		"in_reply_to_status_id_str": "1366331618743492609",
+		"in_reply_to_user_id": 2893445801,
+		"in_reply_to_user_id_str": "2893445801",
+		"in_reply_to_screen_name": "DigitalSpaceLab",
+		"user": {
+			"id": 132563763,
+			"id_str": "132563763",
+			"name": "Jack Maddox",
+			"screen_name": "MaddoxJack",
+			"location": "London, England",
+			"description": "Technical Founder of Socialwise. Previously journalist @Dataminr, #CNN and #AlJazeera. #NUFC also...",
+			"url": "https://t.co/lYsHKNnQ4d",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lYsHKNnQ4d",
+							"expanded_url": "https://www.socialwise.io",
+							"display_url": "socialwise.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1083,
+			"friends_count": 563,
+			"listed_count": 29,
+			"created_at": "Tue Apr 13 15:45:24 +0000 2010",
+			"favourites_count": 1381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124507544720936960/zPTd0zFV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124507544720936960/zPTd0zFV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132563763/1556938466",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@DigitalSpaceLab @TwitterAPI @TwitterDev such a pain, hope it comes back. Possibly the most useful operator."
+	},
+	{
+		"created_at": "Fri Mar 12 09:20:52 +0000 2021",
+		"id": 1366331618743492600,
+		"id_str": "1370303771432034305",
+		"full_text": "Hey @twitterapi and @twitterdev! #searchoperatordown\n\nWhat has happened to the #TwitterAPI v1.1 search operator \"list:\"? Will it be back?\n\nIMO this is one of the most practical, valuable and yet underutilized search operators. Currently using it in several research projects.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "searchoperatordown",
+					"indices": [
+						33,
+						52
+					]
+				},
+				{
+					"text": "TwitterAPI",
+					"indices": [
+						79,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TwitterAPI",
+					"name": "Twitter API",
+					"id": 6253282,
+					"id_str": "6253282",
+					"indices": [
+						4,
+						15
+					]
+				},
+				{
+					"screen_name": "TwitterDev",
+					"name": "Twitter Dev",
+					"id": 2244994945,
+					"id_str": "2244994945",
+					"indices": [
+						20,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2893445801,
+			"id_str": "2893445801",
+			"name": "Digital Spaces",
+			"screen_name": "DigitalSpaceLab",
+			"location": "Germany",
+			"description": "Network geek / geographer / researcher / consultant - Request a free Twitter network map! Member of Team @NodeXL",
+			"url": "https://t.co/CM4huFUqm1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CM4huFUqm1",
+							"expanded_url": "http://www.digitalspacelab.com",
+							"display_url": "digitalspacelab.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 417,
+			"friends_count": 574,
+			"listed_count": 81,
+			"created_at": "Wed Nov 26 15:42:43 +0000 2014",
+			"favourites_count": 475,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/690218859895373824/JEdDRzpE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/690218859895373824/JEdDRzpE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2893445801/1562244670",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hey @twitterapi and @twitterdev! #searchoperatordown\n\nWhat has happened to the #TwitterAPI v1.1 search operator \"list:\"? Will it be back?\n\nIMO this is one of the most practical, valuable and yet underutilized search operators. Currently using it in several research projects."
+	},
+	{
+		"created_at": "Fri Mar 12 09:20:24 +0000 2021",
+		"id": 1370303652112474000,
+		"id_str": "1370303652112474112",
+		"full_text": "same problem.  \nhttps://t.co/1WlE79xrYq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1WlE79xrYq",
+					"expanded_url": "https://twitter.com/DigitalSpaceLab/status/1366331618743492609",
+					"display_url": "twitter.com/DigitalSpaceLa…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1370302310828499000,
+		"in_reply_to_status_id_str": "1370302310828498949",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1048,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1366331618743492600,
+		"quoted_status_id_str": "1366331618743492609",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1WlE79xrYq",
+			"expanded": "https://twitter.com/DigitalSpaceLab/status/1366331618743492609",
+			"display": "twitter.com/DigitalSpaceLa…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 01 10:16:57 +0000 2021",
+			"id": 1366331618743492600,
+			"id_str": "1366331618743492609",
+			"full_text": "Hey @twitterapi and @twitterdev! #searchoperatordown\n\nWhat has happened to the #TwitterAPI v1.1 search operator \"list:\"? Will it be back?\n\nIMO this is one of the most practical, valuable and yet underutilized search operators. Currently using it in several research projects.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "searchoperatordown",
+						"indices": [
+							33,
+							52
+						]
+					},
+					{
+						"text": "TwitterAPI",
+						"indices": [
+							79,
+							90
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TwitterAPI",
+						"name": "Twitter API",
+						"id": 6253282,
+						"id_str": "6253282",
+						"indices": [
+							4,
+							15
+						]
+					},
+					{
+						"screen_name": "TwitterDev",
+						"name": "Twitter Dev",
+						"id": 2244994945,
+						"id_str": "2244994945",
+						"indices": [
+							20,
+							31
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2893445801,
+				"id_str": "2893445801",
+				"name": "Digital Spaces",
+				"screen_name": "DigitalSpaceLab",
+				"location": "Germany",
+				"description": "Network geek / geographer / researcher / consultant - Request a free Twitter network map! Member of Team @NodeXL",
+				"url": "https://t.co/CM4huFUqm1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CM4huFUqm1",
+								"expanded_url": "http://www.digitalspacelab.com",
+								"display_url": "digitalspacelab.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 417,
+				"friends_count": 574,
+				"listed_count": 81,
+				"created_at": "Wed Nov 26 15:42:43 +0000 2014",
+				"favourites_count": 475,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 848,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/690218859895373824/JEdDRzpE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/690218859895373824/JEdDRzpE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2893445801/1562244670",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "same problem.  \nhttps://t.co/1WlE79xrYq"
+	},
+	{
+		"created_at": "Fri Mar 12 09:15:04 +0000 2021",
+		"id": 1370302310828499000,
+		"id_str": "1370302310828498949",
+		"full_text": "Here is a person who has the same problem as me. Please help me. https://t.co/oxz4uUiQYh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oxz4uUiQYh",
+					"expanded_url": "https://twitter.com/jm8ojm8o/status/1368380517901422593",
+					"display_url": "twitter.com/jm8ojm8o/statu…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1370020614287716400,
+		"in_reply_to_status_id_str": "1370020614287716362",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1048,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1368380517901422600,
+		"quoted_status_id_str": "1368380517901422593",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oxz4uUiQYh",
+			"expanded": "https://twitter.com/jm8ojm8o/status/1368380517901422593",
+			"display": "twitter.com/jm8ojm8o/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 07 01:58:33 +0000 2021",
+			"id": 1368380517901422600,
+			"id_str": "1368380517901422593",
+			"full_text": "10日くらい前からtwitter api v1.1のsearchでlist:xxxを使った検索ができなくなっているみたい\napiのv2ならどうかと申請してToken取得したけどこっちもダメ\nwebからなら検索できるからselenium使う手もあるけど多分規約違反",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				131
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3915501318,
+				"id_str": "3915501318",
+				"name": "•ᴗ•",
+				"screen_name": "jm8ojm8o",
+				"location": "雪国",
+				"description": "プログラマかもしれない\nアイコンは小鈴(@xiaolingdayo)に描いてもらいました\nヘッダーは陽夏ののちゃん(@HinatsuNono)です",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 90,
+				"friends_count": 42,
+				"listed_count": 4,
+				"created_at": "Fri Oct 16 16:29:33 +0000 2015",
+				"favourites_count": 2866,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 902,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1322854231288631297/TcreKPCE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322854231288631297/TcreKPCE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3915501318/1600608679",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ja"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here is a person who has the same problem as me. Please help me. https://t.co/oxz4uUiQYh"
+	},
+	{
+		"created_at": "Fri Mar 12 09:14:24 +0000 2021",
+		"id": 1368380517901422600,
+		"id_str": "1370302143278718982",
+		"full_text": "10日くらい前からtwitter api v1.1のsearchでlist:xxxを使った検索ができなくなっているみたい\napiのv2ならどうかと申請してToken取得したけどこっちもダメ\nwebからなら検索できるからselenium使う手もあるけど多分規約違反",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3915501318,
+			"id_str": "3915501318",
+			"name": "•ᴗ•",
+			"screen_name": "jm8ojm8o",
+			"location": "雪国",
+			"description": "プログラマかもしれない\nアイコンは小鈴(@xiaolingdayo)に描いてもらいました\nヘッダーは陽夏ののちゃん(@HinatsuNono)です",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90,
+			"friends_count": 42,
+			"listed_count": 4,
+			"created_at": "Fri Oct 16 16:29:33 +0000 2015",
+			"favourites_count": 2866,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322854231288631297/TcreKPCE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322854231288631297/TcreKPCE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3915501318/1600608679",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "10日くらい前からtwitter api v1.1のsearchでlist:xxxを使った検索ができなくなっているみたい\napiのv2ならどうかと申請してToken取得したけどこっちもダメ\nwebからなら検索できるからselenium使う手もあるけど多分規約違反"
+	},
+	{
+		"created_at": "Fri Mar 12 09:10:34 +0000 2021",
+		"id": 1370301178978869200,
+		"id_str": "1370301178978869252",
+		"full_text": "덕질에도 쓸 수 있지만 경쟁사 제품이나 회사 제품을 모니터 할 수 있는 공간인데.... 그때도 몇주걸리긴 했는데 담당자가 바로 피드백해주겠다고 해서 하니까 금방 해결되긴했는데 이번엔 얼마나 갈지 모르겠다 26일자로 막혔음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1370300820353208300,
+		"in_reply_to_status_id_str": "1370300820353208323",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1048,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "덕질에도 쓸 수 있지만 경쟁사 제품이나 회사 제품을 모니터 할 수 있는 공간인데.... 그때도 몇주걸리긴 했는데 담당자가 바로 피드백해주겠다고 해서 하니까 금방 해결되긴했는데 이번엔 얼마나 갈지 모르겠다 26일자로 막혔음."
+	},
+	{
+		"created_at": "Fri Mar 12 09:09:09 +0000 2021",
+		"id": 1370300820353208300,
+		"id_str": "1370300820353208323",
+		"full_text": "트위터는 사소한것도 올리는, 직접적인 피드백은 아니지만 피드백과 관련된 내용이 올라오는 곳이고 마케터라면 체크해야할 채널인데 이런 예고도 없는 제한은 실망스러움. 분명 리스트 검색이 api 2.0에도 포함되는 것 같은데. 아예 없애는건 아닌것 같은데.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1370300184249344000,
+		"in_reply_to_status_id_str": "1370300184249344002",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1048,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "트위터는 사소한것도 올리는, 직접적인 피드백은 아니지만 피드백과 관련된 내용이 올라오는 곳이고 마케터라면 체크해야할 채널인데 이런 예고도 없는 제한은 실망스러움. 분명 리스트 검색이 api 2.0에도 포함되는 것 같은데. 아예 없애는건 아닌것 같은데."
+	},
+	{
+		"created_at": "Fri Mar 12 09:06:37 +0000 2021",
+		"id": 1370300184249344000,
+		"id_str": "1370300184249344002",
+		"full_text": "https://t.co/JkM7L3t76m\n\n태연과 관련된 트윗만 보는 방법이지만 이것은 트위터에서만 작동하고 api를 통해 가져올 수 없다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JkM7L3t76m",
+					"expanded_url": "https://twitter.com/search?q=list%3Afromminn%2Fent%20%22%ED%83%9C%EC%97%B0%22%20OR%20%22TAEYEON%22&src=saved_search_click&f=live",
+					"display_url": "twitter.com/search?q=list%…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1370299918070341600,
+		"in_reply_to_status_id_str": "1370299918070341632",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1048,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/JkM7L3t76m\n\n태연과 관련된 트윗만 보는 방법이지만 이것은 트위터에서만 작동하고 api를 통해 가져올 수 없다."
+	},
+	{
+		"created_at": "Fri Mar 12 09:05:34 +0000 2021",
+		"id": 1370299918070341600,
+		"id_str": "1370299918070341632",
+		"full_text": "트위터 리스트 api 검색이 막히면서 패션매거진에서 특정 아티스트 트윗만 보기, 콘텐츠 채널에서 아티스트명으로 들어간 정보를 슬랙으로 게시하기 같은 것들을 할 수 없게 되었다. https://t.co/UNZXjcR8D2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UNZXjcR8D2",
+					"expanded_url": "https://twitter.com/fromminn/status/1370018814591528965",
+					"display_url": "twitter.com/fromminn/statu…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1048,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1370018814591529000,
+		"quoted_status_id_str": "1370018814591528965",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UNZXjcR8D2",
+			"expanded": "https://twitter.com/fromminn/status/1370018814591528965",
+			"display": "twitter.com/fromminn/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 11 14:28:33 +0000 2021",
+			"id": 1370018814591529000,
+			"id_str": "1370018814591528965",
+			"full_text": "@andypiper help me! Twitter List API not work. I filter and receive Tweets through it. Send to Slack or Discord. I also send an automatic reply. Why is the function blocked again? https://t.co/mcELKF7JZs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				179
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "andypiper",
+						"name": "Andy Piper",
+						"id": 786491,
+						"id_str": "786491",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/mcELKF7JZs",
+						"expanded_url": "https://twitter.com/fromminn/status/1365545086168178688",
+						"display_url": "twitter.com/fromminn/statu…",
+						"indices": [
+							180,
+							203
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 786491,
+			"in_reply_to_user_id_str": "786491",
+			"in_reply_to_screen_name": "andypiper",
+			"user": {
+				"id": 4531360753,
+				"id_str": "4531360753",
+				"name": "MINN",
+				"screen_name": "fromminn",
+				"location": "",
+				"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+				"url": "https://t.co/Z9WwU5pNg0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Z9WwU5pNg0",
+								"expanded_url": "https://minn.tify.kr",
+								"display_url": "minn.tify.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 312,
+				"friends_count": 1048,
+				"listed_count": 6,
+				"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+				"favourites_count": 44992,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 79074,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E4E4E4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+				"profile_link_color": "848484",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1365545086168178700,
+			"quoted_status_id_str": "1365545086168178688",
+			"quoted_status_permalink": {
+				"url": "https://t.co/mcELKF7JZs",
+				"expanded": "https://twitter.com/fromminn/status/1365545086168178688",
+				"display": "twitter.com/fromminn/statu…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트위터 리스트 api 검색이 막히면서 패션매거진에서 특정 아티스트 트윗만 보기, 콘텐츠 채널에서 아티스트명으로 들어간 정보를 슬랙으로 게시하기 같은 것들을 할 수 없게 되었다. https://t.co/UNZXjcR8D2"
+	},
+	{
+		"created_at": "Fri Mar 12 09:04:23 +0000 2021",
+		"id": 1370299623655534600,
+		"id_str": "1370299623655534593",
+		"full_text": "[슬기로운 작가생활] 호락호락하지 않은 1의 준피를 소개합니다.\nhttps://t.co/Nft5wp61vU\n#MonoTree #모노트리",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MonoTree",
+					"indices": [
+						60,
+						69
+					]
+				},
+				{
+					"text": "모노트리",
+					"indices": [
+						70,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Nft5wp61vU",
+					"expanded_url": "https://youtu.be/8G4pg4Icklo",
+					"display_url": "youtu.be/8G4pg4Icklo",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1048,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[슬기로운 작가생활] 호락호락하지 않은 1의 준피를 소개합니다.\nhttps://t.co/Nft5wp61vU\n#MonoTree #모노트리"
+	},
+	{
+		"created_at": "Fri Mar 12 09:03:58 +0000 2021",
+		"id": 1370299517774360600,
+		"id_str": "1370299517774360577",
+		"full_text": "@TwitterKorea @blondedcat @TheNolja @xinxi1 이 내용을 트위터 측으로 전달해주실 수 있나요? 트위터 리스트 API 검색이 되지 않고 있어서요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TwitterKorea",
+					"name": "Twitter Korea",
+					"id": 216531294,
+					"id_str": "216531294",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "blondedcat",
+					"name": "blondedcat",
+					"id": 2988514627,
+					"id_str": "2988514627",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "TheNolja",
+					"name": "YeonJeong Kim (김연정)",
+					"id": 52111801,
+					"id_str": "52111801",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"screen_name": "xinxi1",
+					"name": "🇰🇷신희정 Heejung Shin",
+					"id": 41535639,
+					"id_str": "41535639",
+					"indices": [
+						36,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1370018814591529000,
+		"in_reply_to_status_id_str": "1370018814591528965",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1048,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@TwitterKorea @blondedcat @TheNolja @xinxi1 이 내용을 트위터 측으로 전달해주실 수 있나요? 트위터 리스트 API 검색이 되지 않고 있어서요."
+	},
+	{
 		"created_at": "Fri Mar 12 08:50:59 +0000 2021",
 		"id": 1370296250528985000,
 		"id_str": "1370296250528985093",
