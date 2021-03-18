@@ -1,6 +1,496 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Thu Mar 18 07:36:20 +0000 2021",
+		"id": 1372451789971320800,
+		"id_str": "1372451789971320834",
+		"full_text": "[Cover]Fou Rire-Richard Galliano\nhttps://t.co/5fWkJdey0u\n#강이채 #EchaeKang",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강이채",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "EchaeKang",
+					"indices": [
+						62,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5fWkJdey0u",
+					"expanded_url": "https://youtu.be/704cndYuAjk",
+					"display_url": "youtu.be/704cndYuAjk",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1048,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 45002,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Cover]Fou Rire-Richard Galliano\nhttps://t.co/5fWkJdey0u\n#강이채 #EchaeKang"
+	},
+	{
+		"created_at": "Thu Mar 18 07:24:04 +0000 2021",
+		"id": 1372448704653893600,
+		"id_str": "1372448704653893632",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 로제, 개인 유튜브 채널 깜짝 오픈\nhttps://t.co/ZUOcxs75lq\n#블랙핑크 #BLACKPINK https://t.co/bJo17dxQ87",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						72,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZUOcxs75lq",
+					"expanded_url": "https://yg-life.com/archives/166534?lang=ko",
+					"display_url": "yg-life.com/archives/16653…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1372448703638859800,
+					"id_str": "1372448703638859776",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/Ewvq0wzW8AA921v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ewvq0wzW8AA921v.jpg",
+					"url": "https://t.co/bJo17dxQ87",
+					"display_url": "pic.twitter.com/bJo17dxQ87",
+					"expanded_url": "https://twitter.com/fromminn/status/1372448704653893632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 410,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 272,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 410,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1372448703638859800,
+					"id_str": "1372448703638859776",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/Ewvq0wzW8AA921v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ewvq0wzW8AA921v.jpg",
+					"url": "https://t.co/bJo17dxQ87",
+					"display_url": "pic.twitter.com/bJo17dxQ87",
+					"expanded_url": "https://twitter.com/fromminn/status/1372448704653893632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 410,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 272,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 410,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1048,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 45002,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 로제, 개인 유튜브 채널 깜짝 오픈\nhttps://t.co/ZUOcxs75lq\n#블랙핑크 #BLACKPINK https://t.co/bJo17dxQ87"
+	},
+	{
+		"created_at": "Thu Mar 18 07:11:37 +0000 2021",
+		"id": 1372445569155797000,
+		"id_str": "1372445569155796998",
+		"full_text": "#웹진예술경영 #예술경영지원센터\n[예술경영지원센터] 미술품 대여·전시지원 1차 공모 외 공모·행사 소식\nhttps://t.co/cpdqbZtbFG\n#웹진 #예술경영 #뮤직비지니스\n#뉴스레터 #Newsletter",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웹진예술경영",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"text": "뉴스레터",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						106,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cpdqbZtbFG",
+					"expanded_url": "https://notifier.in/item/gvfhuxrra1dr47n0oz46zqocuu8jmoip/2527896.html",
+					"display_url": "notifier.in/item/gvfhuxrra…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1048,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 45002,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#웹진예술경영 #예술경영지원센터\n[예술경영지원센터] 미술품 대여·전시지원 1차 공모 외 공모·행사 소식\nhttps://t.co/cpdqbZtbFG\n#웹진 #예술경영 #뮤직비지니스\n#뉴스레터 #Newsletter"
+	},
+	{
 		"created_at": "Thu Mar 18 06:59:29 +0000 2021",
 		"id": 1372442517942177800,
 		"id_str": "1372442517942177795",
