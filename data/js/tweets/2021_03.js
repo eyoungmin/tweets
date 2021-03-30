@@ -1,6 +1,2347 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Tue Mar 30 06:54:46 +0000 2021",
+		"id": 1376473069707952000,
+		"id_str": "1376789984527609860",
+		"full_text": "여러분이 케이팝을 사랑한다면, 케이팝을 만드는 이에게 정당한 대가와 권리가 주어지길 바란다면 이 글을 공유해 주세요. 기사화를 원하는 분은 프로필의 메일 주소로 메일 주세요. 많은 케이팝 스태프가 자신들의 자리에서 스스로의 이름으로 빛날 수 있기를 희망합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1376473039706054700,
+		"in_reply_to_status_id_str": "1376473039706054660",
+		"in_reply_to_user_id": 1376463833665970200,
+		"in_reply_to_user_id_str": "1376463833665970183",
+		"in_reply_to_screen_name": "F0UUKo7bi4Npu0X",
+		"user": {
+			"id": 1376463833665970200,
+			"id_str": "1376463833665970183",
+			"name": "익명의 케이팝작사가 대리인",
+			"screen_name": "F0UUKo7bi4Npu0X",
+			"location": "",
+			"description": "contact: unkownkpoplyricst@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169,
+			"friends_count": 20,
+			"listed_count": 2,
+			"created_at": "Mon Mar 29 09:18:52 +0000 2021",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 305,
+		"favorite_count": 142,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "여러분이 케이팝을 사랑한다면, 케이팝을 만드는 이에게 정당한 대가와 권리가 주어지길 바란다면 이 글을 공유해 주세요. 기사화를 원하는 분은 프로필의 메일 주소로 메일 주세요. 많은 케이팝 스태프가 자신들의 자리에서 스스로의 이름으로 빛날 수 있기를 희망합니다."
+	},
+	{
+		"created_at": "Tue Mar 30 06:54:44 +0000 2021",
+		"id": 1376473039706054700,
+		"id_str": "1376789976738750464",
+		"full_text": "현재 케이팝 작사가들은 곡의 퀄리티를 높이기 위해 최선을 다하고 있습니다. 하지만 현재 구조에서는 작사가들의 노력이 제대로 여러분께 온전하게 전달될 수 없습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1376472992721502200,
+		"in_reply_to_status_id_str": "1376472992721502210",
+		"in_reply_to_user_id": 1376463833665970200,
+		"in_reply_to_user_id_str": "1376463833665970183",
+		"in_reply_to_screen_name": "F0UUKo7bi4Npu0X",
+		"user": {
+			"id": 1376463833665970200,
+			"id_str": "1376463833665970183",
+			"name": "익명의 케이팝작사가 대리인",
+			"screen_name": "F0UUKo7bi4Npu0X",
+			"location": "",
+			"description": "contact: unkownkpoplyricst@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169,
+			"friends_count": 20,
+			"listed_count": 2,
+			"created_at": "Mon Mar 29 09:18:52 +0000 2021",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 119,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "현재 케이팝 작사가들은 곡의 퀄리티를 높이기 위해 최선을 다하고 있습니다. 하지만 현재 구조에서는 작사가들의 노력이 제대로 여러분께 온전하게 전달될 수 없습니다."
+	},
+	{
+		"created_at": "Tue Mar 30 06:54:43 +0000 2021",
+		"id": 1376472992721502200,
+		"id_str": "1376789971873329152",
+		"full_text": "많은 케이팝 작사가님들이 제게 말씀하십니다. 돈은 바라지 않으니 크레딧이라도 제대로 실렸으면 좋겠다고. 자신이 작사한 곡이 자신의 창작물로 제대로 인정받았으면 좋겠다고요. 대부분의 케이팝 작사가가 이중생활로 인한 어려움과 학원의 갑질에 따른 자존감 하락에 시달리고 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1376472953722826800,
+		"in_reply_to_status_id_str": "1376472953722826755",
+		"in_reply_to_user_id": 1376463833665970200,
+		"in_reply_to_user_id_str": "1376463833665970183",
+		"in_reply_to_screen_name": "F0UUKo7bi4Npu0X",
+		"user": {
+			"id": 1376463833665970200,
+			"id_str": "1376463833665970183",
+			"name": "익명의 케이팝작사가 대리인",
+			"screen_name": "F0UUKo7bi4Npu0X",
+			"location": "",
+			"description": "contact: unkownkpoplyricst@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169,
+			"friends_count": 20,
+			"listed_count": 2,
+			"created_at": "Mon Mar 29 09:18:52 +0000 2021",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 277,
+		"favorite_count": 101,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "많은 케이팝 작사가님들이 제게 말씀하십니다. 돈은 바라지 않으니 크레딧이라도 제대로 실렸으면 좋겠다고. 자신이 작사한 곡이 자신의 창작물로 제대로 인정받았으면 좋겠다고요. 대부분의 케이팝 작사가가 이중생활로 인한 어려움과 학원의 갑질에 따른 자존감 하락에 시달리고 있습니다."
+	},
+	{
+		"created_at": "Tue Mar 30 06:54:41 +0000 2021",
+		"id": 1376472953722826800,
+		"id_str": "1376789962151010311",
+		"full_text": "이들은 한 두글자를 고치거나 작사에 참여하지 않고도 크레딧에 이름을 올립니다. 그리고 유령작사가는 학원에만 있지 않습니다. 학원이 데모를 독차지하는 건 구조적으로 그럴만한 이유가 있기 때문입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1376472922420732000,
+		"in_reply_to_status_id_str": "1376472922420731912",
+		"in_reply_to_user_id": 1376463833665970200,
+		"in_reply_to_user_id_str": "1376463833665970183",
+		"in_reply_to_screen_name": "F0UUKo7bi4Npu0X",
+		"user": {
+			"id": 1376463833665970200,
+			"id_str": "1376463833665970183",
+			"name": "익명의 케이팝작사가 대리인",
+			"screen_name": "F0UUKo7bi4Npu0X",
+			"location": "",
+			"description": "contact: unkownkpoplyricst@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169,
+			"friends_count": 20,
+			"listed_count": 2,
+			"created_at": "Mon Mar 29 09:18:52 +0000 2021",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 146,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이들은 한 두글자를 고치거나 작사에 참여하지 않고도 크레딧에 이름을 올립니다. 그리고 유령작사가는 학원에만 있지 않습니다. 학원이 데모를 독차지하는 건 구조적으로 그럴만한 이유가 있기 때문입니다."
+	},
+	{
+		"created_at": "Tue Mar 30 06:54:38 +0000 2021",
+		"id": 1376472922420732000,
+		"id_str": "1376789951837130755",
+		"full_text": "그래야 데뷔를 많이 시킨 능력 있는 학원으로 인정받을 수 있고 수강생도 늘어나니까요. 결과적으로 많은 케이팝 곡이 퀄리티와 관계 없이 학원의 이해관계로 만들어 집니다. 그 중에는 매번 크레딧에 이름을 올리는 이들이 있습니다. 충분히 그가 어떤 위치를 가진 사람인지 짐작하실 수 있을 겁니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1376472757827895300,
+		"in_reply_to_status_id_str": "1376472757827895298",
+		"in_reply_to_user_id": 1376463833665970200,
+		"in_reply_to_user_id_str": "1376463833665970183",
+		"in_reply_to_screen_name": "F0UUKo7bi4Npu0X",
+		"user": {
+			"id": 1376463833665970200,
+			"id_str": "1376463833665970183",
+			"name": "익명의 케이팝작사가 대리인",
+			"screen_name": "F0UUKo7bi4Npu0X",
+			"location": "",
+			"description": "contact: unkownkpoplyricst@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169,
+			"friends_count": 20,
+			"listed_count": 2,
+			"created_at": "Mon Mar 29 09:18:52 +0000 2021",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 146,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그래야 데뷔를 많이 시킨 능력 있는 학원으로 인정받을 수 있고 수강생도 늘어나니까요. 결과적으로 많은 케이팝 곡이 퀄리티와 관계 없이 학원의 이해관계로 만들어 집니다. 그 중에는 매번 크레딧에 이름을 올리는 이들이 있습니다. 충분히 그가 어떤 위치를 가진 사람인지 짐작하실 수 있을 겁니다."
+	},
+	{
+		"created_at": "Tue Mar 30 06:54:34 +0000 2021",
+		"id": 1376472757827895300,
+		"id_str": "1376789933394862082",
+		"full_text": "어떤 학원은 작사를 10곡 이상 참여해야 정식 작사가로 계약을 합니다. 10곡을 완성하는 건 어디까지나 학원이 결정하는 일입니다. 그럼에도 데뷔하는 작사가가 계속 생겨나는 건 학원에서 작사가의 커리어와 관계없이 가능한 많은 작사가를 데뷔시키려고 하기 때문입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1376472716753076200,
+		"in_reply_to_status_id_str": "1376472716753076225",
+		"in_reply_to_user_id": 1376463833665970200,
+		"in_reply_to_user_id_str": "1376463833665970183",
+		"in_reply_to_screen_name": "F0UUKo7bi4Npu0X",
+		"user": {
+			"id": 1376463833665970200,
+			"id_str": "1376463833665970183",
+			"name": "익명의 케이팝작사가 대리인",
+			"screen_name": "F0UUKo7bi4Npu0X",
+			"location": "",
+			"description": "contact: unkownkpoplyricst@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169,
+			"friends_count": 20,
+			"listed_count": 2,
+			"created_at": "Mon Mar 29 09:18:52 +0000 2021",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 145,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "어떤 학원은 작사를 10곡 이상 참여해야 정식 작사가로 계약을 합니다. 10곡을 완성하는 건 어디까지나 학원이 결정하는 일입니다. 그럼에도 데뷔하는 작사가가 계속 생겨나는 건 학원에서 작사가의 커리어와 관계없이 가능한 많은 작사가를 데뷔시키려고 하기 때문입니다."
+	},
+	{
+		"created_at": "Tue Mar 30 06:54:32 +0000 2021",
+		"id": 1376472716753076200,
+		"id_str": "1376789925836693505",
+		"full_text": "작업을 마친 후에 작업에 참여했는지 아닌지 알 수 없는 경우가 대부분입니다. 지분도 저작권등록 후 협회에서 직접 확인해야 합니다. 심지어 참여한 음반을 받지 못하는 경우가 대부분이라고 말한다면 믿겨지시나요? 작사가는 철저히 부속으로만 쓰입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1376472668912767000,
+		"in_reply_to_status_id_str": "1376472668912766981",
+		"in_reply_to_user_id": 1376463833665970200,
+		"in_reply_to_user_id_str": "1376463833665970183",
+		"in_reply_to_screen_name": "F0UUKo7bi4Npu0X",
+		"user": {
+			"id": 1376463833665970200,
+			"id_str": "1376463833665970183",
+			"name": "익명의 케이팝작사가 대리인",
+			"screen_name": "F0UUKo7bi4Npu0X",
+			"location": "",
+			"description": "contact: unkownkpoplyricst@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169,
+			"friends_count": 20,
+			"listed_count": 2,
+			"created_at": "Mon Mar 29 09:18:52 +0000 2021",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 170,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "작업을 마친 후에 작업에 참여했는지 아닌지 알 수 없는 경우가 대부분입니다. 지분도 저작권등록 후 협회에서 직접 확인해야 합니다. 심지어 참여한 음반을 받지 못하는 경우가 대부분이라고 말한다면 믿겨지시나요? 작사가는 철저히 부속으로만 쓰입니다."
+	},
+	{
+		"created_at": "Tue Mar 30 06:54:30 +0000 2021",
+		"id": 1376472668912767000,
+		"id_str": "1376789917276119048",
+		"full_text": "작사가의 저작권료 중 20-40%는 퍼블리싱 계약으로 학원에서 가져갑니다. 작사가의 저작권료를 좌우하는 지분 역시 학원에서 마음대로 결정합니다. 참여한 비중과 상관없이 학원에서 결정한 지분을 어쩔 수 없이 받아들여야 합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1376472634968350700,
+		"in_reply_to_status_id_str": "1376472634968350722",
+		"in_reply_to_user_id": 1376463833665970200,
+		"in_reply_to_user_id_str": "1376463833665970183",
+		"in_reply_to_screen_name": "F0UUKo7bi4Npu0X",
+		"user": {
+			"id": 1376463833665970200,
+			"id_str": "1376463833665970183",
+			"name": "익명의 케이팝작사가 대리인",
+			"screen_name": "F0UUKo7bi4Npu0X",
+			"location": "",
+			"description": "contact: unkownkpoplyricst@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169,
+			"friends_count": 20,
+			"listed_count": 2,
+			"created_at": "Mon Mar 29 09:18:52 +0000 2021",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 189,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "작사가의 저작권료 중 20-40%는 퍼블리싱 계약으로 학원에서 가져갑니다. 작사가의 저작권료를 좌우하는 지분 역시 학원에서 마음대로 결정합니다. 참여한 비중과 상관없이 학원에서 결정한 지분을 어쩔 수 없이 받아들여야 합니다."
+	},
+	{
+		"created_at": "Tue Mar 30 06:54:28 +0000 2021",
+		"id": 1376472634968350700,
+		"id_str": "1376789910137360385",
+		"full_text": "기획사는 학원에 작사비를 지급합니다. 하지만 학원은 작사에 참여한 작사가에게 작사비를 지급하지 않거나 작사비가 있다는 사실도 알려주지 않는 경우가 많습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1376472581138641000,
+		"in_reply_to_status_id_str": "1376472581138640901",
+		"in_reply_to_user_id": 1376463833665970200,
+		"in_reply_to_user_id_str": "1376463833665970183",
+		"in_reply_to_screen_name": "F0UUKo7bi4Npu0X",
+		"user": {
+			"id": 1376463833665970200,
+			"id_str": "1376463833665970183",
+			"name": "익명의 케이팝작사가 대리인",
+			"screen_name": "F0UUKo7bi4Npu0X",
+			"location": "",
+			"description": "contact: unkownkpoplyricst@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169,
+			"friends_count": 20,
+			"listed_count": 2,
+			"created_at": "Mon Mar 29 09:18:52 +0000 2021",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 228,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "기획사는 학원에 작사비를 지급합니다. 하지만 학원은 작사에 참여한 작사가에게 작사비를 지급하지 않거나 작사비가 있다는 사실도 알려주지 않는 경우가 많습니다."
+	},
+	{
+		"created_at": "Tue Mar 30 06:54:26 +0000 2021",
+		"id": 1376472581138641000,
+		"id_str": "1376789902277275653",
+		"full_text": "위의 과정에서 학원은 ‘갑’의 위치를 차지합니다. 수강생 전체에게 가사를 받은 후 그 중 학원의 마음에 드는 가사를 채택한 후 조립하고 그 과정에서 작사가는 누가 얼만큼 작사에 참여했는지 알 수 없게 됩니다. 작사에 참여하지 않은 이의 이름이 오르더라도요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1376472549823967200,
+		"in_reply_to_status_id_str": "1376472549823967234",
+		"in_reply_to_user_id": 1376463833665970200,
+		"in_reply_to_user_id_str": "1376463833665970183",
+		"in_reply_to_screen_name": "F0UUKo7bi4Npu0X",
+		"user": {
+			"id": 1376463833665970200,
+			"id_str": "1376463833665970183",
+			"name": "익명의 케이팝작사가 대리인",
+			"screen_name": "F0UUKo7bi4Npu0X",
+			"location": "",
+			"description": "contact: unkownkpoplyricst@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169,
+			"friends_count": 20,
+			"listed_count": 2,
+			"created_at": "Mon Mar 29 09:18:52 +0000 2021",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 275,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "위의 과정에서 학원은 ‘갑’의 위치를 차지합니다. 수강생 전체에게 가사를 받은 후 그 중 학원의 마음에 드는 가사를 채택한 후 조립하고 그 과정에서 작사가는 누가 얼만큼 작사에 참여했는지 알 수 없게 됩니다. 작사에 참여하지 않은 이의 이름이 오르더라도요."
+	},
+	{
+		"created_at": "Tue Mar 30 06:54:24 +0000 2021",
+		"id": 1376472549823967200,
+		"id_str": "1376789892982661123",
+		"full_text": "(수업비를 현금으로만 받는 학원도 있습니다. 현금영수증을 끊어달라고 요청하면 불가능하다는 답변이 돌아옵니다. 이것은 명백한 탈세입니다.)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1376472480802427000,
+		"in_reply_to_status_id_str": "1376472480802426888",
+		"in_reply_to_user_id": 1376463833665970200,
+		"in_reply_to_user_id_str": "1376463833665970183",
+		"in_reply_to_screen_name": "F0UUKo7bi4Npu0X",
+		"user": {
+			"id": 1376463833665970200,
+			"id_str": "1376463833665970183",
+			"name": "익명의 케이팝작사가 대리인",
+			"screen_name": "F0UUKo7bi4Npu0X",
+			"location": "",
+			"description": "contact: unkownkpoplyricst@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169,
+			"friends_count": 20,
+			"listed_count": 2,
+			"created_at": "Mon Mar 29 09:18:52 +0000 2021",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 208,
+		"favorite_count": 77,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "(수업비를 현금으로만 받는 학원도 있습니다. 현금영수증을 끊어달라고 요청하면 불가능하다는 답변이 돌아옵니다. 이것은 명백한 탈세입니다.)"
+	},
+	{
+		"created_at": "Tue Mar 30 06:54:22 +0000 2021",
+		"id": 1376472480802427000,
+		"id_str": "1376789885177135106",
+		"full_text": "최근 케이팝 작사는 팀으로 이뤄집니다. 팀의 정체는 대부분 학원입니다. 케이팝 작사가를 꿈 꾸는 작사가 지망생은 매달 3,40만 원의 수업비를 내고 10달 가량 수업을 들으면 데모를 받을 수 있는 기회를 얻습니다. 케이팝 작사가는 데모를 받지 못하면 작사를 할 수 없습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1376472433566175200,
+		"in_reply_to_status_id_str": "1376472433566175239",
+		"in_reply_to_user_id": 1376463833665970200,
+		"in_reply_to_user_id_str": "1376463833665970183",
+		"in_reply_to_screen_name": "F0UUKo7bi4Npu0X",
+		"user": {
+			"id": 1376463833665970200,
+			"id_str": "1376463833665970183",
+			"name": "익명의 케이팝작사가 대리인",
+			"screen_name": "F0UUKo7bi4Npu0X",
+			"location": "",
+			"description": "contact: unkownkpoplyricst@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169,
+			"friends_count": 20,
+			"listed_count": 2,
+			"created_at": "Mon Mar 29 09:18:52 +0000 2021",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 526,
+		"favorite_count": 121,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "최근 케이팝 작사는 팀으로 이뤄집니다. 팀의 정체는 대부분 학원입니다. 케이팝 작사가를 꿈 꾸는 작사가 지망생은 매달 3,40만 원의 수업비를 내고 10달 가량 수업을 들으면 데모를 받을 수 있는 기회를 얻습니다. 케이팝 작사가는 데모를 받지 못하면 작사를 할 수 없습니다."
+	},
+	{
+		"created_at": "Tue Mar 30 06:54:20 +0000 2021",
+		"id": 1376472433566175200,
+		"id_str": "1376789875857399817",
+		"full_text": "결과적으로 케이팝의 퀄리티와 참여하는 이의 의욕을 깨트리는 일이 지금 구조에선 당연하게 일어납니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1376472370605478000,
+		"in_reply_to_status_id_str": "1376472370605477889",
+		"in_reply_to_user_id": 1376463833665970200,
+		"in_reply_to_user_id_str": "1376463833665970183",
+		"in_reply_to_screen_name": "F0UUKo7bi4Npu0X",
+		"user": {
+			"id": 1376463833665970200,
+			"id_str": "1376463833665970183",
+			"name": "익명의 케이팝작사가 대리인",
+			"screen_name": "F0UUKo7bi4Npu0X",
+			"location": "",
+			"description": "contact: unkownkpoplyricst@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169,
+			"friends_count": 20,
+			"listed_count": 2,
+			"created_at": "Mon Mar 29 09:18:52 +0000 2021",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 145,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "결과적으로 케이팝의 퀄리티와 참여하는 이의 의욕을 깨트리는 일이 지금 구조에선 당연하게 일어납니다."
+	},
+	{
+		"created_at": "Tue Mar 30 06:54:19 +0000 2021",
+		"id": 1376472370605478000,
+		"id_str": "1376789870534791170",
+		"full_text": "유명한 가수들의 곡에 참여한 케이팝 작사가 대부분이 본업을 따로 갖고 계시다는 사실을 알고 계시나요? 작사만으로는 생계 유지가 불가능하기 때문입니다. 작사에 참여하지 않은 이가 작사가로 등록되는 일이 빈번하다는 것도요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1376472328008212500,
+		"in_reply_to_status_id_str": "1376472328008212481",
+		"in_reply_to_user_id": 1376463833665970200,
+		"in_reply_to_user_id_str": "1376463833665970183",
+		"in_reply_to_screen_name": "F0UUKo7bi4Npu0X",
+		"user": {
+			"id": 1376463833665970200,
+			"id_str": "1376463833665970183",
+			"name": "익명의 케이팝작사가 대리인",
+			"screen_name": "F0UUKo7bi4Npu0X",
+			"location": "",
+			"description": "contact: unkownkpoplyricst@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169,
+			"friends_count": 20,
+			"listed_count": 2,
+			"created_at": "Mon Mar 29 09:18:52 +0000 2021",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 415,
+		"favorite_count": 134,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "유명한 가수들의 곡에 참여한 케이팝 작사가 대부분이 본업을 따로 갖고 계시다는 사실을 알고 계시나요? 작사만으로는 생계 유지가 불가능하기 때문입니다. 작사에 참여하지 않은 이가 작사가로 등록되는 일이 빈번하다는 것도요."
+	},
+	{
+		"created_at": "Tue Mar 30 06:54:15 +0000 2021",
+		"id": 1376472328008212500,
+		"id_str": "1376789855791771651",
+		"full_text": "안녕하세요. 저는 익명의 케이팝 작사가들 대리인입니다. 케이팝을 사랑하는 한 명의 팬으로 케이팝 작사가님들의 부탁을 받아 트위터에 공론화 글을 올립니다. 사실적시 명예훼손 때문에 익명으로 쓰는 점 양해 부탁드립니다. 아래 적는 글은 한치의 거짓도 없는 사실입니다. #케이팝 #kpop",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "케이팝",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "kpop",
+					"indices": [
+						153,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1376463833665970200,
+			"id_str": "1376463833665970183",
+			"name": "익명의 케이팝작사가 대리인",
+			"screen_name": "F0UUKo7bi4Npu0X",
+			"location": "",
+			"description": "contact: unkownkpoplyricst@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169,
+			"friends_count": 20,
+			"listed_count": 2,
+			"created_at": "Mon Mar 29 09:18:52 +0000 2021",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5227,
+		"favorite_count": 1016,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "안녕하세요. 저는 익명의 케이팝 작사가들 대리인입니다. 케이팝을 사랑하는 한 명의 팬으로 케이팝 작사가님들의 부탁을 받아 트위터에 공론화 글을 올립니다. 사실적시 명예훼손 때문에 익명으로 쓰는 점 양해 부탁드립니다. 아래 적는 글은 한치의 거짓도 없는 사실입니다. #케이팝 #kpop"
+	},
+	{
+		"created_at": "Tue Mar 30 06:29:10 +0000 2021",
+		"id": 1376783541447532500,
+		"id_str": "1376783541447532545",
+		"full_text": "요즘은 뭐만하면 좋은 곳에 쓰겠다 후원일부하겠다 그런다. 이미 쓰레기업체로 속터졌던 곳도 여전히 좋은일한다고 내세우며 공연기획한다. ㅋㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1050,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 45022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "요즘은 뭐만하면 좋은 곳에 쓰겠다 후원일부하겠다 그런다. 이미 쓰레기업체로 속터졌던 곳도 여전히 좋은일한다고 내세우며 공연기획한다. ㅋㅋㅋㅋ"
+	},
+	{
+		"created_at": "Tue Mar 30 06:28:14 +0000 2021",
+		"id": 1376783306746777600,
+		"id_str": "1376783306746777600",
+		"full_text": "한둘이 아니다 이런 키워드 쓰면 사주니까 소비자 기만하고 파는 곳들. 피해봐도 속만 썩는다. 왜 펀딩은 투자이고 소비자원은 권고기간이라 힘이 없거든. 소송하면 누가 머리아프냐 피해자가 머리아프고 스트레스 받거든.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1376782923559411700,
+		"in_reply_to_status_id_str": "1376782923559411721",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1050,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 45022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "한둘이 아니다 이런 키워드 쓰면 사주니까 소비자 기만하고 파는 곳들. 피해봐도 속만 썩는다. 왜 펀딩은 투자이고 소비자원은 권고기간이라 힘이 없거든. 소송하면 누가 머리아프냐 피해자가 머리아프고 스트레스 받거든."
+	},
+	{
+		"created_at": "Tue Mar 30 06:26:43 +0000 2021",
+		"id": 1376782923559411700,
+		"id_str": "1376782923559411721",
+		"full_text": "펀딩 키워드\n\n여성 환경 유기견 애견지원 독립 애국 한복 아카이브\n\n좋은 일을 한다고 해서 좋은 단체나 사람인지 확실할 수 없다. 이런 곳일수록 경계해야한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1050,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 45022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "펀딩 키워드\n\n여성 환경 유기견 애견지원 독립 애국 한복 아카이브\n\n좋은 일을 한다고 해서 좋은 단체나 사람인지 확실할 수 없다. 이런 곳일수록 경계해야한다."
+	},
+	{
+		"created_at": "Tue Mar 30 06:24:51 +0000 2021",
+		"id": 1376149404332089300,
+		"id_str": "1376782453797388288",
+		"full_text": "와디즈 유기견 후원 펀딩.\n유기견 후원 목적으로 반지랑 후드티를 팔아서 55,190,000원이 모였는데 정작 유기견 보호소는 돈을 전혀 받지 못했다 함. 그래서 보호소에서 고소를 진행하려 하는데 모인 사람이 3명정도라 함. 유기견 보호소 이름은 \"아지네마을\" https://t.co/eCcfhxDgD8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1376149395964526600,
+					"id_str": "1376149395964526594",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/ExkQlaBVgAIgtz8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExkQlaBVgAIgtz8.jpg",
+					"url": "https://t.co/eCcfhxDgD8",
+					"display_url": "pic.twitter.com/eCcfhxDgD8",
+					"expanded_url": "https://twitter.com/cotton_candy522/status/1376149404332089345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 464,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 464,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 464,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1376149395964526600,
+					"id_str": "1376149395964526594",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/ExkQlaBVgAIgtz8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExkQlaBVgAIgtz8.jpg",
+					"url": "https://t.co/eCcfhxDgD8",
+					"display_url": "pic.twitter.com/eCcfhxDgD8",
+					"expanded_url": "https://twitter.com/cotton_candy522/status/1376149404332089345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 464,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 464,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 464,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1376149395964448800,
+					"id_str": "1376149395964448775",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/ExkQlaBUUAcfnYD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExkQlaBUUAcfnYD.jpg",
+					"url": "https://t.co/eCcfhxDgD8",
+					"display_url": "pic.twitter.com/eCcfhxDgD8",
+					"expanded_url": "https://twitter.com/cotton_candy522/status/1376149404332089345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 668,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 668,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 668,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1376149395964526600,
+					"id_str": "1376149395964526602",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/ExkQlaBVgAofT-0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExkQlaBVgAofT-0.jpg",
+					"url": "https://t.co/eCcfhxDgD8",
+					"display_url": "pic.twitter.com/eCcfhxDgD8",
+					"expanded_url": "https://twitter.com/cotton_candy522/status/1376149404332089345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 508,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 508,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 508,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1245607225965432800,
+			"id_str": "1245607225965432838",
+			"name": "Pᴇᴀᴄʜ Jᴀᴍ .‧˚ ෆ⃛⁺˚",
+			"screen_name": "cotton_candy522",
+			"location": "",
+			"description": "조용한 일상기록 계정 🙋🏻‍♀️ ɪɴғᴘ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132,
+			"friends_count": 118,
+			"listed_count": 1,
+			"created_at": "Thu Apr 02 07:01:57 +0000 2020",
+			"favourites_count": 4680,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1375321063836446722/1YuIbTky_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1375321063836446722/1YuIbTky_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1245607225965432838/1585812898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9665,
+		"favorite_count": 1012,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "와디즈 유기견 후원 펀딩.\n유기견 후원 목적으로 반지랑 후드티를 팔아서 55,190,000원이 모였는데 정작 유기견 보호소는 돈을 전혀 받지 못했다 함. 그래서 보호소에서 고소를 진행하려 하는데 모인 사람이 3명정도라 함. 유기견 보호소 이름은 \"아지네마을\" https://t.co/eCcfhxDgD8"
+	},
+	{
+		"created_at": "Tue Mar 30 06:24:30 +0000 2021",
+		"id": 1376782367054987300,
+		"id_str": "1376782367054987269",
+		"full_text": "문제 일으킨 사기꾼, 문제를 그냥 넘어가는 사람, 계속 플랫폼 이용하는 사람, 구매 계속 하는 사람\n\n바뀌지 않으면 계속 피해본다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1050,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 45022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "문제 일으킨 사기꾼, 문제를 그냥 넘어가는 사람, 계속 플랫폼 이용하는 사람, 구매 계속 하는 사람\n\n바뀌지 않으면 계속 피해본다."
+	},
+	{
+		"created_at": "Tue Mar 30 06:22:53 +0000 2021",
+		"id": 1376781961000231000,
+		"id_str": "1376781961000230914",
+		"full_text": "크라우드펀딩만 보면 이제 진짜 신물남.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1050,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 45022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "크라우드펀딩만 보면 이제 진짜 신물남."
+	},
+	{
+		"created_at": "Tue Mar 30 06:20:20 +0000 2021",
+		"id": 1376781320743911400,
+		"id_str": "1376781320743911431",
+		"full_text": "펀딩하면서 감성파는 인간들보면 있던 정도 떨어짐.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1050,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 45022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "펀딩하면서 감성파는 인간들보면 있던 정도 떨어짐."
+	},
+	{
+		"created_at": "Tue Mar 30 06:19:37 +0000 2021",
+		"id": 1376781137473892400,
+		"id_str": "1376781137473892362",
+		"full_text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 로제, 美 ‘켈리 클락슨 쇼’→日 ‘슷키리’ 출격…’글로벌 행보’\nhttps://t.co/GBEo4VzNEW\n#블랙핑크 #BLACKPINK https://t.co/uZrE6bLIwK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						89,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GBEo4VzNEW",
+					"expanded_url": "https://yg-life.com/archives/167026?lang=ko",
+					"display_url": "yg-life.com/archives/16702…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1376781136567935000,
+					"id_str": "1376781136567934977",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/ExtPJjKXIAEzmbT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExtPJjKXIAEzmbT.jpg",
+					"url": "https://t.co/uZrE6bLIwK",
+					"display_url": "pic.twitter.com/uZrE6bLIwK",
+					"expanded_url": "https://twitter.com/fromminn/status/1376781137473892362/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1376781136567935000,
+					"id_str": "1376781136567934977",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/ExtPJjKXIAEzmbT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExtPJjKXIAEzmbT.jpg",
+					"url": "https://t.co/uZrE6bLIwK",
+					"display_url": "pic.twitter.com/uZrE6bLIwK",
+					"expanded_url": "https://twitter.com/fromminn/status/1376781137473892362/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1050,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 45022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트\n블랙핑크 로제, 美 ‘켈리 클락슨 쇼’→日 ‘슷키리’ 출격…’글로벌 행보’\nhttps://t.co/GBEo4VzNEW\n#블랙핑크 #BLACKPINK https://t.co/uZrE6bLIwK"
+	},
+	{
+		"created_at": "Tue Mar 30 06:19:35 +0000 2021",
+		"id": 1376781131735949300,
+		"id_str": "1376781131735949313",
+		"full_text": "사기꾼이 너무 많다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1050,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 45022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "사기꾼이 너무 많다."
+	},
+	{
 		"created_at": "Tue Mar 30 06:01:58 +0000 2021",
 		"id": 1376776695211044900,
 		"id_str": "1376776695211044864",
