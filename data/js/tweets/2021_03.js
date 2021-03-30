@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Tue Mar 30 07:11:36 +0000 2021",
+		"id": 1376794222506827800,
+		"id_str": "1376794222506827784",
+		"full_text": "@F0UUKo7bi4Npu0X 현금영수증 관련해서 21년이후 10만원이상 의무 발행입니다. 요구 시 당연히 발행해야 하고요. 해당 내용 꼼꼼히 기록해두세요. 전화도 좋지만 문자나 이메일로 함께 기록해두세요. 학원인가를 제대로 받은 곳인지 확인하고 사업자번호 내용 기록해두세요.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "F0UUKo7bi4Npu0X",
+					"name": "익명의 케이팝작사가 대리인",
+					"id": 1376463833665970200,
+					"id_str": "1376463833665970183",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1376472549823967200,
+		"in_reply_to_status_id_str": "1376472549823967234",
+		"in_reply_to_user_id": 1376463833665970200,
+		"in_reply_to_user_id_str": "1376463833665970183",
+		"in_reply_to_screen_name": "F0UUKo7bi4Npu0X",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1049,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 45022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@F0UUKo7bi4Npu0X 현금영수증 관련해서 21년이후 10만원이상 의무 발행입니다. 요구 시 당연히 발행해야 하고요. 해당 내용 꼼꼼히 기록해두세요. 전화도 좋지만 문자나 이메일로 함께 기록해두세요. 학원인가를 제대로 받은 곳인지 확인하고 사업자번호 내용 기록해두세요."
+	},
+	{
+		"created_at": "Tue Mar 30 07:08:36 +0000 2021",
+		"id": 1376793466760425500,
+		"id_str": "1376793466760425473",
+		"full_text": "제대로 학원인가 안받은 곳도 있을 수 있으니. 피해는 누가 수강생이... 꿈을 먹고사는 청년들이.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1376793151147413500,
+		"in_reply_to_status_id_str": "1376793151147413505",
+		"in_reply_to_user_id": 4531360753,
+		"in_reply_to_user_id_str": "4531360753",
+		"in_reply_to_screen_name": "fromminn",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1049,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 45022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "제대로 학원인가 안받은 곳도 있을 수 있으니. 피해는 누가 수강생이... 꿈을 먹고사는 청년들이."
+	},
+	{
 		"created_at": "Tue Mar 30 06:54:46 +0000 2021",
 		"id": 1376473069707952000,
 		"id_str": "1376789984527609860",
@@ -1693,7 +1894,7 @@ Grailbird.data.tweets_2021_03 =
 			"name": "Pᴇᴀᴄʜ Jᴀᴍ .‧˚ ෆ⃛⁺˚",
 			"screen_name": "cotton_candy522",
 			"location": "",
-			"description": "조용한 일상기록 계정 🙋🏻‍♀️ ɪɴғᴘ",
+			"description": "조용한 일상기록 계정 🙋🏻♀️ ɪɴғᴘ",
 			"url": null,
 			"entities": {
 				"description": {
