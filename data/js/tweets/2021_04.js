@@ -1,6 +1,816 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 07 05:27:37 +0000 2021",
+		"id": 1379667153650090000,
+		"id_str": "1379667153650089986",
+		"full_text": "#Onthespot #DRAW\nW NIKE DUNK LOW SE 'Candy' (2021-04-07)\nhttps://t.co/Hr8Q6VRCW5 https://t.co/tr92LrijwN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Onthespot",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "DRAW",
+					"indices": [
+						11,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Hr8Q6VRCW5",
+					"expanded_url": "https://www.onthespot.co.kr/promotion/event/detail?eventNo=2000000341",
+					"display_url": "onthespot.co.kr/promotion/even…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1379667152593109000,
+					"id_str": "1379667152593108997",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EyWP9yqWQAUGdiU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyWP9yqWQAUGdiU.jpg",
+					"url": "https://t.co/tr92LrijwN",
+					"display_url": "pic.twitter.com/tr92LrijwN",
+					"expanded_url": "https://twitter.com/fromminn/status/1379667153650089986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1379667152593109000,
+					"id_str": "1379667152593108997",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EyWP9yqWQAUGdiU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyWP9yqWQAUGdiU.jpg",
+					"url": "https://t.co/tr92LrijwN",
+					"display_url": "pic.twitter.com/tr92LrijwN",
+					"expanded_url": "https://twitter.com/fromminn/status/1379667153650089986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1049,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 45010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79581,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Onthespot #DRAW\nW NIKE DUNK LOW SE 'Candy' (2021-04-07)\nhttps://t.co/Hr8Q6VRCW5 https://t.co/tr92LrijwN"
+	},
+	{
+		"created_at": "Wed Apr 07 05:27:30 +0000 2021",
+		"id": 1379667125892219000,
+		"id_str": "1379667125892218882",
+		"full_text": "#Onthespot #DRAW\nW NIKE DUNK LOW 'Orange Pearl' (2021-04-07)\nhttps://t.co/5viVph76CO https://t.co/UFjoeq4Hy2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Onthespot",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "DRAW",
+					"indices": [
+						11,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5viVph76CO",
+					"expanded_url": "https://www.onthespot.co.kr/promotion/event/detail?eventNo=2000000340",
+					"display_url": "onthespot.co.kr/promotion/even…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1379667124491333600,
+					"id_str": "1379667124491333633",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EyWP8J-XMAEuVjM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyWP8J-XMAEuVjM.jpg",
+					"url": "https://t.co/UFjoeq4Hy2",
+					"display_url": "pic.twitter.com/UFjoeq4Hy2",
+					"expanded_url": "https://twitter.com/fromminn/status/1379667125892218882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1379667124491333600,
+					"id_str": "1379667124491333633",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EyWP8J-XMAEuVjM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyWP8J-XMAEuVjM.jpg",
+					"url": "https://t.co/UFjoeq4Hy2",
+					"display_url": "pic.twitter.com/UFjoeq4Hy2",
+					"expanded_url": "https://twitter.com/fromminn/status/1379667125892218882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1049,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 45010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79581,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Onthespot #DRAW\nW NIKE DUNK LOW 'Orange Pearl' (2021-04-07)\nhttps://t.co/5viVph76CO https://t.co/UFjoeq4Hy2"
+	},
+	{
+		"created_at": "Wed Apr 07 05:27:23 +0000 2021",
+		"id": 1379667095361847300,
+		"id_str": "1379667095361847296",
+		"full_text": "#Onthespot #DRAW\nW NIKE DUNK LOW 'Coast' (2021-04-07)\nhttps://t.co/pP8c05iiJB https://t.co/wK86gKAJaQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Onthespot",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "DRAW",
+					"indices": [
+						11,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pP8c05iiJB",
+					"expanded_url": "https://www.onthespot.co.kr/promotion/event/detail?eventNo=2000000339",
+					"display_url": "onthespot.co.kr/promotion/even…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1379667094283948000,
+					"id_str": "1379667094283948032",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EyWP6ZcXEAAXjzB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyWP6ZcXEAAXjzB.jpg",
+					"url": "https://t.co/wK86gKAJaQ",
+					"display_url": "pic.twitter.com/wK86gKAJaQ",
+					"expanded_url": "https://twitter.com/fromminn/status/1379667095361847296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1379667094283948000,
+					"id_str": "1379667094283948032",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EyWP6ZcXEAAXjzB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyWP6ZcXEAAXjzB.jpg",
+					"url": "https://t.co/wK86gKAJaQ",
+					"display_url": "pic.twitter.com/wK86gKAJaQ",
+					"expanded_url": "https://twitter.com/fromminn/status/1379667095361847296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1049,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 45010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79581,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Onthespot #DRAW\nW NIKE DUNK LOW 'Coast' (2021-04-07)\nhttps://t.co/pP8c05iiJB https://t.co/wK86gKAJaQ"
+	},
+	{
+		"created_at": "Wed Apr 07 05:12:28 +0000 2021",
+		"id": 1379663341455618000,
+		"id_str": "1379663341455618049",
+		"full_text": "#SMTOWN #Artist_News\n‘음색 여신 출격’ 레드벨벳 웬디, 솔로 데뷔 무대 9일 ‘뮤직뱅크’ 첫 방송!\nhttps://t.co/H8A6pjB8ot\n#레드벨벳 #RedVelvet https://t.co/Jy5pe2HfiT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						96,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H8A6pjB8ot",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/4811",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1379663340302123000,
+					"id_str": "1379663340302123010",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EyWMf4xWQAIC9-Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyWMf4xWQAIC9-Q.jpg",
+					"url": "https://t.co/Jy5pe2HfiT",
+					"display_url": "pic.twitter.com/Jy5pe2HfiT",
+					"expanded_url": "https://twitter.com/fromminn/status/1379663341455618049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1379663340302123000,
+					"id_str": "1379663340302123010",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EyWMf4xWQAIC9-Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyWMf4xWQAIC9-Q.jpg",
+					"url": "https://t.co/Jy5pe2HfiT",
+					"display_url": "pic.twitter.com/Jy5pe2HfiT",
+					"expanded_url": "https://twitter.com/fromminn/status/1379663341455618049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": "https://t.co/Z9WwU5pNg0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z9WwU5pNg0",
+							"expanded_url": "https://minn.tify.kr",
+							"display_url": "minn.tify.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1049,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 45010,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79581,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n‘음색 여신 출격’ 레드벨벳 웬디, 솔로 데뷔 무대 9일 ‘뮤직뱅크’ 첫 방송!\nhttps://t.co/H8A6pjB8ot\n#레드벨벳 #RedVelvet https://t.co/Jy5pe2HfiT"
+	},
+	{
 		"created_at": "Wed Apr 07 03:39:38 +0000 2021",
 		"id": 1379639982072205300,
 		"id_str": "1379639982072205315",
