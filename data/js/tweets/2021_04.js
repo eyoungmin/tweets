@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sat Apr 10 12:21:29 +0000 2021",
+		"id": 1380802217414824000,
+		"id_str": "1380858471214587905",
+		"full_text": "안녕하세요. 오디컴퍼니입니다. https://t.co/hvpVsf9VdV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1380802210531930000,
+					"id_str": "1380802210531930115",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/EymYS2_UcAM0acF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EymYS2_UcAM0acF.jpg",
+					"url": "https://t.co/hvpVsf9VdV",
+					"display_url": "pic.twitter.com/hvpVsf9VdV",
+					"expanded_url": "https://twitter.com/od_musical/status/1380802217414823936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1380802210531930000,
+					"id_str": "1380802210531930115",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/EymYS2_UcAM0acF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EymYS2_UcAM0acF.jpg",
+					"url": "https://t.co/hvpVsf9VdV",
+					"display_url": "pic.twitter.com/hvpVsf9VdV",
+					"expanded_url": "https://twitter.com/od_musical/status/1380802217414823936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158706470,
+			"id_str": "158706470",
+			"name": "오디컴퍼니",
+			"screen_name": "od_musical",
+			"location": "서울시 강남구 삼성동",
+			"description": "오디컴퍼니 공식 트위터 OFFICIAL TWITTER ACCOUNT OF OD COMPANY",
+			"url": "https://t.co/RBYYD6C6jf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RBYYD6C6jf",
+							"expanded_url": "http://www.odmusical.com",
+							"display_url": "odmusical.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36210,
+			"friends_count": 4,
+			"listed_count": 310,
+			"created_at": "Wed Jun 23 11:31:59 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1379224791538798592/Vf2Iy54q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1379224791538798592/Vf2Iy54q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158706470/1617667790",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 260,
+		"favorite_count": 58,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요. 오디컴퍼니입니다. https://t.co/hvpVsf9VdV"
+	},
+	{
+		"created_at": "Sat Apr 10 12:21:27 +0000 2021",
+		"id": 1378635979628576800,
+		"id_str": "1380858461936779264",
+		"full_text": "전체적인 시스템 점검을 진행하여 남은 기간 동안 최상의 무대를 보여드릴 수 있도록 노력하겠습니다.\n\n다시 한번 사과의 말씀드립니다.\n감사합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1378635977523007500,
+		"in_reply_to_status_id_str": "1378635977523007489",
+		"in_reply_to_user_id": 158706470,
+		"in_reply_to_user_id_str": "158706470",
+		"in_reply_to_screen_name": "od_musical",
+		"user": {
+			"id": 158706470,
+			"id_str": "158706470",
+			"name": "오디컴퍼니",
+			"screen_name": "od_musical",
+			"location": "서울시 강남구 삼성동",
+			"description": "오디컴퍼니 공식 트위터 OFFICIAL TWITTER ACCOUNT OF OD COMPANY",
+			"url": "https://t.co/RBYYD6C6jf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RBYYD6C6jf",
+							"expanded_url": "http://www.odmusical.com",
+							"display_url": "odmusical.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36210,
+			"friends_count": 4,
+			"listed_count": 310,
+			"created_at": "Wed Jun 23 11:31:59 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1379224791538798592/Vf2Iy54q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1379224791538798592/Vf2Iy54q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158706470/1617667790",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 22,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "전체적인 시스템 점검을 진행하여 남은 기간 동안 최상의 무대를 보여드릴 수 있도록 노력하겠습니다.\n\n다시 한번 사과의 말씀드립니다.\n감사합니다."
+	},
+	{
 		"created_at": "Sat Apr 10 08:46:52 +0000 2021",
 		"id": 1380804463334715400,
 		"id_str": "1380804463334715392",
