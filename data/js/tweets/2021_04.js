@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sun Apr 11 13:28:08 +0000 2021",
+		"id": 1381220649943765000,
+		"id_str": "1381237632861040641",
+		"full_text": "개인정보 유출 더 큰 사고 전에 데이터 경제 고쳐야. 핵심은 맞춤 광고. 비용에 비해 매출 신장 효과 불확실하거나 미미한 반면 개인정보 침해 위험 너무 커. 정치 광고는 양극화 조장에 민주주의 저해. 금지해야 데이터 우위 기업 독점 막고 정보 중심 건강한 광고 시장 회복.https://t.co/QfFPjgJAkr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QfFPjgJAkr",
+					"expanded_url": "https://lithub.com/why-targeted-ads-are-a-disaster-for-democracy/?utm_source=Sailthru&utm_medium=email&utm_campaign=Lit%20Hub%20Daily:%20April%209%2C%202021&utm_term=lithub_master_list",
+					"display_url": "lithub.com/why-targeted-a…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102345,
+			"friends_count": 2392,
+			"listed_count": 0,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "개인정보 유출 더 큰 사고 전에 데이터 경제 고쳐야. 핵심은 맞춤 광고. 비용에 비해 매출 신장 효과 불확실하거나 미미한 반면 개인정보 침해 위험 너무 커. 정치 광고는 양극화 조장에 민주주의 저해. 금지해야 데이터 우위 기업 독점 막고 정보 중심 건강한 광고 시장 회복.https://t.co/QfFPjgJAkr"
+	},
+	{
 		"created_at": "Sun Apr 11 03:02:38 +0000 2021",
 		"id": 1381080220296474600,
 		"id_str": "1381080220296474627",
