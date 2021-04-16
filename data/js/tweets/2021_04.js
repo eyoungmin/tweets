@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Fri Apr 16 10:00:08 +0000 2021",
+		"id": 1382871855460094000,
+		"id_str": "1382997226792755200",
+		"full_text": "대학 때 잠깐 음악 인류학 유학을 꿈 꾸게 해 준 앨런 로맥스의 아카이브 홈페이지 오픈. 그때 그시절부터 한국 음악 인류학은 결국 케이팝 스터디로 귀결되는 그림이라 바로 접음. 하지만 동시에 근대음악 대중음악에 더 관심을 가지게 되어 결국 여기까지 왔네\nhttps://t.co/Djd084u515",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Djd084u515",
+					"expanded_url": "http://archive.culturalequity.org/",
+					"display_url": "archive.culturalequity.org",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1263699253093777400,
+			"id_str": "1263699253093777408",
+			"name": "Cecilia Soojeong Yi",
+			"screen_name": "Cecilia_SJ_Yi",
+			"location": "",
+			"description": "디엠지 피스트레인 | 플립드코인뮤직 | 페스티벌 출장 전문 | DMZ Peace Train Music Festival | Flipped Coin Music 🩸 ALPS inc.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86,
+			"friends_count": 223,
+			"listed_count": 5,
+			"created_at": "Fri May 22 05:12:45 +0000 2020",
+			"favourites_count": 331,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263703409795796992/P9UiNKVz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263703409795796992/P9UiNKVz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1263699253093777408/1614949798",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 42,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대학 때 잠깐 음악 인류학 유학을 꿈 꾸게 해 준 앨런 로맥스의 아카이브 홈페이지 오픈. 그때 그시절부터 한국 음악 인류학은 결국 케이팝 스터디로 귀결되는 그림이라 바로 접음. 하지만 동시에 근대음악 대중음악에 더 관심을 가지게 되어 결국 여기까지 왔네\nhttps://t.co/Djd084u515"
+	},
+	{
+		"created_at": "Fri Apr 16 09:51:22 +0000 2021",
+		"id": 1382995022396670000,
+		"id_str": "1382995022396669952",
+		"full_text": "Birdy - Second Hand News [Live Performance Video]\nhttps://t.co/7RYvv8XFZ1\n#Birdy #버디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Birdy",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "버디",
+					"indices": [
+						81,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7RYvv8XFZ1",
+					"expanded_url": "https://youtu.be/6K25KhCq7p8",
+					"display_url": "youtu.be/6K25KhCq7p8",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1047,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44994,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Birdy - Second Hand News [Live Performance Video]\nhttps://t.co/7RYvv8XFZ1\n#Birdy #버디"
+	},
+	{
 		"created_at": "Fri Apr 16 09:01:56 +0000 2021",
 		"id": 1382982581336076300,
 		"id_str": "1382982581336076289",
