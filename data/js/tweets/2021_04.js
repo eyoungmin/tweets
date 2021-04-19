@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 19 18:51:31 +0000 2021",
+		"id": 1384186560736764000,
+		"id_str": "1384218119376306193",
+		"full_text": "✉️ Sign up for the NPR Music newsletter to get new music, can't-miss features and the latest headlines sent to your inbox every Saturday morning. https://t.co/hdAhTySaVw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hdAhTySaVw",
+					"expanded_url": "http://npr.org/musicnewsletter",
+					"display_url": "npr.org/musicnewsletter",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13784592,
+			"id_str": "13784592",
+			"name": "NPR Music",
+			"screen_name": "nprmusic",
+			"location": "NYC & Washington, DC",
+			"description": "For the love of music.",
+			"url": "https://t.co/WrHlSGCWfC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WrHlSGCWfC",
+							"expanded_url": "http://www.npr.org/music",
+							"display_url": "npr.org/music",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 741686,
+			"friends_count": 975,
+			"listed_count": 10151,
+			"created_at": "Thu Feb 21 19:33:37 +0000 2008",
+			"favourites_count": 2152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 51023,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1309240525275443207/6pjvuuq3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309240525275443207/6pjvuuq3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13784592/1596147112",
+			"profile_link_color": "88A2E3",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✉️ Sign up for the NPR Music newsletter to get new music, can't-miss features and the latest headlines sent to your inbox every Saturday morning. https://t.co/hdAhTySaVw"
+	},
+	{
 		"created_at": "Mon Apr 19 12:29:13 +0000 2021",
 		"id": 1384121909042827300,
 		"id_str": "1384121909042827266",
