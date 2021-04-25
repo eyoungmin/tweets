@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sun Apr 25 16:28:17 +0000 2021",
+		"id": 1386017095092097000,
+		"id_str": "1386356397516869633",
+		"full_text": "'블랙스완' 저자 \"비트코인은 속임수…폰지사기와 비슷\"\nhttps://t.co/aMifv4pSTh\n\n베스트셀러 '블랙스완'의 저자인 나심 탈레브는 23일(현지시간) 투기 열풍에 휩싸인 비트코인을 \"속임수\"로 부르며 '폰지사기'(불법 다단계 금융사기)에 비유했습니다. https://t.co/8ipar34huJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aMifv4pSTh",
+					"expanded_url": "https://www.yna.co.kr/view/AKR20210424002200072?input=tw",
+					"display_url": "yna.co.kr/view/AKR202104…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1385771202354970600,
+					"id_str": "1385771202354970626",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezs_kQBVgAIL1za.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezs_kQBVgAIL1za.jpg",
+					"url": "https://t.co/8ipar34huJ",
+					"display_url": "pic.twitter.com/8ipar34huJ",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1386017095092097033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1385771202354970600,
+					"id_str": "1385771202354970626",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/Ezs_kQBVgAIL1za.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ezs_kQBVgAIL1za.jpg",
+					"url": "https://t.co/8ipar34huJ",
+					"display_url": "pic.twitter.com/8ipar34huJ",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1386017095092097033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147451838,
+			"id_str": "147451838",
+			"name": "연합뉴스",
+			"screen_name": "yonhaptweet",
+			"location": "대한민국 서울",
+			"description": "[홈페이지] https://t.co/1xjsaY9KNh  \n제보는 카카오톡, 라인, 위챗 okjebo",
+			"url": "https://t.co/1xjsaY9KNh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								7,
+								30
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 327097,
+			"friends_count": 68949,
+			"listed_count": 4500,
+			"created_at": "Mon May 24 05:08:01 +0000 2010",
+			"favourites_count": 216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 233293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1548822583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 177,
+		"favorite_count": 75,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'블랙스완' 저자 \"비트코인은 속임수…폰지사기와 비슷\"\nhttps://t.co/aMifv4pSTh\n\n베스트셀러 '블랙스완'의 저자인 나심 탈레브는 23일(현지시간) 투기 열풍에 휩싸인 비트코인을 \"속임수\"로 부르며 '폰지사기'(불법 다단계 금융사기)에 비유했습니다. https://t.co/8ipar34huJ"
+	},
+	{
 		"created_at": "Sun Apr 25 12:53:24 +0000 2021",
 		"id": 1386302321580195800,
 		"id_str": "1386302321580195840",
