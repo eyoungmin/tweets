@@ -1,6 +1,178 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 01 04:56:30 +0000 2021",
+		"id": 1388009658955100200,
+		"id_str": "1388356633500082180",
+		"full_text": "스포티파이가 음악산업 내 성평등을 지지하는 뜻으로 '이퀄(EQUAL)' 캠페인을 시작한다. \n전 세계 여성 아티스트와 음악 창작자의 목소리를 확대하고 지원하겠다는 취지다. 한국의 첫 주자는 레드벨벳 웬디다.\n\nhttps://t.co/0nCR9xMPz5 https://t.co/8SQ0mR9OcF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0nCR9xMPz5",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=310&aid=0000086862",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1388009644442804200,
+					"id_str": "1388009644442804224",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/E0MzaunUYAA1yci.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0MzaunUYAA1yci.jpg",
+					"url": "https://t.co/8SQ0mR9OcF",
+					"display_url": "pic.twitter.com/8SQ0mR9OcF",
+					"expanded_url": "https://twitter.com/wnewskr/status/1388009658955100165/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1388009644442804200,
+					"id_str": "1388009644442804224",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/E0MzaunUYAA1yci.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0MzaunUYAA1yci.jpg",
+					"url": "https://t.co/8SQ0mR9OcF",
+					"display_url": "pic.twitter.com/8SQ0mR9OcF",
+					"expanded_url": "https://twitter.com/wnewskr/status/1388009658955100165/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124189138,
+			"id_str": "124189138",
+			"name": "여성신문",
+			"screen_name": "wnewskr",
+			"location": "Korea",
+			"description": "1988년 창간 이래 여성 인권 신장과 성평등 실현을 위해 노력해온 국내 최초 여성정론지. 여러분의 다양한 의견과 제보를 기다립니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195343,
+			"friends_count": 3443,
+			"listed_count": 306,
+			"created_at": "Thu Mar 18 15:07:29 +0000 2010",
+			"favourites_count": 113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127830077624840192/t1VnXZbp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124189138/1557730620",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4252,
+		"favorite_count": 3577,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "스포티파이가 음악산업 내 성평등을 지지하는 뜻으로 '이퀄(EQUAL)' 캠페인을 시작한다. \n전 세계 여성 아티스트와 음악 창작자의 목소리를 확대하고 지원하겠다는 취지다. 한국의 첫 주자는 레드벨벳 웬디다.\n\nhttps://t.co/0nCR9xMPz5 https://t.co/8SQ0mR9OcF"
+	},
+	{
 		"created_at": "Sat May 01 03:27:32 +0000 2021",
 		"id": 1387922789101805600,
 		"id_str": "1388334244896731139",
