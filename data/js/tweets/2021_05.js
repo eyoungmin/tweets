@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Mon May 10 17:36:34 +0000 2021",
+		"id": 1391805009017200600,
+		"id_str": "1391809399908290562",
+		"full_text": "Billie Eilish: #TheWorldsALittleBlurry is nominated for Best Music Documentary at the #MTVAwards. Vote now on @MTV’s Instagram story. https://t.co/mvbHjyBYR6 https://t.co/PzNNuUF5cb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheWorldsALittleBlurry",
+					"indices": [
+						15,
+						38
+					]
+				},
+				{
+					"text": "MTVAwards",
+					"indices": [
+						86,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MTV",
+					"name": "MTV",
+					"id": 2367911,
+					"id_str": "2367911",
+					"indices": [
+						110,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mvbHjyBYR6",
+					"expanded_url": "https://www.instagram.com/MTV/",
+					"display_url": "instagram.com/MTV/",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1391802582473973800,
+					"id_str": "1391802582473973762",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1391802582473973762/pu/img/Vdv9dWfoCa-p0IOg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1391802582473973762/pu/img/Vdv9dWfoCa-p0IOg.jpg",
+					"url": "https://t.co/PzNNuUF5cb",
+					"display_url": "pic.twitter.com/PzNNuUF5cb",
+					"expanded_url": "https://twitter.com/billieeilish/status/1391805009017200642/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1391802582473973800,
+					"id_str": "1391802582473973762",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1391802582473973762/pu/img/Vdv9dWfoCa-p0IOg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1391802582473973762/pu/img/Vdv9dWfoCa-p0IOg.jpg",
+					"url": "https://t.co/PzNNuUF5cb",
+					"display_url": "pic.twitter.com/PzNNuUF5cb",
+					"expanded_url": "https://twitter.com/billieeilish/status/1391805009017200642/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 10010,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1391802582473973762/pu/vid/720x720/h-wpbSNORZ7d8BCE.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1391802582473973762/pu/vid/540x540/KqsOkB-duUt0YV9X.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1391802582473973762/pu/pl/EAB7sjH1ty-QdTYs.m3u8?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1391802582473973762/pu/vid/320x320/ALCZgoc2PZ6Ut3dx.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "New album “Happier Than Ever” out July 30 https://t.co/DEGLgUC35l",
+			"url": "https://t.co/UybIbAW2j6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UybIbAW2j6",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DEGLgUC35l",
+							"expanded_url": "https://billieeilish.lnk.to/HappierThanEver",
+							"display_url": "billieeilish.lnk.to/HappierThanEver",
+							"indices": [
+								42,
+								65
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5881586,
+			"friends_count": 0,
+			"listed_count": 3758,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1387065127208247299/bni08CVZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387065127208247299/bni08CVZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1619536789",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1514,
+		"favorite_count": 10895,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Billie Eilish: #TheWorldsALittleBlurry is nominated for Best Music Documentary at the #MTVAwards. Vote now on @MTV’s Instagram story. https://t.co/mvbHjyBYR6 https://t.co/PzNNuUF5cb"
+	},
+	{
 		"created_at": "Mon May 10 15:39:57 +0000 2021",
 		"id": 1391770010935193600,
 		"id_str": "1391780053910884364",
