@@ -1,6 +1,581 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 11 17:09:45 +0000 2021",
+		"id": 1390134592133222400,
+		"id_str": "1392165039830880264",
+		"full_text": "💚JOY X Tod's &lt;In Our Shoes - Seoul💚\n\n#조이 #JOY #레드벨벳 #RedVelvet #Tods #WKorea https://t.co/Cn1Od8p1pm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조이",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						55,
+						65
+					]
+				},
+				{
+					"text": "Tods",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "WKorea",
+					"indices": [
+						72,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1390134581639008300,
+					"id_str": "1390134581639008256",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/E0rACWiUUAAI_ju.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0rACWiUUAAI_ju.jpg",
+					"url": "https://t.co/Cn1Od8p1pm",
+					"display_url": "pic.twitter.com/Cn1Od8p1pm",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1390134592133222403/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1390134581639008300,
+					"id_str": "1390134581639008256",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/E0rACWiUUAAI_ju.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0rACWiUUAAI_ju.jpg",
+					"url": "https://t.co/Cn1Od8p1pm",
+					"display_url": "pic.twitter.com/Cn1Od8p1pm",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1390134592133222403/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1390134581639057400,
+					"id_str": "1390134581639057410",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/E0rACWiVEAIOLPY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0rACWiVEAIOLPY.jpg",
+					"url": "https://t.co/Cn1Od8p1pm",
+					"display_url": "pic.twitter.com/Cn1Od8p1pm",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1390134592133222403/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1462,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1390134581639082000,
+					"id_str": "1390134581639081997",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/E0rACWiVcA0v_pL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0rACWiVcA0v_pL.jpg",
+					"url": "https://t.co/Cn1Od8p1pm",
+					"display_url": "pic.twitter.com/Cn1Od8p1pm",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1390134592133222403/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1462,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1390134581639016400,
+					"id_str": "1390134581639016455",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/E0rACWiUcAcQuY-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0rACWiUcAcQuY-.jpg",
+					"url": "https://t.co/Cn1Od8p1pm",
+					"display_url": "pic.twitter.com/Cn1Od8p1pm",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1390134592133222403/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1462,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/sF6DJY7DBC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sF6DJY7DBC",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4085242,
+			"friends_count": 1,
+			"listed_count": 8686,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374526410954448896/vxlw4WHZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374526410954448896/vxlw4WHZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1617375718",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17021,
+		"favorite_count": 66352,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💚JOY X Tod's &lt;In Our Shoes - Seoul💚\n\n#조이 #JOY #레드벨벳 #RedVelvet #Tods #WKorea https://t.co/Cn1Od8p1pm"
+	},
+	{
+		"created_at": "Tue May 11 17:09:43 +0000 2021",
+		"id": 1390128977692414000,
+		"id_str": "1392165030850859017",
+		"full_text": "💚JOY X Tod's &lt;In Our Shoes - Seoul💚\n\n#조이 #JOY #레드벨벳 #RedVelvet #Tods #WKorea https://t.co/sEpWoTmSFw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조이",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						55,
+						65
+					]
+				},
+				{
+					"text": "Tods",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "WKorea",
+					"indices": [
+						72,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1390128920557625300,
+					"id_str": "1390128920557625346",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1390128920557625346/pu/img/AcqhG2goKhanjPNZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1390128920557625346/pu/img/AcqhG2goKhanjPNZ.jpg",
+					"url": "https://t.co/sEpWoTmSFw",
+					"display_url": "pic.twitter.com/sEpWoTmSFw",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1390128977692413952/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1390128920557625300,
+					"id_str": "1390128920557625346",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1390128920557625346/pu/img/AcqhG2goKhanjPNZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1390128920557625346/pu/img/AcqhG2goKhanjPNZ.jpg",
+					"url": "https://t.co/sEpWoTmSFw",
+					"display_url": "pic.twitter.com/sEpWoTmSFw",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1390128977692413952/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 58042,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1390128920557625346/pu/vid/480x270/6PY2Zev_dLmTN30N.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1390128920557625346/pu/pl/Zln2vse3Po-DjUvF.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1390128920557625346/pu/vid/640x360/QzhEL0viym0Z_nZK.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1390128920557625346/pu/vid/854x480/uosqKVjrDr0vbdKb.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/sF6DJY7DBC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sF6DJY7DBC",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4085242,
+			"friends_count": 1,
+			"listed_count": 8686,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374526410954448896/vxlw4WHZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374526410954448896/vxlw4WHZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1617375718",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12386,
+		"favorite_count": 36662,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💚JOY X Tod's &lt;In Our Shoes - Seoul💚\n\n#조이 #JOY #레드벨벳 #RedVelvet #Tods #WKorea https://t.co/sEpWoTmSFw"
+	},
+	{
 		"created_at": "Tue May 11 16:48:59 +0000 2021",
 		"id": 1392159815900835800,
 		"id_str": "1392159815900835841",
