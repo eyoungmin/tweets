@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 11 10:48:54 +0000 2021",
+		"id": 1392059386370031600,
+		"id_str": "1392069197044215808",
+		"full_text": "잠시 후 8시부터 네이버 V LIVE SHINee 채널에서 태민 스페셜 V LIVE 'PROTAGONIST : TAEMIN'이 생방송으로 진행됩니다!✨\n\n미니 3집 'Advice'를 앞둔 태민이 들려주는 역대 솔로 앨범 이야기, 놓치지 마세요!\n\n👉🏻 https://t.co/hs9NuauCz2\n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEMIN",
+					"indices": [
+						166,
+						173
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						174,
+						177
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						178,
+						185
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						186,
+						190
+					]
+				},
+				{
+					"text": "Advice",
+					"indices": [
+						191,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hs9NuauCz2",
+					"expanded_url": "https://www.vlive.tv/video/247908",
+					"display_url": "vlive.tv/video/247908",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "TAEMIN - The 3rd Mini Album Advice",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1957964,
+			"friends_count": 2,
+			"listed_count": 4872,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1619967641",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3360,
+		"favorite_count": 6881,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시 후 8시부터 네이버 V LIVE SHINee 채널에서 태민 스페셜 V LIVE 'PROTAGONIST : TAEMIN'이 생방송으로 진행됩니다!✨\n\n미니 3집 'Advice'를 앞둔 태민이 들려주는 역대 솔로 앨범 이야기, 놓치지 마세요!\n\n👉🏻 https://t.co/hs9NuauCz2\n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice"
+	},
+	{
 		"created_at": "Tue May 11 09:48:54 +0000 2021",
 		"id": 1392042028771418000,
 		"id_str": "1392054096610217985",
