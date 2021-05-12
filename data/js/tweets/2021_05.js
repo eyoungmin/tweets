@@ -1,6 +1,400 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Wed May 12 02:47:11 +0000 2021",
+		"id": 1392309780660637700,
+		"id_str": "1392310357029376003",
+		"full_text": "태민, 새 미니앨범으로 보여줄 보컬 매력!\n청량한 ‘Light’, 나른섹시 ‘Strings’ 기대감 UP!\n\nTAEMIN to show off his charming vocal through the refreshing B-side ‘Light’ &amp; the sexy B-side ‘Strings’!  \n\n➡️ https://t.co/IeMT5RN8tq\n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice \n#Light #Strings",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEMIN",
+					"indices": [
+						201,
+						208
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						209,
+						212
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						213,
+						220
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						221,
+						225
+					]
+				},
+				{
+					"text": "Advice",
+					"indices": [
+						226,
+						233
+					]
+				},
+				{
+					"text": "Light",
+					"indices": [
+						235,
+						241
+					]
+				},
+				{
+					"text": "Strings",
+					"indices": [
+						242,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IeMT5RN8tq",
+					"expanded_url": "https://bit.ly/3tLp8g0",
+					"display_url": "bit.ly/3tLp8g0",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "TAEMIN - The 3rd Mini Album Advice",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1959875,
+			"friends_count": 2,
+			"listed_count": 4924,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1619967641",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2356,
+		"favorite_count": 5448,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태민, 새 미니앨범으로 보여줄 보컬 매력!\n청량한 ‘Light’, 나른섹시 ‘Strings’ 기대감 UP!\n\nTAEMIN to show off his charming vocal through the refreshing B-side ‘Light’ &amp; the sexy B-side ‘Strings’!  \n\n➡️ https://t.co/IeMT5RN8tq\n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice \n#Light #Strings"
+	},
+	{
+		"created_at": "Wed May 12 02:37:06 +0000 2021",
+		"id": 1392296266399314000,
+		"id_str": "1392307819014098944",
+		"full_text": "Watch Billie's performance of \"Your Power\" live from @colbertlateshow. https://t.co/lH1ozHZnia https://t.co/6Dof78jMP4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "colbertlateshow",
+					"name": "A Late Show",
+					"id": 2835886194,
+					"id_str": "2835886194",
+					"indices": [
+						53,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lH1ozHZnia",
+					"expanded_url": "https://www.youtube.com/watch?v=dcBKEEVna-g",
+					"display_url": "youtube.com/watch?v=dcBKEE…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1392296045338534000,
+					"id_str": "1392296045338533888",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1392296045338533888/pu/img/LaWfcliPvj9ea6YZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1392296045338533888/pu/img/LaWfcliPvj9ea6YZ.jpg",
+					"url": "https://t.co/6Dof78jMP4",
+					"display_url": "pic.twitter.com/6Dof78jMP4",
+					"expanded_url": "https://twitter.com/billieeilish/status/1392296266399313924/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1392296045338534000,
+					"id_str": "1392296045338533888",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1392296045338533888/pu/img/LaWfcliPvj9ea6YZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1392296045338533888/pu/img/LaWfcliPvj9ea6YZ.jpg",
+					"url": "https://t.co/6Dof78jMP4",
+					"display_url": "pic.twitter.com/6Dof78jMP4",
+					"expanded_url": "https://twitter.com/billieeilish/status/1392296266399313924/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 14233,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1392296045338533888/pu/vid/720x720/bZi43hlcl-9Q3knP.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1392296045338533888/pu/pl/bRJQ-T9lzhtKu7rz.m3u8?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1392296045338533888/pu/vid/320x320/jFMxS5Me04A0ewkC.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1392296045338533888/pu/vid/540x540/6V1ezGmnFe-WvOhg.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "New album “Happier Than Ever” out July 30 https://t.co/DEGLgUC35l",
+			"url": "https://t.co/UybIbAW2j6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UybIbAW2j6",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DEGLgUC35l",
+							"expanded_url": "https://billieeilish.lnk.to/HappierThanEver",
+							"display_url": "billieeilish.lnk.to/HappierThanEver",
+							"indices": [
+								42,
+								65
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5890179,
+			"friends_count": 0,
+			"listed_count": 3767,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1387065127208247299/bni08CVZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387065127208247299/bni08CVZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1619536789",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1961,
+		"favorite_count": 14661,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watch Billie's performance of \"Your Power\" live from @colbertlateshow. https://t.co/lH1ozHZnia https://t.co/6Dof78jMP4"
+	},
+	{
 		"created_at": "Wed May 12 01:39:33 +0000 2021",
 		"id": 1392293334329221000,
 		"id_str": "1392293334329221125",
