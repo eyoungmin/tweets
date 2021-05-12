@@ -1,6 +1,621 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Wed May 12 15:43:04 +0000 2021",
+		"id": 1392494787530399700,
+		"id_str": "1392505612689240064",
+		"full_text": "aespa 에스파 〖Next Level〗\n➫ 2021.05.17 6PM KST\n\n#KARINA #카리나\n#aespa #æspa #에스파\n#NextLevel https://t.co/ypGAoO7b33",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KARINA",
+					"indices": [
+						45,
+						52
+					]
+				},
+				{
+					"text": "카리나",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						58,
+						64
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						76,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1392486342458712000,
+					"id_str": "1392486342458712065",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/E1Ma82TVoAEPPgl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1Ma82TVoAEPPgl.jpg",
+					"url": "https://t.co/ypGAoO7b33",
+					"display_url": "pic.twitter.com/ypGAoO7b33",
+					"expanded_url": "https://twitter.com/aespa_official/status/1392494787530399745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1392486342458712000,
+					"id_str": "1392486342458712065",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/E1Ma82TVoAEPPgl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1Ma82TVoAEPPgl.jpg",
+					"url": "https://t.co/ypGAoO7b33",
+					"display_url": "pic.twitter.com/ypGAoO7b33",
+					"expanded_url": "https://twitter.com/aespa_official/status/1392494787530399745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 930105,
+			"friends_count": 1,
+			"listed_count": 3409,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34792,
+		"favorite_count": 70028,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "aespa 에스파 〖Next Level〗\n➫ 2021.05.17 6PM KST\n\n#KARINA #카리나\n#aespa #æspa #에스파\n#NextLevel https://t.co/ypGAoO7b33"
+	},
+	{
+		"created_at": "Wed May 12 15:43:04 +0000 2021",
+		"id": 1392494852420472800,
+		"id_str": "1392505612064333825",
+		"full_text": "aespa 에스파 〖Next Level〗\n➫ 2021.05.17 6PM KST\n\n#NINGNING #닝닝 \n#aespa #æspa #에스파\n#NextLevel https://t.co/YnQ262qdcw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NINGNING",
+					"indices": [
+						45,
+						54
+					]
+				},
+				{
+					"text": "닝닝",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						78,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1392486586575507500,
+					"id_str": "1392486586575507458",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/E1MbLDtUUAIkF54.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1MbLDtUUAIkF54.jpg",
+					"url": "https://t.co/YnQ262qdcw",
+					"display_url": "pic.twitter.com/YnQ262qdcw",
+					"expanded_url": "https://twitter.com/aespa_official/status/1392494852420472833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1392486586575507500,
+					"id_str": "1392486586575507458",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/E1MbLDtUUAIkF54.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1MbLDtUUAIkF54.jpg",
+					"url": "https://t.co/YnQ262qdcw",
+					"display_url": "pic.twitter.com/YnQ262qdcw",
+					"expanded_url": "https://twitter.com/aespa_official/status/1392494852420472833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 930105,
+			"friends_count": 1,
+			"listed_count": 3409,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32699,
+		"favorite_count": 62924,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "aespa 에스파 〖Next Level〗\n➫ 2021.05.17 6PM KST\n\n#NINGNING #닝닝 \n#aespa #æspa #에스파\n#NextLevel https://t.co/YnQ262qdcw"
+	},
+	{
+		"created_at": "Wed May 12 15:43:03 +0000 2021",
+		"id": 1392494819709132800,
+		"id_str": "1392505610114011137",
+		"full_text": "aespa 에스파 〖Next Level〗\n➫ 2021.05.17 6PM KST\n\n#WINTER #윈터\n#aespa #æspa #에스파\n#NextLevel https://t.co/RJ9z8sx2eU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WINTER",
+					"indices": [
+						45,
+						52
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						53,
+						56
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						75,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1392486435450617900,
+					"id_str": "1392486435450617863",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/E1MbCQuVgAc5dvD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1MbCQuVgAc5dvD.jpg",
+					"url": "https://t.co/RJ9z8sx2eU",
+					"display_url": "pic.twitter.com/RJ9z8sx2eU",
+					"expanded_url": "https://twitter.com/aespa_official/status/1392494819709132800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1392486435450617900,
+					"id_str": "1392486435450617863",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/E1MbCQuVgAc5dvD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1MbCQuVgAc5dvD.jpg",
+					"url": "https://t.co/RJ9z8sx2eU",
+					"display_url": "pic.twitter.com/RJ9z8sx2eU",
+					"expanded_url": "https://twitter.com/aespa_official/status/1392494819709132800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 930105,
+			"friends_count": 1,
+			"listed_count": 3409,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32870,
+		"favorite_count": 63589,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "aespa 에스파 〖Next Level〗\n➫ 2021.05.17 6PM KST\n\n#WINTER #윈터\n#aespa #æspa #에스파\n#NextLevel https://t.co/RJ9z8sx2eU"
+	},
+	{
 		"created_at": "Wed May 12 13:05:04 +0000 2021",
 		"id": 1392463776948134000,
 		"id_str": "1392465850825728014",
