@@ -1,6 +1,850 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Wed May 12 09:52:19 +0000 2021",
+		"id": 1392404471393648600,
+		"id_str": "1392417344610209793",
+		"full_text": "TAEMIN 태민 The 3rd Mini Album [Advice] \n\n➫ 2021.05.18 6PM (KST)\n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice https://t.co/mWPTdeE30G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEMIN",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "Advice",
+					"indices": [
+						89,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1392339286452707300,
+					"id_str": "1392339286452707328",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E1KVND_VoAAKpqg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1KVND_VoAAKpqg.jpg",
+					"url": "https://t.co/mWPTdeE30G",
+					"display_url": "pic.twitter.com/mWPTdeE30G",
+					"expanded_url": "https://twitter.com/SHINee/status/1392404471393648641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1392339286452707300,
+					"id_str": "1392339286452707328",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E1KVND_VoAAKpqg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1KVND_VoAAKpqg.jpg",
+					"url": "https://t.co/mWPTdeE30G",
+					"display_url": "pic.twitter.com/mWPTdeE30G",
+					"expanded_url": "https://twitter.com/SHINee/status/1392404471393648641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "TAEMIN - The 3rd Mini Album Advice",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1960454,
+			"friends_count": 2,
+			"listed_count": 4942,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1619967641",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8378,
+		"favorite_count": 16703,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEMIN 태민 The 3rd Mini Album [Advice] \n\n➫ 2021.05.18 6PM (KST)\n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice https://t.co/mWPTdeE30G"
+	},
+	{
+		"created_at": "Wed May 12 09:52:19 +0000 2021",
+		"id": 1392404443119849500,
+		"id_str": "1392417343477731333",
+		"full_text": "TAEMIN 태민 The 3rd Mini Album [Advice] \n\n➫ 2021.05.18 6PM (KST)\n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice https://t.co/NYlW7kEUAV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEMIN",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "Advice",
+					"indices": [
+						89,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1392339240193691600,
+					"id_str": "1392339240193691649",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E1KVKXqVEAEjqjC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1KVKXqVEAEjqjC.jpg",
+					"url": "https://t.co/NYlW7kEUAV",
+					"display_url": "pic.twitter.com/NYlW7kEUAV",
+					"expanded_url": "https://twitter.com/SHINee/status/1392404443119849479/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1392339240193691600,
+					"id_str": "1392339240193691649",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E1KVKXqVEAEjqjC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1KVKXqVEAEjqjC.jpg",
+					"url": "https://t.co/NYlW7kEUAV",
+					"display_url": "pic.twitter.com/NYlW7kEUAV",
+					"expanded_url": "https://twitter.com/SHINee/status/1392404443119849479/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "TAEMIN - The 3rd Mini Album Advice",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1960454,
+			"friends_count": 2,
+			"listed_count": 4942,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1619967641",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8885,
+		"favorite_count": 18431,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEMIN 태민 The 3rd Mini Album [Advice] \n\n➫ 2021.05.18 6PM (KST)\n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice https://t.co/NYlW7kEUAV"
+	},
+	{
+		"created_at": "Wed May 12 09:52:19 +0000 2021",
+		"id": 1392404386349936600,
+		"id_str": "1392417342756319239",
+		"full_text": "TAEMIN 태민 The 3rd Mini Album [Advice] \n\n➫ 2021.05.18 6PM (KST)\n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice https://t.co/VO93pX01aE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEMIN",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "Advice",
+					"indices": [
+						89,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1392339188112973800,
+					"id_str": "1392339188112973836",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E1KVHVpUYAwj9bw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1KVHVpUYAwj9bw.jpg",
+					"url": "https://t.co/VO93pX01aE",
+					"display_url": "pic.twitter.com/VO93pX01aE",
+					"expanded_url": "https://twitter.com/SHINee/status/1392404386349936644/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1392339188112973800,
+					"id_str": "1392339188112973836",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E1KVHVpUYAwj9bw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1KVHVpUYAwj9bw.jpg",
+					"url": "https://t.co/VO93pX01aE",
+					"display_url": "pic.twitter.com/VO93pX01aE",
+					"expanded_url": "https://twitter.com/SHINee/status/1392404386349936644/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "TAEMIN - The 3rd Mini Album Advice",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1960454,
+			"friends_count": 2,
+			"listed_count": 4942,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1619967641",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8316,
+		"favorite_count": 18062,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEMIN 태민 The 3rd Mini Album [Advice] \n\n➫ 2021.05.18 6PM (KST)\n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice https://t.co/VO93pX01aE"
+	},
+	{
+		"created_at": "Wed May 12 09:52:19 +0000 2021",
+		"id": 1392404489517211600,
+		"id_str": "1392417342659825664",
+		"full_text": "TAEMIN 태민 The 3rd Mini Album [Advice] \n\n➫ 2021.05.18 6PM (KST)\n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice https://t.co/hHGYSUGnH4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEMIN",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "Advice",
+					"indices": [
+						89,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1392339945105236000,
+					"id_str": "1392339945105235971",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E1KVzZqVoAMGUgy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1KVzZqVoAMGUgy.jpg",
+					"url": "https://t.co/hHGYSUGnH4",
+					"display_url": "pic.twitter.com/hHGYSUGnH4",
+					"expanded_url": "https://twitter.com/SHINee/status/1392404489517211648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1392339945105236000,
+					"id_str": "1392339945105235971",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E1KVzZqVoAMGUgy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1KVzZqVoAMGUgy.jpg",
+					"url": "https://t.co/hHGYSUGnH4",
+					"display_url": "pic.twitter.com/hHGYSUGnH4",
+					"expanded_url": "https://twitter.com/SHINee/status/1392404489517211648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "TAEMIN - The 3rd Mini Album Advice",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1960454,
+			"friends_count": 2,
+			"listed_count": 4942,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1619967641",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7690,
+		"favorite_count": 14949,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEMIN 태민 The 3rd Mini Album [Advice] \n\n➫ 2021.05.18 6PM (KST)\n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice https://t.co/hHGYSUGnH4"
+	},
+	{
 		"created_at": "Wed May 12 08:09:44 +0000 2021",
 		"id": 1392391526966255600,
 		"id_str": "1392391526966255616",
