@@ -1,6 +1,546 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 13 04:04:46 +0000 2021",
+		"id": 1392682414313410600,
+		"id_str": "1392692268817993733",
+		"full_text": "#임윤아 #LIMYOONA #해피빈 #소녀시대 #GirlsGeneration https://t.co/g3t6gpWOCJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						5,
+						14
+					]
+				},
+				{
+					"text": "해피빈",
+					"indices": [
+						15,
+						19
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						20,
+						25
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						26,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1392682404372881400,
+					"id_str": "1392682404372881409",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/E1PNRJ2VIAEiEGH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1PNRJ2VIAEiEGH.jpg",
+					"url": "https://t.co/g3t6gpWOCJ",
+					"display_url": "pic.twitter.com/g3t6gpWOCJ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1392682414313410561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1392682404372881400,
+					"id_str": "1392682404372881409",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/E1PNRJ2VIAEiEGH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1PNRJ2VIAEiEGH.jpg",
+					"url": "https://t.co/g3t6gpWOCJ",
+					"display_url": "pic.twitter.com/g3t6gpWOCJ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1392682414313410561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1392682404762898400,
+					"id_str": "1392682404762898437",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/E1PNRLTUUAUF5WD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1PNRLTUUAUF5WD.jpg",
+					"url": "https://t.co/g3t6gpWOCJ",
+					"display_url": "pic.twitter.com/g3t6gpWOCJ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1392682414313410561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1392682400753217500,
+		"in_reply_to_status_id_str": "1392682400753217539",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9462685,
+			"friends_count": 55,
+			"listed_count": 9911,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 587,
+		"favorite_count": 2952,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#임윤아 #LIMYOONA #해피빈 #소녀시대 #GirlsGeneration https://t.co/g3t6gpWOCJ"
+	},
+	{
+		"created_at": "Thu May 13 04:04:46 +0000 2021",
+		"id": 1392682400753217500,
+		"id_str": "1392692268788641792",
+		"full_text": "임윤아X어니스트플라워의 행복을 주는 꽃🌼\n\n5월 생일을 맞이하여, 네이버 해피빈 스페셜 펀딩에 참여하게 되었습니다.\n펀딩을 통한 수익금은 '보호 종료 아동'들의 자립지원금으로 전달될 예정입니다.\n\nhttps://t.co/OokzhmNFLv\n\n#임윤아 #LIMYOONA #해피빈 #소녀시대 #GirlsGeneration https://t.co/4nufkWDIRD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						140,
+						149
+					]
+				},
+				{
+					"text": "해피빈",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						161,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OokzhmNFLv",
+					"expanded_url": "https://happybean.naver.com/fundings/detail/F124",
+					"display_url": "happybean.naver.com/fundings/detai…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1392682379500683300,
+					"id_str": "1392682379500683267",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/E1PNPtMVgAMOhhp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1PNPtMVgAMOhhp.jpg",
+					"url": "https://t.co/4nufkWDIRD",
+					"display_url": "pic.twitter.com/4nufkWDIRD",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1392682400753217539/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1392682379500683300,
+					"id_str": "1392682379500683267",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/E1PNPtMVgAMOhhp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1PNPtMVgAMOhhp.jpg",
+					"url": "https://t.co/4nufkWDIRD",
+					"display_url": "pic.twitter.com/4nufkWDIRD",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1392682400753217539/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1392682379500658700,
+					"id_str": "1392682379500658695",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/E1PNPtMVIAcZTwQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1PNPtMVIAcZTwQ.jpg",
+					"url": "https://t.co/4nufkWDIRD",
+					"display_url": "pic.twitter.com/4nufkWDIRD",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1392682400753217539/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1392682379488104400,
+					"id_str": "1392682379488104448",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/E1PNPtJVkAAuxfd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1PNPtJVkAAuxfd.jpg",
+					"url": "https://t.co/4nufkWDIRD",
+					"display_url": "pic.twitter.com/4nufkWDIRD",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1392682400753217539/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9462685,
+			"friends_count": 55,
+			"listed_count": 9911,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1240,
+		"favorite_count": 6603,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "임윤아X어니스트플라워의 행복을 주는 꽃🌼\n\n5월 생일을 맞이하여, 네이버 해피빈 스페셜 펀딩에 참여하게 되었습니다.\n펀딩을 통한 수익금은 '보호 종료 아동'들의 자립지원금으로 전달될 예정입니다.\n\nhttps://t.co/OokzhmNFLv\n\n#임윤아 #LIMYOONA #해피빈 #소녀시대 #GirlsGeneration https://t.co/4nufkWDIRD"
+	},
+	{
 		"created_at": "Thu May 13 03:42:45 +0000 2021",
 		"id": 1392676065525395500,
 		"id_str": "1392686727219736579",
