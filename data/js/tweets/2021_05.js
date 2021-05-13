@@ -1,6 +1,441 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 13 08:53:39 +0000 2021",
+		"id": 1392764969763102700,
+		"id_str": "1392764969763102722",
+		"full_text": "#SMTOWN #Artist_News\n‘컴백’ 에스파, 신곡 'Next Level'로 카리스마 레벨업!\nhttps://t.co/GdcYsH9QZV\n#에스파 #aespa #æspa https://t.co/pNPlyGrrxq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						94,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GdcYsH9QZV",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/4972",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1392764968819429400,
+					"id_str": "1392764968819429378",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/E1QYXCYXEAIRemQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1QYXCYXEAIRemQ.jpg",
+					"url": "https://t.co/pNPlyGrrxq",
+					"display_url": "pic.twitter.com/pNPlyGrrxq",
+					"expanded_url": "https://twitter.com/fromminn/status/1392764969763102722/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1392764968819429400,
+					"id_str": "1392764968819429378",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/E1QYXCYXEAIRemQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1QYXCYXEAIRemQ.jpg",
+					"url": "https://t.co/pNPlyGrrxq",
+					"display_url": "pic.twitter.com/pNPlyGrrxq",
+					"expanded_url": "https://twitter.com/fromminn/status/1392764969763102722/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44997,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n‘컴백’ 에스파, 신곡 'Next Level'로 카리스마 레벨업!\nhttps://t.co/GdcYsH9QZV\n#에스파 #aespa #æspa https://t.co/pNPlyGrrxq"
+	},
+	{
+		"created_at": "Thu May 13 08:51:34 +0000 2021",
+		"id": 1392753121470734300,
+		"id_str": "1392764445823094784",
+		"full_text": "5월 13일 17시 기준, 도심, 서북권역에 발령되었던 오존주의보가 해제되었습니다. 다만, 동북, 서남, 동남 발령 유지 중으로 해당권역에 시민분들은 실외활동 및 차량운행을 자제하여 주시기 바랍니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://social.seoul.go.kr\" rel=\"nofollow\">서울 SMC(소셜미디어센터)</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1654849231,
+			"id_str": "1654849231",
+			"name": "서울라이프라인",
+			"screen_name": "SeoulLifeline",
+			"location": "",
+			"description": "서울특별시 재난분야 대표계정 SeoulLifeline입니다. 서울시에서 관리하는 재난재해 소식을 신속하게 알려드리는 시민님의 안전 지킴이가 되겠습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4084,
+			"friends_count": 902,
+			"listed_count": 39,
+			"created_at": "Thu Aug 08 07:35:51 +0000 2013",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000307073798/b73267ede951dad25fa0f6824cb12b47_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000307073798/b73267ede951dad25fa0f6824cb12b47_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1654849231/1376872038",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "5월 13일 17시 기준, 도심, 서북권역에 발령되었던 오존주의보가 해제되었습니다. 다만, 동북, 서남, 동남 발령 유지 중으로 해당권역에 시민분들은 실외활동 및 차량운행을 자제하여 주시기 바랍니다."
+	},
+	{
+		"created_at": "Thu May 13 08:29:37 +0000 2021",
+		"id": 1392758918770790400,
+		"id_str": "1392758918770790402",
+		"full_text": "#놀라운토요일 #도레미마켓\n[#도레미띵곡] 그래도 피오 애교 봤으니 됐어요.. 게임 룰 잊게 만든 최고난도 소녀시대 곡 받쓰하기│#놀라운토요일 Amazing Saturday\nhttps://t.co/BzJVmOG4iP\n#태연 #탱구 #TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "도레미마켓",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "도레미띵곡",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						72,
+						79
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "탱구",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						129,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BzJVmOG4iP",
+					"expanded_url": "https://www.youtube.com/watch?v=N2rAFuZln2M",
+					"display_url": "youtube.com/watch?v=N2rAFu…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44997,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#놀라운토요일 #도레미마켓\n[#도레미띵곡] 그래도 피오 애교 봤으니 됐어요.. 게임 룰 잊게 만든 최고난도 소녀시대 곡 받쓰하기│#놀라운토요일 Amazing Saturday\nhttps://t.co/BzJVmOG4iP\n#태연 #탱구 #TAEYEON"
+	},
+	{
 		"created_at": "Thu May 13 07:51:34 +0000 2021",
 		"id": 1392739263658168300,
 		"id_str": "1392749343954771970",
