@@ -1,6 +1,629 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 13 03:42:45 +0000 2021",
+		"id": 1392676065525395500,
+		"id_str": "1392686727219736579",
+		"full_text": "https://t.co/QulO8lOgr9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1392676033132826600,
+					"id_str": "1392676033132826625",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E1PHeTIVEAEhyz3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1PHeTIVEAEhyz3.jpg",
+					"url": "https://t.co/QulO8lOgr9",
+					"display_url": "pic.twitter.com/QulO8lOgr9",
+					"expanded_url": "https://twitter.com/edam_ent/status/1392676065525395461/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 231,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 695,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 407,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1392676033132826600,
+					"id_str": "1392676033132826625",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E1PHeTIVEAEhyz3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1PHeTIVEAEhyz3.jpg",
+					"url": "https://t.co/QulO8lOgr9",
+					"display_url": "pic.twitter.com/QulO8lOgr9",
+					"expanded_url": "https://twitter.com/edam_ent/status/1392676065525395461/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 231,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 695,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 407,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1392676001025380400,
+		"in_reply_to_status_id_str": "1392676001025380355",
+		"in_reply_to_user_id": 1214016219889553400,
+		"in_reply_to_user_id_str": "1214016219889553409",
+		"in_reply_to_screen_name": "edam_ent",
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45973,
+			"friends_count": 1,
+			"listed_count": 159,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 185,
+		"favorite_count": 717,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/QulO8lOgr9"
+	},
+	{
+		"created_at": "Thu May 13 03:42:45 +0000 2021",
+		"id": 1392676001025380400,
+		"id_str": "1392686726536056832",
+		"full_text": "IU New MD ‘LILAC’ 판매 안내\n\n하이얀 우리 봄날에 찾아온\n아이유의 새로운 MD 소식🌸\nEDAM 공식 온라인 쇼핑몰에서\n지금 바로 만나보아요🐥\n\n📍 오픈 : 2021. 5. 17. 2PM (KST)\n📍 made EDAM : https://t.co/VifWSV4BrM https://t.co/oeO6DsNQmp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VifWSV4BrM",
+					"expanded_url": "http://madeedam.com",
+					"display_url": "madeedam.com",
+					"indices": [
+						132,
+						155
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1392675831479079000,
+					"id_str": "1392675831479078924",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/E1PHSj6VEAwCv6s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1PHSj6VEAwCv6s.jpg",
+					"url": "https://t.co/oeO6DsNQmp",
+					"display_url": "pic.twitter.com/oeO6DsNQmp",
+					"expanded_url": "https://twitter.com/edam_ent/status/1392676001025380355/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 408,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 696,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 231,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1392675831479079000,
+					"id_str": "1392675831479078924",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/E1PHSj6VEAwCv6s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1PHSj6VEAwCv6s.jpg",
+					"url": "https://t.co/oeO6DsNQmp",
+					"display_url": "pic.twitter.com/oeO6DsNQmp",
+					"expanded_url": "https://twitter.com/edam_ent/status/1392676001025380355/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 408,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 696,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 231,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45973,
+			"friends_count": 1,
+			"listed_count": 159,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1597,
+		"favorite_count": 4569,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "IU New MD ‘LILAC’ 판매 안내\n\n하이얀 우리 봄날에 찾아온\n아이유의 새로운 MD 소식🌸\nEDAM 공식 온라인 쇼핑몰에서\n지금 바로 만나보아요🐥\n\n📍 오픈 : 2021. 5. 17. 2PM (KST)\n📍 made EDAM : https://t.co/VifWSV4BrM https://t.co/oeO6DsNQmp"
+	},
+	{
+		"created_at": "Thu May 13 03:42:45 +0000 2021",
+		"id": 1392676142407061500,
+		"id_str": "1392686726506631168",
+		"full_text": "https://t.co/acY7D2YJBZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1392676126334472200,
+					"id_str": "1392676126334472195",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E1PHjuVVUAMCnTV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1PHjuVVUAMCnTV.jpg",
+					"url": "https://t.co/acY7D2YJBZ",
+					"display_url": "pic.twitter.com/acY7D2YJBZ",
+					"expanded_url": "https://twitter.com/edam_ent/status/1392676142407061504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 695,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 407,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 231,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1392676126334472200,
+					"id_str": "1392676126334472195",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E1PHjuVVUAMCnTV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1PHjuVVUAMCnTV.jpg",
+					"url": "https://t.co/acY7D2YJBZ",
+					"display_url": "pic.twitter.com/acY7D2YJBZ",
+					"expanded_url": "https://twitter.com/edam_ent/status/1392676142407061504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 695,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 407,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 231,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1392676001025380400,
+		"in_reply_to_status_id_str": "1392676001025380355",
+		"in_reply_to_user_id": 1214016219889553400,
+		"in_reply_to_user_id_str": "1214016219889553409",
+		"in_reply_to_screen_name": "edam_ent",
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45973,
+			"friends_count": 1,
+			"listed_count": 159,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 473,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/acY7D2YJBZ"
+	},
+	{
+		"created_at": "Thu May 13 03:28:53 +0000 2021",
+		"id": 1392683239786090500,
+		"id_str": "1392683239786090496",
+		"full_text": "#예술경영지원센터 #온라인참가신청\n2021 문화예술 사회적경제 경영컨설팅 공공시장 진출 - 심화 컨설팅 (2021-06-07) (접수마감: 2021-06-07)\nhttps://t.co/FNGyVYEL9O\n#예술경영 #뮤직비지니스 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "온라인참가신청",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "뮤직비지니스",
+					"indices": [
+						120,
+						127
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						128,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FNGyVYEL9O",
+					"expanded_url": "https://www.gokams.or.kr:442/02_apply/event_apply01.aspx?Idx=1000&flag=0&page=1&txtKeyword=&ddlKeyfield=T",
+					"display_url": "gokams.or.kr:442/02_apply/event…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44997,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#예술경영지원센터 #온라인참가신청\n2021 문화예술 사회적경제 경영컨설팅 공공시장 진출 - 심화 컨설팅 (2021-06-07) (접수마감: 2021-06-07)\nhttps://t.co/FNGyVYEL9O\n#예술경영 #뮤직비지니스 #minfav"
+	},
+	{
 		"created_at": "Thu May 13 02:52:28 +0000 2021",
 		"id": 1392672944988385300,
 		"id_str": "1392674074879348737",
