@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 13 17:38:01 +0000 2021",
+		"id": 1392882394852696000,
+		"id_str": "1392896929902645250",
+		"full_text": "Was so lovely to be in this cosy space at the pool studios to film some live performances of songs from Young heart 💛 Surrender, the final recording from the session premieres on my youtube channel tomorrow at 5pm bst✨ see you in the live chat 💛  https://t.co/WSjIlCUusE https://t.co/IYpwhZLoqd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WSjIlCUusE",
+					"expanded_url": "http://youtu.be/xzn97B5wMIQ",
+					"display_url": "youtu.be/xzn97B5wMIQ",
+					"indices": [
+						247,
+						270
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1392880198639554600,
+					"id_str": "1392880198639554561",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1392880198639554561/img/OuVeUKLHWxmCG-vM.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1392880198639554561/img/OuVeUKLHWxmCG-vM.jpg",
+					"url": "https://t.co/IYpwhZLoqd",
+					"display_url": "pic.twitter.com/IYpwhZLoqd",
+					"expanded_url": "https://twitter.com/birdy/status/1392882394852696072/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1392880198639554600,
+					"id_str": "1392880198639554561",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1392880198639554561/img/OuVeUKLHWxmCG-vM.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1392880198639554561/img/OuVeUKLHWxmCG-vM.jpg",
+					"url": "https://t.co/IYpwhZLoqd",
+					"display_url": "pic.twitter.com/IYpwhZLoqd",
+					"expanded_url": "https://twitter.com/birdy/status/1392882394852696072/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 10680,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1392880198639554561/vid/720x900/ToY-825eMXqcqIr6.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1392880198639554561/pl/9b1PazkDon9uJEty.m3u8?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1392880198639554561/vid/320x400/8mygYZQofkq_zwnr.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1392880198639554561/vid/480x600/JM29VIaD87s37zQ3.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Young Heart - my new album, OUT NOW 💛 \nhttps://t.co/JJysUdcZGQ",
+			"url": "https://t.co/AOWSyI9JYu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JJysUdcZGQ",
+							"expanded_url": "http://birdy.lnk.to/Young-Heart",
+							"display_url": "birdy.lnk.to/Young-Heart",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 321061,
+			"friends_count": 181,
+			"listed_count": 1193,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 167,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Was so lovely to be in this cosy space at the pool studios to film some live performances of songs from Young heart 💛 Surrender, the final recording from the session premieres on my youtube channel tomorrow at 5pm bst✨ see you in the live chat 💛  https://t.co/WSjIlCUusE https://t.co/IYpwhZLoqd"
+	},
+	{
 		"created_at": "Thu May 13 16:21:11 +0000 2021",
 		"id": 1392877594501070800,
 		"id_str": "1392877594501070848",
