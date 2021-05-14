@@ -1,6 +1,580 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 14 16:43:34 +0000 2021",
+		"id": 1393234691902169000,
+		"id_str": "1393245613760802822",
+		"full_text": "aespa 에스파 'ep1. Black Mamba' - SM Culture Universe\n\nhttps://t.co/Xmc6ehU72R\n\n#aespa #æspa #에스파 #SMCU\n#BlackMamba #NextLevel https://t.co/dJ9ClPlVmO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "SMCU",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "BlackMamba",
+					"indices": [
+						101,
+						112
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						113,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Xmc6ehU72R",
+					"expanded_url": "https://youtu.be/vbH4Lk5wYWg",
+					"display_url": "youtu.be/vbH4Lk5wYWg",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1393228427264630800,
+					"id_str": "1393228427264630785",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/E1W933oVoAEoEyw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1W933oVoAEoEyw.jpg",
+					"url": "https://t.co/dJ9ClPlVmO",
+					"display_url": "pic.twitter.com/dJ9ClPlVmO",
+					"expanded_url": "https://twitter.com/aespa_official/status/1393234691902169090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1393228427264630800,
+					"id_str": "1393228427264630785",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/E1W933oVoAEoEyw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1W933oVoAEoEyw.jpg",
+					"url": "https://t.co/dJ9ClPlVmO",
+					"display_url": "pic.twitter.com/dJ9ClPlVmO",
+					"expanded_url": "https://twitter.com/aespa_official/status/1393234691902169090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 938601,
+			"friends_count": 1,
+			"listed_count": 3390,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 567,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25803,
+		"favorite_count": 42218,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa 에스파 'ep1. Black Mamba' - SM Culture Universe\n\nhttps://t.co/Xmc6ehU72R\n\n#aespa #æspa #에스파 #SMCU\n#BlackMamba #NextLevel https://t.co/dJ9ClPlVmO"
+	},
+	{
+		"created_at": "Fri May 14 16:38:20 +0000 2021",
+		"id": 1393234398661816300,
+		"id_str": "1393244296636080130",
+		"full_text": "surrender was the first single i released on young heart and it felt right to save it 'til last when releasing these live performances from pool studios. all four live recordings are now live on my youtube channel x https://t.co/TYmNwxQsKu https://t.co/bGqsSTosqo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TYmNwxQsKu",
+					"expanded_url": "http://youtube.com/playlist?list=PLUrLewvvfZFO_1f_Svmu9RdAZ4YYhyYaR",
+					"display_url": "youtube.com/playlist?list=…",
+					"indices": [
+						216,
+						239
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1393167542215139300,
+					"id_str": "1393167542215139328",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/E1WH2U4X0AAyAQI.png",
+					"media_url_https": "https://pbs.twimg.com/media/E1WH2U4X0AAyAQI.png",
+					"url": "https://t.co/bGqsSTosqo",
+					"display_url": "pic.twitter.com/bGqsSTosqo",
+					"expanded_url": "https://twitter.com/birdy/status/1393234398661816323/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 663,
+							"h": 829,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 663,
+							"h": 829,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1393167542215139300,
+					"id_str": "1393167542215139328",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/E1WH2U4X0AAyAQI.png",
+					"media_url_https": "https://pbs.twimg.com/media/E1WH2U4X0AAyAQI.png",
+					"url": "https://t.co/bGqsSTosqo",
+					"display_url": "pic.twitter.com/bGqsSTosqo",
+					"expanded_url": "https://twitter.com/birdy/status/1393234398661816323/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 663,
+							"h": 829,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 663,
+							"h": 829,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 26680,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1393167542215139328/pl/xN0z-LcQt0Mu_2UC.m3u8?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1393167542215139328/vid/480x600/uo3ZMa9wuiwOC1Iu.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1393167542215139328/vid/720x900/BWWAf90sW6JiyRtJ.mp4?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1393167542215139328/vid/320x400/4T9r7vAaOgeo6XAL.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Young Heart - my new album, OUT NOW 💛 \nhttps://t.co/JJysUdcZGQ",
+			"url": "https://t.co/AOWSyI9JYu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JJysUdcZGQ",
+							"expanded_url": "http://birdy.lnk.to/Young-Heart",
+							"display_url": "birdy.lnk.to/Young-Heart",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 320935,
+			"friends_count": 181,
+			"listed_count": 1192,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2289,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 189,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "surrender was the first single i released on young heart and it felt right to save it 'til last when releasing these live performances from pool studios. all four live recordings are now live on my youtube channel x https://t.co/TYmNwxQsKu https://t.co/bGqsSTosqo"
+	},
+	{
+		"created_at": "Fri May 14 16:08:39 +0000 2021",
+		"id": 1393236827310542800,
+		"id_str": "1393236827310542858",
+		"full_text": "#SMTOWN #PLAYLIST\naespa 에스파 'ep1. Black Mamba' - SM Culture Universe\nhttps://t.co/9TJfYe66n9\n#에스파 #aespa #æspa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						105,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9TJfYe66n9",
+					"expanded_url": "https://www.youtube.com/watch?v=vbH4Lk5wYWg",
+					"display_url": "youtube.com/watch?v=vbH4Lk…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80250,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SMTOWN #PLAYLIST\naespa 에스파 'ep1. Black Mamba' - SM Culture Universe\nhttps://t.co/9TJfYe66n9\n#에스파 #aespa #æspa"
+	},
+	{
 		"created_at": "Fri May 14 12:32:39 +0000 2021",
 		"id": 1393182469369835500,
 		"id_str": "1393182469369835520",
