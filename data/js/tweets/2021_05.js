@@ -1,6 +1,582 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 14 03:52:42 +0000 2021",
+		"id": 1393045535980855300,
+		"id_str": "1393051618694688768",
+		"full_text": "태민, 컴백 기념 V 라이브 18일 오후 5시 생방송!\n‘탬강사’의 새 미니앨범 ‘Advice’ 특강 예고!\n \nTAEMIN’s comeback V LIVE to be aired on 5/18 5PM KST!\nTo be a special lecture about the new mini album ‘Advice’!  \n\n➡️ https://t.co/j4MuvDTVqZ\n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEMIN",
+					"indices": [
+						207,
+						214
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						215,
+						218
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						219,
+						226
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						227,
+						231
+					]
+				},
+				{
+					"text": "Advice",
+					"indices": [
+						232,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j4MuvDTVqZ",
+					"expanded_url": "https://bit.ly/3yaeeDO",
+					"display_url": "bit.ly/3yaeeDO",
+					"indices": [
+						182,
+						205
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "TAEMIN - The 3rd Mini Album Advice",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1963427,
+			"friends_count": 2,
+			"listed_count": 4938,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1619967641",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2819,
+		"favorite_count": 6338,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태민, 컴백 기념 V 라이브 18일 오후 5시 생방송!\n‘탬강사’의 새 미니앨범 ‘Advice’ 특강 예고!\n \nTAEMIN’s comeback V LIVE to be aired on 5/18 5PM KST!\nTo be a special lecture about the new mini album ‘Advice’!  \n\n➡️ https://t.co/j4MuvDTVqZ\n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice"
+	},
+	{
+		"created_at": "Fri May 14 03:43:26 +0000 2021",
+		"id": 1393038362135588900,
+		"id_str": "1393049288171692042",
+		"full_text": "aespa 에스파 〖Next Level〗\n➫ 2021.05.17 6PM KST\n\n#aespa #æspa #에스파\n#NextLevel #POS https://t.co/q2Ky0sA8Vr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						63,
+						73
+					]
+				},
+				{
+					"text": "POS",
+					"indices": [
+						74,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1393020815487111200,
+					"id_str": "1393020815487111168",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1393020815487111168/img/CBMEs0-6I9yPJc8Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1393020815487111168/img/CBMEs0-6I9yPJc8Y.jpg",
+					"url": "https://t.co/q2Ky0sA8Vr",
+					"display_url": "pic.twitter.com/q2Ky0sA8Vr",
+					"expanded_url": "https://twitter.com/aespa_official/status/1393038362135588868/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1393020815487111200,
+					"id_str": "1393020815487111168",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1393020815487111168/img/CBMEs0-6I9yPJc8Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1393020815487111168/img/CBMEs0-6I9yPJc8Y.jpg",
+					"url": "https://t.co/q2Ky0sA8Vr",
+					"display_url": "pic.twitter.com/q2Ky0sA8Vr",
+					"expanded_url": "https://twitter.com/aespa_official/status/1393038362135588868/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15033,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1393020815487111168/vid/1280x720/O-uzbN2XbEygZV5C.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1393020815487111168/vid/640x360/niZSOYzoq-ysPjVe.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1393020815487111168/pl/FtW7SDCAa2sNbEyL.m3u8?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1393020815487111168/vid/480x270/jTE2NWwepunWH5QW.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "aespa 에스파 〖Next Level〗",
+						"description": "➫ 2021.05.17 6PM KST\n\n#aespa #æspa #에스파\n#‪NextLevel‬ #POS",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 935364,
+			"friends_count": 1,
+			"listed_count": 3393,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25788,
+		"favorite_count": 49623,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "aespa 에스파 〖Next Level〗\n➫ 2021.05.17 6PM KST\n\n#aespa #æspa #에스파\n#NextLevel #POS https://t.co/q2Ky0sA8Vr"
+	},
+	{
+		"created_at": "Fri May 14 03:16:38 +0000 2021",
+		"id": 1393042544745980000,
+		"id_str": "1393042544745979906",
+		"full_text": "#SMTOWN #Artist_News\n‘보쌈-운명을 훔치다’ 권유리, 시청률 고공행진 이유 있었다! ‘열혈 도전의식’\nhttps://t.co/cq8BueJTMS\n#소녀시대 #GirlsGeneration https://t.co/p8E8rAx9v0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						96,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cq8BueJTMS",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/4979",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1393042543651197000,
+					"id_str": "1393042543651196928",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/E1UU0BNWEAAi-G3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1UU0BNWEAAi-G3.jpg",
+					"url": "https://t.co/p8E8rAx9v0",
+					"display_url": "pic.twitter.com/p8E8rAx9v0",
+					"expanded_url": "https://twitter.com/fromminn/status/1393042544745979906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1393042543651197000,
+					"id_str": "1393042543651196928",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/E1UU0BNWEAAi-G3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1UU0BNWEAAi-G3.jpg",
+					"url": "https://t.co/p8E8rAx9v0",
+					"display_url": "pic.twitter.com/p8E8rAx9v0",
+					"expanded_url": "https://twitter.com/fromminn/status/1393042544745979906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n‘보쌈-운명을 훔치다’ 권유리, 시청률 고공행진 이유 있었다! ‘열혈 도전의식’\nhttps://t.co/cq8BueJTMS\n#소녀시대 #GirlsGeneration https://t.co/p8E8rAx9v0"
+	},
+	{
 		"created_at": "Fri May 14 03:00:13 +0000 2021",
 		"id": 1393024459213205500,
 		"id_str": "1393038411569647616",
