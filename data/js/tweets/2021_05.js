@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 14 03:00:13 +0000 2021",
+		"id": 1393024459213205500,
+		"id_str": "1393038411569647616",
+		"full_text": "#ELLEcoverstar #블랙핑크 #로제 #BLACKPINK @ygofficialblink\n\n1분 전 공개, 로제라는 완전히 새로운 챕터\n\n커버더보기📲https://t.co/4jTdCtchWr https://t.co/VX0wuSwhji",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELLEcoverstar",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						15,
+						20
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						21,
+						24
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						25,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						36,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4jTdCtchWr",
+					"expanded_url": "https://bit.ly/3w4uJj0",
+					"display_url": "bit.ly/3w4uJj0",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1393023921025294300,
+					"id_str": "1393023921025294338",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/E1UD4ChVoAIhi63.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1UD4ChVoAIhi63.jpg",
+					"url": "https://t.co/VX0wuSwhji",
+					"display_url": "pic.twitter.com/VX0wuSwhji",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1393024459213205506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 962,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 962,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1393023921025294300,
+					"id_str": "1393023921025294338",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/E1UD4ChVoAIhi63.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1UD4ChVoAIhi63.jpg",
+					"url": "https://t.co/VX0wuSwhji",
+					"display_url": "pic.twitter.com/VX0wuSwhji",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1393024459213205506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 962,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 962,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1393023999089602600,
+					"id_str": "1393023999089602560",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/E1UD8lVUcAA2CUg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1UD8lVUcAA2CUg.jpg",
+					"url": "https://t.co/VX0wuSwhji",
+					"display_url": "pic.twitter.com/VX0wuSwhji",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1393024459213205506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 740,
+							"h": 962,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 962,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1393024016101691400,
+					"id_str": "1393024016101691394",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/E1UD9ktUUAIVCji.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1UD9ktUUAIVCji.jpg",
+					"url": "https://t.co/VX0wuSwhji",
+					"display_url": "pic.twitter.com/VX0wuSwhji",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1393024459213205506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 962,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 962,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1393024036699996200,
+					"id_str": "1393024036699996161",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/E1UD-xcVgAEKO4A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1UD-xcVgAEKO4A.jpg",
+					"url": "https://t.co/VX0wuSwhji",
+					"display_url": "pic.twitter.com/VX0wuSwhji",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1393024459213205506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 962,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 962,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 ELLE KOREA 공식 트위터 official twitter 입니다.",
+			"url": "https://t.co/wrg4l4aKRf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wrg4l4aKRf",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 137914,
+			"friends_count": 3473,
+			"listed_count": 442,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14678,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1620957985",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5198,
+		"favorite_count": 7814,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ELLEcoverstar #블랙핑크 #로제 #BLACKPINK @ygofficialblink\n\n1분 전 공개, 로제라는 완전히 새로운 챕터\n\n커버더보기📲https://t.co/4jTdCtchWr https://t.co/VX0wuSwhji"
+	},
+	{
 		"created_at": "Thu May 13 23:48:42 +0000 2021",
 		"id": 1392990217188040700,
 		"id_str": "1392990217188040705",
