@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 14 04:43:26 +0000 2021",
+		"id": 1393062445787205600,
+		"id_str": "1393064388349726722",
+		"full_text": "에스파, 신곡 ‘Next Level’ 퍼포먼스 스테이지 20일 오후 6시 유튜브 및 네이버 V 에스파 채널 통해 첫 공개!\n\naespa to show their performance of ‘Next Level’ for the first time via YouTube and V LIVE on 5/20 6PM KST!\n\n#aespa #æspa #에스파\n#NextLevel https://t.co/lK2TnuQ1lH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						178,
+						184
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						185,
+						190
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						191,
+						195
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						196,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1393062357736194000,
+					"id_str": "1393062357736194055",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/E1Um1WbVgAcmbVk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1Um1WbVgAcmbVk.jpg",
+					"url": "https://t.co/lK2TnuQ1lH",
+					"display_url": "pic.twitter.com/lK2TnuQ1lH",
+					"expanded_url": "https://twitter.com/aespa_official/status/1393062445787205635/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1393062357736194000,
+					"id_str": "1393062357736194055",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/E1Um1WbVgAcmbVk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1Um1WbVgAcmbVk.jpg",
+					"url": "https://t.co/lK2TnuQ1lH",
+					"display_url": "pic.twitter.com/lK2TnuQ1lH",
+					"expanded_url": "https://twitter.com/aespa_official/status/1393062445787205635/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 935573,
+			"friends_count": 1,
+			"listed_count": 3395,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5982,
+		"favorite_count": 15660,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에스파, 신곡 ‘Next Level’ 퍼포먼스 스테이지 20일 오후 6시 유튜브 및 네이버 V 에스파 채널 통해 첫 공개!\n\naespa to show their performance of ‘Next Level’ for the first time via YouTube and V LIVE on 5/20 6PM KST!\n\n#aespa #æspa #에스파\n#NextLevel https://t.co/lK2TnuQ1lH"
+	},
+	{
 		"created_at": "Fri May 14 03:52:42 +0000 2021",
 		"id": 1393045535980855300,
 		"id_str": "1393051618694688768",
@@ -300,7 +491,7 @@ Grailbird.data.tweets_2021_05 =
 					},
 					"additional_media_info": {
 						"title": "aespa 에스파 〖Next Level〗",
-						"description": "➫ 2021.05.17 6PM KST\n\n#aespa #æspa #에스파\n#‪NextLevel‬ #POS",
+						"description": "➫ 2021.05.17 6PM KST\n\n#aespa #æspa #에스파\n#NextLevel #POS",
 						"embeddable": true,
 						"monetizable": false
 					}
