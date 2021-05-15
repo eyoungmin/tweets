@@ -1,6 +1,428 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 15 15:43:47 +0000 2021",
+		"id": 1393581949424394200,
+		"id_str": "1393592957849116672",
+		"full_text": "aespa 에스파 ‘Next Level’ MV Teaser\n\naespa 에스파 〖Next Level〗\n➫ 2021.05.17 6PM KST\n\n#aespa #æspa #에스파\n#NextLevel https://t.co/R1Lc6rqoos",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						97,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1393580063593951200,
+					"id_str": "1393580063593951234",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/E1b-C8BVoAEqBfR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1b-C8BVoAEqBfR.jpg",
+					"url": "https://t.co/R1Lc6rqoos",
+					"display_url": "pic.twitter.com/R1Lc6rqoos",
+					"expanded_url": "https://twitter.com/aespa_official/status/1393581949424394242/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1393580063593951200,
+					"id_str": "1393580063593951234",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/E1b-C8BVoAEqBfR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1b-C8BVoAEqBfR.jpg",
+					"url": "https://t.co/R1Lc6rqoos",
+					"display_url": "pic.twitter.com/R1Lc6rqoos",
+					"expanded_url": "https://twitter.com/aespa_official/status/1393581949424394242/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 27945,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1393580063593951234/vid/1280x720/TxPxckiOh2mrLV1x.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1393580063593951234/vid/480x270/ZZ6GpwAQx4jg2vfY.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1393580063593951234/vid/640x360/RCSwhZx3yPyEg8Ot.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1393580063593951234/pl/wH8YCqFL_Mn2NmpR.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "aespa 에스파 ‘Next Level’ MV Teaser",
+						"description": "aespa 에스파 〖Next Level〗\n➫ 2021.05.17 6PM KST\n\n#aespa #æspa #에스파\n#NextLevel",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 945863,
+			"friends_count": 1,
+			"listed_count": 3467,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44873,
+		"favorite_count": 71621,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "aespa 에스파 ‘Next Level’ MV Teaser\n\naespa 에스파 〖Next Level〗\n➫ 2021.05.17 6PM KST\n\n#aespa #æspa #에스파\n#NextLevel https://t.co/R1Lc6rqoos"
+	},
+	{
+		"created_at": "Sat May 15 15:43:20 +0000 2021",
+		"id": 1393581984467673000,
+		"id_str": "1393592845810880513",
+		"full_text": "❤ HAPPY BIRTHDAY, IU ❤\n16 MAY 2021 #HappyIUDay\n⠀\n#아이유 #IU\n#IU29thSpring\n#지은이의_스물아홉번째_봄 https://t.co/wB2xUN6wCh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HappyIUDay",
+					"indices": [
+						35,
+						46
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "IU29thSpring",
+					"indices": [
+						58,
+						71
+					]
+				},
+				{
+					"text": "지은이의_스물아홉번째_봄",
+					"indices": [
+						72,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1393581962548289500,
+					"id_str": "1393581962548289539",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/E1b_aVMVIAMXn_O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1b_aVMVIAMXn_O.jpg",
+					"url": "https://t.co/wB2xUN6wCh",
+					"display_url": "pic.twitter.com/wB2xUN6wCh",
+					"expanded_url": "https://twitter.com/edam_ent/status/1393581984467673090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1393581962548289500,
+					"id_str": "1393581962548289539",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/E1b_aVMVIAMXn_O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1b_aVMVIAMXn_O.jpg",
+					"url": "https://t.co/wB2xUN6wCh",
+					"display_url": "pic.twitter.com/wB2xUN6wCh",
+					"expanded_url": "https://twitter.com/edam_ent/status/1393581984467673090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46523,
+			"friends_count": 1,
+			"listed_count": 162,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3790,
+		"favorite_count": 6250,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "❤ HAPPY BIRTHDAY, IU ❤\n16 MAY 2021 #HappyIUDay\n⠀\n#아이유 #IU\n#IU29thSpring\n#지은이의_스물아홉번째_봄 https://t.co/wB2xUN6wCh"
+	},
+	{
 		"created_at": "Sat May 15 15:08:10 +0000 2021",
 		"id": 1393583996592955400,
 		"id_str": "1393583996592955395",
