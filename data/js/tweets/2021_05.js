@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sun May 16 09:53:13 +0000 2021",
+		"id": 1393853842693922800,
+		"id_str": "1393867124632743938",
+		"full_text": "TAEMIN 태민 First Scene @ Beyond LIVE - TAEMIN : N.G.D.A \n\n🎬 https://t.co/1kGJLWDrpz\n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice\n#BeyondLIVE #비욘드라이브 https://t.co/t9OCMRzLLU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEMIN",
+					"indices": [
+						84,
+						91
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						96,
+						103
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "Advice",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"text": "BeyondLIVE",
+					"indices": [
+						117,
+						128
+					]
+				},
+				{
+					"text": "비욘드라이브",
+					"indices": [
+						129,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1kGJLWDrpz",
+					"expanded_url": "https://youtu.be/VuhrpFXBqVM",
+					"display_url": "youtu.be/VuhrpFXBqVM",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1393853834200457200,
+					"id_str": "1393853834200457217",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/E1f2rWBVoAE_Uwo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1f2rWBVoAE_Uwo.jpg",
+					"url": "https://t.co/t9OCMRzLLU",
+					"display_url": "pic.twitter.com/t9OCMRzLLU",
+					"expanded_url": "https://twitter.com/SHINee/status/1393853842693922818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1393853834200457200,
+					"id_str": "1393853834200457217",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/E1f2rWBVoAE_Uwo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1f2rWBVoAE_Uwo.jpg",
+					"url": "https://t.co/t9OCMRzLLU",
+					"display_url": "pic.twitter.com/t9OCMRzLLU",
+					"expanded_url": "https://twitter.com/SHINee/status/1393853842693922818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "TAEMIN - The 3rd Mini Album Advice",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1967616,
+			"friends_count": 2,
+			"listed_count": 4925,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1619967641",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5254,
+		"favorite_count": 11627,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "TAEMIN 태민 First Scene @ Beyond LIVE - TAEMIN : N.G.D.A \n\n🎬 https://t.co/1kGJLWDrpz\n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice\n#BeyondLIVE #비욘드라이브 https://t.co/t9OCMRzLLU"
+	},
+	{
 		"created_at": "Sun May 16 08:43:28 +0000 2021",
 		"id": 1393842711417917400,
 		"id_str": "1393849571407663105",
