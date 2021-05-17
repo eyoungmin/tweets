@@ -1,6 +1,128 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Mon May 17 12:38:42 +0000 2021",
+		"id": 1394270697770291200,
+		"id_str": "1394271157340147713",
+		"full_text": "[단독] '클라우드' 복원해보니..불법 촬영 영상 '줄줄이' \nhttps://t.co/yacmrHnk5c \n\n❝ 경찰이 추가 수사를 벌인 결과, 불법 촬영 영상들이 무더기로 발견됐습니다. \n\n#정바비 #가을방학",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정바비",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "가을방학",
+					"indices": [
+						112,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yacmrHnk5c",
+					"expanded_url": "https://news.v.daum.net/v/20210517204317435",
+					"display_url": "news.v.daum.net/v/202105172043…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "문화예술과 관련된 정보를 제공해드립니다.\n\n#예술경영 #뮤직비즈니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업",
+			"url": "https://t.co/hGE8N4Kde4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hGE8N4Kde4",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 573,
+			"friends_count": 59,
+			"listed_count": 4,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1586084627",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[단독] '클라우드' 복원해보니..불법 촬영 영상 '줄줄이' \nhttps://t.co/yacmrHnk5c \n\n❝ 경찰이 추가 수사를 벌인 결과, 불법 촬영 영상들이 무더기로 발견됐습니다. \n\n#정바비 #가을방학"
+	},
+	{
 		"created_at": "Mon May 17 10:51:12 +0000 2021",
 		"id": 1394244102989009000,
 		"id_str": "1394244102989008896",
