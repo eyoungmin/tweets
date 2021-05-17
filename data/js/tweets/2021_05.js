@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Mon May 17 13:44:15 +0000 2021",
+		"id": 1394277369540608000,
+		"id_str": "1394287651662942209",
+		"full_text": "💃💃💃💃\n\nhttps://t.co/W3DZxrXNyr\n\nhttps://t.co/AqIuYtvsam\n\nhttps://t.co/Q8g7ekHcgu\n\nhttps://t.co/w5ysiSCR00\n\nhttps://t.co/EYEzOYOUmG\n\n#aespa #æspa #에스파\n#NextLevel\n#LaLaLa_Dance",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						149,
+						159
+					]
+				},
+				{
+					"text": "LaLaLa_Dance",
+					"indices": [
+						160,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W3DZxrXNyr",
+					"expanded_url": "https://vt.tiktok.com/ZSJPevYRv/",
+					"display_url": "vt.tiktok.com/ZSJPevYRv/",
+					"indices": [
+						6,
+						29
+					]
+				},
+				{
+					"url": "https://t.co/AqIuYtvsam",
+					"expanded_url": "https://vt.tiktok.com/ZSJPetyjH/",
+					"display_url": "vt.tiktok.com/ZSJPetyjH/",
+					"indices": [
+						31,
+						54
+					]
+				},
+				{
+					"url": "https://t.co/Q8g7ekHcgu",
+					"expanded_url": "https://vt.tiktok.com/ZSJPewKsE/",
+					"display_url": "vt.tiktok.com/ZSJPewKsE/",
+					"indices": [
+						56,
+						79
+					]
+				},
+				{
+					"url": "https://t.co/w5ysiSCR00",
+					"expanded_url": "https://vt.tiktok.com/ZSJPegTX6/",
+					"display_url": "vt.tiktok.com/ZSJPegTX6/",
+					"indices": [
+						81,
+						104
+					]
+				},
+				{
+					"url": "https://t.co/EYEzOYOUmG",
+					"expanded_url": "https://vt.tiktok.com/ZSJPeExEP/",
+					"display_url": "vt.tiktok.com/ZSJPeExEP/",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 958693,
+			"friends_count": 1,
+			"listed_count": 3564,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6081,
+		"favorite_count": 17088,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "💃💃💃💃\n\nhttps://t.co/W3DZxrXNyr\n\nhttps://t.co/AqIuYtvsam\n\nhttps://t.co/Q8g7ekHcgu\n\nhttps://t.co/w5ysiSCR00\n\nhttps://t.co/EYEzOYOUmG\n\n#aespa #æspa #에스파\n#NextLevel\n#LaLaLa_Dance"
+	},
+	{
+		"created_at": "Mon May 17 13:29:49 +0000 2021",
+		"id": 1394284021107069000,
+		"id_str": "1394284021107068935",
+		"full_text": "#genie #지니 #MV #뮤직비디오\n[뮤비] Next Level - aespa (03:56)\nhttps://t.co/FdoCaDI86s\n#에스파 #aespa https://t.co/k6DW5zOEb4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "뮤직비디오",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						83,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FdoCaDI86s",
+					"expanded_url": "https://www.genie.co.kr/detail/mediaInfo?xvnm=209905",
+					"display_url": "genie.co.kr/detail/mediaIn…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1394284020301770800,
+					"id_str": "1394284020301770753",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/E1l97eIXMAEVNBz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1l97eIXMAEVNBz.jpg",
+					"url": "https://t.co/k6DW5zOEb4",
+					"display_url": "pic.twitter.com/k6DW5zOEb4",
+					"expanded_url": "https://twitter.com/fromminn/status/1394284021107068935/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1394284020301770800,
+					"id_str": "1394284020301770753",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/E1l97eIXMAEVNBz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1l97eIXMAEVNBz.jpg",
+					"url": "https://t.co/k6DW5zOEb4",
+					"display_url": "pic.twitter.com/k6DW5zOEb4",
+					"expanded_url": "https://twitter.com/fromminn/status/1394284021107068935/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #MV #뮤직비디오\n[뮤비] Next Level - aespa (03:56)\nhttps://t.co/FdoCaDI86s\n#에스파 #aespa https://t.co/k6DW5zOEb4"
+	},
+	{
 		"created_at": "Mon May 17 12:38:42 +0000 2021",
 		"id": 1394270697770291200,
 		"id_str": "1394271157340147713",
