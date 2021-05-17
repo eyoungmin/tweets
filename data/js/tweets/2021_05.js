@@ -1,6 +1,417 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Mon May 17 15:53:30 +0000 2021",
+		"id": 1394306723654078500,
+		"id_str": "1394320178284875778",
+		"full_text": "TAEMIN 태민 'Advice' MV Teaser #2\n\nTAEMIN 태민 The 3rd Mini Album [Advice] \n\n➫ 2021.05.18 6PM (KST)\n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice https://t.co/3bVAcvVRV5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEMIN",
+					"indices": [
+						97,
+						104
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "Advice",
+					"indices": [
+						122,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1394246413190537200,
+					"id_str": "1394246413190537219",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/E1lcqJ0VkAoIRd_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1lcqJ0VkAoIRd_.jpg",
+					"url": "https://t.co/3bVAcvVRV5",
+					"display_url": "pic.twitter.com/3bVAcvVRV5",
+					"expanded_url": "https://twitter.com/SHINee/status/1394306723654078476/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1394246413190537200,
+					"id_str": "1394246413190537219",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/E1lcqJ0VkAoIRd_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1lcqJ0VkAoIRd_.jpg",
+					"url": "https://t.co/3bVAcvVRV5",
+					"display_url": "pic.twitter.com/3bVAcvVRV5",
+					"expanded_url": "https://twitter.com/SHINee/status/1394306723654078476/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 22105,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1394246413190537219/vid/640x360/XZqILygk5_X8hGoJ.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1394246413190537219/vid/480x270/3JAVljwUz3ri4ocB.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1394246413190537219/vid/1280x720/c1bTi0aM1BTsu7Vd.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1394246413190537219/pl/VC_ixrpfe8T0oFfh.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "TAEMIN - The 3rd Mini Album Advice",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1970934,
+			"friends_count": 2,
+			"listed_count": 4962,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1777,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1619967641",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14693,
+		"favorite_count": 29412,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEMIN 태민 'Advice' MV Teaser #2\n\nTAEMIN 태민 The 3rd Mini Album [Advice] \n\n➫ 2021.05.18 6PM (KST)\n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice https://t.co/3bVAcvVRV5"
+	},
+	{
+		"created_at": "Mon May 17 15:29:37 +0000 2021",
+		"id": 1394314166630895600,
+		"id_str": "1394314166630895616",
+		"full_text": "모 기획사에서 정보를 인스타에만 올리길래 사이트나 블로그에 올려달라 했는데 맥락을 못짚고 이제 관리안한다고 반복해서 말하길래 그냥 포기했음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1050,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "모 기획사에서 정보를 인스타에만 올리길래 사이트나 블로그에 올려달라 했는데 맥락을 못짚고 이제 관리안한다고 반복해서 말하길래 그냥 포기했음."
+	},
+	{
+		"created_at": "Mon May 17 15:26:19 +0000 2021",
+		"id": 1394313339614814200,
+		"id_str": "1394313339614814209",
+		"full_text": "다음카페는 https로 다 넘어왔네. 모바일이고 PC고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1050,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "다음카페는 https로 다 넘어왔네. 모바일이고 PC고."
+	},
+	{
 		"created_at": "Mon May 17 14:10:11 +0000 2021",
 		"id": 1394294176506859500,
 		"id_str": "1394294176506859521",
