@@ -1,6 +1,425 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 18 13:13:20 +0000 2021",
+		"id": 1394638912618856400,
+		"id_str": "1394642258264170502",
+		"full_text": "#츄 와 함께 아찔한 #강철부대 현장 속으로 떠날 준비됐나요~?😜 오늘도 오후 10시 30분(KST)에 늦지 않게 만나요, 오빛💫\n\n#이달의소녀 #LOONA #Chuu https://t.co/490GkhgrKc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "츄",
+					"indices": [
+						0,
+						2
+					]
+				},
+				{
+					"text": "강철부대",
+					"indices": [
+						12,
+						17
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						88,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1394607046876483600,
+					"id_str": "1394607046876483584",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/E1qjuF5UUAAFVo8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1qjuF5UUAAFVo8.jpg",
+					"url": "https://t.co/490GkhgrKc",
+					"display_url": "pic.twitter.com/490GkhgrKc",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1394638912618856450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1394607046876483600,
+					"id_str": "1394607046876483584",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/E1qjuF5UUAAFVo8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1qjuF5UUAAFVo8.jpg",
+					"url": "https://t.co/490GkhgrKc",
+					"display_url": "pic.twitter.com/490GkhgrKc",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1394638912618856450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 705959,
+			"friends_count": 0,
+			"listed_count": 7192,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4931,
+		"favorite_count": 17283,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#츄 와 함께 아찔한 #강철부대 현장 속으로 떠날 준비됐나요~?😜 오늘도 오후 10시 30분(KST)에 늦지 않게 만나요, 오빛💫\n\n#이달의소녀 #LOONA #Chuu https://t.co/490GkhgrKc"
+	},
+	{
+		"created_at": "Tue May 18 13:08:03 +0000 2021",
+		"id": 1394640931119374300,
+		"id_str": "1394640931119374341",
+		"full_text": "#Melon #멜론 #비디오\n[MV]Advice (03:24)\nhttps://t.co/xcnwCrBiPS\n#태민 #TAEMIN https://t.co/kNz757QkDj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "비디오",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						63,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xcnwCrBiPS",
+					"expanded_url": "https://vod.melon.com/video/detail2.htm?mvId=50236811&menuId=27040101",
+					"display_url": "vod.melon.com/video/detail2.…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1394640930179797000,
+					"id_str": "1394640930179796998",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/E1rCiXCWUAYfmqE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1rCiXCWUAYfmqE.jpg",
+					"url": "https://t.co/kNz757QkDj",
+					"display_url": "pic.twitter.com/kNz757QkDj",
+					"expanded_url": "https://twitter.com/fromminn/status/1394640931119374341/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1394640930179797000,
+					"id_str": "1394640930179796998",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/E1rCiXCWUAYfmqE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1rCiXCWUAYfmqE.jpg",
+					"url": "https://t.co/kNz757QkDj",
+					"display_url": "pic.twitter.com/kNz757QkDj",
+					"expanded_url": "https://twitter.com/fromminn/status/1394640931119374341/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Melon #멜론 #비디오\n[MV]Advice (03:24)\nhttps://t.co/xcnwCrBiPS\n#태민 #TAEMIN https://t.co/kNz757QkDj"
+	},
+	{
 		"created_at": "Tue May 18 12:42:47 +0000 2021",
 		"id": 1394634569232654300,
 		"id_str": "1394634569232654339",
