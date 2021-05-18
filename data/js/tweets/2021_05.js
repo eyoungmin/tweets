@@ -1,6 +1,448 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 18 02:44:22 +0000 2021",
+		"id": 1394480648161689600,
+		"id_str": "1394483973242327044",
+		"full_text": "에스파의 ‘Next Level’, 신곡 공개 동시에 국내외 차트 1위!\n중국 QQ뮤직 뮤직비디오 차트도 1위!\n\naespa’s ‘Next Level’ records no.1 on Korean and international charts upon its release!\nTops the music video chart of China’s QQ Music as well!\n\nhttps://t.co/NxcE4WOG2O\n\n#aespa #NextLevel",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						232,
+						238
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						239,
+						249
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NxcE4WOG2O",
+					"expanded_url": "https://bit.ly/2RWsPlD",
+					"display_url": "bit.ly/2RWsPlD",
+					"indices": [
+						207,
+						230
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 961974,
+			"friends_count": 1,
+			"listed_count": 3610,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 577,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4053,
+		"favorite_count": 12270,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에스파의 ‘Next Level’, 신곡 공개 동시에 국내외 차트 1위!\n중국 QQ뮤직 뮤직비디오 차트도 1위!\n\naespa’s ‘Next Level’ records no.1 on Korean and international charts upon its release!\nTops the music video chart of China’s QQ Music as well!\n\nhttps://t.co/NxcE4WOG2O\n\n#aespa #NextLevel"
+	},
+	{
+		"created_at": "Tue May 18 02:06:18 +0000 2021",
+		"id": 1394469999587205000,
+		"id_str": "1394474393204494336",
+		"full_text": "KWON YURI draws attention with her perfect visual and acting for the historical drama ‘보쌈-운명을 훔치다’!\n‘보쌈-운명을 훔치다’ airing every Saturday and Sunday at 9:40PM KST!\n\n#KWONYURI #YURI \n#권유리 #유리\n#소녀시대 #GirlsGeneration \n#보쌈_운명을훔치다 https://t.co/H9CZVqEvNG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KWONYURI",
+					"indices": [
+						162,
+						171
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						172,
+						177
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						184,
+						187
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						188,
+						193
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						194,
+						210
+					]
+				},
+				{
+					"text": "보쌈_운명을훔치다",
+					"indices": [
+						212,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1394462986173968400,
+					"id_str": "1394462986173968387",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/E1ogsp9UcAMpi6g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1ogsp9UcAMpi6g.jpg",
+					"url": "https://t.co/H9CZVqEvNG",
+					"display_url": "pic.twitter.com/H9CZVqEvNG",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1394469999587205121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1394462986173968400,
+					"id_str": "1394462986173968387",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/E1ogsp9UcAMpi6g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1ogsp9UcAMpi6g.jpg",
+					"url": "https://t.co/H9CZVqEvNG",
+					"display_url": "pic.twitter.com/H9CZVqEvNG",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1394469999587205121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1394462986186551300,
+					"id_str": "1394462986186551300",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/E1ogsqAUcAQvdg1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1ogsqAUcAQvdg1.jpg",
+					"url": "https://t.co/H9CZVqEvNG",
+					"display_url": "pic.twitter.com/H9CZVqEvNG",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1394469999587205121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1394462986182348800,
+					"id_str": "1394462986182348804",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/E1ogsp_UUAQ8V1M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1ogsp_UUAQ8V1M.jpg",
+					"url": "https://t.co/H9CZVqEvNG",
+					"display_url": "pic.twitter.com/H9CZVqEvNG",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1394469999587205121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1394462986178162700,
+					"id_str": "1394462986178162696",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/E1ogsp-UcAgEWE3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1ogsp-UcAgEWE3.jpg",
+					"url": "https://t.co/H9CZVqEvNG",
+					"display_url": "pic.twitter.com/H9CZVqEvNG",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1394469999587205121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9475110,
+			"friends_count": 55,
+			"listed_count": 9939,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 853,
+		"favorite_count": 4475,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KWON YURI draws attention with her perfect visual and acting for the historical drama ‘보쌈-운명을 훔치다’!\n‘보쌈-운명을 훔치다’ airing every Saturday and Sunday at 9:40PM KST!\n\n#KWONYURI #YURI \n#권유리 #유리\n#소녀시대 #GirlsGeneration \n#보쌈_운명을훔치다 https://t.co/H9CZVqEvNG"
+	},
+	{
 		"created_at": "Tue May 18 01:33:14 +0000 2021",
 		"id": 1394466071973879800,
 		"id_str": "1394466071973879820",
