@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 18 06:53:39 +0000 2021",
+		"id": 1394544748245897200,
+		"id_str": "1394546708730707968",
+		"full_text": "잠시 후 5시 네이버 V LIVE SHINee 채널에서 &lt;태민의 랜선특강: ‘Advice’학개론&gt;이 생방송으로 진행됩니다!🖤\n\n돌아온 탬 강사님이 차근차근 짚어주는 미니 3집 'Advice'의 모든 것! 놓치지 마세요!🤍\n\n👉🏻 https://t.co/VDGCRdCu2O\n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice https://t.co/viRazAg7c2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEMIN",
+					"indices": [
+						159,
+						166
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						171,
+						178
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "Advice",
+					"indices": [
+						184,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VDGCRdCu2O",
+					"expanded_url": "http://vlive.tv/video/248539",
+					"display_url": "vlive.tv/video/248539",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1394543953769222100,
+					"id_str": "1394543953769222146",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/E1pqVlwVUAIJjfZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1pqVlwVUAIJjfZ.jpg",
+					"url": "https://t.co/viRazAg7c2",
+					"display_url": "pic.twitter.com/viRazAg7c2",
+					"expanded_url": "https://twitter.com/SHINee/status/1394544748245897216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 858,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1464,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1394543953769222100,
+					"id_str": "1394543953769222146",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/E1pqVlwVUAIJjfZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1pqVlwVUAIJjfZ.jpg",
+					"url": "https://t.co/viRazAg7c2",
+					"display_url": "pic.twitter.com/viRazAg7c2",
+					"expanded_url": "https://twitter.com/SHINee/status/1394544748245897216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 858,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1464,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "TAEMIN - The 3rd Mini Album Advice",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1971961,
+			"friends_count": 2,
+			"listed_count": 4966,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1619967641",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3050,
+		"favorite_count": 6902,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시 후 5시 네이버 V LIVE SHINee 채널에서 &lt;태민의 랜선특강: ‘Advice’학개론&gt;이 생방송으로 진행됩니다!🖤\n\n돌아온 탬 강사님이 차근차근 짚어주는 미니 3집 'Advice'의 모든 것! 놓치지 마세요!🤍\n\n👉🏻 https://t.co/VDGCRdCu2O\n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice https://t.co/viRazAg7c2"
+	},
+	{
 		"created_at": "Tue May 18 04:26:21 +0000 2021",
 		"id": 1394509638658412500,
 		"id_str": "1394509638658412544",
