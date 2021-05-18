@@ -1,6 +1,940 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 18 09:53:41 +0000 2021",
+		"id": 1394588966351827000,
+		"id_str": "1394592015090786307",
+		"full_text": "TAEMIN 태민 The 3rd Mini Album [Advice] \n\n🎧Listen now on your favorite platform\n\n🔗 https://t.co/ssrfSg9KEV \n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice https://t.co/sa05IUsAFx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEMIN",
+					"indices": [
+						107,
+						114
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "Advice",
+					"indices": [
+						132,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ssrfSg9KEV",
+					"expanded_url": "https://smarturl.it/TAEMIN_Advice",
+					"display_url": "smarturl.it/TAEMIN_Advice",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1394588930557702100,
+					"id_str": "1394588930557702148",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/E1qTPlWVcAQY3cR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1qTPlWVcAQY3cR.jpg",
+					"url": "https://t.co/sa05IUsAFx",
+					"display_url": "pic.twitter.com/sa05IUsAFx",
+					"expanded_url": "https://twitter.com/SHINee/status/1394588966351826949/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1394588930557702100,
+					"id_str": "1394588930557702148",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/E1qTPlWVcAQY3cR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1qTPlWVcAQY3cR.jpg",
+					"url": "https://t.co/sa05IUsAFx",
+					"display_url": "pic.twitter.com/sa05IUsAFx",
+					"expanded_url": "https://twitter.com/SHINee/status/1394588966351826949/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "TAEMIN - The 3rd Mini Album Advice",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1972454,
+			"friends_count": 2,
+			"listed_count": 4970,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1619967641",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3664,
+		"favorite_count": 7128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEMIN 태민 The 3rd Mini Album [Advice] \n\n🎧Listen now on your favorite platform\n\n🔗 https://t.co/ssrfSg9KEV \n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice https://t.co/sa05IUsAFx"
+	},
+	{
+		"created_at": "Tue May 18 09:53:41 +0000 2021",
+		"id": 1394589682315325400,
+		"id_str": "1394592015015243776",
+		"full_text": "태민의 'Advice' 듣지 않으면 후회할 걸\n\n👉🏻 https://t.co/fxZuDHGJId\n \n#TAEMIN #태민\n#SHINee #샤이니\n#Advice",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEMIN",
+					"indices": [
+						56,
+						63
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						68,
+						75
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "Advice",
+					"indices": [
+						81,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fxZuDHGJId",
+					"expanded_url": "http://naver.me/GyeHaKFW",
+					"display_url": "naver.me/GyeHaKFW",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "TAEMIN - The 3rd Mini Album Advice",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1972454,
+			"friends_count": 2,
+			"listed_count": 4970,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1619967641",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2708,
+		"favorite_count": 5164,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태민의 'Advice' 듣지 않으면 후회할 걸\n\n👉🏻 https://t.co/fxZuDHGJId\n \n#TAEMIN #태민\n#SHINee #샤이니\n#Advice"
+	},
+	{
+		"created_at": "Tue May 18 09:53:41 +0000 2021",
+		"id": 1394590412254302200,
+		"id_str": "1394592014956568579",
+		"full_text": "Stream TAEMIN’s new song ‘Advice’ on A-List: K-Pop playlist! @applemusic\n \n🎵 https://t.co/IFZS1Z77RH\n \n#TAEMIN #태민\n#SHINee #샤이니\n#Advice https://t.co/5DAkDkvESX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEMIN",
+					"indices": [
+						103,
+						110
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						115,
+						122
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "Advice",
+					"indices": [
+						128,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						61,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IFZS1Z77RH",
+					"expanded_url": "https://music.apple.com/kr/playlist/a-list-k-pop/pl.48229b41bbfc47d7af39dae8e8b5276e",
+					"display_url": "music.apple.com/kr/playlist/a-…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1394590353311756300,
+					"id_str": "1394590353311756291",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/E1qUiZhVcAM_wGv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1qUiZhVcAM_wGv.jpg",
+					"url": "https://t.co/5DAkDkvESX",
+					"display_url": "pic.twitter.com/5DAkDkvESX",
+					"expanded_url": "https://twitter.com/SHINee/status/1394590412254302211/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1394590353311756300,
+					"id_str": "1394590353311756291",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/E1qUiZhVcAM_wGv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1qUiZhVcAM_wGv.jpg",
+					"url": "https://t.co/5DAkDkvESX",
+					"display_url": "pic.twitter.com/5DAkDkvESX",
+					"expanded_url": "https://twitter.com/SHINee/status/1394590412254302211/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "TAEMIN - The 3rd Mini Album Advice",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1972454,
+			"friends_count": 2,
+			"listed_count": 4970,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1619967641",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2346,
+		"favorite_count": 4922,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Stream TAEMIN’s new song ‘Advice’ on A-List: K-Pop playlist! @applemusic\n \n🎵 https://t.co/IFZS1Z77RH\n \n#TAEMIN #태민\n#SHINee #샤이니\n#Advice https://t.co/5DAkDkvESX"
+	},
+	{
+		"created_at": "Tue May 18 09:08:50 +0000 2021",
+		"id": 1394580729472954400,
+		"id_str": "1394580729472954369",
+		"full_text": "#SMTOWN #PLAYLIST\n⚔️ aespa ‘Next Level’ MV Reaction⚔️\nhttps://t.co/mNsuBDPK7k\n#에스파 #aespa #æspa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						90,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mNsuBDPK7k",
+					"expanded_url": "https://www.youtube.com/watch?v=YBAhQBJksMw",
+					"display_url": "youtube.com/watch?v=YBAhQB…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SMTOWN #PLAYLIST\n⚔️ aespa ‘Next Level’ MV Reaction⚔️\nhttps://t.co/mNsuBDPK7k\n#에스파 #aespa #æspa"
+	},
+	{
+		"created_at": "Tue May 18 09:08:19 +0000 2021",
+		"id": 1394580597595648000,
+		"id_str": "1394580597595648000",
+		"full_text": "#SMTOWN #Artist_News\n에스파의 ‘Next Level’, 신곡 공개 동시에 국내외 차트 1위!\nhttps://t.co/uXS5lNRovy\n#에스파 #aespa #æspa https://t.co/i2xCulpjac",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						97,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uXS5lNRovy",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/4995",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1394580596639346700,
+					"id_str": "1394580596639346692",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/E1qLqfFXMAQqOxF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1qLqfFXMAQqOxF.jpg",
+					"url": "https://t.co/i2xCulpjac",
+					"display_url": "pic.twitter.com/i2xCulpjac",
+					"expanded_url": "https://twitter.com/fromminn/status/1394580597595648000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1394580596639346700,
+					"id_str": "1394580596639346692",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/E1qLqfFXMAQqOxF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1qLqfFXMAQqOxF.jpg",
+					"url": "https://t.co/i2xCulpjac",
+					"display_url": "pic.twitter.com/i2xCulpjac",
+					"expanded_url": "https://twitter.com/fromminn/status/1394580597595648000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n에스파의 ‘Next Level’, 신곡 공개 동시에 국내외 차트 1위!\nhttps://t.co/uXS5lNRovy\n#에스파 #aespa #æspa https://t.co/i2xCulpjac"
+	},
+	{
 		"created_at": "Tue May 18 08:16:53 +0000 2021",
 		"id": 1394567653767975000,
 		"id_str": "1394567653767974912",
