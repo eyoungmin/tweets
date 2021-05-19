@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Wed May 19 10:09:35 +0000 2021",
+		"id": 1394953631217115100,
+		"id_str": "1394958406495219713",
+		"full_text": "💚조이 X 제시💚\n\n《제시의 쇼!터뷰》\n📺 2021.05.20 6:30 PM\n\n#조이 #JOY #안녕 #Hello #제시의쇼터뷰\n#레드벨벳 #RedVelvet https://t.co/k0aENUE7Wd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조이",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "안녕",
+					"indices": [
+						53,
+						56
+					]
+				},
+				{
+					"text": "Hello",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "제시의쇼터뷰",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						78,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1394953608769142800,
+					"id_str": "1394953608769142785",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/E1ve6pjVgAErMvf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1ve6pjVgAErMvf.jpg",
+					"url": "https://t.co/k0aENUE7Wd",
+					"display_url": "pic.twitter.com/k0aENUE7Wd",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1394953631217115136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1443,
+							"h": 1443,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1394953608769142800,
+					"id_str": "1394953608769142785",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/E1ve6pjVgAErMvf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1ve6pjVgAErMvf.jpg",
+					"url": "https://t.co/k0aENUE7Wd",
+					"display_url": "pic.twitter.com/k0aENUE7Wd",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1394953631217115136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1443,
+							"h": 1443,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1394953620362203100,
+					"id_str": "1394953620362203139",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/E1ve7UvVkAMhAw2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1ve7UvVkAMhAw2.jpg",
+					"url": "https://t.co/k0aENUE7Wd",
+					"display_url": "pic.twitter.com/k0aENUE7Wd",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1394953631217115136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1611,
+							"h": 1611,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/RiV4s6wute",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RiV4s6wute",
+							"expanded_url": "https://youtu.be/-Ih5UArd4zk",
+							"display_url": "youtu.be/-Ih5UArd4zk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4113482,
+			"friends_count": 1,
+			"listed_count": 8787,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1784,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1617375718",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10490,
+		"favorite_count": 31683,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💚조이 X 제시💚\n\n《제시의 쇼!터뷰》\n📺 2021.05.20 6:30 PM\n\n#조이 #JOY #안녕 #Hello #제시의쇼터뷰\n#레드벨벳 #RedVelvet https://t.co/k0aENUE7Wd"
+	},
+	{
 		"created_at": "Wed May 19 09:53:53 +0000 2021",
 		"id": 1394941102436733000,
 		"id_str": "1394954454865219586",
