@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 20 03:44:51 +0000 2021",
+		"id": 1395222834805284900,
+		"id_str": "1395223972816424960",
+		"full_text": "‘Solo debut’ #JOY to deliver bright energy with her upcoming album title track ‘안녕 (Hello)’!\nA modern rock remake of singer Park Hyekyung’s song from 2003 with a hopeful message to forget about the hard past times and face the new today!\n#조이 #안녕 #Hello #레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JOY",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						238,
+						241
+					]
+				},
+				{
+					"text": "안녕",
+					"indices": [
+						242,
+						245
+					]
+				},
+				{
+					"text": "Hello",
+					"indices": [
+						246,
+						252
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						253,
+						258
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						259,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1395222833739886600,
+		"in_reply_to_status_id_str": "1395222833739886598",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/RiV4s6wute",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RiV4s6wute",
+							"expanded_url": "https://youtu.be/-Ih5UArd4zk",
+							"display_url": "youtu.be/-Ih5UArd4zk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4120265,
+			"friends_count": 1,
+			"listed_count": 8823,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1617375718",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2310,
+		"favorite_count": 6208,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "‘Solo debut’ #JOY to deliver bright energy with her upcoming album title track ‘안녕 (Hello)’!\nA modern rock remake of singer Park Hyekyung’s song from 2003 with a hopeful message to forget about the hard past times and face the new today!\n#조이 #안녕 #Hello #레드벨벳 #RedVelvet"
+	},
+	{
+		"created_at": "Thu May 20 03:44:51 +0000 2021",
+		"id": 1395222833739886600,
+		"id_str": "1395223972749266949",
+		"full_text": "‘솔로 데뷔’ #조이, 타이틀 곡 ‘안녕 (Hello)’으로 밝은 에너지 전한다!\n2003년 발표된 가수 박혜경의 ‘안녕’을 리메이크한 모던 록 장르의 곡! 힘들었던 지난날은 잊고 새로운 오늘을 맞이하자는 희망적인 가사!\n\n#JOY #안녕 #Hello #레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조이",
+					"indices": [
+						8,
+						11
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "안녕",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "Hello",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						147,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/RiV4s6wute",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RiV4s6wute",
+							"expanded_url": "https://youtu.be/-Ih5UArd4zk",
+							"display_url": "youtu.be/-Ih5UArd4zk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4120265,
+			"friends_count": 1,
+			"listed_count": 8823,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1617375718",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3089,
+		"favorite_count": 8077,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "‘솔로 데뷔’ #조이, 타이틀 곡 ‘안녕 (Hello)’으로 밝은 에너지 전한다!\n2003년 발표된 가수 박혜경의 ‘안녕’을 리메이크한 모던 록 장르의 곡! 힘들었던 지난날은 잊고 새로운 오늘을 맞이하자는 희망적인 가사!\n\n#JOY #안녕 #Hello #레드벨벳 #RedVelvet"
+	},
+	{
 		"created_at": "Thu May 20 02:53:37 +0000 2021",
 		"id": 1395209186359738400,
 		"id_str": "1395211078099865600",
