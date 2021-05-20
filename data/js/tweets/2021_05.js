@@ -1,6 +1,2730 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 20 07:44:56 +0000 2021",
+		"id": 1395277554374746000,
+		"id_str": "1395284391455125508",
+		"full_text": "💛 슬기 💛 with CONVERSE \n\n#슬기 #SEULGI #컨버스 #CONVERSE #레드벨벳 #RedVelvet https://t.co/5Kns1nSKcD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						27,
+						34
+					]
+				},
+				{
+					"text": "컨버스",
+					"indices": [
+						35,
+						39
+					]
+				},
+				{
+					"text": "CONVERSE",
+					"indices": [
+						40,
+						49
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						50,
+						55
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						56,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1395277518056296400,
+					"id_str": "1395277518056296448",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/E10FgprVkAAeNVq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10FgprVkAAeNVq.jpg",
+					"url": "https://t.co/5Kns1nSKcD",
+					"display_url": "pic.twitter.com/5Kns1nSKcD",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1395277554374746115/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395277518056296400,
+					"id_str": "1395277518056296448",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/E10FgprVkAAeNVq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10FgprVkAAeNVq.jpg",
+					"url": "https://t.co/5Kns1nSKcD",
+					"display_url": "pic.twitter.com/5Kns1nSKcD",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1395277554374746115/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1395277533004779500,
+					"id_str": "1395277533004779520",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/E10FhhXVUAADjuF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10FhhXVUAADjuF.jpg",
+					"url": "https://t.co/5Kns1nSKcD",
+					"display_url": "pic.twitter.com/5Kns1nSKcD",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1395277554374746115/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1546,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 513,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 906,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1395277547772866600,
+					"id_str": "1395277547772866560",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/E10FiYYUcAAJshj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10FiYYUcAAJshj.jpg",
+					"url": "https://t.co/5Kns1nSKcD",
+					"display_url": "pic.twitter.com/5Kns1nSKcD",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1395277554374746115/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1545,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 513,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 905,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/RiV4s6wute",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RiV4s6wute",
+							"expanded_url": "https://youtu.be/-Ih5UArd4zk",
+							"display_url": "youtu.be/-Ih5UArd4zk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4121528,
+			"friends_count": 1,
+			"listed_count": 8799,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1795,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1617375718",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8938,
+		"favorite_count": 22948,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💛 슬기 💛 with CONVERSE \n\n#슬기 #SEULGI #컨버스 #CONVERSE #레드벨벳 #RedVelvet https://t.co/5Kns1nSKcD"
+	},
+	{
+		"created_at": "Thu May 20 07:09:07 +0000 2021",
+		"id": 1395273264893624300,
+		"id_str": "1395275375844880387",
+		"full_text": "#OFFICIALBLINK \n행복했던 챙이🥀의 솔로 앨범 마무리를 기념하여 블링크 배 2021 ROSÉ 영역 시험 문제📃✍️가 #블링크존 에 도착하였습니다! BLINK 여러분들의 만점💯을 응원하며 지금 바로 확인해보세요! 🖤💖\n\n#블랙핑크 #ROSÉ #로제 #FirstSingleAlbum #R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OFFICIALBLINK",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "블링크존",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "FirstSingleAlbum",
+					"indices": [
+						144,
+						161
+					]
+				},
+				{
+					"text": "R",
+					"indices": [
+						162,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/c2mkxA118z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c2mkxA118z",
+							"expanded_url": "https://blink.blackpinkofficial.com/",
+							"display_url": "blink.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6741800,
+			"friends_count": 6,
+			"listed_count": 7535,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1615525554",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3750,
+		"favorite_count": 16660,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#OFFICIALBLINK \n행복했던 챙이🥀의 솔로 앨범 마무리를 기념하여 블링크 배 2021 ROSÉ 영역 시험 문제📃✍️가 #블링크존 에 도착하였습니다! BLINK 여러분들의 만점💯을 응원하며 지금 바로 확인해보세요! 🖤💖\n\n#블랙핑크 #ROSÉ #로제 #FirstSingleAlbum #R"
+	},
+	{
+		"created_at": "Thu May 20 07:05:49 +0000 2021",
+		"id": 1395274546215805000,
+		"id_str": "1395274546215804930",
+		"full_text": "#청하 #CHUNGHA\n[청하] 오늘 비와서 ㅜㅜ\nhttps://t.co/EdG5HBgFoE\n#다음팬카페 #공식팬카페 #From https://t.co/ryz9DlZIZt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "다음팬카페",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "From",
+					"indices": [
+						66,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EdG5HBgFoE",
+					"expanded_url": "https://cafe.daum.net/MNH-Chungha/g3oh/198",
+					"display_url": "cafe.daum.net/MNH-Chungha/g3…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1395274545158840300,
+					"id_str": "1395274545158840326",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/E10CzmxWYAY5FHO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10CzmxWYAY5FHO.jpg",
+					"url": "https://t.co/ryz9DlZIZt",
+					"display_url": "pic.twitter.com/ryz9DlZIZt",
+					"expanded_url": "https://twitter.com/fromminn/status/1395274546215804930/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395274545158840300,
+					"id_str": "1395274545158840326",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/E10CzmxWYAY5FHO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10CzmxWYAY5FHO.jpg",
+					"url": "https://t.co/ryz9DlZIZt",
+					"display_url": "pic.twitter.com/ryz9DlZIZt",
+					"expanded_url": "https://twitter.com/fromminn/status/1395274546215804930/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청하 #CHUNGHA\n[청하] 오늘 비와서 ㅜㅜ\nhttps://t.co/EdG5HBgFoE\n#다음팬카페 #공식팬카페 #From https://t.co/ryz9DlZIZt"
+	},
+	{
+		"created_at": "Thu May 20 07:05:44 +0000 2021",
+		"id": 1395274524174790700,
+		"id_str": "1395274524174790660",
+		"full_text": "#청하 #CHUNGHA\n[청하] ❤️🐶🐶\nhttps://t.co/fnS0h81B2o\n#다음팬카페 #공식팬카페 #From https://t.co/SdZoe6RYP1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "다음팬카페",
+					"indices": [
+						47,
+						53
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "From",
+					"indices": [
+						61,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fnS0h81B2o",
+					"expanded_url": "https://cafe.daum.net/MNH-Chungha/g3oh/197",
+					"display_url": "cafe.daum.net/MNH-Chungha/g3…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1395274522786504700,
+					"id_str": "1395274522786504705",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/E10CyTbXoAE6ATH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10CyTbXoAE6ATH.jpg",
+					"url": "https://t.co/SdZoe6RYP1",
+					"display_url": "pic.twitter.com/SdZoe6RYP1",
+					"expanded_url": "https://twitter.com/fromminn/status/1395274524174790660/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395274522786504700,
+					"id_str": "1395274522786504705",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/E10CyTbXoAE6ATH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10CyTbXoAE6ATH.jpg",
+					"url": "https://t.co/SdZoe6RYP1",
+					"display_url": "pic.twitter.com/SdZoe6RYP1",
+					"expanded_url": "https://twitter.com/fromminn/status/1395274524174790660/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청하 #CHUNGHA\n[청하] ❤️🐶🐶\nhttps://t.co/fnS0h81B2o\n#다음팬카페 #공식팬카페 #From https://t.co/SdZoe6RYP1"
+	},
+	{
+		"created_at": "Thu May 20 07:05:39 +0000 2021",
+		"id": 1395274504662827000,
+		"id_str": "1395274504662827009",
+		"full_text": "#청하 #CHUNGHA\n[청하] 날씨 너무 좋다....🌟(실시간)\nhttps://t.co/Mn9Bw1BXJz\n#다음팬카페 #공식팬카페 #From https://t.co/jNBiiK1Tgn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "다음팬카페",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "From",
+					"indices": [
+						75,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mn9Bw1BXJz",
+					"expanded_url": "https://cafe.daum.net/MNH-Chungha/g3oh/196",
+					"display_url": "cafe.daum.net/MNH-Chungha/g3…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1395274503526158300,
+					"id_str": "1395274503526158339",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/E10CxLrWEAMU3t8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10CxLrWEAMU3t8.jpg",
+					"url": "https://t.co/jNBiiK1Tgn",
+					"display_url": "pic.twitter.com/jNBiiK1Tgn",
+					"expanded_url": "https://twitter.com/fromminn/status/1395274504662827009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395274503526158300,
+					"id_str": "1395274503526158339",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/E10CxLrWEAMU3t8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10CxLrWEAMU3t8.jpg",
+					"url": "https://t.co/jNBiiK1Tgn",
+					"display_url": "pic.twitter.com/jNBiiK1Tgn",
+					"expanded_url": "https://twitter.com/fromminn/status/1395274504662827009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청하 #CHUNGHA\n[청하] 날씨 너무 좋다....🌟(실시간)\nhttps://t.co/Mn9Bw1BXJz\n#다음팬카페 #공식팬카페 #From https://t.co/jNBiiK1Tgn"
+	},
+	{
+		"created_at": "Thu May 20 07:05:33 +0000 2021",
+		"id": 1395274478662439000,
+		"id_str": "1395274478662438913",
+		"full_text": "#청하 #CHUNGHA\n[청하] 5주년.... 🌟\nhttps://t.co/QQZRIb9nKS\n#다음팬카페 #공식팬카페 #From https://t.co/5gsqMh0Rax",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "다음팬카페",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "From",
+					"indices": [
+						66,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QQZRIb9nKS",
+					"expanded_url": "https://cafe.daum.net/MNH-Chungha/g3oh/195",
+					"display_url": "cafe.daum.net/MNH-Chungha/g3…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1395274477370491000,
+					"id_str": "1395274477370490884",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/E10CvqPWQAQGxPG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10CvqPWQAQGxPG.jpg",
+					"url": "https://t.co/5gsqMh0Rax",
+					"display_url": "pic.twitter.com/5gsqMh0Rax",
+					"expanded_url": "https://twitter.com/fromminn/status/1395274478662438913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395274477370491000,
+					"id_str": "1395274477370490884",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/E10CvqPWQAQGxPG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10CvqPWQAQGxPG.jpg",
+					"url": "https://t.co/5gsqMh0Rax",
+					"display_url": "pic.twitter.com/5gsqMh0Rax",
+					"expanded_url": "https://twitter.com/fromminn/status/1395274478662438913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청하 #CHUNGHA\n[청하] 5주년.... 🌟\nhttps://t.co/QQZRIb9nKS\n#다음팬카페 #공식팬카페 #From https://t.co/5gsqMh0Rax"
+	},
+	{
+		"created_at": "Thu May 20 07:05:27 +0000 2021",
+		"id": 1395274454989774800,
+		"id_str": "1395274454989774849",
+		"full_text": "#청하 #CHUNGHA\n[청하] 별하랑 별랑해🌟🌟\nhttps://t.co/SFfgBJTMQh\n#다음팬카페 #공식팬카페 #From https://t.co/hw43Qj3gqK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "다음팬카페",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "From",
+					"indices": [
+						66,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SFfgBJTMQh",
+					"expanded_url": "https://cafe.daum.net/MNH-Chungha/g3oh/194",
+					"display_url": "cafe.daum.net/MNH-Chungha/g3…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1395274453618151400,
+					"id_str": "1395274453618151427",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/E10CuRwWUAMYJJ7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10CuRwWUAMYJJ7.jpg",
+					"url": "https://t.co/hw43Qj3gqK",
+					"display_url": "pic.twitter.com/hw43Qj3gqK",
+					"expanded_url": "https://twitter.com/fromminn/status/1395274454989774849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395274453618151400,
+					"id_str": "1395274453618151427",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/E10CuRwWUAMYJJ7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10CuRwWUAMYJJ7.jpg",
+					"url": "https://t.co/hw43Qj3gqK",
+					"display_url": "pic.twitter.com/hw43Qj3gqK",
+					"expanded_url": "https://twitter.com/fromminn/status/1395274454989774849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청하 #CHUNGHA\n[청하] 별하랑 별랑해🌟🌟\nhttps://t.co/SFfgBJTMQh\n#다음팬카페 #공식팬카페 #From https://t.co/hw43Qj3gqK"
+	},
+	{
+		"created_at": "Thu May 20 07:05:22 +0000 2021",
+		"id": 1395274431518347300,
+		"id_str": "1395274431518347265",
+		"full_text": "#청하 #CHUNGHA\n[청하] 😏하이\nhttps://t.co/d0t7182KoV\n#다음팬카페 #공식팬카페 #From https://t.co/Lfn4Rm37uE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "다음팬카페",
+					"indices": [
+						46,
+						52
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "From",
+					"indices": [
+						60,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d0t7182KoV",
+					"expanded_url": "https://cafe.daum.net/MNH-Chungha/g3oh/192",
+					"display_url": "cafe.daum.net/MNH-Chungha/g3…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1395274430234960000,
+					"id_str": "1395274430234959877",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/E10Cs6pXIAUOiC5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10Cs6pXIAUOiC5.jpg",
+					"url": "https://t.co/Lfn4Rm37uE",
+					"display_url": "pic.twitter.com/Lfn4Rm37uE",
+					"expanded_url": "https://twitter.com/fromminn/status/1395274431518347265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395274430234960000,
+					"id_str": "1395274430234959877",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/E10Cs6pXIAUOiC5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10Cs6pXIAUOiC5.jpg",
+					"url": "https://t.co/Lfn4Rm37uE",
+					"display_url": "pic.twitter.com/Lfn4Rm37uE",
+					"expanded_url": "https://twitter.com/fromminn/status/1395274431518347265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청하 #CHUNGHA\n[청하] 😏하이\nhttps://t.co/d0t7182KoV\n#다음팬카페 #공식팬카페 #From https://t.co/Lfn4Rm37uE"
+	},
+	{
+		"created_at": "Thu May 20 07:05:16 +0000 2021",
+		"id": 1395274407954821000,
+		"id_str": "1395274407954821124",
+		"full_text": "#청하 #CHUNGHA\n[청하] 갸아아아ㅏ🤣\nhttps://t.co/yhg8kdwIo9\n#다음팬카페 #공식팬카페 #From https://t.co/HCkRVI8OJX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "다음팬카페",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"text": "From",
+					"indices": [
+						63,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yhg8kdwIo9",
+					"expanded_url": "https://cafe.daum.net/MNH-Chungha/g3oh/189",
+					"display_url": "cafe.daum.net/MNH-Chungha/g3…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1395274406717444000,
+					"id_str": "1395274406717444096",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/E10CrjCWUAAhCUe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10CrjCWUAAhCUe.jpg",
+					"url": "https://t.co/HCkRVI8OJX",
+					"display_url": "pic.twitter.com/HCkRVI8OJX",
+					"expanded_url": "https://twitter.com/fromminn/status/1395274407954821124/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 767,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 767,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395274406717444000,
+					"id_str": "1395274406717444096",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/E10CrjCWUAAhCUe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10CrjCWUAAhCUe.jpg",
+					"url": "https://t.co/HCkRVI8OJX",
+					"display_url": "pic.twitter.com/HCkRVI8OJX",
+					"expanded_url": "https://twitter.com/fromminn/status/1395274407954821124/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 767,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 767,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청하 #CHUNGHA\n[청하] 갸아아아ㅏ🤣\nhttps://t.co/yhg8kdwIo9\n#다음팬카페 #공식팬카페 #From https://t.co/HCkRVI8OJX"
+	},
+	{
+		"created_at": "Thu May 20 07:05:13 +0000 2021",
+		"id": 1395274393719382000,
+		"id_str": "1395274393719382021",
+		"full_text": "#청하 #CHUNGHA\n[청하] I love you\nhttps://t.co/KKlnx5kxjF\n#다음팬카페 #공식팬카페 #From https://t.co/Q2VqnhkvKZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "다음팬카페",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "From",
+					"indices": [
+						67,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KKlnx5kxjF",
+					"expanded_url": "https://cafe.daum.net/MNH-Chungha/g3oh/188",
+					"display_url": "cafe.daum.net/MNH-Chungha/g3…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1395274391898951700,
+					"id_str": "1395274391898951682",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/E10Cqr1WEAIGsWK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10Cqr1WEAIGsWK.jpg",
+					"url": "https://t.co/Q2VqnhkvKZ",
+					"display_url": "pic.twitter.com/Q2VqnhkvKZ",
+					"expanded_url": "https://twitter.com/fromminn/status/1395274393719382021/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395274391898951700,
+					"id_str": "1395274391898951682",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/E10Cqr1WEAIGsWK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10Cqr1WEAIGsWK.jpg",
+					"url": "https://t.co/Q2VqnhkvKZ",
+					"display_url": "pic.twitter.com/Q2VqnhkvKZ",
+					"expanded_url": "https://twitter.com/fromminn/status/1395274393719382021/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청하 #CHUNGHA\n[청하] I love you\nhttps://t.co/KKlnx5kxjF\n#다음팬카페 #공식팬카페 #From https://t.co/Q2VqnhkvKZ"
+	},
+	{
+		"created_at": "Thu May 20 07:05:08 +0000 2021",
+		"id": 1395274374807179300,
+		"id_str": "1395274374807179269",
+		"full_text": "#청하 #CHUNGHA\n[청하] 실시간💜\nhttps://t.co/SsKNW8X24i\n#다음팬카페 #공식팬카페 #From https://t.co/3737p30dFb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "다음팬카페",
+					"indices": [
+						47,
+						53
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "From",
+					"indices": [
+						61,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SsKNW8X24i",
+					"expanded_url": "https://cafe.daum.net/MNH-Chungha/g3oh/187",
+					"display_url": "cafe.daum.net/MNH-Chungha/g3…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1395274373695787000,
+					"id_str": "1395274373695787010",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/E10CpoBX0AIsEcy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10CpoBX0AIsEcy.jpg",
+					"url": "https://t.co/3737p30dFb",
+					"display_url": "pic.twitter.com/3737p30dFb",
+					"expanded_url": "https://twitter.com/fromminn/status/1395274374807179269/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 631,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 906,
+							"h": 977,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 906,
+							"h": 977,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395274373695787000,
+					"id_str": "1395274373695787010",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/E10CpoBX0AIsEcy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10CpoBX0AIsEcy.jpg",
+					"url": "https://t.co/3737p30dFb",
+					"display_url": "pic.twitter.com/3737p30dFb",
+					"expanded_url": "https://twitter.com/fromminn/status/1395274374807179269/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 631,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 906,
+							"h": 977,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 906,
+							"h": 977,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청하 #CHUNGHA\n[청하] 실시간💜\nhttps://t.co/SsKNW8X24i\n#다음팬카페 #공식팬카페 #From https://t.co/3737p30dFb"
+	},
+	{
+		"created_at": "Thu May 20 07:05:05 +0000 2021",
+		"id": 1395274360827654100,
+		"id_str": "1395274360827654150",
+		"full_text": "#청하 #CHUNGHA\n[청하] 🙈\nhttps://t.co/trXAn6VOsK\n#다음팬카페 #공식팬카페 #From https://t.co/JPvYUmdtDd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "다음팬카페",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"text": "From",
+					"indices": [
+						58,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/trXAn6VOsK",
+					"expanded_url": "https://cafe.daum.net/MNH-Chungha/g3oh/185",
+					"display_url": "cafe.daum.net/MNH-Chungha/g3…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1395274359347064800,
+					"id_str": "1395274359347064832",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E10CoykXsAAvCxr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10CoykXsAAvCxr.jpg",
+					"url": "https://t.co/JPvYUmdtDd",
+					"display_url": "pic.twitter.com/JPvYUmdtDd",
+					"expanded_url": "https://twitter.com/fromminn/status/1395274360827654150/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 767,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 767,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395274359347064800,
+					"id_str": "1395274359347064832",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E10CoykXsAAvCxr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10CoykXsAAvCxr.jpg",
+					"url": "https://t.co/JPvYUmdtDd",
+					"display_url": "pic.twitter.com/JPvYUmdtDd",
+					"expanded_url": "https://twitter.com/fromminn/status/1395274360827654150/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 767,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 767,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청하 #CHUNGHA\n[청하] 🙈\nhttps://t.co/trXAn6VOsK\n#다음팬카페 #공식팬카페 #From https://t.co/JPvYUmdtDd"
+	},
+	{
+		"created_at": "Thu May 20 07:05:00 +0000 2021",
+		"id": 1395274342271963100,
+		"id_str": "1395274342271963141",
+		"full_text": "#청하 #CHUNGHA\n[청하] 오잉?? 이제 알았지 뭐야..ㅋㅋ자체 수정갑니다!\nhttps://t.co/XVf62oRiQo\n#다음팬카페 #공식팬카페 #From https://t.co/eE0dj9T9Ki",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "다음팬카페",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "From",
+					"indices": [
+						84,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XVf62oRiQo",
+					"expanded_url": "https://cafe.daum.net/MNH-Chungha/g3oh/184",
+					"display_url": "cafe.daum.net/MNH-Chungha/g3…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1395274341416325000,
+					"id_str": "1395274341416325123",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/E10CnvxWUAMSjot.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10CnvxWUAMSjot.jpg",
+					"url": "https://t.co/eE0dj9T9Ki",
+					"display_url": "pic.twitter.com/eE0dj9T9Ki",
+					"expanded_url": "https://twitter.com/fromminn/status/1395274342271963141/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 64,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 64,
+							"h": 64,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 64,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 64,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395274341416325000,
+					"id_str": "1395274341416325123",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/E10CnvxWUAMSjot.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10CnvxWUAMSjot.jpg",
+					"url": "https://t.co/eE0dj9T9Ki",
+					"display_url": "pic.twitter.com/eE0dj9T9Ki",
+					"expanded_url": "https://twitter.com/fromminn/status/1395274342271963141/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 64,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 64,
+							"h": 64,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 64,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 64,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청하 #CHUNGHA\n[청하] 오잉?? 이제 알았지 뭐야..ㅋㅋ자체 수정갑니다!\nhttps://t.co/XVf62oRiQo\n#다음팬카페 #공식팬카페 #From https://t.co/eE0dj9T9Ki"
+	},
+	{
 		"created_at": "Thu May 20 07:01:56 +0000 2021",
 		"id": 1395267195224019000,
 		"id_str": "1395273569093910528",
