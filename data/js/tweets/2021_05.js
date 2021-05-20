@@ -1,6 +1,911 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 20 12:01:59 +0000 2021",
+		"id": 1395348588784361500,
+		"id_str": "1395349080809697280",
+		"full_text": "#ELLE유튜브 #숏터뷰 #로제 \n#블랙핑크 #ROSÉ @ygofficialblink\n \n로제의 러블리뽀짝 무야~호💘\n6월호 커버스타 로제의 숏터뷰를 보러오세요😘\n\n보러가기📲https://t.co/v1iFJVJJ5L https://t.co/t2oT4m8BdC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELLE유튜브",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "숏터뷰",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						14,
+						17
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						19,
+						24
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						25,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						31,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/v1iFJVJJ5L",
+					"expanded_url": "https://youtu.be/2EDbwlRSxZ4",
+					"display_url": "youtu.be/2EDbwlRSxZ4",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1395316980207349800,
+					"id_str": "1395316980207349767",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1395316980207349767/pu/img/GhZzLCgcl8_rQAAC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1395316980207349767/pu/img/GhZzLCgcl8_rQAAC.jpg",
+					"url": "https://t.co/t2oT4m8BdC",
+					"display_url": "pic.twitter.com/t2oT4m8BdC",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1395348588784361480/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395316980207349800,
+					"id_str": "1395316980207349767",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1395316980207349767/pu/img/GhZzLCgcl8_rQAAC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1395316980207349767/pu/img/GhZzLCgcl8_rQAAC.jpg",
+					"url": "https://t.co/t2oT4m8BdC",
+					"display_url": "pic.twitter.com/t2oT4m8BdC",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1395348588784361480/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 46880,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1395316980207349767/pu/vid/640x360/gb3-ForyITUTEJU1.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1395316980207349767/pu/pl/pQA9fETBqGppG-8L.m3u8?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1395316980207349767/pu/vid/480x270/9sWM2mjenAxPAboe.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1395316980207349767/pu/vid/1280x720/kz-GCTA64MH_3U_v.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 ELLE KOREA 공식 트위터 official twitter 입니다.",
+			"url": "https://t.co/wrg4l4aKRf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wrg4l4aKRf",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 138329,
+			"friends_count": 3472,
+			"listed_count": 441,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1620957985",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 103,
+		"favorite_count": 152,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ELLE유튜브 #숏터뷰 #로제 \n#블랙핑크 #ROSÉ @ygofficialblink\n \n로제의 러블리뽀짝 무야~호💘\n6월호 커버스타 로제의 숏터뷰를 보러오세요😘\n\n보러가기📲https://t.co/v1iFJVJJ5L https://t.co/t2oT4m8BdC"
+	},
+	{
+		"created_at": "Thu May 20 11:54:08 +0000 2021",
+		"id": 1395335039836057600,
+		"id_str": "1395347105850347525",
+		"full_text": "TAEMIN 태민 - ‘Advice’ l M COUNTDOWN 210520\n\n무대 👉🏻 https://t.co/EoErGGr6wn \n직캠(가로ver.) 👉🏻 https://t.co/Y9rXH3UE1p \n직캠(세로ver.) 👉🏻 https://t.co/I5NGTJeJnx \n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEMIN",
+					"indices": [
+						153,
+						160
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						161,
+						164
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						165,
+						172
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "Advice",
+					"indices": [
+						178,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EoErGGr6wn",
+					"expanded_url": "https://tv.naver.com/v/20312395",
+					"display_url": "tv.naver.com/v/20312395",
+					"indices": [
+						49,
+						72
+					]
+				},
+				{
+					"url": "https://t.co/Y9rXH3UE1p",
+					"expanded_url": "https://youtu.be/4aW3Ys-oloQ",
+					"display_url": "youtu.be/4aW3Ys-oloQ",
+					"indices": [
+						88,
+						111
+					]
+				},
+				{
+					"url": "https://t.co/I5NGTJeJnx",
+					"expanded_url": "https://youtu.be/YznwGlJjGxM",
+					"display_url": "youtu.be/YznwGlJjGxM",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "TAEMIN - The 3rd Mini Album Advice",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1976588,
+			"friends_count": 2,
+			"listed_count": 5002,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1793,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1619967641",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4423,
+		"favorite_count": 9038,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TAEMIN 태민 - ‘Advice’ l M COUNTDOWN 210520\n\n무대 👉🏻 https://t.co/EoErGGr6wn \n직캠(가로ver.) 👉🏻 https://t.co/Y9rXH3UE1p \n직캠(세로ver.) 👉🏻 https://t.co/I5NGTJeJnx \n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice"
+	},
+	{
+		"created_at": "Thu May 20 11:54:08 +0000 2021",
+		"id": 1395333570688782300,
+		"id_str": "1395347105804218368",
+		"full_text": "TAEMIN 태민 ‘Advice’ MV Reaction with MINHO\n\n🎬 https://t.co/8X0iv12KKP\n\n#TAEMIN #태민\n#MINHO #민호\n#SHINee #샤이니\n#Advice https://t.co/sDeyDdaNQi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEMIN",
+					"indices": [
+						70,
+						77
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "MINHO",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "민호",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						93,
+						100
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "Advice",
+					"indices": [
+						106,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8X0iv12KKP",
+					"expanded_url": "https://youtu.be/60k3yHd0yv8",
+					"display_url": "youtu.be/60k3yHd0yv8",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1395333559204778000,
+					"id_str": "1395333559204777986",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/E104erOVEAIS7BR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E104erOVEAIS7BR.jpg",
+					"url": "https://t.co/sDeyDdaNQi",
+					"display_url": "pic.twitter.com/sDeyDdaNQi",
+					"expanded_url": "https://twitter.com/SHINee/status/1395333570688782339/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395333559204778000,
+					"id_str": "1395333559204777986",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/E104erOVEAIS7BR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E104erOVEAIS7BR.jpg",
+					"url": "https://t.co/sDeyDdaNQi",
+					"display_url": "pic.twitter.com/sDeyDdaNQi",
+					"expanded_url": "https://twitter.com/SHINee/status/1395333570688782339/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "TAEMIN - The 3rd Mini Album Advice",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1976588,
+			"friends_count": 2,
+			"listed_count": 5002,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1793,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1619967641",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6298,
+		"favorite_count": 12822,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEMIN 태민 ‘Advice’ MV Reaction with MINHO\n\n🎬 https://t.co/8X0iv12KKP\n\n#TAEMIN #태민\n#MINHO #민호\n#SHINee #샤이니\n#Advice https://t.co/sDeyDdaNQi"
+	},
+	{
+		"created_at": "Thu May 20 11:21:45 +0000 2021",
+		"id": 1395338954023518200,
+		"id_str": "1395338954023518212",
+		"full_text": "#팩트체크 #SNU팩트체크\n2030 남성의 수가 2030 여성의 수보다 1.5배 가까이 많다\n▶ 대체로 사실이 아님\nhttps://t.co/WzHkYw3rVq\n　\n#서울대언론정보연구소 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩트체크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SNU팩트체크",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "서울대언론정보연구소",
+					"indices": [
+						91,
+						102
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						103,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WzHkYw3rVq",
+					"expanded_url": "https://m.news.naver.com/factcheck/end.nhn?id=3032",
+					"display_url": "m.news.naver.com/factcheck/end.…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#팩트체크 #SNU팩트체크\n2030 남성의 수가 2030 여성의 수보다 1.5배 가까이 많다\n▶ 대체로 사실이 아님\nhttps://t.co/WzHkYw3rVq\n　\n#서울대언론정보연구소 #minfav"
+	},
+	{
+		"created_at": "Thu May 20 11:21:11 +0000 2021",
+		"id": 1395338809726967800,
+		"id_str": "1395338809726967814",
+		"full_text": "#SMTOWN #PLAYLIST\n[EN] 홀로서기에 도전한 레드벨벳의 맑음이 조이, 인터뷰 도중 눈물샘 고장나다? 《제시의 쇼!터뷰》 EP.51 by 모비딕 Mobidic\nhttps://t.co/UK5Vb3JJ1e\n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						126,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UK5Vb3JJ1e",
+					"expanded_url": "https://www.youtube.com/watch?v=6IrlDiDpi-U",
+					"display_url": "youtube.com/watch?v=6IrlDi…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #PLAYLIST\n[EN] 홀로서기에 도전한 레드벨벳의 맑음이 조이, 인터뷰 도중 눈물샘 고장나다? 《제시의 쇼!터뷰》 EP.51 by 모비딕 Mobidic\nhttps://t.co/UK5Vb3JJ1e\n#레드벨벳 #RedVelvet"
+	},
+	{
 		"created_at": "Thu May 20 09:44:57 +0000 2021",
 		"id": 1395310917236101000,
 		"id_str": "1395314595552628738",
