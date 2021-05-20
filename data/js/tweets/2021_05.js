@@ -1,6 +1,601 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 20 09:44:57 +0000 2021",
+		"id": 1395310917236101000,
+		"id_str": "1395314595552628738",
+		"full_text": "[EN] 홀로서기에 도전한 레드벨벳의 맑음이 조이, 인터뷰 도중 눈물샘 고장나다? 《제시의 쇼!터뷰》 EP.51 \n\n https://t.co/hScTegvlyx \n\n#JOY #조이 #제시의쇼터뷰 #안녕 #Hello #레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JOY",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "제시의쇼터뷰",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"text": "안녕",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "Hello",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						126,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hScTegvlyx",
+					"expanded_url": "https://youtu.be/6IrlDiDpi-U",
+					"display_url": "youtu.be/6IrlDiDpi-U",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/RiV4s6wute",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RiV4s6wute",
+							"expanded_url": "https://youtu.be/-Ih5UArd4zk",
+							"display_url": "youtu.be/-Ih5UArd4zk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4122070,
+			"friends_count": 1,
+			"listed_count": 8805,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1796,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1617375718",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3768,
+		"favorite_count": 8177,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EN] 홀로서기에 도전한 레드벨벳의 맑음이 조이, 인터뷰 도중 눈물샘 고장나다? 《제시의 쇼!터뷰》 EP.51 \n\n https://t.co/hScTegvlyx \n\n#JOY #조이 #제시의쇼터뷰 #안녕 #Hello #레드벨벳 #RedVelvet"
+	},
+	{
+		"created_at": "Thu May 20 09:44:57 +0000 2021",
+		"id": 1395303482018590700,
+		"id_str": "1395314595380662273",
+		"full_text": "aespa 에스파 'Next Level' The Performance Stage #1\n\nhttps://t.co/hMItK49elG\n\n#aespa #æspa #에스파\n#NextLevel",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						92,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hMItK49elG",
+					"expanded_url": "https://youtu.be/z58k37I4Crs",
+					"display_url": "youtu.be/z58k37I4Crs",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 974160,
+			"friends_count": 1,
+			"listed_count": 3621,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 586,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11378,
+		"favorite_count": 19988,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa 에스파 'Next Level' The Performance Stage #1\n\nhttps://t.co/hMItK49elG\n\n#aespa #æspa #에스파\n#NextLevel"
+	},
+	{
+		"created_at": "Thu May 20 09:40:10 +0000 2021",
+		"id": 1395307065082450000,
+		"id_str": "1395313389178527745",
+		"full_text": "TO1(티오원) ‘RE:BORN’ Released!!\n❤️ https://t.co/NZOi7j70OG https://t.co/70RHC4w0ds",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NZOi7j70OG",
+					"expanded_url": "https://www.instagram.com/p/CPFtlAoHovH/?utm_medium=copy_link",
+					"display_url": "instagram.com/p/CPFtlAoHovH/…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1395307058560331800,
+					"id_str": "1395307058560331779",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/E10gYIoVcAMZ-rH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10gYIoVcAMZ-rH.jpg",
+					"url": "https://t.co/70RHC4w0ds",
+					"display_url": "pic.twitter.com/70RHC4w0ds",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1395307065082449921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 696,
+							"h": 695,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 696,
+							"h": 695,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395307058560331800,
+					"id_str": "1395307058560331779",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/E10gYIoVcAMZ-rH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E10gYIoVcAMZ-rH.jpg",
+					"url": "https://t.co/70RHC4w0ds",
+					"display_url": "pic.twitter.com/70RHC4w0ds",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1395307065082449921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 696,
+							"h": 695,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 696,
+							"h": 695,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/75NNtZGos2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/75NNtZGos2",
+							"expanded_url": "https://www.monotree.shop",
+							"display_url": "monotree.shop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7135,
+			"friends_count": 0,
+			"listed_count": 53,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 294,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TO1(티오원) ‘RE:BORN’ Released!!\n❤️ https://t.co/NZOi7j70OG https://t.co/70RHC4w0ds"
+	},
+	{
+		"created_at": "Thu May 20 09:13:42 +0000 2021",
+		"id": 1395306729336885200,
+		"id_str": "1395306729336885249",
+		"full_text": "#SMTOWN #PLAYLIST\naespa 에스파 'Next Level' The Performance Stage #1\nhttps://t.co/4KyMcm8eNp\n#에스파 #aespa #æspa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						102,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4KyMcm8eNp",
+					"expanded_url": "https://www.youtube.com/watch?v=z58k37I4Crs",
+					"display_url": "youtube.com/watch?v=z58k37…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SMTOWN #PLAYLIST\naespa 에스파 'Next Level' The Performance Stage #1\nhttps://t.co/4KyMcm8eNp\n#에스파 #aespa #æspa"
+	},
+	{
 		"created_at": "Thu May 20 09:01:57 +0000 2021",
 		"id": 1395303284261392400,
 		"id_str": "1395303774101524483",
