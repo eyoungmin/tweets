@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 21 11:54:23 +0000 2021",
+		"id": 1395695997947285500,
+		"id_str": "1395709553749020676",
+		"full_text": "‘Advice’ Jacket Photoshoot Behind | TAEMIN 태민\n\n🎬 https://t.co/kCvANeYOdd\n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice https://t.co/luvw8ucsaX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEMIN",
+					"indices": [
+						74,
+						81
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						86,
+						93
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "Advice",
+					"indices": [
+						99,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kCvANeYOdd",
+					"expanded_url": "https://youtu.be/CvlGhTYEA_Y",
+					"display_url": "youtu.be/CvlGhTYEA_Y",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1395695989676134400,
+					"id_str": "1395695989676134407",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/E16CG58VUAcJSGf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E16CG58VUAcJSGf.jpg",
+					"url": "https://t.co/luvw8ucsaX",
+					"display_url": "pic.twitter.com/luvw8ucsaX",
+					"expanded_url": "https://twitter.com/SHINee/status/1395695997947285505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395695989676134400,
+					"id_str": "1395695989676134407",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/E16CG58VUAcJSGf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E16CG58VUAcJSGf.jpg",
+					"url": "https://t.co/luvw8ucsaX",
+					"display_url": "pic.twitter.com/luvw8ucsaX",
+					"expanded_url": "https://twitter.com/SHINee/status/1395695997947285505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "TAEMIN - The 3rd Mini Album Advice",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1978599,
+			"friends_count": 2,
+			"listed_count": 5003,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1619967641",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4643,
+		"favorite_count": 10900,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘Advice’ Jacket Photoshoot Behind | TAEMIN 태민\n\n🎬 https://t.co/kCvANeYOdd\n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice https://t.co/luvw8ucsaX"
+	},
+	{
 		"created_at": "Fri May 21 10:45:16 +0000 2021",
 		"id": 1395682331545849900,
 		"id_str": "1395692161442607108",
