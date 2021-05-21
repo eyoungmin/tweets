@@ -1,6 +1,779 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 21 02:45:07 +0000 2021",
+		"id": 1395569747236819000,
+		"id_str": "1395571329101828100",
+		"full_text": "JOY to pre-release ‘Je T’aime’, one of the B-side tracks of her upcoming special album, on 5/26 6PM KST!\nA fancy, classic remake of the refreshing, jazzy original from 2001 sung by singer Hey!\n\n#JOY #조이 #Hello #안녕 #레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JOY",
+					"indices": [
+						194,
+						198
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						199,
+						202
+					]
+				},
+				{
+					"text": "Hello",
+					"indices": [
+						203,
+						209
+					]
+				},
+				{
+					"text": "안녕",
+					"indices": [
+						210,
+						213
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						214,
+						219
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						220,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1395569745517109200,
+		"in_reply_to_status_id_str": "1395569745517109248",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/RiV4s6wute",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RiV4s6wute",
+							"expanded_url": "https://youtu.be/-Ih5UArd4zk",
+							"display_url": "youtu.be/-Ih5UArd4zk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4126381,
+			"friends_count": 1,
+			"listed_count": 8877,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1617375718",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1443,
+		"favorite_count": 4447,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "JOY to pre-release ‘Je T’aime’, one of the B-side tracks of her upcoming special album, on 5/26 6PM KST!\nA fancy, classic remake of the refreshing, jazzy original from 2001 sung by singer Hey!\n\n#JOY #조이 #Hello #안녕 #레드벨벳 #RedVelvet"
+	},
+	{
+		"created_at": "Fri May 21 02:45:07 +0000 2021",
+		"id": 1395561647763116000,
+		"id_str": "1395571328934023168",
+		"full_text": "aespa breaks their own record with their 'Next Level’ MV surpassing 50 million views on YouTube in 3 days since its release!\naespa proves their global popularity with the faster record than their previous ‘Black Mamba’ release!\n\n#aespa #æspa #에스파\n#NextLevel",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						229,
+						235
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						236,
+						241
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						242,
+						246
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						247,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1395561618499543000,
+		"in_reply_to_status_id_str": "1395561618499543042",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 977054,
+			"friends_count": 1,
+			"listed_count": 3679,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2297,
+		"favorite_count": 8323,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "aespa breaks their own record with their 'Next Level’ MV surpassing 50 million views on YouTube in 3 days since its release!\naespa proves their global popularity with the faster record than their previous ‘Black Mamba’ release!\n\n#aespa #æspa #에스파\n#NextLevel"
+	},
+	{
+		"created_at": "Fri May 21 02:45:07 +0000 2021",
+		"id": 1395561618499543000,
+		"id_str": "1395571328921473027",
+		"full_text": "에스파, ‘Next Level’ MV 공개 3일 만에 5천만 뷰 돌파! 자체 기록 경신!\n‘Black Mamba’보다 빨라졌다! 글로벌 대세 입증!\n\n#aespa #æspa #에스파\n#NextLevel",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						102,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 977054,
+			"friends_count": 1,
+			"listed_count": 3679,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3766,
+		"favorite_count": 12592,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "에스파, ‘Next Level’ MV 공개 3일 만에 5천만 뷰 돌파! 자체 기록 경신!\n‘Black Mamba’보다 빨라졌다! 글로벌 대세 입증!\n\n#aespa #æspa #에스파\n#NextLevel"
+	},
+	{
+		"created_at": "Fri May 21 02:45:07 +0000 2021",
+		"id": 1395569745517109200,
+		"id_str": "1395571328887885825",
+		"full_text": "조이, 스페셜 앨범 수록곡 ‘Je T'aime’ 음원 26일 오후 6시 선공개!\n2001년 가수 Hey가 발표한 동명의 곡 리메이크! 원곡의 산뜻하고 재지한 바이브, 화려하고 클래식한 편곡으로 재해석!\n\n#JOY #조이 #Hello #안녕 #레드벨벳 #RedVelvet https://t.co/xBAcHQk7we",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JOY",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "Hello",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "안녕",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						140,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1395569736918868000,
+					"id_str": "1395569736918867970",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/E14PSBxVoAITci7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E14PSBxVoAITci7.jpg",
+					"url": "https://t.co/xBAcHQk7we",
+					"display_url": "pic.twitter.com/xBAcHQk7we",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1395569745517109248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395569736918868000,
+					"id_str": "1395569736918867970",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/E14PSBxVoAITci7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E14PSBxVoAITci7.jpg",
+					"url": "https://t.co/xBAcHQk7we",
+					"display_url": "pic.twitter.com/xBAcHQk7we",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1395569745517109248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1395569740114894800,
+					"id_str": "1395569740114894848",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/E14PSNrVIAAlWn0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E14PSNrVIAAlWn0.jpg",
+					"url": "https://t.co/xBAcHQk7we",
+					"display_url": "pic.twitter.com/xBAcHQk7we",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1395569745517109248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1006,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 805,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1395569743508086800,
+					"id_str": "1395569743508086785",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/E14PSaUVIAERrrr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E14PSaUVIAERrrr.jpg",
+					"url": "https://t.co/xBAcHQk7we",
+					"display_url": "pic.twitter.com/xBAcHQk7we",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1395569745517109248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 805,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 872,
+							"h": 1300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/RiV4s6wute",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RiV4s6wute",
+							"expanded_url": "https://youtu.be/-Ih5UArd4zk",
+							"display_url": "youtu.be/-Ih5UArd4zk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4126381,
+			"friends_count": 1,
+			"listed_count": 8877,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1617375718",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4341,
+		"favorite_count": 11462,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "조이, 스페셜 앨범 수록곡 ‘Je T'aime’ 음원 26일 오후 6시 선공개!\n2001년 가수 Hey가 발표한 동명의 곡 리메이크! 원곡의 산뜻하고 재지한 바이브, 화려하고 클래식한 편곡으로 재해석!\n\n#JOY #조이 #Hello #안녕 #레드벨벳 #RedVelvet https://t.co/xBAcHQk7we"
+	},
+	{
+		"created_at": "Fri May 21 02:07:34 +0000 2021",
+		"id": 1395560835905466400,
+		"id_str": "1395561877267046401",
+		"full_text": "프라다의 첫번째 매장 갤러리아 비토리오 엠마누엘레의 이름을 따 탄생한 프라다의 역사가 담긴 갤러리아백🖤\nAlways and never the same\n@prada #PradaGalleria #광고 https://t.co/YAXvqG3EuN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PradaGalleria",
+					"indices": [
+						91,
+						105
+					]
+				},
+				{
+					"text": "광고",
+					"indices": [
+						106,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Prada",
+					"name": "PRADA",
+					"id": 1156866230,
+					"id_str": "1156866230",
+					"indices": [
+						84,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YAXvqG3EuN",
+					"expanded_url": "https://www.instagram.com/p/CPHhc2vB0mq/?utm_medium=twitter",
+					"display_url": "instagram.com/p/CPHhc2vB0mq/…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2173631072,
+			"id_str": "2173631072",
+			"name": "서현(Seohyun)",
+			"screen_name": "sjhsjh0628",
+			"location": "",
+			"description": "Singer / Actor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1387505,
+			"friends_count": 31,
+			"listed_count": 2852,
+			"created_at": "Mon Nov 04 08:58:47 +0000 2013",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350274158945398785/6B2gOd8K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350274158945398785/6B2gOd8K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2173631072/1617691854",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 209,
+		"favorite_count": 645,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "프라다의 첫번째 매장 갤러리아 비토리오 엠마누엘레의 이름을 따 탄생한 프라다의 역사가 담긴 갤러리아백🖤\nAlways and never the same\n@prada #PradaGalleria #광고 https://t.co/YAXvqG3EuN"
+	},
+	{
 		"created_at": "Thu May 20 23:53:56 +0000 2021",
 		"id": 1395514534949916700,
 		"id_str": "1395528246888857603",
