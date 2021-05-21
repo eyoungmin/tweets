@@ -1,6 +1,396 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 21 16:40:33 +0000 2021",
+		"id": 1395771704283074600,
+		"id_str": "1395781571886522369",
+		"full_text": "UK &amp; Europe: If you pre-order any copy of “Happier Than Ever” from Billie's webstore by 5pm local time on 5/25 (or have purchased previously), you will get a code to access the early pre-sale, which begins on 5/26 at 9am BST/10am CEST. On-sale begins 5/28. https://t.co/d35F5mmOjr https://t.co/rfNX66wpTm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d35F5mmOjr",
+					"expanded_url": "https://store.billieeilish.com",
+					"display_url": "store.billieeilish.com",
+					"indices": [
+						261,
+						284
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1395767642737168400,
+					"id_str": "1395767642737168389",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/E17DRqZVUAUWCqT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E17DRqZVUAUWCqT.jpg",
+					"url": "https://t.co/rfNX66wpTm",
+					"display_url": "pic.twitter.com/rfNX66wpTm",
+					"expanded_url": "https://twitter.com/billieeilish/status/1395771704283074562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395767642737168400,
+					"id_str": "1395767642737168389",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/E17DRqZVUAUWCqT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E17DRqZVUAUWCqT.jpg",
+					"url": "https://t.co/rfNX66wpTm",
+					"display_url": "pic.twitter.com/rfNX66wpTm",
+					"expanded_url": "https://twitter.com/billieeilish/status/1395771704283074562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1395771699732226000,
+		"in_reply_to_status_id_str": "1395771699732226057",
+		"in_reply_to_user_id": 2150327072,
+		"in_reply_to_user_id_str": "2150327072",
+		"in_reply_to_screen_name": "billieeilish",
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "New album “Happier Than Ever” out July 30 https://t.co/DEGLgUC35l",
+			"url": "https://t.co/UybIbAW2j6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UybIbAW2j6",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DEGLgUC35l",
+							"expanded_url": "https://billieeilish.lnk.to/HappierThanEver",
+							"display_url": "billieeilish.lnk.to/HappierThanEver",
+							"indices": [
+								42,
+								65
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5934549,
+			"friends_count": 0,
+			"listed_count": 3804,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 681,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1387065127208247299/bni08CVZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387065127208247299/bni08CVZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1619536789",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 542,
+		"favorite_count": 5869,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "UK &amp; Europe: If you pre-order any copy of “Happier Than Ever” from Billie's webstore by 5pm local time on 5/25 (or have purchased previously), you will get a code to access the early pre-sale, which begins on 5/26 at 9am BST/10am CEST. On-sale begins 5/28. https://t.co/d35F5mmOjr https://t.co/rfNX66wpTm"
+	},
+	{
+		"created_at": "Fri May 21 16:40:33 +0000 2021",
+		"id": 1395771699732226000,
+		"id_str": "1395781571752333318",
+		"full_text": "North America: Verified Fan registration is now open until 11:59pm PT on 5/23. Sign up for Verified Fan to get early access to tickets for Billie’s North American tour dates on 5/26 at 12pm local time. Public on-sale begins 5/28 at 12pm local time. https://t.co/6ozTjNIcxe https://t.co/AstVsjMZpw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6ozTjNIcxe",
+					"expanded_url": "https://verifiedfan.ticketmaster.com/billieeilish",
+					"display_url": "verifiedfan.ticketmaster.com/billieeilish",
+					"indices": [
+						249,
+						272
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1395766812785008600,
+					"id_str": "1395766812785008642",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/E17ChWlUYAIQpAK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E17ChWlUYAIQpAK.jpg",
+					"url": "https://t.co/AstVsjMZpw",
+					"display_url": "pic.twitter.com/AstVsjMZpw",
+					"expanded_url": "https://twitter.com/billieeilish/status/1395771699732226057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395766812785008600,
+					"id_str": "1395766812785008642",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/E17ChWlUYAIQpAK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E17ChWlUYAIQpAK.jpg",
+					"url": "https://t.co/AstVsjMZpw",
+					"display_url": "pic.twitter.com/AstVsjMZpw",
+					"expanded_url": "https://twitter.com/billieeilish/status/1395771699732226057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1395771693205889000,
+		"in_reply_to_status_id_str": "1395771693205889027",
+		"in_reply_to_user_id": 2150327072,
+		"in_reply_to_user_id_str": "2150327072",
+		"in_reply_to_screen_name": "billieeilish",
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "New album “Happier Than Ever” out July 30 https://t.co/DEGLgUC35l",
+			"url": "https://t.co/UybIbAW2j6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UybIbAW2j6",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DEGLgUC35l",
+							"expanded_url": "https://billieeilish.lnk.to/HappierThanEver",
+							"display_url": "billieeilish.lnk.to/HappierThanEver",
+							"indices": [
+								42,
+								65
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5934549,
+			"friends_count": 0,
+			"listed_count": 3804,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 681,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1387065127208247299/bni08CVZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387065127208247299/bni08CVZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1619536789",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 682,
+		"favorite_count": 6951,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "North America: Verified Fan registration is now open until 11:59pm PT on 5/23. Sign up for Verified Fan to get early access to tickets for Billie’s North American tour dates on 5/26 at 12pm local time. Public on-sale begins 5/28 at 12pm local time. https://t.co/6ozTjNIcxe https://t.co/AstVsjMZpw"
+	},
+	{
 		"created_at": "Fri May 21 15:45:18 +0000 2021",
 		"id": 1395759285666304000,
 		"id_str": "1395767667739348992",
