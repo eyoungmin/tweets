@@ -1,6 +1,497 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 22 03:45:24 +0000 2021",
+		"id": 1395937816991834000,
+		"id_str": "1395948886636720130",
+		"full_text": "에스파 세계관 흑막은 누구? 원더케이는 윈터 흑막설에 치킨 걸었음 | 에스파(aespa)_Next Level | 아이돌등판 | IDDP\n\n👉 https://t.co/divbH6fPVI\n\n#aespa #æspa #에스파\n#NextLevel https://t.co/A0hljpa1o7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						122,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/divbH6fPVI",
+					"expanded_url": "https://youtu.be/8rNmPbOTAis",
+					"display_url": "youtu.be/8rNmPbOTAis",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1395937431757607000,
+					"id_str": "1395937431757606913",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/E19dsryVUAEJszp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E19dsryVUAEJszp.jpg",
+					"url": "https://t.co/A0hljpa1o7",
+					"display_url": "pic.twitter.com/A0hljpa1o7",
+					"expanded_url": "https://twitter.com/aespa_official/status/1395937816991834124/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1447,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395937431757607000,
+					"id_str": "1395937431757606913",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/E19dsryVUAEJszp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E19dsryVUAEJszp.jpg",
+					"url": "https://t.co/A0hljpa1o7",
+					"display_url": "pic.twitter.com/A0hljpa1o7",
+					"expanded_url": "https://twitter.com/aespa_official/status/1395937816991834124/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1447,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 982845,
+			"friends_count": 1,
+			"listed_count": 3718,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7450,
+		"favorite_count": 20741,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에스파 세계관 흑막은 누구? 원더케이는 윈터 흑막설에 치킨 걸었음 | 에스파(aespa)_Next Level | 아이돌등판 | IDDP\n\n👉 https://t.co/divbH6fPVI\n\n#aespa #æspa #에스파\n#NextLevel https://t.co/A0hljpa1o7"
+	},
+	{
+		"created_at": "Sat May 22 03:45:24 +0000 2021",
+		"id": 1395942318067253200,
+		"id_str": "1395948886607351809",
+		"full_text": "조이 ‘그럴때마다‘ 리메이크, 따뜻한 울림 선사!\n 1996년 발표된 토이의 곡을 조이의 색깔로 리메이크! 피아노와 신스, 멜로디언 등 다채로운 건반 악기를 활용한 레트로 신스팝 장르의 곡으로 재해석!\n\n#JOY #조이 #안녕 #Hello #레드벨벳 #RedVelvet https://t.co/hpzkmYvjqz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JOY",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "안녕",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "Hello",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						140,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1395942196235305000,
+					"id_str": "1395942196235304962",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/E19iCA2VgAI8Xq_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E19iCA2VgAI8Xq_.jpg",
+					"url": "https://t.co/hpzkmYvjqz",
+					"display_url": "pic.twitter.com/hpzkmYvjqz",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1395942318067253249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 805,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1006,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395942196235305000,
+					"id_str": "1395942196235304962",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/E19iCA2VgAI8Xq_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E19iCA2VgAI8Xq_.jpg",
+					"url": "https://t.co/hpzkmYvjqz",
+					"display_url": "pic.twitter.com/hpzkmYvjqz",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1395942318067253249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 805,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1006,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1395942204074385400,
+					"id_str": "1395942204074385409",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/E19iCeDUYAEj4BF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E19iCeDUYAEj4BF.jpg",
+					"url": "https://t.co/hpzkmYvjqz",
+					"display_url": "pic.twitter.com/hpzkmYvjqz",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1395942318067253249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 872,
+							"h": 1300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 805,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1395942224458772500,
+					"id_str": "1395942224458772480",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/E19iDp_VcAAIIao.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E19iDp_VcAAIIao.jpg",
+					"url": "https://t.co/hpzkmYvjqz",
+					"display_url": "pic.twitter.com/hpzkmYvjqz",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1395942318067253249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 713,
+							"h": 950,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 713,
+							"h": 950,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/RiV4s6wute",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RiV4s6wute",
+							"expanded_url": "https://youtu.be/-Ih5UArd4zk",
+							"display_url": "youtu.be/-Ih5UArd4zk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4132991,
+			"friends_count": 1,
+			"listed_count": 8872,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1617375718",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4356,
+		"favorite_count": 13488,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "조이 ‘그럴때마다‘ 리메이크, 따뜻한 울림 선사!\n 1996년 발표된 토이의 곡을 조이의 색깔로 리메이크! 피아노와 신스, 멜로디언 등 다채로운 건반 악기를 활용한 레트로 신스팝 장르의 곡으로 재해석!\n\n#JOY #조이 #안녕 #Hello #레드벨벳 #RedVelvet https://t.co/hpzkmYvjqz"
+	},
+	{
 		"created_at": "Sat May 22 01:09:36 +0000 2021",
 		"id": 1395907970651754500,
 		"id_str": "1395909676034924546",
