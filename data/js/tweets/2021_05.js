@@ -1,6 +1,375 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sun May 23 06:54:58 +0000 2021",
+		"id": 1396345171919335400,
+		"id_str": "1396358981468049410",
+		"full_text": "#TAEMIN #태민\n#SHINee #샤이니\n#Advice\n#BEORIGINAL #STUDIOCHOOM https://t.co/pSNX9C81Pg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEMIN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						8,
+						11
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						12,
+						19
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "Advice",
+					"indices": [
+						25,
+						32
+					]
+				},
+				{
+					"text": "BEORIGINAL",
+					"indices": [
+						33,
+						44
+					]
+				},
+				{
+					"text": "STUDIOCHOOM",
+					"indices": [
+						45,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1396345161886535700,
+					"id_str": "1396345161886535680",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/E2DQhs4VEAATgy4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2DQhs4VEAATgy4.jpg",
+					"url": "https://t.co/pSNX9C81Pg",
+					"display_url": "pic.twitter.com/pSNX9C81Pg",
+					"expanded_url": "https://twitter.com/SHINee/status/1396345171919335424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1534,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1396345161886535700,
+					"id_str": "1396345161886535680",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/E2DQhs4VEAATgy4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2DQhs4VEAATgy4.jpg",
+					"url": "https://t.co/pSNX9C81Pg",
+					"display_url": "pic.twitter.com/pSNX9C81Pg",
+					"expanded_url": "https://twitter.com/SHINee/status/1396345171919335424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1534,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "TAEMIN - The 3rd Mini Album Advice",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1982313,
+			"friends_count": 2,
+			"listed_count": 4996,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1802,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1619967641",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6067,
+		"favorite_count": 15649,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#TAEMIN #태민\n#SHINee #샤이니\n#Advice\n#BEORIGINAL #STUDIOCHOOM https://t.co/pSNX9C81Pg"
+	},
+	{
+		"created_at": "Sun May 23 06:24:16 +0000 2021",
+		"id": 1396351251873468400,
+		"id_str": "1396351251873468418",
+		"full_text": "#놀라운토요일 #도레미마켓\n[#도레미띵곡] 소녀시대 노래에 서사 불어넣는 피오 ^//////^ 연애박사 도레미들의 소녀시대 받쓰│#놀라운토요일 Amazing Saturday\nhttps://t.co/5fw2xGlh2F\n#태연 #탱구 #TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "도레미마켓",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "도레미띵곡",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						72,
+						79
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "탱구",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						129,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5fw2xGlh2F",
+					"expanded_url": "https://www.youtube.com/watch?v=BXZwIGtHkvk",
+					"display_url": "youtube.com/watch?v=BXZwIG…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#놀라운토요일 #도레미마켓\n[#도레미띵곡] 소녀시대 노래에 서사 불어넣는 피오 ^//////^ 연애박사 도레미들의 소녀시대 받쓰│#놀라운토요일 Amazing Saturday\nhttps://t.co/5fw2xGlh2F\n#태연 #탱구 #TAEYEON"
+	},
+	{
 		"created_at": "Sun May 23 04:32:14 +0000 2021",
 		"id": 1396323059884232700,
 		"id_str": "1396323059884232709",
