@@ -1,6 +1,435 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sun May 23 03:45:40 +0000 2021",
+		"id": 1396305775820120000,
+		"id_str": "1396311341468585987",
+		"full_text": "조이 ‘Day By Day’ 리메이크, 감성 보컬 선사!\n여성 듀오 애즈원이 1999년 발표한 동명의 곡 리메이크! 감성을 자극하는 미디엄 템포의 R&amp;B 발라드 곡!\n\n#JOY #조이 #안녕 #Hello #레드벨벳 #RedVelvet https://t.co/igix4uJRMl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JOY",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "안녕",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "Hello",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						124,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1396305764881297400,
+					"id_str": "1396305764881297409",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/E2CssfmUcAE7mKr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2CssfmUcAE7mKr.jpg",
+					"url": "https://t.co/igix4uJRMl",
+					"display_url": "pic.twitter.com/igix4uJRMl",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1396305775820120069/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1275,
+							"h": 1700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1396305764881297400,
+					"id_str": "1396305764881297409",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/E2CssfmUcAE7mKr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2CssfmUcAE7mKr.jpg",
+					"url": "https://t.co/igix4uJRMl",
+					"display_url": "pic.twitter.com/igix4uJRMl",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1396305775820120069/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1275,
+							"h": 1700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1396305769587363800,
+					"id_str": "1396305769587363842",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/E2CssxIVUAIsIsw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2CssxIVUAIsIsw.jpg",
+					"url": "https://t.co/igix4uJRMl",
+					"display_url": "pic.twitter.com/igix4uJRMl",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1396305775820120069/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1700,
+							"h": 1140,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 805,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1396305772980555800,
+					"id_str": "1396305772980555781",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/E2Css9xVUAUjAdq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2Css9xVUAUjAdq.jpg",
+					"url": "https://t.co/igix4uJRMl",
+					"display_url": "pic.twitter.com/igix4uJRMl",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1396305775820120069/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 933,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/RiV4s6wute",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RiV4s6wute",
+							"expanded_url": "https://youtu.be/-Ih5UArd4zk",
+							"display_url": "youtu.be/-Ih5UArd4zk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4137126,
+			"friends_count": 1,
+			"listed_count": 8857,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1617375718",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4135,
+		"favorite_count": 12235,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "조이 ‘Day By Day’ 리메이크, 감성 보컬 선사!\n여성 듀오 애즈원이 1999년 발표한 동명의 곡 리메이크! 감성을 자극하는 미디엄 템포의 R&amp;B 발라드 곡!\n\n#JOY #조이 #안녕 #Hello #레드벨벳 #RedVelvet https://t.co/igix4uJRMl"
+	},
+	{
+		"created_at": "Sun May 23 03:45:40 +0000 2021",
+		"id": 1396305777879511000,
+		"id_str": "1396311341233631232",
+		"full_text": "JOY to show off her sentimental vocal in her upcoming new album’s B-side track ‘Day By Day’!\nAn emotional medium tempo R&amp;B ballad remake of the 1999 song by female duo ‘As One’!\n\n#JOY #조이 #안녕 #Hello #레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JOY",
+					"indices": [
+						183,
+						187
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						188,
+						191
+					]
+				},
+				{
+					"text": "안녕",
+					"indices": [
+						192,
+						195
+					]
+				},
+				{
+					"text": "Hello",
+					"indices": [
+						196,
+						202
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						203,
+						208
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						209,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1396305775820120000,
+		"in_reply_to_status_id_str": "1396305775820120069",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/RiV4s6wute",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RiV4s6wute",
+							"expanded_url": "https://youtu.be/-Ih5UArd4zk",
+							"display_url": "youtu.be/-Ih5UArd4zk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4137126,
+			"friends_count": 1,
+			"listed_count": 8857,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1617375718",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1378,
+		"favorite_count": 4379,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "JOY to show off her sentimental vocal in her upcoming new album’s B-side track ‘Day By Day’!\nAn emotional medium tempo R&amp;B ballad remake of the 1999 song by female duo ‘As One’!\n\n#JOY #조이 #안녕 #Hello #레드벨벳 #RedVelvet"
+	},
+	{
 		"created_at": "Sun May 23 02:17:52 +0000 2021",
 		"id": 1396281133252300800,
 		"id_str": "1396289246185410562",
