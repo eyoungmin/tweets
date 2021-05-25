@@ -1,6 +1,512 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 25 06:55:37 +0000 2021",
+		"id": 1397072251334262800,
+		"id_str": "1397083919149764609",
+		"full_text": "Thank You 🖤🤍 @SpotifyKR\n \n🎵 https://t.co/AltK1YdygH \n \n#TAEMIN #태민\n#SHINee #샤이니\n#Advice\n@SpotifyKDaebak https://t.co/ccSNv4jyTk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEMIN",
+					"indices": [
+						55,
+						62
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						67,
+						74
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "Advice",
+					"indices": [
+						80,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "SpotifyKDaebak",
+					"name": "Spotify ❤️ K-Pop",
+					"id": 978459450871697400,
+					"id_str": "978459450871697408",
+					"indices": [
+						88,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AltK1YdygH",
+					"expanded_url": "http://spoti.fi/TAEMIN-Advice",
+					"display_url": "spoti.fi/TAEMIN-Advice",
+					"indices": [
+						28,
+						51
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1397072185521414100,
+					"id_str": "1397072185521414147",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E2NlwC-VIAMV7Xn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2NlwC-VIAMV7Xn.jpg",
+					"url": "https://t.co/ccSNv4jyTk",
+					"display_url": "pic.twitter.com/ccSNv4jyTk",
+					"expanded_url": "https://twitter.com/SHINee/status/1397072251334262786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1147,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 672,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1397072185521414100,
+					"id_str": "1397072185521414147",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E2NlwC-VIAMV7Xn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2NlwC-VIAMV7Xn.jpg",
+					"url": "https://t.co/ccSNv4jyTk",
+					"display_url": "pic.twitter.com/ccSNv4jyTk",
+					"expanded_url": "https://twitter.com/SHINee/status/1397072251334262786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1147,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 672,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "TAEMIN - The 3rd Mini Album Advice",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1988671,
+			"friends_count": 2,
+			"listed_count": 5018,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1619967641",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4253,
+		"favorite_count": 11284,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank You 🖤🤍 @SpotifyKR\n \n🎵 https://t.co/AltK1YdygH \n \n#TAEMIN #태민\n#SHINee #샤이니\n#Advice\n@SpotifyKDaebak https://t.co/ccSNv4jyTk"
+	},
+	{
+		"created_at": "Tue May 25 06:46:17 +0000 2021",
+		"id": 1397075150269386800,
+		"id_str": "1397081569899122691",
+		"full_text": "Check out 💛 슬기 zip 💛 via Naver NOW!\n\nhttps://t.co/mcCRt82h9Y\n\n📺 Every Tue &amp; Thu 10 PM KST\n\n#슬기 #SEULGI #NaverNOW  #SEULGIzip #레드벨벳 #RedVelvet https://t.co/H6ZT2RcXml",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "NaverNOW",
+					"indices": [
+						107,
+						116
+					]
+				},
+				{
+					"text": "SEULGIzip",
+					"indices": [
+						118,
+						128
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						135,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mcCRt82h9Y",
+					"expanded_url": "http://naver.me/GBfKR3qw",
+					"display_url": "naver.me/GBfKR3qw",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1397075136046538800,
+					"id_str": "1397075136046538753",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/E2NobyiVoAEUCJf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2NobyiVoAEUCJf.jpg",
+					"url": "https://t.co/H6ZT2RcXml",
+					"display_url": "pic.twitter.com/H6ZT2RcXml",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1397075150269386753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1397075136046538800,
+					"id_str": "1397075136046538753",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/E2NobyiVoAEUCJf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2NobyiVoAEUCJf.jpg",
+					"url": "https://t.co/H6ZT2RcXml",
+					"display_url": "pic.twitter.com/H6ZT2RcXml",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1397075150269386753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1397075145861202000,
+					"id_str": "1397075145861201924",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/E2NocXGVgAQHFCv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2NocXGVgAQHFCv.jpg",
+					"url": "https://t.co/H6ZT2RcXml",
+					"display_url": "pic.twitter.com/H6ZT2RcXml",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1397075150269386753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/RiV4s6wute",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RiV4s6wute",
+							"expanded_url": "https://youtu.be/-Ih5UArd4zk",
+							"display_url": "youtu.be/-Ih5UArd4zk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4146880,
+			"friends_count": 1,
+			"listed_count": 8882,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1869,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1617375718",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4700,
+		"favorite_count": 12778,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out 💛 슬기 zip 💛 via Naver NOW!\n\nhttps://t.co/mcCRt82h9Y\n\n📺 Every Tue &amp; Thu 10 PM KST\n\n#슬기 #SEULGI #NaverNOW  #SEULGIzip #레드벨벳 #RedVelvet https://t.co/H6ZT2RcXml"
+	},
+	{
 		"created_at": "Tue May 25 05:18:19 +0000 2021",
 		"id": 1397059433029644300,
 		"id_str": "1397059433029644289",
