@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 25 07:16:15 +0000 2021",
+		"id": 1397087632803336200,
+		"id_str": "1397089110796345344",
+		"full_text": "[#예술경영 웹진 : 기획특집①] \n&lt;예술인 표준사례비 지급이 마주한 세 가지 쟁점&gt;\n\n465호 기획특집① 더보기👇👇👇\nhttps://t.co/10p18dObl3\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/WthAph2Peo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						108,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/10p18dObl3",
+					"expanded_url": "https://bit.ly/3oNcFqZ",
+					"display_url": "bit.ly/3oNcFqZ",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1397087625350049800,
+					"id_str": "1397087625350049799",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E2Nzyw0VcAcDIby.png",
+					"media_url_https": "https://pbs.twimg.com/media/E2Nzyw0VcAcDIby.png",
+					"url": "https://t.co/WthAph2Peo",
+					"display_url": "pic.twitter.com/WthAph2Peo",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1397087632803336192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 263,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 815,
+							"h": 315,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 815,
+							"h": 315,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1397087625350049800,
+					"id_str": "1397087625350049799",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E2Nzyw0VcAcDIby.png",
+					"media_url_https": "https://pbs.twimg.com/media/E2Nzyw0VcAcDIby.png",
+					"url": "https://t.co/WthAph2Peo",
+					"display_url": "pic.twitter.com/WthAph2Peo",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1397087632803336192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 263,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 815,
+							"h": 315,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 815,
+							"h": 315,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6986,
+			"friends_count": 2955,
+			"listed_count": 101,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2746,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예술경영 웹진 : 기획특집①] \n&lt;예술인 표준사례비 지급이 마주한 세 가지 쟁점&gt;\n\n465호 기획특집① 더보기👇👇👇\nhttps://t.co/10p18dObl3\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/WthAph2Peo"
+	},
+	{
 		"created_at": "Tue May 25 06:55:37 +0000 2021",
 		"id": 1397072251334262800,
 		"id_str": "1397083919149764609",
