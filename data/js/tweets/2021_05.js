@@ -1,6 +1,812 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 25 04:42:18 +0000 2021",
+		"id": 1397050368631136300,
+		"id_str": "1397050368631136256",
+		"full_text": "#TED_Talks #한국어자막\n삶은 개구리의 \"오해\" (Korean) by. TED-Ed (Feb 2021)\nhttps://t.co/e6t3qaVFFd\n#TED #테드 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TED_Talks",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "한국어자막",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"text": "TED",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "테드",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						95,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e6t3qaVFFd",
+					"expanded_url": "https://www.ted.com/talks/ted_ed_the_myth_of_the_boiling_frog?language=ko",
+					"display_url": "ted.com/talks/ted_ed_t…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44977,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80636,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#TED_Talks #한국어자막\n삶은 개구리의 \"오해\" (Korean) by. TED-Ed (Feb 2021)\nhttps://t.co/e6t3qaVFFd\n#TED #테드 #minfav"
+	},
+	{
+		"created_at": "Tue May 25 04:18:20 +0000 2021",
+		"id": 1397038494887731200,
+		"id_str": "1397044338241142791",
+		"full_text": "자우림 단독 콘서트\n［ 잎새에 적은 노래 안단테 드라마티코 ］\n\n티켓오픈 : 2021년 5월 25일(화) 오후 2시\n예매처 : 인터파크 티켓\nhttps://t.co/Z2qKDmtQ5F \n\n공연일시 : \n2021년 6월 18일(금) 오후 8시\n2021년 6월 19일(토) 오후 6시\n2021년 6월 20일(일) 오후 5시\n공연장소 : 올림픽공원 올림픽홀 https://t.co/fQ90gv774L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z2qKDmtQ5F",
+					"expanded_url": "https://bit.ly/34fEXB2",
+					"display_url": "bit.ly/34fEXB2",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1397038480350351400,
+					"id_str": "1397038480350351361",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/E2NHGJbVkAEMz01.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2NHGJbVkAEMz01.jpg",
+					"url": "https://t.co/fQ90gv774L",
+					"display_url": "pic.twitter.com/fQ90gv774L",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1397038494887731202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1397038480350351400,
+					"id_str": "1397038480350351361",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/E2NHGJbVkAEMz01.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2NHGJbVkAEMz01.jpg",
+					"url": "https://t.co/fQ90gv774L",
+					"display_url": "pic.twitter.com/fQ90gv774L",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1397038494887731202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1397038480350343200,
+					"id_str": "1397038480350343168",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/E2NHGJbVcAAYbD4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2NHGJbVcAAYbD4.jpg",
+					"url": "https://t.co/fQ90gv774L",
+					"display_url": "pic.twitter.com/fQ90gv774L",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1397038494887731202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1397038480950132700,
+					"id_str": "1397038480950132743",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/E2NHGLqVgAc_1bQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2NHGLqVgAc_1bQ.jpg",
+					"url": "https://t.co/fQ90gv774L",
+					"display_url": "pic.twitter.com/fQ90gv774L",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1397038494887731202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다.",
+			"url": "https://t.co/2yuztZbWXE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2yuztZbWXE",
+							"expanded_url": "https://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2511,
+			"friends_count": 5,
+			"listed_count": 16,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 183,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1329777706788024321/xZ2o7aMR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329777706788024321/xZ2o7aMR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1605878686",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자우림 단독 콘서트\n［ 잎새에 적은 노래 안단테 드라마티코 ］\n\n티켓오픈 : 2021년 5월 25일(화) 오후 2시\n예매처 : 인터파크 티켓\nhttps://t.co/Z2qKDmtQ5F \n\n공연일시 : \n2021년 6월 18일(금) 오후 8시\n2021년 6월 19일(토) 오후 6시\n2021년 6월 20일(일) 오후 5시\n공연장소 : 올림픽공원 올림픽홀 https://t.co/fQ90gv774L"
+	},
+	{
+		"created_at": "Tue May 25 04:18:20 +0000 2021",
+		"id": 1397038582255145000,
+		"id_str": "1397044338228535296",
+		"full_text": "https://t.co/j1BRkQQaI5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1397038572402724900,
+					"id_str": "1397038572402724868",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E2NHLgWVUAQKw9L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2NHLgWVUAQKw9L.jpg",
+					"url": "https://t.co/j1BRkQQaI5",
+					"display_url": "pic.twitter.com/j1BRkQQaI5",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1397038582255144963/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2046,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1397038572402724900,
+					"id_str": "1397038572402724868",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E2NHLgWVUAQKw9L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2NHLgWVUAQKw9L.jpg",
+					"url": "https://t.co/j1BRkQQaI5",
+					"display_url": "pic.twitter.com/j1BRkQQaI5",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1397038582255144963/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2046,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1397038572385935400,
+					"id_str": "1397038572385935360",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E2NHLgSVIAADY-j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2NHLgSVIAADY-j.jpg",
+					"url": "https://t.co/j1BRkQQaI5",
+					"display_url": "pic.twitter.com/j1BRkQQaI5",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1397038582255144963/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다.",
+			"url": "https://t.co/2yuztZbWXE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2yuztZbWXE",
+							"expanded_url": "https://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2511,
+			"friends_count": 5,
+			"listed_count": 16,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 183,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1329777706788024321/xZ2o7aMR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329777706788024321/xZ2o7aMR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1605878686",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/j1BRkQQaI5"
+	},
+	{
+		"created_at": "Tue May 25 04:13:32 +0000 2021",
+		"id": 1397043128318763000,
+		"id_str": "1397043128318763008",
+		"full_text": "#SMTOWN #Artist_News\n에스파 ‘Next Level’, 두 번째 퍼포먼스 스테이지 오늘 오후 6시 공개!\nhttps://t.co/wLNHtgf6ed\n#에스파 #aespa #æspa https://t.co/cb0JePuMeB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						103,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wLNHtgf6ed",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5025",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1397043126682914800,
+					"id_str": "1397043126682914817",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/E2NLUmXWEAEQ_q6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2NLUmXWEAEQ_q6.jpg",
+					"url": "https://t.co/cb0JePuMeB",
+					"display_url": "pic.twitter.com/cb0JePuMeB",
+					"expanded_url": "https://twitter.com/fromminn/status/1397043128318763008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1397043126682914800,
+					"id_str": "1397043126682914817",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/E2NLUmXWEAEQ_q6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2NLUmXWEAEQ_q6.jpg",
+					"url": "https://t.co/cb0JePuMeB",
+					"display_url": "pic.twitter.com/cb0JePuMeB",
+					"expanded_url": "https://twitter.com/fromminn/status/1397043128318763008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44977,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80636,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n에스파 ‘Next Level’, 두 번째 퍼포먼스 스테이지 오늘 오후 6시 공개!\nhttps://t.co/wLNHtgf6ed\n#에스파 #aespa #æspa https://t.co/cb0JePuMeB"
+	},
+	{
 		"created_at": "Tue May 25 03:55:34 +0000 2021",
 		"id": 1397025375033593900,
 		"id_str": "1397038605890113537",
