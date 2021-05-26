@@ -1,6 +1,435 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Wed May 26 03:46:30 +0000 2021",
+		"id": 1397390246686314500,
+		"id_str": "1397398714914775042",
+		"full_text": "조이 스페셜 앨범 수록곡 ‘Je T'aime’ 오늘 오후 6시 음원+라이브 클립 공개!\n스페셜 앨범 ‘안녕 (Hello)’ 전곡 5월 31일 공개!\n\n#JOY #조이 #안녕 #Hello #레드벨벳 #RedVelvet https://t.co/QEjHLlKwZ9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JOY",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "안녕",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "Hello",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						110,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1397390236754137000,
+					"id_str": "1397390236754137090",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/E2SHBEJUUAISmcZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2SHBEJUUAISmcZ.jpg",
+					"url": "https://t.co/QEjHLlKwZ9",
+					"display_url": "pic.twitter.com/QEjHLlKwZ9",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1397390246686314505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1397390236754137000,
+					"id_str": "1397390236754137090",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/E2SHBEJUUAISmcZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2SHBEJUUAISmcZ.jpg",
+					"url": "https://t.co/QEjHLlKwZ9",
+					"display_url": "pic.twitter.com/QEjHLlKwZ9",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1397390246686314505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1397390236741619700,
+					"id_str": "1397390236741619712",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/E2SHBEGVUAAKikh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2SHBEGVUAAKikh.jpg",
+					"url": "https://t.co/QEjHLlKwZ9",
+					"display_url": "pic.twitter.com/QEjHLlKwZ9",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1397390246686314505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 805,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 872,
+							"h": 1300,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1397390236754219000,
+					"id_str": "1397390236754219008",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/E2SHBEJVkAAqiBl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2SHBEJVkAAqiBl.jpg",
+					"url": "https://t.co/QEjHLlKwZ9",
+					"display_url": "pic.twitter.com/QEjHLlKwZ9",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1397390246686314505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1006,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 805,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/RiV4s6wute",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RiV4s6wute",
+							"expanded_url": "https://youtu.be/-Ih5UArd4zk",
+							"display_url": "youtu.be/-Ih5UArd4zk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4150387,
+			"friends_count": 1,
+			"listed_count": 8914,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1617375718",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4749,
+		"favorite_count": 14133,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "조이 스페셜 앨범 수록곡 ‘Je T'aime’ 오늘 오후 6시 음원+라이브 클립 공개!\n스페셜 앨범 ‘안녕 (Hello)’ 전곡 5월 31일 공개!\n\n#JOY #조이 #안녕 #Hello #레드벨벳 #RedVelvet https://t.co/QEjHLlKwZ9"
+	},
+	{
+		"created_at": "Wed May 26 03:46:30 +0000 2021",
+		"id": 1397390249563619300,
+		"id_str": "1397398713769730052",
+		"full_text": "JOY’s special album B-side track ‘Je T'aime’ and its live clip to be released today at 6PM KST!\nAll tracks of JOY’s special album ‘안녕 (Hello)’ to be released on 5/31!\n\n#JOY #조이 #안녕 #Hello #레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JOY",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						173,
+						176
+					]
+				},
+				{
+					"text": "안녕",
+					"indices": [
+						177,
+						180
+					]
+				},
+				{
+					"text": "Hello",
+					"indices": [
+						181,
+						187
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						188,
+						193
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						194,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1397390246686314500,
+		"in_reply_to_status_id_str": "1397390246686314505",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/RiV4s6wute",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RiV4s6wute",
+							"expanded_url": "https://youtu.be/-Ih5UArd4zk",
+							"display_url": "youtu.be/-Ih5UArd4zk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4150387,
+			"friends_count": 1,
+			"listed_count": 8914,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1617375718",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1627,
+		"favorite_count": 4618,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "JOY’s special album B-side track ‘Je T'aime’ and its live clip to be released today at 6PM KST!\nAll tracks of JOY’s special album ‘안녕 (Hello)’ to be released on 5/31!\n\n#JOY #조이 #안녕 #Hello #레드벨벳 #RedVelvet"
+	},
+	{
 		"created_at": "Wed May 26 02:54:18 +0000 2021",
 		"id": 1397385576744165400,
 		"id_str": "1397385576744165377",
