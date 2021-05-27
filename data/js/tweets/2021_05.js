@@ -1,6 +1,580 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 27 04:42:22 +0000 2021",
+		"id": 1397775160854331400,
+		"id_str": "1397775160854331394",
+		"full_text": "#TED_Talks #한국어자막\n깨어있으면서 동시에 잘 수 있을까요? - 마사코 타마키 (Korean) by. Masako Tamaki (May 2021)\nhttps://t.co/EtALB7Ex46\n#TED #테드 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TED_Talks",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "한국어자막",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"text": "TED",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "테드",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						120,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EtALB7Ex46",
+					"expanded_url": "https://www.ted.com/talks/masako_tamaki_can_you_be_awake_and_asleep_at_the_same_time?language=ko",
+					"display_url": "ted.com/talks/masako_t…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44976,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#TED_Talks #한국어자막\n깨어있으면서 동시에 잘 수 있을까요? - 마사코 타마키 (Korean) by. Masako Tamaki (May 2021)\nhttps://t.co/EtALB7Ex46\n#TED #테드 #minfav"
+	},
+	{
+		"created_at": "Thu May 27 04:38:22 +0000 2021",
+		"id": 1397774154082947000,
+		"id_str": "1397774154082947075",
+		"full_text": "#SMTOWN #Artist_News\n에스파 ‘Next Level’, 음악 방송 출격! 28일 ‘뮤직뱅크’ 출연!\nhttps://t.co/tAsb0C9WFz\n#에스파 #aespa #æspa https://t.co/VupQ8Gj170",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						100,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tAsb0C9WFz",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5036",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1397774153059651600,
+					"id_str": "1397774153059651585",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/E2XkL71X0AEZp57.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2XkL71X0AEZp57.jpg",
+					"url": "https://t.co/VupQ8Gj170",
+					"display_url": "pic.twitter.com/VupQ8Gj170",
+					"expanded_url": "https://twitter.com/fromminn/status/1397774154082947075/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1397774153059651600,
+					"id_str": "1397774153059651585",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/E2XkL71X0AEZp57.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2XkL71X0AEZp57.jpg",
+					"url": "https://t.co/VupQ8Gj170",
+					"display_url": "pic.twitter.com/VupQ8Gj170",
+					"expanded_url": "https://twitter.com/fromminn/status/1397774154082947075/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44976,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News\n에스파 ‘Next Level’, 음악 방송 출격! 28일 ‘뮤직뱅크’ 출연!\nhttps://t.co/tAsb0C9WFz\n#에스파 #aespa #æspa https://t.co/VupQ8Gj170"
+	},
+	{
+		"created_at": "Thu May 27 04:17:51 +0000 2021",
+		"id": 1397758780893323300,
+		"id_str": "1397768992157102080",
+		"full_text": "📍&lt;티켓오픈&gt; 5월 27일 목요일 오후 8시\n\n‘청춘의 밤’ 에서 기다릴게요\n\n🍈멜론티켓 \n@mondayprojectkr \n\n#사비나앤드론즈 #먼데이프로젝트 #청춘의밤 #공연 #티켓 #예매 #멜론티켓 https://t.co/6KVPatAAYJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사비나앤드론즈",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "먼데이프로젝트",
+					"indices": [
+						85,
+						93
+					]
+				},
+				{
+					"text": "청춘의밤",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "티켓",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "예매",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						112,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MondayProjectKR",
+					"name": "먼데이프로젝트",
+					"id": 2983652137,
+					"id_str": "2983652137",
+					"indices": [
+						57,
+						73
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1397758770449580000,
+					"id_str": "1397758770449580042",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E2XWMjJVgAoScrI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2XWMjJVgAoScrI.jpg",
+					"url": "https://t.co/6KVPatAAYJ",
+					"display_url": "pic.twitter.com/6KVPatAAYJ",
+					"expanded_url": "https://twitter.com/savina0128/status/1397758780893323267/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 416,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 416,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1397758770449580000,
+					"id_str": "1397758770449580042",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E2XWMjJVgAoScrI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2XWMjJVgAoScrI.jpg",
+					"url": "https://t.co/6KVPatAAYJ",
+					"display_url": "pic.twitter.com/6KVPatAAYJ",
+					"expanded_url": "https://twitter.com/savina0128/status/1397758780893323267/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 416,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 416,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나 SAVINA",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "사비나앤드론즈 SAVINA & DRONES Musician",
+			"url": "https://t.co/HUiR4zmWAI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HUiR4zmWAI",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1317,
+			"friends_count": 244,
+			"listed_count": 33,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2060,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📍&lt;티켓오픈&gt; 5월 27일 목요일 오후 8시\n\n‘청춘의 밤’ 에서 기다릴게요\n\n🍈멜론티켓 \n@mondayprojectkr \n\n#사비나앤드론즈 #먼데이프로젝트 #청춘의밤 #공연 #티켓 #예매 #멜론티켓 https://t.co/6KVPatAAYJ"
+	},
+	{
 		"created_at": "Thu May 27 03:19:09 +0000 2021",
 		"id": 1397754218316959700,
 		"id_str": "1397754218316959744",
