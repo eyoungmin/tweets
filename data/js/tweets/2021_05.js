@@ -1,6 +1,748 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 27 02:46:45 +0000 2021",
+		"id": 1397742677592928300,
+		"id_str": "1397746066171170818",
+		"full_text": "조이, 솔로 데뷔 카운트다운 생방송 ‘안녕! 난 너의 JOY야’ 31일 오후 5시 진행!\n네이버 V LIVE 및 유튜브 레드벨벳 채널 통해 생방송!\n\n#JOY #조이 #안녕 #Hello #레드벨벳 #RedVelvet https://t.co/wnuR2qMPXZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JOY",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "안녕",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "Hello",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						110,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1397742668201922600,
+					"id_str": "1397742668201922560",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/E2XHjRmVEAAmQyC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2XHjRmVEAAmQyC.jpg",
+					"url": "https://t.co/wnuR2qMPXZ",
+					"display_url": "pic.twitter.com/wnuR2qMPXZ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1397742677592928261/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1134,
+							"h": 1700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1397742668201922600,
+					"id_str": "1397742668201922560",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/E2XHjRmVEAAmQyC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2XHjRmVEAAmQyC.jpg",
+					"url": "https://t.co/wnuR2qMPXZ",
+					"display_url": "pic.twitter.com/wnuR2qMPXZ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1397742677592928261/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1134,
+							"h": 1700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1397742668201922600,
+					"id_str": "1397742668201922562",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/E2XHjRmVEAImdp5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2XHjRmVEAImdp5.jpg",
+					"url": "https://t.co/wnuR2qMPXZ",
+					"display_url": "pic.twitter.com/wnuR2qMPXZ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1397742677592928261/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/RiV4s6wute",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RiV4s6wute",
+							"expanded_url": "https://youtu.be/-Ih5UArd4zk",
+							"display_url": "youtu.be/-Ih5UArd4zk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4154905,
+			"friends_count": 1,
+			"listed_count": 8905,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1622019868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3271,
+		"favorite_count": 10245,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "조이, 솔로 데뷔 카운트다운 생방송 ‘안녕! 난 너의 JOY야’ 31일 오후 5시 진행!\n네이버 V LIVE 및 유튜브 레드벨벳 채널 통해 생방송!\n\n#JOY #조이 #안녕 #Hello #레드벨벳 #RedVelvet https://t.co/wnuR2qMPXZ"
+	},
+	{
+		"created_at": "Thu May 27 02:46:45 +0000 2021",
+		"id": 1397742680025682000,
+		"id_str": "1397746065722413057",
+		"full_text": "JOY’s solo debut countdown live ‘Hello! I'm Your JOY!’ to be aired on 5/31 at 5PM KST!\nTo be livestreamed on Red Velvet’s NAVER V LIVE and YouTube channel!\n\n#JOY #조이 #안녕 #Hello #레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JOY",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						162,
+						165
+					]
+				},
+				{
+					"text": "안녕",
+					"indices": [
+						166,
+						169
+					]
+				},
+				{
+					"text": "Hello",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						177,
+						182
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						183,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1397742677592928300,
+		"in_reply_to_status_id_str": "1397742677592928261",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/RiV4s6wute",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RiV4s6wute",
+							"expanded_url": "https://youtu.be/-Ih5UArd4zk",
+							"display_url": "youtu.be/-Ih5UArd4zk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4154905,
+			"friends_count": 1,
+			"listed_count": 8905,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1622019868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1024,
+		"favorite_count": 3361,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "JOY’s solo debut countdown live ‘Hello! I'm Your JOY!’ to be aired on 5/31 at 5PM KST!\nTo be livestreamed on Red Velvet’s NAVER V LIVE and YouTube channel!\n\n#JOY #조이 #안녕 #Hello #레드벨벳 #RedVelvet"
+	},
+	{
+		"created_at": "Thu May 27 02:46:45 +0000 2021",
+		"id": 1397745790236254200,
+		"id_str": "1397746065680437249",
+		"full_text": "에스파 ‘Next Level’, 음악 방송 출격! 28일 ‘뮤직뱅크’ 출연!\n오늘 오후 6시 세 번째 퍼포먼스 스테이지 공개!\n\naespa to appear on ‘Music Bank’ on 5/28!\nThird Performance Stage to be released today at 6PM KST!\n\n#aespa #æspa #에스파\n#NextLevel",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						171,
+						177
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						178,
+						183
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						184,
+						188
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						189,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1008282,
+			"friends_count": 1,
+			"listed_count": 3836,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 618,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2725,
+		"favorite_count": 8108,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "에스파 ‘Next Level’, 음악 방송 출격! 28일 ‘뮤직뱅크’ 출연!\n오늘 오후 6시 세 번째 퍼포먼스 스테이지 공개!\n\naespa to appear on ‘Music Bank’ on 5/28!\nThird Performance Stage to be released today at 6PM KST!\n\n#aespa #æspa #에스파\n#NextLevel"
+	},
+	{
+		"created_at": "Thu May 27 02:17:50 +0000 2021",
+		"id": 1397727971679510500,
+		"id_str": "1397738789448011778",
+		"full_text": "Billie Eilish - \"Your Power\"\nListen now on @AppleMusic's Today's Hits playlist. https://t.co/isg270ANHF https://t.co/TOpsJ7tfZz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						43,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/isg270ANHF",
+					"expanded_url": "https://BillieEilish.lnk.to/TodaysHits",
+					"display_url": "BillieEilish.lnk.to/TodaysHits",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1397726936126746600,
+					"id_str": "1397726936126746624",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1397726936126746624/pu/img/C_2QUepfa_nrrVtd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1397726936126746624/pu/img/C_2QUepfa_nrrVtd.jpg",
+					"url": "https://t.co/TOpsJ7tfZz",
+					"display_url": "pic.twitter.com/TOpsJ7tfZz",
+					"expanded_url": "https://twitter.com/billieeilish/status/1397727971679510528/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1397726936126746600,
+					"id_str": "1397726936126746624",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1397726936126746624/pu/img/C_2QUepfa_nrrVtd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1397726936126746624/pu/img/C_2QUepfa_nrrVtd.jpg",
+					"url": "https://t.co/TOpsJ7tfZz",
+					"display_url": "pic.twitter.com/TOpsJ7tfZz",
+					"expanded_url": "https://twitter.com/billieeilish/status/1397727971679510528/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 10000,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1397726936126746624/pu/vid/720x720/ZuBlmyZfJpukv8XV.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1397726936126746624/pu/pl/PhZb4aGsOczy-wrI.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1397726936126746624/pu/vid/320x320/6NVfgqBF8no3d237.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1397726936126746624/pu/vid/540x540/cCzYt6yb2jSIC1WX.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "New album “Happier Than Ever” out July 30 https://t.co/DEGLgUC35l",
+			"url": "https://t.co/UybIbAW2j6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UybIbAW2j6",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DEGLgUC35l",
+							"expanded_url": "https://billieeilish.lnk.to/HappierThanEver",
+							"display_url": "billieeilish.lnk.to/HappierThanEver",
+							"indices": [
+								42,
+								65
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5957687,
+			"friends_count": 0,
+			"listed_count": 3811,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1387065127208247299/bni08CVZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387065127208247299/bni08CVZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1619536789",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1055,
+		"favorite_count": 10659,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Billie Eilish - \"Your Power\"\nListen now on @AppleMusic's Today's Hits playlist. https://t.co/isg270ANHF https://t.co/TOpsJ7tfZz"
+	},
+	{
 		"created_at": "Wed May 26 23:38:13 +0000 2021",
 		"id": 1397698617994092500,
 		"id_str": "1397698617994092547",
