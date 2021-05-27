@@ -1,6 +1,359 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 27 10:42:30 +0000 2021",
+		"id": 1397865793015140400,
+		"id_str": "1397865793015140353",
+		"full_text": "#TED_Talks #한국어자막\n편두통의 원인은 무엇일까요? (Korean) by. Marianne Schwarz (May 2021)\nhttps://t.co/hxdR4bucBi\n#TED #테드 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TED_Talks",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "한국어자막",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"text": "TED",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "테드",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						108,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hxdR4bucBi",
+					"expanded_url": "https://www.ted.com/talks/marianne_schwarz_what_causes_migraines?language=ko",
+					"display_url": "ted.com/talks/marianne…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44976,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80724,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#TED_Talks #한국어자막\n편두통의 원인은 무엇일까요? (Korean) by. Marianne Schwarz (May 2021)\nhttps://t.co/hxdR4bucBi\n#TED #테드 #minfav"
+	},
+	{
+		"created_at": "Thu May 27 10:16:45 +0000 2021",
+		"id": 1397844366018764800,
+		"id_str": "1397859309837422592",
+		"full_text": "[#예술경영 웹진 제466호] 발행했습니다🥰\n\n&lt;제도 안팎을 넘나드는 거버넌스 실험&gt; \n\n아래 링크를 통해 바로 확인하세요 :)\n\n웹진[예술경영] 보러가기 👇👇👇\n웹) https://t.co/nnJOswx4up\n모바일)https://t.co/ot3uNW18eC\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/eu1uhaImHq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						159,
+						162
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						163,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nnJOswx4up",
+					"expanded_url": "http://www.gokams.or.kr/webzine/",
+					"display_url": "gokams.or.kr/webzine/",
+					"indices": [
+						100,
+						123
+					]
+				},
+				{
+					"url": "https://t.co/ot3uNW18eC",
+					"expanded_url": "http://www.gokams.or.kr/webzine/mobile/",
+					"display_url": "gokams.or.kr/webzine/mobile/",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1397844338097361000,
+					"id_str": "1397844338097360903",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/E2YkBPeVkAcveud.png",
+					"media_url_https": "https://pbs.twimg.com/media/E2YkBPeVkAcveud.png",
+					"url": "https://t.co/eu1uhaImHq",
+					"display_url": "pic.twitter.com/eu1uhaImHq",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1397844366018764802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 694,
+							"h": 434,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 694,
+							"h": 434,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1397844338097361000,
+					"id_str": "1397844338097360903",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/E2YkBPeVkAcveud.png",
+					"media_url_https": "https://pbs.twimg.com/media/E2YkBPeVkAcveud.png",
+					"url": "https://t.co/eu1uhaImHq",
+					"display_url": "pic.twitter.com/eu1uhaImHq",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1397844366018764802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 694,
+							"h": 434,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 694,
+							"h": 434,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6982,
+			"friends_count": 2955,
+			"listed_count": 101,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예술경영 웹진 제466호] 발행했습니다🥰\n\n&lt;제도 안팎을 넘나드는 거버넌스 실험&gt; \n\n아래 링크를 통해 바로 확인하세요 :)\n\n웹진[예술경영] 보러가기 👇👇👇\n웹) https://t.co/nnJOswx4up\n모바일)https://t.co/ot3uNW18eC\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/eu1uhaImHq"
+	},
+	{
 		"created_at": "Thu May 27 10:00:35 +0000 2021",
 		"id": 1397855241551364000,
 		"id_str": "1397855241551364098",
