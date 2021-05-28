@@ -1,6 +1,607 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 28 10:00:44 +0000 2021",
+		"id": 1398217669262909400,
+		"id_str": "1398217669262909441",
+		"full_text": "#청하 #CHUNGHA\n[청하] ❣️\nhttps://t.co/B7Ec2raWmn\n#다음팬카페 #공식팬카페 #From https://t.co/8VxABFobwF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "다음팬카페",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "From",
+					"indices": [
+						59,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B7Ec2raWmn",
+					"expanded_url": "https://cafe.daum.net/MNH-Chungha/g3oh/200",
+					"display_url": "cafe.daum.net/MNH-Chungha/g3…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1398217667744514000,
+					"id_str": "1398217667744514051",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/E2d3j4yWQAMvRKR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2d3j4yWQAMvRKR.jpg",
+					"url": "https://t.co/8VxABFobwF",
+					"display_url": "pic.twitter.com/8VxABFobwF",
+					"expanded_url": "https://twitter.com/fromminn/status/1398217669262909441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1398217667744514000,
+					"id_str": "1398217667744514051",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/E2d3j4yWQAMvRKR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2d3j4yWQAMvRKR.jpg",
+					"url": "https://t.co/8VxABFobwF",
+					"display_url": "pic.twitter.com/8VxABFobwF",
+					"expanded_url": "https://twitter.com/fromminn/status/1398217669262909441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44975,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청하 #CHUNGHA\n[청하] ❣️\nhttps://t.co/B7Ec2raWmn\n#다음팬카페 #공식팬카페 #From https://t.co/8VxABFobwF"
+	},
+	{
+		"created_at": "Fri May 28 09:56:51 +0000 2021",
+		"id": 1398202632338960400,
+		"id_str": "1398216693260853251",
+		"full_text": "코미디빅리그 사이코러스 ReactionㅣTAEMIN 'Advice' 🎹 MV\n\n🎬 https://t.co/KpKjqKRboi\n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice\n#양세찬 #황제성 \n#사이코러스 #코미디빅리그 #tvN https://t.co/N5GZjk64V8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEMIN",
+					"indices": [
+						71,
+						78
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "Advice",
+					"indices": [
+						96,
+						103
+					]
+				},
+				{
+					"text": "양세찬",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "황제성",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "사이코러스",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "코미디빅리그",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "tvN",
+					"indices": [
+						130,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KpKjqKRboi",
+					"expanded_url": "https://youtu.be/jxQo-VZqrOM",
+					"display_url": "youtu.be/jxQo-VZqrOM",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1398201153549004800,
+					"id_str": "1398201153549004802",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/E2doionUcAIRQsG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2doionUcAIRQsG.jpg",
+					"url": "https://t.co/N5GZjk64V8",
+					"display_url": "pic.twitter.com/N5GZjk64V8",
+					"expanded_url": "https://twitter.com/SHINee/status/1398202632338960387/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1398201153549004800,
+					"id_str": "1398201153549004802",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/E2doionUcAIRQsG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2doionUcAIRQsG.jpg",
+					"url": "https://t.co/N5GZjk64V8",
+					"display_url": "pic.twitter.com/N5GZjk64V8",
+					"expanded_url": "https://twitter.com/SHINee/status/1398202632338960387/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "TAEMIN - The 3rd Mini Album Advice",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1996332,
+			"friends_count": 2,
+			"listed_count": 5009,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388871061001818113/Y6wPmXrL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1619967641",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2587,
+		"favorite_count": 6173,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코미디빅리그 사이코러스 ReactionㅣTAEMIN 'Advice' 🎹 MV\n\n🎬 https://t.co/KpKjqKRboi\n\n#TAEMIN #태민\n#SHINee #샤이니\n#Advice\n#양세찬 #황제성 \n#사이코러스 #코미디빅리그 #tvN https://t.co/N5GZjk64V8"
+	},
+	{
+		"created_at": "Fri May 28 09:47:12 +0000 2021",
+		"id": 1398210518016348200,
+		"id_str": "1398214261076234242",
+		"full_text": "#뮤직뱅크\n\n#NextLevel ➫ https://t.co/3gImiyvCK3\n\n#aespa #æspa #에스파\n#NextLevel",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤직뱅크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						7,
+						17
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						63,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3gImiyvCK3",
+					"expanded_url": "http://naver.me/535fdnXo",
+					"display_url": "naver.me/535fdnXo",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1015663,
+			"friends_count": 1,
+			"listed_count": 3784,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 625,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4508,
+		"favorite_count": 11276,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#뮤직뱅크\n\n#NextLevel ➫ https://t.co/3gImiyvCK3\n\n#aespa #æspa #에스파\n#NextLevel"
+	},
+	{
 		"created_at": "Fri May 28 08:56:51 +0000 2021",
 		"id": 1398190874987618300,
 		"id_str": "1398201591769952263",
