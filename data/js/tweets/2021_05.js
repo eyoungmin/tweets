@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 28 06:50:52 +0000 2021",
+		"id": 1398157085054017500,
+		"id_str": "1398169888842158082",
+		"full_text": "[VIDEO]\n📹 [C-HAind] MNH표 짜깁기\n\n▶️ https://t.co/bWUwItIdPm\n\n#청하 #CHUNGHA\n#돌체앤가바나뷰티 #하퍼스바자\n#청하는_잡지를_찢고_나와 https://t.co/PCt6dGjnha",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						62,
+						70
+					]
+				},
+				{
+					"text": "돌체앤가바나뷰티",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"text": "하퍼스바자",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "청하는_잡지를_찢고_나와",
+					"indices": [
+						88,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bWUwItIdPm",
+					"expanded_url": "https://youtu.be/O5m0SBKiySM",
+					"display_url": "youtu.be/O5m0SBKiySM",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1397768760539320300,
+					"id_str": "1397768760539320325",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1397768760539320325/pu/img/8mJKkCng450106mZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1397768760539320325/pu/img/8mJKkCng450106mZ.jpg",
+					"url": "https://t.co/PCt6dGjnha",
+					"display_url": "pic.twitter.com/PCt6dGjnha",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1398157085054017539/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1397768760539320300,
+					"id_str": "1397768760539320325",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1397768760539320325/pu/img/8mJKkCng450106mZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1397768760539320325/pu/img/8mJKkCng450106mZ.jpg",
+					"url": "https://t.co/PCt6dGjnha",
+					"display_url": "pic.twitter.com/PCt6dGjnha",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1398157085054017539/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29630,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1397768760539320325/pu/vid/640x360/E5qCW2drCbnuaNEe.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1397768760539320325/pu/vid/480x270/pC8qkTU4USwWhyXd.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1397768760539320325/pu/pl/FrCS8DzFExLLVUOH.m3u8?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1397768760539320325/pu/vid/1280x720/Z5cbFayypSTpwyML.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/uAFyf5T7B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAFyf5T7B0",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331058,
+			"friends_count": 0,
+			"listed_count": 2041,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1878,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1617289944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 260,
+		"favorite_count": 953,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO]\n📹 [C-HAind] MNH표 짜깁기\n\n▶️ https://t.co/bWUwItIdPm\n\n#청하 #CHUNGHA\n#돌체앤가바나뷰티 #하퍼스바자\n#청하는_잡지를_찢고_나와 https://t.co/PCt6dGjnha"
+	},
+	{
+		"created_at": "Fri May 28 06:47:09 +0000 2021",
+		"id": 1398158353780543500,
+		"id_str": "1398168952136617985",
+		"full_text": "With #TAEYEON 🥰\n\nhttps://t.co/IE9RwHXHV8\n\n#Level2 #WooWee_Dance #aespa #NextLevel #WINTER #NINGNING",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						5,
+						13
+					]
+				},
+				{
+					"text": "Level2",
+					"indices": [
+						42,
+						49
+					]
+				},
+				{
+					"text": "WooWee_Dance",
+					"indices": [
+						50,
+						63
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						82,
+						89
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						90,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IE9RwHXHV8",
+					"expanded_url": "https://vt.tiktok.com/ZSJmAq9tB/",
+					"display_url": "vt.tiktok.com/ZSJmAq9tB/",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1014779,
+			"friends_count": 1,
+			"listed_count": 3777,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9052,
+		"favorite_count": 18203,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "With #TAEYEON 🥰\n\nhttps://t.co/IE9RwHXHV8\n\n#Level2 #WooWee_Dance #aespa #NextLevel #WINTER #NINGNING"
+	},
+	{
 		"created_at": "Fri May 28 05:10:59 +0000 2021",
 		"id": 1398144750847471600,
 		"id_str": "1398144750847471616",
