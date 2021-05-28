@@ -1,6 +1,1678 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 28 11:58:41 +0000 2021",
+		"id": 1398247350762606600,
+		"id_str": "1398247350762606593",
+		"full_text": "#SMTOWN #PLAYLIST\n[K-Choreo 8K HDR] 에스파 직캠 'Next Level' (aespa Choreography) l @MusicBank 210528\nhttps://t.co/h8J43MUGde\n#에스파 #aespa #æspa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						133,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "musicbank",
+					"name": "유희왕  Yu Hee Wang",
+					"id": 137529912,
+					"id_str": "137529912",
+					"indices": [
+						79,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/h8J43MUGde",
+					"expanded_url": "https://www.youtube.com/watch?v=2NR4BgNfiVY",
+					"display_url": "youtube.com/watch?v=2NR4Bg…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44975,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #PLAYLIST\n[K-Choreo 8K HDR] 에스파 직캠 'Next Level' (aespa Choreography) l @MusicBank 210528\nhttps://t.co/h8J43MUGde\n#에스파 #aespa #æspa"
+	},
+	{
+		"created_at": "Fri May 28 11:54:40 +0000 2021",
+		"id": 1398246340409299000,
+		"id_str": "1398246340409298952",
+		"full_text": "#가온차트 #Gaon_Chart\n2021년 5월 28일 공지사항\nhttps://t.co/7WrSafFSqR\n#Gaon #Notice #공지사항 #minfav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "가온차트",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "Gaon_Chart",
+					"indices": [
+						6,
+						17
+					]
+				},
+				{
+					"text": "Gaon",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "Notice",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"text": "공지사항",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "minfav",
+					"indices": [
+						80,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7WrSafFSqR",
+					"expanded_url": "http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=116&pageNo=1&condition=&searchStr",
+					"display_url": "gaonchart.co.kr/main/section/n…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44975,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#가온차트 #Gaon_Chart\n2021년 5월 28일 공지사항\nhttps://t.co/7WrSafFSqR\n#Gaon #Notice #공지사항 #minfav"
+	},
+	{
+		"created_at": "Fri May 28 11:51:37 +0000 2021",
+		"id": 1398245571924746200,
+		"id_str": "1398245571924746244",
+		"full_text": "#SMTOWN #PLAYLIST\n조이 실제로 보면 안 착해요ㅡㅡ 내 마음에 ❤❤❤안착❤❤❤ | @Red Velvet | 할명수 ep.38\nhttps://t.co/teWq0s9kBc\n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						107,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RED",
+					"name": "(RED)",
+					"id": 16423109,
+					"id_str": "16423109",
+					"indices": [
+						53,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/teWq0s9kBc",
+					"expanded_url": "https://www.youtube.com/watch?v=TZcMk9vq5x8",
+					"display_url": "youtube.com/watch?v=TZcMk9…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44975,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #PLAYLIST\n조이 실제로 보면 안 착해요ㅡㅡ 내 마음에 ❤❤❤안착❤❤❤ | @Red Velvet | 할명수 ep.38\nhttps://t.co/teWq0s9kBc\n#레드벨벳 #RedVelvet"
+	},
+	{
+		"created_at": "Fri May 28 11:47:14 +0000 2021",
+		"id": 1398239362278510600,
+		"id_str": "1398244468847829000",
+		"full_text": "마이 여러분~~ 드디어 오늘 첫방 했어요~~! \n어땠나요~? 저희 Next Level 많이 사랑해 주세요\n\n#aespa #æspa #에스파\n#WINTER #윈터 \n#NextLevel https://t.co/B3w3fk6ctK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						78,
+						85
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						91,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1398239336164860000,
+					"id_str": "1398239336164859907",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/E2eLRJ8VoAMrLk-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2eLRJ8VoAMrLk-.jpg",
+					"url": "https://t.co/B3w3fk6ctK",
+					"display_url": "pic.twitter.com/B3w3fk6ctK",
+					"expanded_url": "https://twitter.com/aespa_official/status/1398239362278510592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 957,
+							"h": 1276,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1398239336164860000,
+					"id_str": "1398239336164859907",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/E2eLRJ8VoAMrLk-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2eLRJ8VoAMrLk-.jpg",
+					"url": "https://t.co/B3w3fk6ctK",
+					"display_url": "pic.twitter.com/B3w3fk6ctK",
+					"expanded_url": "https://twitter.com/aespa_official/status/1398239362278510592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 957,
+							"h": 1276,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1016366,
+			"friends_count": 1,
+			"listed_count": 3789,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8440,
+		"favorite_count": 21964,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마이 여러분~~ 드디어 오늘 첫방 했어요~~! \n어땠나요~? 저희 Next Level 많이 사랑해 주세요\n\n#aespa #æspa #에스파\n#WINTER #윈터 \n#NextLevel https://t.co/B3w3fk6ctK"
+	},
+	{
+		"created_at": "Fri May 28 11:47:14 +0000 2021",
+		"id": 1398239432776425500,
+		"id_str": "1398244468814323716",
+		"full_text": "저희 뮤뱅에서 넥스트레벨 첫방 잘 봤나요~?\n앞으로 많은 활동 남았으니 많이 사랑해 주세요💟\n그리고 여러분 아쉽게도 직접 만날 수 없지만 가능한 선에서 여러 가지의 방법들- 온라인 팬싸 등을 통해서 우리 볼 수있을 테니 많이 기대해 주세요~!\n\n#aespa #æspa #에스파\n#GISELLE #지젤 \n#NextLevel https://t.co/lQo8r9z9xT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						137,
+						143
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						155,
+						163
+					]
+				},
+				{
+					"text": "지젤",
+					"indices": [
+						164,
+						167
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						169,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1398239407933587500,
+					"id_str": "1398239407933587460",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/E2eLVVTVgAQC3rN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2eLVVTVgAQC3rN.jpg",
+					"url": "https://t.co/lQo8r9z9xT",
+					"display_url": "pic.twitter.com/lQo8r9z9xT",
+					"expanded_url": "https://twitter.com/aespa_official/status/1398239432776425479/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1398239407933587500,
+					"id_str": "1398239407933587460",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/E2eLVVTVgAQC3rN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2eLVVTVgAQC3rN.jpg",
+					"url": "https://t.co/lQo8r9z9xT",
+					"display_url": "pic.twitter.com/lQo8r9z9xT",
+					"expanded_url": "https://twitter.com/aespa_official/status/1398239432776425479/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1016366,
+			"friends_count": 1,
+			"listed_count": 3789,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7316,
+		"favorite_count": 17727,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저희 뮤뱅에서 넥스트레벨 첫방 잘 봤나요~?\n앞으로 많은 활동 남았으니 많이 사랑해 주세요💟\n그리고 여러분 아쉽게도 직접 만날 수 없지만 가능한 선에서 여러 가지의 방법들- 온라인 팬싸 등을 통해서 우리 볼 수있을 테니 많이 기대해 주세요~!\n\n#aespa #æspa #에스파\n#GISELLE #지젤 \n#NextLevel https://t.co/lQo8r9z9xT"
+	},
+	{
+		"created_at": "Fri May 28 11:47:14 +0000 2021",
+		"id": 1398239562585936000,
+		"id_str": "1398244468797497346",
+		"full_text": "여러분 오늘 저희 넥스트레벨 첫방 뮤뱅에서 잘 보셨나요~?! \n드디어 준비해왔던 컴백 보여드릴 수 있어서 너무 설레요..!.!\n앞으로도 저희 활동 많이 남았으니 많이 많이 사랑해 주세요!❤️\n\n#aespa #æspa #에스파\n#NextLevel https://t.co/1W6zroDP6o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						126,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1398239542172291000,
+					"id_str": "1398239542172291075",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/E2eLdJYVkAMTkyg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2eLdJYVkAMTkyg.jpg",
+					"url": "https://t.co/1W6zroDP6o",
+					"display_url": "pic.twitter.com/1W6zroDP6o",
+					"expanded_url": "https://twitter.com/aespa_official/status/1398239562585935873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1398239542172291000,
+					"id_str": "1398239542172291075",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/E2eLdJYVkAMTkyg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2eLdJYVkAMTkyg.jpg",
+					"url": "https://t.co/1W6zroDP6o",
+					"display_url": "pic.twitter.com/1W6zroDP6o",
+					"expanded_url": "https://twitter.com/aespa_official/status/1398239562585935873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1016366,
+			"friends_count": 1,
+			"listed_count": 3789,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7924,
+		"favorite_count": 18865,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여러분 오늘 저희 넥스트레벨 첫방 뮤뱅에서 잘 보셨나요~?! \n드디어 준비해왔던 컴백 보여드릴 수 있어서 너무 설레요..!.!\n앞으로도 저희 활동 많이 남았으니 많이 많이 사랑해 주세요!❤️\n\n#aespa #æspa #에스파\n#NextLevel https://t.co/1W6zroDP6o"
+	},
+	{
+		"created_at": "Fri May 28 11:47:14 +0000 2021",
+		"id": 1398239492083896300,
+		"id_str": "1398244468793348099",
+		"full_text": "안녕하세요 리나입니다~~!\n오늘 드디어 Next Level 첫방을 했는데요!!!!! 오랜만에 무대하려니 너무 떨리더라구요~ 그래도 그만큼 더 행복했어요😙 양갈래 아직은 너무 부끄럽지만 이쁘게 봐줘요..~~~💙\n\n#aespa #æspa #에스파\n#KARINA #카리나 \n#NextLevel https://t.co/AfnljkK8RU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						136,
+						143
+					]
+				},
+				{
+					"text": "카리나",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						150,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1398239482353098800,
+					"id_str": "1398239482353098753",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/E2eLZqiVIAEGj1A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2eLZqiVIAEGj1A.jpg",
+					"url": "https://t.co/AfnljkK8RU",
+					"display_url": "pic.twitter.com/AfnljkK8RU",
+					"expanded_url": "https://twitter.com/aespa_official/status/1398239492083896322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1398239482353098800,
+					"id_str": "1398239482353098753",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/E2eLZqiVIAEGj1A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2eLZqiVIAEGj1A.jpg",
+					"url": "https://t.co/AfnljkK8RU",
+					"display_url": "pic.twitter.com/AfnljkK8RU",
+					"expanded_url": "https://twitter.com/aespa_official/status/1398239492083896322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1016366,
+			"friends_count": 1,
+			"listed_count": 3789,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6948,
+		"favorite_count": 17789,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요 리나입니다~~!\n오늘 드디어 Next Level 첫방을 했는데요!!!!! 오랜만에 무대하려니 너무 떨리더라구요~ 그래도 그만큼 더 행복했어요😙 양갈래 아직은 너무 부끄럽지만 이쁘게 봐줘요..~~~💙\n\n#aespa #æspa #에스파\n#KARINA #카리나 \n#NextLevel https://t.co/AfnljkK8RU"
+	},
+	{
+		"created_at": "Fri May 28 11:47:14 +0000 2021",
+		"id": 1398239282813300700,
+		"id_str": "1398244468789186564",
+		"full_text": "여러분~ 저희 무대 보셨나요?💕💕 저희 첫방이라~ 너무너무 기분 좋아여🥰 이번 곡도 여러분들이 많은 사랑 주셔서 감사합니다💕~ 앞으로의 활동도 화이팅 할게요!\n\n#aespa #æspa #에스파\n#NINGNING #닝닝 \n#NextLevel https://t.co/ZvAV7UA3Gs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						108,
+						117
+					]
+				},
+				{
+					"text": "닝닝",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						123,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1398239143608557600,
+					"id_str": "1398239143608557575",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/E2eLF8nVoAc4I51.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2eLF8nVoAc4I51.jpg",
+					"url": "https://t.co/ZvAV7UA3Gs",
+					"display_url": "pic.twitter.com/ZvAV7UA3Gs",
+					"expanded_url": "https://twitter.com/aespa_official/status/1398239282813300737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1398239143608557600,
+					"id_str": "1398239143608557575",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/E2eLF8nVoAc4I51.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2eLF8nVoAc4I51.jpg",
+					"url": "https://t.co/ZvAV7UA3Gs",
+					"display_url": "pic.twitter.com/ZvAV7UA3Gs",
+					"expanded_url": "https://twitter.com/aespa_official/status/1398239282813300737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1016366,
+			"friends_count": 1,
+			"listed_count": 3789,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7223,
+		"favorite_count": 20267,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여러분~ 저희 무대 보셨나요?💕💕 저희 첫방이라~ 너무너무 기분 좋아여🥰 이번 곡도 여러분들이 많은 사랑 주셔서 감사합니다💕~ 앞으로의 활동도 화이팅 할게요!\n\n#aespa #æspa #에스파\n#NINGNING #닝닝 \n#NextLevel https://t.co/ZvAV7UA3Gs"
+	},
+	{
+		"created_at": "Fri May 28 11:09:43 +0000 2021",
+		"id": 1398232091641319400,
+		"id_str": "1398235027779985408",
+		"full_text": "📸 #최강창민 &amp; #에스파\n🍑💙🌙⭐️🦋 \n\n‘최강창민의 프리허그’🧸\n잠시 후 8시 방송!\n📻 https://t.co/zUK4GkCpFD \n\n#MAX_CHANGMIN\n#동방신기 #TVXQ! #東方神起\n#aespa #æspa\n#최강창민의프리허그 https://t.co/My88VDZyoP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최강창민",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						14,
+						18
+					]
+				},
+				{
+					"text": "MAX_CHANGMIN",
+					"indices": [
+						82,
+						95
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "최강창민의프리허그",
+					"indices": [
+						128,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zUK4GkCpFD",
+					"expanded_url": "http://naver.me/FgimVpa4",
+					"display_url": "naver.me/FgimVpa4",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1398232067259867100,
+					"id_str": "1398232067259867138",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/E2eEqDKVoAIvxe_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2eEqDKVoAIvxe_.jpg",
+					"url": "https://t.co/My88VDZyoP",
+					"display_url": "pic.twitter.com/My88VDZyoP",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1398232091641319429/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1398232067259867100,
+					"id_str": "1398232067259867138",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/E2eEqDKVoAIvxe_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2eEqDKVoAIvxe_.jpg",
+					"url": "https://t.co/My88VDZyoP",
+					"display_url": "pic.twitter.com/My88VDZyoP",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1398232091641319429/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9500444,
+			"friends_count": 55,
+			"listed_count": 9978,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1938,
+		"favorite_count": 8288,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📸 #최강창민 &amp; #에스파\n🍑💙🌙⭐️🦋 \n\n‘최강창민의 프리허그’🧸\n잠시 후 8시 방송!\n📻 https://t.co/zUK4GkCpFD \n\n#MAX_CHANGMIN\n#동방신기 #TVXQ! #東方神起\n#aespa #æspa\n#최강창민의프리허그 https://t.co/My88VDZyoP"
+	},
+	{
 		"created_at": "Fri May 28 10:47:45 +0000 2021",
 		"id": 1398229502078210000,
 		"id_str": "1398229502078210049",
