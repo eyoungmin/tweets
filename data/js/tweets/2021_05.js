@@ -1,6 +1,399 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Mon May 31 02:47:51 +0000 2021",
+		"id": 1399186771934470100,
+		"id_str": "1399195892108783616",
+		"full_text": "‘JOYful day’ JOY’s special album ‘안녕 (Hello)’ to be released today at 6PM KST!\nSolo debut countdown live ‘Hello! I'm Your JOY!’ to be livestreamed on Red Velvet’s NAVER V LIVE &amp; YouTube channel today at 5PM KST!\n\n#JOY #조이 #안녕 #Hello #레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JOY",
+					"indices": [
+						217,
+						221
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						222,
+						225
+					]
+				},
+				{
+					"text": "안녕",
+					"indices": [
+						226,
+						229
+					]
+				},
+				{
+					"text": "Hello",
+					"indices": [
+						230,
+						236
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						237,
+						242
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						243,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1399186769766060000,
+		"in_reply_to_status_id_str": "1399186769766060032",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/RiV4s6wute",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RiV4s6wute",
+							"expanded_url": "https://youtu.be/-Ih5UArd4zk",
+							"display_url": "youtu.be/-Ih5UArd4zk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4169618,
+			"friends_count": 1,
+			"listed_count": 8864,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1622019868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1705,
+		"favorite_count": 5219,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "‘JOYful day’ JOY’s special album ‘안녕 (Hello)’ to be released today at 6PM KST!\nSolo debut countdown live ‘Hello! I'm Your JOY!’ to be livestreamed on Red Velvet’s NAVER V LIVE &amp; YouTube channel today at 5PM KST!\n\n#JOY #조이 #안녕 #Hello #레드벨벳 #RedVelvet"
+	},
+	{
+		"created_at": "Mon May 31 02:47:51 +0000 2021",
+		"id": 1399186769766060000,
+		"id_str": "1399195892079493124",
+		"full_text": "‘조이풀 데이’ 조이, 스페셜 앨범 ‘안녕 (Hello)’ 오늘 오후 6시 공개!\n오후 5시 솔로 데뷔 카운트다운 생방송 ‘안녕! 난 너의JOY야’ 네이버 V LIVE 및 유튜브 레드벨벳 채널 통해 진행! \n\n#JOY #조이 #안녕 #Hello #레드벨벳 #RedVelvet https://t.co/mFcKLXVJET",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JOY",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "안녕",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "Hello",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						143,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1399186764602900500,
+					"id_str": "1399186764602900490",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/E2ro8v6VgAo2zt0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2ro8v6VgAo2zt0.jpg",
+					"url": "https://t.co/mFcKLXVJET",
+					"display_url": "pic.twitter.com/mFcKLXVJET",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1399186769766060032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1134,
+							"h": 1700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1399186764602900500,
+					"id_str": "1399186764602900490",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/E2ro8v6VgAo2zt0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2ro8v6VgAo2zt0.jpg",
+					"url": "https://t.co/mFcKLXVJET",
+					"display_url": "pic.twitter.com/mFcKLXVJET",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1399186769766060032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1134,
+							"h": 1700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1399186767798960000,
+					"id_str": "1399186767798960129",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/E2ro870VgAEyebn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2ro870VgAEyebn.jpg",
+					"url": "https://t.co/mFcKLXVJET",
+					"display_url": "pic.twitter.com/mFcKLXVJET",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1399186769766060032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/RiV4s6wute",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RiV4s6wute",
+							"expanded_url": "https://youtu.be/-Ih5UArd4zk",
+							"display_url": "youtu.be/-Ih5UArd4zk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4169618,
+			"friends_count": 1,
+			"listed_count": 8864,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1622019868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4873,
+		"favorite_count": 14741,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘조이풀 데이’ 조이, 스페셜 앨범 ‘안녕 (Hello)’ 오늘 오후 6시 공개!\n오후 5시 솔로 데뷔 카운트다운 생방송 ‘안녕! 난 너의JOY야’ 네이버 V LIVE 및 유튜브 레드벨벳 채널 통해 진행! \n\n#JOY #조이 #안녕 #Hello #레드벨벳 #RedVelvet https://t.co/mFcKLXVJET"
+	},
+	{
 		"created_at": "Mon May 31 01:14:23 +0000 2021",
 		"id": 1399172372847079400,
 		"id_str": "1399172372847079425",
