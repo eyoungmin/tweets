@@ -1,6 +1,1392 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Mon May 31 09:58:14 +0000 2021",
+		"id": 1399304203193962500,
+		"id_str": "1399304203193962497",
+		"full_text": "#지니매거진 #지니 #genie\n[스페셜] 안녕 (Hello)! 레드벨벳 조이가 전하는 그 시절, 그 명곡! (2021.05.31)\nhttps://t.co/zMxediNlyE https://t.co/4qJguXQJ7S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지니매거진",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "genie",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zMxediNlyE",
+					"expanded_url": "https://www.genie.co.kr/magazine/subMain?ctid=1&mgz_seq=10258&pg=1",
+					"display_url": "genie.co.kr/magazine/subMa…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1399304202107732000,
+					"id_str": "1399304202107731975",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/E2tTwgtXwAcXS4s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2tTwgtXwAcXS4s.jpg",
+					"url": "https://t.co/4qJguXQJ7S",
+					"display_url": "pic.twitter.com/4qJguXQJ7S",
+					"expanded_url": "https://twitter.com/fromminn/status/1399304203193962497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1399304202107732000,
+					"id_str": "1399304202107731975",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/E2tTwgtXwAcXS4s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2tTwgtXwAcXS4s.jpg",
+					"url": "https://t.co/4qJguXQJ7S",
+					"display_url": "pic.twitter.com/4qJguXQJ7S",
+					"expanded_url": "https://twitter.com/fromminn/status/1399304203193962497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 672,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 313,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#지니매거진 #지니 #genie\n[스페셜] 안녕 (Hello)! 레드벨벳 조이가 전하는 그 시절, 그 명곡! (2021.05.31)\nhttps://t.co/zMxediNlyE https://t.co/4qJguXQJ7S"
+	},
+	{
+		"created_at": "Mon May 31 09:51:45 +0000 2021",
+		"id": 1399289554436182000,
+		"id_str": "1399302570087116804",
+		"full_text": "[PHOTO] 🎨#BHR_2nd_Only\n📸 돌체앤가바나뷰티X하퍼스바자 5월호 촬영 비하인드\n\n✌ https://t.co/onJlJmwz71\n\n#청하 #CHUNGHA\n#돌체앤가바나뷰티 #하퍼스바자\n#MEMBERSHIP_ONLY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BHR_2nd_Only",
+					"indices": [
+						9,
+						22
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "돌체앤가바나뷰티",
+					"indices": [
+						93,
+						102
+					]
+				},
+				{
+					"text": "하퍼스바자",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "MEMBERSHIP_ONLY",
+					"indices": [
+						110,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/onJlJmwz71",
+					"expanded_url": "https://www.vlive.tv/post/0-23162440",
+					"display_url": "vlive.tv/post/0-23162440",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/uAFyf5T7B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAFyf5T7B0",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331033,
+			"friends_count": 0,
+			"listed_count": 2043,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1880,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1617289944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 512,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[PHOTO] 🎨#BHR_2nd_Only\n📸 돌체앤가바나뷰티X하퍼스바자 5월호 촬영 비하인드\n\n✌ https://t.co/onJlJmwz71\n\n#청하 #CHUNGHA\n#돌체앤가바나뷰티 #하퍼스바자\n#MEMBERSHIP_ONLY"
+	},
+	{
+		"created_at": "Mon May 31 09:47:58 +0000 2021",
+		"id": 1399299648213328000,
+		"id_str": "1399301619599044608",
+		"full_text": "JOY 조이 ‘안녕 (Hello)' \n\n🎧Listen now on your favorite platform\n\nhttps://t.co/eNjYxWU0vd\n\n#JOY #조이 #안녕 #Hello #레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JOY",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "안녕",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "Hello",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						112,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eNjYxWU0vd",
+					"expanded_url": "https://smarturl.it/JOY_HELLO",
+					"display_url": "smarturl.it/JOY_HELLO",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/U7JtipmDEo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U7JtipmDEo",
+							"expanded_url": "https://youtu.be/lNvBbh5jDcA",
+							"display_url": "youtu.be/lNvBbh5jDcA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4171263,
+			"friends_count": 1,
+			"listed_count": 8877,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1901,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1622019868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4751,
+		"favorite_count": 9507,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "JOY 조이 ‘안녕 (Hello)' \n\n🎧Listen now on your favorite platform\n\nhttps://t.co/eNjYxWU0vd\n\n#JOY #조이 #안녕 #Hello #레드벨벳 #RedVelvet"
+	},
+	{
+		"created_at": "Mon May 31 09:16:46 +0000 2021",
+		"id": 1399293767237128200,
+		"id_str": "1399293767237128192",
+		"full_text": "#Onthespot #DRAW\nW NIKE DUNK LOW 'Green Glow' (2021-05-31)\nhttps://t.co/9prdsHIr8y https://t.co/HgVKyrLd3P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Onthespot",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "DRAW",
+					"indices": [
+						11,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9prdsHIr8y",
+					"expanded_url": "https://www.onthespot.co.kr/promotion/event/detail?eventNo=2000000418",
+					"display_url": "onthespot.co.kr/promotion/even…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1399293766180221000,
+					"id_str": "1399293766180220930",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/E2tKRD2XMAI4x1I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2tKRD2XMAI4x1I.jpg",
+					"url": "https://t.co/HgVKyrLd3P",
+					"display_url": "pic.twitter.com/HgVKyrLd3P",
+					"expanded_url": "https://twitter.com/fromminn/status/1399293767237128192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1399293766180221000,
+					"id_str": "1399293766180220930",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/E2tKRD2XMAI4x1I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2tKRD2XMAI4x1I.jpg",
+					"url": "https://t.co/HgVKyrLd3P",
+					"display_url": "pic.twitter.com/HgVKyrLd3P",
+					"expanded_url": "https://twitter.com/fromminn/status/1399293767237128192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 388,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 313,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Onthespot #DRAW\nW NIKE DUNK LOW 'Green Glow' (2021-05-31)\nhttps://t.co/9prdsHIr8y https://t.co/HgVKyrLd3P"
+	},
+	{
+		"created_at": "Mon May 31 09:16:34 +0000 2021",
+		"id": 1399293719388602400,
+		"id_str": "1399293719388602369",
+		"full_text": "#SMTOWN #PLAYLIST\nJOY 조이 '안녕 (Hello)' MV\nhttps://t.co/QqgFxHJSV5\n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						71,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QqgFxHJSV5",
+					"expanded_url": "https://www.youtube.com/watch?v=lNvBbh5jDcA",
+					"display_url": "youtube.com/watch?v=lNvBbh…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 313,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #PLAYLIST\nJOY 조이 '안녕 (Hello)' MV\nhttps://t.co/QqgFxHJSV5\n#레드벨벳 #RedVelvet"
+	},
+	{
+		"created_at": "Mon May 31 09:09:40 +0000 2021",
+		"id": 1399290982550564900,
+		"id_str": "1399291982711775237",
+		"full_text": "JOY 조이 ‘안녕 (Hello)' \n\n🎧 Melon: https://t.co/omg3LgMJbN\n🎧 FLO: https://t.co/7dnL72RbSH \n🎧 genie: https://t.co/H5Box0XRnY \n🎧 NAVER VIBE: https://t.co/j6Il1jREqg \n\n#JOY #조이 #안녕 #Hello #레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JOY",
+					"indices": [
+						161,
+						165
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						166,
+						169
+					]
+				},
+				{
+					"text": "안녕",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"text": "Hello",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						187,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/omg3LgMJbN",
+					"expanded_url": "http://kko.to/dMu68jCDp",
+					"display_url": "kko.to/dMu68jCDp",
+					"indices": [
+						31,
+						54
+					]
+				},
+				{
+					"url": "https://t.co/7dnL72RbSH",
+					"expanded_url": "https://www.music-flo.com/detail/album/edznzelyo/albumtrack",
+					"display_url": "music-flo.com/detail/album/e…",
+					"indices": [
+						62,
+						85
+					]
+				},
+				{
+					"url": "https://t.co/H5Box0XRnY",
+					"expanded_url": "http://www.genie.co.kr/TA05H9",
+					"display_url": "genie.co.kr/TA05H9",
+					"indices": [
+						96,
+						119
+					]
+				},
+				{
+					"url": "https://t.co/j6Il1jREqg",
+					"expanded_url": "https://vibe.naver.com/album/5905370",
+					"display_url": "vibe.naver.com/album/5905370",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/U7JtipmDEo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U7JtipmDEo",
+							"expanded_url": "https://youtu.be/lNvBbh5jDcA",
+							"display_url": "youtu.be/lNvBbh5jDcA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4171263,
+			"friends_count": 1,
+			"listed_count": 8877,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1901,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1622019868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6713,
+		"favorite_count": 12687,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "JOY 조이 ‘안녕 (Hello)' \n\n🎧 Melon: https://t.co/omg3LgMJbN\n🎧 FLO: https://t.co/7dnL72RbSH \n🎧 genie: https://t.co/H5Box0XRnY \n🎧 NAVER VIBE: https://t.co/j6Il1jREqg \n\n#JOY #조이 #안녕 #Hello #레드벨벳 #RedVelvet"
+	},
+	{
+		"created_at": "Mon May 31 09:09:35 +0000 2021",
+		"id": 1399289841146232800,
+		"id_str": "1399291961106907136",
+		"full_text": "JOY 조이 '안녕 (Hello)' MV\n\n🎬 https://t.co/0uQKWZcAk1\n\n#JOY #조이 #안녕 #Hello #레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JOY",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "안녕",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "Hello",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						77,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0uQKWZcAk1",
+					"expanded_url": "https://youtu.be/lNvBbh5jDcA",
+					"display_url": "youtu.be/lNvBbh5jDcA",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/U7JtipmDEo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U7JtipmDEo",
+							"expanded_url": "https://youtu.be/lNvBbh5jDcA",
+							"display_url": "youtu.be/lNvBbh5jDcA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4171263,
+			"friends_count": 1,
+			"listed_count": 8877,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1901,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1622019868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20541,
+		"favorite_count": 27964,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "JOY 조이 '안녕 (Hello)' MV\n\n🎬 https://t.co/0uQKWZcAk1\n\n#JOY #조이 #안녕 #Hello #레드벨벳 #RedVelvet"
+	},
+	{
+		"created_at": "Mon May 31 09:04:39 +0000 2021",
+		"id": 1399289650481537000,
+		"id_str": "1399290718414204933",
+		"full_text": "#로제 와 #행크 의 #폴라로이드 #댓글이벤트 당첨자 발표!🌹❤️\n사랑과 정성을 담은, 센스 있는 댓글들을 모두 확인하여 선정한 당첨자를 댓글로 공개합니다 :) https://t.co/K4q8ffFy9D\n#Rose and #Hank's #Polaroid #CommentEvent winners announced!🌹❤️\nCheck out the comments on the video! :) https://t.co/DnrjFyvYwx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로제",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "행크",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "폴라로이드",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "댓글이벤트",
+					"indices": [
+						19,
+						25
+					]
+				},
+				{
+					"text": "Rose",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "Hank",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "Polaroid",
+					"indices": [
+						132,
+						141
+					]
+				},
+				{
+					"text": "CommentEvent",
+					"indices": [
+						142,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K4q8ffFy9D",
+					"expanded_url": "https://youtu.be/I8gHyd_kaRk",
+					"display_url": "youtu.be/I8gHyd_kaRk",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1399288400981622800,
+					"id_str": "1399288400981622787",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E2tFYw7VgAMs5U4.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E2tFYw7VgAMs5U4.jpg",
+					"url": "https://t.co/DnrjFyvYwx",
+					"display_url": "pic.twitter.com/DnrjFyvYwx",
+					"expanded_url": "https://twitter.com/wkorea/status/1399289650481537026/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1399288400981622800,
+					"id_str": "1399288400981622787",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E2tFYw7VgAMs5U4.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E2tFYw7VgAMs5U4.jpg",
+					"url": "https://t.co/DnrjFyvYwx",
+					"display_url": "pic.twitter.com/DnrjFyvYwx",
+					"expanded_url": "https://twitter.com/wkorea/status/1399289650481537026/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E2tFYw7VgAMs5U4.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/m6zPKg47IM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/m6zPKg47IM",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 273221,
+			"friends_count": 0,
+			"listed_count": 801,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 6090,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1621505248",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 253,
+		"favorite_count": 533,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#로제 와 #행크 의 #폴라로이드 #댓글이벤트 당첨자 발표!🌹❤️\n사랑과 정성을 담은, 센스 있는 댓글들을 모두 확인하여 선정한 당첨자를 댓글로 공개합니다 :) https://t.co/K4q8ffFy9D\n#Rose and #Hank's #Polaroid #CommentEvent winners announced!🌹❤️\nCheck out the comments on the video! :) https://t.co/DnrjFyvYwx"
+	},
+	{
 		"created_at": "Mon May 31 08:51:44 +0000 2021",
 		"id": 1399274453587042300,
 		"id_str": "1399287467027492866",
