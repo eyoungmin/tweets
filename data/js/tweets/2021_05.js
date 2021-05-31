@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Mon May 31 08:51:44 +0000 2021",
+		"id": 1399274453587042300,
+		"id_str": "1399287467027492866",
+		"full_text": "[PHOTO] 📸 돌체앤가바나뷰티X하퍼스바자 5월호 촬영 비하인드\n\n▶ https://t.co/amSIb2pdXl\n\n#청하 #CHUNGHA\n#돌체앤가바나뷰티 #하퍼스바자 https://t.co/K7TpgCju0O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						69,
+						77
+					]
+				},
+				{
+					"text": "돌체앤가바나뷰티",
+					"indices": [
+						78,
+						87
+					]
+				},
+				{
+					"text": "하퍼스바자",
+					"indices": [
+						88,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/amSIb2pdXl",
+					"expanded_url": "https://cafe.daum.net/MNH-Chungha/g3oX/77",
+					"display_url": "cafe.daum.net/MNH-Chungha/g3…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1398173588675383300,
+					"id_str": "1398173588675383299",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/E2dPeJdUUAM-oxQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2dPeJdUUAM-oxQ.jpg",
+					"url": "https://t.co/K7TpgCju0O",
+					"display_url": "pic.twitter.com/K7TpgCju0O",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1399274453587042305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1398173588675383300,
+					"id_str": "1398173588675383299",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/E2dPeJdUUAM-oxQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2dPeJdUUAM-oxQ.jpg",
+					"url": "https://t.co/K7TpgCju0O",
+					"display_url": "pic.twitter.com/K7TpgCju0O",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1399274453587042305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/uAFyf5T7B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAFyf5T7B0",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331025,
+			"friends_count": 0,
+			"listed_count": 2040,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1880,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1617289944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 263,
+		"favorite_count": 1354,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[PHOTO] 📸 돌체앤가바나뷰티X하퍼스바자 5월호 촬영 비하인드\n\n▶ https://t.co/amSIb2pdXl\n\n#청하 #CHUNGHA\n#돌체앤가바나뷰티 #하퍼스바자 https://t.co/K7TpgCju0O"
+	},
+	{
 		"created_at": "Mon May 31 06:09:35 +0000 2021",
 		"id": 1399245101122027500,
 		"id_str": "1399246662980222976",
