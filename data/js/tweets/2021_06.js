@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 01 13:17:32 +0000 2021",
+		"id": 1399712343278243800,
+		"id_str": "1399716746219589634",
+		"full_text": "잠시 후 오후 10시 30분(KST) 방송되는 #강철부대 ‼️ 본방사수 잊지 않았죠~? 밀리터리 최강 루키 #츄 의 성장한 예측력🙋‍♀️을 확인해 보세요!\n\n#이달의소녀 #LOONA #Chuu https://t.co/e6VfWSBovf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강철부대",
+					"indices": [
+						26,
+						31
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						60,
+						62
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						102,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1399697179132907500,
+					"id_str": "1399697179132907520",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/E2y5KyNVUAAh9np.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2y5KyNVUAAh9np.jpg",
+					"url": "https://t.co/e6VfWSBovf",
+					"display_url": "pic.twitter.com/e6VfWSBovf",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1399712343278243844/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1399697179132907500,
+					"id_str": "1399697179132907520",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/E2y5KyNVUAAh9np.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2y5KyNVUAAh9np.jpg",
+					"url": "https://t.co/e6VfWSBovf",
+					"display_url": "pic.twitter.com/e6VfWSBovf",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1399712343278243844/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1399697179124535300,
+					"id_str": "1399697179124535299",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/E2y5KyLVkAMHa4V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2y5KyLVkAMHa4V.jpg",
+					"url": "https://t.co/e6VfWSBovf",
+					"display_url": "pic.twitter.com/e6VfWSBovf",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1399712343278243844/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 715827,
+			"friends_count": 0,
+			"listed_count": 7250,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2918,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6046,
+		"favorite_count": 19708,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시 후 오후 10시 30분(KST) 방송되는 #강철부대 ‼️ 본방사수 잊지 않았죠~? 밀리터리 최강 루키 #츄 의 성장한 예측력🙋‍♀️을 확인해 보세요!\n\n#이달의소녀 #LOONA #Chuu https://t.co/e6VfWSBovf"
+	},
+	{
 		"created_at": "Tue Jun 01 12:48:15 +0000 2021",
 		"id": 1399708410526900200,
 		"id_str": "1399709375116328964",
