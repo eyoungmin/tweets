@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 01 12:48:15 +0000 2021",
+		"id": 1399708410526900200,
+		"id_str": "1399709375116328964",
+		"full_text": "#에스파 &amp; #슬기\n\n- 슬페셜 에디션👑 with aespa -\n잠시 후 오후 10시 Naver NOW! 슬기 zip\n\nhttps://t.co/PTZougThJo\n\n#슬기 #SEULGI \n#SEULGIzip #레드벨벳 #RedVelvet\n#aespa #æspa #에스파 https://t.co/YOGOfspQno",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에스파",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "SEULGIzip",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						126,
+						136
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						137,
+						143
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						150,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PTZougThJo",
+					"expanded_url": "http://naver.me/GBfKR3qw",
+					"display_url": "naver.me/GBfKR3qw",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1399708397377704000,
+					"id_str": "1399708397377703936",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/E2zDXxbUUAA7PCO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2zDXxbUUAA7PCO.jpg",
+					"url": "https://t.co/YOGOfspQno",
+					"display_url": "pic.twitter.com/YOGOfspQno",
+					"expanded_url": "https://twitter.com/aespa_official/status/1399708410526900226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1399708397377704000,
+					"id_str": "1399708397377703936",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/E2zDXxbUUAA7PCO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2zDXxbUUAA7PCO.jpg",
+					"url": "https://t.co/YOGOfspQno",
+					"display_url": "pic.twitter.com/YOGOfspQno",
+					"expanded_url": "https://twitter.com/aespa_official/status/1399708410526900226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1033497,
+			"friends_count": 1,
+			"listed_count": 3901,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 641,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8239,
+		"favorite_count": 18134,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#에스파 &amp; #슬기\n\n- 슬페셜 에디션👑 with aespa -\n잠시 후 오후 10시 Naver NOW! 슬기 zip\n\nhttps://t.co/PTZougThJo\n\n#슬기 #SEULGI \n#SEULGIzip #레드벨벳 #RedVelvet\n#aespa #æspa #에스파 https://t.co/YOGOfspQno"
+	},
+	{
 		"created_at": "Tue Jun 01 11:59:56 +0000 2021",
 		"id": 1399697219280834600,
 		"id_str": "1399697219280834569",
