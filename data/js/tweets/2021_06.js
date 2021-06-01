@@ -1,10 +1,271 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 01 14:48:15 +0000 2021",
+		"id": 1399735327539875800,
+		"id_str": "1399739575610707970",
+		"full_text": "오늘의 💛슬기.ZIP💛 생성 완료!\n\n#슬기 #SEULGI #NaverNOW #SEULGIzip #슬기집 #레드벨벳 #RedVelvet https://t.co/SJZowt32e4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						21,
+						24
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						25,
+						32
+					]
+				},
+				{
+					"text": "NaverNOW",
+					"indices": [
+						33,
+						42
+					]
+				},
+				{
+					"text": "SEULGIzip",
+					"indices": [
+						43,
+						53
+					]
+				},
+				{
+					"text": "슬기집",
+					"indices": [
+						54,
+						58
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						65,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1399735310095769600,
+					"id_str": "1399735310095769601",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/E2zb2THUYAEVRYJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2zb2THUYAEVRYJ.jpg",
+					"url": "https://t.co/SJZowt32e4",
+					"display_url": "pic.twitter.com/SJZowt32e4",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1399735327539875843/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1399735310095769600,
+					"id_str": "1399735310095769601",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/E2zb2THUYAEVRYJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2zb2THUYAEVRYJ.jpg",
+					"url": "https://t.co/SJZowt32e4",
+					"display_url": "pic.twitter.com/SJZowt32e4",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1399735327539875843/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1399735318731919400,
+					"id_str": "1399735318731919360",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/E2zb2zSVkAA30KL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2zb2zSVkAA30KL.jpg",
+					"url": "https://t.co/SJZowt32e4",
+					"display_url": "pic.twitter.com/SJZowt32e4",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1399735327539875843/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/U7JtipmDEo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U7JtipmDEo",
+							"expanded_url": "https://youtu.be/lNvBbh5jDcA",
+							"display_url": "youtu.be/lNvBbh5jDcA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4176180,
+			"friends_count": 1,
+			"listed_count": 8910,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1908,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1622019868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10739,
+		"favorite_count": 26915,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘의 💛슬기.ZIP💛 생성 완료!\n\n#슬기 #SEULGI #NaverNOW #SEULGIzip #슬기집 #레드벨벳 #RedVelvet https://t.co/SJZowt32e4"
+	},
+	{
 		"created_at": "Tue Jun 01 13:17:32 +0000 2021",
 		"id": 1399712343278243800,
 		"id_str": "1399716746219589634",
-		"full_text": "잠시 후 오후 10시 30분(KST) 방송되는 #강철부대 ‼️ 본방사수 잊지 않았죠~? 밀리터리 최강 루키 #츄 의 성장한 예측력🙋‍♀️을 확인해 보세요!\n\n#이달의소녀 #LOONA #Chuu https://t.co/e6VfWSBovf",
+		"full_text": "잠시 후 오후 10시 30분(KST) 방송되는 #강철부대 ‼️ 본방사수 잊지 않았죠~? 밀리터리 최강 루키 #츄 의 성장한 예측력🙋♀️을 확인해 보세요!\n\n#이달의소녀 #LOONA #Chuu https://t.co/e6VfWSBovf",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -245,7 +506,7 @@ Grailbird.data.tweets_2021_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "잠시 후 오후 10시 30분(KST) 방송되는 #강철부대 ‼️ 본방사수 잊지 않았죠~? 밀리터리 최강 루키 #츄 의 성장한 예측력🙋‍♀️을 확인해 보세요!\n\n#이달의소녀 #LOONA #Chuu https://t.co/e6VfWSBovf"
+		"text": "잠시 후 오후 10시 30분(KST) 방송되는 #강철부대 ‼️ 본방사수 잊지 않았죠~? 밀리터리 최강 루키 #츄 의 성장한 예측력🙋♀️을 확인해 보세요!\n\n#이달의소녀 #LOONA #Chuu https://t.co/e6VfWSBovf"
 	},
 	{
 		"created_at": "Tue Jun 01 12:48:15 +0000 2021",
