@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 02 08:18:01 +0000 2021",
+		"id": 1400000913977200600,
+		"id_str": "1400003757144899585",
+		"full_text": "[#예술경영 웹진 : 칼럼] \n\n&lt;이채관, 그가 바란 세상과 남기고 간 생각들&gt;\n\n466호 칼럼 더보기👇👇👇\nhttps://t.co/BMPLHXoCRO\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/OXvUyDetKh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						102,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BMPLHXoCRO",
+					"expanded_url": "https://bit.ly/3uBeGrM",
+					"display_url": "bit.ly/3uBeGrM",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1400000903499841500,
+					"id_str": "1400000903499841536",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/E23NZ3pVgAA_n23.png",
+					"media_url_https": "https://pbs.twimg.com/media/E23NZ3pVgAA_n23.png",
+					"url": "https://t.co/OXvUyDetKh",
+					"display_url": "pic.twitter.com/OXvUyDetKh",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1400000913977200642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 259,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 825,
+							"h": 314,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 825,
+							"h": 314,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1400000903499841500,
+					"id_str": "1400000903499841536",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/E23NZ3pVgAA_n23.png",
+					"media_url_https": "https://pbs.twimg.com/media/E23NZ3pVgAA_n23.png",
+					"url": "https://t.co/OXvUyDetKh",
+					"display_url": "pic.twitter.com/OXvUyDetKh",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1400000913977200642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 259,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 825,
+							"h": 314,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 825,
+							"h": 314,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6983,
+			"friends_count": 2952,
+			"listed_count": 101,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2749,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예술경영 웹진 : 칼럼] \n\n&lt;이채관, 그가 바란 세상과 남기고 간 생각들&gt;\n\n466호 칼럼 더보기👇👇👇\nhttps://t.co/BMPLHXoCRO\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/OXvUyDetKh"
+	},
+	{
 		"created_at": "Wed Jun 02 07:48:25 +0000 2021",
 		"id": 1399982779337646000,
 		"id_str": "1399996307763208198",
