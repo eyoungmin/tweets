@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 02 02:48:22 +0000 2021",
+		"id": 1399911925475995600,
+		"id_str": "1399920797762822147",
+		"full_text": "조이, 솔로 데뷔 무대 4일 KBS2TV ‘뮤직뱅크’에서 첫 방송!\n비타민 보이스+상큼 에너지 선사!\n\nJOY to present her vitamin voice and refreshing energy via her solo debut stage on ‘Music Bank’ airing on 6/4!\n\n#JOY #조이 #안녕 #Hello #레드벨벳 #RedVelvet https://t.co/BBi53cSrJ4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JOY",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						175,
+						178
+					]
+				},
+				{
+					"text": "안녕",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "Hello",
+					"indices": [
+						183,
+						189
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						190,
+						195
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						196,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1399911919297826800,
+					"id_str": "1399911919297826817",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/E218eTqVEAEX2dV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E218eTqVEAEX2dV.jpg",
+					"url": "https://t.co/BBi53cSrJ4",
+					"display_url": "pic.twitter.com/BBi53cSrJ4",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1399911925475995650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1399911919297826800,
+					"id_str": "1399911919297826817",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/E218eTqVEAEX2dV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E218eTqVEAEX2dV.jpg",
+					"url": "https://t.co/BBi53cSrJ4",
+					"display_url": "pic.twitter.com/BBi53cSrJ4",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1399911925475995650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1399911923307540500,
+					"id_str": "1399911923307540481",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/E218eimUcAEf1iP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E218eimUcAEf1iP.jpg",
+					"url": "https://t.co/BBi53cSrJ4",
+					"display_url": "pic.twitter.com/BBi53cSrJ4",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1399911925475995650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/U7JtipmDEo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U7JtipmDEo",
+							"expanded_url": "https://youtu.be/lNvBbh5jDcA",
+							"display_url": "youtu.be/lNvBbh5jDcA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4178204,
+			"friends_count": 1,
+			"listed_count": 8918,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1622019868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3940,
+		"favorite_count": 13225,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "조이, 솔로 데뷔 무대 4일 KBS2TV ‘뮤직뱅크’에서 첫 방송!\n비타민 보이스+상큼 에너지 선사!\n\nJOY to present her vitamin voice and refreshing energy via her solo debut stage on ‘Music Bank’ airing on 6/4!\n\n#JOY #조이 #안녕 #Hello #레드벨벳 #RedVelvet https://t.co/BBi53cSrJ4"
+	},
+	{
 		"created_at": "Wed Jun 02 01:17:41 +0000 2021",
 		"id": 1399888207051849700,
 		"id_str": "1399897977364246528",
