@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 02 07:48:25 +0000 2021",
+		"id": 1399982779337646000,
+		"id_str": "1399996307763208198",
+		"full_text": "저희가 태연 언니 엄청 좋아했는데 이렇게 같이 저희 춤도 추고 만나게 돼서 너무 좋았어요ㅠㅜㅠㅠㅠ💙 계속 예쁜 태연 언니 너무 감사합니다아아아아아아🤗😍🌹\n\n#TAEYEON #태연\n#aespa #에스파\n@GirlsGeneration https://t.co/gfnmQL4BY6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						87,
+						95
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						107,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						112,
+						128
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1399982770017882000,
+					"id_str": "1399982770017882113",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/E2286XKVUAELFuv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2286XKVUAELFuv.jpg",
+					"url": "https://t.co/gfnmQL4BY6",
+					"display_url": "pic.twitter.com/gfnmQL4BY6",
+					"expanded_url": "https://twitter.com/aespa_official/status/1399982779337646081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1399982770017882000,
+					"id_str": "1399982770017882113",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/E2286XKVUAELFuv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2286XKVUAELFuv.jpg",
+					"url": "https://t.co/gfnmQL4BY6",
+					"display_url": "pic.twitter.com/gfnmQL4BY6",
+					"expanded_url": "https://twitter.com/aespa_official/status/1399982779337646081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1036321,
+			"friends_count": 1,
+			"listed_count": 3911,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12404,
+		"favorite_count": 28283,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저희가 태연 언니 엄청 좋아했는데 이렇게 같이 저희 춤도 추고 만나게 돼서 너무 좋았어요ㅠㅜㅠㅠㅠ💙 계속 예쁜 태연 언니 너무 감사합니다아아아아아아🤗😍🌹\n\n#TAEYEON #태연\n#aespa #에스파\n@GirlsGeneration https://t.co/gfnmQL4BY6"
+	},
+	{
 		"created_at": "Wed Jun 02 05:48:23 +0000 2021",
 		"id": 1399955055734780000,
 		"id_str": "1399966103690903555",
