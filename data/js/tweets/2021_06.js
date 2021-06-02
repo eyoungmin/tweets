@@ -1,6 +1,647 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 02 03:45:19 +0000 2021",
+		"id": 1399935130244944000,
+		"id_str": "1399935130244943877",
+		"full_text": "#KBS #공지사항 #가요심의\n[#가요심의] 가요심의결과(2021.06.02)\nhttps://t.co/wH1prN6oBR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KBS",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "공지사항",
+					"indices": [
+						5,
+						10
+					]
+				},
+				{
+					"text": "가요심의",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "가요심의",
+					"indices": [
+						18,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wH1prN6oBR",
+					"expanded_url": "https://www.kbs.co.kr/board/board.html?bbs_loc=X2017-0031-04-699231,read,%EA%B0%80%EC%9A%94%EC%8B%AC%EC%9D%98,2172,1048286",
+					"display_url": "kbs.co.kr/board/board.ht…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악 그리고 기술에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#KBS #공지사항 #가요심의\n[#가요심의] 가요심의결과(2021.06.02)\nhttps://t.co/wH1prN6oBR"
+	},
+	{
+		"created_at": "Wed Jun 02 03:10:51 +0000 2021",
+		"id": 1399924461919297500,
+		"id_str": "1399926458294837248",
+		"full_text": "윤아가 우리에겐 선물 그 자체지융! ♥융데이 비하인드♥\n\n포스트 보러 가기 👉🏻 https://t.co/rTm4R6QlUt\n \n#YOONA #윤아\n#소녀시대 #GirlsGeneration \n#융데이 https://t.co/nY2hyYHLvQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YOONA",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						88,
+						104
+					]
+				},
+				{
+					"text": "융데이",
+					"indices": [
+						106,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rTm4R6QlUt",
+					"expanded_url": "http://naver.me/xhHEXoLH",
+					"display_url": "naver.me/xhHEXoLH",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1399924451781709800,
+					"id_str": "1399924451781709834",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/E22H3yzVEAoWt1E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E22H3yzVEAoWt1E.jpg",
+					"url": "https://t.co/nY2hyYHLvQ",
+					"display_url": "pic.twitter.com/nY2hyYHLvQ",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1399924461919297536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1399924451781709800,
+					"id_str": "1399924451781709834",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/E22H3yzVEAoWt1E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E22H3yzVEAoWt1E.jpg",
+					"url": "https://t.co/nY2hyYHLvQ",
+					"display_url": "pic.twitter.com/nY2hyYHLvQ",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1399924461919297536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3633666,
+			"friends_count": 4,
+			"listed_count": 5364,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2323,
+		"favorite_count": 6004,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "윤아가 우리에겐 선물 그 자체지융! ♥융데이 비하인드♥\n\n포스트 보러 가기 👉🏻 https://t.co/rTm4R6QlUt\n \n#YOONA #윤아\n#소녀시대 #GirlsGeneration \n#융데이 https://t.co/nY2hyYHLvQ"
+	},
+	{
+		"created_at": "Wed Jun 02 03:10:51 +0000 2021",
+		"id": 1399922611010740200,
+		"id_str": "1399926456357060609",
+		"full_text": "#KWONYURI draws attention as she perfectly pulls of her historical character role and expands her acting spectrum in the drama ‘보쌈-운명을 훔치다’, airing every Saturday and Sunday at 9:40PM KST on MBN!\n\n#권유리\n#YURI #유리\n#소녀시대 #GirlsGeneration \n#보쌈_운명을훔치다 https://t.co/30IV9TcyZi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KWONYURI",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						197,
+						201
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						202,
+						207
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						208,
+						211
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						212,
+						217
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						218,
+						234
+					]
+				},
+				{
+					"text": "보쌈_운명을훔치다",
+					"indices": [
+						236,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1399919271568810000,
+					"id_str": "1399919271568809988",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/E22DKRAVIAQ1lO7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E22DKRAVIAQ1lO7.jpg",
+					"url": "https://t.co/30IV9TcyZi",
+					"display_url": "pic.twitter.com/30IV9TcyZi",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1399922611010740228/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 975,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 553,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1399919271568810000,
+					"id_str": "1399919271568809988",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/E22DKRAVIAQ1lO7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E22DKRAVIAQ1lO7.jpg",
+					"url": "https://t.co/30IV9TcyZi",
+					"display_url": "pic.twitter.com/30IV9TcyZi",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1399922611010740228/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 975,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 553,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1463,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1399919271564636200,
+					"id_str": "1399919271564636164",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/E22DKQ_VcAQbdVw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E22DKQ_VcAQbdVw.jpg",
+					"url": "https://t.co/30IV9TcyZi",
+					"display_url": "pic.twitter.com/30IV9TcyZi",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1399922611010740228/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1399919271560441900,
+					"id_str": "1399919271560441857",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/E22DKQ-VcAEt8LC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E22DKQ-VcAEt8LC.jpg",
+					"url": "https://t.co/30IV9TcyZi",
+					"display_url": "pic.twitter.com/30IV9TcyZi",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1399922611010740228/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9510646,
+			"friends_count": 55,
+			"listed_count": 10018,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 970,
+		"favorite_count": 4694,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#KWONYURI draws attention as she perfectly pulls of her historical character role and expands her acting spectrum in the drama ‘보쌈-운명을 훔치다’, airing every Saturday and Sunday at 9:40PM KST on MBN!\n\n#권유리\n#YURI #유리\n#소녀시대 #GirlsGeneration \n#보쌈_운명을훔치다 https://t.co/30IV9TcyZi"
+	},
+	{
 		"created_at": "Wed Jun 02 02:48:22 +0000 2021",
 		"id": 1399911925475995600,
 		"id_str": "1399920797762822147",
