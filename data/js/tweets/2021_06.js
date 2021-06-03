@@ -1,6 +1,635 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 03 15:00:01 +0000 2021",
+		"id": 1400467311425953800,
+		"id_str": "1400467311425953799",
+		"full_text": "#작사가 #황현 #HwangHyun #신곡알리미\n서기 - 그네 | Rest\nhttps://t.co/DA96ievnnS\n#W0578100 #모노트리 #MonoTree",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "작사가",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "황현",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "HwangHyun",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"text": "신곡알리미",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "W0578100",
+					"indices": [
+						66,
+						75
+					]
+				},
+				{
+					"text": "모노트리",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "MonoTree",
+					"indices": [
+						82,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DA96ievnnS",
+					"expanded_url": "https://www.melon.com/song/detail.htm?songId=33534091",
+					"display_url": "melon.com/song/detail.ht…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#작사가 #황현 #HwangHyun #신곡알리미\n서기 - 그네 | Rest\nhttps://t.co/DA96ievnnS\n#W0578100 #모노트리 #MonoTree"
+	},
+	{
+		"created_at": "Thu Jun 03 14:54:49 +0000 2021",
+		"id": 1400466004094955500,
+		"id_str": "1400466004094955520",
+		"full_text": "#청하 #CHUNGHA \n[청하] 아이 예뻐🖤🖤 \nhttps://t.co/x7KHxtuPlS \n \n#다음팬카페 #공식팬카페 #프롬글",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "다음팬카페",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "프롬글",
+					"indices": [
+						69,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x7KHxtuPlS",
+					"expanded_url": "https://cafe.daum.net/MNH-Chungha/g3oh/204",
+					"display_url": "cafe.daum.net/MNH-Chungha/g3…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청하 #CHUNGHA \n[청하] 아이 예뻐🖤🖤 \nhttps://t.co/x7KHxtuPlS \n \n#다음팬카페 #공식팬카페 #프롬글"
+	},
+	{
+		"created_at": "Thu Jun 03 14:54:48 +0000 2021",
+		"id": 1400466001792225300,
+		"id_str": "1400466001792225284",
+		"full_text": "#청하 #CHUNGHA \n[청하] 뭐해에에엥! \nhttps://t.co/BL8zbRGFb3 \n \n#다음팬카페 #공식팬카페 #프롬글",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "다음팬카페",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "프롬글",
+					"indices": [
+						68,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BL8zbRGFb3",
+					"expanded_url": "https://cafe.daum.net/MNH-Chungha/g3oh/202",
+					"display_url": "cafe.daum.net/MNH-Chungha/g3…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청하 #CHUNGHA \n[청하] 뭐해에에엥! \nhttps://t.co/BL8zbRGFb3 \n \n#다음팬카페 #공식팬카페 #프롬글"
+	},
+	{
+		"created_at": "Thu Jun 03 14:48:43 +0000 2021",
+		"id": 1400462511153897500,
+		"id_str": "1400464468421742597",
+		"full_text": "슬기💛채연\n\n#슬기 #SEULGI #슬기집 #SEULGIzip  #레드벨벳 #RedVelvet #채연 https://t.co/wizbk9GU6G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"text": "슬기집",
+					"indices": [
+						19,
+						23
+					]
+				},
+				{
+					"text": "SEULGIzip",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						36,
+						41
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						42,
+						52
+					]
+				},
+				{
+					"text": "채연",
+					"indices": [
+						53,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1400462500458496000,
+					"id_str": "1400462500458496008",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/E29xOWUVgAgzgqi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E29xOWUVgAgzgqi.jpg",
+					"url": "https://t.co/wizbk9GU6G",
+					"display_url": "pic.twitter.com/wizbk9GU6G",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1400462511153897485/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1117,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1907,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 633,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1400462500458496000,
+					"id_str": "1400462500458496008",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/E29xOWUVgAgzgqi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E29xOWUVgAgzgqi.jpg",
+					"url": "https://t.co/wizbk9GU6G",
+					"display_url": "pic.twitter.com/wizbk9GU6G",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1400462511153897485/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1117,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1907,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 633,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/U7JtipmDEo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U7JtipmDEo",
+							"expanded_url": "https://youtu.be/lNvBbh5jDcA",
+							"display_url": "youtu.be/lNvBbh5jDcA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4185124,
+			"friends_count": 1,
+			"listed_count": 8917,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1622019868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8240,
+		"favorite_count": 21798,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬기💛채연\n\n#슬기 #SEULGI #슬기집 #SEULGIzip  #레드벨벳 #RedVelvet #채연 https://t.co/wizbk9GU6G"
+	},
+	{
 		"created_at": "Thu Jun 03 13:18:06 +0000 2021",
 		"id": 1400437108733448200,
 		"id_str": "1400441664787779590",
