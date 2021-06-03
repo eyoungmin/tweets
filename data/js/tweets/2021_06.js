@@ -1,6 +1,682 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 03 11:48:41 +0000 2021",
+		"id": 1400411119974453200,
+		"id_str": "1400419162636181509",
+		"full_text": "#MCOUNTDOWN \n\n#NextLevel ➫ https://t.co/X40XowZX5F\n\n#aespa #æspa #에스파\n#NextLevel",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						70,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X40XowZX5F",
+					"expanded_url": "http://naver.me/5JJtjjiY",
+					"display_url": "naver.me/5JJtjjiY",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1040531,
+			"friends_count": 1,
+			"listed_count": 3942,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3494,
+		"favorite_count": 10273,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#MCOUNTDOWN \n\n#NextLevel ➫ https://t.co/X40XowZX5F\n\n#aespa #æspa #에스파\n#NextLevel"
+	},
+	{
+		"created_at": "Thu Jun 03 11:43:16 +0000 2021",
+		"id": 1400417801127538700,
+		"id_str": "1400417801127538694",
+		"full_text": "#작곡가 #황현 #신곡알리미\n서기 - 그네 | Rest\nhttps://t.co/DA96ievnnS\n#W0578100 #모노트리 #MonoTree",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "작곡가",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "황현",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "신곡알리미",
+					"indices": [
+						9,
+						15
+					]
+				},
+				{
+					"text": "W0578100",
+					"indices": [
+						55,
+						64
+					]
+				},
+				{
+					"text": "모노트리",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "MonoTree",
+					"indices": [
+						71,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DA96ievnnS",
+					"expanded_url": "https://www.melon.com/song/detail.htm?songId=33534091",
+					"display_url": "melon.com/song/detail.ht…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#작곡가 #황현 #신곡알리미\n서기 - 그네 | Rest\nhttps://t.co/DA96ievnnS\n#W0578100 #모노트리 #MonoTree"
+	},
+	{
+		"created_at": "Thu Jun 03 11:34:51 +0000 2021",
+		"id": 1400415680911052800,
+		"id_str": "1400415680911052800",
+		"full_text": "#The Volunteers #더발룬티어스 \nThe Volunteers (더 발룬티어스) 'PINKTOP' MV \nhttps://t.co/lJHe0W1mOw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "The",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "더발룬티어스",
+					"indices": [
+						16,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lJHe0W1mOw",
+					"expanded_url": "https://www.youtube.com/watch?v=1oRFlwlVXvg",
+					"display_url": "youtube.com/watch?v=1oRFlw…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#The Volunteers #더발룬티어스 \nThe Volunteers (더 발룬티어스) 'PINKTOP' MV \nhttps://t.co/lJHe0W1mOw"
+	},
+	{
+		"created_at": "Thu Jun 03 11:18:05 +0000 2021",
+		"id": 1400406917604733000,
+		"id_str": "1400411460061122560",
+		"full_text": "Open your eyes\n\nLOOПΔ 4th Mini Album [&amp;]\n2021.6.28 pm6 (KST) Release\n\n#이달의소녀 #LOONA #하슬 #HaSeul #AND\n\nLOOΠΔ\nhttps://t.co/5CfbXI886V https://t.co/ohQ2BB8EqK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "하슬",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "HaSeul",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"text": "AND",
+					"indices": [
+						100,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5CfbXI886V",
+					"expanded_url": "http://www.loonatheworld.com",
+					"display_url": "loonatheworld.com",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1400370599780700200,
+					"id_str": "1400370599780700166",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/E28dpBnUUAYGLgm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E28dpBnUUAYGLgm.jpg",
+					"url": "https://t.co/ohQ2BB8EqK",
+					"display_url": "pic.twitter.com/ohQ2BB8EqK",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1400406917604732937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1412,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1400370599780700200,
+					"id_str": "1400370599780700166",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/E28dpBnUUAYGLgm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E28dpBnUUAYGLgm.jpg",
+					"url": "https://t.co/ohQ2BB8EqK",
+					"display_url": "pic.twitter.com/ohQ2BB8EqK",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1400406917604732937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1412,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1400370599772389400,
+					"id_str": "1400370599772389377",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/E28dpBlVgAEOpM8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E28dpBlVgAEOpM8.jpg",
+					"url": "https://t.co/ohQ2BB8EqK",
+					"display_url": "pic.twitter.com/ohQ2BB8EqK",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1400406917604732937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1412,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1400370599789138000,
+					"id_str": "1400370599789137921",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/E28dpBpVEAE-A-U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E28dpBpVEAE-A-U.jpg",
+					"url": "https://t.co/ohQ2BB8EqK",
+					"display_url": "pic.twitter.com/ohQ2BB8EqK",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1400406917604732937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 828,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1412,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 721278,
+			"friends_count": 0,
+			"listed_count": 7267,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2921,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25575,
+		"favorite_count": 49070,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Open your eyes\n\nLOOПΔ 4th Mini Album [&amp;]\n2021.6.28 pm6 (KST) Release\n\n#이달의소녀 #LOONA #하슬 #HaSeul #AND\n\nLOOΠΔ\nhttps://t.co/5CfbXI886V https://t.co/ohQ2BB8EqK"
+	},
+	{
 		"created_at": "Thu Jun 03 10:48:41 +0000 2021",
 		"id": 1400403451339628500,
 		"id_str": "1400404063997501441",
@@ -702,7 +1378,7 @@ Grailbird.data.tweets_2021_06 =
 		"created_at": "Thu Jun 03 10:48:41 +0000 2021",
 		"id": 1400403190001016800,
 		"id_str": "1400404061271121920",
-		"full_text": "안녕하세요 닝닝입니다🥰\n저희 오늘 처음으로 엠카에 나왔오용 오호호호✌️🧚🏻‍♀️\n\n#aespa #æspa #에스파\n#NINGNING #닝닝 \n#NextLevel https://t.co/wdwVt4Bsbq",
+		"full_text": "안녕하세요 닝닝입니다🥰\n저희 오늘 처음으로 엠카에 나왔오용 오호호호✌️🧚🏻♀️\n\n#aespa #æspa #에스파\n#NINGNING #닝닝 \n#NextLevel https://t.co/wdwVt4Bsbq",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -901,7 +1577,7 @@ Grailbird.data.tweets_2021_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "안녕하세요 닝닝입니다🥰\n저희 오늘 처음으로 엠카에 나왔오용 오호호호✌️🧚🏻‍♀️\n\n#aespa #æspa #에스파\n#NINGNING #닝닝 \n#NextLevel https://t.co/wdwVt4Bsbq"
+		"text": "안녕하세요 닝닝입니다🥰\n저희 오늘 처음으로 엠카에 나왔오용 오호호호✌️🧚🏻♀️\n\n#aespa #æspa #에스파\n#NINGNING #닝닝 \n#NextLevel https://t.co/wdwVt4Bsbq"
 	},
 	{
 		"created_at": "Thu Jun 03 10:19:43 +0000 2021",
