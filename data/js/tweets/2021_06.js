@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 03 12:19:44 +0000 2021",
+		"id": 1400424591051219000,
+		"id_str": "1400426976993701892",
+		"full_text": "청춘의 밤 [Set list] - cover \n.\n7. 편지 - 원곡 김광진\n.\n.\n.\nPiano 박대현\nCello 지박 \n\n@mondayprojectkr https://t.co/Ur47I1e9o0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MondayProjectKR",
+					"name": "먼데이프로젝트",
+					"id": 2983652137,
+					"id_str": "2983652137",
+					"indices": [
+						70,
+						86
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1400424523934044200,
+					"id_str": "1400424523934044163",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1400424523934044163/pu/img/H7dgvF7WW3lvfGDe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1400424523934044163/pu/img/H7dgvF7WW3lvfGDe.jpg",
+					"url": "https://t.co/Ur47I1e9o0",
+					"display_url": "pic.twitter.com/Ur47I1e9o0",
+					"expanded_url": "https://twitter.com/savina0128/status/1400424591051218945/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1400424523934044200,
+					"id_str": "1400424523934044163",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1400424523934044163/pu/img/H7dgvF7WW3lvfGDe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1400424523934044163/pu/img/H7dgvF7WW3lvfGDe.jpg",
+					"url": "https://t.co/Ur47I1e9o0",
+					"display_url": "pic.twitter.com/Ur47I1e9o0",
+					"expanded_url": "https://twitter.com/savina0128/status/1400424591051218945/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 53067,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1400424523934044163/pu/vid/720x900/wGxkIydXnfb50pKg.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1400424523934044163/pu/pl/WQwV6iWmT7VbxMWe.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1400424523934044163/pu/vid/320x400/E9S7qii5Uqcdxs5g.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1400424523934044163/pu/vid/480x600/PAtlVr3ikw6SLT8a.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나 SAVINA",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "사비나앤드론즈 SAVINA & DRONES Musician",
+			"url": "https://t.co/HUiR4zmWAI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HUiR4zmWAI",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1316,
+			"friends_count": 244,
+			"listed_count": 33,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2063,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "청춘의 밤 [Set list] - cover \n.\n7. 편지 - 원곡 김광진\n.\n.\n.\nPiano 박대현\nCello 지박 \n\n@mondayprojectkr https://t.co/Ur47I1e9o0"
+	},
+	{
 		"created_at": "Thu Jun 03 11:48:41 +0000 2021",
 		"id": 1400411119974453200,
 		"id_str": "1400419162636181509",
