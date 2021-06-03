@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 03 18:40:39 +0000 2021",
+		"id": 1400385154854506500,
+		"id_str": "1400522835307630592",
+		"full_text": "#헤픈우연 으로 돌아온 #헤이즈 의 아트 필름을 공개합니다. 나와 또 다른 자아, 이중성. 헤이즈의 여러 매력이 담긴 영상을 지금 확인해보세요. \nLet's watch the #Heize art and fashion film 'Duality'.\n🔗https://t.co/0CxXqS6PkK https://t.co/AdQrD6fD5f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헤픈우연",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "헤이즈",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "Heize",
+					"indices": [
+						98,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0CxXqS6PkK",
+					"expanded_url": "https://www.youtube.com/watch?v=zgD_344S4lE",
+					"display_url": "youtube.com/watch?v=zgD_34…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1400385014517223400,
+					"id_str": "1400385014517223427",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/E28qwEsUUAM0PAB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E28qwEsUUAM0PAB.jpg",
+					"url": "https://t.co/AdQrD6fD5f",
+					"display_url": "pic.twitter.com/AdQrD6fD5f",
+					"expanded_url": "https://twitter.com/esquirekr/status/1400385154854506497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 740,
+							"h": 462,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 462,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1400385014517223400,
+					"id_str": "1400385014517223427",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/E28qwEsUUAM0PAB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E28qwEsUUAM0PAB.jpg",
+					"url": "https://t.co/AdQrD6fD5f",
+					"display_url": "pic.twitter.com/AdQrD6fD5f",
+					"expanded_url": "https://twitter.com/esquirekr/status/1400385154854506497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 740,
+							"h": 462,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 462,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174477812,
+			"id_str": "174477812",
+			"name": "ESQUIRE Korea",
+			"screen_name": "esquirekr",
+			"location": "Seoul",
+			"description": "취향 있는 이들을 위한 에스콰이어 트윗입니다.",
+			"url": "https://t.co/o9MzqxGPvP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o9MzqxGPvP",
+							"expanded_url": "http://esquirekorea.co.kr/",
+							"display_url": "esquirekorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8847,
+			"friends_count": 0,
+			"listed_count": 105,
+			"created_at": "Wed Aug 04 01:06:57 +0000 2010",
+			"favourites_count": 692,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2923,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6F6F6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216634775244439552/6mIzpCnH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216634775244439552/6mIzpCnH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174477812/1621217005",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C7C7C7",
+			"profile_text_color": "0A0006",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#헤픈우연 으로 돌아온 #헤이즈 의 아트 필름을 공개합니다. 나와 또 다른 자아, 이중성. 헤이즈의 여러 매력이 담긴 영상을 지금 확인해보세요. \nLet's watch the #Heize art and fashion film 'Duality'.\n🔗https://t.co/0CxXqS6PkK https://t.co/AdQrD6fD5f"
+	},
+	{
 		"created_at": "Thu Jun 03 16:53:38 +0000 2021",
 		"id": 1400490088644055000,
 		"id_str": "1400495903610343427",
