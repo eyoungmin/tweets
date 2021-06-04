@@ -1,6 +1,640 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 04 22:20:10 +0000 2021",
+		"id": 1400925986409967600,
+		"id_str": "1400940468825853954",
+		"full_text": "Billie Eilish - \"Lost Cause\"\nListen now on @Spotify's #NMF playlist. https://t.co/GSlHujGMqd https://t.co/yGNFQfzsTb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NMF",
+					"indices": [
+						54,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						43,
+						51
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GSlHujGMqd",
+					"expanded_url": "https://BillieEilish.lnk.to/NewMusicFriday",
+					"display_url": "BillieEilish.lnk.to/NewMusicFriday",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1400925475354992600,
+					"id_str": "1400925475354992640",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/E3EWTCNUYAAwoEw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3EWTCNUYAAwoEw.jpg",
+					"url": "https://t.co/yGNFQfzsTb",
+					"display_url": "pic.twitter.com/yGNFQfzsTb",
+					"expanded_url": "https://twitter.com/billieeilish/status/1400925986409967620/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1400925475354992600,
+					"id_str": "1400925475354992640",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/E3EWTCNUYAAwoEw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3EWTCNUYAAwoEw.jpg",
+					"url": "https://t.co/yGNFQfzsTb",
+					"display_url": "pic.twitter.com/yGNFQfzsTb",
+					"expanded_url": "https://twitter.com/billieeilish/status/1400925986409967620/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "New album “Happier Than Ever” out July 30 https://t.co/DEGLgUC35l",
+			"url": "https://t.co/UybIbAW2j6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UybIbAW2j6",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DEGLgUC35l",
+							"expanded_url": "https://billieeilish.lnk.to/HappierThanEver",
+							"display_url": "billieeilish.lnk.to/HappierThanEver",
+							"indices": [
+								42,
+								65
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5996898,
+			"friends_count": 0,
+			"listed_count": 3844,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1387065127208247299/bni08CVZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387065127208247299/bni08CVZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1619536789",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1088,
+		"favorite_count": 11009,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Billie Eilish - \"Lost Cause\"\nListen now on @Spotify's #NMF playlist. https://t.co/GSlHujGMqd https://t.co/yGNFQfzsTb"
+	},
+	{
+		"created_at": "Fri Jun 04 22:20:10 +0000 2021",
+		"id": 1400927477820649500,
+		"id_str": "1400940467513028616",
+		"full_text": "Billie Eilish - \"Lost Cause\"\nListen now on @youtubemusic's #TheHitList. https://t.co/9nE2Xr4eGt https://t.co/5vaanwSrsX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheHitList",
+					"indices": [
+						59,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "youtubemusic",
+					"name": "YouTube Music",
+					"id": 880142286176231400,
+					"id_str": "880142286176231425",
+					"indices": [
+						43,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9nE2Xr4eGt",
+					"expanded_url": "https://BillieEilish.lnk.to/TheHitList",
+					"display_url": "BillieEilish.lnk.to/TheHitList",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1400926842312282000,
+					"id_str": "1400926842312282115",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/E3EXimhVUAMwAsJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3EXimhVUAMwAsJ.jpg",
+					"url": "https://t.co/5vaanwSrsX",
+					"display_url": "pic.twitter.com/5vaanwSrsX",
+					"expanded_url": "https://twitter.com/billieeilish/status/1400927477820649473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1400926842312282000,
+					"id_str": "1400926842312282115",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/E3EXimhVUAMwAsJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3EXimhVUAMwAsJ.jpg",
+					"url": "https://t.co/5vaanwSrsX",
+					"display_url": "pic.twitter.com/5vaanwSrsX",
+					"expanded_url": "https://twitter.com/billieeilish/status/1400927477820649473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "New album “Happier Than Ever” out July 30 https://t.co/DEGLgUC35l",
+			"url": "https://t.co/UybIbAW2j6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UybIbAW2j6",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DEGLgUC35l",
+							"expanded_url": "https://billieeilish.lnk.to/HappierThanEver",
+							"display_url": "billieeilish.lnk.to/HappierThanEver",
+							"indices": [
+								42,
+								65
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5996898,
+			"friends_count": 0,
+			"listed_count": 3844,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1387065127208247299/bni08CVZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387065127208247299/bni08CVZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1619536789",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 769,
+		"favorite_count": 8189,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Billie Eilish - \"Lost Cause\"\nListen now on @youtubemusic's #TheHitList. https://t.co/9nE2Xr4eGt https://t.co/5vaanwSrsX"
+	},
+	{
+		"created_at": "Fri Jun 04 22:20:10 +0000 2021",
+		"id": 1400926274785222700,
+		"id_str": "1400940467508838404",
+		"full_text": "Billie Eilish - \"Lost Cause\"\nListen now on @AppleMusic's Billie Eilish Essentials playlist. https://t.co/pt3ULtnkMX https://t.co/b03cCgTGF1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						43,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pt3ULtnkMX",
+					"expanded_url": "https://BillieEilish.lnk.to/AppleEssentials",
+					"display_url": "BillieEilish.lnk.to/AppleEssentials",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1400926009705201700,
+					"id_str": "1400926009705201668",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/E3EWyI0VgAQ5kXz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3EWyI0VgAQ5kXz.jpg",
+					"url": "https://t.co/b03cCgTGF1",
+					"display_url": "pic.twitter.com/b03cCgTGF1",
+					"expanded_url": "https://twitter.com/billieeilish/status/1400926274785222656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1400926009705201700,
+					"id_str": "1400926009705201668",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/E3EWyI0VgAQ5kXz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3EWyI0VgAQ5kXz.jpg",
+					"url": "https://t.co/b03cCgTGF1",
+					"display_url": "pic.twitter.com/b03cCgTGF1",
+					"expanded_url": "https://twitter.com/billieeilish/status/1400926274785222656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "New album “Happier Than Ever” out July 30 https://t.co/DEGLgUC35l",
+			"url": "https://t.co/UybIbAW2j6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UybIbAW2j6",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DEGLgUC35l",
+							"expanded_url": "https://billieeilish.lnk.to/HappierThanEver",
+							"display_url": "billieeilish.lnk.to/HappierThanEver",
+							"indices": [
+								42,
+								65
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5996898,
+			"friends_count": 0,
+			"listed_count": 3844,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1387065127208247299/bni08CVZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387065127208247299/bni08CVZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1619536789",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 731,
+		"favorite_count": 8142,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Billie Eilish - \"Lost Cause\"\nListen now on @AppleMusic's Billie Eilish Essentials playlist. https://t.co/pt3ULtnkMX https://t.co/b03cCgTGF1"
+	},
+	{
 		"created_at": "Fri Jun 04 18:11:33 +0000 2021",
 		"id": 1400758352788004900,
 		"id_str": "1400877900518215680",
