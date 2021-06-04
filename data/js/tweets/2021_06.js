@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 04 18:11:33 +0000 2021",
+		"id": 1400758352788004900,
+		"id_str": "1400877900518215680",
+		"full_text": "【 🎟️ 】　\n#멜론티켓 #티켓오픈소식 #티켓오픈\n정밀아 정기단독공연 〈초여름〉 티켓 오픈 안내 ─ 티켓오픈일 2021.06.09(수) 12:00\n▶️ https://t.co/XmJ7tr05YS https://t.co/z24yJX2waI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론티켓",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "티켓오픈소식",
+					"indices": [
+						14,
+						21
+					]
+				},
+				{
+					"text": "티켓오픈",
+					"indices": [
+						22,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XmJ7tr05YS",
+					"expanded_url": "https://bit.ly/3z1KCZK",
+					"display_url": "bit.ly/3z1KCZK",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1400758351823315000,
+					"id_str": "1400758351823314947",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/E3B-TKiXIAMouZL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3B-TKiXIAMouZL.jpg",
+					"url": "https://t.co/z24yJX2waI",
+					"display_url": "pic.twitter.com/z24yJX2waI",
+					"expanded_url": "https://twitter.com/MelonTicketOpen/status/1400758352788004865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1400758351823315000,
+					"id_str": "1400758351823314947",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/E3B-TKiXIAMouZL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3B-TKiXIAMouZL.jpg",
+					"url": "https://t.co/z24yJX2waI",
+					"display_url": "pic.twitter.com/z24yJX2waI",
+					"expanded_url": "https://twitter.com/MelonTicketOpen/status/1400758352788004865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2400267686,
+			"id_str": "2400267686",
+			"name": "멜론 티켓 - 티켓오픈소식",
+			"screen_name": "MelonTicketOpen",
+			"location": "",
+			"description": "#멜론티켓 #티켓오픈소식 비공식 봇\n\n통합/티켓링크/하나티켓/위메프 공연티켓 @TicketOpen\n인터파크 티켓 @InterTicketOpen\n예스24 티켓 @YES24TicketOpen\n\n문의 : @TicketOpen DM",
+			"url": "https://t.co/8Ig81gko9S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8Ig81gko9S",
+							"expanded_url": "http://bit.ly/MelonTicketOpen",
+							"display_url": "bit.ly/MelonTicketOpen",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472,
+			"friends_count": 20,
+			"listed_count": 8,
+			"created_at": "Thu Mar 20 18:19:10 +0000 2014",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1869,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202629741016010754/nZ04yjqw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202629741016010754/nZ04yjqw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2400267686/1575564440",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 🎟️ 】　\n#멜론티켓 #티켓오픈소식 #티켓오픈\n정밀아 정기단독공연 〈초여름〉 티켓 오픈 안내 ─ 티켓오픈일 2021.06.09(수) 12:00\n▶️ https://t.co/XmJ7tr05YS https://t.co/z24yJX2waI"
+	},
+	{
 		"created_at": "Fri Jun 04 16:53:57 +0000 2021",
 		"id": 1400852895759622100,
 		"id_str": "1400858371796783115",
