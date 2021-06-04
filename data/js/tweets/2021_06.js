@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 04 16:53:57 +0000 2021",
+		"id": 1400852895759622100,
+		"id_str": "1400858371796783115",
+		"full_text": "🐻 : 자니....?\n안 자는 널 위해..\n작은 선물을 준비했어..(수줍)\n\n강슬기 머리 흩날릴 때 \n내 마음도 흩날렸다..💗\n월드와이드 여러분 \n우리 호스트 춤선 좀 보세요 꺄아😆\n언니 옆에서 깨발랄한 째요니,\n왜 이렇게 사랑스럽챈👭\n\n#슬기zip #슬기 #채연 #wowthing https://t.co/eBBUZpRg35",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "채연",
+					"indices": [
+						144,
+						147
+					]
+				},
+				{
+					"text": "wowthing",
+					"indices": [
+						148,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1400852834283782100,
+					"id_str": "1400852834283782144",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1400852834283782144/pu/img/MkF8cTXojbSIEm9o.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1400852834283782144/pu/img/MkF8cTXojbSIEm9o.jpg",
+					"url": "https://t.co/eBBUZpRg35",
+					"display_url": "pic.twitter.com/eBBUZpRg35",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1400852895759622149/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 408,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1400852834283782100,
+					"id_str": "1400852834283782144",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1400852834283782144/pu/img/MkF8cTXojbSIEm9o.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1400852834283782144/pu/img/MkF8cTXojbSIEm9o.jpg",
+					"url": "https://t.co/eBBUZpRg35",
+					"display_url": "pic.twitter.com/eBBUZpRg35",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1400852895759622149/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 408,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							5
+						],
+						"duration_millis": 24157,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1400852834283782144/pu/vid/720x1200/eJ31-WHcY4cx9xD9.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1400852834283782144/pu/vid/480x800/_Rp4VR20OKACvew-.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1400852834283782144/pu/vid/320x532/TSDh-roovMy_O68U.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1400852834283782144/pu/pl/rku3oGtnVglSDOp7.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21315,
+			"friends_count": 1,
+			"listed_count": 78,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1621911527",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1234,
+		"favorite_count": 1990,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🐻 : 자니....?\n안 자는 널 위해..\n작은 선물을 준비했어..(수줍)\n\n강슬기 머리 흩날릴 때 \n내 마음도 흩날렸다..💗\n월드와이드 여러분 \n우리 호스트 춤선 좀 보세요 꺄아😆\n언니 옆에서 깨발랄한 째요니,\n왜 이렇게 사랑스럽챈👭\n\n#슬기zip #슬기 #채연 #wowthing https://t.co/eBBUZpRg35"
+	},
+	{
 		"created_at": "Fri Jun 04 15:18:25 +0000 2021",
 		"id": 1400829707877175300,
 		"id_str": "1400834332143472648",
