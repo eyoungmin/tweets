@@ -1,6 +1,812 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 05 09:17:57 +0000 2021",
+		"id": 1401094399996530700,
+		"id_str": "1401106005220478979",
+		"full_text": "안녕하세요 윈터에용❄️🤍\n오늘 음악 중심의 멋진 세트에서 무대 잘 끝냈어요오 넥스트레벨 많이 많이 들어주시고 에스파 만세~~~~☃️\n\n#aespa #æspa #에스파\n#WINTER #윈터 \n#NextLevel https://t.co/PMrTpb0buH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						93,
+						100
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						106,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1401094393944154000,
+					"id_str": "1401094393944154113",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/E3Gv7Y_VIAE26aQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3Gv7Y_VIAE26aQ.jpg",
+					"url": "https://t.co/PMrTpb0buH",
+					"display_url": "pic.twitter.com/PMrTpb0buH",
+					"expanded_url": "https://twitter.com/aespa_official/status/1401094399996530691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1401094393944154000,
+					"id_str": "1401094393944154113",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/E3Gv7Y_VIAE26aQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3Gv7Y_VIAE26aQ.jpg",
+					"url": "https://t.co/PMrTpb0buH",
+					"display_url": "pic.twitter.com/PMrTpb0buH",
+					"expanded_url": "https://twitter.com/aespa_official/status/1401094399996530691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052098,
+			"friends_count": 1,
+			"listed_count": 3998,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11864,
+		"favorite_count": 32284,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요 윈터에용❄️🤍\n오늘 음악 중심의 멋진 세트에서 무대 잘 끝냈어요오 넥스트레벨 많이 많이 들어주시고 에스파 만세~~~~☃️\n\n#aespa #æspa #에스파\n#WINTER #윈터 \n#NextLevel https://t.co/PMrTpb0buH"
+	},
+	{
+		"created_at": "Sat Jun 05 09:17:57 +0000 2021",
+		"id": 1401094490962555000,
+		"id_str": "1401106004897501184",
+		"full_text": "여러분~! 저희 음악중심 무대 잘 봤나요~? \n많이 사랑해주떼요..🙈\n아주 굿 굿한 토요일 보내요용! 💆🏻‍♀️\n\n#aespa #æspa #에스파\n#GISELLE #지젤 \n#NextLevel https://t.co/eZljGUxwXF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"text": "지젤",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						96,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1401094484557848600,
+					"id_str": "1401094484557848577",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/E3GwAqjUYAEq-Ds.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3GwAqjUYAEq-Ds.jpg",
+					"url": "https://t.co/eZljGUxwXF",
+					"display_url": "pic.twitter.com/eZljGUxwXF",
+					"expanded_url": "https://twitter.com/aespa_official/status/1401094490962554880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1183,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 670,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1419,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1401094484557848600,
+					"id_str": "1401094484557848577",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/E3GwAqjUYAEq-Ds.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3GwAqjUYAEq-Ds.jpg",
+					"url": "https://t.co/eZljGUxwXF",
+					"display_url": "pic.twitter.com/eZljGUxwXF",
+					"expanded_url": "https://twitter.com/aespa_official/status/1401094490962554880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1183,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 670,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1419,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052098,
+			"friends_count": 1,
+			"listed_count": 3998,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7710,
+		"favorite_count": 21518,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여러분~! 저희 음악중심 무대 잘 봤나요~? \n많이 사랑해주떼요..🙈\n아주 굿 굿한 토요일 보내요용! 💆🏻‍♀️\n\n#aespa #æspa #에스파\n#GISELLE #지젤 \n#NextLevel https://t.co/eZljGUxwXF"
+	},
+	{
+		"created_at": "Sat Jun 05 09:17:57 +0000 2021",
+		"id": 1401094744432808000,
+		"id_str": "1401106004872368130",
+		"full_text": "안녕하세요 ~ 에스파입니당🌏 \n오늘 저희 무대 어땠나요~? 아주 화이트 화이트 했쥬? 아주 의상이랑 세트랑 찰떡이었던 것 같아요😎 앞으로도 에스파 멋쟁이스러운 모습 많이 보여드릴 테니까 기대 많이 해주시고 많이 사랑해주세용 히히🐙🐱🐶\n\n#aespa #æspa #에스파\n#NextLevel https://t.co/KxmhfdxXzt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						150,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1401094738242019300,
+					"id_str": "1401094738242019334",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/E3GwPbmVoAYoeVf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3GwPbmVoAYoeVf.jpg",
+					"url": "https://t.co/KxmhfdxXzt",
+					"display_url": "pic.twitter.com/KxmhfdxXzt",
+					"expanded_url": "https://twitter.com/aespa_official/status/1401094744432807946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 418,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 886,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 738,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1401094738242019300,
+					"id_str": "1401094738242019334",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/E3GwPbmVoAYoeVf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3GwPbmVoAYoeVf.jpg",
+					"url": "https://t.co/KxmhfdxXzt",
+					"display_url": "pic.twitter.com/KxmhfdxXzt",
+					"expanded_url": "https://twitter.com/aespa_official/status/1401094744432807946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 418,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 886,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 738,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052098,
+			"friends_count": 1,
+			"listed_count": 3998,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8866,
+		"favorite_count": 23365,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요 ~ 에스파입니당🌏 \n오늘 저희 무대 어땠나요~? 아주 화이트 화이트 했쥬? 아주 의상이랑 세트랑 찰떡이었던 것 같아요😎 앞으로도 에스파 멋쟁이스러운 모습 많이 보여드릴 테니까 기대 많이 해주시고 많이 사랑해주세용 히히🐙🐱🐶\n\n#aespa #æspa #에스파\n#NextLevel https://t.co/KxmhfdxXzt"
+	},
+	{
+		"created_at": "Sat Jun 05 09:17:56 +0000 2021",
+		"id": 1401094628422525000,
+		"id_str": "1401106002691334147",
+		"full_text": "안녕하세요 카리나입니다~!🤗\n오늘 엄청 빤짝 에스파였어요~ 오늘 음악중심도 잘 보셨나요?! 오늘 세트가 너무너무 예뻤어요ㅎㅎㅎㅎ🤩\n앞으로도 많이 기대해 주세용!!\n\n#aespa #æspa #에스파\n#KARINA #카리나 \n#NextLevel https://t.co/qPQqqZDARW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "카리나",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						124,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1401094620361093000,
+					"id_str": "1401094620361093120",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/E3GwIkdVcAAYGiW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3GwIkdVcAAYGiW.jpg",
+					"url": "https://t.co/qPQqqZDARW",
+					"display_url": "pic.twitter.com/qPQqqZDARW",
+					"expanded_url": "https://twitter.com/aespa_official/status/1401094628422524933/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1401094620361093000,
+					"id_str": "1401094620361093120",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/E3GwIkdVcAAYGiW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3GwIkdVcAAYGiW.jpg",
+					"url": "https://t.co/qPQqqZDARW",
+					"display_url": "pic.twitter.com/qPQqqZDARW",
+					"expanded_url": "https://twitter.com/aespa_official/status/1401094628422524933/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052098,
+			"friends_count": 1,
+			"listed_count": 3998,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8941,
+		"favorite_count": 23899,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요 카리나입니다~!🤗\n오늘 엄청 빤짝 에스파였어요~ 오늘 음악중심도 잘 보셨나요?! 오늘 세트가 너무너무 예뻤어요ㅎㅎㅎㅎ🤩\n앞으로도 많이 기대해 주세용!!\n\n#aespa #æspa #에스파\n#KARINA #카리나 \n#NextLevel https://t.co/qPQqqZDARW"
+	},
+	{
 		"created_at": "Sat Jun 05 08:10:00 +0000 2021",
 		"id": 1401085090256461800,
 		"id_str": "1401088903709343749",
