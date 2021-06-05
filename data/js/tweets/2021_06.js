@@ -1,6 +1,1130 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 05 15:18:46 +0000 2021",
+		"id": 1401192096552210400,
+		"id_str": "1401196805769945095",
+		"full_text": "We're about to paint the town\n\nLOOПΔ 4th Mini Album [&amp;]\n2021.6.28 pm6 (KST) Release\n\n#이달의소녀 #LOONA #최리 #Choerry #AND\n\nLOOΠΔ\nhttps://t.co/5CfbXI886V https://t.co/t3Ts9gFgYp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						107,
+						115
+					]
+				},
+				{
+					"text": "AND",
+					"indices": [
+						116,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5CfbXI886V",
+					"expanded_url": "http://www.loonatheworld.com",
+					"display_url": "loonatheworld.com",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1401132399111458800,
+					"id_str": "1401132399111458816",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/E3HSflRUUAA-W0N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3HSflRUUAA-W0N.jpg",
+					"url": "https://t.co/t3Ts9gFgYp",
+					"display_url": "pic.twitter.com/t3Ts9gFgYp",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1401192096552210436/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 828,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1412,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1401132399111458800,
+					"id_str": "1401132399111458816",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/E3HSflRUUAA-W0N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3HSflRUUAA-W0N.jpg",
+					"url": "https://t.co/t3Ts9gFgYp",
+					"display_url": "pic.twitter.com/t3Ts9gFgYp",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1401192096552210436/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 828,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1412,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1401132399149285400,
+					"id_str": "1401132399149285376",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/E3HSflaVgAA--GS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3HSflaVgAA--GS.jpg",
+					"url": "https://t.co/t3Ts9gFgYp",
+					"display_url": "pic.twitter.com/t3Ts9gFgYp",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1401192096552210436/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1412,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1401132399258312700,
+					"id_str": "1401132399258312708",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/E3HSfl0VIAQCMDW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3HSfl0VIAQCMDW.jpg",
+					"url": "https://t.co/t3Ts9gFgYp",
+					"display_url": "pic.twitter.com/t3Ts9gFgYp",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1401192096552210436/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1412,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 729882,
+			"friends_count": 0,
+			"listed_count": 7293,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16234,
+		"favorite_count": 30893,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're about to paint the town\n\nLOOПΔ 4th Mini Album [&amp;]\n2021.6.28 pm6 (KST) Release\n\n#이달의소녀 #LOONA #최리 #Choerry #AND\n\nLOOΠΔ\nhttps://t.co/5CfbXI886V https://t.co/t3Ts9gFgYp"
+	},
+	{
+		"created_at": "Sat Jun 05 15:18:03 +0000 2021",
+		"id": 1401182448688451600,
+		"id_str": "1401196626845212679",
+		"full_text": "#aespa #KARINA #GISELLE #WINTER #NINGNING #아는형님 https://t.co/wCWUuUZWbm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						24,
+						31
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						32,
+						41
+					]
+				},
+				{
+					"text": "아는형님",
+					"indices": [
+						42,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1401182441914597400,
+					"id_str": "1401182441914597377",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/E3IAAdPVgAExQbq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3IAAdPVgAExQbq.jpg",
+					"url": "https://t.co/wCWUuUZWbm",
+					"display_url": "pic.twitter.com/wCWUuUZWbm",
+					"expanded_url": "https://twitter.com/aespa_official/status/1401182448688451585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1401182441914597400,
+					"id_str": "1401182441914597377",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/E3IAAdPVgAExQbq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3IAAdPVgAExQbq.jpg",
+					"url": "https://t.co/wCWUuUZWbm",
+					"display_url": "pic.twitter.com/wCWUuUZWbm",
+					"expanded_url": "https://twitter.com/aespa_official/status/1401182448688451585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1401182441906212900,
+					"id_str": "1401182441906212872",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/E3IAAdNVkAgPjaA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3IAAdNVkAgPjaA.jpg",
+					"url": "https://t.co/wCWUuUZWbm",
+					"display_url": "pic.twitter.com/wCWUuUZWbm",
+					"expanded_url": "https://twitter.com/aespa_official/status/1401182448688451585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1401182441906184200,
+					"id_str": "1401182441906184211",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/E3IAAdNVIBMWw8m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3IAAdNVIBMWw8m.jpg",
+					"url": "https://t.co/wCWUuUZWbm",
+					"display_url": "pic.twitter.com/wCWUuUZWbm",
+					"expanded_url": "https://twitter.com/aespa_official/status/1401182448688451585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 489,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 863,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1035,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1054485,
+			"friends_count": 1,
+			"listed_count": 4021,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 672,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11018,
+		"favorite_count": 28396,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#aespa #KARINA #GISELLE #WINTER #NINGNING #아는형님 https://t.co/wCWUuUZWbm"
+	},
+	{
+		"created_at": "Sat Jun 05 15:18:03 +0000 2021",
+		"id": 1401182457165086700,
+		"id_str": "1401196625683382278",
+		"full_text": "#aespa #KARINA #GISELLE #WINTER #NINGNING #아는형님 https://t.co/O9Ddwu8Dvp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						24,
+						31
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						32,
+						41
+					]
+				},
+				{
+					"text": "아는형님",
+					"indices": [
+						42,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1401182451804762000,
+					"id_str": "1401182451804762117",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/E3IABCFVcAUUn6B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3IABCFVcAUUn6B.jpg",
+					"url": "https://t.co/O9Ddwu8Dvp",
+					"display_url": "pic.twitter.com/O9Ddwu8Dvp",
+					"expanded_url": "https://twitter.com/aespa_official/status/1401182457165086724/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1401182451804762000,
+					"id_str": "1401182451804762117",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/E3IABCFVcAUUn6B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3IABCFVcAUUn6B.jpg",
+					"url": "https://t.co/O9Ddwu8Dvp",
+					"display_url": "pic.twitter.com/O9Ddwu8Dvp",
+					"expanded_url": "https://twitter.com/aespa_official/status/1401182457165086724/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1401182451771187200,
+					"id_str": "1401182451771187206",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/E3IABB9VIAYF_2d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3IABB9VIAYF_2d.jpg",
+					"url": "https://t.co/O9Ddwu8Dvp",
+					"display_url": "pic.twitter.com/O9Ddwu8Dvp",
+					"expanded_url": "https://twitter.com/aespa_official/status/1401182457165086724/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1401182448688451600,
+		"in_reply_to_status_id_str": "1401182448688451585",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1054485,
+			"friends_count": 1,
+			"listed_count": 4021,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 672,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7407,
+		"favorite_count": 19240,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#aespa #KARINA #GISELLE #WINTER #NINGNING #아는형님 https://t.co/O9Ddwu8Dvp"
+	},
+	{
+		"created_at": "Sat Jun 05 15:18:03 +0000 2021",
+		"id": 1401182611611918300,
+		"id_str": "1401196625024847874",
+		"full_text": "#aespa #KARINA #GISELLE #WINTER #NINGNING #아는형님 https://t.co/bT1h8rQT5W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "GISELLE",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						24,
+						31
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						32,
+						41
+					]
+				},
+				{
+					"text": "아는형님",
+					"indices": [
+						42,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1401182601382011000,
+					"id_str": "1401182601382010880",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/E3IAJvTVIAAc4P_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3IAJvTVIAAc4P_.jpg",
+					"url": "https://t.co/bT1h8rQT5W",
+					"display_url": "pic.twitter.com/bT1h8rQT5W",
+					"expanded_url": "https://twitter.com/aespa_official/status/1401182611611918337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1401182601382011000,
+					"id_str": "1401182601382010880",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/E3IAJvTVIAAc4P_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3IAJvTVIAAc4P_.jpg",
+					"url": "https://t.co/bT1h8rQT5W",
+					"display_url": "pic.twitter.com/bT1h8rQT5W",
+					"expanded_url": "https://twitter.com/aespa_official/status/1401182611611918337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1401182600333385700,
+					"id_str": "1401182600333385735",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/E3IAJrZUYAcPF3T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3IAJrZUYAcPF3T.jpg",
+					"url": "https://t.co/bT1h8rQT5W",
+					"display_url": "pic.twitter.com/bT1h8rQT5W",
+					"expanded_url": "https://twitter.com/aespa_official/status/1401182611611918337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1401182600362750000,
+					"id_str": "1401182600362749954",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/E3IAJrgUcAIUive.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3IAJrgUcAIUive.jpg",
+					"url": "https://t.co/bT1h8rQT5W",
+					"display_url": "pic.twitter.com/bT1h8rQT5W",
+					"expanded_url": "https://twitter.com/aespa_official/status/1401182611611918337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1401182601566584800,
+					"id_str": "1401182601566584841",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/E3IAJv_VgAkTyAx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3IAJv_VgAkTyAx.jpg",
+					"url": "https://t.co/bT1h8rQT5W",
+					"display_url": "pic.twitter.com/bT1h8rQT5W",
+					"expanded_url": "https://twitter.com/aespa_official/status/1401182611611918337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1054485,
+			"friends_count": 1,
+			"listed_count": 4021,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 672,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12730,
+		"favorite_count": 32644,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#aespa #KARINA #GISELLE #WINTER #NINGNING #아는형님 https://t.co/bT1h8rQT5W"
+	},
+	{
 		"created_at": "Sat Jun 05 14:59:21 +0000 2021",
 		"id": 1401177424457396200,
 		"id_str": "1401191920601206787",
