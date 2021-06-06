@@ -1,6 +1,507 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 06 13:54:28 +0000 2021",
+		"id": 1401536448600313900,
+		"id_str": "1401537979550638082",
+		"full_text": "그리고 너무도 많은 분들이 저의 앨범 활동에 도움을 주셨는데 한 분 한 분 정말 감사하다는 말 전하고 싶어요!! 저 혼자서는 절대 해내지 못했을 이번 첫 솔로 앨범 함께 만들어주셔서 감사합니다💚",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1401536446217998300,
+		"in_reply_to_status_id_str": "1401536446217998336",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/U7JtipmDEo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U7JtipmDEo",
+							"expanded_url": "https://youtu.be/lNvBbh5jDcA",
+							"display_url": "youtu.be/lNvBbh5jDcA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4197571,
+			"friends_count": 1,
+			"listed_count": 8948,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1934,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1622019868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1568,
+		"favorite_count": 4637,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그리고 너무도 많은 분들이 저의 앨범 활동에 도움을 주셨는데 한 분 한 분 정말 감사하다는 말 전하고 싶어요!! 저 혼자서는 절대 해내지 못했을 이번 첫 솔로 앨범 함께 만들어주셔서 감사합니다💚"
+	},
+	{
+		"created_at": "Sun Jun 06 13:54:28 +0000 2021",
+		"id": 1401536446217998300,
+		"id_str": "1401537979496099842",
+		"full_text": "안녕하세요!! 조이입니다💕💕\n이번 첫 솔로 앨범 안녕 음악방송 활동이 \n오늘 인기가요를 끝으로 끝났어요🥲🥲\n처음이라서 서툰 것도 많고 평소보다 긴장도 많이 해서 러비들도 저와 같이 가슴 졸이며 저의 활동을 지켜봐 줬을 것 같은데요ㅜㅜ 항상 저를 응원해주시고 믿고 지지해주셔서 감사해요..💚 https://t.co/wdNE6yJAG3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1401536426651504600,
+					"id_str": "1401536426651504647",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/E3NB9FJVUAc_Jj1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3NB9FJVUAc_Jj1.jpg",
+					"url": "https://t.co/wdNE6yJAG3",
+					"display_url": "pic.twitter.com/wdNE6yJAG3",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1401536446217998336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1401536426651504600,
+					"id_str": "1401536426651504647",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/E3NB9FJVUAc_Jj1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3NB9FJVUAc_Jj1.jpg",
+					"url": "https://t.co/wdNE6yJAG3",
+					"display_url": "pic.twitter.com/wdNE6yJAG3",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1401536446217998336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1401536437455970300,
+					"id_str": "1401536437455970305",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/E3NB9tZUYAEZTAM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3NB9tZUYAEZTAM.jpg",
+					"url": "https://t.co/wdNE6yJAG3",
+					"display_url": "pic.twitter.com/wdNE6yJAG3",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1401536446217998336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/U7JtipmDEo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U7JtipmDEo",
+							"expanded_url": "https://youtu.be/lNvBbh5jDcA",
+							"display_url": "youtu.be/lNvBbh5jDcA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4197571,
+			"friends_count": 1,
+			"listed_count": 8948,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1934,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1622019868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5622,
+		"favorite_count": 13771,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요!! 조이입니다💕💕\n이번 첫 솔로 앨범 안녕 음악방송 활동이 \n오늘 인기가요를 끝으로 끝났어요🥲🥲\n처음이라서 서툰 것도 많고 평소보다 긴장도 많이 해서 러비들도 저와 같이 가슴 졸이며 저의 활동을 지켜봐 줬을 것 같은데요ㅜㅜ 항상 저를 응원해주시고 믿고 지지해주셔서 감사해요..💚 https://t.co/wdNE6yJAG3"
+	},
+	{
+		"created_at": "Sun Jun 06 13:30:08 +0000 2021",
+		"id": 1401531856756129800,
+		"id_str": "1401531856756129794",
+		"full_text": "#레드벨벳 #RedVelvet #VLIVE \nJOY 조이 '좋을텐데 (If Only) (Feat. 폴킴)' Live Video | Red Velvet \nhttps://t.co/l1haTv1GQu https://t.co/fWZDSvkCW5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l1haTv1GQu",
+					"expanded_url": "https://www.vlive.tv/video/251320",
+					"display_url": "vlive.tv/video/251320",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1401531855057436700,
+					"id_str": "1401531855057436677",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/E3M9y-oXwAUngJI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3M9y-oXwAUngJI.jpg",
+					"url": "https://t.co/fWZDSvkCW5",
+					"display_url": "pic.twitter.com/fWZDSvkCW5",
+					"expanded_url": "https://twitter.com/fromminn/status/1401531856756129794/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1401531855057436700,
+					"id_str": "1401531855057436677",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/E3M9y-oXwAUngJI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3M9y-oXwAUngJI.jpg",
+					"url": "https://t.co/fWZDSvkCW5",
+					"display_url": "pic.twitter.com/fWZDSvkCW5",
+					"expanded_url": "https://twitter.com/fromminn/status/1401531856756129794/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 313,
+			"friends_count": 1052,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#레드벨벳 #RedVelvet #VLIVE \nJOY 조이 '좋을텐데 (If Only) (Feat. 폴킴)' Live Video | Red Velvet \nhttps://t.co/l1haTv1GQu https://t.co/fWZDSvkCW5"
+	},
+	{
 		"created_at": "Sun Jun 06 11:19:01 +0000 2021",
 		"id": 1401494077347074000,
 		"id_str": "1401498861336633346",
