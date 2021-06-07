@@ -1,6 +1,537 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 07 06:49:31 +0000 2021",
+		"id": 1401793424500703200,
+		"id_str": "1401793424500703234",
+		"full_text": "#가온차트 #GaonChart #공지사항 #Notice \n2021년 6월 7일 공지사항 \nhttps://t.co/ybcltf29KC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "가온차트",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "GaonChart",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "공지사항",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "Notice",
+					"indices": [
+						23,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ybcltf29KC",
+					"expanded_url": "http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=118&pageNo=1&condition=&searchStr",
+					"display_url": "gaonchart.co.kr/main/section/n…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#가온차트 #GaonChart #공지사항 #Notice \n2021년 6월 7일 공지사항 \nhttps://t.co/ybcltf29KC"
+	},
+	{
+		"created_at": "Mon Jun 07 06:44:29 +0000 2021",
+		"id": 1401792160534515700,
+		"id_str": "1401792160534515715",
+		"full_text": "#SMTOWN #Artist_News \n레드벨벳 조이 ‘좋을텐데 (Feat. 폴킴)’ 라이브 클립 6일 공개! \nhttps://t.co/8C2zPREh2X \n \n#레드벨벳 #RedVelvet https://t.co/p2PiUh9sAu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						96,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8C2zPREh2X",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5078",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1401792159704129500,
+					"id_str": "1401792159704129536",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/E3QqitAXoAAqOA7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3QqitAXoAAqOA7.jpg",
+					"url": "https://t.co/p2PiUh9sAu",
+					"display_url": "pic.twitter.com/p2PiUh9sAu",
+					"expanded_url": "https://twitter.com/fromminn/status/1401792160534515715/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1401792159704129500,
+					"id_str": "1401792159704129536",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/E3QqitAXoAAqOA7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3QqitAXoAAqOA7.jpg",
+					"url": "https://t.co/p2PiUh9sAu",
+					"display_url": "pic.twitter.com/p2PiUh9sAu",
+					"expanded_url": "https://twitter.com/fromminn/status/1401792160534515715/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \n레드벨벳 조이 ‘좋을텐데 (Feat. 폴킴)’ 라이브 클립 6일 공개! \nhttps://t.co/8C2zPREh2X \n \n#레드벨벳 #RedVelvet https://t.co/p2PiUh9sAu"
+	},
+	{
+		"created_at": "Mon Jun 07 06:19:17 +0000 2021",
+		"id": 1401781001274019800,
+		"id_str": "1401785817803104257",
+		"full_text": "이달의 소녀 LOOΠΔ On Wave [LOOΠΔTHEWORLD : &amp;]가 오는 6월 28일 오후 10시(KST) 개최됩니다! 자세한 공지사항은 추후 공식팬카페를 통해 안내될 예정이오니 많은 관심 부탁드립니다💟\n\n#이달의소녀 #LOONA #AND\n\n▶️ https://t.co/PhqPM921E2 https://t.co/7sjnPWaP99",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "AND",
+					"indices": [
+						137,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PhqPM921E2",
+					"expanded_url": "https://cafe.daum.net/loonatheworld",
+					"display_url": "cafe.daum.net/loonatheworld",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1401780599610757000,
+					"id_str": "1401780599610757120",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/E3QgB0TVUAAjjTy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3QgB0TVUAAjjTy.jpg",
+					"url": "https://t.co/7sjnPWaP99",
+					"display_url": "pic.twitter.com/7sjnPWaP99",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1401781001274019843/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1401780599610757000,
+					"id_str": "1401780599610757120",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/E3QgB0TVUAAjjTy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3QgB0TVUAAjjTy.jpg",
+					"url": "https://t.co/7sjnPWaP99",
+					"display_url": "pic.twitter.com/7sjnPWaP99",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1401781001274019843/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 733242,
+			"friends_count": 0,
+			"listed_count": 7315,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3933,
+		"favorite_count": 11737,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이달의 소녀 LOOΠΔ On Wave [LOOΠΔTHEWORLD : &amp;]가 오는 6월 28일 오후 10시(KST) 개최됩니다! 자세한 공지사항은 추후 공식팬카페를 통해 안내될 예정이오니 많은 관심 부탁드립니다💟\n\n#이달의소녀 #LOONA #AND\n\n▶️ https://t.co/PhqPM921E2 https://t.co/7sjnPWaP99"
+	},
+	{
 		"created_at": "Mon Jun 07 05:19:16 +0000 2021",
 		"id": 1401755934397894700,
 		"id_str": "1401770712126300164",
