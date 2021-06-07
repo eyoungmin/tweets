@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 07 12:54:22 +0000 2021",
+		"id": 1401876260335231000,
+		"id_str": "1401885242227527681",
+		"full_text": "[PHOTO] 청하의 4주년에도 함께해 주신 별하랑 여러분 감사합니다! \n\n언제나 청하의 최애인 별하랑의 3주년도 \n진심으로 축하해요 💚💙💜\n\n#청하 #CHUNGHA \n#별하랑 #BYULHARANG\n#청하의_4주년을_별랑합니다\n#별하랑의_3주년도_별랑합니다 https://t.co/u2WErFWVz5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "별하랑",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "BYULHARANG",
+					"indices": [
+						99,
+						110
+					]
+				},
+				{
+					"text": "청하의_4주년을_별랑합니다",
+					"indices": [
+						111,
+						126
+					]
+				},
+				{
+					"text": "별하랑의_3주년도_별랑합니다",
+					"indices": [
+						127,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1401875497793904600,
+					"id_str": "1401875497793904640",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/E3R2VnlUYAAB_XK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3R2VnlUYAAB_XK.jpg",
+					"url": "https://t.co/u2WErFWVz5",
+					"display_url": "pic.twitter.com/u2WErFWVz5",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1401876260335230980/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1401875497793904600,
+					"id_str": "1401875497793904640",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/E3R2VnlUYAAB_XK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3R2VnlUYAAB_XK.jpg",
+					"url": "https://t.co/u2WErFWVz5",
+					"display_url": "pic.twitter.com/u2WErFWVz5",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1401876260335230980/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1401875497798168600,
+					"id_str": "1401875497798168576",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/E3R2VnmVcAArLDm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3R2VnmVcAArLDm.jpg",
+					"url": "https://t.co/u2WErFWVz5",
+					"display_url": "pic.twitter.com/u2WErFWVz5",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1401876260335230980/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1401875649409650700,
+					"id_str": "1401875649409650693",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/E3R2ecZVEAUi8iq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3R2ecZVEAUi8iq.jpg",
+					"url": "https://t.co/u2WErFWVz5",
+					"display_url": "pic.twitter.com/u2WErFWVz5",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1401876260335230980/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/uAFyf5T7B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAFyf5T7B0",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331602,
+			"friends_count": 0,
+			"listed_count": 2029,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1891,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1617289944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 732,
+		"favorite_count": 2276,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[PHOTO] 청하의 4주년에도 함께해 주신 별하랑 여러분 감사합니다! \n\n언제나 청하의 최애인 별하랑의 3주년도 \n진심으로 축하해요 💚💙💜\n\n#청하 #CHUNGHA \n#별하랑 #BYULHARANG\n#청하의_4주년을_별랑합니다\n#별하랑의_3주년도_별랑합니다 https://t.co/u2WErFWVz5"
+	},
+	{
 		"created_at": "Mon Jun 07 11:21:33 +0000 2021",
 		"id": 1401858267442139100,
 		"id_str": "1401861887298457601",
