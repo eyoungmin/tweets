@@ -1,6 +1,440 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 08 11:50:14 +0000 2021",
+		"id": 1402231490621100000,
+		"id_str": "1402231490621100032",
+		"full_text": "#Melon #멜론 #포토\n자우림 단독 콘서트 ［ 잎새에 적은 노래 안단테 드라마티코 ］\n▶ https://t.co/3zONJyJb4Y\n원본 : https://t.co/uTmgKZzK2O\n#자우림 #Jaurim https://t.co/qRQnUmyNgH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "포토",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "자우림",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "Jaurim",
+					"indices": [
+						110,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3zONJyJb4Y",
+					"expanded_url": "https://www.melon.com/artist/photo_detail.htm?artistId=100094&photoId=80137866&orderBy=NEW",
+					"display_url": "melon.com/artist/photo_d…",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/uTmgKZzK2O",
+					"expanded_url": "https://cdnimg.melon.co.kr/cm2/photo/images/000/801/37/866/80137866_20210608153324_org.jpg",
+					"display_url": "cdnimg.melon.co.kr/cm2/photo/imag…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402231489627136000,
+					"id_str": "1402231489627136011",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E3W6HEgXoAsdMhC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3W6HEgXoAsdMhC.jpg",
+					"url": "https://t.co/qRQnUmyNgH",
+					"display_url": "pic.twitter.com/qRQnUmyNgH",
+					"expanded_url": "https://twitter.com/fromminn/status/1402231490621100032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 706,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 706,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402231489627136000,
+					"id_str": "1402231489627136011",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E3W6HEgXoAsdMhC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3W6HEgXoAsdMhC.jpg",
+					"url": "https://t.co/qRQnUmyNgH",
+					"display_url": "pic.twitter.com/qRQnUmyNgH",
+					"expanded_url": "https://twitter.com/fromminn/status/1402231490621100032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 706,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 706,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81043,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #포토\n자우림 단독 콘서트 ［ 잎새에 적은 노래 안단테 드라마티코 ］\n▶ https://t.co/3zONJyJb4Y\n원본 : https://t.co/uTmgKZzK2O\n#자우림 #Jaurim https://t.co/qRQnUmyNgH"
+	},
+	{
+		"created_at": "Tue Jun 08 11:50:08 +0000 2021",
+		"id": 1402231465316860000,
+		"id_str": "1402231465316859908",
+		"full_text": "#Melon #멜론 #포토\n싱글 [ 잎새에 적은 노래 ]\n▶ https://t.co/OcTyqHW47h\n원본 : https://t.co/TcJOQMiJcV\n#자우림 #Jaurim https://t.co/AuFYrOBvav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "포토",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "자우림",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "Jaurim",
+					"indices": [
+						92,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OcTyqHW47h",
+					"expanded_url": "https://www.melon.com/artist/photo_detail.htm?artistId=100094&photoId=80137863&orderBy=NEW",
+					"display_url": "melon.com/artist/photo_d…",
+					"indices": [
+						34,
+						57
+					]
+				},
+				{
+					"url": "https://t.co/TcJOQMiJcV",
+					"expanded_url": "https://cdnimg.melon.co.kr/cm2/photo/images/000/801/37/863/80137863_20210608152815_org.jpg",
+					"display_url": "cdnimg.melon.co.kr/cm2/photo/imag…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402231464192839700,
+					"id_str": "1402231464192839681",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/E3W6FlwXEAEdspa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3W6FlwXEAEdspa.jpg",
+					"url": "https://t.co/AuFYrOBvav",
+					"display_url": "pic.twitter.com/AuFYrOBvav",
+					"expanded_url": "https://twitter.com/fromminn/status/1402231465316859908/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402231464192839700,
+					"id_str": "1402231464192839681",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/E3W6FlwXEAEdspa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3W6FlwXEAEdspa.jpg",
+					"url": "https://t.co/AuFYrOBvav",
+					"display_url": "pic.twitter.com/AuFYrOBvav",
+					"expanded_url": "https://twitter.com/fromminn/status/1402231465316859908/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81043,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #포토\n싱글 [ 잎새에 적은 노래 ]\n▶ https://t.co/OcTyqHW47h\n원본 : https://t.co/TcJOQMiJcV\n#자우림 #Jaurim https://t.co/AuFYrOBvav"
+	},
+	{
 		"created_at": "Tue Jun 08 10:57:58 +0000 2021",
 		"id": 1402218338760204300,
 		"id_str": "1402218338760204289",
