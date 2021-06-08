@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 08 20:38:37 +0000 2021",
+		"id": 1402364463055995000,
+		"id_str": "1402364463055994881",
+		"full_text": "로제 키워드를 걸어놨더니 로제떡볶이가 걸리다니. https://t.co/o7gR9vc7jo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o7gR9vc7jo",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1402177969943048193",
+					"display_url": "twitter.com/ELLE_KOREA/sta…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44951,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1402177969943048200,
+		"quoted_status_id_str": "1402177969943048193",
+		"quoted_status_permalink": {
+			"url": "https://t.co/o7gR9vc7jo",
+			"expanded": "https://twitter.com/ELLE_KOREA/status/1402177969943048193",
+			"display": "twitter.com/ELLE_KOREA/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 08 08:17:33 +0000 2021",
+			"id": 1402177969943048200,
+			"id_str": "1402177969943048193",
+			"full_text": "#ELLE트렌드 #로제떡볶이  \n\n엽떡? 배떡? 대세는 K-로제.\nhttps://t.co/ELZTpBnSuT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				60
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ELLE트렌드",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"text": "로제떡볶이",
+						"indices": [
+							9,
+							15
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ELZTpBnSuT",
+						"expanded_url": "https://bit.ly/3gjx4Ak",
+						"display_url": "bit.ly/3gjx4Ak",
+						"indices": [
+							37,
+							60
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 226107231,
+				"id_str": "226107231",
+				"name": "ELLE Korea",
+				"screen_name": "ELLE_KOREA",
+				"location": "대한민국 서울",
+				"description": "패션 매거진 ELLE KOREA 공식 트위터 official twitter 입니다.",
+				"url": "https://t.co/wrg4l4aKRf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wrg4l4aKRf",
+								"expanded_url": "https://instabio.cc/ELLEKOREA",
+								"display_url": "instabio.cc/ELLEKOREA",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 139384,
+				"friends_count": 3470,
+				"listed_count": 443,
+				"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+				"favourites_count": 443,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 14709,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1620957985",
+				"profile_link_color": "161F24",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 355,
+			"favorite_count": 618,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "로제 키워드를 걸어놨더니 로제떡볶이가 걸리다니. https://t.co/o7gR9vc7jo"
+	},
+	{
 		"created_at": "Tue Jun 08 16:15:50 +0000 2021",
 		"id": 1402298330865094700,
 		"id_str": "1402298330865094663",
