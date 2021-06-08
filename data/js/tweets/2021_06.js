@@ -1,6 +1,424 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 08 13:54:56 +0000 2021",
+		"id": 1402248492718854100,
+		"id_str": "1402262875499020291",
+		"full_text": "#슬기zip 압축 해제 중...💛\n\n✨기쁘다 #JOY 오셨네!✨ \n\n🏡슬기zip🏡 오늘의 초대 손님💚 프린세스 워터멜론🍉 우리의 기쁨🥰 맑음이☀️#JOY 왔JOY~🧡\n\n🧡슬기X조이💚 만나러 오세요💕\nhttps://t.co/4TtzuBLZCZ https://t.co/hn6oVUlqng",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						81,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4TtzuBLZCZ",
+					"expanded_url": "https://now.naver.com/player/10359",
+					"display_url": "now.naver.com/player/10359",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402248477795516400,
+					"id_str": "1402248477795516424",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/E3XJj6XVgAgTap8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3XJj6XVgAgTap8.jpg",
+					"url": "https://t.co/hn6oVUlqng",
+					"display_url": "pic.twitter.com/hn6oVUlqng",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1402248492718854144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1534,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402248477795516400,
+					"id_str": "1402248477795516424",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/E3XJj6XVgAgTap8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3XJj6XVgAgTap8.jpg",
+					"url": "https://t.co/hn6oVUlqng",
+					"display_url": "pic.twitter.com/hn6oVUlqng",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1402248492718854144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1534,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23066,
+			"friends_count": 1,
+			"listed_count": 81,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1621911527",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3402,
+		"favorite_count": 4975,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 압축 해제 중...💛\n\n✨기쁘다 #JOY 오셨네!✨ \n\n🏡슬기zip🏡 오늘의 초대 손님💚 프린세스 워터멜론🍉 우리의 기쁨🥰 맑음이☀️#JOY 왔JOY~🧡\n\n🧡슬기X조이💚 만나러 오세요💕\nhttps://t.co/4TtzuBLZCZ https://t.co/hn6oVUlqng"
+	},
+	{
+		"created_at": "Tue Jun 08 13:19:44 +0000 2021",
+		"id": 1402249058454999000,
+		"id_str": "1402254016231346182",
+		"full_text": "‘서울함 탈환작전’의 승리 부대가 결정되는 오늘의 #강철부대 ‼ 잠시 후 오후 10시 30분(KST)에 같이 본방사수해요, 오빛💫\n\n#이달의소녀 #LOONA #츄 #Chuu https://t.co/o1WLLbk7Nf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강철부대",
+					"indices": [
+						28,
+						33
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						88,
+						90
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						91,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1402217203546529800,
+					"id_str": "1402217203546529800",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E3WtHgtVIAgvUkt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3WtHgtVIAgvUkt.jpg",
+					"url": "https://t.co/o1WLLbk7Nf",
+					"display_url": "pic.twitter.com/o1WLLbk7Nf",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1402249058454999041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402217203546529800,
+					"id_str": "1402217203546529800",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E3WtHgtVIAgvUkt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3WtHgtVIAgvUkt.jpg",
+					"url": "https://t.co/o1WLLbk7Nf",
+					"display_url": "pic.twitter.com/o1WLLbk7Nf",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1402249058454999041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 734317,
+			"friends_count": 0,
+			"listed_count": 7328,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2940,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5732,
+		"favorite_count": 21894,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘서울함 탈환작전’의 승리 부대가 결정되는 오늘의 #강철부대 ‼ 잠시 후 오후 10시 30분(KST)에 같이 본방사수해요, 오빛💫\n\n#이달의소녀 #LOONA #츄 #Chuu https://t.co/o1WLLbk7Nf"
+	},
+	{
 		"created_at": "Tue Jun 08 12:54:56 +0000 2021",
 		"id": 1402237292719214600,
 		"id_str": "1402247772841992195",
