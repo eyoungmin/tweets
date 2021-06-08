@@ -1,6 +1,496 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 08 09:54:36 +0000 2021",
+		"id": 1402190591316828200,
+		"id_str": "1402202393618518051",
+		"full_text": "[VIDEO]\n📹 청하, Colde (콜드) - 내 입술 따뜻한 커피처럼 Live Clip #1\n\n▶ https://t.co/ybHWIdOTGJ\n\n#청하 #CHUNGHA\n#내_입술_따뜻한_커피처럼 https://t.co/QKQTMJoWNB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"text": "내_입술_따뜻한_커피처럼",
+					"indices": [
+						95,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ybHWIdOTGJ",
+					"expanded_url": "https://youtu.be/n4b3Hywneuw",
+					"display_url": "youtu.be/n4b3Hywneuw",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402190492163399700,
+					"id_str": "1402190492163399680",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1402190492163399680/pu/img/trfH9JClDcxmonK8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1402190492163399680/pu/img/trfH9JClDcxmonK8.jpg",
+					"url": "https://t.co/QKQTMJoWNB",
+					"display_url": "pic.twitter.com/QKQTMJoWNB",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1402190591316828160/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402190492163399700,
+					"id_str": "1402190492163399680",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1402190492163399680/pu/img/trfH9JClDcxmonK8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1402190492163399680/pu/img/trfH9JClDcxmonK8.jpg",
+					"url": "https://t.co/QKQTMJoWNB",
+					"display_url": "pic.twitter.com/QKQTMJoWNB",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1402190591316828160/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 46417,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1402190492163399680/pu/vid/320x320/BW_BMsVJrqZg3B_t.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1402190492163399680/pu/vid/480x480/0GqhWNMsyyAbrO2F.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1402190492163399680/pu/pl/dIoNxtQU3tt0qOv7.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/uAFyf5T7B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAFyf5T7B0",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331555,
+			"friends_count": 0,
+			"listed_count": 2027,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1617289944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 358,
+		"favorite_count": 1017,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO]\n📹 청하, Colde (콜드) - 내 입술 따뜻한 커피처럼 Live Clip #1\n\n▶ https://t.co/ybHWIdOTGJ\n\n#청하 #CHUNGHA\n#내_입술_따뜻한_커피처럼 https://t.co/QKQTMJoWNB"
+	},
+	{
+		"created_at": "Tue Jun 08 09:54:36 +0000 2021",
+		"id": 1402190063887282200,
+		"id_str": "1402202390837686273",
+		"full_text": "내 입술 따뜻한 커피처럼-청하 &amp; Colde (콜드)\n\n🍈 멜론 : https://t.co/VGLWjbHvpF\n🧞 지니 : https://t.co/78A3W6gSlG\n💟 바이브 : https://t.co/iZ2KDuSAA3\n🔵 플로 : https://t.co/ULVuqFxCLQ\n▶ Live Video : https://t.co/ybHWIdOTGJ\n\n#청하 #CHUNGHA\n#Colde #콜드 \n#내_입술_따뜻한_커피처럼 https://t.co/EXnXVe33vg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						200,
+						203
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						204,
+						212
+					]
+				},
+				{
+					"text": "Colde",
+					"indices": [
+						213,
+						219
+					]
+				},
+				{
+					"text": "콜드",
+					"indices": [
+						220,
+						223
+					]
+				},
+				{
+					"text": "내_입술_따뜻한_커피처럼",
+					"indices": [
+						225,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VGLWjbHvpF",
+					"expanded_url": "http://kko.to/qRqk4UCDT",
+					"display_url": "kko.to/qRqk4UCDT",
+					"indices": [
+						42,
+						65
+					]
+				},
+				{
+					"url": "https://t.co/78A3W6gSlG",
+					"expanded_url": "http://genie.co.kr/DAOMP0",
+					"display_url": "genie.co.kr/DAOMP0",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/iZ2KDuSAA3",
+					"expanded_url": "http://naver.me/FFv8mJ27",
+					"display_url": "naver.me/FFv8mJ27",
+					"indices": [
+						105,
+						128
+					]
+				},
+				{
+					"url": "https://t.co/ULVuqFxCLQ",
+					"expanded_url": "http://flomuz.io/s/b.EnGxc",
+					"display_url": "flomuz.io/s/b.EnGxc",
+					"indices": [
+						136,
+						159
+					]
+				},
+				{
+					"url": "https://t.co/ybHWIdOTGJ",
+					"expanded_url": "https://youtu.be/n4b3Hywneuw",
+					"display_url": "youtu.be/n4b3Hywneuw",
+					"indices": [
+						175,
+						198
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402189921243209700,
+					"id_str": "1402189921243209730",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/E3WUTeNVoAI0M5P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3WUTeNVoAI0M5P.jpg",
+					"url": "https://t.co/EXnXVe33vg",
+					"display_url": "pic.twitter.com/EXnXVe33vg",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1402190063887282177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402189921243209700,
+					"id_str": "1402189921243209730",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/E3WUTeNVoAI0M5P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3WUTeNVoAI0M5P.jpg",
+					"url": "https://t.co/EXnXVe33vg",
+					"display_url": "pic.twitter.com/EXnXVe33vg",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1402190063887282177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/uAFyf5T7B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAFyf5T7B0",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331555,
+			"friends_count": 0,
+			"listed_count": 2027,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1617289944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 210,
+		"favorite_count": 660,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내 입술 따뜻한 커피처럼-청하 &amp; Colde (콜드)\n\n🍈 멜론 : https://t.co/VGLWjbHvpF\n🧞 지니 : https://t.co/78A3W6gSlG\n💟 바이브 : https://t.co/iZ2KDuSAA3\n🔵 플로 : https://t.co/ULVuqFxCLQ\n▶ Live Video : https://t.co/ybHWIdOTGJ\n\n#청하 #CHUNGHA\n#Colde #콜드 \n#내_입술_따뜻한_커피처럼 https://t.co/EXnXVe33vg"
+	},
+	{
 		"created_at": "Tue Jun 08 06:33:37 +0000 2021",
 		"id": 1402151814389186600,
 		"id_str": "1402151814389186562",
