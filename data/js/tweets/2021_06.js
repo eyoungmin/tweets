@@ -1,6 +1,514 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 09 06:55:06 +0000 2021",
+		"id": 1402514936920645600,
+		"id_str": "1402519608016347137",
+		"full_text": "#슬기zip 네 번째 방문 손님💚 \n슬기사랑💛#문별 언니 온대요~ 슬야호💕\n\n#슬기zip X #스튜디오문나잇 \n다시 없을 패션 장인들의 만남🥰\n스타일 고민, ‘슬&amp;문’에게 하고 싶은 말!\n#7117로 보내주세요💕(정보이용료100원)\n\n✨내일 밤 10시✨잊지 말고 놀러오기💚\n#레드벨벳 #슬기 #마마무 #문별 https://t.co/VdnzSyyXNh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "문별",
+					"indices": [
+						25,
+						28
+					]
+				},
+				{
+					"text": "슬기zip",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"text": "스튜디오문나잇",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"text": "7117로",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						167,
+						171
+					]
+				},
+				{
+					"text": "문별",
+					"indices": [
+						172,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1402514931455430700,
+					"id_str": "1402514931455430659",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/E3a75jmVEAM79ie.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3a75jmVEAM79ie.jpg",
+					"url": "https://t.co/VdnzSyyXNh",
+					"display_url": "pic.twitter.com/VdnzSyyXNh",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1402514936920645635/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1472,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402514931455430700,
+					"id_str": "1402514931455430659",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/E3a75jmVEAM79ie.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3a75jmVEAM79ie.jpg",
+					"url": "https://t.co/VdnzSyyXNh",
+					"display_url": "pic.twitter.com/VdnzSyyXNh",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1402514936920645635/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1472,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23898,
+			"friends_count": 1,
+			"listed_count": 85,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1621911527",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 837,
+		"favorite_count": 1654,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 네 번째 방문 손님💚 \n슬기사랑💛#문별 언니 온대요~ 슬야호💕\n\n#슬기zip X #스튜디오문나잇 \n다시 없을 패션 장인들의 만남🥰\n스타일 고민, ‘슬&amp;문’에게 하고 싶은 말!\n#7117로 보내주세요💕(정보이용료100원)\n\n✨내일 밤 10시✨잊지 말고 놀러오기💚\n#레드벨벳 #슬기 #마마무 #문별 https://t.co/VdnzSyyXNh"
+	},
+	{
+		"created_at": "Wed Jun 09 06:54:54 +0000 2021",
+		"id": 1402518377566855200,
+		"id_str": "1402519556694843392",
+		"full_text": "[PHOTO] 내 입술...? 네 입술...? \n그리고 우리술...💚💙💜\n'내 입술 따뜻한 커피처럼' 라이브 촬영 현장에서 \n셀카를 요리조리 찍던 청하가 \n선물이라며 사진을 보내줌.🎁\n\n근데 하나 의문. \n사진만 보면 심장이 너무 떨림.  \n당연함. 김청하니까. \n\n#CHUNGHA #청하\n#내_입술_따뜻한_커피처럼 https://t.co/RMk2UvmdT6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						149,
+						157
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						158,
+						161
+					]
+				},
+				{
+					"text": "내_입술_따뜻한_커피처럼",
+					"indices": [
+						162,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1402517471957962800,
+					"id_str": "1402517471957962752",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E3a-NbtVUAApIrD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3a-NbtVUAApIrD.jpg",
+					"url": "https://t.co/RMk2UvmdT6",
+					"display_url": "pic.twitter.com/RMk2UvmdT6",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1402518377566855182/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402517471957962800,
+					"id_str": "1402517471957962752",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E3a-NbtVUAApIrD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3a-NbtVUAApIrD.jpg",
+					"url": "https://t.co/RMk2UvmdT6",
+					"display_url": "pic.twitter.com/RMk2UvmdT6",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1402518377566855182/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1402517471957901300,
+					"id_str": "1402517471957901316",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E3a-NbtUYAQZmrI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3a-NbtUYAQZmrI.jpg",
+					"url": "https://t.co/RMk2UvmdT6",
+					"display_url": "pic.twitter.com/RMk2UvmdT6",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1402518377566855182/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1402517471974674400,
+					"id_str": "1402517471974674432",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E3a-NbxUUAAQ0vo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3a-NbxUUAAQ0vo.jpg",
+					"url": "https://t.co/RMk2UvmdT6",
+					"display_url": "pic.twitter.com/RMk2UvmdT6",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1402518377566855182/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/uAFyf5T7B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAFyf5T7B0",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331580,
+			"friends_count": 0,
+			"listed_count": 2024,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1617289944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 331,
+		"favorite_count": 1086,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[PHOTO] 내 입술...? 네 입술...? \n그리고 우리술...💚💙💜\n'내 입술 따뜻한 커피처럼' 라이브 촬영 현장에서 \n셀카를 요리조리 찍던 청하가 \n선물이라며 사진을 보내줌.🎁\n\n근데 하나 의문. \n사진만 보면 심장이 너무 떨림.  \n당연함. 김청하니까. \n\n#CHUNGHA #청하\n#내_입술_따뜻한_커피처럼 https://t.co/RMk2UvmdT6"
+	},
+	{
 		"created_at": "Wed Jun 09 05:21:22 +0000 2021",
 		"id": 1402483458362941400,
 		"id_str": "1402496019191926789",
