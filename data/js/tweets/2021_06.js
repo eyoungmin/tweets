@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 09 05:21:22 +0000 2021",
+		"id": 1402483458362941400,
+		"id_str": "1402496019191926789",
+		"full_text": "Billie Eilish - \"Your Power\"\nListen now on @AppleMusic's #Superbloom playlist in #SpatialAudio. https://t.co/M5OuhMXC2e https://t.co/WXly2aeQYo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Superbloom",
+					"indices": [
+						57,
+						68
+					]
+				},
+				{
+					"text": "SpatialAudio",
+					"indices": [
+						81,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						43,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/M5OuhMXC2e",
+					"expanded_url": "https://BillieEilish.lnk.to/Superbloom",
+					"display_url": "BillieEilish.lnk.to/Superbloom",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402480210889433000,
+					"id_str": "1402480210889433093",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1402480210889433093/pu/img/CT1ydQom-alilqhg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1402480210889433093/pu/img/CT1ydQom-alilqhg.jpg",
+					"url": "https://t.co/WXly2aeQYo",
+					"display_url": "pic.twitter.com/WXly2aeQYo",
+					"expanded_url": "https://twitter.com/billieeilish/status/1402483458362941441/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402480210889433000,
+					"id_str": "1402480210889433093",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1402480210889433093/pu/img/CT1ydQom-alilqhg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1402480210889433093/pu/img/CT1ydQom-alilqhg.jpg",
+					"url": "https://t.co/WXly2aeQYo",
+					"display_url": "pic.twitter.com/WXly2aeQYo",
+					"expanded_url": "https://twitter.com/billieeilish/status/1402483458362941441/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15125,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1402480210889433093/pu/vid/320x320/Fyz0-FfopcDsfq1M.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1402480210889433093/pu/pl/sur8NGNuCy4vuF9g.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1402480210889433093/pu/vid/720x720/Fg319_zDsR2jxwSt.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1402480210889433093/pu/vid/540x540/ZppSW8Yfs3dTp2DL.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "New album “Happier Than Ever” out July 30 https://t.co/DEGLgUC35l",
+			"url": "https://t.co/UybIbAW2j6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UybIbAW2j6",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DEGLgUC35l",
+							"expanded_url": "https://billieeilish.lnk.to/HappierThanEver",
+							"display_url": "billieeilish.lnk.to/HappierThanEver",
+							"indices": [
+								42,
+								65
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6015307,
+			"friends_count": 0,
+			"listed_count": 3838,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1387065127208247299/bni08CVZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387065127208247299/bni08CVZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1619536789",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 619,
+		"favorite_count": 7448,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Billie Eilish - \"Your Power\"\nListen now on @AppleMusic's #Superbloom playlist in #SpatialAudio. https://t.co/M5OuhMXC2e https://t.co/WXly2aeQYo"
+	},
+	{
 		"created_at": "Wed Jun 09 04:11:26 +0000 2021",
 		"id": 1402478417648439300,
 		"id_str": "1402478417648439297",
