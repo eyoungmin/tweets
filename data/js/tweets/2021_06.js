@@ -1,6 +1,1016 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 09 09:54:56 +0000 2021",
+		"id": 1402553139622932500,
+		"id_str": "1402564862249558016",
+		"full_text": "[VIDEO]\n📹 청하, Colde (콜드) - 내 입술 따뜻한 커피처럼 Live Clip #2\n\n▶ https://t.co/ENe3MGEzrj\n\n#청하 #CHUNGHA\n#내_입술_따뜻한_커피처럼 https://t.co/CLw5MaDDZg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"text": "내_입술_따뜻한_커피처럼",
+					"indices": [
+						95,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ENe3MGEzrj",
+					"expanded_url": "https://youtu.be/eIQEY9N-yFE",
+					"display_url": "youtu.be/eIQEY9N-yFE",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402553060874850300,
+					"id_str": "1402553060874850307",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1402553060874850307/pu/img/j5kPetx8lmNqMv6u.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1402553060874850307/pu/img/j5kPetx8lmNqMv6u.jpg",
+					"url": "https://t.co/CLw5MaDDZg",
+					"display_url": "pic.twitter.com/CLw5MaDDZg",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1402553139622932484/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402553060874850300,
+					"id_str": "1402553060874850307",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1402553060874850307/pu/img/j5kPetx8lmNqMv6u.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1402553060874850307/pu/img/j5kPetx8lmNqMv6u.jpg",
+					"url": "https://t.co/CLw5MaDDZg",
+					"display_url": "pic.twitter.com/CLw5MaDDZg",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1402553139622932484/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26967,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1402553060874850307/pu/vid/480x270/fFIM_HUSfhe1jPtn.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1402553060874850307/pu/vid/1280x720/D91rkcqAoXb3VYh5.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1402553060874850307/pu/vid/640x360/9xyvfe7vQrxveumy.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1402553060874850307/pu/pl/UKbgjtn5bGQOFvMX.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/uAFyf5T7B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAFyf5T7B0",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331581,
+			"friends_count": 0,
+			"listed_count": 2023,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1617289944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 254,
+		"favorite_count": 814,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO]\n📹 청하, Colde (콜드) - 내 입술 따뜻한 커피처럼 Live Clip #2\n\n▶ https://t.co/ENe3MGEzrj\n\n#청하 #CHUNGHA\n#내_입술_따뜻한_커피처럼 https://t.co/CLw5MaDDZg"
+	},
+	{
+		"created_at": "Wed Jun 09 09:48:21 +0000 2021",
+		"id": 1402563204635635700,
+		"id_str": "1402563204635635714",
+		"full_text": "#SMTOWN #PLAYLIST \naespa 에스파 'Next Level' Jacket Behind The Scenes \nhttps://t.co/rncCV2J6UN \n \n#에스파 #aespa #æspa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						107,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rncCV2J6UN",
+					"expanded_url": "https://www.youtube.com/watch?v=j4YMtK9j_zQ",
+					"display_url": "youtube.com/watch?v=j4YMtK…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44944,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SMTOWN #PLAYLIST \naespa 에스파 'Next Level' Jacket Behind The Scenes \nhttps://t.co/rncCV2J6UN \n \n#에스파 #aespa #æspa"
+	},
+	{
+		"created_at": "Wed Jun 09 09:19:57 +0000 2021",
+		"id": 1402551039723778000,
+		"id_str": "1402556060083187716",
+		"full_text": "이달의 소녀와 코코몽의 만남! 이 조합 기다린 오빛💫 모두 모여 “얌얌(Yum-Yum)”🤗 오는 6월 12일 오후 12시(KST) 공개되는 “얌얌(Yum-Yum)”쏭! 많이 기대해 주세요❤\n\n#이달의소녀 #여진 #김립 #최리 #고원 #코코몽 #LOONA #YeoJin #KimLip #Choerry #GoWon #kokomong\n\n▶️ https://t.co/irsTBBz7WZ https://t.co/3bwE92z2kw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "코코몽",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						135,
+						141
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						142,
+						149
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						150,
+						157
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						158,
+						166
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						167,
+						173
+					]
+				},
+				{
+					"text": "kokomong",
+					"indices": [
+						174,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/irsTBBz7WZ",
+					"expanded_url": "https://youtu.be/InX7nACaBzA",
+					"display_url": "youtu.be/InX7nACaBzA",
+					"indices": [
+						188,
+						211
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402546151664930800,
+					"id_str": "1402546151664930822",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1402546151664930822/pu/img/GQ1AWT3gAFnto3yT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1402546151664930822/pu/img/GQ1AWT3gAFnto3yT.jpg",
+					"url": "https://t.co/3bwE92z2kw",
+					"display_url": "pic.twitter.com/3bwE92z2kw",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1402551039723778054/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402546151664930800,
+					"id_str": "1402546151664930822",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1402546151664930822/pu/img/GQ1AWT3gAFnto3yT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1402546151664930822/pu/img/GQ1AWT3gAFnto3yT.jpg",
+					"url": "https://t.co/3bwE92z2kw",
+					"display_url": "pic.twitter.com/3bwE92z2kw",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1402551039723778054/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 16458,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1402546151664930822/pu/vid/640x360/aEB8jUXpbMC92AB5.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1402546151664930822/pu/vid/480x270/k9twt7NYJvlnMwvG.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1402546151664930822/pu/vid/1280x720/04kANVsrK0LReReG.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1402546151664930822/pu/pl/OXk7vkkU4Fa5MkMG.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 735400,
+			"friends_count": 0,
+			"listed_count": 7327,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3786,
+		"favorite_count": 11089,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이달의 소녀와 코코몽의 만남! 이 조합 기다린 오빛💫 모두 모여 “얌얌(Yum-Yum)”🤗 오는 6월 12일 오후 12시(KST) 공개되는 “얌얌(Yum-Yum)”쏭! 많이 기대해 주세요❤\n\n#이달의소녀 #여진 #김립 #최리 #고원 #코코몽 #LOONA #YeoJin #KimLip #Choerry #GoWon #kokomong\n\n▶️ https://t.co/irsTBBz7WZ https://t.co/3bwE92z2kw"
+	},
+	{
+		"created_at": "Wed Jun 09 09:19:13 +0000 2021",
+		"id": 1402551158879572000,
+		"id_str": "1402555876645371912",
+		"full_text": "aespa 에스파 'Next Level' Jacket Behind The Scenes\n\nhttps://t.co/I5BpK5i3W9\n\n#aespa #æspa #에스파 \n#NextLevel",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						93,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I5BpK5i3W9",
+					"expanded_url": "https://youtu.be/j4YMtK9j_zQ",
+					"display_url": "youtu.be/j4YMtK9j_zQ",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1068875,
+			"friends_count": 1,
+			"listed_count": 4057,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4624,
+		"favorite_count": 12471,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "aespa 에스파 'Next Level' Jacket Behind The Scenes\n\nhttps://t.co/I5BpK5i3W9\n\n#aespa #æspa #에스파 \n#NextLevel"
+	},
+	{
+		"created_at": "Wed Jun 09 09:03:30 +0000 2021",
+		"id": 1402551918023561200,
+		"id_str": "1402551918023561216",
+		"full_text": "#자우림 #JAURIM \n자우림(Jaurim) '잎새에 적은 노래' MV Teaser \nhttps://t.co/k4e5sONryr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "JAURIM",
+					"indices": [
+						5,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k4e5sONryr",
+					"expanded_url": "https://youtu.be/HpQyviuu_3k",
+					"display_url": "youtu.be/HpQyviuu_3k",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44944,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#자우림 #JAURIM \n자우림(Jaurim) '잎새에 적은 노래' MV Teaser \nhttps://t.co/k4e5sONryr"
+	},
+	{
+		"created_at": "Wed Jun 09 09:03:07 +0000 2021",
+		"id": 1402551824457080800,
+		"id_str": "1402551824457080832",
+		"full_text": "#이달의소녀 #LOONA \n[Teaser] 이달의 소녀 (여진, 김립, 최리, 고원) X 코코몽 \"얌얌(Yum-Yum)\" \nhttps://t.co/BrvEVWNlTi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BrvEVWNlTi",
+					"expanded_url": "https://youtu.be/InX7nACaBzA",
+					"display_url": "youtu.be/InX7nACaBzA",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44944,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA \n[Teaser] 이달의 소녀 (여진, 김립, 최리, 고원) X 코코몽 \"얌얌(Yum-Yum)\" \nhttps://t.co/BrvEVWNlTi"
+	},
+	{
 		"created_at": "Wed Jun 09 07:21:23 +0000 2021",
 		"id": 1402522706566783000,
 		"id_str": "1402526222270169089",
