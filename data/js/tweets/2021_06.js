@@ -1,6 +1,2722 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 10 07:30:52 +0000 2021",
+		"id": 1402890997160349700,
+		"id_str": "1402890997160349699",
+		"full_text": "#배우 #박주현 #ParkJuHyun\n[박주현] 배우보고 힐링하고 싶으신 분 클릭!\nhttps://t.co/1CWm64rGQt https://t.co/Ci08dAMNbo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "배우",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "박주현",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "ParkJuHyun",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1CWm64rGQt",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=31544296&memberNo=36232354&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402890995725897700,
+					"id_str": "1402890995725897729",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gR7YLWEAEgQIU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gR7YLWEAEgQIU.jpg",
+					"url": "https://t.co/Ci08dAMNbo",
+					"display_url": "pic.twitter.com/Ci08dAMNbo",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890997160349699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 740,
+							"h": 950,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 530,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 950,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402890995725897700,
+					"id_str": "1402890995725897729",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gR7YLWEAEgQIU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gR7YLWEAEgQIU.jpg",
+					"url": "https://t.co/Ci08dAMNbo",
+					"display_url": "pic.twitter.com/Ci08dAMNbo",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890997160349699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 740,
+							"h": 950,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 530,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 950,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#배우 #박주현 #ParkJuHyun\n[박주현] 배우보고 힐링하고 싶으신 분 클릭!\nhttps://t.co/1CWm64rGQt https://t.co/Ci08dAMNbo"
+	},
+	{
+		"created_at": "Thu Jun 10 07:30:51 +0000 2021",
+		"id": 1402890990751568000,
+		"id_str": "1402890990751567872",
+		"full_text": "#배우 #박주현 #ParkJuHyun\n[박주현]외에 상상할 수 없는 오봉이! 어벙이!울❤봉이!\nhttps://t.co/zeOHohq2bF https://t.co/WGp7bkYuCx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "배우",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "박주현",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "ParkJuHyun",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zeOHohq2bF",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=31243854&memberNo=36232354&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402890989602230300,
+					"id_str": "1402890989602230272",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gR7BXWUAACpYW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gR7BXWUAACpYW.jpg",
+					"url": "https://t.co/WGp7bkYuCx",
+					"display_url": "pic.twitter.com/WGp7bkYuCx",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890990751567872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402890989602230300,
+					"id_str": "1402890989602230272",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gR7BXWUAACpYW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gR7BXWUAACpYW.jpg",
+					"url": "https://t.co/WGp7bkYuCx",
+					"display_url": "pic.twitter.com/WGp7bkYuCx",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890990751567872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#배우 #박주현 #ParkJuHyun\n[박주현]외에 상상할 수 없는 오봉이! 어벙이!울❤봉이!\nhttps://t.co/zeOHohq2bF https://t.co/WGp7bkYuCx"
+	},
+	{
+		"created_at": "Thu Jun 10 07:30:48 +0000 2021",
+		"id": 1402890978793566200,
+		"id_str": "1402890978793566209",
+		"full_text": "#배우 #박주현 #ParkJuHyun\n[박주현]주말에는 봉이비타민C 로 충전하세요~\nhttps://t.co/E6cvlAwDIG https://t.co/bJ6uXYgxcy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "배우",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "박주현",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "ParkJuHyun",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E6cvlAwDIG",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=31112266&memberNo=36232354&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402890977380032500,
+					"id_str": "1402890977380032512",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gR6T1WYAACqbq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gR6T1WYAACqbq.jpg",
+					"url": "https://t.co/bJ6uXYgxcy",
+					"display_url": "pic.twitter.com/bJ6uXYgxcy",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890978793566209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 678,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402890977380032500,
+					"id_str": "1402890977380032512",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gR6T1WYAACqbq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gR6T1WYAACqbq.jpg",
+					"url": "https://t.co/bJ6uXYgxcy",
+					"display_url": "pic.twitter.com/bJ6uXYgxcy",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890978793566209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 678,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#배우 #박주현 #ParkJuHyun\n[박주현]주말에는 봉이비타민C 로 충전하세요~\nhttps://t.co/E6cvlAwDIG https://t.co/bJ6uXYgxcy"
+	},
+	{
+		"created_at": "Thu Jun 10 07:30:44 +0000 2021",
+		"id": 1402890960892317700,
+		"id_str": "1402890960892317697",
+		"full_text": "#배우 #박주현 #ParkJuHyun\n[박주현] 오봉이의 화려한 외출❤❤\nhttps://t.co/uGHWhj0UFt https://t.co/Sjlu0WaqHG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "배우",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "박주현",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "ParkJuHyun",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uGHWhj0UFt",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=31018846&memberNo=36232354&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402890959076143000,
+					"id_str": "1402890959076143104",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gR5PpXMAAbkty.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gR5PpXMAAbkty.jpg",
+					"url": "https://t.co/Sjlu0WaqHG",
+					"display_url": "pic.twitter.com/Sjlu0WaqHG",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890960892317697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 804,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 804,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 534,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402890959076143000,
+					"id_str": "1402890959076143104",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gR5PpXMAAbkty.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gR5PpXMAAbkty.jpg",
+					"url": "https://t.co/Sjlu0WaqHG",
+					"display_url": "pic.twitter.com/Sjlu0WaqHG",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890960892317697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 804,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 804,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 534,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#배우 #박주현 #ParkJuHyun\n[박주현] 오봉이의 화려한 외출❤❤\nhttps://t.co/uGHWhj0UFt https://t.co/Sjlu0WaqHG"
+	},
+	{
+		"created_at": "Thu Jun 10 07:30:40 +0000 2021",
+		"id": 1402890945977368600,
+		"id_str": "1402890945977368581",
+		"full_text": "#배우 #박주현 #ParkJuHyun\n[박주현] 우리 오봉이 행복하게 해주세요\nhttps://t.co/cPN7QOhG9m https://t.co/tLk1b1aNfK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "배우",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "박주현",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "ParkJuHyun",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cPN7QOhG9m",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=30991037&memberNo=36232354&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402890945117528000,
+					"id_str": "1402890945117528064",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gR4bpXoAAYOJE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gR4bpXoAAYOJE.jpg",
+					"url": "https://t.co/tLk1b1aNfK",
+					"display_url": "pic.twitter.com/tLk1b1aNfK",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890945977368581/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 428,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 428,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 284,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402890945117528000,
+					"id_str": "1402890945117528064",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gR4bpXoAAYOJE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gR4bpXoAAYOJE.jpg",
+					"url": "https://t.co/tLk1b1aNfK",
+					"display_url": "pic.twitter.com/tLk1b1aNfK",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890945977368581/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 428,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 428,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 284,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#배우 #박주현 #ParkJuHyun\n[박주현] 우리 오봉이 행복하게 해주세요\nhttps://t.co/cPN7QOhG9m https://t.co/tLk1b1aNfK"
+	},
+	{
+		"created_at": "Thu Jun 10 07:30:39 +0000 2021",
+		"id": 1402890939627155500,
+		"id_str": "1402890939627155457",
+		"full_text": "#배우 #박주현 #ParkJuHyun\n[박주현] 오봉이 만나기 4시간전!❤\nhttps://t.co/3MzgKEmOO2 https://t.co/B58Rod93jj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "배우",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "박주현",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "ParkJuHyun",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3MzgKEmOO2",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=30898670&memberNo=36232354&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402890938100424700,
+					"id_str": "1402890938100424707",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gR4BgXIAMmQ0W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gR4BgXIAMmQ0W.jpg",
+					"url": "https://t.co/B58Rod93jj",
+					"display_url": "pic.twitter.com/B58Rod93jj",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890939627155457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 436,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 657,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 657,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402890938100424700,
+					"id_str": "1402890938100424707",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gR4BgXIAMmQ0W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gR4BgXIAMmQ0W.jpg",
+					"url": "https://t.co/B58Rod93jj",
+					"display_url": "pic.twitter.com/B58Rod93jj",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890939627155457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 436,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 657,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 657,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#배우 #박주현 #ParkJuHyun\n[박주현] 오봉이 만나기 4시간전!❤\nhttps://t.co/3MzgKEmOO2 https://t.co/B58Rod93jj"
+	},
+	{
+		"created_at": "Thu Jun 10 07:30:36 +0000 2021",
+		"id": 1402890927845384200,
+		"id_str": "1402890927845384192",
+		"full_text": "#배우 #박주현 #ParkJuHyun\n[박주현] 오봉이의 변신은 유죄? 무죄!\nhttps://t.co/hjRCk5dcTe https://t.co/2U2hGJwOJI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "배우",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "박주현",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "ParkJuHyun",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hjRCk5dcTe",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=30868327&memberNo=36232354&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402890926402441200,
+					"id_str": "1402890926402441218",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gR3V7WEAIbsNx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gR3V7WEAIbsNx.jpg",
+					"url": "https://t.co/2U2hGJwOJI",
+					"display_url": "pic.twitter.com/2U2hGJwOJI",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890927845384192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 537,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 809,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 809,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402890926402441200,
+					"id_str": "1402890926402441218",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gR3V7WEAIbsNx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gR3V7WEAIbsNx.jpg",
+					"url": "https://t.co/2U2hGJwOJI",
+					"display_url": "pic.twitter.com/2U2hGJwOJI",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890927845384192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 537,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 809,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 809,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#배우 #박주현 #ParkJuHyun\n[박주현] 오봉이의 변신은 유죄? 무죄!\nhttps://t.co/hjRCk5dcTe https://t.co/2U2hGJwOJI"
+	},
+	{
+		"created_at": "Thu Jun 10 07:30:33 +0000 2021",
+		"id": 1402890917477064700,
+		"id_str": "1402890917477064704",
+		"full_text": "#배우 #박주현 #ParkJuHyun\n[박주현]365일 700 주현 모음❤\nhttps://t.co/1laoWxYznE https://t.co/NHpze8HVM5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "배우",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "박주현",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "ParkJuHyun",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1laoWxYznE",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=30651324&memberNo=36232354&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402890916323598300,
+					"id_str": "1402890916323598336",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gR2wYXIAApqdy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gR2wYXIAApqdy.jpg",
+					"url": "https://t.co/NHpze8HVM5",
+					"display_url": "pic.twitter.com/NHpze8HVM5",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890917477064704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 629,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 807,
+							"h": 873,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 807,
+							"h": 873,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402890916323598300,
+					"id_str": "1402890916323598336",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gR2wYXIAApqdy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gR2wYXIAApqdy.jpg",
+					"url": "https://t.co/NHpze8HVM5",
+					"display_url": "pic.twitter.com/NHpze8HVM5",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890917477064704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 629,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 807,
+							"h": 873,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 807,
+							"h": 873,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#배우 #박주현 #ParkJuHyun\n[박주현]365일 700 주현 모음❤\nhttps://t.co/1laoWxYznE https://t.co/NHpze8HVM5"
+	},
+	{
+		"created_at": "Thu Jun 10 07:30:32 +0000 2021",
+		"id": 1402890910971666400,
+		"id_str": "1402890910971666435",
+		"full_text": "#배우 #박주현 #ParkJuHyun\n[박주현] 은 러블리♥의 또다른 의미\nhttps://t.co/XDPhwGmUAw https://t.co/9Y8F9D2dUM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "배우",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "박주현",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "ParkJuHyun",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XDPhwGmUAw",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=29183419&memberNo=36232354&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402890909600075800,
+					"id_str": "1402890909600075776",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gR2XVWUAA9zKW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gR2XVWUAA9zKW.jpg",
+					"url": "https://t.co/9Y8F9D2dUM",
+					"display_url": "pic.twitter.com/9Y8F9D2dUM",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890910971666435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402890909600075800,
+					"id_str": "1402890909600075776",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gR2XVWUAA9zKW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gR2XVWUAA9zKW.jpg",
+					"url": "https://t.co/9Y8F9D2dUM",
+					"display_url": "pic.twitter.com/9Y8F9D2dUM",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890910971666435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#배우 #박주현 #ParkJuHyun\n[박주현] 은 러블리♥의 또다른 의미\nhttps://t.co/XDPhwGmUAw https://t.co/9Y8F9D2dUM"
+	},
+	{
+		"created_at": "Thu Jun 10 07:30:26 +0000 2021",
+		"id": 1402890886472683500,
+		"id_str": "1402890886472683521",
+		"full_text": "#배우 #박주현 #ParkJuHyun\n[박주현] 조각상 도난 당하신분~찾아가세요!\nhttps://t.co/eIvxClH5lx https://t.co/mGiws0ol9J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "배우",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "박주현",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "ParkJuHyun",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eIvxClH5lx",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=28947652&memberNo=36232354&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402890885025706000,
+					"id_str": "1402890885025705985",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gR07yXMAEIq6N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gR07yXMAEIq6N.jpg",
+					"url": "https://t.co/mGiws0ol9J",
+					"display_url": "pic.twitter.com/mGiws0ol9J",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890886472683521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402890885025706000,
+					"id_str": "1402890885025705985",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gR07yXMAEIq6N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gR07yXMAEIq6N.jpg",
+					"url": "https://t.co/mGiws0ol9J",
+					"display_url": "pic.twitter.com/mGiws0ol9J",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890886472683521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#배우 #박주현 #ParkJuHyun\n[박주현] 조각상 도난 당하신분~찾아가세요!\nhttps://t.co/eIvxClH5lx https://t.co/mGiws0ol9J"
+	},
+	{
+		"created_at": "Thu Jun 10 07:30:21 +0000 2021",
+		"id": 1402890867287990300,
+		"id_str": "1402890867287990273",
+		"full_text": "#배우 #박주현 #ParkJuHyun\n[박주현] 예뻐서 '말'이 안나오는 박주현 최근 근황\nhttps://t.co/3iVW62Lgn9 https://t.co/Cj9yKqozha",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "배우",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "박주현",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "ParkJuHyun",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3iVW62Lgn9",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=28462257&memberNo=36232354&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402890865870258200,
+					"id_str": "1402890865870258177",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gRz0bWQAEATXH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gRz0bWQAEATXH.jpg",
+					"url": "https://t.co/Cj9yKqozha",
+					"display_url": "pic.twitter.com/Cj9yKqozha",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890867287990273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 780,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 518,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 780,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402890865870258200,
+					"id_str": "1402890865870258177",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gRz0bWQAEATXH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gRz0bWQAEATXH.jpg",
+					"url": "https://t.co/Cj9yKqozha",
+					"display_url": "pic.twitter.com/Cj9yKqozha",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890867287990273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 780,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 518,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 780,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#배우 #박주현 #ParkJuHyun\n[박주현] 예뻐서 '말'이 안나오는 박주현 최근 근황\nhttps://t.co/3iVW62Lgn9 https://t.co/Cj9yKqozha"
+	},
+	{
+		"created_at": "Thu Jun 10 07:30:19 +0000 2021",
+		"id": 1402890856185712600,
+		"id_str": "1402890856185712642",
+		"full_text": "#배우 #박주현 #ParkJuHyun\n[박주현] 박주현과 함께한 홍보 활동 &amp; 인터뷰 1인칭 시점!\nhttps://t.co/uRhojcl7un https://t.co/K023pgOxUq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "배우",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "박주현",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "ParkJuHyun",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uRhojcl7un",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=28285948&memberNo=36232354&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402890854671523800,
+					"id_str": "1402890854671523840",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gRzKtXIAA9gOP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gRzKtXIAA9gOP.jpg",
+					"url": "https://t.co/K023pgOxUq",
+					"display_url": "pic.twitter.com/K023pgOxUq",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890856185712642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402890854671523800,
+					"id_str": "1402890854671523840",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gRzKtXIAA9gOP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gRzKtXIAA9gOP.jpg",
+					"url": "https://t.co/K023pgOxUq",
+					"display_url": "pic.twitter.com/K023pgOxUq",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890856185712642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#배우 #박주현 #ParkJuHyun\n[박주현] 박주현과 함께한 홍보 활동 &amp; 인터뷰 1인칭 시점!\nhttps://t.co/uRhojcl7un https://t.co/K023pgOxUq"
+	},
+	{
+		"created_at": "Thu Jun 10 07:30:16 +0000 2021",
+		"id": 1402890844701610000,
+		"id_str": "1402890844701609985",
+		"full_text": "#배우 #박주현 #ParkJuHyun\n[박주현] 실검1위! 화제의 '반의반' 김지수 에게 첫사랑 기억 조작 당하다.\nhttps://t.co/U6K8OIrq5V https://t.co/Ah6IejSJ1d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "배우",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "박주현",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "ParkJuHyun",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U6K8OIrq5V",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=27824183&memberNo=36232354&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402890843669860400,
+					"id_str": "1402890843669860353",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gRyhuXEAEuqJY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gRyhuXEAEuqJY.jpg",
+					"url": "https://t.co/Ah6IejSJ1d",
+					"display_url": "pic.twitter.com/Ah6IejSJ1d",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890844701609985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 704,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 704,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402890843669860400,
+					"id_str": "1402890843669860353",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gRyhuXEAEuqJY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gRyhuXEAEuqJY.jpg",
+					"url": "https://t.co/Ah6IejSJ1d",
+					"display_url": "pic.twitter.com/Ah6IejSJ1d",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890844701609985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 704,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 704,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#배우 #박주현 #ParkJuHyun\n[박주현] 실검1위! 화제의 '반의반' 김지수 에게 첫사랑 기억 조작 당하다.\nhttps://t.co/U6K8OIrq5V https://t.co/Ah6IejSJ1d"
+	},
+	{
+		"created_at": "Thu Jun 10 07:30:14 +0000 2021",
+		"id": 1402890836589912000,
+		"id_str": "1402890836589912065",
+		"full_text": "#배우 #박주현 #ParkJuHyun\n[박주현] 빨간망토 동화밖으로 나온 줄..! 요정美 터졌다\nhttps://t.co/p4PtIxzYVJ https://t.co/9iohgP38de",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "배우",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "박주현",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "ParkJuHyun",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p4PtIxzYVJ",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=26697937&memberNo=36232354&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402890834530521000,
+					"id_str": "1402890834530521089",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gRx_rX0AEHdJR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gRx_rX0AEHdJR.jpg",
+					"url": "https://t.co/9iohgP38de",
+					"display_url": "pic.twitter.com/9iohgP38de",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890836589912065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402890834530521000,
+					"id_str": "1402890834530521089",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gRx_rX0AEHdJR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gRx_rX0AEHdJR.jpg",
+					"url": "https://t.co/9iohgP38de",
+					"display_url": "pic.twitter.com/9iohgP38de",
+					"expanded_url": "https://twitter.com/fromminn/status/1402890836589912065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#배우 #박주현 #ParkJuHyun\n[박주현] 빨간망토 동화밖으로 나온 줄..! 요정美 터졌다\nhttps://t.co/p4PtIxzYVJ https://t.co/9iohgP38de"
+	},
+	{
 		"created_at": "Thu Jun 10 06:59:36 +0000 2021",
 		"id": 1402883128570568700,
 		"id_str": "1402883128570568705",
