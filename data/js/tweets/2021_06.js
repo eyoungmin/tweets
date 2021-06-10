@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 10 14:55:27 +0000 2021",
+		"id": 1402997943070716000,
+		"id_str": "1403002879384834061",
+		"full_text": "네 번째 압축 해제도 무사히 완료! 💛⭐️\n\n#슬기 #SEULGI #슬기집 #슬기zip #레드벨벳 #RedVelvet https://t.co/VeaNxKjEPY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						25,
+						28
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						29,
+						36
+					]
+				},
+				{
+					"text": "슬기집",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "슬기zip",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						55,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1402997926490636300,
+					"id_str": "1402997926490636304",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/E3hzLkUVgBAS69Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3hzLkUVgBAS69Y.jpg",
+					"url": "https://t.co/VeaNxKjEPY",
+					"display_url": "pic.twitter.com/VeaNxKjEPY",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1402997943070715906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 769,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 769,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402997926490636300,
+					"id_str": "1402997926490636304",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/E3hzLkUVgBAS69Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3hzLkUVgBAS69Y.jpg",
+					"url": "https://t.co/VeaNxKjEPY",
+					"display_url": "pic.twitter.com/VeaNxKjEPY",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1402997943070715906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 769,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 769,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1402997933495050200,
+					"id_str": "1402997933495050252",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/E3hzL-aUYAwQ2Tq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3hzL-aUYAwQ2Tq.jpg",
+					"url": "https://t.co/VeaNxKjEPY",
+					"display_url": "pic.twitter.com/VeaNxKjEPY",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1402997943070715906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/U7JtipmDEo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U7JtipmDEo",
+							"expanded_url": "https://youtu.be/lNvBbh5jDcA",
+							"display_url": "youtu.be/lNvBbh5jDcA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4217906,
+			"friends_count": 1,
+			"listed_count": 8993,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1622019868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6505,
+		"favorite_count": 17673,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "네 번째 압축 해제도 무사히 완료! 💛⭐️\n\n#슬기 #SEULGI #슬기집 #슬기zip #레드벨벳 #RedVelvet https://t.co/VeaNxKjEPY"
+	},
+	{
 		"created_at": "Thu Jun 10 13:55:26 +0000 2021",
 		"id": 1402974662435381200,
 		"id_str": "1402987776857894920",
