@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 11 03:35:37 +0000 2021",
+		"id": 1403185225505587200,
+		"id_str": "1403194179006590983",
+		"full_text": "[Heize]\n'우연한 레시피 (with 태연)' Teaser👩‍🍳\n'Happen Recipe (with TaeYeon)' Teaser👩‍🍳\n\nHeize from @OfficialPnation \n\n#헤이즈 #Heize\n#HAPPEN #헤픈우연\n#우연한레시피 #태연\n#PNATION #피네이션 https://t.co/4m9SXJrA9r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헤이즈",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "Heize",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "HAPPEN",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "헤픈우연",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "우연한레시피",
+					"indices": [
+						136,
+						143
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						144,
+						147
+					]
+				},
+				{
+					"text": "PNATION",
+					"indices": [
+						148,
+						156
+					]
+				},
+				{
+					"text": "피네이션",
+					"indices": [
+						157,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OfficialPnation",
+					"name": "P NATION",
+					"id": 1077784853565780000,
+					"id_str": "1077784853565779968",
+					"indices": [
+						91,
+						107
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1403182086568046600,
+					"id_str": "1403182086568046593",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1403182086568046593/pu/img/LZ59XeTXNC9hs-v8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1403182086568046593/pu/img/LZ59XeTXNC9hs-v8.jpg",
+					"url": "https://t.co/4m9SXJrA9r",
+					"display_url": "pic.twitter.com/4m9SXJrA9r",
+					"expanded_url": "https://twitter.com/OfficialPnation/status/1403185225505587203/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403182086568046600,
+					"id_str": "1403182086568046593",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1403182086568046593/pu/img/LZ59XeTXNC9hs-v8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1403182086568046593/pu/img/LZ59XeTXNC9hs-v8.jpg",
+					"url": "https://t.co/4m9SXJrA9r",
+					"display_url": "pic.twitter.com/4m9SXJrA9r",
+					"expanded_url": "https://twitter.com/OfficialPnation/status/1403185225505587203/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59184,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1403182086568046593/pu/vid/480x270/MtHNmLnetj8S_J8d.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1403182086568046593/pu/vid/640x360/yexuV4CL41Ub3Pzs.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1403182086568046593/pu/vid/1280x720/hcj6tJkBVFHZIG0B.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1403182086568046593/pu/pl/0q04imOvXRDPLUA1.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1077784853565780000,
+			"id_str": "1077784853565779968",
+			"name": "P NATION",
+			"screen_name": "OfficialPnation",
+			"location": "",
+			"description": "Official P NATION account",
+			"url": "https://t.co/RtZgg9En60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RtZgg9En60",
+							"expanded_url": "http://www.pnation.com/",
+							"display_url": "pnation.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42634,
+			"friends_count": 3,
+			"listed_count": 334,
+			"created_at": "Wed Dec 26 04:35:08 +0000 2018",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1077,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1120158562351640576/r3req_Kj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120158562351640576/r3req_Kj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1077784853565779968/1619755895",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1196,
+		"favorite_count": 1582,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Heize]\n'우연한 레시피 (with 태연)' Teaser👩‍🍳\n'Happen Recipe (with TaeYeon)' Teaser👩‍🍳\n\nHeize from @OfficialPnation \n\n#헤이즈 #Heize\n#HAPPEN #헤픈우연\n#우연한레시피 #태연\n#PNATION #피네이션 https://t.co/4m9SXJrA9r"
+	},
+	{
 		"created_at": "Fri Jun 11 02:55:34 +0000 2021",
 		"id": 1403182543738839000,
 		"id_str": "1403184100970700800",
