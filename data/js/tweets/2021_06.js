@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 11 19:20:49 +0000 2021",
+		"id": 1403208324804317200,
+		"id_str": "1403432047666819078",
+		"full_text": "레코드스토어데이를 위해 제작된 레코드는 아니지만 곧 온라인 판매 예정인 2장의 #아도이 레코드 (Vivid 및 Love, 2021 repress)를 6월 12일 RSD를 맞이해 오프라인 매장에서 일부수량 (각 50매)을 먼저 판매합니다. \n\n판매안내: https://t.co/MriA7SP1IO\n\n종합안내: https://t.co/PYXAiNpBAF https://t.co/MmZAtBj22j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아도이",
+					"indices": [
+						44,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MriA7SP1IO",
+					"expanded_url": "https://www.instagram.com/p/CP92NLnJU1C/?utm_medium=copy_link",
+					"display_url": "instagram.com/p/CP92NLnJU1C/…",
+					"indices": [
+						141,
+						164
+					]
+				},
+				{
+					"url": "https://t.co/PYXAiNpBAF",
+					"expanded_url": "http://gimbabrecords.blogspot.com/2021/06/2021-rsd-rsd-drops-2021.html?m=1",
+					"display_url": "gimbabrecords.blogspot.com/2021/06/2021-r…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1403208317325889500,
+					"id_str": "1403208317325889536",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/E3kyh7QVUAALLak.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3kyh7QVUAALLak.jpg",
+					"url": "https://t.co/MmZAtBj22j",
+					"display_url": "pic.twitter.com/MmZAtBj22j",
+					"expanded_url": "https://twitter.com/gimbabrecords/status/1403208324804317192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403208317325889500,
+					"id_str": "1403208317325889536",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/E3kyh7QVUAALLak.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3kyh7QVUAALLak.jpg",
+					"url": "https://t.co/MmZAtBj22j",
+					"display_url": "pic.twitter.com/MmZAtBj22j",
+					"expanded_url": "https://twitter.com/gimbabrecords/status/1403208324804317192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1403208317330083800,
+					"id_str": "1403208317330083841",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/E3kyh7RVUAEw14Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3kyh7RVUAEw14Z.jpg",
+					"url": "https://t.co/MmZAtBj22j",
+					"display_url": "pic.twitter.com/MmZAtBj22j",
+					"expanded_url": "https://twitter.com/gimbabrecords/status/1403208324804317192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 620758826,
+			"id_str": "620758826",
+			"name": "gimbabrecords",
+			"screen_name": "gimbabrecords",
+			"location": "동교동 155-36",
+			"description": "우량앨범과 공연을 소개하는 레이블+매장. 2012년 여름에 시작해 글렌 한사드,미드나잇 인 파리OST,로드리게즈,갱스부르 등이 나왔고 모든 장르의 음악을 좋아합니다. 베이룻,제인 버킨,세인트빈센트,맥드마르코 등 공연도 합니다. 레이블 상징 고양이 김밥이는 특히 엘피를 선호해요.",
+			"url": "https://t.co/uO6TLbEZpX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uO6TLbEZpX",
+							"expanded_url": "http://www.gimbabrecords.com",
+							"display_url": "gimbabrecords.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11629,
+			"friends_count": 499,
+			"listed_count": 93,
+			"created_at": "Thu Jun 28 07:45:45 +0000 2012",
+			"favourites_count": 145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2348409620/bab1_s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2348409620/bab1_s_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레코드스토어데이를 위해 제작된 레코드는 아니지만 곧 온라인 판매 예정인 2장의 #아도이 레코드 (Vivid 및 Love, 2021 repress)를 6월 12일 RSD를 맞이해 오프라인 매장에서 일부수량 (각 50매)을 먼저 판매합니다. \n\n판매안내: https://t.co/MriA7SP1IO\n\n종합안내: https://t.co/PYXAiNpBAF https://t.co/MmZAtBj22j"
+	},
+	{
 		"created_at": "Fri Jun 11 15:20:33 +0000 2021",
 		"id": 1403366416489795600,
 		"id_str": "1403371581733183488",
