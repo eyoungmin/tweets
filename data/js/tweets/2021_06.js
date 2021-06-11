@@ -1,10 +1,200 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 11 04:22:23 +0000 2021",
+		"id": 1403201617994731500,
+		"id_str": "1403205951335796736",
+		"full_text": "오늘 저녁 6시에 드디어 \n#자우림 이 #잎새에적은노래 를 들려드릴 수 있게 되었습니다. \n\n작년 가을에는 쓸쓸한 11월과 딱 맞는 노래라고 생각했는데 신록을 배경으로 선선한 바람이 부는 6월에도 다행히 잘 어울리네요. \n\n많은 분들의 마음에 닿아 사랑받는 곡이 됐으면 좋겠습니다. https://t.co/T69gHMvimg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						15,
+						19
+					]
+				},
+				{
+					"text": "잎새에적은노래",
+					"indices": [
+						22,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1403201610952495000,
+					"id_str": "1403201610952495104",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/E3ksbkEUUAA31hb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3ksbkEUUAA31hb.jpg",
+					"url": "https://t.co/T69gHMvimg",
+					"display_url": "pic.twitter.com/T69gHMvimg",
+					"expanded_url": "https://twitter.com/love_yuna/status/1403201617994731520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403201610952495000,
+					"id_str": "1403201610952495104",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/E3ksbkEUUAA31hb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3ksbkEUUAA31hb.jpg",
+					"url": "https://t.co/T69gHMvimg",
+					"display_url": "pic.twitter.com/T69gHMvimg",
+					"expanded_url": "https://twitter.com/love_yuna/status/1403201617994731520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 270673,
+			"friends_count": 536,
+			"listed_count": 2819,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358217725089255426/J-5E7g_n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358217725089255426/J-5E7g_n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1612661273",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 188,
+		"favorite_count": 216,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 저녁 6시에 드디어 \n#자우림 이 #잎새에적은노래 를 들려드릴 수 있게 되었습니다. \n\n작년 가을에는 쓸쓸한 11월과 딱 맞는 노래라고 생각했는데 신록을 배경으로 선선한 바람이 부는 6월에도 다행히 잘 어울리네요. \n\n많은 분들의 마음에 닿아 사랑받는 곡이 됐으면 좋겠습니다. https://t.co/T69gHMvimg"
+	},
+	{
 		"created_at": "Fri Jun 11 03:35:37 +0000 2021",
 		"id": 1403185225505587200,
 		"id_str": "1403194179006590983",
-		"full_text": "[Heize]\n'우연한 레시피 (with 태연)' Teaser👩‍🍳\n'Happen Recipe (with TaeYeon)' Teaser👩‍🍳\n\nHeize from @OfficialPnation \n\n#헤이즈 #Heize\n#HAPPEN #헤픈우연\n#우연한레시피 #태연\n#PNATION #피네이션 https://t.co/4m9SXJrA9r",
+		"full_text": "[Heize]\n'우연한 레시피 (with 태연)' Teaser👩🍳\n'Happen Recipe (with TaeYeon)' Teaser👩🍳\n\nHeize from @OfficialPnation \n\n#헤이즈 #Heize\n#HAPPEN #헤픈우연\n#우연한레시피 #태연\n#PNATION #피네이션 https://t.co/4m9SXJrA9r",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -272,7 +462,7 @@ Grailbird.data.tweets_2021_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[Heize]\n'우연한 레시피 (with 태연)' Teaser👩‍🍳\n'Happen Recipe (with TaeYeon)' Teaser👩‍🍳\n\nHeize from @OfficialPnation \n\n#헤이즈 #Heize\n#HAPPEN #헤픈우연\n#우연한레시피 #태연\n#PNATION #피네이션 https://t.co/4m9SXJrA9r"
+		"text": "[Heize]\n'우연한 레시피 (with 태연)' Teaser👩🍳\n'Happen Recipe (with TaeYeon)' Teaser👩🍳\n\nHeize from @OfficialPnation \n\n#헤이즈 #Heize\n#HAPPEN #헤픈우연\n#우연한레시피 #태연\n#PNATION #피네이션 https://t.co/4m9SXJrA9r"
 	},
 	{
 		"created_at": "Fri Jun 11 02:55:34 +0000 2021",
