@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 11 15:20:33 +0000 2021",
+		"id": 1403366416489795600,
+		"id_str": "1403371581733183488",
+		"full_text": "“Paint the Town”\n\nLOOПΔ 4th Mini Album [&amp;]\n2021.6.28 pm6 (KST) Release\n\n#이달의소녀 #LOONA #AND #PTT #PaintTheTown\n\nLOOΠΔ\nhttps://t.co/5CfbXHQxfn https://t.co/MnULSX8rKz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "AND",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "PTT",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "PaintTheTown",
+					"indices": [
+						100,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5CfbXHQxfn",
+					"expanded_url": "http://www.loonatheworld.com",
+					"display_url": "loonatheworld.com",
+					"indices": [
+						121,
+						144
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1403205771584630800,
+					"id_str": "1403205771584630786",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/E3kwNvoUcAIaSGj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3kwNvoUcAIaSGj.jpg",
+					"url": "https://t.co/MnULSX8rKz",
+					"display_url": "pic.twitter.com/MnULSX8rKz",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1403366416489795586/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2002,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403205771584630800,
+					"id_str": "1403205771584630786",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/E3kwNvoUcAIaSGj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3kwNvoUcAIaSGj.jpg",
+					"url": "https://t.co/MnULSX8rKz",
+					"display_url": "pic.twitter.com/MnULSX8rKz",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1403366416489795586/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2002,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 737392,
+			"friends_count": 0,
+			"listed_count": 7365,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2951,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19359,
+		"favorite_count": 38173,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Paint the Town”\n\nLOOПΔ 4th Mini Album [&amp;]\n2021.6.28 pm6 (KST) Release\n\n#이달의소녀 #LOONA #AND #PTT #PaintTheTown\n\nLOOΠΔ\nhttps://t.co/5CfbXHQxfn https://t.co/MnULSX8rKz"
+	},
+	{
 		"created_at": "Fri Jun 11 14:19:44 +0000 2021",
 		"id": 1403351372477517800,
 		"id_str": "1403356279389650946",
