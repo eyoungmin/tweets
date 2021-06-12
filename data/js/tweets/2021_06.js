@@ -1,10 +1,831 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 12 09:49:38 +0000 2021",
+		"id": 1403638796118216700,
+		"id_str": "1403650694595284995",
+		"full_text": "[#오케이광자매 OST '좋아서 좋아해' 발매 EVENT]\n🎁이달의 소녀 '츄' 폴라로이드 받자!🎁\n\n1⃣ 해시태그 #오케이광자매_좋아서좋아해_츄\n2⃣ '좋아서 좋아해' 스트리밍 인증 캡쳐!\n3⃣ 위 내용 트위터에 인증샷 업로드\n\n#오케이광자매OST #츄 #Chuu \n#이달의소녀 #LOONA #좋아서좋아해 https://t.co/NSKnUt5IBD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오케이광자매",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "오케이광자매_좋아서좋아해_츄",
+					"indices": [
+						65,
+						81
+					]
+				},
+				{
+					"text": "오케이광자매OST",
+					"indices": [
+						129,
+						139
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						140,
+						142
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "좋아서좋아해",
+					"indices": [
+						164,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1403638788589453300,
+					"id_str": "1403638788589453314",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/E3q6CprVgAIAi8e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3q6CprVgAIAi8e.jpg",
+					"url": "https://t.co/NSKnUt5IBD",
+					"display_url": "pic.twitter.com/NSKnUt5IBD",
+					"expanded_url": "https://twitter.com/vlending/status/1403638796118216704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403638788589453300,
+					"id_str": "1403638788589453314",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/E3q6CprVgAIAi8e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3q6CprVgAIAi8e.jpg",
+					"url": "https://t.co/NSKnUt5IBD",
+					"display_url": "pic.twitter.com/NSKnUt5IBD",
+					"expanded_url": "https://twitter.com/vlending/status/1403638796118216704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1403638205073694700,
+		"in_reply_to_status_id_str": "1403638205073694723",
+		"in_reply_to_user_id": 875207914503364600,
+		"in_reply_to_user_id_str": "875207914503364609",
+		"in_reply_to_screen_name": "vlending",
+		"user": {
+			"id": 875207914503364600,
+			"id_str": "875207914503364609",
+			"name": "VLENDING (블렌딩)",
+			"screen_name": "vlending",
+			"location": "",
+			"description": "\"보는 음악, 함께 하는 음악\"\n다양한 드라마 OST 와 KPOP 음원을 제작하고 유통하는 블렌딩 공식 계정입니다.",
+			"url": "https://t.co/Qa4COCxXM9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qa4COCxXM9",
+							"expanded_url": "http://youtube.com/vlending",
+							"display_url": "youtube.com/vlending",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5938,
+			"friends_count": 15,
+			"listed_count": 24,
+			"created_at": "Thu Jun 15 04:26:42 +0000 2017",
+			"favourites_count": 73,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194910045206499333/ZPa5QJXO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194910045206499333/ZPa5QJXO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/875207914503364609/1619759913",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#오케이광자매 OST '좋아서 좋아해' 발매 EVENT]\n🎁이달의 소녀 '츄' 폴라로이드 받자!🎁\n\n1⃣ 해시태그 #오케이광자매_좋아서좋아해_츄\n2⃣ '좋아서 좋아해' 스트리밍 인증 캡쳐!\n3⃣ 위 내용 트위터에 인증샷 업로드\n\n#오케이광자매OST #츄 #Chuu \n#이달의소녀 #LOONA #좋아서좋아해 https://t.co/NSKnUt5IBD"
+	},
+	{
+		"created_at": "Sat Jun 12 09:20:43 +0000 2021",
+		"id": 1403632266119553000,
+		"id_str": "1403643415904931841",
+		"full_text": "[LOOПΔ NEWS]\n\n이달의 소녀 츄, ‘오케이 광자매’ OST 불렀다…대세 행보 눈길\n\n▶️ https://t.co/B6cI5dJ0of\n\n#이달의소녀 #LOONA #AND",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "AND",
+					"indices": [
+						94,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B6cI5dJ0of",
+					"expanded_url": "http://naver.me/FMA4atcE",
+					"display_url": "naver.me/FMA4atcE",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 737750,
+			"friends_count": 0,
+			"listed_count": 7368,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 901,
+		"favorite_count": 4391,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LOOПΔ NEWS]\n\n이달의 소녀 츄, ‘오케이 광자매’ OST 불렀다…대세 행보 눈길\n\n▶️ https://t.co/B6cI5dJ0of\n\n#이달의소녀 #LOONA #AND"
+	},
+	{
+		"created_at": "Sat Jun 12 09:20:43 +0000 2021",
+		"id": 1403638207187767300,
+		"id_str": "1403643415900823557",
+		"full_text": "#츄 는 오빛을 좋아서 좋아해❤️ KBS 2TV 주말드라마 ‘오케이 광자매’ OST Part.5 ‘좋아서 좋아해’가 발매됐습니다! 음원사이트를 통해 확인해 주세요🍓\n\n#이달의소녀 #LOONA #Chuu https://t.co/aAlNOyOYya",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "츄",
+					"indices": [
+						0,
+						2
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						107,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1403615853329850400,
+					"id_str": "1403615853329850370",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/E3qlLpLVIAIbjbk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3qlLpLVIAIbjbk.jpg",
+					"url": "https://t.co/aAlNOyOYya",
+					"display_url": "pic.twitter.com/aAlNOyOYya",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1403638207187767296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403615853329850400,
+					"id_str": "1403615853329850370",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/E3qlLpLVIAIbjbk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3qlLpLVIAIbjbk.jpg",
+					"url": "https://t.co/aAlNOyOYya",
+					"display_url": "pic.twitter.com/aAlNOyOYya",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1403638207187767296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 737750,
+			"friends_count": 0,
+			"listed_count": 7368,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2669,
+		"favorite_count": 9395,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#츄 는 오빛을 좋아서 좋아해❤️ KBS 2TV 주말드라마 ‘오케이 광자매’ OST Part.5 ‘좋아서 좋아해’가 발매됐습니다! 음원사이트를 통해 확인해 주세요🍓\n\n#이달의소녀 #LOONA #Chuu https://t.co/aAlNOyOYya"
+	},
+	{
+		"created_at": "Sat Jun 12 09:20:43 +0000 2021",
+		"id": 1403640718242025500,
+		"id_str": "1403643415896608773",
+		"full_text": "한 번도 못 들어 본 사람은 있어도 한 번이라도 들은 사람은 얌얌얌🎶 #이달의소녀 가 참여한 코코몽 캐릭터송 ‘얌얌’(Yum-Yum)의 뮤직비디오가 공개됐습니다! #여진 #김립 #최리 #고원 이 떠난 냉장고 나라로 함께 가요, 오빛💫\n\n#LOONA #YeoJin #KimLip #Choerry #GoWon\n\n▶️ https://t.co/lyv8sKZulL https://t.co/SrHpBVRmeI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						139,
+						146
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						147,
+						154
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						155,
+						163
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						164,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lyv8sKZulL",
+					"expanded_url": "https://youtu.be/XAh8NO_LJdA",
+					"display_url": "youtu.be/XAh8NO_LJdA",
+					"indices": [
+						175,
+						198
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1403629092549795800,
+					"id_str": "1403629092549795840",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/E3qxORHVoAA61B5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3qxORHVoAA61B5.jpg",
+					"url": "https://t.co/SrHpBVRmeI",
+					"display_url": "pic.twitter.com/SrHpBVRmeI",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1403640718242025473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403629092549795800,
+					"id_str": "1403629092549795840",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/E3qxORHVoAA61B5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3qxORHVoAA61B5.jpg",
+					"url": "https://t.co/SrHpBVRmeI",
+					"display_url": "pic.twitter.com/SrHpBVRmeI",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1403640718242025473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 737750,
+			"friends_count": 0,
+			"listed_count": 7368,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2263,
+		"favorite_count": 5933,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한 번도 못 들어 본 사람은 있어도 한 번이라도 들은 사람은 얌얌얌🎶 #이달의소녀 가 참여한 코코몽 캐릭터송 ‘얌얌’(Yum-Yum)의 뮤직비디오가 공개됐습니다! #여진 #김립 #최리 #고원 이 떠난 냉장고 나라로 함께 가요, 오빛💫\n\n#LOONA #YeoJin #KimLip #Choerry #GoWon\n\n▶️ https://t.co/lyv8sKZulL https://t.co/SrHpBVRmeI"
+	},
+	{
 		"created_at": "Sat Jun 12 08:55:52 +0000 2021",
 		"id": 1403633197305372700,
 		"id_str": "1403637163632123905",
-		"full_text": "딩동🔔 집순집돌손님들 (정하기 전이라😅)\n우리 쥔님의 비하인드 사진 가져왔어요🧚‍♀️ \n\n다음주 목요일은 슬기 혼자만의 시간 혼.슬.\n쥔님에게 궁금한 점, 하고 싶은 말!\n닉네임과 함께 #7117 말머리 [슬기zip] 달고 보내주세요. (진짜 소소한 것도🙆‍♀️)\n\n#슬기zip_비하인드 #강슬기옆선루브르에전시하자 https://t.co/MhdaJCwMb6",
+		"full_text": "딩동🔔 집순집돌손님들 (정하기 전이라😅)\n우리 쥔님의 비하인드 사진 가져왔어요🧚♀️ \n\n다음주 목요일은 슬기 혼자만의 시간 혼.슬.\n쥔님에게 궁금한 점, 하고 싶은 말!\n닉네임과 함께 #7117 말머리 [슬기zip] 달고 보내주세요. (진짜 소소한 것도🙆♀️)\n\n#슬기zip_비하인드 #강슬기옆선루브르에전시하자 https://t.co/MhdaJCwMb6",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -224,7 +1045,7 @@ Grailbird.data.tweets_2021_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "딩동🔔 집순집돌손님들 (정하기 전이라😅)\n우리 쥔님의 비하인드 사진 가져왔어요🧚‍♀️ \n\n다음주 목요일은 슬기 혼자만의 시간 혼.슬.\n쥔님에게 궁금한 점, 하고 싶은 말!\n닉네임과 함께 #7117 말머리 [슬기zip] 달고 보내주세요. (진짜 소소한 것도🙆‍♀️)\n\n#슬기zip_비하인드 #강슬기옆선루브르에전시하자 https://t.co/MhdaJCwMb6"
+		"text": "딩동🔔 집순집돌손님들 (정하기 전이라😅)\n우리 쥔님의 비하인드 사진 가져왔어요🧚♀️ \n\n다음주 목요일은 슬기 혼자만의 시간 혼.슬.\n쥔님에게 궁금한 점, 하고 싶은 말!\n닉네임과 함께 #7117 말머리 [슬기zip] 달고 보내주세요. (진짜 소소한 것도🙆♀️)\n\n#슬기zip_비하인드 #강슬기옆선루브르에전시하자 https://t.co/MhdaJCwMb6"
 	},
 	{
 		"created_at": "Sat Jun 12 07:47:07 +0000 2021",
