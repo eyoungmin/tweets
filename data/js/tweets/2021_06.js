@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 12 03:20:40 +0000 2021",
+		"id": 1403547974341259300,
+		"id_str": "1403552806460551172",
+		"full_text": "#이달의소녀 와 코코몽의 만남! #여진 #김립 #최리 #고원 이 참여한 코코몽 캐릭터송 ‘얌얌’(Yum-Yum)이 음원사이트를 통해 발매됐습니다✨ 올 여름은 냉장고 나라로 같이 떠나요, 오빛🏖\n\n#LOONA #YeoJin #KimLip #Choerry #GoWon https://t.co/pFjqvuAOEJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						18,
+						21
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						22,
+						25
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						26,
+						29
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						116,
+						123
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						132,
+						140
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						141,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1403547966334333000,
+					"id_str": "1403547966334332931",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/E3pncGaUcAM6Sab.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3pncGaUcAM6Sab.jpg",
+					"url": "https://t.co/pFjqvuAOEJ",
+					"display_url": "pic.twitter.com/pFjqvuAOEJ",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1403547974341259269/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403547966334333000,
+					"id_str": "1403547966334332931",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/E3pncGaUcAM6Sab.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3pncGaUcAM6Sab.jpg",
+					"url": "https://t.co/pFjqvuAOEJ",
+					"display_url": "pic.twitter.com/pFjqvuAOEJ",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1403547974341259269/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 737605,
+			"friends_count": 0,
+			"listed_count": 7367,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2953,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4171,
+		"favorite_count": 13675,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 와 코코몽의 만남! #여진 #김립 #최리 #고원 이 참여한 코코몽 캐릭터송 ‘얌얌’(Yum-Yum)이 음원사이트를 통해 발매됐습니다✨ 올 여름은 냉장고 나라로 같이 떠나요, 오빛🏖\n\n#LOONA #YeoJin #KimLip #Choerry #GoWon https://t.co/pFjqvuAOEJ"
+	},
+	{
+		"created_at": "Sat Jun 12 03:20:39 +0000 2021",
+		"id": 1403538245674172400,
+		"id_str": "1403552804413743104",
+		"full_text": "[LOOПΔ NEWS]\n\n이달의 소녀, 코코몽과 유쾌한 컬래버..캐릭터송 '얌얌' 12일 발매\n\n▶️ https://t.co/KsDnrGCNHs\n\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						89,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KsDnrGCNHs",
+					"expanded_url": "http://naver.me/5RcNYEBu",
+					"display_url": "naver.me/5RcNYEBu",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 737605,
+			"friends_count": 0,
+			"listed_count": 7367,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2953,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1229,
+		"favorite_count": 6739,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LOOПΔ NEWS]\n\n이달의 소녀, 코코몽과 유쾌한 컬래버..캐릭터송 '얌얌' 12일 발매\n\n▶️ https://t.co/KsDnrGCNHs\n\n#이달의소녀 #LOONA"
+	},
+	{
 		"created_at": "Sat Jun 12 01:22:37 +0000 2021",
 		"id": 1403518604964892700,
 		"id_str": "1403523096351444995",
