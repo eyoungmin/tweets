@@ -1,6 +1,2102 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 12 07:47:07 +0000 2021",
+		"id": 1403619860542787600,
+		"id_str": "1403619860542787586",
+		"full_text": "#사비나앤드론즈 #SAVINA_DRONES #SAVINA \n[합주 영상] 스포주의 | 사비나앤드론즈의 세번째 합주 날 (밝은 ver.) | 청춘의밤에서 만나요 🙋🏻‍♀️💋 \nhttps://t.co/EceRDaxjRs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사비나앤드론즈",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "SAVINA_DRONES",
+					"indices": [
+						9,
+						23
+					]
+				},
+				{
+					"text": "SAVINA",
+					"indices": [
+						24,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EceRDaxjRs",
+					"expanded_url": "https://www.youtube.com/watch?v=BEC7r8JH31g",
+					"display_url": "youtube.com/watch?v=BEC7r8…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#사비나앤드론즈 #SAVINA_DRONES #SAVINA \n[합주 영상] 스포주의 | 사비나앤드론즈의 세번째 합주 날 (밝은 ver.) | 청춘의밤에서 만나요 🙋🏻‍♀️💋 \nhttps://t.co/EceRDaxjRs"
+	},
+	{
+		"created_at": "Sat Jun 12 07:04:54 +0000 2021",
+		"id": 1403609238610514000,
+		"id_str": "1403609238610513920",
+		"full_text": "#알라딘 #이달의소녀 #LOONA \n이달의 소녀 미니 4집 [&amp;] [A Ver.] (Kakao Entertainment | 2021년 06월 | 22,300원) \nhttps://t.co/6WswGacVq5 https://t.co/AsDZbK4pog",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "알라딘",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						12,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6WswGacVq5",
+					"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?itemid=273337110",
+					"display_url": "aladin.co.kr/shop/wproduct.…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1403609237868236800,
+					"id_str": "1403609237868236801",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/E3qfKkqX0AE-pZy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3qfKkqX0AE-pZy.jpg",
+					"url": "https://t.co/AsDZbK4pog",
+					"display_url": "pic.twitter.com/AsDZbK4pog",
+					"expanded_url": "https://twitter.com/fromminn/status/1403609238610513920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403609237868236800,
+					"id_str": "1403609237868236801",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/E3qfKkqX0AE-pZy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3qfKkqX0AE-pZy.jpg",
+					"url": "https://t.co/AsDZbK4pog",
+					"display_url": "pic.twitter.com/AsDZbK4pog",
+					"expanded_url": "https://twitter.com/fromminn/status/1403609238610513920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#알라딘 #이달의소녀 #LOONA \n이달의 소녀 미니 4집 [&amp;] [A Ver.] (Kakao Entertainment | 2021년 06월 | 22,300원) \nhttps://t.co/6WswGacVq5 https://t.co/AsDZbK4pog"
+	},
+	{
+		"created_at": "Sat Jun 12 07:04:50 +0000 2021",
+		"id": 1403609219782393900,
+		"id_str": "1403609219782393860",
+		"full_text": "#알라딘 #이달의소녀 #LOONA \n이달의 소녀 미니 4집 [&amp;] [D Ver.] (Kakao Entertainment | 2021년 06월 | 22,300원) \nhttps://t.co/zYLYKkPuRZ https://t.co/yvsN9bG1rc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "알라딘",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						12,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zYLYKkPuRZ",
+					"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?itemid=273337174",
+					"display_url": "aladin.co.kr/shop/wproduct.…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1403609219006439400,
+					"id_str": "1403609219006439424",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/E3qfJeZXoAAdp1R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3qfJeZXoAAdp1R.jpg",
+					"url": "https://t.co/yvsN9bG1rc",
+					"display_url": "pic.twitter.com/yvsN9bG1rc",
+					"expanded_url": "https://twitter.com/fromminn/status/1403609219782393860/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403609219006439400,
+					"id_str": "1403609219006439424",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/E3qfJeZXoAAdp1R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3qfJeZXoAAdp1R.jpg",
+					"url": "https://t.co/yvsN9bG1rc",
+					"display_url": "pic.twitter.com/yvsN9bG1rc",
+					"expanded_url": "https://twitter.com/fromminn/status/1403609219782393860/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#알라딘 #이달의소녀 #LOONA \n이달의 소녀 미니 4집 [&amp;] [D Ver.] (Kakao Entertainment | 2021년 06월 | 22,300원) \nhttps://t.co/zYLYKkPuRZ https://t.co/yvsN9bG1rc"
+	},
+	{
+		"created_at": "Sat Jun 12 07:04:44 +0000 2021",
+		"id": 1403609194285047800,
+		"id_str": "1403609194285047808",
+		"full_text": "#알라딘 #이달의소녀 #LOONA \n이달의 소녀 미니 4집 [&amp;] [B Ver.] (Kakao Entertainment | 2021년 06월 | 22,300원) \nhttps://t.co/Te4m9V3k5s https://t.co/6u6tmDHVKJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "알라딘",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						12,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Te4m9V3k5s",
+					"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?itemid=273337131",
+					"display_url": "aladin.co.kr/shop/wproduct.…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1403609193521709000,
+					"id_str": "1403609193521709057",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/E3qfH_dVgAEZGR-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3qfH_dVgAEZGR-.jpg",
+					"url": "https://t.co/6u6tmDHVKJ",
+					"display_url": "pic.twitter.com/6u6tmDHVKJ",
+					"expanded_url": "https://twitter.com/fromminn/status/1403609194285047808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403609193521709000,
+					"id_str": "1403609193521709057",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/E3qfH_dVgAEZGR-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3qfH_dVgAEZGR-.jpg",
+					"url": "https://t.co/6u6tmDHVKJ",
+					"display_url": "pic.twitter.com/6u6tmDHVKJ",
+					"expanded_url": "https://twitter.com/fromminn/status/1403609194285047808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#알라딘 #이달의소녀 #LOONA \n이달의 소녀 미니 4집 [&amp;] [B Ver.] (Kakao Entertainment | 2021년 06월 | 22,300원) \nhttps://t.co/Te4m9V3k5s https://t.co/6u6tmDHVKJ"
+	},
+	{
+		"created_at": "Sat Jun 12 07:04:38 +0000 2021",
+		"id": 1403609171111600000,
+		"id_str": "1403609171111600128",
+		"full_text": "#알라딘 #이달의소녀 #LOONA \n[세트] 이달의 소녀 미니 4집 [&amp;] [A+B+C+D Ver.] (Kakao Entertainment | 2021년 06월 | 89,200원) \nhttps://t.co/xKLDFwRFK9 https://t.co/TYLHpmJ9Ye",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "알라딘",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						12,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xKLDFwRFK9",
+					"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?itemid=273338819",
+					"display_url": "aladin.co.kr/shop/wproduct.…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1403609169941442600,
+					"id_str": "1403609169941442562",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/E3qfGnnXMAImE-M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3qfGnnXMAImE-M.jpg",
+					"url": "https://t.co/TYLHpmJ9Ye",
+					"display_url": "pic.twitter.com/TYLHpmJ9Ye",
+					"expanded_url": "https://twitter.com/fromminn/status/1403609171111600128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403609169941442600,
+					"id_str": "1403609169941442562",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/E3qfGnnXMAImE-M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3qfGnnXMAImE-M.jpg",
+					"url": "https://t.co/TYLHpmJ9Ye",
+					"display_url": "pic.twitter.com/TYLHpmJ9Ye",
+					"expanded_url": "https://twitter.com/fromminn/status/1403609171111600128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#알라딘 #이달의소녀 #LOONA \n[세트] 이달의 소녀 미니 4집 [&amp;] [A+B+C+D Ver.] (Kakao Entertainment | 2021년 06월 | 89,200원) \nhttps://t.co/xKLDFwRFK9 https://t.co/TYLHpmJ9Ye"
+	},
+	{
+		"created_at": "Sat Jun 12 07:04:33 +0000 2021",
+		"id": 1403609147158020000,
+		"id_str": "1403609147158020099",
+		"full_text": "#알라딘 #이달의소녀 #LOONA \n[키트 형태] 이달의 소녀 미니 4집 [&amp;] [키노앨범] (Kakao Entertainment | 2021년 06월 | 21,800원) \nhttps://t.co/LAn82Dzsht https://t.co/1arg7ycxrX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "알라딘",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						12,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LAn82Dzsht",
+					"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?itemid=273338577",
+					"display_url": "aladin.co.kr/shop/wproduct.…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1403609145635389400,
+					"id_str": "1403609145635389443",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/E3qfFNEWQAMcW5w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3qfFNEWQAMcW5w.jpg",
+					"url": "https://t.co/1arg7ycxrX",
+					"display_url": "pic.twitter.com/1arg7ycxrX",
+					"expanded_url": "https://twitter.com/fromminn/status/1403609147158020099/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403609145635389400,
+					"id_str": "1403609145635389443",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/E3qfFNEWQAMcW5w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3qfFNEWQAMcW5w.jpg",
+					"url": "https://t.co/1arg7ycxrX",
+					"display_url": "pic.twitter.com/1arg7ycxrX",
+					"expanded_url": "https://twitter.com/fromminn/status/1403609147158020099/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#알라딘 #이달의소녀 #LOONA \n[키트 형태] 이달의 소녀 미니 4집 [&amp;] [키노앨범] (Kakao Entertainment | 2021년 06월 | 21,800원) \nhttps://t.co/LAn82Dzsht https://t.co/1arg7ycxrX"
+	},
+	{
+		"created_at": "Sat Jun 12 07:04:32 +0000 2021",
+		"id": 1403609144054145000,
+		"id_str": "1403609144054145025",
+		"full_text": "#가온차트 #GaonChart #칼럼 #Opinion \naespa, 기획과 기술의 아이돌 \nhttps://t.co/OqCxj37aP3 https://t.co/vJh9j6CXe6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "가온차트",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "GaonChart",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "칼럼",
+					"indices": [
+						17,
+						20
+					]
+				},
+				{
+					"text": "Opinion",
+					"indices": [
+						21,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OqCxj37aP3",
+					"expanded_url": "http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=18998&sgenre=opinion&search_str=",
+					"display_url": "gaonchart.co.kr/main/section/a…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1403609142506537000,
+					"id_str": "1403609142506536963",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/E3qfFBaXwAMnNnG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3qfFBaXwAMnNnG.jpg",
+					"url": "https://t.co/vJh9j6CXe6",
+					"display_url": "pic.twitter.com/vJh9j6CXe6",
+					"expanded_url": "https://twitter.com/fromminn/status/1403609144054145025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403609142506537000,
+					"id_str": "1403609142506536963",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/E3qfFBaXwAMnNnG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3qfFBaXwAMnNnG.jpg",
+					"url": "https://t.co/vJh9j6CXe6",
+					"display_url": "pic.twitter.com/vJh9j6CXe6",
+					"expanded_url": "https://twitter.com/fromminn/status/1403609144054145025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#가온차트 #GaonChart #칼럼 #Opinion \naespa, 기획과 기술의 아이돌 \nhttps://t.co/OqCxj37aP3 https://t.co/vJh9j6CXe6"
+	},
+	{
+		"created_at": "Sat Jun 12 07:03:50 +0000 2021",
+		"id": 1403608966727352300,
+		"id_str": "1403608966727352320",
+		"full_text": "#지켜츄 #ChuuCanDoIt \n츄: 제작진 언니들이 우리 잡아 먹을거래 \nhttps://t.co/CnNWZGQiWP \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지켜츄",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "ChuuCanDoIt",
+					"indices": [
+						5,
+						17
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "김지우",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						90,
+						92
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "츄튜브",
+					"indices": [
+						99,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CnNWZGQiWP",
+					"expanded_url": "https://www.youtube.com/watch?v=Yk7aZa0E0Og",
+					"display_url": "youtube.com/watch?v=Yk7aZa…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#지켜츄 #ChuuCanDoIt \n츄: 제작진 언니들이 우리 잡아 먹을거래 \nhttps://t.co/CnNWZGQiWP \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브"
+	},
+	{
+		"created_at": "Sat Jun 12 07:03:32 +0000 2021",
+		"id": 1403608890772803600,
+		"id_str": "1403608890772803586",
+		"full_text": "#Sigrid #시그리드 \nSigrid reacts to 'Mirror' official video \nhttps://t.co/y6qMQYiBkm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Sigrid",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "시그리드",
+					"indices": [
+						8,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y6qMQYiBkm",
+					"expanded_url": "https://www.youtube.com/watch?v=H50PyYGuXuA",
+					"display_url": "youtube.com/watch?v=H50PyY…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Sigrid #시그리드 \nSigrid reacts to 'Mirror' official video \nhttps://t.co/y6qMQYiBkm"
+	},
+	{
+		"created_at": "Sat Jun 12 07:03:27 +0000 2021",
+		"id": 1403608870107422700,
+		"id_str": "1403608870107422724",
+		"full_text": "#MNH엔터테인먼트 #네이버포스트 \n[청하BEHIND] Reebok(리복) 광고 촬영 현장 \nhttps://t.co/tAgA3TesS1 \n \n#청하 #CHUNGHA https://t.co/YBgZa6ptcB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MNH엔터테인먼트",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						83,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tAgA3TesS1",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=31641797&memberNo=31769942&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1403608868534501400,
+					"id_str": "1403608868534501378",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/E3qe1EyWQAIplm6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3qe1EyWQAIplm6.jpg",
+					"url": "https://t.co/YBgZa6ptcB",
+					"display_url": "pic.twitter.com/YBgZa6ptcB",
+					"expanded_url": "https://twitter.com/fromminn/status/1403608870107422724/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403608868534501400,
+					"id_str": "1403608868534501378",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/E3qe1EyWQAIplm6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3qe1EyWQAIplm6.jpg",
+					"url": "https://t.co/YBgZa6ptcB",
+					"display_url": "pic.twitter.com/YBgZa6ptcB",
+					"expanded_url": "https://twitter.com/fromminn/status/1403608870107422724/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#MNH엔터테인먼트 #네이버포스트 \n[청하BEHIND] Reebok(리복) 광고 촬영 현장 \nhttps://t.co/tAgA3TesS1 \n \n#청하 #CHUNGHA https://t.co/YBgZa6ptcB"
+	},
+	{
+		"created_at": "Sat Jun 12 07:02:44 +0000 2021",
+		"id": 1403608689722921000,
+		"id_str": "1403608689722920963",
+		"full_text": "#SMTOWN #PLAYLIST \naespa 에스파 'Next Level' MV Behind The Scenes \nhttps://t.co/Ugs0wAbXTI \n \n#에스파 #aespa #æspa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						103,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ugs0wAbXTI",
+					"expanded_url": "https://www.youtube.com/watch?v=sRVfjgqz0pA",
+					"display_url": "youtube.com/watch?v=sRVfjg…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SMTOWN #PLAYLIST \naespa 에스파 'Next Level' MV Behind The Scenes \nhttps://t.co/Ugs0wAbXTI \n \n#에스파 #aespa #æspa"
+	},
+	{
+		"created_at": "Sat Jun 12 07:02:40 +0000 2021",
+		"id": 1403608675521122300,
+		"id_str": "1403608675521122306",
+		"full_text": "#AnneMarie #앤마리 \nAnne-Marie &amp; Niall Horan - Our Song (Live on The Tonight Show Starring Jimmy Fallon) \nhttps://t.co/wZgOiL94eP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AnneMarie",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "앤마리",
+					"indices": [
+						11,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wZgOiL94eP",
+					"expanded_url": "https://www.youtube.com/watch?v=He0Y8SDxbwE",
+					"display_url": "youtube.com/watch?v=He0Y8S…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#AnneMarie #앤마리 \nAnne-Marie &amp; Niall Horan - Our Song (Live on The Tonight Show Starring Jimmy Fallon) \nhttps://t.co/wZgOiL94eP"
+	},
+	{
+		"created_at": "Sat Jun 12 07:02:39 +0000 2021",
+		"id": 1403608669909139500,
+		"id_str": "1403608669909139456",
+		"full_text": "#AnneMarie #앤마리 \nAnne-Marie &amp; Niall Horan - Our Song [Anne-Marie Behind The Scenes Video] \nhttps://t.co/jPo8ZhYhGk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AnneMarie",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "앤마리",
+					"indices": [
+						11,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jPo8ZhYhGk",
+					"expanded_url": "https://www.youtube.com/watch?v=zPFdp7VPVYc",
+					"display_url": "youtube.com/watch?v=zPFdp7…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#AnneMarie #앤마리 \nAnne-Marie &amp; Niall Horan - Our Song [Anne-Marie Behind The Scenes Video] \nhttps://t.co/jPo8ZhYhGk"
+	},
+	{
 		"created_at": "Sat Jun 12 07:00:56 +0000 2021",
 		"id": 1403608239384760300,
 		"id_str": "1403608239384760325",
