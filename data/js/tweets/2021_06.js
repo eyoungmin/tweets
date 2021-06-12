@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 12 13:22:43 +0000 2021",
+		"id": 1403690297645666300,
+		"id_str": "1403704317144563712",
+		"full_text": "#🌿🌿🌿💜💜💜\n편안한 토요일 보내고 계신가요? \n#자우림 이 \n#잎새에적은노래 를 \n들어보셨나요? \n\n멜론 ▶️ https://t.co/mE4JDlWh16\nVIBE ▶️ https://t.co/uGeJJep7RF\nFLO ▶️ https://t.co/e30T1JLjNc\nBugs ▶️ https://t.co/tuZmxor3GB\n지니 ▶️ https://t.co/5CNiLAo03G https://t.co/ixW8qqOl74",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						27,
+						31
+					]
+				},
+				{
+					"text": "잎새에적은노래",
+					"indices": [
+						35,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mE4JDlWh16",
+					"expanded_url": "http://kko.to/S7hLzHofM",
+					"display_url": "kko.to/S7hLzHofM",
+					"indices": [
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/uGeJJep7RF",
+					"expanded_url": "http://naver.me/G2UZ891w",
+					"display_url": "naver.me/G2UZ891w",
+					"indices": [
+						95,
+						118
+					]
+				},
+				{
+					"url": "https://t.co/e30T1JLjNc",
+					"expanded_url": "http://flomuz.io/s/b.EnKaC",
+					"display_url": "flomuz.io/s/b.EnKaC",
+					"indices": [
+						126,
+						149
+					]
+				},
+				{
+					"url": "https://t.co/tuZmxor3GB",
+					"expanded_url": "https://bit.ly/3zkerVB",
+					"display_url": "bit.ly/3zkerVB",
+					"indices": [
+						158,
+						181
+					]
+				},
+				{
+					"url": "https://t.co/5CNiLAo03G",
+					"expanded_url": "https://bit.ly/2TWN1op",
+					"display_url": "bit.ly/2TWN1op",
+					"indices": [
+						188,
+						211
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1403690286920847400,
+					"id_str": "1403690286920847361",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/E3ro4P6VUAEuGii.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3ro4P6VUAEuGii.jpg",
+					"url": "https://t.co/ixW8qqOl74",
+					"display_url": "pic.twitter.com/ixW8qqOl74",
+					"expanded_url": "https://twitter.com/love_yuna/status/1403690297645666305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403690286920847400,
+					"id_str": "1403690286920847361",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/E3ro4P6VUAEuGii.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3ro4P6VUAEuGii.jpg",
+					"url": "https://t.co/ixW8qqOl74",
+					"display_url": "pic.twitter.com/ixW8qqOl74",
+					"expanded_url": "https://twitter.com/love_yuna/status/1403690297645666305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 270735,
+			"friends_count": 536,
+			"listed_count": 0,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358217725089255426/J-5E7g_n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358217725089255426/J-5E7g_n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1612661273",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 90,
+		"favorite_count": 164,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#🌿🌿🌿💜💜💜\n편안한 토요일 보내고 계신가요? \n#자우림 이 \n#잎새에적은노래 를 \n들어보셨나요? \n\n멜론 ▶️ https://t.co/mE4JDlWh16\nVIBE ▶️ https://t.co/uGeJJep7RF\nFLO ▶️ https://t.co/e30T1JLjNc\nBugs ▶️ https://t.co/tuZmxor3GB\n지니 ▶️ https://t.co/5CNiLAo03G https://t.co/ixW8qqOl74"
+	},
+	{
 		"created_at": "Sat Jun 12 11:20:44 +0000 2021",
 		"id": 1403662581441564700,
 		"id_str": "1403673618014298121",
