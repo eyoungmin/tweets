@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 13 11:51:28 +0000 2021",
+		"id": 1404043740784717800,
+		"id_str": "1404043740784717831",
+		"full_text": "@HAVAQQUQ ~씨라고 하는 것 자체에 부담감 아닌 거부감이 있는 사회여서인 듯 하네요. 아티스트명 뒤에 씨나 님이 없으면 건방지다고 생각하니까요. 아티스트명만 다른매체에서 옮겨적으면 예의없다고 생각해서 없는 자리에서도 꼭 존칭 붙여야되는 문화가 여전히 존재하잖아요.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HAVAQQUQ",
+					"name": "하박국HAVAQQUQ-303",
+					"id": 8098922,
+					"id_str": "8098922",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1403995659666026500,
+		"in_reply_to_status_id_str": "1403995659666026500",
+		"in_reply_to_user_id": 8098922,
+		"in_reply_to_user_id_str": "8098922",
+		"in_reply_to_screen_name": "HAVAQQUQ",
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@HAVAQQUQ ~씨라고 하는 것 자체에 부담감 아닌 거부감이 있는 사회여서인 듯 하네요. 아티스트명 뒤에 씨나 님이 없으면 건방지다고 생각하니까요. 아티스트명만 다른매체에서 옮겨적으면 예의없다고 생각해서 없는 자리에서도 꼭 존칭 붙여야되는 문화가 여전히 존재하잖아요."
+	},
+	{
+		"created_at": "Sun Jun 13 11:15:43 +0000 2021",
+		"id": 1404034743352631300,
+		"id_str": "1404034743352631297",
+		"full_text": "#SMTOWN #PLAYLIST \n마지막 브이로그🎥 이제 안녕👋 Hello에서 Goodbye야😢 안무 연습 + 마지막 음악방송 / 안녕! 조이💚 (Hello! JOY) #4 \nhttps://t.co/ozK7mDeAEk \n \n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						131,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ozK7mDeAEk",
+					"expanded_url": "https://www.youtube.com/watch?v=7MMlN4W-emc",
+					"display_url": "youtube.com/watch?v=7MMlN4…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #PLAYLIST \n마지막 브이로그🎥 이제 안녕👋 Hello에서 Goodbye야😢 안무 연습 + 마지막 음악방송 / 안녕! 조이💚 (Hello! JOY) #4 \nhttps://t.co/ozK7mDeAEk \n \n#레드벨벳 #RedVelvet"
+	},
+	{
+		"created_at": "Sun Jun 13 11:09:35 +0000 2021",
+		"id": 1404030894181027800,
+		"id_str": "1404033202684055554",
+		"full_text": "마지막 브이로그🎥 이제 안녕👋 Hello에서 Goodbye야😢 안무 연습 + 마지막 음악방송 / 안녕! 조이💚 (Hello! JOY) #4\n\nhttps://t.co/085W1TweNd\n\n#JOY #조이 #안녕조이 #HelloJOY #안녕 #Hello #레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JOY",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "안녕조이",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "HelloJOY",
+					"indices": [
+						119,
+						128
+					]
+				},
+				{
+					"text": "안녕",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "Hello",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						146,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/085W1TweNd",
+					"expanded_url": "https://youtu.be/7MMlN4W-emc",
+					"display_url": "youtu.be/7MMlN4W-emc",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/U7JtipmDEo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U7JtipmDEo",
+							"expanded_url": "https://youtu.be/lNvBbh5jDcA",
+							"display_url": "youtu.be/lNvBbh5jDcA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4231884,
+			"friends_count": 1,
+			"listed_count": 9033,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1622019868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4026,
+		"favorite_count": 10031,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마지막 브이로그🎥 이제 안녕👋 Hello에서 Goodbye야😢 안무 연습 + 마지막 음악방송 / 안녕! 조이💚 (Hello! JOY) #4\n\nhttps://t.co/085W1TweNd\n\n#JOY #조이 #안녕조이 #HelloJOY #안녕 #Hello #레드벨벳 #RedVelvet"
+	},
+	{
 		"created_at": "Sun Jun 13 09:26:14 +0000 2021",
 		"id": 1404007191691116500,
 		"id_str": "1404007191691116544",
