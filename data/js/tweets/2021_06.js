@@ -1,6 +1,356 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 13 06:22:52 +0000 2021",
+		"id": 1403960776176541700,
+		"id_str": "1403961047875166211",
+		"full_text": "그동안 전하지 못 했던 \n마음 속 이야기들을 당신의 그분께\n속삭여 볼 수 있는 절호의 기회! ☺️💜💜💜\n\n많은 참여 부탁드립니다. 🥳🥳🥳 https://t.co/cDUnCtDw7i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1403960768224129000,
+					"id_str": "1403960768224129030",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/E3ve4VSVcAYKgIw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3ve4VSVcAYKgIw.jpg",
+					"url": "https://t.co/cDUnCtDw7i",
+					"display_url": "pic.twitter.com/cDUnCtDw7i",
+					"expanded_url": "https://twitter.com/love_yuna/status/1403960776176541696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403960768224129000,
+					"id_str": "1403960768224129030",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/E3ve4VSVcAYKgIw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3ve4VSVcAYKgIw.jpg",
+					"url": "https://t.co/cDUnCtDw7i",
+					"display_url": "pic.twitter.com/cDUnCtDw7i",
+					"expanded_url": "https://twitter.com/love_yuna/status/1403960776176541696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1403960765879488500,
+		"in_reply_to_status_id_str": "1403960765879488513",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 270745,
+			"friends_count": 537,
+			"listed_count": 2819,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358217725089255426/J-5E7g_n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358217725089255426/J-5E7g_n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1612661273",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그동안 전하지 못 했던 \n마음 속 이야기들을 당신의 그분께\n속삭여 볼 수 있는 절호의 기회! ☺️💜💜💜\n\n많은 참여 부탁드립니다. 🥳🥳🥳 https://t.co/cDUnCtDw7i"
+	},
+	{
+		"created_at": "Sun Jun 13 06:22:52 +0000 2021",
+		"id": 1403960765879488500,
+		"id_str": "1403961047875088384",
+		"full_text": "저희 자우림 멤버 3인이 직접 \n20분의 메세지를 뽑아 \n10번께는 자우림 9집 사인 LP를 \n10분께는 자우림 10집 사인 LP를 \n드립니다.\n\n참여 기간은 \n어제 6월 12 일 토요일부터 \n다음 주 21일 일요일에서 월요일로 넘어가는 자정까지 입니다. \n\n당첨자 발표는 \n6월 마지막 날인 30일\n오후 2시입니다. https://t.co/UQcvEfyiPC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1403960756828180500,
+					"id_str": "1403960756828180486",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/E3ve3q1VEAYYNB8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3ve3q1VEAYYNB8.jpg",
+					"url": "https://t.co/UQcvEfyiPC",
+					"display_url": "pic.twitter.com/UQcvEfyiPC",
+					"expanded_url": "https://twitter.com/love_yuna/status/1403960765879488513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403960756828180500,
+					"id_str": "1403960756828180486",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/E3ve3q1VEAYYNB8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3ve3q1VEAYYNB8.jpg",
+					"url": "https://t.co/UQcvEfyiPC",
+					"display_url": "pic.twitter.com/UQcvEfyiPC",
+					"expanded_url": "https://twitter.com/love_yuna/status/1403960765879488513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1403960754554884000,
+		"in_reply_to_status_id_str": "1403960754554884103",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 270745,
+			"friends_count": 537,
+			"listed_count": 2819,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358217725089255426/J-5E7g_n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358217725089255426/J-5E7g_n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1612661273",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저희 자우림 멤버 3인이 직접 \n20분의 메세지를 뽑아 \n10번께는 자우림 9집 사인 LP를 \n10분께는 자우림 10집 사인 LP를 \n드립니다.\n\n참여 기간은 \n어제 6월 12 일 토요일부터 \n다음 주 21일 일요일에서 월요일로 넘어가는 자정까지 입니다. \n\n당첨자 발표는 \n6월 마지막 날인 30일\n오후 2시입니다. https://t.co/UQcvEfyiPC"
+	},
+	{
 		"created_at": "Sun Jun 13 05:20:05 +0000 2021",
 		"id": 1403940385492148200,
 		"id_str": "1403945246136832000",
