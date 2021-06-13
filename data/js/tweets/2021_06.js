@@ -1,6 +1,627 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 13 12:51:02 +0000 2021",
+		"id": 1404058732770648000,
+		"id_str": "1404058732770648069",
+		"full_text": "미백 광고는 좀 받질 말던가. 허위 과장에 볼때마다 역겹다는 느낌이 들어. 신고해도 끝이없네.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44956,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "미백 광고는 좀 받질 말던가. 허위 과장에 볼때마다 역겹다는 느낌이 들어. 신고해도 끝이없네."
+	},
+	{
+		"created_at": "Sun Jun 13 12:49:40 +0000 2021",
+		"id": 1404058388758032400,
+		"id_str": "1404058388758032395",
+		"full_text": "트위터 공앱도 네이티브 광고 진짜 하나걸러 나오는 수준이네... 에효",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44956,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "트위터 공앱도 네이티브 광고 진짜 하나걸러 나오는 수준이네... 에효"
+	},
+	{
+		"created_at": "Sun Jun 13 12:33:49 +0000 2021",
+		"id": 1404000597779652600,
+		"id_str": "1404054397735170051",
+		"full_text": "\"나 이제 공주 역할 하고 싶어!\"\n수정이 하고 싶은 거 다 해🙌\n\n'새콤달콤' 정수정의 시원~시원한 키워드 인터뷰, 풀버전은 넷플릭스 코리아 유튜브에서!\n👉https://t.co/kVS9LQFgEG\n\n#새콤달콤 #SweetandSour #정수정 #Krystal #넷플릭스 #Netflix https://t.co/ICJu6vKMkq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "새콤달콤",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "SweetandSour",
+					"indices": [
+						119,
+						132
+					]
+				},
+				{
+					"text": "정수정",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "Krystal",
+					"indices": [
+						138,
+						146
+					]
+				},
+				{
+					"text": "넷플릭스",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "Netflix",
+					"indices": [
+						153,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kVS9LQFgEG",
+					"expanded_url": "https://youtu.be/-QoGRVKRDLU",
+					"display_url": "youtu.be/-QoGRVKRDLU",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1403329253517660200,
+					"id_str": "1403329253517660171",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/E3mhyu0VEAI69LR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3mhyu0VEAI69LR.jpg",
+					"url": "https://t.co/ICJu6vKMkq",
+					"display_url": "pic.twitter.com/ICJu6vKMkq",
+					"expanded_url": "https://twitter.com/NetflixKR/status/1404000597779652608/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403329253517660200,
+					"id_str": "1403329253517660171",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/E3mhyu0VEAI69LR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3mhyu0VEAI69LR.jpg",
+					"url": "https://t.co/ICJu6vKMkq",
+					"display_url": "pic.twitter.com/ICJu6vKMkq",
+					"expanded_url": "https://twitter.com/NetflixKR/status/1404000597779652608/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 112946,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1403329253517660171/vid/540x540/S3mX_VF5w4rTthsK.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1403329253517660171/pl/XHkmdhqm8ixm3Y-w.m3u8?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1403329253517660171/vid/720x720/XMe_1MF6p8VJxIUg.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1403329253517660171/vid/320x320/MYnD4LD29FlKzVlG.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3026881800,
+			"id_str": "3026881800",
+			"name": "Netflix Korea｜넷플릭스 코리아",
+			"screen_name": "NetflixKR",
+			"location": "대한민국 서울",
+			"description": "넷플릭스 덕질에 진심인 넷플릭스 공계",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 175780,
+			"friends_count": 236,
+			"listed_count": 385,
+			"created_at": "Wed Feb 18 18:46:33 +0000 2015",
+			"favourites_count": 347,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377520972731875328/RTrZL9ub_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377520972731875328/RTrZL9ub_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3026881800/1622769426",
+			"profile_link_color": "E50913",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 769,
+		"favorite_count": 1102,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"나 이제 공주 역할 하고 싶어!\"\n수정이 하고 싶은 거 다 해🙌\n\n'새콤달콤' 정수정의 시원~시원한 키워드 인터뷰, 풀버전은 넷플릭스 코리아 유튜브에서!\n👉https://t.co/kVS9LQFgEG\n\n#새콤달콤 #SweetandSour #정수정 #Krystal #넷플릭스 #Netflix https://t.co/ICJu6vKMkq"
+	},
+	{
+		"created_at": "Sun Jun 13 12:25:42 +0000 2021",
+		"id": 1404013776945311700,
+		"id_str": "1404052358032609281",
+		"full_text": "https://t.co/M3232rAuEl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1404013646129156000,
+					"id_str": "1404013646129156100",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1404013646129156100/pu/img/GIu7_aDztB62jG9T.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1404013646129156100/pu/img/GIu7_aDztB62jG9T.jpg",
+					"url": "https://t.co/M3232rAuEl",
+					"display_url": "pic.twitter.com/M3232rAuEl",
+					"expanded_url": "https://twitter.com/saveKRYSTAL/status/1404013776945311750/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1404013646129156000,
+					"id_str": "1404013646129156100",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1404013646129156100/pu/img/GIu7_aDztB62jG9T.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1404013646129156100/pu/img/GIu7_aDztB62jG9T.jpg",
+					"url": "https://t.co/M3232rAuEl",
+					"display_url": "pic.twitter.com/M3232rAuEl",
+					"expanded_url": "https://twitter.com/saveKRYSTAL/status/1404013776945311750/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 122030,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1404013646129156100/pu/vid/1280x720/4ize0nRc8qK9al1k.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1404013646129156100/pu/vid/640x360/6pV9i44qZYFcbnZp.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1404013646129156100/pu/pl/SJzVnPDX1jEiBQGh.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1404013646129156100/pu/vid/480x270/1DeU0CVrAo-a3Zho.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1404013474854805500,
+		"in_reply_to_status_id_str": "1404013474854805507",
+		"in_reply_to_user_id": 3308936688,
+		"in_reply_to_user_id_str": "3308936688",
+		"in_reply_to_screen_name": "saveKRYSTAL",
+		"user": {
+			"id": 3308936688,
+			"id_str": "3308936688",
+			"name": "수정이 저장소",
+			"screen_name": "saveKRYSTAL",
+			"location": "",
+			"description": "𝐦𝐲 𝐨𝐧𝐞 𝐚𝐧𝐝 𝐨𝐧𝐥𝐲 𝐣𝐮𝐧𝐠𝐬𝐨𝐨𝐣𝐮𝐧𝐠",
+			"url": "https://t.co/MEl8bA5GXs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MEl8bA5GXs",
+							"expanded_url": "http://Instagram.com/vousmevoyez",
+							"display_url": "Instagram.com/vousmevoyez",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44540,
+			"friends_count": 0,
+			"listed_count": 716,
+			"created_at": "Fri Aug 07 18:18:52 +0000 2015",
+			"favourites_count": 117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5483,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398186207868194824/R_SJYFsm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398186207868194824/R_SJYFsm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3308936688/1622206861",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/M3232rAuEl"
+	},
+	{
 		"created_at": "Sun Jun 13 11:51:28 +0000 2021",
 		"id": 1404043740784717800,
 		"id_str": "1404043740784717831",
