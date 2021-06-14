@@ -1,6 +1,1867 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 14 09:01:47 +0000 2021",
+		"id": 1404363156143493000,
+		"id_str": "1404363428567785473",
+		"full_text": "GQ Magazine Photoshoot | TAEMIN 태민\n\n👉🏻 https://t.co/DH7nK3DwOC\n\n#TAEMIN #태민\n#SHINee #샤이니\n#GQ #GQKOREA https://t.co/ijEWQllP8u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEMIN",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "GQ",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "GQKOREA",
+					"indices": [
+						93,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DH7nK3DwOC",
+					"expanded_url": "https://youtu.be/U-H-AIRZdeM",
+					"display_url": "youtu.be/U-H-AIRZdeM",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1404363147406807000,
+					"id_str": "1404363147406807044",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/E31M14jVEAQ8QlW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E31M14jVEAQ8QlW.jpg",
+					"url": "https://t.co/ijEWQllP8u",
+					"display_url": "pic.twitter.com/ijEWQllP8u",
+					"expanded_url": "https://twitter.com/SHINee/status/1404363156143493122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1404363147406807000,
+					"id_str": "1404363147406807044",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/E31M14jVEAQ8QlW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E31M14jVEAQ8QlW.jpg",
+					"url": "https://t.co/ijEWQllP8u",
+					"display_url": "pic.twitter.com/ijEWQllP8u",
+					"expanded_url": "https://twitter.com/SHINee/status/1404363156143493122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "TAEMIN - The 3rd Mini Album Advice",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2024488,
+			"friends_count": 2,
+			"listed_count": 5130,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1863,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402197244539904003/NfjlPV9e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402197244539904003/NfjlPV9e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1623144852",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 984,
+		"favorite_count": 1922,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "GQ Magazine Photoshoot | TAEMIN 태민\n\n👉🏻 https://t.co/DH7nK3DwOC\n\n#TAEMIN #태민\n#SHINee #샤이니\n#GQ #GQKOREA https://t.co/ijEWQllP8u"
+	},
+	{
+		"created_at": "Mon Jun 14 09:01:46 +0000 2021",
+		"id": 1404363422423257000,
+		"id_str": "1404363422423257092",
+		"full_text": "#aespa #æspa #에스파 \naespa 에스파 'ep1. Black Mamba' - SM Culture Universe Behind The Scenes \nhttps://t.co/tqPjBKKQk0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						13,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tqPjBKKQk0",
+					"expanded_url": "https://youtu.be/5PSHerY3RdU",
+					"display_url": "youtu.be/5PSHerY3RdU",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44961,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#aespa #æspa #에스파 \naespa 에스파 'ep1. Black Mamba' - SM Culture Universe Behind The Scenes \nhttps://t.co/tqPjBKKQk0"
+	},
+	{
+		"created_at": "Mon Jun 14 08:56:11 +0000 2021",
+		"id": 1404347883311317000,
+		"id_str": "1404362017226444807",
+		"full_text": "[PHOTO] 📸 리복 PREMIER ROAD PLUS 광고 촬영 비하인드\n\n▶ https://t.co/ECMUWnGrfC\n\n#청하 #CHUNGHA\n#리복 #Reebok https://t.co/dAiWm8PV2y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "리복",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "Reebok",
+					"indices": [
+						87,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ECMUWnGrfC",
+					"expanded_url": "https://cafe.daum.net/MNH-Chungha/g3oX/78",
+					"display_url": "cafe.daum.net/MNH-Chungha/g3…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402479071540355000,
+					"id_str": "1402479071540355073",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/E3abSPAVIAEtRF0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3abSPAVIAEtRF0.jpg",
+					"url": "https://t.co/dAiWm8PV2y",
+					"display_url": "pic.twitter.com/dAiWm8PV2y",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1404347883311316994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402479071540355000,
+					"id_str": "1402479071540355073",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/E3abSPAVIAEtRF0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3abSPAVIAEtRF0.jpg",
+					"url": "https://t.co/dAiWm8PV2y",
+					"display_url": "pic.twitter.com/dAiWm8PV2y",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1404347883311316994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1402479105069621200,
+					"id_str": "1402479105069621249",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/E3abUL6VIAE4ju6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3abUL6VIAE4ju6.jpg",
+					"url": "https://t.co/dAiWm8PV2y",
+					"display_url": "pic.twitter.com/dAiWm8PV2y",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1404347883311316994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1402479123063181300,
+					"id_str": "1402479123063181315",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/E3abVO8VEAM6rYi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3abVO8VEAM6rYi.jpg",
+					"url": "https://t.co/dAiWm8PV2y",
+					"display_url": "pic.twitter.com/dAiWm8PV2y",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1404347883311316994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/uAFyf5T7B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAFyf5T7B0",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331437,
+			"friends_count": 0,
+			"listed_count": 2038,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1617289944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 405,
+		"favorite_count": 1718,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[PHOTO] 📸 리복 PREMIER ROAD PLUS 광고 촬영 비하인드\n\n▶ https://t.co/ECMUWnGrfC\n\n#청하 #CHUNGHA\n#리복 #Reebok https://t.co/dAiWm8PV2y"
+	},
+	{
+		"created_at": "Mon Jun 14 08:55:46 +0000 2021",
+		"id": 1404361913753116700,
+		"id_str": "1404361913753116672",
+		"full_text": "#SMTOWN #Artist_News \n‘보쌈-운명을 훔치다’ 권유리, 완벽한 감정 변주로 ‘MBN 드라마 최고 시청률 기록’ 이끌었다! \nhttps://t.co/8I647y6Mm8 \n \n#소녀시대 #GirlsGeneration https://t.co/HVlyXYWjI6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						111,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8I647y6Mm8",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5104",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1404361912935125000,
+					"id_str": "1404361912935124993",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/E31LuByWEAEhspE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E31LuByWEAEhspE.jpg",
+					"url": "https://t.co/HVlyXYWjI6",
+					"display_url": "pic.twitter.com/HVlyXYWjI6",
+					"expanded_url": "https://twitter.com/fromminn/status/1404361913753116672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1404361912935125000,
+					"id_str": "1404361912935124993",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/E31LuByWEAEhspE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E31LuByWEAEhspE.jpg",
+					"url": "https://t.co/HVlyXYWjI6",
+					"display_url": "pic.twitter.com/HVlyXYWjI6",
+					"expanded_url": "https://twitter.com/fromminn/status/1404361913753116672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44961,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \n‘보쌈-운명을 훔치다’ 권유리, 완벽한 감정 변주로 ‘MBN 드라마 최고 시청률 기록’ 이끌었다! \nhttps://t.co/8I647y6Mm8 \n \n#소녀시대 #GirlsGeneration https://t.co/HVlyXYWjI6"
+	},
+	{
+		"created_at": "Mon Jun 14 08:37:50 +0000 2021",
+		"id": 1403654515526553600,
+		"id_str": "1404357399968813056",
+		"full_text": "#얌얌챌린지\n코코몽과 얌얌~얌!\n함께해요❤️\n\nhttps://t.co/McphUXNVxw\n#코코몽 #최리 #여진 #이달의소녀 #LOONA\n#온세상_소시지_꽁다리_흔들어",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "얌얌챌린지",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "코코몽",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "온세상_소시지_꽁다리_흔들어",
+					"indices": [
+						77,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/McphUXNVxw",
+					"expanded_url": "https://vt.tiktok.com/ZSJxKchbW/",
+					"display_url": "vt.tiktok.com/ZSJxKchbW/",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097461345677500400,
+			"id_str": "1097461345677500417",
+			"name": "코코몽",
+			"screen_name": "cocomong_kr",
+			"location": "냉장고나라 ",
+			"description": "코코몽(냉장고 코씨,12살) 회사 몰래하는 케이팝 덕질계정🙈",
+			"url": "https://t.co/srDteO8EOb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/srDteO8EOb",
+							"expanded_url": "https://www.instagram.com/cocomong.official",
+							"display_url": "instagram.com/cocomong.offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3043,
+			"friends_count": 0,
+			"listed_count": 4,
+			"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+			"favourites_count": 1559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2981,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 141,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#얌얌챌린지\n코코몽과 얌얌~얌!\n함께해요❤️\n\nhttps://t.co/McphUXNVxw\n#코코몽 #최리 #여진 #이달의소녀 #LOONA\n#온세상_소시지_꽁다리_흔들어"
+	},
+	{
+		"created_at": "Mon Jun 14 08:37:49 +0000 2021",
+		"id": 1403653905595043800,
+		"id_str": "1404357393694167044",
+		"full_text": "#얌얌챌린지\n코코몽과 얌얌~얌!\n함께해요❤️\n\nhttps://t.co/HQYW1l950t\n#코코몽 #김립 #고원 #이달의소녀 #LOONA\n#온세상_소시지_꽁다리_흔들어",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "얌얌챌린지",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "코코몽",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "고원",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "온세상_소시지_꽁다리_흔들어",
+					"indices": [
+						77,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HQYW1l950t",
+					"expanded_url": "https://vt.tiktok.com/ZSJxK4Fqa/",
+					"display_url": "vt.tiktok.com/ZSJxK4Fqa/",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097461345677500400,
+			"id_str": "1097461345677500417",
+			"name": "코코몽",
+			"screen_name": "cocomong_kr",
+			"location": "냉장고나라 ",
+			"description": "코코몽(냉장고 코씨,12살) 회사 몰래하는 케이팝 덕질계정🙈",
+			"url": "https://t.co/srDteO8EOb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/srDteO8EOb",
+							"expanded_url": "https://www.instagram.com/cocomong.official",
+							"display_url": "instagram.com/cocomong.offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3043,
+			"friends_count": 0,
+			"listed_count": 4,
+			"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+			"favourites_count": 1559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2981,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 143,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#얌얌챌린지\n코코몽과 얌얌~얌!\n함께해요❤️\n\nhttps://t.co/HQYW1l950t\n#코코몽 #김립 #고원 #이달의소녀 #LOONA\n#온세상_소시지_꽁다리_흔들어"
+	},
+	{
+		"created_at": "Mon Jun 14 08:37:29 +0000 2021",
+		"id": 1403951305995870200,
+		"id_str": "1404357311926202371",
+		"full_text": "[얌얌mv 비하인드2]\n킁킁 맛있는 냄새 맡고 온 고양이\n야옹이두 얌얌~얌!\n#YumYum🐵\n#코코몽 #이달의소녀 #LOONA\n#온세상_소시지_꽁다리_흔들어 https://t.co/xwFyLCeS5M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YumYum",
+					"indices": [
+						43,
+						50
+					]
+				},
+				{
+					"text": "코코몽",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "온세상_소시지_꽁다리_흔들어",
+					"indices": [
+						71,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1403951297586286600,
+					"id_str": "1403951297586286598",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/E3vWREaUUAYalJU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3vWREaUUAYalJU.jpg",
+					"url": "https://t.co/xwFyLCeS5M",
+					"display_url": "pic.twitter.com/xwFyLCeS5M",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1403951305995870211/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403951297586286600,
+					"id_str": "1403951297586286598",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/E3vWREaUUAYalJU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3vWREaUUAYalJU.jpg",
+					"url": "https://t.co/xwFyLCeS5M",
+					"display_url": "pic.twitter.com/xwFyLCeS5M",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1403951305995870211/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1403951297821167600,
+					"id_str": "1403951297821167618",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/E3vWRFSUUAIWF_b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3vWRFSUUAIWF_b.jpg",
+					"url": "https://t.co/xwFyLCeS5M",
+					"display_url": "pic.twitter.com/xwFyLCeS5M",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1403951305995870211/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1403951297829621800,
+					"id_str": "1403951297829621767",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/E3vWRFUVUAcbgfA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3vWRFUVUAcbgfA.jpg",
+					"url": "https://t.co/xwFyLCeS5M",
+					"display_url": "pic.twitter.com/xwFyLCeS5M",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1403951305995870211/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1403951297829621800,
+					"id_str": "1403951297829621768",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/E3vWRFUVUAgqUlP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3vWRFUVUAgqUlP.jpg",
+					"url": "https://t.co/xwFyLCeS5M",
+					"display_url": "pic.twitter.com/xwFyLCeS5M",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1403951305995870211/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097461345677500400,
+			"id_str": "1097461345677500417",
+			"name": "코코몽",
+			"screen_name": "cocomong_kr",
+			"location": "냉장고나라 ",
+			"description": "코코몽(냉장고 코씨,12살) 회사 몰래하는 케이팝 덕질계정🙈",
+			"url": "https://t.co/srDteO8EOb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/srDteO8EOb",
+							"expanded_url": "https://www.instagram.com/cocomong.official",
+							"display_url": "instagram.com/cocomong.offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3043,
+			"friends_count": 0,
+			"listed_count": 4,
+			"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+			"favourites_count": 1559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2981,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1042,
+		"favorite_count": 3329,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[얌얌mv 비하인드2]\n킁킁 맛있는 냄새 맡고 온 고양이\n야옹이두 얌얌~얌!\n#YumYum🐵\n#코코몽 #이달의소녀 #LOONA\n#온세상_소시지_꽁다리_흔들어 https://t.co/xwFyLCeS5M"
+	},
+	{
+		"created_at": "Mon Jun 14 08:37:27 +0000 2021",
+		"id": 1403950153854161000,
+		"id_str": "1404357303206178819",
+		"full_text": "[얌얌mv 비하인드]\n🐵코몽이가 눈나들을 위해 준비한 간식차!\n눈나들이 1g도 사라지면 안된다몽\n모두 얌얌~얌!\n잘 먹고 튼튼하게 촬영했다몽❤️\n#YumYum🐵\n#코코몽 #이달의소녀 #LOONA\n#온세상_소시지_꽁다리_흔들어 https://t.co/dKNY1I4MSG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YumYum",
+					"indices": [
+						81,
+						88
+					]
+				},
+				{
+					"text": "코코몽",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "온세상_소시지_꽁다리_흔들어",
+					"indices": [
+						109,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1403950148200194000,
+					"id_str": "1403950148200194054",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/E3vVOKnUYAY0EH7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3vVOKnUYAY0EH7.jpg",
+					"url": "https://t.co/dKNY1I4MSG",
+					"display_url": "pic.twitter.com/dKNY1I4MSG",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1403950153854160898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403950148200194000,
+					"id_str": "1403950148200194054",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/E3vVOKnUYAY0EH7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3vVOKnUYAY0EH7.jpg",
+					"url": "https://t.co/dKNY1I4MSG",
+					"display_url": "pic.twitter.com/dKNY1I4MSG",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1403950153854160898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1403950148204470300,
+					"id_str": "1403950148204470277",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/E3vVOKoVoAUov8O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3vVOKoVoAUov8O.jpg",
+					"url": "https://t.co/dKNY1I4MSG",
+					"display_url": "pic.twitter.com/dKNY1I4MSG",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1403950153854160898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097461345677500400,
+			"id_str": "1097461345677500417",
+			"name": "코코몽",
+			"screen_name": "cocomong_kr",
+			"location": "냉장고나라 ",
+			"description": "코코몽(냉장고 코씨,12살) 회사 몰래하는 케이팝 덕질계정🙈",
+			"url": "https://t.co/srDteO8EOb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/srDteO8EOb",
+							"expanded_url": "https://www.instagram.com/cocomong.official",
+							"display_url": "instagram.com/cocomong.offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3043,
+			"friends_count": 0,
+			"listed_count": 4,
+			"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+			"favourites_count": 1559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2981,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1184,
+		"favorite_count": 3254,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[얌얌mv 비하인드]\n🐵코몽이가 눈나들을 위해 준비한 간식차!\n눈나들이 1g도 사라지면 안된다몽\n모두 얌얌~얌!\n잘 먹고 튼튼하게 촬영했다몽❤️\n#YumYum🐵\n#코코몽 #이달의소녀 #LOONA\n#온세상_소시지_꽁다리_흔들어 https://t.co/dKNY1I4MSG"
+	},
+	{
+		"created_at": "Mon Jun 14 08:37:18 +0000 2021",
+		"id": 1403651090663436300,
+		"id_str": "1404357267584020480",
+		"full_text": "[코코몽 x 이달의 소녀]\n#MV 조회수 공약\n100만 조회수 달성 시 안무 연습 영상 공개🐵\nhttps://t.co/1KDGvtZQR5\n#YumYum🐵\n#코코몽 #이달의소녀 #LOONA\n#온세상_소시지_꽁다리_흔들어",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MV",
+					"indices": [
+						15,
+						18
+					]
+				},
+				{
+					"text": "YumYum",
+					"indices": [
+						77,
+						84
+					]
+				},
+				{
+					"text": "코코몽",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "온세상_소시지_꽁다리_흔들어",
+					"indices": [
+						105,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1KDGvtZQR5",
+					"expanded_url": "https://youtu.be/D0f26VyDJhA",
+					"display_url": "youtu.be/D0f26VyDJhA",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097461345677500400,
+			"id_str": "1097461345677500417",
+			"name": "코코몽",
+			"screen_name": "cocomong_kr",
+			"location": "냉장고나라 ",
+			"description": "코코몽(냉장고 코씨,12살) 회사 몰래하는 케이팝 덕질계정🙈",
+			"url": "https://t.co/srDteO8EOb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/srDteO8EOb",
+							"expanded_url": "https://www.instagram.com/cocomong.official",
+							"display_url": "instagram.com/cocomong.offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3043,
+			"friends_count": 0,
+			"listed_count": 4,
+			"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+			"favourites_count": 1559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2981,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 384,
+		"favorite_count": 727,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[코코몽 x 이달의 소녀]\n#MV 조회수 공약\n100만 조회수 달성 시 안무 연습 영상 공개🐵\nhttps://t.co/1KDGvtZQR5\n#YumYum🐵\n#코코몽 #이달의소녀 #LOONA\n#온세상_소시지_꽁다리_흔들어"
+	},
+	{
 		"created_at": "Mon Jun 14 07:23:07 +0000 2021",
 		"id": 1404332392253300700,
 		"id_str": "1404338596400697347",
