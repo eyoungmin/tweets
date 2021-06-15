@@ -1,6 +1,129 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 15 22:38:49 +0000 2021",
+		"id": 1404931429293830100,
+		"id_str": "1404931429293830144",
+		"full_text": "#KBS #공지사항 #가요심의 \n[#가요심의] 가요심의결과(2021.06.16) \nhttps://t.co/lETE3ECdr9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KBS",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "공지사항",
+					"indices": [
+						5,
+						10
+					]
+				},
+				{
+					"text": "가요심의",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "가요심의",
+					"indices": [
+						19,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lETE3ECdr9",
+					"expanded_url": "https://www.kbs.co.kr/board/board.html?bbs_loc=X2017-0031-04-699231,read,%EA%B0%80%EC%9A%94%EC%8B%AC%EC%9D%98,2178,1051267",
+					"display_url": "kbs.co.kr/board/board.ht…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#KBS #공지사항 #가요심의 \n[#가요심의] 가요심의결과(2021.06.16) \nhttps://t.co/lETE3ECdr9"
+	},
+	{
 		"created_at": "Tue Jun 15 15:56:41 +0000 2021",
 		"id": 1404828953970307000,
 		"id_str": "1404830228044664840",
@@ -260,7 +383,7 @@ Grailbird.data.tweets_2021_06 =
 		"created_at": "Tue Jun 15 15:56:41 +0000 2021",
 		"id": 1404826010873307100,
 		"id_str": "1404830227176386563",
-		"full_text": "#슬기 X #프로미스나인 WE GO 챌린지💛\n(이 조합 어떻게 안 사랑해..💕 춤선 난리났다…🤦🏻‍♀️) #fromis_9 #RedVelvet #지헌 #슬기 #WE_GO_Challenge https://t.co/Rd7UKzYmhp",
+		"full_text": "#슬기 X #프로미스나인 WE GO 챌린지💛\n(이 조합 어떻게 안 사랑해..💕 춤선 난리났다…🤦🏻♀️) #fromis_9 #RedVelvet #지헌 #슬기 #WE_GO_Challenge https://t.co/Rd7UKzYmhp",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -510,7 +633,7 @@ Grailbird.data.tweets_2021_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#슬기 X #프로미스나인 WE GO 챌린지💛\n(이 조합 어떻게 안 사랑해..💕 춤선 난리났다…🤦🏻‍♀️) #fromis_9 #RedVelvet #지헌 #슬기 #WE_GO_Challenge https://t.co/Rd7UKzYmhp"
+		"text": "#슬기 X #프로미스나인 WE GO 챌린지💛\n(이 조합 어떻게 안 사랑해..💕 춤선 난리났다…🤦🏻♀️) #fromis_9 #RedVelvet #지헌 #슬기 #WE_GO_Challenge https://t.co/Rd7UKzYmhp"
 	},
 	{
 		"created_at": "Tue Jun 15 15:56:41 +0000 2021",
@@ -874,7 +997,7 @@ Grailbird.data.tweets_2021_06 =
 			"name": "STATV",
 			"screen_name": "STATVOFFICIAL",
 			"location": "",
-			"description": "⭐ 아이돌리그 토요일 저녁 8시 ​\n⭐ 별의별 재미 STATV (스타티비) ​\n📺 KT Olleh tv 89 📺 SK Btv 137 📺 LG U+tv 99 ​\n ​\n💟 6월 19일 토요일 저녁 8시 (KST / ENG SUB) ​\n#아이돌리그 #프로미스나인 #fromis_9",
+			"description": "⭐ 아이돌리그 토요일 저녁 8시 \n⭐ 별의별 재미 STATV (스타티비) \n📺 KT Olleh tv 89 📺 SK Btv 137 📺 LG U+tv 99 \n \n💟 6월 19일 토요일 저녁 8시 (KST / ENG SUB) \n#아이돌리그 #프로미스나인 #fromis_9",
 			"url": "https://t.co/hXQ9XpmKUd",
 			"entities": {
 				"url": {
