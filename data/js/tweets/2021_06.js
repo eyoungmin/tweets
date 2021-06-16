@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 16 15:22:59 +0000 2021",
+		"id": 1405181622131904500,
+		"id_str": "1405184136185221124",
+		"full_text": "Go behind the scenes of Billie’s #PrimeDayShow performance on @amazonmusic. Tune in to Prime Day Show on June 17 on @PrimeVideo. https://t.co/l4Ma4epd29 https://t.co/SLEF53lsL2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PrimeDayShow",
+					"indices": [
+						33,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amazonmusic",
+					"name": "Amazon Music",
+					"id": 14740219,
+					"id_str": "14740219",
+					"indices": [
+						62,
+						74
+					]
+				},
+				{
+					"screen_name": "PrimeVideo",
+					"name": "Prime Video",
+					"id": 17220817,
+					"id_str": "17220817",
+					"indices": [
+						116,
+						127
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/l4Ma4epd29",
+					"expanded_url": "https://BillieEilish.lnk.to/PrimeDayShowBTS",
+					"display_url": "BillieEilish.lnk.to/PrimeDayShowBTS",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1405181094291378200,
+					"id_str": "1405181094291378186",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1405181094291378186/pu/img/ioyiyJnXT6jL7jYA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1405181094291378186/pu/img/ioyiyJnXT6jL7jYA.jpg",
+					"url": "https://t.co/SLEF53lsL2",
+					"display_url": "pic.twitter.com/SLEF53lsL2",
+					"expanded_url": "https://twitter.com/billieeilish/status/1405181622131904513/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1405181094291378200,
+					"id_str": "1405181094291378186",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1405181094291378186/pu/img/ioyiyJnXT6jL7jYA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1405181094291378186/pu/img/ioyiyJnXT6jL7jYA.jpg",
+					"url": "https://t.co/SLEF53lsL2",
+					"display_url": "pic.twitter.com/SLEF53lsL2",
+					"expanded_url": "https://twitter.com/billieeilish/status/1405181622131904513/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 46046,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1405181094291378186/pu/pl/_oheEc3Q-_EFreF3.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1405181094291378186/pu/vid/720x900/pcyhWyC_uGPfwyMY.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1405181094291378186/pu/vid/320x400/8KjfJukX6oQQXlW0.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1405181094291378186/pu/vid/480x600/H_w5hRtZbygDJCWG.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "New album “Happier Than Ever” out July 30 https://t.co/DEGLgUC35l",
+			"url": "https://t.co/UybIbAW2j6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UybIbAW2j6",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DEGLgUC35l",
+							"expanded_url": "https://billieeilish.lnk.to/HappierThanEver",
+							"display_url": "billieeilish.lnk.to/HappierThanEver",
+							"indices": [
+								42,
+								65
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6038889,
+			"friends_count": 0,
+			"listed_count": 3854,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1387065127208247299/bni08CVZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387065127208247299/bni08CVZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1619536789",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1276,
+		"favorite_count": 9854,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Go behind the scenes of Billie’s #PrimeDayShow performance on @amazonmusic. Tune in to Prime Day Show on June 17 on @PrimeVideo. https://t.co/l4Ma4epd29 https://t.co/SLEF53lsL2"
+	},
+	{
 		"created_at": "Wed Jun 16 14:41:22 +0000 2021",
 		"id": 1405173661590605800,
 		"id_str": "1405173661590605825",
