@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 17 04:23:42 +0000 2021",
+		"id": 1405367122662871000,
+		"id_str": "1405380608516190209",
+		"full_text": "주목! 슬기, 강민경도 즐겨 신는 올여름 쪼리 강자\n\n#슬기 #강민경 #쪼리\nhttps://t.co/JG7qP0zW4M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "강민경",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"text": "쪼리",
+					"indices": [
+						39,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JG7qP0zW4M",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/56112?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/56112?…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89076,
+			"friends_count": 182,
+			"listed_count": 401,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12809,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "주목! 슬기, 강민경도 즐겨 신는 올여름 쪼리 강자\n\n#슬기 #강민경 #쪼리\nhttps://t.co/JG7qP0zW4M"
+	},
+	{
+		"created_at": "Thu Jun 17 04:23:08 +0000 2021",
+		"id": 1405367814328705000,
+		"id_str": "1405380468237733890",
+		"full_text": "Billie's performance in @amazonmusic's #PrimeDayShow premieres tomorrow on @PrimeVideo. https://t.co/XaY99EMA0D https://t.co/s7iX7I7TsH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PrimeDayShow",
+					"indices": [
+						39,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amazonmusic",
+					"name": "Amazon Music",
+					"id": 14740219,
+					"id_str": "14740219",
+					"indices": [
+						24,
+						36
+					]
+				},
+				{
+					"screen_name": "PrimeVideo",
+					"name": "Prime Video Thing",
+					"id": 17220817,
+					"id_str": "17220817",
+					"indices": [
+						75,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XaY99EMA0D",
+					"expanded_url": "https://BillieEilish.lnk.to/PrimeDayShow",
+					"display_url": "BillieEilish.lnk.to/PrimeDayShow",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1405341689380675600,
+					"id_str": "1405341689380675585",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/E4DHG59VIAAAoto.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4DHG59VIAAAoto.jpg",
+					"url": "https://t.co/s7iX7I7TsH",
+					"display_url": "pic.twitter.com/s7iX7I7TsH",
+					"expanded_url": "https://twitter.com/billieeilish/status/1405367814328705025/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1196,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1320,
+							"h": 1316,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1405341689380675600,
+					"id_str": "1405341689380675585",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/E4DHG59VIAAAoto.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4DHG59VIAAAoto.jpg",
+					"url": "https://t.co/s7iX7I7TsH",
+					"display_url": "pic.twitter.com/s7iX7I7TsH",
+					"expanded_url": "https://twitter.com/billieeilish/status/1405367814328705025/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1196,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1320,
+							"h": 1316,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 13388,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1405341689380675585/pl/OH_ttuvdSSTcJGhG.m3u8?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1405341689380675585/vid/720x720/p1KTqxN-zv8piQlg.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1405341689380675585/vid/540x540/mYbM-Y4gGGGBQFny.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1405341689380675585/vid/320x320/kFDlAypNtOZsZwnW.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "New album “Happier Than Ever” out July 30 https://t.co/DEGLgUC35l",
+			"url": "https://t.co/UybIbAW2j6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UybIbAW2j6",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DEGLgUC35l",
+							"expanded_url": "https://billieeilish.lnk.to/HappierThanEver",
+							"display_url": "billieeilish.lnk.to/HappierThanEver",
+							"indices": [
+								42,
+								65
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6038513,
+			"friends_count": 0,
+			"listed_count": 3860,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1387065127208247299/bni08CVZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387065127208247299/bni08CVZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1619536789",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1116,
+		"favorite_count": 10058,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Billie's performance in @amazonmusic's #PrimeDayShow premieres tomorrow on @PrimeVideo. https://t.co/XaY99EMA0D https://t.co/s7iX7I7TsH"
+	},
+	{
 		"created_at": "Thu Jun 17 02:23:41 +0000 2021",
 		"id": 1405343473989951500,
 		"id_str": "1405350405496733705",
