@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 17 02:23:41 +0000 2021",
+		"id": 1405343473989951500,
+		"id_str": "1405350405496733705",
+		"full_text": "#싱글즈7월호 커버의 주인공은 바로! \n#레드벨벳 #조이 입니다😍 첫 솔로 앨범 \n#안녕 #Hello 으로 돌아온 뮤지션 #조이 와 새롭게 태어난 #더바디샵 화이트 머스크가 함께 한 아름다운 화보와 인터뷰를 7월호에서 확인해보세요🤍 @RVsmtown https://t.co/OU8SAgUEAB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "싱글즈7월호",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						22,
+						27
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						28,
+						31
+					]
+				},
+				{
+					"text": "안녕",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "Hello",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "더바디샵",
+					"indices": [
+						82,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						130,
+						139
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1405343466872356900,
+					"id_str": "1405343466872356864",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/E4DIb_JXwAAPjWD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4DIb_JXwAAPjWD.jpg",
+					"url": "https://t.co/OU8SAgUEAB",
+					"display_url": "pic.twitter.com/OU8SAgUEAB",
+					"expanded_url": "https://twitter.com/singlesmania/status/1405343473989951490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1735,
+							"h": 1301,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1405343466872356900,
+					"id_str": "1405343466872356864",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/E4DIb_JXwAAPjWD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4DIb_JXwAAPjWD.jpg",
+					"url": "https://t.co/OU8SAgUEAB",
+					"display_url": "pic.twitter.com/OU8SAgUEAB",
+					"expanded_url": "https://twitter.com/singlesmania/status/1405343473989951490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1735,
+							"h": 1301,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1405343466880651300,
+					"id_str": "1405343466880651269",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/E4DIb_LWUAU3ejt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4DIb_LWUAU3ejt.jpg",
+					"url": "https://t.co/OU8SAgUEAB",
+					"display_url": "pic.twitter.com/OU8SAgUEAB",
+					"expanded_url": "https://twitter.com/singlesmania/status/1405343473989951490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1734,
+							"h": 1300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 102038546,
+			"id_str": "102038546",
+			"name": "Singles Korea 싱글즈",
+			"screen_name": "singlesmania",
+			"location": "seoul",
+			"description": "당당한 싱글들을 위한 즐거운 패션 매거진 싱글즈.",
+			"url": "https://t.co/0AqlouNorT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0AqlouNorT",
+							"expanded_url": "http://linktr.ee/Singlesmagazine",
+							"display_url": "linktr.ee/Singlesmagazine",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26401,
+			"friends_count": 1431,
+			"listed_count": 195,
+			"created_at": "Tue Jan 05 11:43:09 +0000 2010",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F3F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389450100162711553/CScqoQww_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389450100162711553/CScqoQww_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/102038546/1621232771",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCD",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 352,
+		"favorite_count": 559,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#싱글즈7월호 커버의 주인공은 바로! \n#레드벨벳 #조이 입니다😍 첫 솔로 앨범 \n#안녕 #Hello 으로 돌아온 뮤지션 #조이 와 새롭게 태어난 #더바디샵 화이트 머스크가 함께 한 아름다운 화보와 인터뷰를 7월호에서 확인해보세요🤍 @RVsmtown https://t.co/OU8SAgUEAB"
+	},
+	{
 		"created_at": "Thu Jun 17 01:42:53 +0000 2021",
 		"id": 1405340139304464400,
 		"id_str": "1405340139304464385",
