@@ -1,6 +1,635 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 17 15:36:24 +0000 2021",
+		"id": 1405549899626729500,
+		"id_str": "1405549899626729480",
+		"full_text": "#이달의소녀 #LOONA #VLIVE \nhttps://t.co/ki6Jl3PnF3 \n \n🖼️ 원본보기: https://t.co/Up7VskumFO \n \n#브이라이브 #포스트 https://t.co/nCtsGtMVN4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "브이라이브",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "포스트",
+					"indices": [
+						92,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ki6Jl3PnF3",
+					"expanded_url": "https://channels.vlive.tv/E1F3A7/celeb/0.23575115",
+					"display_url": "channels.vlive.tv/E1F3A7/celeb/0…",
+					"indices": [
+						22,
+						45
+					]
+				},
+				{
+					"url": "https://t.co/Up7VskumFO",
+					"expanded_url": "https://vfan-phinf.pstatic.net/a/338db1/h_09jUd018svc1ecvzevrumm5z_iyqfyq.jpg",
+					"display_url": "vfan-phinf.pstatic.net/a/338db1/h_09j…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1405549897923846100,
+					"id_str": "1405549897923846148",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E4GEL2vWYAQGxu0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4GEL2vWYAQGxu0.jpg",
+					"url": "https://t.co/nCtsGtMVN4",
+					"display_url": "pic.twitter.com/nCtsGtMVN4",
+					"expanded_url": "https://twitter.com/fromminn/status/1405549899626729480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 706,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 706,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1405549897923846100,
+					"id_str": "1405549897923846148",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E4GEL2vWYAQGxu0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4GEL2vWYAQGxu0.jpg",
+					"url": "https://t.co/nCtsGtMVN4",
+					"display_url": "pic.twitter.com/nCtsGtMVN4",
+					"expanded_url": "https://twitter.com/fromminn/status/1405549899626729480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 706,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 706,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA #VLIVE \nhttps://t.co/ki6Jl3PnF3 \n \n🖼️ 원본보기: https://t.co/Up7VskumFO \n \n#브이라이브 #포스트 https://t.co/nCtsGtMVN4"
+	},
+	{
+		"created_at": "Thu Jun 17 15:36:20 +0000 2021",
+		"id": 1405549884116197400,
+		"id_str": "1405549884116197389",
+		"full_text": "#이달의소녀 #LOONA #VLIVE \nhttps://t.co/18dcoAqPFj \n \n🖼️ 원본보기: https://t.co/TN27dgBQPb \n \n#브이라이브 #포스트 https://t.co/CZaJlWvCiU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "브이라이브",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "포스트",
+					"indices": [
+						92,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/18dcoAqPFj",
+					"expanded_url": "https://channels.vlive.tv/E1F3A7/celeb/1.23579140",
+					"display_url": "channels.vlive.tv/E1F3A7/celeb/1…",
+					"indices": [
+						22,
+						45
+					]
+				},
+				{
+					"url": "https://t.co/TN27dgBQPb",
+					"expanded_url": "https://vfan-phinf.pstatic.net/a/338d8f/5_c9iUd018svc1jplhs9fklrtu_iyqfyq.jpg",
+					"display_url": "vfan-phinf.pstatic.net/a/338d8f/5_c9i…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1405549882274898000,
+					"id_str": "1405549882274897924",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E4GEK8cWYAQHmOM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4GEK8cWYAQHmOM.jpg",
+					"url": "https://t.co/CZaJlWvCiU",
+					"display_url": "pic.twitter.com/CZaJlWvCiU",
+					"expanded_url": "https://twitter.com/fromminn/status/1405549884116197389/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 706,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 706,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1405549882274898000,
+					"id_str": "1405549882274897924",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E4GEK8cWYAQHmOM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4GEK8cWYAQHmOM.jpg",
+					"url": "https://t.co/CZaJlWvCiU",
+					"display_url": "pic.twitter.com/CZaJlWvCiU",
+					"expanded_url": "https://twitter.com/fromminn/status/1405549884116197389/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 706,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 706,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA #VLIVE \nhttps://t.co/18dcoAqPFj \n \n🖼️ 원본보기: https://t.co/TN27dgBQPb \n \n#브이라이브 #포스트 https://t.co/CZaJlWvCiU"
+	},
+	{
+		"created_at": "Thu Jun 17 15:23:16 +0000 2021",
+		"id": 1405538933836894200,
+		"id_str": "1405546592518623232",
+		"full_text": "joining nowww x \nhttps://t.co/v2sXLg0MmO https://t.co/05kJuKQdo7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v2sXLg0MmO",
+					"expanded_url": "http://youtu.be/BDvv9iE4L_8",
+					"display_url": "youtu.be/BDvv9iE4L_8",
+					"indices": [
+						17,
+						40
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1405538706560143400,
+					"id_str": "1405538706560143370",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/E4F6AbqUUAo-l98.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4F6AbqUUAo-l98.jpg",
+					"url": "https://t.co/05kJuKQdo7",
+					"display_url": "pic.twitter.com/05kJuKQdo7",
+					"expanded_url": "https://twitter.com/birdy/status/1405538933836894221/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1069,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1069,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 477,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1405538706560143400,
+					"id_str": "1405538706560143370",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/E4F6AbqUUAo-l98.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4F6AbqUUAo-l98.jpg",
+					"url": "https://t.co/05kJuKQdo7",
+					"display_url": "pic.twitter.com/05kJuKQdo7",
+					"expanded_url": "https://twitter.com/birdy/status/1405538933836894221/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1069,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1069,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 477,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Young Heart - my new album, OUT NOW 💛 \nhttps://t.co/JJysUdcZGQ",
+			"url": "https://t.co/AOWSyI9JYu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JJysUdcZGQ",
+							"expanded_url": "http://birdy.lnk.to/Young-Heart",
+							"display_url": "birdy.lnk.to/Young-Heart",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 316416,
+			"friends_count": 181,
+			"listed_count": 1191,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 292,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "joining nowww x \nhttps://t.co/v2sXLg0MmO https://t.co/05kJuKQdo7"
+	},
+	{
 		"created_at": "Thu Jun 17 14:57:17 +0000 2021",
 		"id": 1405530357240238000,
 		"id_str": "1405540055876214789",
