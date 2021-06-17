@@ -1,6 +1,960 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 17 14:57:17 +0000 2021",
+		"id": 1405530357240238000,
+		"id_str": "1405540055876214789",
+		"full_text": "🪴혼슬 생성 완료🧡\n\n#슬기 #SEULGI #슬기집 #슬기zip #레드벨벳 #RedVelvet https://t.co/381RF6QE6R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						12,
+						15
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						16,
+						23
+					]
+				},
+				{
+					"text": "슬기집",
+					"indices": [
+						24,
+						28
+					]
+				},
+				{
+					"text": "슬기zip",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						36,
+						41
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						42,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1405530316077375500,
+					"id_str": "1405530316077375488",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/E4FyYCrVoAAQBYd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4FyYCrVoAAQBYd.jpg",
+					"url": "https://t.co/381RF6QE6R",
+					"display_url": "pic.twitter.com/381RF6QE6R",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1405530357240238082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 552,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1663,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 974,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1405530316077375500,
+					"id_str": "1405530316077375488",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/E4FyYCrVoAAQBYd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4FyYCrVoAAQBYd.jpg",
+					"url": "https://t.co/381RF6QE6R",
+					"display_url": "pic.twitter.com/381RF6QE6R",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1405530357240238082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 552,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1663,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 974,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1405530342837031000,
+					"id_str": "1405530342837030913",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/E4FyZmXVkAEywhr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4FyZmXVkAEywhr.jpg",
+					"url": "https://t.co/381RF6QE6R",
+					"display_url": "pic.twitter.com/381RF6QE6R",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1405530357240238082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1065,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 603,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1817,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/U7JtipmDEo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U7JtipmDEo",
+							"expanded_url": "https://youtu.be/lNvBbh5jDcA",
+							"display_url": "youtu.be/lNvBbh5jDcA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4249115,
+			"friends_count": 1,
+			"listed_count": 9081,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1622019868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5558,
+		"favorite_count": 16901,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🪴혼슬 생성 완료🧡\n\n#슬기 #SEULGI #슬기집 #슬기zip #레드벨벳 #RedVelvet https://t.co/381RF6QE6R"
+	},
+	{
+		"created_at": "Thu Jun 17 14:57:17 +0000 2021",
+		"id": 1405528893642080300,
+		"id_str": "1405540055817412620",
+		"full_text": "#슬기zip 오늘도 생성 완료💛 \n\n첫 혼슬!✨ 좀 떨렸지만 (천재MC답게) 무사히 마쳤습니다🥰 #슬기zip 에서 이런거 꼭 보고 싶다! 하는게 있다면 언제든지 #7117로 [슬기zip] 말머리 달고 보내주기!💌 (정보이용료100원🐻)\n\n다음 투슬✨시간엔 #뱀뱀 씨와 함께 돌아올게요💚 오늘도 고마워요💛 슬나잇💫 https://t.co/hkuqEYBxJg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "슬기zip",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "7117로",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "뱀뱀",
+					"indices": [
+						143,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1405528886331383800,
+					"id_str": "1405528886331383809",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/E4FxE0dVIAEguxe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4FxE0dVIAEguxe.jpg",
+					"url": "https://t.co/hkuqEYBxJg",
+					"display_url": "pic.twitter.com/hkuqEYBxJg",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1405528893642080262/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1405528886331383800,
+					"id_str": "1405528886331383809",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/E4FxE0dVIAEguxe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4FxE0dVIAEguxe.jpg",
+					"url": "https://t.co/hkuqEYBxJg",
+					"display_url": "pic.twitter.com/hkuqEYBxJg",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1405528893642080262/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1405528886331412500,
+					"id_str": "1405528886331412485",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/E4FxE0dVkAUoCcK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4FxE0dVkAUoCcK.jpg",
+					"url": "https://t.co/hkuqEYBxJg",
+					"display_url": "pic.twitter.com/hkuqEYBxJg",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1405528893642080262/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1405528886323015700,
+					"id_str": "1405528886323015691",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/E4FxE0bVcAsf_eG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4FxE0bVcAsf_eG.jpg",
+					"url": "https://t.co/hkuqEYBxJg",
+					"display_url": "pic.twitter.com/hkuqEYBxJg",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1405528893642080262/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1405528886314627000,
+					"id_str": "1405528886314627078",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/E4FxE0ZVcAYhrBX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4FxE0ZVcAYhrBX.jpg",
+					"url": "https://t.co/hkuqEYBxJg",
+					"display_url": "pic.twitter.com/hkuqEYBxJg",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1405528893642080262/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 656,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1976,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1158,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27320,
+			"friends_count": 1,
+			"listed_count": 110,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1621911527",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2735,
+		"favorite_count": 4203,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 오늘도 생성 완료💛 \n\n첫 혼슬!✨ 좀 떨렸지만 (천재MC답게) 무사히 마쳤습니다🥰 #슬기zip 에서 이런거 꼭 보고 싶다! 하는게 있다면 언제든지 #7117로 [슬기zip] 말머리 달고 보내주기!💌 (정보이용료100원🐻)\n\n다음 투슬✨시간엔 #뱀뱀 씨와 함께 돌아올게요💚 오늘도 고마워요💛 슬나잇💫 https://t.co/hkuqEYBxJg"
+	},
+	{
+		"created_at": "Thu Jun 17 14:41:40 +0000 2021",
+		"id": 1405536124144013300,
+		"id_str": "1405536124144013325",
+		"full_text": "#이달의소녀 #공식팬카페 #공식자료 \n[이달의 소녀] 이달의 소녀 (LOONA) Concept Photo - Olivia Hye \nhttps://t.co/Xkq0o7AvXf https://t.co/SlQy8dC9PT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "공식자료",
+					"indices": [
+						14,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Xkq0o7AvXf",
+					"expanded_url": "https://cafe.daum.net/loonatheworld/F5dG/573",
+					"display_url": "cafe.daum.net/loonatheworld/…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1405536122151653400,
+					"id_str": "1405536122151653388",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E4F3p__UUAw-9Hn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4F3p__UUAw-9Hn.jpg",
+					"url": "https://t.co/SlQy8dC9PT",
+					"display_url": "pic.twitter.com/SlQy8dC9PT",
+					"expanded_url": "https://twitter.com/fromminn/status/1405536124144013325/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 706,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 706,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1405536122151653400,
+					"id_str": "1405536122151653388",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E4F3p__UUAw-9Hn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4F3p__UUAw-9Hn.jpg",
+					"url": "https://t.co/SlQy8dC9PT",
+					"display_url": "pic.twitter.com/SlQy8dC9PT",
+					"expanded_url": "https://twitter.com/fromminn/status/1405536124144013325/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 706,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 706,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #공식팬카페 #공식자료 \n[이달의 소녀] 이달의 소녀 (LOONA) Concept Photo - Olivia Hye \nhttps://t.co/Xkq0o7AvXf https://t.co/SlQy8dC9PT"
+	},
+	{
+		"created_at": "Thu Jun 17 14:41:34 +0000 2021",
+		"id": 1405536100756574200,
+		"id_str": "1405536100756574218",
+		"full_text": "#이달의소녀 #공식팬카페 #공식자료 \n[이달의 소녀] 이달의 소녀 (LOONA) Concept Photo - HeeJin \nhttps://t.co/ylCcqOcvHF https://t.co/zuz3cRZoRm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "공식자료",
+					"indices": [
+						14,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ylCcqOcvHF",
+					"expanded_url": "https://cafe.daum.net/loonatheworld/F5dG/572",
+					"display_url": "cafe.daum.net/loonatheworld/…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1405536098269339600,
+					"id_str": "1405536098269339651",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/E4F3onBVIAMh_d3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4F3onBVIAMh_d3.jpg",
+					"url": "https://t.co/zuz3cRZoRm",
+					"display_url": "pic.twitter.com/zuz3cRZoRm",
+					"expanded_url": "https://twitter.com/fromminn/status/1405536100756574218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 706,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 706,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1405536098269339600,
+					"id_str": "1405536098269339651",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/E4F3onBVIAMh_d3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4F3onBVIAMh_d3.jpg",
+					"url": "https://t.co/zuz3cRZoRm",
+					"display_url": "pic.twitter.com/zuz3cRZoRm",
+					"expanded_url": "https://twitter.com/fromminn/status/1405536100756574218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 469,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 706,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 706,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #공식팬카페 #공식자료 \n[이달의 소녀] 이달의 소녀 (LOONA) Concept Photo - HeeJin \nhttps://t.co/ylCcqOcvHF https://t.co/zuz3cRZoRm"
+	},
+	{
 		"created_at": "Thu Jun 17 13:23:14 +0000 2021",
 		"id": 1405512017033588700,
 		"id_str": "1405516387133493248",
