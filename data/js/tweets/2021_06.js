@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 18 09:55:32 +0000 2021",
+		"id": 1405812603369136000,
+		"id_str": "1405826504869646336",
+		"full_text": "에스파 지켜! | aespa 에스파 ‘Next Level’ 음악방송 비하인드\n\nhttps://t.co/J0cjHUksl7\n\n#aespa #æspa #에스파\n#NextLevel",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						87,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J0cjHUksl7",
+					"expanded_url": "https://youtu.be/FPGk1A9Op1M",
+					"display_url": "youtu.be/FPGk1A9Op1M",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1100456,
+			"friends_count": 1,
+			"listed_count": 4176,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 681,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4309,
+		"favorite_count": 10782,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에스파 지켜! | aespa 에스파 ‘Next Level’ 음악방송 비하인드\n\nhttps://t.co/J0cjHUksl7\n\n#aespa #æspa #에스파\n#NextLevel"
+	},
+	{
+		"created_at": "Fri Jun 18 09:17:27 +0000 2021",
+		"id": 1405816922491568000,
+		"id_str": "1405816922491568129",
+		"full_text": "#SMTOWN #PLAYLIST \n에스파 지켜!ㅣaespa 에스파 'Next Level' 음악방송 비하인드 \nhttps://t.co/SIsx51R6z0 \n \n#에스파 #aespa #æspa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						100,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SIsx51R6z0",
+					"expanded_url": "https://www.youtube.com/watch?v=FPGk1A9Op1M",
+					"display_url": "youtube.com/watch?v=FPGk1A…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44968,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81328,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #PLAYLIST \n에스파 지켜!ㅣaespa 에스파 'Next Level' 음악방송 비하인드 \nhttps://t.co/SIsx51R6z0 \n \n#에스파 #aespa #æspa"
+	},
+	{
 		"created_at": "Fri Jun 18 09:01:29 +0000 2021",
 		"id": 1405812903438172200,
 		"id_str": "1405812903438172160",
