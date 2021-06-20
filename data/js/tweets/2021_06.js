@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 20 10:02:11 +0000 2021",
+		"id": 1405692365201756200,
+		"id_str": "1406552954920861697",
+		"full_text": "여기 500년도 더 된 제사음악을 현대 대중음악 언어로 바꾼 이들이 있다. 마치 처음 듣는 댄스 음악에도 어깨가 들썩이듯, 생소한 소리와 음악에 나도 모르게 멋있다며 빠져드는 자신을 발견할 것이다. 데뷔 EP로 인상 깊게 등장한 해파리를 만났다.\nhttps://t.co/BA4jJclzzK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BA4jJclzzK",
+					"expanded_url": "https://www.indiepost.co.kr/post/14999",
+					"display_url": "indiepost.co.kr/post/14999",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 808835127639801900,
+			"id_str": "808835127639801856",
+			"name": "인디포스트",
+			"screen_name": "indiepostmedia",
+			"location": "",
+			"description": "WE CURATE VALUES\n인디 문화 큐레이션 서비스, 인디포스트의 공식 계정입니다.",
+			"url": "https://t.co/v1HyjgBR3L",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v1HyjgBR3L",
+							"expanded_url": "http://www.indiepost.co.kr",
+							"display_url": "indiepost.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5086,
+			"friends_count": 392,
+			"listed_count": 29,
+			"created_at": "Wed Dec 14 00:44:56 +0000 2016",
+			"favourites_count": 205,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3726,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/994842823282380802/fQREfLQ1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/994842823282380802/fQREfLQ1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/808835127639801856/1526023975",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 144,
+		"favorite_count": 272,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여기 500년도 더 된 제사음악을 현대 대중음악 언어로 바꾼 이들이 있다. 마치 처음 듣는 댄스 음악에도 어깨가 들썩이듯, 생소한 소리와 음악에 나도 모르게 멋있다며 빠져드는 자신을 발견할 것이다. 데뷔 EP로 인상 깊게 등장한 해파리를 만났다.\nhttps://t.co/BA4jJclzzK"
+	},
+	{
 		"created_at": "Sun Jun 20 09:58:54 +0000 2021",
 		"id": 1406552128580067300,
 		"id_str": "1406552128580067330",
