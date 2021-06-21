@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 21 08:58:06 +0000 2021",
+		"id": 1406896120962240500,
+		"id_str": "1406899215570141191",
+		"full_text": "내일은 #슬기zip 에 뱀뱀 놀러오는 날🏠\n내일밤 10시🕙 러비도 아가새🐥도 함께해요😉\n(스포 있음)\n.\n.\n.\n.\n.\n.\n.\n.\n#💃🕺 #🪡 #SEULGI #BAMBAM #riBBon https://t.co/zz4yjdYV8l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						4,
+						10
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						80,
+						87
+					]
+				},
+				{
+					"text": "BAMBAM",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"text": "riBBon",
+					"indices": [
+						96,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1406896118831607800,
+					"id_str": "1406896118831607809",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E4ZMkObVcAEqwHS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4ZMkObVcAEqwHS.jpg",
+					"url": "https://t.co/zz4yjdYV8l",
+					"display_url": "pic.twitter.com/zz4yjdYV8l",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1406896120962240516/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1202,
+							"h": 1700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1406896118831607800,
+					"id_str": "1406896118831607809",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E4ZMkObVcAEqwHS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4ZMkObVcAEqwHS.jpg",
+					"url": "https://t.co/zz4yjdYV8l",
+					"display_url": "pic.twitter.com/zz4yjdYV8l",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1406896120962240516/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1202,
+							"h": 1700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27938,
+			"friends_count": 1,
+			"listed_count": 113,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1621911527",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 751,
+		"favorite_count": 1102,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내일은 #슬기zip 에 뱀뱀 놀러오는 날🏠\n내일밤 10시🕙 러비도 아가새🐥도 함께해요😉\n(스포 있음)\n.\n.\n.\n.\n.\n.\n.\n.\n#💃🕺 #🪡 #SEULGI #BAMBAM #riBBon https://t.co/zz4yjdYV8l"
+	},
+	{
+		"created_at": "Mon Jun 21 08:56:13 +0000 2021",
+		"id": 1406892350471762000,
+		"id_str": "1406898741458526209",
+		"full_text": "美 ABC “K팝 루키 에스파 MV 1억뷰 돌파, 진정한 next level”\n할리우드 프로듀서 “에스파 세계관, 변화무쌍 시대 진정으로 반영한 스토리텔링의 다음 물결”\n\n#aespa #æspa #에스파\n#NextLevel",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						114,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1109264,
+			"friends_count": 1,
+			"listed_count": 4205,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2241,
+		"favorite_count": 7638,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "美 ABC “K팝 루키 에스파 MV 1억뷰 돌파, 진정한 next level”\n할리우드 프로듀서 “에스파 세계관, 변화무쌍 시대 진정으로 반영한 스토리텔링의 다음 물결”\n\n#aespa #æspa #에스파\n#NextLevel"
+	},
+	{
 		"created_at": "Mon Jun 21 07:48:06 +0000 2021",
 		"id": 1406881600013537300,
 		"id_str": "1406881600013537283",
