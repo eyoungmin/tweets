@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 21 07:48:06 +0000 2021",
+		"id": 1406881600013537300,
+		"id_str": "1406881600013537283",
+		"full_text": "#이달의소녀 #공식팬카페 #공방공지 \n[이달의 소녀] [&amp;] 발매 기념 팬사인회 및 'Orbit Ring - &amp;'③ 안내 \nhttps://t.co/OJYw8caNkn https://t.co/6yMNoeV2Z2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "공방공지",
+					"indices": [
+						14,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OJYw8caNkn",
+					"expanded_url": "https://cafe.daum.net/loonatheworld/F6Fq/369",
+					"display_url": "cafe.daum.net/loonatheworld/…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1406881598730117000,
+					"id_str": "1406881598730117120",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/E4Y_XC1XoAAyBNV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4Y_XC1XoAAyBNV.jpg",
+					"url": "https://t.co/6yMNoeV2Z2",
+					"display_url": "pic.twitter.com/6yMNoeV2Z2",
+					"expanded_url": "https://twitter.com/fromminn/status/1406881600013537283/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 212,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 212,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 141,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1406881598730117000,
+					"id_str": "1406881598730117120",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/E4Y_XC1XoAAyBNV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4Y_XC1XoAAyBNV.jpg",
+					"url": "https://t.co/6yMNoeV2Z2",
+					"display_url": "pic.twitter.com/6yMNoeV2Z2",
+					"expanded_url": "https://twitter.com/fromminn/status/1406881600013537283/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 212,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 212,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 141,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1052,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #공식팬카페 #공방공지 \n[이달의 소녀] [&amp;] 발매 기념 팬사인회 및 'Orbit Ring - &amp;'③ 안내 \nhttps://t.co/OJYw8caNkn https://t.co/6yMNoeV2Z2"
+	},
+	{
 		"created_at": "Mon Jun 21 06:58:01 +0000 2021",
 		"id": 1406863241490231300,
 		"id_str": "1406868995513360384",
