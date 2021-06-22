@@ -1,6 +1,369 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 22 15:01:43 +0000 2021",
+		"id": 1407353110813626400,
+		"id_str": "1407353110813626380",
+		"full_text": "#이달의소녀 #LOONA \n[Trailer] 이달의 소녀 (LOONA) \"&amp;2\" \nhttps://t.co/k9Tt2Q45ZH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k9Tt2Q45ZH",
+					"expanded_url": "https://youtu.be/b2Fhd1S-kGA",
+					"display_url": "youtu.be/b2Fhd1S-kGA",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44965,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA \n[Trailer] 이달의 소녀 (LOONA) \"&amp;2\" \nhttps://t.co/k9Tt2Q45ZH"
+	},
+	{
+		"created_at": "Tue Jun 22 14:58:26 +0000 2021",
+		"id": 1407347004188078000,
+		"id_str": "1407352285030764551",
+		"full_text": "오늘도 생성완료❗👑X👑\n\n#슬기 #SEULGI #슬기집 #슬기zip #레드벨벳 #RedVelvet https://t.co/h56AoWEMs0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						14,
+						17
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						18,
+						25
+					]
+				},
+				{
+					"text": "슬기집",
+					"indices": [
+						26,
+						30
+					]
+				},
+				{
+					"text": "슬기zip",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						44,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1407346991554781200,
+					"id_str": "1407346991554781196",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/E4fmoeNWYAwBYyI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4fmoeNWYAwBYyI.jpg",
+					"url": "https://t.co/h56AoWEMs0",
+					"display_url": "pic.twitter.com/h56AoWEMs0",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1407347004188078088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407346991554781200,
+					"id_str": "1407346991554781196",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/E4fmoeNWYAwBYyI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4fmoeNWYAwBYyI.jpg",
+					"url": "https://t.co/h56AoWEMs0",
+					"display_url": "pic.twitter.com/h56AoWEMs0",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1407347004188078088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1407347001121988600,
+					"id_str": "1407347001121988614",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/E4fmpB2WYAY-zph.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4fmpB2WYAY-zph.jpg",
+					"url": "https://t.co/h56AoWEMs0",
+					"display_url": "pic.twitter.com/h56AoWEMs0",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1407347004188078088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/U7JtipmDEo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U7JtipmDEo",
+							"expanded_url": "https://youtu.be/lNvBbh5jDcA",
+							"display_url": "youtu.be/lNvBbh5jDcA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4266011,
+			"friends_count": 1,
+			"listed_count": 9100,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1622019868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12886,
+		"favorite_count": 23213,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘도 생성완료❗👑X👑\n\n#슬기 #SEULGI #슬기집 #슬기zip #레드벨벳 #RedVelvet https://t.co/h56AoWEMs0"
+	},
+	{
 		"created_at": "Tue Jun 22 13:09:35 +0000 2021",
 		"id": 1407322604545867800,
 		"id_str": "1407324892651999240",
