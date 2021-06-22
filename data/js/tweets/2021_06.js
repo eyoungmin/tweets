@@ -1,6 +1,2122 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 22 19:45:55 +0000 2021",
+		"id": 1407324152025911300,
+		"id_str": "1407424631817052165",
+		"full_text": "A special concert photo just for Orbits ~ 💖 @loonatheworld \n\n#KCON #KCONTACT4U #LOONA https://t.co/Po2Iz5IwMO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						67,
+						78
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						79,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						44,
+						58
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1407323815432974300,
+					"id_str": "1407323815432974337",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E4fRjcbUcAEHJN1.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E4fRjcbUcAEHJN1.jpg",
+					"url": "https://t.co/Po2Iz5IwMO",
+					"display_url": "pic.twitter.com/Po2Iz5IwMO",
+					"expanded_url": "https://twitter.com/kconusa/status/1407324152025911302/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 356,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 356,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407323815432974300,
+					"id_str": "1407323815432974337",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E4fRjcbUcAEHJN1.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E4fRjcbUcAEHJN1.jpg",
+					"url": "https://t.co/Po2Iz5IwMO",
+					"display_url": "pic.twitter.com/Po2Iz5IwMO",
+					"expanded_url": "https://twitter.com/kconusa/status/1407324152025911302/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 356,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 356,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							160,
+							89
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E4fRjcbUcAEHJN1.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739451875,
+			"id_str": "739451875",
+			"name": "KCONUSA",
+			"screen_name": "kconusa",
+			"location": "Los Angeles, CA",
+			"description": "The official Twitter account of KCONUSA. #LetsKCON",
+			"url": "https://t.co/hfFB24vdQJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hfFB24vdQJ",
+							"expanded_url": "http://www.kconusa.com",
+							"display_url": "kconusa.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195385,
+			"friends_count": 5,
+			"listed_count": 435,
+			"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+			"favourites_count": 2957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391543522545729542/uejKzOZL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391543522545729542/uejKzOZL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1620604805",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 267,
+		"favorite_count": 653,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A special concert photo just for Orbits ~ 💖 @loonatheworld \n\n#KCON #KCONTACT4U #LOONA https://t.co/Po2Iz5IwMO"
+	},
+	{
+		"created_at": "Tue Jun 22 19:45:50 +0000 2021",
+		"id": 1407323778154078200,
+		"id_str": "1407424610233094151",
+		"full_text": "[BEHIND THE SCENES 2] @loonatheworld V DIUM Concert Recording! 🎥\n\n#KCON #KCONTACT4U #LOONA https://t.co/ALgLiaG44k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						72,
+						83
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						84,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						22,
+						36
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1407323318441574400,
+					"id_str": "1407323318441574403",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E4fRGg_VgAMFBvF.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E4fRGg_VgAMFBvF.jpg",
+					"url": "https://t.co/ALgLiaG44k",
+					"display_url": "pic.twitter.com/ALgLiaG44k",
+					"expanded_url": "https://twitter.com/kconusa/status/1407323778154078214/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407323318441574400,
+					"id_str": "1407323318441574403",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E4fRGg_VgAMFBvF.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E4fRGg_VgAMFBvF.jpg",
+					"url": "https://t.co/ALgLiaG44k",
+					"display_url": "pic.twitter.com/ALgLiaG44k",
+					"expanded_url": "https://twitter.com/kconusa/status/1407323778154078214/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							179
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E4fRGg_VgAMFBvF.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739451875,
+			"id_str": "739451875",
+			"name": "KCONUSA",
+			"screen_name": "kconusa",
+			"location": "Los Angeles, CA",
+			"description": "The official Twitter account of KCONUSA. #LetsKCON",
+			"url": "https://t.co/hfFB24vdQJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hfFB24vdQJ",
+							"expanded_url": "http://www.kconusa.com",
+							"display_url": "kconusa.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195385,
+			"friends_count": 5,
+			"listed_count": 435,
+			"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+			"favourites_count": 2957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391543522545729542/uejKzOZL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391543522545729542/uejKzOZL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1620604805",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 529,
+		"favorite_count": 1890,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[BEHIND THE SCENES 2] @loonatheworld V DIUM Concert Recording! 🎥\n\n#KCON #KCONTACT4U #LOONA https://t.co/ALgLiaG44k"
+	},
+	{
+		"created_at": "Tue Jun 22 19:45:47 +0000 2021",
+		"id": 1407322285157994500,
+		"id_str": "1407424597046272000",
+		"full_text": "[BEHIND THE SCENES] @loonatheworld V DIUM Concert Recording! 🎥\n\n#KCON #KCONTACT4U #LOONA https://t.co/aUQHfN7OjA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						70,
+						81
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						82,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						20,
+						34
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1407322141825978400,
+					"id_str": "1407322141825978376",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E4fQCBwUUAgNDNS.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E4fQCBwUUAgNDNS.jpg",
+					"url": "https://t.co/aUQHfN7OjA",
+					"display_url": "pic.twitter.com/aUQHfN7OjA",
+					"expanded_url": "https://twitter.com/kconusa/status/1407322285157994503/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407322141825978400,
+					"id_str": "1407322141825978376",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E4fQCBwUUAgNDNS.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E4fQCBwUUAgNDNS.jpg",
+					"url": "https://t.co/aUQHfN7OjA",
+					"display_url": "pic.twitter.com/aUQHfN7OjA",
+					"expanded_url": "https://twitter.com/kconusa/status/1407322285157994503/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							179
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E4fQCBwUUAgNDNS.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739451875,
+			"id_str": "739451875",
+			"name": "KCONUSA",
+			"screen_name": "kconusa",
+			"location": "Los Angeles, CA",
+			"description": "The official Twitter account of KCONUSA. #LetsKCON",
+			"url": "https://t.co/hfFB24vdQJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hfFB24vdQJ",
+							"expanded_url": "http://www.kconusa.com",
+							"display_url": "kconusa.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195385,
+			"friends_count": 5,
+			"listed_count": 435,
+			"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+			"favourites_count": 2957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391543522545729542/uejKzOZL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391543522545729542/uejKzOZL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1620604805",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 316,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[BEHIND THE SCENES] @loonatheworld V DIUM Concert Recording! 🎥\n\n#KCON #KCONTACT4U #LOONA https://t.co/aUQHfN7OjA"
+	},
+	{
+		"created_at": "Tue Jun 22 19:45:39 +0000 2021",
+		"id": 1407321053760692200,
+		"id_str": "1407424562875281419",
+		"full_text": "A tender moment as @loonatheworld closes out their V DIUM stage... ORBIT, did you love their performance?! 😭💞\n\n#KCON #KCONTACT4U #LOONA https://t.co/Mfnh2ygv2P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						117,
+						128
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						129,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						19,
+						33
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1407320886680506400,
+					"id_str": "1407320886680506375",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E4fO49-UUAcd0B8.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E4fO49-UUAcd0B8.jpg",
+					"url": "https://t.co/Mfnh2ygv2P",
+					"display_url": "pic.twitter.com/Mfnh2ygv2P",
+					"expanded_url": "https://twitter.com/kconusa/status/1407321053760692233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407320886680506400,
+					"id_str": "1407320886680506375",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E4fO49-UUAcd0B8.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E4fO49-UUAcd0B8.jpg",
+					"url": "https://t.co/Mfnh2ygv2P",
+					"display_url": "pic.twitter.com/Mfnh2ygv2P",
+					"expanded_url": "https://twitter.com/kconusa/status/1407321053760692233/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							179
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E4fO49-UUAcd0B8.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739451875,
+			"id_str": "739451875",
+			"name": "KCONUSA",
+			"screen_name": "kconusa",
+			"location": "Los Angeles, CA",
+			"description": "The official Twitter account of KCONUSA. #LetsKCON",
+			"url": "https://t.co/hfFB24vdQJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hfFB24vdQJ",
+							"expanded_url": "http://www.kconusa.com",
+							"display_url": "kconusa.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195385,
+			"friends_count": 5,
+			"listed_count": 435,
+			"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+			"favourites_count": 2957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391543522545729542/uejKzOZL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391543522545729542/uejKzOZL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1620604805",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 387,
+		"favorite_count": 1473,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A tender moment as @loonatheworld closes out their V DIUM stage... ORBIT, did you love their performance?! 😭💞\n\n#KCON #KCONTACT4U #LOONA https://t.co/Mfnh2ygv2P"
+	},
+	{
+		"created_at": "Tue Jun 22 19:45:36 +0000 2021",
+		"id": 1407320031986212900,
+		"id_str": "1407424553819705344",
+		"full_text": "QUEENS OF THE STAGE @loonatheworld ✨\n\n#KCON #KCONTACT4U #LOONA https://t.co/6Sw6qoHHjT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						44,
+						55
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						56,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						20,
+						34
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1407319842315595800,
+					"id_str": "1407319842315595790",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E4fN8LaUcA4gEwY.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E4fN8LaUcA4gEwY.jpg",
+					"url": "https://t.co/6Sw6qoHHjT",
+					"display_url": "pic.twitter.com/6Sw6qoHHjT",
+					"expanded_url": "https://twitter.com/kconusa/status/1407320031986212867/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407319842315595800,
+					"id_str": "1407319842315595790",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E4fN8LaUcA4gEwY.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E4fN8LaUcA4gEwY.jpg",
+					"url": "https://t.co/6Sw6qoHHjT",
+					"display_url": "pic.twitter.com/6Sw6qoHHjT",
+					"expanded_url": "https://twitter.com/kconusa/status/1407320031986212867/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 358,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							179
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E4fN8LaUcA4gEwY.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739451875,
+			"id_str": "739451875",
+			"name": "KCONUSA",
+			"screen_name": "kconusa",
+			"location": "Los Angeles, CA",
+			"description": "The official Twitter account of KCONUSA. #LetsKCON",
+			"url": "https://t.co/hfFB24vdQJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hfFB24vdQJ",
+							"expanded_url": "http://www.kconusa.com",
+							"display_url": "kconusa.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195385,
+			"friends_count": 5,
+			"listed_count": 435,
+			"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+			"favourites_count": 2957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391543522545729542/uejKzOZL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391543522545729542/uejKzOZL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1620604805",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 149,
+		"favorite_count": 563,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "QUEENS OF THE STAGE @loonatheworld ✨\n\n#KCON #KCONTACT4U #LOONA https://t.co/6Sw6qoHHjT"
+	},
+	{
+		"created_at": "Tue Jun 22 19:29:39 +0000 2021",
+		"id": 1406099419569655800,
+		"id_str": "1407420536548962307",
+		"full_text": "미모 한스쿱 더하고 매력 한스쿱 더하니 귀여움 완성😍\n귀여움 한도 초과 뿌까머리 여돌즈👧\nGirl Group Members with Cute Space Buns hair style!\n#TAEYEON #CHAEYOUNG #YeoJin #ARIN #YUQI #KIMSEJEONG #Yoon #ONDA https://t.co/4z5kZNsdYl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"text": "CHAEYOUNG",
+					"indices": [
+						111,
+						121
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "ARIN",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "YUQI",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "KIMSEJEONG",
+					"indices": [
+						142,
+						153
+					]
+				},
+				{
+					"text": "Yoon",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "ONDA",
+					"indices": [
+						160,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1405809524389257200,
+					"id_str": "1405809524389257220",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E4JwUGsVIAQpAFq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4JwUGsVIAQpAFq.jpg",
+					"url": "https://t.co/4z5kZNsdYl",
+					"display_url": "pic.twitter.com/4z5kZNsdYl",
+					"expanded_url": "https://twitter.com/1theK/status/1406099419569655809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1405809524389257200,
+					"id_str": "1405809524389257220",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E4JwUGsVIAQpAFq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4JwUGsVIAQpAFq.jpg",
+					"url": "https://t.co/4z5kZNsdYl",
+					"display_url": "pic.twitter.com/4z5kZNsdYl",
+					"expanded_url": "https://twitter.com/1theK/status/1406099419569655809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1405809524385087500,
+					"id_str": "1405809524385087488",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E4JwUGrVgAArdiM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4JwUGrVgAArdiM.jpg",
+					"url": "https://t.co/4z5kZNsdYl",
+					"display_url": "pic.twitter.com/4z5kZNsdYl",
+					"expanded_url": "https://twitter.com/1theK/status/1406099419569655809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakaoent.com",
+			"url": "https://t.co/BmRz0LNeFc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BmRz0LNeFc",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2248889,
+			"friends_count": 818,
+			"listed_count": 2054,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 14970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1624158004",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 662,
+		"favorite_count": 2487,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미모 한스쿱 더하고 매력 한스쿱 더하니 귀여움 완성😍\n귀여움 한도 초과 뿌까머리 여돌즈👧\nGirl Group Members with Cute Space Buns hair style!\n#TAEYEON #CHAEYOUNG #YeoJin #ARIN #YUQI #KIMSEJEONG #Yoon #ONDA https://t.co/4z5kZNsdYl"
+	},
+	{
+		"created_at": "Tue Jun 22 19:16:24 +0000 2021",
+		"id": 1407381060355248000,
+		"id_str": "1407417204723888139",
+		"full_text": "Thanks to everyone who tuned into Chris and Jonny’s Instagram live. You can watch it again here: https://t.co/ZsekQ71QR1 ⚡️⚡️ PH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZsekQ71QR1",
+					"expanded_url": "https://www.instagram.com/tv/CQbc2Bho0Ry/?utm_medium=copy_link",
+					"display_url": "instagram.com/tv/CQbc2Bho0Ry…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Kaotica",
+			"description": "The official Twitter of the band Coldplay. New single, Higher Power, out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23012351,
+			"friends_count": 759,
+			"listed_count": 42754,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1620345079",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 210,
+		"favorite_count": 1988,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks to everyone who tuned into Chris and Jonny’s Instagram live. You can watch it again here: https://t.co/ZsekQ71QR1 ⚡️⚡️ PH"
+	},
+	{
+		"created_at": "Tue Jun 22 19:16:19 +0000 2021",
+		"id": 1407379400669241300,
+		"id_str": "1407417183093862412",
+		"full_text": "hahaha thank you everyone for joining my chat with Femke and sorry for dropping out there for a minute🤪 we had a good time!! xx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81615,
+			"friends_count": 263,
+			"listed_count": 306,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5924,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394240555333337089/STtGqeaY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394240555333337089/STtGqeaY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1621409378",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 267,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "hahaha thank you everyone for joining my chat with Femke and sorry for dropping out there for a minute🤪 we had a good time!! xx"
+	},
+	{
+		"created_at": "Tue Jun 22 19:16:13 +0000 2021",
+		"id": 1407371628892332000,
+		"id_str": "1407417157315710977",
+		"full_text": "we’re live now!!!!🌸🌸🌸 with Femke, director of Mirror video https://t.co/VUAstAqeER",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VUAstAqeER",
+					"expanded_url": "https://twitter.com/i/spaces/1dRKZNZePYaKB",
+					"display_url": "twitter.com/i/spaces/1dRKZ…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81615,
+			"friends_count": 263,
+			"listed_count": 306,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5924,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394240555333337089/STtGqeaY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394240555333337089/STtGqeaY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1621409378",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 126,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "we’re live now!!!!🌸🌸🌸 with Femke, director of Mirror video https://t.co/VUAstAqeER"
+	},
+	{
+		"created_at": "Tue Jun 22 19:16:07 +0000 2021",
+		"id": 1407366711851028500,
+		"id_str": "1407417131491336197",
+		"full_text": "5 minutes…. https://t.co/yuDx5Du7sE https://t.co/UYrrQ3Lkrl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yuDx5Du7sE",
+					"expanded_url": "http://instagram.com/coldplay",
+					"display_url": "instagram.com/coldplay",
+					"indices": [
+						12,
+						35
+					]
+				},
+				{
+					"url": "https://t.co/UYrrQ3Lkrl",
+					"expanded_url": "https://twitter.com/coldplay/status/1407352676086595586",
+					"display_url": "twitter.com/coldplay/statu…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Kaotica",
+			"description": "The official Twitter of the band Coldplay. New single, Higher Power, out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23012351,
+			"friends_count": 759,
+			"listed_count": 42754,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1620345079",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1407352676086595600,
+		"quoted_status_id_str": "1407352676086595586",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UYrrQ3Lkrl",
+			"expanded": "https://twitter.com/coldplay/status/1407352676086595586",
+			"display": "twitter.com/coldplay/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 22 14:59:59 +0000 2021",
+			"id": 1407352676086595600,
+			"id_str": "1407352676086595586",
+			"full_text": "One hour until we’re going live for a few songs on our Instagram… Jonny https://t.co/rmM853ijlN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				71
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1407352663751147500,
+						"id_str": "1407352663751147525",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/E4fryoyWQAUk9lc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4fryoyWQAUk9lc.jpg",
+						"url": "https://t.co/rmM853ijlN",
+						"display_url": "pic.twitter.com/rmM853ijlN",
+						"expanded_url": "https://twitter.com/coldplay/status/1407352676086595586/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1407352663751147500,
+						"id_str": "1407352663751147525",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/E4fryoyWQAUk9lc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4fryoyWQAUk9lc.jpg",
+						"url": "https://t.co/rmM853ijlN",
+						"display_url": "pic.twitter.com/rmM853ijlN",
+						"expanded_url": "https://twitter.com/coldplay/status/1407352676086595586/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18863815,
+				"id_str": "18863815",
+				"name": "Coldplay",
+				"screen_name": "coldplay",
+				"location": "Kaotica",
+				"description": "The official Twitter of the band Coldplay. New single, Higher Power, out now.",
+				"url": "https://t.co/zVkAnvGWS0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zVkAnvGWS0",
+								"expanded_url": "https://linktr.ee/coldplay",
+								"display_url": "linktr.ee/coldplay",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23012351,
+				"friends_count": 759,
+				"listed_count": 42754,
+				"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+				"favourites_count": 1302,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8494,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1620345079",
+				"profile_link_color": "11518C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 436,
+			"favorite_count": 5041,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 166,
+		"favorite_count": 1769,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "5 minutes…. https://t.co/yuDx5Du7sE https://t.co/UYrrQ3Lkrl"
+	},
+	{
+		"created_at": "Tue Jun 22 19:16:04 +0000 2021",
+		"id": 1407360545272049700,
+		"id_str": "1407417118367358976",
+		"full_text": "we wrote Mirror ‘cus I needed to hear it - probably still need to hear it some days, lol. the whole «accepting yourself for who you are»-theme I guess I’ll just never finish writing songs about 🤷🏻‍♀️ this song reminds me of all the good stuff, and I hope it does the same to you!!!❣️ https://t.co/7uTM4bUmNS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1407360540243071000,
+					"id_str": "1407360540243070980",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/E4fy9HAXEAQXLkL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4fy9HAXEAQXLkL.jpg",
+					"url": "https://t.co/7uTM4bUmNS",
+					"display_url": "pic.twitter.com/7uTM4bUmNS",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1407360545272049675/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 613,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 832,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 832,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407360540243071000,
+					"id_str": "1407360540243070980",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/E4fy9HAXEAQXLkL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4fy9HAXEAQXLkL.jpg",
+					"url": "https://t.co/7uTM4bUmNS",
+					"display_url": "pic.twitter.com/7uTM4bUmNS",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1407360545272049675/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 613,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 832,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 832,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1407360205575409700,
+		"in_reply_to_status_id_str": "1407360205575409674",
+		"in_reply_to_user_id": 819042492,
+		"in_reply_to_user_id_str": "819042492",
+		"in_reply_to_screen_name": "thisissigrid",
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81615,
+			"friends_count": 263,
+			"listed_count": 306,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5924,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394240555333337089/STtGqeaY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394240555333337089/STtGqeaY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1621409378",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 262,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "we wrote Mirror ‘cus I needed to hear it - probably still need to hear it some days, lol. the whole «accepting yourself for who you are»-theme I guess I’ll just never finish writing songs about 🤷🏻‍♀️ this song reminds me of all the good stuff, and I hope it does the same to you!!!❣️ https://t.co/7uTM4bUmNS"
+	},
+	{
 		"created_at": "Tue Jun 22 18:40:25 +0000 2021",
 		"id": 1407408148164526000,
 		"id_str": "1407408148164526082",
