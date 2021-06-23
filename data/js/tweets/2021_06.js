@@ -1,6 +1,555 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 23 00:41:53 +0000 2021",
+		"id": 1407499113093021700,
+		"id_str": "1407499113093021701",
+		"full_text": "#알라딘 #앨범 #음반 \n[굿즈] 이달의 소녀 - KCON:TACT 4 U OFFICIAL MD : FABRIC POSTER (에버라인 | 2021년 08월 | 30,000원) \nhttps://t.co/a0rcoUZce5 \n \n#이달의소녀 #LOONA https://t.co/ETFaPrxlPr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "알라딘",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "앨범",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "음반",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						134,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a0rcoUZce5",
+					"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?itemid=274039903",
+					"display_url": "aladin.co.kr/shop/wproduct.…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1407499112149393400,
+					"id_str": "1407499112149393410",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/E4hw_DlXoAIcgQu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4hw_DlXoAIcgQu.jpg",
+					"url": "https://t.co/ETFaPrxlPr",
+					"display_url": "pic.twitter.com/ETFaPrxlPr",
+					"expanded_url": "https://twitter.com/fromminn/status/1407499113093021701/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407499112149393400,
+					"id_str": "1407499112149393410",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/E4hw_DlXoAIcgQu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4hw_DlXoAIcgQu.jpg",
+					"url": "https://t.co/ETFaPrxlPr",
+					"display_url": "pic.twitter.com/ETFaPrxlPr",
+					"expanded_url": "https://twitter.com/fromminn/status/1407499113093021701/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 230,
+							"h": 230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44965,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81437,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#알라딘 #앨범 #음반 \n[굿즈] 이달의 소녀 - KCON:TACT 4 U OFFICIAL MD : FABRIC POSTER (에버라인 | 2021년 08월 | 30,000원) \nhttps://t.co/a0rcoUZce5 \n \n#이달의소녀 #LOONA https://t.co/ETFaPrxlPr"
+	},
+	{
+		"created_at": "Wed Jun 23 00:16:15 +0000 2021",
+		"id": 1407488166026748000,
+		"id_str": "1407492663134277639",
+		"full_text": "@elliebam7 @annepylewriter Omg that's so awesome!! Glad you enjoyed nola, thanks so much for visiting ellie 💙",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elliebam7",
+					"name": "elle🌞",
+					"id": 1323336286569222100,
+					"id_str": "1323336286569222148",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "annepylewriter",
+					"name": "Anne Pyle, writer ✍️",
+					"id": 744549736141590500,
+					"id_str": "744549736141590528",
+					"indices": [
+						11,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1407487332274655200,
+		"in_reply_to_status_id_str": "1407487332274655232",
+		"in_reply_to_user_id": 1323336286569222100,
+		"in_reply_to_user_id_str": "1323336286569222148",
+		"in_reply_to_screen_name": "elliebam7",
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new album 'No One Else Can Wear Your Crown' is out now 👑",
+			"url": "https://t.co/cVg0U1Kw8y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cVg0U1Kw8y",
+							"expanded_url": "https://ohwonder.lnk.to/No_One_Else_Can_Wear_Your_CrownTW",
+							"display_url": "ohwonder.lnk.to/No_One_Else_Ca…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169182,
+			"friends_count": 203,
+			"listed_count": 421,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215307732095467521/if0osRtf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215307732095467521/if0osRtf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1590060241",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@elliebam7 @annepylewriter Omg that's so awesome!! Glad you enjoyed nola, thanks so much for visiting ellie 💙"
+	},
+	{
+		"created_at": "Wed Jun 23 00:16:12 +0000 2021",
+		"id": 1407486216493224000,
+		"id_str": "1407492649993576451",
+		"full_text": "@elliebam7 @annepylewriter And that is why I just deleted my tweets haha, terrified to even have a discussion in case context gets removed. Great chatting though!! Big love 💕",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elliebam7",
+					"name": "elle🌞",
+					"id": 1323336286569222100,
+					"id_str": "1323336286569222148",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "annepylewriter",
+					"name": "Anne Pyle, writer ✍️",
+					"id": 744549736141590500,
+					"id_str": "744549736141590528",
+					"indices": [
+						11,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1407485412709441500,
+		"in_reply_to_status_id_str": "1407485412709441548",
+		"in_reply_to_user_id": 1323336286569222100,
+		"in_reply_to_user_id_str": "1323336286569222148",
+		"in_reply_to_screen_name": "elliebam7",
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new album 'No One Else Can Wear Your Crown' is out now 👑",
+			"url": "https://t.co/cVg0U1Kw8y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cVg0U1Kw8y",
+							"expanded_url": "https://ohwonder.lnk.to/No_One_Else_Can_Wear_Your_CrownTW",
+							"display_url": "ohwonder.lnk.to/No_One_Else_Ca…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169182,
+			"friends_count": 203,
+			"listed_count": 421,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215307732095467521/if0osRtf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215307732095467521/if0osRtf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1590060241",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@elliebam7 @annepylewriter And that is why I just deleted my tweets haha, terrified to even have a discussion in case context gets removed. Great chatting though!! Big love 💕"
+	},
+	{
+		"created_at": "Wed Jun 23 00:16:05 +0000 2021",
+		"id": 1407482253429588000,
+		"id_str": "1407492620058832901",
+		"full_text": "@ShaneMcC_ It's being pressed to vinyl as we speak ✌️",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ShaneMcC_",
+					"name": "Shane A. McCusker",
+					"id": 754872378,
+					"id_str": "754872378",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1407480662169432000,
+		"in_reply_to_status_id_str": "1407480662169432064",
+		"in_reply_to_user_id": 754872378,
+		"in_reply_to_user_id_str": "754872378",
+		"in_reply_to_screen_name": "ShaneMcC_",
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new album 'No One Else Can Wear Your Crown' is out now 👑",
+			"url": "https://t.co/cVg0U1Kw8y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cVg0U1Kw8y",
+							"expanded_url": "https://ohwonder.lnk.to/No_One_Else_Can_Wear_Your_CrownTW",
+							"display_url": "ohwonder.lnk.to/No_One_Else_Ca…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169182,
+			"friends_count": 203,
+			"listed_count": 421,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215307732095467521/if0osRtf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215307732095467521/if0osRtf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1590060241",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@ShaneMcC_ It's being pressed to vinyl as we speak ✌️"
+	},
+	{
 		"created_at": "Tue Jun 22 23:16:29 +0000 2021",
 		"id": 1407476169423921200,
 		"id_str": "1407477622255276032",
