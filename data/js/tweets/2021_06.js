@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 23 15:16:08 +0000 2021",
+		"id": 1407712560636252200,
+		"id_str": "1407719124302716928",
+		"full_text": "#TXT (#투모로우바이투게더) &lt;0X1=LOVESONG (I Know I Love You) feat. pH-1, Woodie Gochild, Seori&gt; Official Teaser \n\nJune 25, 6:00PM (KST) | June 25, 5:00AM (ET) \n\n#TOMORROW_X_TOGETHER #TheChaosChapter #TXT_FREEZE #0X1LOVESONG https://t.co/yrq7heIRoL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TXT",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "투모로우바이투게더",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "TOMORROW_X_TOGETHER",
+					"indices": [
+						158,
+						178
+					]
+				},
+				{
+					"text": "TheChaosChapter",
+					"indices": [
+						179,
+						195
+					]
+				},
+				{
+					"text": "TXT_FREEZE",
+					"indices": [
+						196,
+						207
+					]
+				},
+				{
+					"text": "0X1LOVESONG",
+					"indices": [
+						208,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1407705984051470300,
+					"id_str": "1407705984051470341",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1407705984051470341/img/GcgHizT0hrWIYhKK.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1407705984051470341/img/GcgHizT0hrWIYhKK.jpg",
+					"url": "https://t.co/yrq7heIRoL",
+					"display_url": "pic.twitter.com/yrq7heIRoL",
+					"expanded_url": "https://twitter.com/BIGHIT_MUSIC/status/1407712560636252164/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407705984051470300,
+					"id_str": "1407705984051470341",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1407705984051470341/img/GcgHizT0hrWIYhKK.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1407705984051470341/img/GcgHizT0hrWIYhKK.jpg",
+					"url": "https://t.co/yrq7heIRoL",
+					"display_url": "pic.twitter.com/yrq7heIRoL",
+					"expanded_url": "https://twitter.com/BIGHIT_MUSIC/status/1407712560636252164/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 29029,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1407705984051470341/vid/720x1280/7NW_BrK_wAVFM0cJ.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1407705984051470341/pl/jFOVHGj0c_1hO-HC.m3u8?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1407705984051470341/vid/480x852/G85Vsvh1x1J7aWci.mp4?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1407705984051470341/vid/320x568/y_rcItruCzWNbCF9.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 168683422,
+			"id_str": "168683422",
+			"name": "BIGHIT MUSIC",
+			"screen_name": "BIGHIT_MUSIC",
+			"location": "Seoul, Korea",
+			"description": "빅히트 뮤직 공식 트위터입니다. \nBIGHIT MUSIC Official Twitter.",
+			"url": "https://t.co/8BbCnaUhLb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8BbCnaUhLb",
+							"expanded_url": "https://ibighit.com/",
+							"display_url": "ibighit.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21687944,
+			"friends_count": 30,
+			"listed_count": 32801,
+			"created_at": "Tue Jul 20 14:40:33 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFEDBF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377078197813092352/s8NryGbR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377078197813092352/s8NryGbR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/168683422/1617156003",
+			"profile_link_color": "C90404",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C1C6F5",
+			"profile_text_color": "383738",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23279,
+		"favorite_count": 79739,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#TXT (#투모로우바이투게더) &lt;0X1=LOVESONG (I Know I Love You) feat. pH-1, Woodie Gochild, Seori&gt; Official Teaser \n\nJune 25, 6:00PM (KST) | June 25, 5:00AM (ET) \n\n#TOMORROW_X_TOGETHER #TheChaosChapter #TXT_FREEZE #0X1LOVESONG https://t.co/yrq7heIRoL"
+	},
+	{
 		"created_at": "Wed Jun 23 14:16:30 +0000 2021",
 		"id": 1407692823089094700,
 		"id_str": "1407704120539193344",
