@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 22 23:16:29 +0000 2021",
+		"id": 1407476169423921200,
+		"id_str": "1407477622255276032",
+		"full_text": "@HlGHONHUMANS Legend thanks Robin!! IMAGINE TOURING BEING A THING 🤯🤯🤯🤯",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HlGHONHUMANS",
+					"name": "robin",
+					"id": 705024555014864900,
+					"id_str": "705024555014864896",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1407475897460998100,
+		"in_reply_to_status_id_str": "1407475897460998150",
+		"in_reply_to_user_id": 705024555014864900,
+		"in_reply_to_user_id_str": "705024555014864896",
+		"in_reply_to_screen_name": "HlGHONHUMANS",
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new album 'No One Else Can Wear Your Crown' is out now 👑",
+			"url": "https://t.co/cVg0U1Kw8y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cVg0U1Kw8y",
+							"expanded_url": "https://ohwonder.lnk.to/No_One_Else_Can_Wear_Your_CrownTW",
+							"display_url": "ohwonder.lnk.to/No_One_Else_Ca…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169182,
+			"friends_count": 203,
+			"listed_count": 421,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215307732095467521/if0osRtf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215307732095467521/if0osRtf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1590060241",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@HlGHONHUMANS Legend thanks Robin!! IMAGINE TOURING BEING A THING 🤯🤯🤯🤯"
+	},
+	{
 		"created_at": "Tue Jun 22 19:45:55 +0000 2021",
 		"id": 1407324152025911300,
 		"id_str": "1407424631817052165",
@@ -1958,7 +2065,7 @@ Grailbird.data.tweets_2021_06 =
 		"created_at": "Tue Jun 22 19:16:04 +0000 2021",
 		"id": 1407360545272049700,
 		"id_str": "1407417118367358976",
-		"full_text": "we wrote Mirror ‘cus I needed to hear it - probably still need to hear it some days, lol. the whole «accepting yourself for who you are»-theme I guess I’ll just never finish writing songs about 🤷🏻‍♀️ this song reminds me of all the good stuff, and I hope it does the same to you!!!❣️ https://t.co/7uTM4bUmNS",
+		"full_text": "we wrote Mirror ‘cus I needed to hear it - probably still need to hear it some days, lol. the whole «accepting yourself for who you are»-theme I guess I’ll just never finish writing songs about 🤷🏻♀️ this song reminds me of all the good stuff, and I hope it does the same to you!!!❣️ https://t.co/7uTM4bUmNS",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -2114,7 +2221,7 @@ Grailbird.data.tweets_2021_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "we wrote Mirror ‘cus I needed to hear it - probably still need to hear it some days, lol. the whole «accepting yourself for who you are»-theme I guess I’ll just never finish writing songs about 🤷🏻‍♀️ this song reminds me of all the good stuff, and I hope it does the same to you!!!❣️ https://t.co/7uTM4bUmNS"
+		"text": "we wrote Mirror ‘cus I needed to hear it - probably still need to hear it some days, lol. the whole «accepting yourself for who you are»-theme I guess I’ll just never finish writing songs about 🤷🏻♀️ this song reminds me of all the good stuff, and I hope it does the same to you!!!❣️ https://t.co/7uTM4bUmNS"
 	},
 	{
 		"created_at": "Tue Jun 22 18:40:25 +0000 2021",
