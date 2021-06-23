@@ -1,6 +1,1067 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 23 11:16:17 +0000 2021",
+		"id": 1407658690337980400,
+		"id_str": "1407658766535962624",
+		"full_text": "I actually listened to the song X&amp;Y the other day and I'd forgotten how much I enjoy it, so maybe that. Guy https://t.co/f5FKygmMv0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f5FKygmMv0",
+					"expanded_url": "https://twitter.com/drelladuh/status/1407631056598192132",
+					"display_url": "twitter.com/drelladuh/stat…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Kaotica",
+			"description": "The official Twitter of the band Coldplay. New single, Higher Power, out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23010805,
+			"friends_count": 759,
+			"listed_count": 42753,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1620345079",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1407631056598192000,
+		"quoted_status_id_str": "1407631056598192132",
+		"quoted_status_permalink": {
+			"url": "https://t.co/f5FKygmMv0",
+			"expanded": "https://twitter.com/drelladuh/status/1407631056598192132",
+			"display": "twitter.com/drelladuh/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 23 09:26:11 +0000 2021",
+			"id": 1407631056598192000,
+			"id_str": "1407631056598192132",
+			"full_text": "@coldplay Are there any songs off X&amp;Y you'd like to play soon?",
+			"truncated": false,
+			"display_text_range": [
+				10,
+				66
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "coldplay",
+						"name": "Coldplay",
+						"id": 18863815,
+						"id_str": "18863815",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1407610610628575200,
+			"in_reply_to_status_id_str": "1407610610628575235",
+			"in_reply_to_user_id": 18863815,
+			"in_reply_to_user_id_str": "18863815",
+			"in_reply_to_screen_name": "coldplay",
+			"user": {
+				"id": 2218964663,
+				"id_str": "2218964663",
+				"name": "María (X&Y RIGHTS) 👽📻",
+				"screen_name": "drelladuh",
+				"location": "Harvey/Sam's town",
+				"description": "As charming as we are, we are nothing but pretty trash 🤡🐙",
+				"url": "https://t.co/Tipyspo4RA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Tipyspo4RA",
+								"expanded_url": "http://teepublic.com/user/neonancy",
+								"display_url": "teepublic.com/user/neonancy",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1020,
+				"friends_count": 448,
+				"listed_count": 6,
+				"created_at": "Wed Dec 11 06:31:11 +0000 2013",
+				"favourites_count": 83965,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 56809,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1407663991472766980/R8VBOKDW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407663991472766980/R8VBOKDW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2218964663/1619789680",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 67,
+		"favorite_count": 611,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I actually listened to the song X&amp;Y the other day and I'd forgotten how much I enjoy it, so maybe that. Guy https://t.co/f5FKygmMv0"
+	},
+	{
+		"created_at": "Wed Jun 23 11:16:15 +0000 2021",
+		"id": 1407658481184870400,
+		"id_str": "1407658757492981766",
+		"full_text": "Probably not those styles, but I think our garments can be worn by anyone to be honest. Guy https://t.co/AJpoNWba2Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AJpoNWba2Q",
+					"expanded_url": "https://twitter.com/ritaraymsnrndm/status/1407631444898242561",
+					"display_url": "twitter.com/ritaraymsnrndm…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Kaotica",
+			"description": "The official Twitter of the band Coldplay. New single, Higher Power, out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23010805,
+			"friends_count": 759,
+			"listed_count": 42753,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1620345079",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1407631444898242600,
+		"quoted_status_id_str": "1407631444898242561",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AJpoNWba2Q",
+			"expanded": "https://twitter.com/ritaraymsnrndm/status/1407631444898242561",
+			"display": "twitter.com/ritaraymsnrndm…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 23 09:27:43 +0000 2021",
+			"id": 1407631444898242600,
+			"id_str": "1407631444898242561",
+			"full_text": "@coldplay Any chance of designing feminine clothing for \nA/A/F such as pencil/flared skirts or sundresses?",
+			"truncated": false,
+			"display_text_range": [
+				10,
+				106
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "coldplay",
+						"name": "Coldplay",
+						"id": 18863815,
+						"id_str": "18863815",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1407610610628575200,
+			"in_reply_to_status_id_str": "1407610610628575235",
+			"in_reply_to_user_id": 18863815,
+			"in_reply_to_user_id_str": "18863815",
+			"in_reply_to_screen_name": "coldplay",
+			"user": {
+				"id": 3293332010,
+				"id_str": "3293332010",
+				"name": "Rita Ray",
+				"screen_name": "ritaraymsnrndm",
+				"location": "California, USA",
+				"description": "MSN, APRN, FNP-BC, DM, Founder/Chairman \nTotus Tuus Permanent Supportive Housing for Terminally Ill Homeless, Order of Malta; Motto:\nBE KIND🍋🌹🧠🚀🌙☀️💎🦋🐙",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 374,
+				"friends_count": 1509,
+				"listed_count": 3,
+				"created_at": "Sat Jul 25 18:22:39 +0000 2015",
+				"favourites_count": 10180,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4090,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1340387343178424321/F5291YGB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340387343178424321/F5291YGB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3293332010/1502159660",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 23,
+		"favorite_count": 357,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Probably not those styles, but I think our garments can be worn by anyone to be honest. Guy https://t.co/AJpoNWba2Q"
+	},
+	{
+		"created_at": "Wed Jun 23 11:16:09 +0000 2021",
+		"id": 1407658318630375400,
+		"id_str": "1407658731698065412",
+		"full_text": "Football. Because didn't they just help knock Scotland out? Guy https://t.co/wBjvE6XsPO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wBjvE6XsPO",
+					"expanded_url": "https://twitter.com/maiklton22/status/1407631591518707714",
+					"display_url": "twitter.com/maiklton22/sta…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Kaotica",
+			"description": "The official Twitter of the band Coldplay. New single, Higher Power, out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23010805,
+			"friends_count": 759,
+			"listed_count": 42753,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1620345079",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1407631591518707700,
+		"quoted_status_id_str": "1407631591518707714",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wBjvE6XsPO",
+			"expanded": "https://twitter.com/maiklton22/status/1407631591518707714",
+			"display": "twitter.com/maiklton22/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 23 09:28:18 +0000 2021",
+			"id": 1407631591518707700,
+			"id_str": "1407631591518707714",
+			"full_text": "@coldplay Hello Guy! I hope you're doing fine. What comes to your mind first when you think of the Czech Republic? 🇨🇿",
+			"truncated": false,
+			"display_text_range": [
+				10,
+				117
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "coldplay",
+						"name": "Coldplay",
+						"id": 18863815,
+						"id_str": "18863815",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1407610610628575200,
+			"in_reply_to_status_id_str": "1407610610628575235",
+			"in_reply_to_user_id": 18863815,
+			"in_reply_to_user_id_str": "18863815",
+			"in_reply_to_screen_name": "coldplay",
+			"user": {
+				"id": 1127685786437079000,
+				"id_str": "1127685786437079040",
+				"name": "Michal",
+				"screen_name": "maiklton22",
+				"location": "Blue Planet",
+				"description": "M Marks The Spot | Fan of biathlon and music • Coldplay, Editors, Kylie Minogue, Taylor Swift & more | he/him/his | aka @youarefading",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1243,
+				"friends_count": 1297,
+				"listed_count": 6,
+				"created_at": "Sun May 12 21:23:37 +0000 2019",
+				"favourites_count": 114763,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23429,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1377639102762340358/uUrksetT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377639102762340358/uUrksetT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1127685786437079040/1620824273",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 38,
+		"favorite_count": 413,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Football. Because didn't they just help knock Scotland out? Guy https://t.co/wBjvE6XsPO"
+	},
+	{
+		"created_at": "Wed Jun 23 11:16:06 +0000 2021",
+		"id": 1407658151462293500,
+		"id_str": "1407658718511120388",
+		"full_text": "It was great. It felt very exciting and it made us remember that one day we might be able to tour again and how much fun it is. Guy https://t.co/kR2Q7p7kzj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kR2Q7p7kzj",
+					"expanded_url": "https://twitter.com/kaoticans/status/1407611749780557824",
+					"display_url": "twitter.com/kaoticans/stat…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Kaotica",
+			"description": "The official Twitter of the band Coldplay. New single, Higher Power, out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23010805,
+			"friends_count": 759,
+			"listed_count": 42753,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1620345079",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1407611749780557800,
+		"quoted_status_id_str": "1407611749780557824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kR2Q7p7kzj",
+			"expanded": "https://twitter.com/kaoticans/status/1407611749780557824",
+			"display": "twitter.com/kaoticans/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 23 08:09:27 +0000 2021",
+			"id": 1407611749780557800,
+			"id_str": "1407611749780557824",
+			"full_text": "@coldplay How was playing in front of a crowd again?",
+			"truncated": false,
+			"display_text_range": [
+				10,
+				52
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "coldplay",
+						"name": "Coldplay",
+						"id": 18863815,
+						"id_str": "18863815",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1407610610628575200,
+			"in_reply_to_status_id_str": "1407610610628575235",
+			"in_reply_to_user_id": 18863815,
+			"in_reply_to_user_id_str": "18863815",
+			"in_reply_to_screen_name": "coldplay",
+			"user": {
+				"id": 1003001865674612700,
+				"id_str": "1003001865674612737",
+				"name": "elif özlem 👽📻",
+				"screen_name": "kaoticans",
+				"location": "kaotica",
+				"description": "18 ☆ she/her ☆ a person who loves purple and coldplay",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 389,
+				"friends_count": 470,
+				"listed_count": 2,
+				"created_at": "Sat Jun 02 19:54:14 +0000 2018",
+				"favourites_count": 38269,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2449,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1401837916196904963/ER7xUd8X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1401837916196904963/ER7xUd8X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1003001865674612737/1623311273",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 48,
+		"favorite_count": 533,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It was great. It felt very exciting and it made us remember that one day we might be able to tour again and how much fun it is. Guy https://t.co/kR2Q7p7kzj"
+	},
+	{
+		"created_at": "Wed Jun 23 11:16:03 +0000 2021",
+		"id": 1407657983849422800,
+		"id_str": "1407658705273905159",
+		"full_text": "Just the energy of the crowds and people singing along to our songs. Guy https://t.co/K4CEjvCGJk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K4CEjvCGJk",
+					"expanded_url": "https://twitter.com/yellowftlouis/status/1407632317850525696",
+					"display_url": "twitter.com/yellowftlouis/…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Kaotica",
+			"description": "The official Twitter of the band Coldplay. New single, Higher Power, out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23010805,
+			"friends_count": 759,
+			"listed_count": 42753,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1620345079",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1407632317850525700,
+		"quoted_status_id_str": "1407632317850525696",
+		"quoted_status_permalink": {
+			"url": "https://t.co/K4CEjvCGJk",
+			"expanded": "https://twitter.com/yellowftlouis/status/1407632317850525696",
+			"display": "twitter.com/yellowftlouis/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 23 09:31:11 +0000 2021",
+			"id": 1407632317850525700,
+			"id_str": "1407632317850525696",
+			"full_text": "@coldplay Hi Guy, what do you miss most about touring?",
+			"truncated": false,
+			"display_text_range": [
+				10,
+				54
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "coldplay",
+						"name": "Coldplay",
+						"id": 18863815,
+						"id_str": "18863815",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1407610610628575200,
+			"in_reply_to_status_id_str": "1407610610628575235",
+			"in_reply_to_user_id": 18863815,
+			"in_reply_to_user_id_str": "18863815",
+			"in_reply_to_screen_name": "coldplay",
+			"user": {
+				"id": 158107440,
+				"id_str": "158107440",
+				"name": "Dahii GUY ME RESPONDIÓ",
+				"screen_name": "yellowftlouis",
+				"location": "Paraguay",
+				"description": "mejor conocida como la dueña de through the dark",
+				"url": "https://t.co/dD1uzXyttd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dD1uzXyttd",
+								"expanded_url": "https://higherpower.xn--8ci/",
+								"display_url": "higherpower.✰",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2238,
+				"friends_count": 1533,
+				"listed_count": 81,
+				"created_at": "Mon Jun 21 20:13:42 +0000 2010",
+				"favourites_count": 7802,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 102614,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1403808396831121412/7kn-c7Jz_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403808396831121412/7kn-c7Jz_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/158107440/1621140709",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 48,
+		"favorite_count": 501,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just the energy of the crowds and people singing along to our songs. Guy https://t.co/K4CEjvCGJk"
+	},
+	{
 		"created_at": "Wed Jun 23 10:45:36 +0000 2021",
 		"id": 1407647179968110600,
 		"id_str": "1407651045719879681",
