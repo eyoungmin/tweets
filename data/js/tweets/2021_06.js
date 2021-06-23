@@ -1,6 +1,549 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 23 01:16:04 +0000 2021",
+		"id": 1407503821077500000,
+		"id_str": "1407507718475243520",
+		"full_text": "#BLACKPINK 5th ANNIVERSARY [4+1 PROJECT] ANNOUNCEMENT VIDEO\n\nMore info @ https://t.co/RRz96UNkql\n\n#블랙핑크 #5thANNIVERSARY #4PLUS1_PROJECT #ANNOUNCEMENT_VIDEO #YG https://t.co/w7u9uzfSeE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "5thANNIVERSARY",
+					"indices": [
+						104,
+						119
+					]
+				},
+				{
+					"text": "4PLUS1_PROJECT",
+					"indices": [
+						120,
+						135
+					]
+				},
+				{
+					"text": "ANNOUNCEMENT_VIDEO",
+					"indices": [
+						136,
+						155
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						156,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RRz96UNkql",
+					"expanded_url": "http://5th.blackpinkofficial.com",
+					"display_url": "5th.blackpinkofficial.com",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1407348675672776700,
+					"id_str": "1407348675672776708",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/E4foz5sX0AQc9A2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4foz5sX0AQc9A2.jpg",
+					"url": "https://t.co/w7u9uzfSeE",
+					"display_url": "pic.twitter.com/w7u9uzfSeE",
+					"expanded_url": "https://twitter.com/ygent_official/status/1407503821077499906/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407348675672776700,
+					"id_str": "1407348675672776708",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/E4foz5sX0AQc9A2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4foz5sX0AQc9A2.jpg",
+					"url": "https://t.co/w7u9uzfSeE",
+					"display_url": "pic.twitter.com/w7u9uzfSeE",
+					"expanded_url": "https://twitter.com/ygent_official/status/1407503821077499906/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 34034,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1407348675672776708/vid/480x270/TslvZIeQQ86w3Zqg.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1407348675672776708/vid/640x360/W_WFuPFdV65wrAxv.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1407348675672776708/pl/csMCyPlEhGQUL9h6.m3u8?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1407348675672776708/vid/1280x720/7158bN4RZnjBYR8b.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "BLACKPINK 5th ANNIVERSARY [4+1 PROJECT] ANNOUNCEMENT VIDEO",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/Shhlj3QVGpI"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7673123,
+			"friends_count": 36,
+			"listed_count": 8471,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10526,
+		"favorite_count": 28444,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 5th ANNIVERSARY [4+1 PROJECT] ANNOUNCEMENT VIDEO\n\nMore info @ https://t.co/RRz96UNkql\n\n#블랙핑크 #5thANNIVERSARY #4PLUS1_PROJECT #ANNOUNCEMENT_VIDEO #YG https://t.co/w7u9uzfSeE"
+	},
+	{
+		"created_at": "Wed Jun 23 01:16:00 +0000 2021",
+		"id": 1407503982629511200,
+		"id_str": "1407507700913774598",
+		"full_text": "#BLACKPINK 5th ANNIVERSARY [4+1 PROJECT] ANNOUNCEMENT VIDEO\n\nMore info @ https://t.co/W1vLIdbfgI\n\n#BLACKPINK #블랙핑크 #5thANNIVERSARY #4PLUS1_PROJECT #ANNOUNCEMENT_VIDEO #YG https://t.co/0AfhmrhSWU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "5thANNIVERSARY",
+					"indices": [
+						115,
+						130
+					]
+				},
+				{
+					"text": "4PLUS1_PROJECT",
+					"indices": [
+						131,
+						146
+					]
+				},
+				{
+					"text": "ANNOUNCEMENT_VIDEO",
+					"indices": [
+						147,
+						166
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						167,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W1vLIdbfgI",
+					"expanded_url": "http://5th.blackpinkofficial.com",
+					"display_url": "5th.blackpinkofficial.com",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1407503383561265200,
+					"id_str": "1407503383561265161",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1407503383561265161/pu/img/A2ymxuoHEdSMxyR3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1407503383561265161/pu/img/A2ymxuoHEdSMxyR3.jpg",
+					"url": "https://t.co/0AfhmrhSWU",
+					"display_url": "pic.twitter.com/0AfhmrhSWU",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1407503982629511170/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407503383561265200,
+					"id_str": "1407503383561265161",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1407503383561265161/pu/img/A2ymxuoHEdSMxyR3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1407503383561265161/pu/img/A2ymxuoHEdSMxyR3.jpg",
+					"url": "https://t.co/0AfhmrhSWU",
+					"display_url": "pic.twitter.com/0AfhmrhSWU",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1407503982629511170/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 34034,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1407503383561265161/pu/pl/cFSLVPD3myRuTAQR.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1407503383561265161/pu/vid/640x360/r3BzWNMplJ3oAdwj.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1407503383561265161/pu/vid/1280x720/RzPYSWsKcmuyg72u.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1407503383561265161/pu/vid/480x270/LMSl8DzKlJV0XxJl.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/aWhwrQsIZl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWhwrQsIZl",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4165964,
+			"friends_count": 0,
+			"listed_count": 5821,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 324,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1623718900",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29161,
+		"favorite_count": 60535,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 5th ANNIVERSARY [4+1 PROJECT] ANNOUNCEMENT VIDEO\n\nMore info @ https://t.co/W1vLIdbfgI\n\n#BLACKPINK #블랙핑크 #5thANNIVERSARY #4PLUS1_PROJECT #ANNOUNCEMENT_VIDEO #YG https://t.co/0AfhmrhSWU"
+	},
+	{
 		"created_at": "Wed Jun 23 00:41:53 +0000 2021",
 		"id": 1407499113093021700,
 		"id_str": "1407499113093021701",
