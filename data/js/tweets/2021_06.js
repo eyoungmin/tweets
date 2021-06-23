@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 23 02:45:36 +0000 2021",
+		"id": 1407516361706799000,
+		"id_str": "1407530250058309636",
+		"full_text": "[6/23(수) 엠뮤톡] 12시 12분 시작! SF9/이달의 소녀/세븐틴/방탄소년단/트와이스/2PM/브레이브걸스 더운날엔 수박🍉 먹으며 엠뮤톡 보면 시원해지는거 모르는 뮤치니들은 없겠지?! 오늘도 알차게 준비했으니 다들 춤 출 준비하고 놀러오라구~ (딴스딴스💃🕺💃🕺)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "대한민국 서울",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/3MOZ1S1s4O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MOZ1S1s4O",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1180557,
+			"friends_count": 416,
+			"listed_count": 1411,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 835,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18227,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1610345190",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 159,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[6/23(수) 엠뮤톡] 12시 12분 시작! SF9/이달의 소녀/세븐틴/방탄소년단/트와이스/2PM/브레이브걸스 더운날엔 수박🍉 먹으며 엠뮤톡 보면 시원해지는거 모르는 뮤치니들은 없겠지?! 오늘도 알차게 준비했으니 다들 춤 출 준비하고 놀러오라구~ (딴스딴스💃🕺💃🕺)"
+	},
+	{
+		"created_at": "Wed Jun 23 02:16:00 +0000 2021",
+		"id": 1407509471669088300,
+		"id_str": "1407522800739491842",
+		"full_text": "[#VIDEO] Seori on ASIA RISING TOGETHER\n@88rising \n\n▶ https://t.co/cXZbj6lice\n\n#서리 #Seori",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIDEO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						82,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "88rising",
+					"name": "88rising",
+					"id": 710838951989346300,
+					"id_str": "710838951989346304",
+					"indices": [
+						39,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cXZbj6lice",
+					"expanded_url": "https://www.youtube.com/watch?v=x-N9a6lPEyY",
+					"display_url": "youtube.com/watch?v=x-N9a6…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17910,
+			"friends_count": 0,
+			"listed_count": 68,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1622531493",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 105,
+		"favorite_count": 360,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "[#VIDEO] Seori on ASIA RISING TOGETHER\n@88rising \n\n▶ https://t.co/cXZbj6lice\n\n#서리 #Seori"
+	},
+	{
 		"created_at": "Wed Jun 23 01:16:04 +0000 2021",
 		"id": 1407503821077500000,
 		"id_str": "1407507718475243520",
