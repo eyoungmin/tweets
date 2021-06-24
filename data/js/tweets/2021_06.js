@@ -1,6 +1,532 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 24 15:17:39 +0000 2021",
+		"id": 1408077541324116000,
+		"id_str": "1408081893841461253",
+		"full_text": "Welcome To The Place Where Hits Are Made!\nListen to #TodaysTopHits, only on @Spotify\n▶ https://t.co/OxNs7rAOWI\n\n#BLACKPINK #블랙핑크 #Spotify #스포티파이 https://t.co/JIk5uKl8aM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TodaysTopHits",
+					"indices": [
+						52,
+						66
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						112,
+						122
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						129,
+						137
+					]
+				},
+				{
+					"text": "스포티파이",
+					"indices": [
+						138,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						76,
+						84
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OxNs7rAOWI",
+					"expanded_url": "http://spotify.link/todaystophits",
+					"display_url": "spotify.link/todaystophits",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1408076207241908200,
+					"id_str": "1408076207241908239",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1408076207241908239/pu/img/HY-RBIp1VXzMenBf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1408076207241908239/pu/img/HY-RBIp1VXzMenBf.jpg",
+					"url": "https://t.co/JIk5uKl8aM",
+					"display_url": "pic.twitter.com/JIk5uKl8aM",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1408077541324115972/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408076207241908200,
+					"id_str": "1408076207241908239",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1408076207241908239/pu/img/HY-RBIp1VXzMenBf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1408076207241908239/pu/img/HY-RBIp1VXzMenBf.jpg",
+					"url": "https://t.co/JIk5uKl8aM",
+					"display_url": "pic.twitter.com/JIk5uKl8aM",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1408077541324115972/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15015,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1408076207241908239/pu/vid/540x540/OZw5kbuATBrRDAk_.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1408076207241908239/pu/pl/MCKRqmSTGJLHSBzo.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1408076207241908239/pu/vid/320x320/st9PReGQkglq8Ubk.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1408076207241908239/pu/vid/720x720/pVFLofIWq4Zb1Czh.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/aWhwrQsIZl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWhwrQsIZl",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4173551,
+			"friends_count": 0,
+			"listed_count": 5836,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 328,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1623718900",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15066,
+		"favorite_count": 34647,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Welcome To The Place Where Hits Are Made!\nListen to #TodaysTopHits, only on @Spotify\n▶ https://t.co/OxNs7rAOWI\n\n#BLACKPINK #블랙핑크 #Spotify #스포티파이 https://t.co/JIk5uKl8aM"
+	},
+	{
+		"created_at": "Thu Jun 24 15:17:38 +0000 2021",
+		"id": 1408077456880197600,
+		"id_str": "1408081893602435074",
+		"full_text": "Welcome To The Place Where Hits Are Made!\nListen to #TodaysTopHits, only on @Spotify\n▶ https://t.co/iT1XcvCnRi\n\n#BLACKPINK #블랙핑크 #Spotify #스포티파이 https://t.co/lb5CBhASQl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TodaysTopHits",
+					"indices": [
+						52,
+						66
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						112,
+						122
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						129,
+						137
+					]
+				},
+				{
+					"text": "스포티파이",
+					"indices": [
+						138,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						76,
+						84
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iT1XcvCnRi",
+					"expanded_url": "http://spotify.link/todaystophits",
+					"display_url": "spotify.link/todaystophits",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1407620721207959600,
+					"id_str": "1407620721207959559",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1407620721207959559/pu/img/TS9-8NQhBdoE_ztt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1407620721207959559/pu/img/TS9-8NQhBdoE_ztt.jpg",
+					"url": "https://t.co/lb5CBhASQl",
+					"display_url": "pic.twitter.com/lb5CBhASQl",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1408077456880197633/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407620721207959600,
+					"id_str": "1407620721207959559",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1407620721207959559/pu/img/TS9-8NQhBdoE_ztt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1407620721207959559/pu/img/TS9-8NQhBdoE_ztt.jpg",
+					"url": "https://t.co/lb5CBhASQl",
+					"display_url": "pic.twitter.com/lb5CBhASQl",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1408077456880197633/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15015,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1407620721207959559/pu/pl/yIa3-5BucCZU8SN5.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1407620721207959559/pu/vid/320x320/_wFSP_Mgq86qfMM5.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1407620721207959559/pu/vid/720x720/1RQGrL7id19PERnO.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1407620721207959559/pu/vid/540x540/Xc4LfDCQc-dP-D7R.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/QTHPhjMXWT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QTHPhjMXWT",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6899252,
+			"friends_count": 6,
+			"listed_count": 7876,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1623718821",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4722,
+		"favorite_count": 13427,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Welcome To The Place Where Hits Are Made!\nListen to #TodaysTopHits, only on @Spotify\n▶ https://t.co/iT1XcvCnRi\n\n#BLACKPINK #블랙핑크 #Spotify #스포티파이 https://t.co/lb5CBhASQl"
+	},
+	{
 		"created_at": "Thu Jun 24 15:02:01 +0000 2021",
 		"id": 1408077963124424700,
 		"id_str": "1408077963124424713",
