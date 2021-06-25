@@ -1,6 +1,297 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 25 14:52:48 +0000 2021",
+		"id": 1408426493118664700,
+		"id_str": "1408438027958067200",
+		"full_text": "Every Song That You Need #TodaysTopHits https://t.co/kg5VGxa8wK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TodaysTopHits",
+					"indices": [
+						25,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1408425761363665000,
+					"id_str": "1408425761363664908",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/E4u7xI6XIAwpxN8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4u7xI6XIAwpxN8.jpg",
+					"url": "https://t.co/kg5VGxa8wK",
+					"display_url": "pic.twitter.com/kg5VGxa8wK",
+					"expanded_url": "https://twitter.com/Spotify/status/1408426493118664705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408425761363665000,
+					"id_str": "1408425761363664908",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/E4u7xI6XIAwpxN8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4u7xI6XIAwpxN8.jpg",
+					"url": "https://t.co/kg5VGxa8wK",
+					"display_url": "pic.twitter.com/kg5VGxa8wK",
+					"expanded_url": "https://twitter.com/Spotify/status/1408426493118664705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1408425775792021500,
+					"id_str": "1408425775792021506",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/E4u7x-qWYAIZFpi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4u7x-qWYAIZFpi.jpg",
+					"url": "https://t.co/kg5VGxa8wK",
+					"display_url": "pic.twitter.com/kg5VGxa8wK",
+					"expanded_url": "https://twitter.com/Spotify/status/1408426493118664705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1408425786403704800,
+					"id_str": "1408425786403704836",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/E4u7ymMX0AQl9_G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4u7ymMX0AQl9_G.jpg",
+					"url": "https://t.co/kg5VGxa8wK",
+					"display_url": "pic.twitter.com/kg5VGxa8wK",
+					"expanded_url": "https://twitter.com/Spotify/status/1408426493118664705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1408425794272125000,
+					"id_str": "1408425794272124930",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/E4u7zDgWYAIx9F7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4u7zDgWYAIx9F7.jpg",
+					"url": "https://t.co/kg5VGxa8wK",
+					"display_url": "pic.twitter.com/kg5VGxa8wK",
+					"expanded_url": "https://twitter.com/Spotify/status/1408426493118664705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17230018,
+			"id_str": "17230018",
+			"name": "Spotify",
+			"screen_name": "Spotify",
+			"location": "",
+			"description": "Listening is everything.\nPodcasts 👉 @SpotifyPodcasts\nLive audio 👉 @SpotifyGrnRoom\nSupport 👉 @SpotifyCares",
+			"url": "https://t.co/5G4Hekn0ea",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5G4Hekn0ea",
+							"expanded_url": "http://Spotify.com",
+							"display_url": "Spotify.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4337159,
+			"friends_count": 17783,
+			"listed_count": 16444,
+			"created_at": "Fri Nov 07 12:14:28 +0000 2008",
+			"favourites_count": 13233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 35360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013614110171250688/vrPUCDn2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013614110171250688/vrPUCDn2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17230018/1623868345",
+			"profile_link_color": "1ED760",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "ECEBE8",
+			"profile_text_color": "458DBF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9397,
+		"favorite_count": 30802,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Every Song That You Need #TodaysTopHits https://t.co/kg5VGxa8wK"
+	},
+	{
 		"created_at": "Fri Jun 25 13:52:52 +0000 2021",
 		"id": 1408422559763374000,
 		"id_str": "1408422949120528385",
