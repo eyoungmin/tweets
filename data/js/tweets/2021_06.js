@@ -1,6 +1,976 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 25 03:45:36 +0000 2021",
+		"id": 1408258650846552000,
+		"id_str": "1408270125267030018",
+		"full_text": "#Orbit! Today I bring you the beauties that have a master’s degree in 💃FLAWLESS💃\n\n#ViVi #KimLip #JinSoul and #Choerry are serving the ✨fab dot com dot org dot co dot kr✨\n\nCome see them live online!\nTickets🎟️https://t.co/t4jFlgTpKg\n\n#LOONA #이달의소녀 #PREMIERGREETING #AND https://t.co/sUqYPl1zZl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "ViVi",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						232,
+						238
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						239,
+						245
+					]
+				},
+				{
+					"text": "PREMIERGREETING",
+					"indices": [
+						246,
+						262
+					]
+				},
+				{
+					"text": "AND",
+					"indices": [
+						263,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t4jFlgTpKg",
+					"expanded_url": "https://mmt.fans/MOE4",
+					"display_url": "mmt.fans/MOE4",
+					"indices": [
+						207,
+						230
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1407551650055684000,
+					"id_str": "1407551650055684098",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E4igxKiVgAIepNi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4igxKiVgAIepNi.jpg",
+					"url": "https://t.co/sUqYPl1zZl",
+					"display_url": "pic.twitter.com/sUqYPl1zZl",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1408258650846552066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407551650055684000,
+					"id_str": "1407551650055684098",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E4igxKiVgAIepNi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4igxKiVgAIepNi.jpg",
+					"url": "https://t.co/sUqYPl1zZl",
+					"display_url": "pic.twitter.com/sUqYPl1zZl",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1408258650846552066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1407551662353305600,
+					"id_str": "1407551662353305602",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E4igx4WUUAIF_4p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4igx4WUUAIF_4p.jpg",
+					"url": "https://t.co/sUqYPl1zZl",
+					"display_url": "pic.twitter.com/sUqYPl1zZl",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1408258650846552066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1407551675003400200,
+					"id_str": "1407551675003400196",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E4igyneVcAQJg5C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4igyneVcAQJg5C.jpg",
+					"url": "https://t.co/sUqYPl1zZl",
+					"display_url": "pic.twitter.com/sUqYPl1zZl",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1408258650846552066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1407551686059520000,
+					"id_str": "1407551686059520005",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E4igzQqUcAUT5sI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4igzQqUcAUT5sI.jpg",
+					"url": "https://t.co/sUqYPl1zZl",
+					"display_url": "pic.twitter.com/sUqYPl1zZl",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1408258650846552066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. \nSTOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132057,
+			"friends_count": 101,
+			"listed_count": 275,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27227,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1592014887",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1210,
+		"favorite_count": 2564,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Orbit! Today I bring you the beauties that have a master’s degree in 💃FLAWLESS💃\n\n#ViVi #KimLip #JinSoul and #Choerry are serving the ✨fab dot com dot org dot co dot kr✨\n\nCome see them live online!\nTickets🎟️https://t.co/t4jFlgTpKg\n\n#LOONA #이달의소녀 #PREMIERGREETING #AND https://t.co/sUqYPl1zZl"
+	},
+	{
+		"created_at": "Fri Jun 25 03:25:25 +0000 2021",
+		"id": 1408265043351949300,
+		"id_str": "1408265043351949312",
+		"full_text": "#YoonA #윤아 #임윤아 \n융-보이스 | 윤아의 ASMR🤗🎙 | 잠이 솔솔 오는 과자파티💤 \nhttps://t.co/HeHj2i5kG9 \n \n#GirlsGeneration #소녀시대",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YoonA",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						81,
+						97
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						98,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HeHj2i5kG9",
+					"expanded_url": "https://www.youtube.com/watch?v=DWnwToKolZU",
+					"display_url": "youtube.com/watch?v=DWnwTo…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YoonA #윤아 #임윤아 \n융-보이스 | 윤아의 ASMR🤗🎙 | 잠이 솔솔 오는 과자파티💤 \nhttps://t.co/HeHj2i5kG9 \n \n#GirlsGeneration #소녀시대"
+	},
+	{
+		"created_at": "Fri Jun 25 03:12:21 +0000 2021",
+		"id": 1408261755978059800,
+		"id_str": "1408261755978059778",
+		"full_text": "#YG라이프 #YG엔터테인먼트 \n블랙핑크, ‘How You Like That’ MV 9억뷰 돌파..K팝 걸그룹 최단 기록 \nhttps://t.co/YuELuYlrJ0 \n \n#블랙핑크 #BLACKPINK https://t.co/EK1HZbMNF6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						102,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YuELuYlrJ0",
+					"expanded_url": "https://yg-life.com/archives/168583?lang=ko",
+					"display_url": "yg-life.com/archives/16858…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1408261754904318000,
+					"id_str": "1408261754904317954",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/E4smmtPXEAIYaWy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4smmtPXEAIYaWy.jpg",
+					"url": "https://t.co/EK1HZbMNF6",
+					"display_url": "pic.twitter.com/EK1HZbMNF6",
+					"expanded_url": "https://twitter.com/fromminn/status/1408261755978059778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 530,
+							"h": 795,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 530,
+							"h": 795,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408261754904318000,
+					"id_str": "1408261754904317954",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/E4smmtPXEAIYaWy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4smmtPXEAIYaWy.jpg",
+					"url": "https://t.co/EK1HZbMNF6",
+					"display_url": "pic.twitter.com/EK1HZbMNF6",
+					"expanded_url": "https://twitter.com/fromminn/status/1408261755978059778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 530,
+							"h": 795,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 530,
+							"h": 795,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트 \n블랙핑크, ‘How You Like That’ MV 9억뷰 돌파..K팝 걸그룹 최단 기록 \nhttps://t.co/YuELuYlrJ0 \n \n#블랙핑크 #BLACKPINK https://t.co/EK1HZbMNF6"
+	},
+	{
+		"created_at": "Fri Jun 25 03:06:09 +0000 2021",
+		"id": 1408259845124358100,
+		"id_str": "1408260195495473156",
+		"full_text": "2021 The Volunteers 1st Concert &lt;Join the TVT Club&gt; Ticket Open D-day!\n⠀\n오늘 저녁 6시 멜론티켓 @melon_ticket 에서 The Volunteers 단독콘서트 예매가 시작됩니다. 놓치지 마세요🗯\n⠀\n✔️ 공연 일시\n1회차 - 2021.7.15 (목) 8PM \n2회차 - 2021.7.16 (금) 8PM \n3회차 - 2021.7.17 (토) 6PM https://t.co/NCn1xS3t2m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melon_ticket",
+					"name": "비스트 팬미팅 티켓양도받아요",
+					"id": 2893614943,
+					"id_str": "2893614943",
+					"indices": [
+						93,
+						106
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1408259836739870700,
+					"id_str": "1408259836739870721",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/E4sk3DhUYAEKKyM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4sk3DhUYAEKKyM.jpg",
+					"url": "https://t.co/NCn1xS3t2m",
+					"display_url": "pic.twitter.com/NCn1xS3t2m",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1408259845124358145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408259836739870700,
+					"id_str": "1408259836739870721",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/E4sk3DhUYAEKKyM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4sk3DhUYAEKKyM.jpg",
+					"url": "https://t.co/NCn1xS3t2m",
+					"display_url": "pic.twitter.com/NCn1xS3t2m",
+					"expanded_url": "https://twitter.com/the__volunteers/status/1408259845124358145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3976,
+			"friends_count": 2,
+			"listed_count": 21,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391769603785646080/eULvwUPv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391769603785646080/eULvwUPv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1620658707",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2021 The Volunteers 1st Concert &lt;Join the TVT Club&gt; Ticket Open D-day!\n⠀\n오늘 저녁 6시 멜론티켓 @melon_ticket 에서 The Volunteers 단독콘서트 예매가 시작됩니다. 놓치지 마세요🗯\n⠀\n✔️ 공연 일시\n1회차 - 2021.7.15 (목) 8PM \n2회차 - 2021.7.16 (금) 8PM \n3회차 - 2021.7.17 (토) 6PM https://t.co/NCn1xS3t2m"
+	},
+	{
+		"created_at": "Fri Jun 25 03:06:09 +0000 2021",
+		"id": 1408259848232341500,
+		"id_str": "1408260195491356674",
+		"full_text": "4회차 - 2021.7.18 (일) 6PM\n5회차 - 2021.7.22 (목) 8PM \n6회차 - 2021.7.23 (금) 8PM \n7회차 - 2021.7.24 (토) 6PM \n8회차 - 2021.7.25 (일) 6PM \n⠀\n✔️ 공연 장소 : 홍대 롤링홀\n✔️ 티켓 가격 : 전석 88,000원\n✔️ 티켓 오픈 : 2021.6.25 (금) 6PM @멜론티켓",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1408259845124358100,
+		"in_reply_to_status_id_str": "1408259845124358145",
+		"in_reply_to_user_id": 1377916817486672000,
+		"in_reply_to_user_id_str": "1377916817486671873",
+		"in_reply_to_screen_name": "the__volunteers",
+		"user": {
+			"id": 1377916817486672000,
+			"id_str": "1377916817486671873",
+			"name": "The Volunteers",
+			"screen_name": "the__volunteers",
+			"location": "",
+			"description": "#TheVolunteers Official Twitter",
+			"url": "https://t.co/jElzaG0ZbC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jElzaG0ZbC",
+							"expanded_url": "https://www.youtube.com/watch?v=8w1o1JPdKi8",
+							"display_url": "youtube.com/watch?v=8w1o1J…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3976,
+			"friends_count": 2,
+			"listed_count": 21,
+			"created_at": "Fri Apr 02 09:32:33 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391769603785646080/eULvwUPv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391769603785646080/eULvwUPv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377916817486671873/1620658707",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "4회차 - 2021.7.18 (일) 6PM\n5회차 - 2021.7.22 (목) 8PM \n6회차 - 2021.7.23 (금) 8PM \n7회차 - 2021.7.24 (토) 6PM \n8회차 - 2021.7.25 (일) 6PM \n⠀\n✔️ 공연 장소 : 홍대 롤링홀\n✔️ 티켓 가격 : 전석 88,000원\n✔️ 티켓 오픈 : 2021.6.25 (금) 6PM @멜론티켓"
+	},
+	{
 		"created_at": "Fri Jun 25 02:29:38 +0000 2021",
 		"id": 1408241662304809000,
 		"id_str": "1408251007545524226",
