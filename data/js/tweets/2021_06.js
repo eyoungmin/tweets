@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 25 16:52:48 +0000 2021",
+		"id": 1408465475890303000,
+		"id_str": "1408468227429122049",
+		"full_text": "New transmission from @alienradiofm : Kaotican graphic generator (plus full, downloadable Kaotican font) https://t.co/HeFOZbLDLU 🚀⚡️💜 PH https://t.co/JqQE94tWSr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alienradiofm",
+					"name": "Alien Radio FM",
+					"id": 1373967953503326200,
+					"id_str": "1373967953503326209",
+					"indices": [
+						22,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HeFOZbLDLU",
+					"expanded_url": "https://www.coldplay.com/kaotican/",
+					"display_url": "coldplay.com/kaotican/",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1408465472237015000,
+					"id_str": "1408465472237015045",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/E4vf4ncXEAUCfwA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4vf4ncXEAUCfwA.jpg",
+					"url": "https://t.co/JqQE94tWSr",
+					"display_url": "pic.twitter.com/JqQE94tWSr",
+					"expanded_url": "https://twitter.com/coldplay/status/1408465475890302981/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 828,
+							"h": 968,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 968,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 582,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408465472237015000,
+					"id_str": "1408465472237015045",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/E4vf4ncXEAUCfwA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4vf4ncXEAUCfwA.jpg",
+					"url": "https://t.co/JqQE94tWSr",
+					"display_url": "pic.twitter.com/JqQE94tWSr",
+					"expanded_url": "https://twitter.com/coldplay/status/1408465475890302981/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 828,
+							"h": 968,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 968,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 582,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Kaotica",
+			"description": "The official Twitter of the band Coldplay. New single, Higher Power, out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23007352,
+			"friends_count": 759,
+			"listed_count": 42745,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1620345079",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 90,
+		"favorite_count": 754,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New transmission from @alienradiofm : Kaotican graphic generator (plus full, downloadable Kaotican font) https://t.co/HeFOZbLDLU 🚀⚡️💜 PH https://t.co/JqQE94tWSr"
+	},
+	{
 		"created_at": "Fri Jun 25 15:49:41 +0000 2021",
 		"id": 1408452343352512500,
 		"id_str": "1408452343352512518",
