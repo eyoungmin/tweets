@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 25 07:59:06 +0000 2021",
+		"id": 1408323275776659500,
+		"id_str": "1408333919414493188",
+		"full_text": "볼 한번만 찔러주세요😲\n라고 했을 뿐인데..\n이렇게나 많이 했답니다💓\n \n울 쥔님, 뭐 하나 해도 제대로 하는거😎 대충대충은 1도 없는 거 아시죠?\n사소한 요청도 풜펙하게 들어드립니다🙆‍♀️\n&lt;이거 해주세요!&gt; &lt;이거 궁금해요!&gt;\n지금 바로 #7117 말머리 [슬기zip] 달고 보내주세요📱(정보이용료 100원) https://t.co/yxwDYqg6CP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1408323272463110100,
+					"id_str": "1408323272463110145",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/E4tejgAUUAERo3m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4tejgAUUAERo3m.jpg",
+					"url": "https://t.co/yxwDYqg6CP",
+					"display_url": "pic.twitter.com/yxwDYqg6CP",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1408323275776659459/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408323272463110100,
+					"id_str": "1408323272463110145",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/E4tejgAUUAERo3m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4tejgAUUAERo3m.jpg",
+					"url": "https://t.co/yxwDYqg6CP",
+					"display_url": "pic.twitter.com/yxwDYqg6CP",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1408323275776659459/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32360,
+			"friends_count": 1,
+			"listed_count": 122,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1621911527",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1189,
+		"favorite_count": 2229,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "볼 한번만 찔러주세요😲\n라고 했을 뿐인데..\n이렇게나 많이 했답니다💓\n \n울 쥔님, 뭐 하나 해도 제대로 하는거😎 대충대충은 1도 없는 거 아시죠?\n사소한 요청도 풜펙하게 들어드립니다🙆‍♀️\n&lt;이거 해주세요!&gt; &lt;이거 궁금해요!&gt;\n지금 바로 #7117 말머리 [슬기zip] 달고 보내주세요📱(정보이용료 100원) https://t.co/yxwDYqg6CP"
+	},
+	{
 		"created_at": "Fri Jun 25 07:02:38 +0000 2021",
 		"id": 1408319709498462200,
 		"id_str": "1408319709498462212",
