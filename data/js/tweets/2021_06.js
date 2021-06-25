@@ -1,6 +1,392 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 25 13:52:52 +0000 2021",
+		"id": 1408422559763374000,
+		"id_str": "1408422949120528385",
+		"full_text": "One of my favourite shots from our recording sessions with Max Martin who is controlling the computer during a playback. Chris is controlling the volume and making sure it’s loud enough! Guy https://t.co/b3C4u7vUdv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1408422549717987300,
+					"id_str": "1408422549717987328",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/E4u42MmXMAAGe6F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4u42MmXMAAGe6F.jpg",
+					"url": "https://t.co/b3C4u7vUdv",
+					"display_url": "pic.twitter.com/b3C4u7vUdv",
+					"expanded_url": "https://twitter.com/coldplay/status/1408422559763374081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1249,
+							"h": 1561,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408422549717987300,
+					"id_str": "1408422549717987328",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/E4u42MmXMAAGe6F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4u42MmXMAAGe6F.jpg",
+					"url": "https://t.co/b3C4u7vUdv",
+					"display_url": "pic.twitter.com/b3C4u7vUdv",
+					"expanded_url": "https://twitter.com/coldplay/status/1408422559763374081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1249,
+							"h": 1561,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Kaotica",
+			"description": "The official Twitter of the band Coldplay. New single, Higher Power, out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23007348,
+			"friends_count": 759,
+			"listed_count": 42742,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8555,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1620345079",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 149,
+		"favorite_count": 1175,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One of my favourite shots from our recording sessions with Max Martin who is controlling the computer during a playback. Chris is controlling the volume and making sure it’s loud enough! Guy https://t.co/b3C4u7vUdv"
+	},
+	{
+		"created_at": "Fri Jun 25 13:45:37 +0000 2021",
+		"id": 1408409651729809400,
+		"id_str": "1408421122127843332",
+		"full_text": "#이달의소녀 &amp; #TwitterBlueroom💙 새 미니앨범 [&amp;] 발매를 기념해 트위터와 함께 우리만의 색으로 Paint The Town🎨 #Ask_LOONA 해시태그를 달고 이달의 소녀에게 궁금했던 질문을 보내 주세요💌 오는 6월 29일 10PM(KST) Twitter Blueroom을 통해 이달의 소녀가 직접 답변해 드립니다!\n\n#LOONA #AND https://t.co/bxlqVmG1kz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "TwitterBlueroom",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"text": "Ask_LOONA",
+					"indices": [
+						87,
+						97
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						196,
+						202
+					]
+				},
+				{
+					"text": "AND",
+					"indices": [
+						203,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1408401086814167000,
+					"id_str": "1408401086814167045",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/E4ulU5DVIAUCAUj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4ulU5DVIAUCAUj.jpg",
+					"url": "https://t.co/bxlqVmG1kz",
+					"display_url": "pic.twitter.com/bxlqVmG1kz",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1408409651729809410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408401086814167000,
+					"id_str": "1408401086814167045",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/E4ulU5DVIAUCAUj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4ulU5DVIAUCAUj.jpg",
+					"url": "https://t.co/bxlqVmG1kz",
+					"display_url": "pic.twitter.com/bxlqVmG1kz",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1408409651729809410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 748591,
+			"friends_count": 1,
+			"listed_count": 7506,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1602772120",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3811,
+		"favorite_count": 14018,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 &amp; #TwitterBlueroom💙 새 미니앨범 [&amp;] 발매를 기념해 트위터와 함께 우리만의 색으로 Paint The Town🎨 #Ask_LOONA 해시태그를 달고 이달의 소녀에게 궁금했던 질문을 보내 주세요💌 오는 6월 29일 10PM(KST) Twitter Blueroom을 통해 이달의 소녀가 직접 답변해 드립니다!\n\n#LOONA #AND https://t.co/bxlqVmG1kz"
+	},
+	{
 		"created_at": "Fri Jun 25 12:52:56 +0000 2021",
 		"id": 1408385569806110700,
 		"id_str": "1408407863773569025",
