@@ -1,6 +1,422 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 25 05:52:47 +0000 2021",
+		"id": 1408288845628588000,
+		"id_str": "1408302131673808897",
+		"full_text": "[POST] 청하 '내 입술 따뜻한 커피처럼' Live Clip 촬영 현장\n\n👀 https://t.co/EO1s0cE4Ml\n\n#청하 #CHUNGHA\n#내_입술_따뜻한_커피처럼 https://t.co/qdOZY8XDdU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "내_입술_따뜻한_커피처럼",
+					"indices": [
+						83,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EO1s0cE4Ml",
+					"expanded_url": "http://naver.me/x8lUSPbh",
+					"display_url": "naver.me/x8lUSPbh",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1407925052566216700,
+					"id_str": "1407925052566216704",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/E4n0YDSVIAAIBX9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4n0YDSVIAAIBX9.jpg",
+					"url": "https://t.co/qdOZY8XDdU",
+					"display_url": "pic.twitter.com/qdOZY8XDdU",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1408288845628588032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407925052566216700,
+					"id_str": "1407925052566216704",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/E4n0YDSVIAAIBX9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4n0YDSVIAAIBX9.jpg",
+					"url": "https://t.co/qdOZY8XDdU",
+					"display_url": "pic.twitter.com/qdOZY8XDdU",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1408288845628588032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1407925176797339600,
+					"id_str": "1407925176797339648",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/E4n0fSFVoAAQhxl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4n0fSFVoAAQhxl.jpg",
+					"url": "https://t.co/qdOZY8XDdU",
+					"display_url": "pic.twitter.com/qdOZY8XDdU",
+					"expanded_url": "https://twitter.com/CHUNGHA_MNHent/status/1408288845628588032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/uAFyf5T7B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAFyf5T7B0",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331033,
+			"friends_count": 0,
+			"listed_count": 2039,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1617289944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 355,
+		"favorite_count": 1448,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[POST] 청하 '내 입술 따뜻한 커피처럼' Live Clip 촬영 현장\n\n👀 https://t.co/EO1s0cE4Ml\n\n#청하 #CHUNGHA\n#내_입술_따뜻한_커피처럼 https://t.co/qdOZY8XDdU"
+	},
+	{
+		"created_at": "Fri Jun 25 05:16:03 +0000 2021",
+		"id": 1408288960632160300,
+		"id_str": "1408292885988986886",
+		"full_text": "#해피빈펀딩 및 오디오북 수익금은 아름다운재단을 통해 보호종료아동 자립 지원에 사용됩니다.\n \n해피빈 펀딩👉🏻https://t.co/Go7sE8GKUb\n오디오북👉🏻https://t.co/9OPKm9QMp6\n \n#SM엔터테인먼트 #소녀시대 #GirlsGeneration #아름다운재단 #열여덟어른 #안연주프로젝트 #세상을바꾸는작은변화",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "해피빈펀딩",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "SM엔터테인먼트",
+					"indices": [
+						117,
+						126
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						133,
+						149
+					]
+				},
+				{
+					"text": "아름다운재단",
+					"indices": [
+						150,
+						157
+					]
+				},
+				{
+					"text": "열여덟어른",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"text": "안연주프로젝트",
+					"indices": [
+						165,
+						173
+					]
+				},
+				{
+					"text": "세상을바꾸는작은변화",
+					"indices": [
+						174,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Go7sE8GKUb",
+					"expanded_url": "https://bit.ly/2T1lpyf",
+					"display_url": "bit.ly/2T1lpyf",
+					"indices": [
+						61,
+						84
+					]
+				},
+				{
+					"url": "https://t.co/9OPKm9QMp6",
+					"expanded_url": "https://bit.ly/35L5Ttp",
+					"display_url": "bit.ly/35L5Ttp",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1408288957968785400,
+		"in_reply_to_status_id_str": "1408288957968785411",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3631015,
+			"friends_count": 4,
+			"listed_count": 5390,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 233,
+		"favorite_count": 737,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#해피빈펀딩 및 오디오북 수익금은 아름다운재단을 통해 보호종료아동 자립 지원에 사용됩니다.\n \n해피빈 펀딩👉🏻https://t.co/Go7sE8GKUb\n오디오북👉🏻https://t.co/9OPKm9QMp6\n \n#SM엔터테인먼트 #소녀시대 #GirlsGeneration #아름다운재단 #열여덟어른 #안연주프로젝트 #세상을바꾸는작은변화"
+	},
+	{
 		"created_at": "Fri Jun 25 04:45:36 +0000 2021",
 		"id": 1408276538001289200,
 		"id_str": "1408285224547590147",
