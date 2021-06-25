@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 25 11:45:37 +0000 2021",
+		"id": 1408390904126181400,
+		"id_str": "1408390922346373123",
+		"full_text": "#Orbit!💫 Please remember that piracy hurts the artist, especially when they have worked so hard to create an unforgettable experience for their fans. The best way to support #LOONA and the staff who work behind the scenes is to stream legally🙏\n\n#이달의소녀 #PREMIERGREETING #AND https://t.co/iVFqfTDYLJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						245,
+						251
+					]
+				},
+				{
+					"text": "PREMIERGREETING",
+					"indices": [
+						252,
+						268
+					]
+				},
+				{
+					"text": "AND",
+					"indices": [
+						269,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1408390783640621000,
+					"id_str": "1408390783640621056",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E4ub9KvVUAAnAog.png",
+					"media_url_https": "https://pbs.twimg.com/media/E4ub9KvVUAAnAog.png",
+					"url": "https://t.co/iVFqfTDYLJ",
+					"display_url": "pic.twitter.com/iVFqfTDYLJ",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1408390904126181376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 599,
+							"h": 261,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 599,
+							"h": 261,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 599,
+							"h": 261,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408390783640621000,
+					"id_str": "1408390783640621056",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E4ub9KvVUAAnAog.png",
+					"media_url_https": "https://pbs.twimg.com/media/E4ub9KvVUAAnAog.png",
+					"url": "https://t.co/iVFqfTDYLJ",
+					"display_url": "pic.twitter.com/iVFqfTDYLJ",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1408390904126181376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 599,
+							"h": 261,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 599,
+							"h": 261,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 599,
+							"h": 261,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. \nSTOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132078,
+			"friends_count": 101,
+			"listed_count": 272,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1592014887",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 98,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Orbit!💫 Please remember that piracy hurts the artist, especially when they have worked so hard to create an unforgettable experience for their fans. The best way to support #LOONA and the staff who work behind the scenes is to stream legally🙏\n\n#이달의소녀 #PREMIERGREETING #AND https://t.co/iVFqfTDYLJ"
+	},
+	{
 		"created_at": "Fri Jun 25 10:53:18 +0000 2021",
 		"id": 1408375365228105700,
 		"id_str": "1408377757545992194",
@@ -566,7 +777,7 @@ Grailbird.data.tweets_2021_06 =
 		"created_at": "Fri Jun 25 10:52:53 +0000 2021",
 		"id": 1408374877568987100,
 		"id_str": "1408377654911373315",
-		"full_text": "안녕하세요 지젤입니다🌙 여러분~ 뮤직뱅크에서 저희 cat woman 무대 잼있게 잘 봤나욤~? 얼마 안 됐지만 오랜만에 무대에 선 것 같아서 좋았지옹🙈 \n빨리 보고 싶어요! ❤️‍🔥\n\n#aespa #æspa #에스파\n#GISELLE #지젤 \n#NextLevel https://t.co/M0GIndpq4Y",
+		"full_text": "안녕하세요 지젤입니다🌙 여러분~ 뮤직뱅크에서 저희 cat woman 무대 잼있게 잘 봤나욤~? 얼마 안 됐지만 오랜만에 무대에 선 것 같아서 좋았지옹🙈 \n빨리 보고 싶어요! ❤️🔥\n\n#aespa #æspa #에스파\n#GISELLE #지젤 \n#NextLevel https://t.co/M0GIndpq4Y",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -765,7 +976,7 @@ Grailbird.data.tweets_2021_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "안녕하세요 지젤입니다🌙 여러분~ 뮤직뱅크에서 저희 cat woman 무대 잼있게 잘 봤나욤~? 얼마 안 됐지만 오랜만에 무대에 선 것 같아서 좋았지옹🙈 \n빨리 보고 싶어요! ❤️‍🔥\n\n#aespa #æspa #에스파\n#GISELLE #지젤 \n#NextLevel https://t.co/M0GIndpq4Y"
+		"text": "안녕하세요 지젤입니다🌙 여러분~ 뮤직뱅크에서 저희 cat woman 무대 잼있게 잘 봤나욤~? 얼마 안 됐지만 오랜만에 무대에 선 것 같아서 좋았지옹🙈 \n빨리 보고 싶어요! ❤️🔥\n\n#aespa #æspa #에스파\n#GISELLE #지젤 \n#NextLevel https://t.co/M0GIndpq4Y"
 	},
 	{
 		"created_at": "Fri Jun 25 10:52:47 +0000 2021",
