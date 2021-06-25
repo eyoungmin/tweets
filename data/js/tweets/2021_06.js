@@ -1,10 +1,354 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 25 08:34:30 +0000 2021",
+		"id": 1408342826451181600,
+		"id_str": "1408342826451181573",
+		"full_text": "[티저] Yerin Baek [tellusboutyourself] Concept Photo 2 by. 블루바이닐\nhttps://t.co/JcNT6qk8AL https://t.co/0NcqLLF3e2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JcNT6qk8AL",
+					"expanded_url": "http://cafe.daum.net/YerinBaek/9Cgm/2",
+					"display_url": "cafe.daum.net/YerinBaek/9Cgm…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1408342824907645000,
+					"id_str": "1408342824907644931",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/E4twVmiXIAM7M3t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4twVmiXIAM7M3t.jpg",
+					"url": "https://t.co/0NcqLLF3e2",
+					"display_url": "pic.twitter.com/0NcqLLF3e2",
+					"expanded_url": "https://twitter.com/fromminn/status/1408342826451181573/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408342824907645000,
+					"id_str": "1408342824907644931",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/E4twVmiXIAM7M3t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4twVmiXIAM7M3t.jpg",
+					"url": "https://t.co/0NcqLLF3e2",
+					"display_url": "pic.twitter.com/0NcqLLF3e2",
+					"expanded_url": "https://twitter.com/fromminn/status/1408342826451181573/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81533,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[티저] Yerin Baek [tellusboutyourself] Concept Photo 2 by. 블루바이닐\nhttps://t.co/JcNT6qk8AL https://t.co/0NcqLLF3e2"
+	},
+	{
+		"created_at": "Fri Jun 25 08:34:24 +0000 2021",
+		"id": 1408342803457917000,
+		"id_str": "1408342803457916928",
+		"full_text": "[티저] Yerin Baek [tellusboutyourself] Concept Photo 1 by. 블루바이닐\nhttps://t.co/TWYmeffQ1K https://t.co/AySQ5q1G81",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TWYmeffQ1K",
+					"expanded_url": "http://cafe.daum.net/YerinBaek/9Cgm/1",
+					"display_url": "cafe.daum.net/YerinBaek/9Cgm…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1408342801981612000,
+					"id_str": "1408342801981612032",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/E4twURIXoAA-E7l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4twURIXoAA-E7l.jpg",
+					"url": "https://t.co/AySQ5q1G81",
+					"display_url": "pic.twitter.com/AySQ5q1G81",
+					"expanded_url": "https://twitter.com/fromminn/status/1408342803457916928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408342801981612000,
+					"id_str": "1408342801981612032",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/E4twURIXoAA-E7l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4twURIXoAA-E7l.jpg",
+					"url": "https://t.co/AySQ5q1G81",
+					"display_url": "pic.twitter.com/AySQ5q1G81",
+					"expanded_url": "https://twitter.com/fromminn/status/1408342803457916928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81533,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[티저] Yerin Baek [tellusboutyourself] Concept Photo 1 by. 블루바이닐\nhttps://t.co/TWYmeffQ1K https://t.co/AySQ5q1G81"
+	},
+	{
 		"created_at": "Fri Jun 25 07:59:06 +0000 2021",
 		"id": 1408323275776659500,
 		"id_str": "1408333919414493188",
-		"full_text": "볼 한번만 찔러주세요😲\n라고 했을 뿐인데..\n이렇게나 많이 했답니다💓\n \n울 쥔님, 뭐 하나 해도 제대로 하는거😎 대충대충은 1도 없는 거 아시죠?\n사소한 요청도 풜펙하게 들어드립니다🙆‍♀️\n&lt;이거 해주세요!&gt; &lt;이거 궁금해요!&gt;\n지금 바로 #7117 말머리 [슬기zip] 달고 보내주세요📱(정보이용료 100원) https://t.co/yxwDYqg6CP",
+		"full_text": "볼 한번만 찔러주세요😲\n라고 했을 뿐인데..\n이렇게나 많이 했답니다💓\n \n울 쥔님, 뭐 하나 해도 제대로 하는거😎 대충대충은 1도 없는 거 아시죠?\n사소한 요청도 풜펙하게 들어드립니다🙆♀️\n&lt;이거 해주세요!&gt; &lt;이거 궁금해요!&gt;\n지금 바로 #7117 말머리 [슬기zip] 달고 보내주세요📱(정보이용료 100원) https://t.co/yxwDYqg6CP",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -173,7 +517,7 @@ Grailbird.data.tweets_2021_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "볼 한번만 찔러주세요😲\n라고 했을 뿐인데..\n이렇게나 많이 했답니다💓\n \n울 쥔님, 뭐 하나 해도 제대로 하는거😎 대충대충은 1도 없는 거 아시죠?\n사소한 요청도 풜펙하게 들어드립니다🙆‍♀️\n&lt;이거 해주세요!&gt; &lt;이거 궁금해요!&gt;\n지금 바로 #7117 말머리 [슬기zip] 달고 보내주세요📱(정보이용료 100원) https://t.co/yxwDYqg6CP"
+		"text": "볼 한번만 찔러주세요😲\n라고 했을 뿐인데..\n이렇게나 많이 했답니다💓\n \n울 쥔님, 뭐 하나 해도 제대로 하는거😎 대충대충은 1도 없는 거 아시죠?\n사소한 요청도 풜펙하게 들어드립니다🙆♀️\n&lt;이거 해주세요!&gt; &lt;이거 궁금해요!&gt;\n지금 바로 #7117 말머리 [슬기zip] 달고 보내주세요📱(정보이용료 100원) https://t.co/yxwDYqg6CP"
 	},
 	{
 		"created_at": "Fri Jun 25 07:02:38 +0000 2021",
