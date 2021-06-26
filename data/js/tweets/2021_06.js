@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 26 20:52:47 +0000 2021",
+		"id": 1408883119365755000,
+		"id_str": "1408891012408397829",
+		"full_text": "happy one year anniversary to the wimpiiiest record we’ve ever made https://t.co/wvT3UhKdio",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1408883112352833500,
+					"id_str": "1408883112352833539",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/E41bueHWYAMQvNO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E41bueHWYAMQvNO.jpg",
+					"url": "https://t.co/wvT3UhKdio",
+					"display_url": "pic.twitter.com/wvT3UhKdio",
+					"expanded_url": "https://twitter.com/HAIMtheband/status/1408883119365754881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408883112352833500,
+					"id_str": "1408883112352833539",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/E41bueHWYAMQvNO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E41bueHWYAMQvNO.jpg",
+					"url": "https://t.co/wvT3UhKdio",
+					"display_url": "pic.twitter.com/wvT3UhKdio",
+					"expanded_url": "https://twitter.com/HAIMtheband/status/1408883119365754881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 126632581,
+			"id_str": "126632581",
+			"name": "HAIM",
+			"screen_name": "HAIMtheband",
+			"location": "",
+			"description": "gasoline (feat. taylor swift) + 3 am (feat. thundercat) out now",
+			"url": "https://t.co/Symo2VZ73P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Symo2VZ73P",
+							"expanded_url": "https://haim.lnk.to/WIMPIIIExpanded",
+							"display_url": "haim.lnk.to/WIMPIIIExpanded",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1192905,
+			"friends_count": 437,
+			"listed_count": 2329,
+			"created_at": "Fri Mar 26 13:59:02 +0000 2010",
+			"favourites_count": 2092,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234510519593136128/e995Dxra_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234510519593136128/e995Dxra_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/126632581/1583165220",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 410,
+		"favorite_count": 3877,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "happy one year anniversary to the wimpiiiest record we’ve ever made https://t.co/wvT3UhKdio"
+	},
+	{
 		"created_at": "Sat Jun 26 15:52:48 +0000 2021",
 		"id": 1408805599790440400,
 		"id_str": "1408815515569643523",
@@ -212,7 +387,7 @@ Grailbird.data.tweets_2021_06 =
 			"name": "Attitude",
 			"screen_name": "AttitudeMag",
 			"location": "",
-			"description": "The UK & Europe's best-selling LGBTQ magazine 🏳️‍🌈 Download: https://t.co/TkzWtTg5Qo Subscribe: https://t.co/UNetSOylxm Direct delivery: https://t.co/Zt4gk2pLTJ",
+			"description": "The UK & Europe's best-selling LGBTQ magazine 🏳️🌈 Download: https://t.co/TkzWtTg5Qo Subscribe: https://t.co/UNetSOylxm Direct delivery: https://t.co/Zt4gk2pLTJ",
 			"url": "https://t.co/KPDn3WSs9x",
 			"entities": {
 				"url": {
