@@ -1,6 +1,617 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 26 03:45:39 +0000 2021",
+		"id": 1408623830793285600,
+		"id_str": "1408632522020360194",
+		"full_text": "[코코몽 x 이달의 소녀]\n뮤직비디오 스트리밍 이벵뚜❤️\n사진처럼 뮤직비디오 시작, 마지막 화면을 시간과 함께 캡쳐 해서 멘션으로 달아주라몽!\n*포토카드 12명 추첨\n❗️마니마니 참여할수록 당첨 확률이 높아진다몽!\n\nhttps://t.co/IUwfD9DApe\n\n#YumYum🐵\n#코코몽 \n#온세상_소시지_꽁다리_흔들어 https://t.co/0IXc1vTKfr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YumYum",
+					"indices": [
+						146,
+						153
+					]
+				},
+				{
+					"text": "코코몽",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "온세상_소시지_꽁다리_흔들어",
+					"indices": [
+						161,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IUwfD9DApe",
+					"expanded_url": "http://youtu.be/D0f26VyDJhA",
+					"display_url": "youtu.be/D0f26VyDJhA",
+					"indices": [
+						121,
+						144
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1408623824006914000,
+					"id_str": "1408623824006914054",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/E4xv55wVoAY5t_Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4xv55wVoAY5t_Y.jpg",
+					"url": "https://t.co/0IXc1vTKfr",
+					"display_url": "pic.twitter.com/0IXc1vTKfr",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1408623830793285633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 851,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1649,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408623824006914000,
+					"id_str": "1408623824006914054",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/E4xv55wVoAY5t_Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4xv55wVoAY5t_Y.jpg",
+					"url": "https://t.co/0IXc1vTKfr",
+					"display_url": "pic.twitter.com/0IXc1vTKfr",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1408623830793285633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 851,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1649,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1408623824476655600,
+					"id_str": "1408623824476655620",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/E4xv57gVUAQYIK1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4xv57gVUAQYIK1.jpg",
+					"url": "https://t.co/0IXc1vTKfr",
+					"display_url": "pic.twitter.com/0IXc1vTKfr",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1408623830793285633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 853,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1645,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097461345677500400,
+			"id_str": "1097461345677500417",
+			"name": "코코몽",
+			"screen_name": "cocomong_kr",
+			"location": "냉장고나라 ",
+			"description": "코코몽(냉장고 코씨,12살) 회사 몰래하는 케이팝 덕질계정🙈",
+			"url": "https://t.co/srDteO8EOb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/srDteO8EOb",
+							"expanded_url": "https://www.instagram.com/cocomong.official",
+							"display_url": "instagram.com/cocomong.offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3667,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+			"favourites_count": 1573,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[코코몽 x 이달의 소녀]\n뮤직비디오 스트리밍 이벵뚜❤️\n사진처럼 뮤직비디오 시작, 마지막 화면을 시간과 함께 캡쳐 해서 멘션으로 달아주라몽!\n*포토카드 12명 추첨\n❗️마니마니 참여할수록 당첨 확률이 높아진다몽!\n\nhttps://t.co/IUwfD9DApe\n\n#YumYum🐵\n#코코몽 \n#온세상_소시지_꽁다리_흔들어 https://t.co/0IXc1vTKfr"
+	},
+	{
+		"created_at": "Sat Jun 26 03:45:36 +0000 2021",
+		"id": 1408621035788718000,
+		"id_str": "1408632513074012161",
+		"full_text": "Oh. My. Gosh. #Orbit. Let me TELL you. You aren’t ready for this!\n\n#Yves #Chuu #GoWon and #OliviaHye have no mercy! They don’t just get cute. They get 😍drop-dead GORGEOUS!🌹\n\nHave fun with @loonatheworld!\nTickets🎟️https://t.co/2mXBBSXD5R\n\n#LOONA #이달의소녀 #PREMIERGREETING #AND https://t.co/fZ4rNneJ8Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						90,
+						100
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						238,
+						244
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						245,
+						251
+					]
+				},
+				{
+					"text": "PREMIERGREETING",
+					"indices": [
+						252,
+						268
+					]
+				},
+				{
+					"text": "AND",
+					"indices": [
+						269,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						188,
+						202
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2mXBBSXD5R",
+					"expanded_url": "https://mmt.fans/MOr3",
+					"display_url": "mmt.fans/MOr3",
+					"indices": [
+						213,
+						236
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1408266718816784400,
+					"id_str": "1408266718816784384",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E4srHpQUUAAjWT0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4srHpQUUAAjWT0.jpg",
+					"url": "https://t.co/fZ4rNneJ8Y",
+					"display_url": "pic.twitter.com/fZ4rNneJ8Y",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1408621035788718082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408266718816784400,
+					"id_str": "1408266718816784384",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E4srHpQUUAAjWT0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4srHpQUUAAjWT0.jpg",
+					"url": "https://t.co/fZ4rNneJ8Y",
+					"display_url": "pic.twitter.com/fZ4rNneJ8Y",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1408621035788718082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1408266731101982700,
+					"id_str": "1408266731101982724",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E4srIXBVkAQp88K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4srIXBVkAQp88K.jpg",
+					"url": "https://t.co/fZ4rNneJ8Y",
+					"display_url": "pic.twitter.com/fZ4rNneJ8Y",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1408621035788718082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1408266744339210200,
+					"id_str": "1408266744339210242",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E4srJIVVoAInVX3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4srJIVVoAInVX3.jpg",
+					"url": "https://t.co/fZ4rNneJ8Y",
+					"display_url": "pic.twitter.com/fZ4rNneJ8Y",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1408621035788718082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1408266757513519000,
+					"id_str": "1408266757513519109",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E4srJ5aVoAUwAd-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4srJ5aVoAUwAd-.jpg",
+					"url": "https://t.co/fZ4rNneJ8Y",
+					"display_url": "pic.twitter.com/fZ4rNneJ8Y",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1408621035788718082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. \nSTOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132167,
+			"friends_count": 101,
+			"listed_count": 272,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1592014887",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1415,
+		"favorite_count": 3150,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oh. My. Gosh. #Orbit. Let me TELL you. You aren’t ready for this!\n\n#Yves #Chuu #GoWon and #OliviaHye have no mercy! They don’t just get cute. They get 😍drop-dead GORGEOUS!🌹\n\nHave fun with @loonatheworld!\nTickets🎟️https://t.co/2mXBBSXD5R\n\n#LOONA #이달의소녀 #PREMIERGREETING #AND https://t.co/fZ4rNneJ8Y"
+	},
+	{
 		"created_at": "Sat Jun 26 01:02:06 +0000 2021",
 		"id": 1408591365009772500,
 		"id_str": "1408591365009772547",
