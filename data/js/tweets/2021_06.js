@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 26 15:52:48 +0000 2021",
+		"id": 1408805599790440400,
+		"id_str": "1408815515569643523",
+		"full_text": "Less than TWO HOURS to go until the Attitude Pride at Home Closing Party, in partnership with Klarna! 🌈⏰ \n\nhttps://t.co/8HHDi37pUi\n\nSet a reminder and watch LIVE from 6pm BST ➡️ https://t.co/P2Fjfs5hoe\n\n#PrideAtHome #Klarna https://t.co/fgkZN0SZko",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PrideAtHome",
+					"indices": [
+						203,
+						215
+					]
+				},
+				{
+					"text": "Klarna",
+					"indices": [
+						216,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8HHDi37pUi",
+					"expanded_url": "https://attitude.co.uk/article/anne-marie-sigrid-and-more-headline-attitude-pride-at-home-closing-party-in-partnership-with-klarna/25256/",
+					"display_url": "attitude.co.uk/article/anne-m…",
+					"indices": [
+						107,
+						130
+					]
+				},
+				{
+					"url": "https://t.co/P2Fjfs5hoe",
+					"expanded_url": "http://bit.ly/3wZXY7e",
+					"display_url": "bit.ly/3wZXY7e",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1408805587698192400,
+					"id_str": "1408805587698192391",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/E40VN8RWEAc8QFt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E40VN8RWEAc8QFt.jpg",
+					"url": "https://t.co/fgkZN0SZko",
+					"display_url": "pic.twitter.com/fgkZN0SZko",
+					"expanded_url": "https://twitter.com/AttitudeMag/status/1408805599790440471/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408805587698192400,
+					"id_str": "1408805587698192391",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/E40VN8RWEAc8QFt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E40VN8RWEAc8QFt.jpg",
+					"url": "https://t.co/fgkZN0SZko",
+					"display_url": "pic.twitter.com/fgkZN0SZko",
+					"expanded_url": "https://twitter.com/AttitudeMag/status/1408805599790440471/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1408805587698266000,
+					"id_str": "1408805587698266112",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/E40VN8RXMAAYWdR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E40VN8RXMAAYWdR.jpg",
+					"url": "https://t.co/fgkZN0SZko",
+					"display_url": "pic.twitter.com/fgkZN0SZko",
+					"expanded_url": "https://twitter.com/AttitudeMag/status/1408805599790440471/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1408805587702456300,
+					"id_str": "1408805587702456329",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/E40VN8SXIAkUgFT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E40VN8SXIAkUgFT.jpg",
+					"url": "https://t.co/fgkZN0SZko",
+					"display_url": "pic.twitter.com/fgkZN0SZko",
+					"expanded_url": "https://twitter.com/AttitudeMag/status/1408805599790440471/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21748010,
+			"id_str": "21748010",
+			"name": "Attitude",
+			"screen_name": "AttitudeMag",
+			"location": "",
+			"description": "The UK & Europe's best-selling LGBTQ magazine 🏳️‍🌈 Download: https://t.co/TkzWtTg5Qo Subscribe: https://t.co/UNetSOylxm Direct delivery: https://t.co/Zt4gk2pLTJ",
+			"url": "https://t.co/KPDn3WSs9x",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KPDn3WSs9x",
+							"expanded_url": "http://www.attitude.co.uk",
+							"display_url": "attitude.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TkzWtTg5Qo",
+							"expanded_url": "http://bit.ly/2UVvoD0",
+							"display_url": "bit.ly/2UVvoD0",
+							"indices": [
+								61,
+								84
+							]
+						},
+						{
+							"url": "https://t.co/UNetSOylxm",
+							"expanded_url": "http://bit.ly/2S2gLiN",
+							"display_url": "bit.ly/2S2gLiN",
+							"indices": [
+								96,
+								119
+							]
+						},
+						{
+							"url": "https://t.co/Zt4gk2pLTJ",
+							"expanded_url": "http://bit.ly/3eaQ8Ox",
+							"display_url": "bit.ly/3eaQ8Ox",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 177011,
+			"friends_count": 18713,
+			"listed_count": 1324,
+			"created_at": "Tue Feb 24 12:04:52 +0000 2009",
+			"favourites_count": 9295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 82617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FA743E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1405210792425754626/uYL-ydz5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1405210792425754626/uYL-ydz5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21748010/1623863337",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Less than TWO HOURS to go until the Attitude Pride at Home Closing Party, in partnership with Klarna! 🌈⏰ \n\nhttps://t.co/8HHDi37pUi\n\nSet a reminder and watch LIVE from 6pm BST ➡️ https://t.co/P2Fjfs5hoe\n\n#PrideAtHome #Klarna https://t.co/fgkZN0SZko"
+	},
+	{
 		"created_at": "Sat Jun 26 13:52:47 +0000 2021",
 		"id": 1408782837977735200,
 		"id_str": "1408785316018806794",
