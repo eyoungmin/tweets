@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 26 13:52:47 +0000 2021",
+		"id": 1408782837977735200,
+		"id_str": "1408785316018806794",
+		"full_text": "ITZY 선배님 감사합니다~!!💟\n오늘 저희 드림콘서트에서 드디어 만날 수 있어서 너무 기뻐요!! 음료수 사주셔서 너무 감사해요🥰 \n\n#ITZY #있지 @ITZYofficial \n#aespa #æspa #에스파 https://t.co/bd8pgsKkQL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ITZY",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "있지",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						113,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ITZYofficial",
+					"name": "ITZY",
+					"id": 1062578718214770700,
+					"id_str": "1062578718214770688",
+					"indices": [
+						85,
+						98
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1408782829505314800,
+					"id_str": "1408782829505314817",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E40AhPZVgAEDB2q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E40AhPZVgAEDB2q.jpg",
+					"url": "https://t.co/bd8pgsKkQL",
+					"display_url": "pic.twitter.com/bd8pgsKkQL",
+					"expanded_url": "https://twitter.com/aespa_official/status/1408782837977735171/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408782829505314800,
+					"id_str": "1408782829505314817",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E40AhPZVgAEDB2q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E40AhPZVgAEDB2q.jpg",
+					"url": "https://t.co/bd8pgsKkQL",
+					"display_url": "pic.twitter.com/bd8pgsKkQL",
+					"expanded_url": "https://twitter.com/aespa_official/status/1408782837977735171/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1137696,
+			"friends_count": 1,
+			"listed_count": 4371,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15937,
+		"favorite_count": 34632,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ITZY 선배님 감사합니다~!!💟\n오늘 저희 드림콘서트에서 드디어 만날 수 있어서 너무 기뻐요!! 음료수 사주셔서 너무 감사해요🥰 \n\n#ITZY #있지 @ITZYofficial \n#aespa #æspa #에스파 https://t.co/bd8pgsKkQL"
+	},
+	{
 		"created_at": "Sat Jun 26 12:53:01 +0000 2021",
 		"id": 1408756881774977000,
 		"id_str": "1408770273957093382",
