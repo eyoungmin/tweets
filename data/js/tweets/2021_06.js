@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 27 06:45:43 +0000 2021",
+		"id": 1409036539514941400,
+		"id_str": "1409040226052362241",
+		"full_text": "Only 30 minutes left! Come join us in the chat room #Orbit!\nGet ready to watch 이달의 소녀 Premier Greeting [D&amp;D]💫\n\nStreaming🔗 | 스트리밍 링크\nhttps://t.co/XP2e4kUw89\n\nIf you haven’t already, grab tix now!\n🎟️https://t.co/jFPW2jBFR1\n\n#LOONA #이달의소녀 #PREMIERGREETING #AND https://t.co/H1eRjKRLjR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						226,
+						232
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						233,
+						239
+					]
+				},
+				{
+					"text": "PREMIERGREETING",
+					"indices": [
+						240,
+						256
+					]
+				},
+				{
+					"text": "AND",
+					"indices": [
+						257,
+						261
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XP2e4kUw89",
+					"expanded_url": "https://mmt.fans/MatE",
+					"display_url": "mmt.fans/MatE",
+					"indices": [
+						136,
+						159
+					]
+				},
+				{
+					"url": "https://t.co/jFPW2jBFR1",
+					"expanded_url": "https://mmt.fans/Ma7H",
+					"display_url": "mmt.fans/Ma7H",
+					"indices": [
+						201,
+						224
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1409036505507537000,
+					"id_str": "1409036505507536904",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/E43nPIJVoAgSC8c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E43nPIJVoAgSC8c.jpg",
+					"url": "https://t.co/H1eRjKRLjR",
+					"display_url": "pic.twitter.com/H1eRjKRLjR",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1409036539514941441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409036505507537000,
+					"id_str": "1409036505507536904",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/E43nPIJVoAgSC8c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E43nPIJVoAgSC8c.jpg",
+					"url": "https://t.co/H1eRjKRLjR",
+					"display_url": "pic.twitter.com/H1eRjKRLjR",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1409036539514941441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. \nSTOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132291,
+			"friends_count": 101,
+			"listed_count": 271,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1592014887",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 116,
+		"favorite_count": 377,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Only 30 minutes left! Come join us in the chat room #Orbit!\nGet ready to watch 이달의 소녀 Premier Greeting [D&amp;D]💫\n\nStreaming🔗 | 스트리밍 링크\nhttps://t.co/XP2e4kUw89\n\nIf you haven’t already, grab tix now!\n🎟️https://t.co/jFPW2jBFR1\n\n#LOONA #이달의소녀 #PREMIERGREETING #AND https://t.co/H1eRjKRLjR"
+	},
+	{
 		"created_at": "Sun Jun 27 05:45:37 +0000 2021",
 		"id": 1409013621951135700,
 		"id_str": "1409025101085958144",
