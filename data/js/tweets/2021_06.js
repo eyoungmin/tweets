@@ -1,6 +1,1166 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 27 04:45:42 +0000 2021",
+		"id": 1409006072354926600,
+		"id_str": "1409010023330680832",
+		"full_text": "#Orbit! The countdown is happening!\n\nDon’t forget to check your timezone and make sure you log into your account on time for the show!\n\nLess than 3 hours left!\nGet your 🎟️https://t.co/2POyeWnjDZ\n\n#LOONA #이달의소녀 #PREMIERGREETING #AND https://t.co/NfBH2PBHZp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						196,
+						202
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						203,
+						209
+					]
+				},
+				{
+					"text": "PREMIERGREETING",
+					"indices": [
+						210,
+						226
+					]
+				},
+				{
+					"text": "AND",
+					"indices": [
+						227,
+						231
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2POyeWnjDZ",
+					"expanded_url": "https://mmt.fans/MafO",
+					"display_url": "mmt.fans/MafO",
+					"indices": [
+						171,
+						194
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1408992932573581300,
+					"id_str": "1408992932573581312",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/E42_m2UVkAATDHa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E42_m2UVkAATDHa.jpg",
+					"url": "https://t.co/NfBH2PBHZp",
+					"display_url": "pic.twitter.com/NfBH2PBHZp",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1409006072354926594/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 653,
+							"h": 632,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 653,
+							"h": 632,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 653,
+							"h": 632,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408992932573581300,
+					"id_str": "1408992932573581312",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/E42_m2UVkAATDHa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E42_m2UVkAATDHa.jpg",
+					"url": "https://t.co/NfBH2PBHZp",
+					"display_url": "pic.twitter.com/NfBH2PBHZp",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1409006072354926594/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 653,
+							"h": 632,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 653,
+							"h": 632,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 653,
+							"h": 632,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. \nSTOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132276,
+			"friends_count": 101,
+			"listed_count": 271,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1592014887",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 122,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Orbit! The countdown is happening!\n\nDon’t forget to check your timezone and make sure you log into your account on time for the show!\n\nLess than 3 hours left!\nGet your 🎟️https://t.co/2POyeWnjDZ\n\n#LOONA #이달의소녀 #PREMIERGREETING #AND https://t.co/NfBH2PBHZp"
+	},
+	{
+		"created_at": "Sun Jun 27 04:45:37 +0000 2021",
+		"id": 1408998523584925700,
+		"id_str": "1409010001679630337",
+		"full_text": "If you purchased the VVIP PACKAGE, don’t forget that you have the side stage view you can swap into!\n\nGet it now with your tix!\n💌6.27 이달의 소녀 Premier Greeting [D&amp;D]\n💌6.28 이달의 소녀 ON WAVE [&amp;]\n\n🎫https://t.co/bSEhd1e6ll\n\n#LOONA #이달의소녀 #PREMIERGREETING #AND https://t.co/rBcy3QFg1a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						224,
+						230
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						231,
+						237
+					]
+				},
+				{
+					"text": "PREMIERGREETING",
+					"indices": [
+						238,
+						254
+					]
+				},
+				{
+					"text": "AND",
+					"indices": [
+						255,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bSEhd1e6ll",
+					"expanded_url": "https://mmt.fans/Manr",
+					"display_url": "mmt.fans/Manr",
+					"indices": [
+						199,
+						222
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1408992258636980200,
+					"id_str": "1408992258636980227",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/E42-_ntVIAMIINY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E42-_ntVIAMIINY.jpg",
+					"url": "https://t.co/rBcy3QFg1a",
+					"display_url": "pic.twitter.com/rBcy3QFg1a",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1408998523584925699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 438,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 799,
+							"h": 1240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 773,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408992258636980200,
+					"id_str": "1408992258636980227",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/E42-_ntVIAMIINY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E42-_ntVIAMIINY.jpg",
+					"url": "https://t.co/rBcy3QFg1a",
+					"display_url": "pic.twitter.com/rBcy3QFg1a",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1408998523584925699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 438,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 799,
+							"h": 1240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 773,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1408992297534910500,
+					"id_str": "1408992297534910464",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/E42_B4nUcAAmu0Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E42_B4nUcAAmu0Y.jpg",
+					"url": "https://t.co/rBcy3QFg1a",
+					"display_url": "pic.twitter.com/rBcy3QFg1a",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1408998523584925699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1246,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 770,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 437,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. \nSTOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132276,
+			"friends_count": 101,
+			"listed_count": 271,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1592014887",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you purchased the VVIP PACKAGE, don’t forget that you have the side stage view you can swap into!\n\nGet it now with your tix!\n💌6.27 이달의 소녀 Premier Greeting [D&amp;D]\n💌6.28 이달의 소녀 ON WAVE [&amp;]\n\n🎫https://t.co/bSEhd1e6ll\n\n#LOONA #이달의소녀 #PREMIERGREETING #AND https://t.co/rBcy3QFg1a"
+	},
+	{
+		"created_at": "Sun Jun 27 04:11:43 +0000 2021",
+		"id": 1408374721838682000,
+		"id_str": "1409001473522888710",
+		"full_text": "안녕하세요 닝닝입니다🦋 여러분 저희 오늘 뮤직뱅크 상반기 결산에 나오게 되었어요 🤗🥰~~~저희 캣우먼 컨셉으로 무대했는데 재밌게 보셨나용? 💕💕\n\n#aespa #æspa #에스파\n#NINGNING #닝닝 \n#NextLevel https://t.co/7zSncFN1tN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "NINGNING",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"text": "닝닝",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						115,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1408374715068993500,
+					"id_str": "1408374715068993541",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/E4uNV2pUUAUlWm3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4uNV2pUUAUlWm3.jpg",
+					"url": "https://t.co/7zSncFN1tN",
+					"display_url": "pic.twitter.com/7zSncFN1tN",
+					"expanded_url": "https://twitter.com/aespa_official/status/1408374721838682113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408374715068993500,
+					"id_str": "1408374715068993541",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/E4uNV2pUUAUlWm3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4uNV2pUUAUlWm3.jpg",
+					"url": "https://t.co/7zSncFN1tN",
+					"display_url": "pic.twitter.com/7zSncFN1tN",
+					"expanded_url": "https://twitter.com/aespa_official/status/1408374721838682113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1408374715073273900,
+					"id_str": "1408374715073273863",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/E4uNV2qVoAcRBKZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4uNV2qVoAcRBKZ.jpg",
+					"url": "https://t.co/7zSncFN1tN",
+					"display_url": "pic.twitter.com/7zSncFN1tN",
+					"expanded_url": "https://twitter.com/aespa_official/status/1408374721838682113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1408374715073261600,
+					"id_str": "1408374715073261573",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/E4uNV2qVcAUInYT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4uNV2qVcAUInYT.jpg",
+					"url": "https://t.co/7zSncFN1tN",
+					"display_url": "pic.twitter.com/7zSncFN1tN",
+					"expanded_url": "https://twitter.com/aespa_official/status/1408374721838682113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1144010,
+			"friends_count": 1,
+			"listed_count": 4386,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24016,
+		"favorite_count": 76565,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요 닝닝입니다🦋 여러분 저희 오늘 뮤직뱅크 상반기 결산에 나오게 되었어요 🤗🥰~~~저희 캣우먼 컨셉으로 무대했는데 재밌게 보셨나용? 💕💕\n\n#aespa #æspa #에스파\n#NINGNING #닝닝 \n#NextLevel https://t.co/7zSncFN1tN"
+	},
+	{
+		"created_at": "Sun Jun 27 04:10:46 +0000 2021",
+		"id": 1408621136796000300,
+		"id_str": "1409001232128122884",
+		"full_text": "PTT（Paint The Town）Japanese Ver.の配信を記念して、SPECIAL CLIPを6.27（sun）pm13:00に（JST）🎥YouTubeにてプレミア公開！\n世界中のOrbitとリアルタイムで盛り上がりましょう😉\n\n#이달의소녀　#LOONA #loonatheworld_jp_official\n\nLOONA SPECIAL CLIP URL：https://t.co/VkRf0bWzfJ https://t.co/muTDvKEdRN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						130,
+						136
+					]
+				},
+				{
+					"text": "loonatheworld_jp_official",
+					"indices": [
+						137,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VkRf0bWzfJ",
+					"expanded_url": "http://youtu.be/YKVp0t1eqQM",
+					"display_url": "youtu.be/YKVp0t1eqQM",
+					"indices": [
+						188,
+						211
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1408621132870156300,
+					"id_str": "1408621132870156293",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/E4xtdQfVgAUWEco.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4xtdQfVgAUWEco.jpg",
+					"url": "https://t.co/muTDvKEdRN",
+					"display_url": "pic.twitter.com/muTDvKEdRN",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1408621136796000260/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408621132870156300,
+					"id_str": "1408621132870156293",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/E4xtdQfVgAUWEco.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4xtdQfVgAUWEco.jpg",
+					"url": "https://t.co/muTDvKEdRN",
+					"display_url": "pic.twitter.com/muTDvKEdRN",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1408621136796000260/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26190,
+			"friends_count": 1,
+			"listed_count": 173,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2278,
+		"favorite_count": 7806,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "PTT（Paint The Town）Japanese Ver.の配信を記念して、SPECIAL CLIPを6.27（sun）pm13:00に（JST）🎥YouTubeにてプレミア公開！\n世界中のOrbitとリアルタイムで盛り上がりましょう😉\n\n#이달의소녀　#LOONA #loonatheworld_jp_official\n\nLOONA SPECIAL CLIP URL：https://t.co/VkRf0bWzfJ https://t.co/muTDvKEdRN"
+	},
+	{
+		"created_at": "Sun Jun 27 04:10:34 +0000 2021",
+		"id": 1408756339594039300,
+		"id_str": "1409001182144516099",
+		"full_text": "안녕하세요 윈터입니다❄️ 저희가 드림콘서트에 함께하게 되었어요!! 저희 에스파가 팬분들과 소통을 조금이나마 더 할 수 있어서 너무 기쁘고 좋은 경험이 된 것 같아서 너무 좋아요😊 내년 드림콘서트 때는 꼭 함께 하길 빌께용!! 사랑해요🤍\n\n#aespa #æspa #에스파\n#WINTER #윈터 \n#NextLevel https://t.co/26RiAMUrH2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						151,
+						158
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						159,
+						162
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						164,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1408756333311008800,
+					"id_str": "1408756333311008778",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/E4zoa9YVoAo6e1_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4zoa9YVoAo6e1_.jpg",
+					"url": "https://t.co/26RiAMUrH2",
+					"display_url": "pic.twitter.com/26RiAMUrH2",
+					"expanded_url": "https://twitter.com/aespa_official/status/1408756339594039299/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408756333311008800,
+					"id_str": "1408756333311008778",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/E4zoa9YVoAo6e1_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4zoa9YVoAo6e1_.jpg",
+					"url": "https://t.co/26RiAMUrH2",
+					"display_url": "pic.twitter.com/26RiAMUrH2",
+					"expanded_url": "https://twitter.com/aespa_official/status/1408756339594039299/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1144010,
+			"friends_count": 1,
+			"listed_count": 4386,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18989,
+		"favorite_count": 61298,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요 윈터입니다❄️ 저희가 드림콘서트에 함께하게 되었어요!! 저희 에스파가 팬분들과 소통을 조금이나마 더 할 수 있어서 너무 기쁘고 좋은 경험이 된 것 같아서 너무 좋아요😊 내년 드림콘서트 때는 꼭 함께 하길 빌께용!! 사랑해요🤍\n\n#aespa #æspa #에스파\n#WINTER #윈터 \n#NextLevel https://t.co/26RiAMUrH2"
+	},
+	{
 		"created_at": "Sun Jun 27 03:45:42 +0000 2021",
 		"id": 1408991223843459000,
 		"id_str": "1408994924029169664",
