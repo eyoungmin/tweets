@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 27 13:45:37 +0000 2021",
+		"id": 1409134422599819300,
+		"id_str": "1409145897057927168",
+		"full_text": "They’re getting ready to drop their 4th mini album, and then come for their OT12 ONLINE LIVE concert of 2021 #Orbit!\n\nOnly 24 hours⏰ left!\n이달의 소녀 ON WAVE [LOOΠΔTHEWORLD : &amp;] 💫\n\nGrab tix for tomorrow’s concert!\n🎟️https://t.co/JykL5FIkCj\n\n#LOONA #이달의소녀 #CONCERT #AND https://t.co/f1vwwclwqf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						241,
+						247
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						248,
+						254
+					]
+				},
+				{
+					"text": "CONCERT",
+					"indices": [
+						255,
+						263
+					]
+				},
+				{
+					"text": "AND",
+					"indices": [
+						264,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JykL5FIkCj",
+					"expanded_url": "https://mmt.fans/MacI",
+					"display_url": "mmt.fans/MacI",
+					"indices": [
+						216,
+						239
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1409047079033335800,
+					"id_str": "1409047079033335809",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/E43w2lmVcAE0JUs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E43w2lmVcAE0JUs.jpg",
+					"url": "https://t.co/f1vwwclwqf",
+					"display_url": "pic.twitter.com/f1vwwclwqf",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1409134422599819264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1980,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409047079033335800,
+					"id_str": "1409047079033335809",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/E43w2lmVcAE0JUs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E43w2lmVcAE0JUs.jpg",
+					"url": "https://t.co/f1vwwclwqf",
+					"display_url": "pic.twitter.com/f1vwwclwqf",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1409134422599819264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1980,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. \nSTOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132315,
+			"friends_count": 101,
+			"listed_count": 270,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1592014887",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 107,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "They’re getting ready to drop their 4th mini album, and then come for their OT12 ONLINE LIVE concert of 2021 #Orbit!\n\nOnly 24 hours⏰ left!\n이달의 소녀 ON WAVE [LOOΠΔTHEWORLD : &amp;] 💫\n\nGrab tix for tomorrow’s concert!\n🎟️https://t.co/JykL5FIkCj\n\n#LOONA #이달의소녀 #CONCERT #AND https://t.co/f1vwwclwqf"
+	},
+	{
 		"created_at": "Sun Jun 27 12:05:40 +0000 2021",
 		"id": 1409120744789971000,
 		"id_str": "1409120744789970948",
