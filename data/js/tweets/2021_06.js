@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 27 05:45:37 +0000 2021",
+		"id": 1409013621951135700,
+		"id_str": "1409025101085958144",
+		"full_text": "#LOONA's 이달의 소녀 Premier Greeting [D&amp;D] is 2 hours away!\n\nCheck troubleshooting steps | 콘서트 시청에 문제가 있다면? 아래 링크👇\nhttps://t.co/p3wv5vE1wo\n\nStreaming🔗 | 스트리밍 링크\nhttps://t.co/6o0dHrKWjx\n\nIf you haven’t already, grab tix now\n🎟️https://t.co/yFp3cmxF5a https://t.co/ZPp25VeBz8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p3wv5vE1wo",
+					"expanded_url": "https://mmt.fans/MOkw",
+					"display_url": "mmt.fans/MOkw",
+					"indices": [
+						115,
+						138
+					]
+				},
+				{
+					"url": "https://t.co/6o0dHrKWjx",
+					"expanded_url": "https://mmt.fans/MaLi",
+					"display_url": "mmt.fans/MaLi",
+					"indices": [
+						161,
+						184
+					]
+				},
+				{
+					"url": "https://t.co/yFp3cmxF5a",
+					"expanded_url": "https://mmt.fans/MamN",
+					"display_url": "mmt.fans/MamN",
+					"indices": [
+						225,
+						248
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1409009236353245200,
+					"id_str": "1409009236353245187",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/E43Ob2oUYAMNR2W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E43Ob2oUYAMNR2W.jpg",
+					"url": "https://t.co/ZPp25VeBz8",
+					"display_url": "pic.twitter.com/ZPp25VeBz8",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1409013621951135744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409009236353245200,
+					"id_str": "1409009236353245187",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/E43Ob2oUYAMNR2W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E43Ob2oUYAMNR2W.jpg",
+					"url": "https://t.co/ZPp25VeBz8",
+					"display_url": "pic.twitter.com/ZPp25VeBz8",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1409013621951135744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1409009373544784000,
+					"id_str": "1409009373544783872",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/E43Oj1tVIAAYXOY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E43Oj1tVIAAYXOY.jpg",
+					"url": "https://t.co/ZPp25VeBz8",
+					"display_url": "pic.twitter.com/ZPp25VeBz8",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1409013621951135744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1409009422840451000,
+					"id_str": "1409009422840451075",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/E43OmtWVUAMTB3S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E43OmtWVUAMTB3S.jpg",
+					"url": "https://t.co/ZPp25VeBz8",
+					"display_url": "pic.twitter.com/ZPp25VeBz8",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1409013621951135744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. \nSTOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132284,
+			"friends_count": 101,
+			"listed_count": 271,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27250,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1592014887",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 192,
+		"favorite_count": 426,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#LOONA's 이달의 소녀 Premier Greeting [D&amp;D] is 2 hours away!\n\nCheck troubleshooting steps | 콘서트 시청에 문제가 있다면? 아래 링크👇\nhttps://t.co/p3wv5vE1wo\n\nStreaming🔗 | 스트리밍 링크\nhttps://t.co/6o0dHrKWjx\n\nIf you haven’t already, grab tix now\n🎟️https://t.co/yFp3cmxF5a https://t.co/ZPp25VeBz8"
+	},
+	{
 		"created_at": "Sun Jun 27 04:45:42 +0000 2021",
 		"id": 1409006072354926600,
 		"id_str": "1409010023330680832",
