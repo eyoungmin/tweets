@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 27 19:52:47 +0000 2021",
+		"id": 1409204994721697800,
+		"id_str": "1409238300662112263",
+		"full_text": "Live at Worthy Farm: Backstage offers unrestricted access to the production and tells the story of how @glastonbury's first festival without an audience was staged 🎥\n\nWatch it on @bbctwo or @bbciplayer. Tonight at 9pm. https://t.co/QvoF9OiMTY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "glastonbury",
+					"name": "Glastonbury Festival",
+					"id": 18863867,
+					"id_str": "18863867",
+					"indices": [
+						103,
+						115
+					]
+				},
+				{
+					"screen_name": "BBCTwo",
+					"name": "BBC Two",
+					"id": 1586183960,
+					"id_str": "1586183960",
+					"indices": [
+						179,
+						186
+					]
+				},
+				{
+					"screen_name": "BBCiPlayer",
+					"name": "BBC iPlayer",
+					"id": 17793580,
+					"id_str": "17793580",
+					"indices": [
+						190,
+						201
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1409201650561081300,
+					"id_str": "1409201650561081349",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E45_BSGXwAArliK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E45_BSGXwAArliK.jpg",
+					"url": "https://t.co/QvoF9OiMTY",
+					"display_url": "pic.twitter.com/QvoF9OiMTY",
+					"expanded_url": "https://twitter.com/bbcglasto/status/1409204994721697797/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409201650561081300,
+					"id_str": "1409201650561081349",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E45_BSGXwAArliK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E45_BSGXwAArliK.jpg",
+					"url": "https://t.co/QvoF9OiMTY",
+					"display_url": "pic.twitter.com/QvoF9OiMTY",
+					"expanded_url": "https://twitter.com/bbcglasto/status/1409204994721697797/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 227320,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1409201650561081349/vid/540x540/s2WvT58UOgRdfH8A.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1409201650561081349/pl/z8qnW1_bkr2Gb_eD.m3u8?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1409201650561081349/vid/320x320/aec236NpzsmYp-wS.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1409201650561081349/vid/720x720/vH4UNkCDgVz4VJIb.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15108714,
+			"id_str": "15108714",
+			"name": "BBC Glastonbury",
+			"screen_name": "bbcglasto",
+			"location": "London / Pilton",
+			"description": "The Glastonbury Experience, a celebration of the festival, takes place across the BBC between June 25th - 29th. Watch on @bbciplayer, Listen on @bbcsounds.",
+			"url": "https://t.co/xQ5M31iKTi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xQ5M31iKTi",
+							"expanded_url": "http://www.bbc.co.uk/glastonbury",
+							"display_url": "bbc.co.uk/glastonbury",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 95317,
+			"friends_count": 1081,
+			"listed_count": 922,
+			"created_at": "Fri Jun 13 16:14:17 +0000 2008",
+			"favourites_count": 3616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1141414871919157248/VTqK-nq__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141414871919157248/VTqK-nq__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15108714/1398268353",
+			"profile_link_color": "13A477",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "030303",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 347,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Live at Worthy Farm: Backstage offers unrestricted access to the production and tells the story of how @glastonbury's first festival without an audience was staged 🎥\n\nWatch it on @bbctwo or @bbciplayer. Tonight at 9pm. https://t.co/QvoF9OiMTY"
+	},
+	{
 		"created_at": "Sun Jun 27 18:38:09 +0000 2021",
 		"id": 1409219515364384800,
 		"id_str": "1409219515364384776",
