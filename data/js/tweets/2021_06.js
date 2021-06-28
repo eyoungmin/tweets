@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 28 20:52:48 +0000 2021",
+		"id": 1409605099882750000,
+		"id_str": "1409615788726788106",
+		"full_text": "To enter Kaotica, first you have to travel through the minds of Dave Meyers and Mathematic ⚡️💜⚡️PH #HigherPower #VFX https://t.co/EnwHybKPdF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HigherPower",
+					"indices": [
+						99,
+						111
+					]
+				},
+				{
+					"text": "VFX",
+					"indices": [
+						112,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1409603156984598500,
+					"id_str": "1409603156984598532",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1409603156984598532/img/___urITJ5A7zlYaA.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1409603156984598532/img/___urITJ5A7zlYaA.jpg",
+					"url": "https://t.co/EnwHybKPdF",
+					"display_url": "pic.twitter.com/EnwHybKPdF",
+					"expanded_url": "https://twitter.com/coldplay/status/1409605099882749957/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409603156984598500,
+					"id_str": "1409603156984598532",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1409603156984598532/img/___urITJ5A7zlYaA.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1409603156984598532/img/___urITJ5A7zlYaA.jpg",
+					"url": "https://t.co/EnwHybKPdF",
+					"display_url": "pic.twitter.com/EnwHybKPdF",
+					"expanded_url": "https://twitter.com/coldplay/status/1409605099882749957/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 63522,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1409603156984598532/vid/640x360/q7zdacHGOzCI6ACl.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1409603156984598532/pl/858aJ4xkhSxUkcr2.m3u8?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1409603156984598532/vid/480x270/sQhOvkgD7UkmRJVp.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1409603156984598532/vid/1280x720/sY-iWhfjGSpsFBw1.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Kaotica",
+			"description": "The official Twitter of the band Coldplay. New single, Higher Power, out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23005364,
+			"friends_count": 759,
+			"listed_count": 42738,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8558,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1620345079",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 165,
+		"favorite_count": 1160,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "To enter Kaotica, first you have to travel through the minds of Dave Meyers and Mathematic ⚡️💜⚡️PH #HigherPower #VFX https://t.co/EnwHybKPdF"
+	},
+	{
 		"created_at": "Mon Jun 28 17:45:37 +0000 2021",
 		"id": 1409560156493422600,
 		"id_str": "1409568682720874504",
