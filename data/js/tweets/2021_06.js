@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 28 07:45:36 +0000 2021",
+		"id": 1409414489842217000,
+		"id_str": "1409417686191329284",
+		"full_text": "#Orbit! The countdown is happening!\n\n💫이달의 소녀 ON WAVE [LOOΠΔTHEWORLD : &amp;]💫\n\nDon’t forget to check your timezone and make sure you log into your account on time for the show!\n\nLess than 6 hours left!\nGet your 🎟️https://t.co/AjzIkyg4Fk\n\n#LOONA #이달의소녀 #CONCERT #AND https://t.co/MZA8QcO4fs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						238,
+						244
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						245,
+						251
+					]
+				},
+				{
+					"text": "CONCERT",
+					"indices": [
+						252,
+						260
+					]
+				},
+				{
+					"text": "AND",
+					"indices": [
+						261,
+						265
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AjzIkyg4Fk",
+					"expanded_url": "https://mmt.fans/MaPJ",
+					"display_url": "mmt.fans/MaPJ",
+					"indices": [
+						213,
+						236
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1409414335072333800,
+					"id_str": "1409414335072333827",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/E48-3s9UcAMvi79.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E48-3s9UcAMvi79.jpg",
+					"url": "https://t.co/MZA8QcO4fs",
+					"display_url": "pic.twitter.com/MZA8QcO4fs",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1409414489842216969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 544,
+							"h": 501,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 544,
+							"h": 501,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409414335072333800,
+					"id_str": "1409414335072333827",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/E48-3s9UcAMvi79.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E48-3s9UcAMvi79.jpg",
+					"url": "https://t.co/MZA8QcO4fs",
+					"display_url": "pic.twitter.com/MZA8QcO4fs",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1409414489842216969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 544,
+							"h": 501,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 501,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 544,
+							"h": 501,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. \nSTOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132341,
+			"friends_count": 101,
+			"listed_count": 271,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27263,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1592014887",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 109,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Orbit! The countdown is happening!\n\n💫이달의 소녀 ON WAVE [LOOΠΔTHEWORLD : &amp;]💫\n\nDon’t forget to check your timezone and make sure you log into your account on time for the show!\n\nLess than 6 hours left!\nGet your 🎟️https://t.co/AjzIkyg4Fk\n\n#LOONA #이달의소녀 #CONCERT #AND https://t.co/MZA8QcO4fs"
+	},
+	{
 		"created_at": "Mon Jun 28 05:45:39 +0000 2021",
 		"id": 1409385950128398300,
 		"id_str": "1409387500666249221",
