@@ -1,6 +1,485 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 28 16:52:50 +0000 2021",
+		"id": 1409543901703147500,
+		"id_str": "1409555402807820304",
+		"full_text": "#Salvatore_Ferragamo #살바토레_페라가모 #페라가모 #Ferragamo #슬기 #SEULGI \n#레드벨벳 #RedVelvet https://t.co/tyQ2yJbyR9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Salvatore_Ferragamo",
+					"indices": [
+						0,
+						20
+					]
+				},
+				{
+					"text": "살바토레_페라가모",
+					"indices": [
+						21,
+						31
+					]
+				},
+				{
+					"text": "페라가모",
+					"indices": [
+						32,
+						37
+					]
+				},
+				{
+					"text": "Ferragamo",
+					"indices": [
+						38,
+						48
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						53,
+						60
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						68,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1409543890965700600,
+					"id_str": "1409543890965700609",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/E4-0s2RVIAEoa5O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4-0s2RVIAEoa5O.jpg",
+					"url": "https://t.co/tyQ2yJbyR9",
+					"display_url": "pic.twitter.com/tyQ2yJbyR9",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1409543901703147524/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 853,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409543890965700600,
+					"id_str": "1409543890965700609",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/E4-0s2RVIAEoa5O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4-0s2RVIAEoa5O.jpg",
+					"url": "https://t.co/tyQ2yJbyR9",
+					"display_url": "pic.twitter.com/tyQ2yJbyR9",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1409543901703147524/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 853,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1409543897232019500,
+					"id_str": "1409543897232019463",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/E4-0tNnVkAcCiWH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4-0tNnVkAcCiWH.jpg",
+					"url": "https://t.co/tyQ2yJbyR9",
+					"display_url": "pic.twitter.com/tyQ2yJbyR9",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1409543901703147524/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 853,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1409543885999591400,
+		"in_reply_to_status_id_str": "1409543885999591426",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/U7JtipmDEo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U7JtipmDEo",
+							"expanded_url": "https://youtu.be/lNvBbh5jDcA",
+							"display_url": "youtu.be/lNvBbh5jDcA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4282237,
+			"friends_count": 1,
+			"listed_count": 9131,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1622019868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2730,
+		"favorite_count": 8633,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#Salvatore_Ferragamo #살바토레_페라가모 #페라가모 #Ferragamo #슬기 #SEULGI \n#레드벨벳 #RedVelvet https://t.co/tyQ2yJbyR9"
+	},
+	{
+		"created_at": "Mon Jun 28 16:45:36 +0000 2021",
+		"id": 1409542296337404000,
+		"id_str": "1409553582245003270",
+		"full_text": "Thanks for tuning in tonight #Orbit!💫\n\nWe heard you all! We want to make sure you didn’t miss a second of this concert and have the best experience, so...\n\nPlease check the notice below and stay tuned for more updates!\n\n#LOONA #이달의소녀 #CONCERT #AND https://t.co/jT9PPuM2nx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						220,
+						226
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						227,
+						233
+					]
+				},
+				{
+					"text": "CONCERT",
+					"indices": [
+						234,
+						242
+					]
+				},
+				{
+					"text": "AND",
+					"indices": [
+						243,
+						247
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1409542214829498400,
+					"id_str": "1409542214829498370",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/E4-zLSLUYAIIKy4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4-zLSLUYAIIKy4.jpg",
+					"url": "https://t.co/jT9PPuM2nx",
+					"display_url": "pic.twitter.com/jT9PPuM2nx",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1409542296337403906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 605,
+							"h": 443,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 605,
+							"h": 443,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 605,
+							"h": 443,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409542214829498400,
+					"id_str": "1409542214829498370",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/E4-zLSLUYAIIKy4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4-zLSLUYAIIKy4.jpg",
+					"url": "https://t.co/jT9PPuM2nx",
+					"display_url": "pic.twitter.com/jT9PPuM2nx",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1409542296337403906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 605,
+							"h": 443,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 605,
+							"h": 443,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 605,
+							"h": 443,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. \nSTOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132500,
+			"friends_count": 101,
+			"listed_count": 272,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1592014887",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 380,
+		"favorite_count": 1625,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks for tuning in tonight #Orbit!💫\n\nWe heard you all! We want to make sure you didn’t miss a second of this concert and have the best experience, so...\n\nPlease check the notice below and stay tuned for more updates!\n\n#LOONA #이달의소녀 #CONCERT #AND https://t.co/jT9PPuM2nx"
+	},
+	{
 		"created_at": "Mon Jun 28 15:49:21 +0000 2021",
 		"id": 1409539425256738800,
 		"id_str": "1409539425256738819",
