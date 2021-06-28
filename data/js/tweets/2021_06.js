@@ -1,6 +1,593 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 28 05:45:39 +0000 2021",
+		"id": 1409385950128398300,
+		"id_str": "1409387500666249221",
+		"full_text": "╭ ◜◝ ͡ ◜◝ ͡ ◜◝ ╮ \n  이달소 눈나들 컴백? \n          이겨낸다몽\n      ╰ ◟◞ ͜ ◟ ͜ ◟◞ ╯\n                    O\n                      °. https://t.co/CnMhFGpMRF https://t.co/aQw6STDDX9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CnMhFGpMRF",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1409384250470592517",
+					"display_url": "twitter.com/cocomong_kr/st…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1409385945305010200,
+					"id_str": "1409385945305010181",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/E48lDM1VUAUty-X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E48lDM1VUAUty-X.jpg",
+					"url": "https://t.co/aQw6STDDX9",
+					"display_url": "pic.twitter.com/aQw6STDDX9",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1409385950128398342/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 482,
+							"h": 524,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 482,
+							"h": 524,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 482,
+							"h": 524,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409385945305010200,
+					"id_str": "1409385945305010181",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/E48lDM1VUAUty-X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E48lDM1VUAUty-X.jpg",
+					"url": "https://t.co/aQw6STDDX9",
+					"display_url": "pic.twitter.com/aQw6STDDX9",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1409385950128398342/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 482,
+							"h": 524,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 482,
+							"h": 524,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 482,
+							"h": 524,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097461345677500400,
+			"id_str": "1097461345677500417",
+			"name": "코코몽",
+			"screen_name": "cocomong_kr",
+			"location": "냉장고나라 ",
+			"description": "코코몽(냉장고 코씨,12살) 회사 몰래하는 케이팝 덕질계정🙈",
+			"url": "https://t.co/srDteO8EOb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/srDteO8EOb",
+							"expanded_url": "https://www.instagram.com/cocomong.official",
+							"display_url": "instagram.com/cocomong.offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3756,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+			"favourites_count": 1578,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1409384250470592500,
+		"quoted_status_id_str": "1409384250470592517",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CnMhFGpMRF",
+			"expanded": "https://twitter.com/cocomong_kr/status/1409384250470592517",
+			"display": "twitter.com/cocomong_kr/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 28 05:32:45 +0000 2021",
+			"id": 1409384250470592500,
+			"id_str": "1409384250470592517",
+			"full_text": "으 월요일 https://t.co/XjmYzRsuFk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				5
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1409384246528024600,
+						"id_str": "1409384246528024584",
+						"indices": [
+							6,
+							29
+						],
+						"media_url": "http://pbs.twimg.com/media/E48jgUZVoAgSWDm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E48jgUZVoAgSWDm.jpg",
+						"url": "https://t.co/XjmYzRsuFk",
+						"display_url": "pic.twitter.com/XjmYzRsuFk",
+						"expanded_url": "https://twitter.com/cocomong_kr/status/1409384250470592517/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 599,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 726,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 726,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1409384246528024600,
+						"id_str": "1409384246528024584",
+						"indices": [
+							6,
+							29
+						],
+						"media_url": "http://pbs.twimg.com/media/E48jgUZVoAgSWDm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E48jgUZVoAgSWDm.jpg",
+						"url": "https://t.co/XjmYzRsuFk",
+						"display_url": "pic.twitter.com/XjmYzRsuFk",
+						"expanded_url": "https://twitter.com/cocomong_kr/status/1409384250470592517/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 599,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 726,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 726,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1097461345677500400,
+				"id_str": "1097461345677500417",
+				"name": "코코몽",
+				"screen_name": "cocomong_kr",
+				"location": "냉장고나라 ",
+				"description": "코코몽(냉장고 코씨,12살) 회사 몰래하는 케이팝 덕질계정🙈",
+				"url": "https://t.co/srDteO8EOb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/srDteO8EOb",
+								"expanded_url": "https://www.instagram.com/cocomong.official",
+								"display_url": "instagram.com/cocomong.offic…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3756,
+				"friends_count": 0,
+				"listed_count": 6,
+				"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+				"favourites_count": 1578,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3074,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 111,
+			"favorite_count": 532,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 131,
+		"favorite_count": 372,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "╭ ◜◝ ͡ ◜◝ ͡ ◜◝ ╮ \n  이달소 눈나들 컴백? \n          이겨낸다몽\n      ╰ ◟◞ ͜ ◟ ͜ ◟◞ ╯\n                    O\n                      °. https://t.co/CnMhFGpMRF https://t.co/aQw6STDDX9"
+	},
+	{
+		"created_at": "Mon Jun 28 05:45:36 +0000 2021",
+		"id": 1409376009300988000,
+		"id_str": "1409387487563239430",
+		"full_text": "Are you ready #Orbit?!\n\nIf last night was amazing, get ready to be blown away tonight!\n🛰️6PM KST [&amp;] mini album drop!\n🛰️10PM KST 이달의 소녀 ON WAVE [LOOΠΔTHEWORLD : &amp;] Concert!\n\nDon’t miss out and grab your tickets now!\n🎟️https://t.co/bJEDGcEddr\n\n#LOONA #이달의소녀 #CONCERT #AND https://t.co/aiDirL1Bgb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						251,
+						257
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						258,
+						264
+					]
+				},
+				{
+					"text": "CONCERT",
+					"indices": [
+						265,
+						273
+					]
+				},
+				{
+					"text": "AND",
+					"indices": [
+						274,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bJEDGcEddr",
+					"expanded_url": "https://mmt.fans/Mamc",
+					"display_url": "mmt.fans/Mamc",
+					"indices": [
+						226,
+						249
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1409367106722828300,
+					"id_str": "1409367106722828291",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/E48T6ppVkAM_HB0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E48T6ppVkAM_HB0.jpg",
+					"url": "https://t.co/aiDirL1Bgb",
+					"display_url": "pic.twitter.com/aiDirL1Bgb",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1409376009300987906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1980,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409367106722828300,
+					"id_str": "1409367106722828291",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/E48T6ppVkAM_HB0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E48T6ppVkAM_HB0.jpg",
+					"url": "https://t.co/aiDirL1Bgb",
+					"display_url": "pic.twitter.com/aiDirL1Bgb",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1409376009300987906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1980,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. \nSTOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132344,
+			"friends_count": 101,
+			"listed_count": 271,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1592014887",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 290,
+		"favorite_count": 973,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Are you ready #Orbit?!\n\nIf last night was amazing, get ready to be blown away tonight!\n🛰️6PM KST [&amp;] mini album drop!\n🛰️10PM KST 이달의 소녀 ON WAVE [LOOΠΔTHEWORLD : &amp;] Concert!\n\nDon’t miss out and grab your tickets now!\n🎟️https://t.co/bJEDGcEddr\n\n#LOONA #이달의소녀 #CONCERT #AND https://t.co/aiDirL1Bgb"
+	},
+	{
 		"created_at": "Mon Jun 28 04:48:30 +0000 2021",
 		"id": 1409373114614562800,
 		"id_str": "1409373114614562816",
