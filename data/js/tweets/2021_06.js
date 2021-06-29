@@ -1,6 +1,782 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 29 03:52:57 +0000 2021",
+		"id": 1409711651725533200,
+		"id_str": "1409721523380932613",
+		"full_text": "#JOY #조이 #싱글즈 #Singles #레드벨벳 #RedVelvet https://t.co/wrmyTTpg0k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JOY",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "싱글즈",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "Singles",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						29,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1409711618682867700,
+					"id_str": "1409711618682867717",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1409711618682867717/pu/img/Fe3lt-Ewc3TUofic.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1409711618682867717/pu/img/Fe3lt-Ewc3TUofic.jpg",
+					"url": "https://t.co/wrmyTTpg0k",
+					"display_url": "pic.twitter.com/wrmyTTpg0k",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1409711651725533195/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409711618682867700,
+					"id_str": "1409711618682867717",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1409711618682867717/pu/img/Fe3lt-Ewc3TUofic.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1409711618682867717/pu/img/Fe3lt-Ewc3TUofic.jpg",
+					"url": "https://t.co/wrmyTTpg0k",
+					"display_url": "pic.twitter.com/wrmyTTpg0k",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1409711651725533195/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 12145,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1409711618682867717/pu/vid/720x900/fBtIWNP4v3jsH177.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1409711618682867717/pu/vid/320x400/N2Y4hqw7FoajSb1U.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1409711618682867717/pu/vid/480x600/BoNeicpnkLgUVu9M.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1409711618682867717/pu/pl/wHYkXGHJk2Jva3Ng.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/U7JtipmDEo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U7JtipmDEo",
+							"expanded_url": "https://youtu.be/lNvBbh5jDcA",
+							"display_url": "youtu.be/lNvBbh5jDcA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4281956,
+			"friends_count": 1,
+			"listed_count": 9129,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1622019868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4919,
+		"favorite_count": 14196,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#JOY #조이 #싱글즈 #Singles #레드벨벳 #RedVelvet https://t.co/wrmyTTpg0k"
+	},
+	{
+		"created_at": "Tue Jun 29 03:26:31 +0000 2021",
+		"id": 1409708396278808600,
+		"id_str": "1409714872678436879",
+		"full_text": "#더바디샵 NEW #화이트머스크 와 조이의 우아한 모습이 담긴 #싱글즈7월호 마지막 무빙커버를 공개합니다✨ 내 안의 나를 깨우는 향기, #화이트머스크 와 함께 #조이 가 만들어낸 아름다운 무드를 지금 바로 확인해보세요!🤍 @RVsmtown \n\n📲 https://t.co/Y0uenVSEYy https://t.co/cKtBbV1V6G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "더바디샵",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "화이트머스크",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"text": "싱글즈7월호",
+					"indices": [
+						35,
+						42
+					]
+				},
+				{
+					"text": "화이트머스크",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						89,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						124,
+						133
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Y0uenVSEYy",
+					"expanded_url": "https://bit.ly/3x7LSJA",
+					"display_url": "bit.ly/3x7LSJA",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1409708245837443000,
+					"id_str": "1409708245837443077",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1409708245837443077/pu/img/5iPa8KhotX6tiajh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1409708245837443077/pu/img/5iPa8KhotX6tiajh.jpg",
+					"url": "https://t.co/cKtBbV1V6G",
+					"display_url": "pic.twitter.com/cKtBbV1V6G",
+					"expanded_url": "https://twitter.com/singlesmania/status/1409708396278808576/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409708245837443000,
+					"id_str": "1409708245837443077",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1409708245837443077/pu/img/5iPa8KhotX6tiajh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1409708245837443077/pu/img/5iPa8KhotX6tiajh.jpg",
+					"url": "https://t.co/cKtBbV1V6G",
+					"display_url": "pic.twitter.com/cKtBbV1V6G",
+					"expanded_url": "https://twitter.com/singlesmania/status/1409708396278808576/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 12181,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1409708245837443077/pu/vid/320x400/YsZhjBM53HCsN8-b.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1409708245837443077/pu/pl/VNoeOlDLaeeHh49h.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1409708245837443077/pu/vid/480x600/0LP64Y0m4FwHGYHC.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1409708245837443077/pu/vid/720x900/3apBULj0DM_pOPwT.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 102038546,
+			"id_str": "102038546",
+			"name": "Singles Korea 싱글즈",
+			"screen_name": "singlesmania",
+			"location": "seoul",
+			"description": "당당한 싱글들을 위한 즐거운 패션 매거진 싱글즈.",
+			"url": "https://t.co/0AqlouNorT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0AqlouNorT",
+							"expanded_url": "http://linktr.ee/Singlesmagazine",
+							"display_url": "linktr.ee/Singlesmagazine",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26522,
+			"friends_count": 1431,
+			"listed_count": 195,
+			"created_at": "Tue Jan 05 11:43:09 +0000 2010",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F3F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389450100162711553/CScqoQww_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389450100162711553/CScqoQww_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/102038546/1623998035",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCD",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 400,
+		"favorite_count": 600,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#더바디샵 NEW #화이트머스크 와 조이의 우아한 모습이 담긴 #싱글즈7월호 마지막 무빙커버를 공개합니다✨ 내 안의 나를 깨우는 향기, #화이트머스크 와 함께 #조이 가 만들어낸 아름다운 무드를 지금 바로 확인해보세요!🤍 @RVsmtown \n\n📲 https://t.co/Y0uenVSEYy https://t.co/cKtBbV1V6G"
+	},
+	{
+		"created_at": "Tue Jun 29 03:17:01 +0000 2021",
+		"id": 1409707508877254700,
+		"id_str": "1409712480864018443",
+		"full_text": "‘믿듣탱’의 귀환! 태연 새 싱글 ‘Weekend’ 7월 6일 오후 6시 공개!\n주말만은 하고 싶은 대로 자유롭게 떠나고 싶은 마음을 담은 경쾌한 기타와 레트로한 신스 사운드가 어우러진 디스코 팝 장르의 곡!\n\n#태연 #TAEYEON \n#Weekend\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						132,
+						140
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						147,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1409693260717596700,
+		"in_reply_to_status_id_str": "1409693260717596675",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3632309,
+			"friends_count": 4,
+			"listed_count": 5402,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 648,
+		"favorite_count": 1930,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "‘믿듣탱’의 귀환! 태연 새 싱글 ‘Weekend’ 7월 6일 오후 6시 공개!\n주말만은 하고 싶은 대로 자유롭게 떠나고 싶은 마음을 담은 경쾌한 기타와 레트로한 신스 사운드가 어우러진 디스코 팝 장르의 곡!\n\n#태연 #TAEYEON \n#Weekend\n#소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Tue Jun 29 03:17:01 +0000 2021",
+		"id": 1409707623977406500,
+		"id_str": "1409712480775933956",
+		"full_text": "TAEYEON to release her new single ‘Weekend’ on 7/6 at 6PM KST!\nA Disco Pop song of guitar and retro synth sounds with lyrics about wanting to freely go on a trip during the weekend! \n\n#태연 #TAEYEON \n#Weekend\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						184,
+						187
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						188,
+						196
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						198,
+						206
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						207,
+						212
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						213,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1409707508877254700,
+		"in_reply_to_status_id_str": "1409707508877254661",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3632309,
+			"friends_count": 4,
+			"listed_count": 5402,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1008,
+		"favorite_count": 2612,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "TAEYEON to release her new single ‘Weekend’ on 7/6 at 6PM KST!\nA Disco Pop song of guitar and retro synth sounds with lyrics about wanting to freely go on a trip during the weekend! \n\n#태연 #TAEYEON \n#Weekend\n#소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Tue Jun 29 03:01:51 +0000 2021",
 		"id": 1409708664177315800,
 		"id_str": "1409708664177315846",
