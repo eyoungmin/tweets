@@ -1,6 +1,639 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 29 08:49:30 +0000 2021",
+		"id": 1409796153491832800,
+		"id_str": "1409796153491832833",
+		"full_text": "#가온차트 #GaonChart #칼럼 #Opinion \n2021년 피지컬 앨범 시장 누가 주도하고 있나? \nhttps://t.co/BdzTa9vzhf https://t.co/yCYtOVPZC6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "가온차트",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "GaonChart",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "칼럼",
+					"indices": [
+						17,
+						20
+					]
+				},
+				{
+					"text": "Opinion",
+					"indices": [
+						21,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BdzTa9vzhf",
+					"expanded_url": "http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19098&sgenre=opinion&search_str=",
+					"display_url": "gaonchart.co.kr/main/section/a…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1409796152258613200,
+					"id_str": "1409796152258613248",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/E5CaIY0WUAAuoCd.png",
+					"media_url_https": "https://pbs.twimg.com/media/E5CaIY0WUAAuoCd.png",
+					"url": "https://t.co/yCYtOVPZC6",
+					"display_url": "pic.twitter.com/yCYtOVPZC6",
+					"expanded_url": "https://twitter.com/fromminn/status/1409796153491832833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409796152258613200,
+					"id_str": "1409796152258613248",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/E5CaIY0WUAAuoCd.png",
+					"media_url_https": "https://pbs.twimg.com/media/E5CaIY0WUAAuoCd.png",
+					"url": "https://t.co/yCYtOVPZC6",
+					"display_url": "pic.twitter.com/yCYtOVPZC6",
+					"expanded_url": "https://twitter.com/fromminn/status/1409796153491832833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#가온차트 #GaonChart #칼럼 #Opinion \n2021년 피지컬 앨범 시장 누가 주도하고 있나? \nhttps://t.co/BdzTa9vzhf https://t.co/yCYtOVPZC6"
+	},
+	{
+		"created_at": "Tue Jun 29 08:45:51 +0000 2021",
+		"id": 1409784811007332400,
+		"id_str": "1409795234649808896",
+		"full_text": "[#21세기잠방]\n안녕, 나는 지금 \n가장 가까운 유럽\n블라디보스톡에 와있어. \n.\n어느 낯선 도시에서\n#이달의소녀 츄가 보내온 편지.\n지금 네이버 #오디오클립 에서 들으실 수 있습니다.\n@loonatheworld #LOONA #Chuu\nhttps://t.co/d3h23t8L8V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "21세기잠방",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						58,
+						64
+					]
+				},
+				{
+					"text": "오디오클립",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						127,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						105,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/d3h23t8L8V",
+					"expanded_url": "https://audioclip.naver.com/channels/4646/clips/127",
+					"display_url": "audioclip.naver.com/channels/4646/…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 904627296266358800,
+			"id_str": "904627296266358785",
+			"name": "MOMO X(모모엑스)",
+			"screen_name": "momox_official",
+			"location": "",
+			"description": "모바일 미디어 그룹 모모콘이 선보이는 신개념 예능 브랜드 #MOMOX 의 공식 트위터입니다 ✌🏻",
+			"url": "https://t.co/ym1qJkvs8S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ym1qJkvs8S",
+							"expanded_url": "https://www.youtube.com/MOMOXMEDIA",
+							"display_url": "youtube.com/MOMOXMEDIA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5944,
+			"friends_count": 0,
+			"listed_count": 44,
+			"created_at": "Mon Sep 04 08:48:49 +0000 2017",
+			"favourites_count": 229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1032100418317254656/V4y9tAhy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032100418317254656/V4y9tAhy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/904627296266358785/1534906876",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 153,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#21세기잠방]\n안녕, 나는 지금 \n가장 가까운 유럽\n블라디보스톡에 와있어. \n.\n어느 낯선 도시에서\n#이달의소녀 츄가 보내온 편지.\n지금 네이버 #오디오클립 에서 들으실 수 있습니다.\n@loonatheworld #LOONA #Chuu\nhttps://t.co/d3h23t8L8V"
+	},
+	{
+		"created_at": "Tue Jun 29 08:45:37 +0000 2021",
+		"id": 1409783701551022000,
+		"id_str": "1409795174981636101",
+		"full_text": "인터넷을 발명한 사람에게 물었습니다.\n\nQ . 인터넷을 왜 발명하셨나요❓\nA . 이달소 내돌의 온도차를 전 세계 사람들에게 보여주기 위해서요❗\n\n▶ https://t.co/VM8TDW2nwl\n\n#LOONA #이달의소녀 #PTT #PaintTheTown #내돌의온도차 #GAPCRUSH  @loonatheworld https://t.co/Syv22QhVhJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "PTT",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "PaintTheTown",
+					"indices": [
+						127,
+						140
+					]
+				},
+				{
+					"text": "내돌의온도차",
+					"indices": [
+						141,
+						148
+					]
+				},
+				{
+					"text": "GAPCRUSH",
+					"indices": [
+						149,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						160,
+						174
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VM8TDW2nwl",
+					"expanded_url": "https://youtu.be/cbp2eLU1tZM",
+					"display_url": "youtu.be/cbp2eLU1tZM",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1409694319838077000,
+					"id_str": "1409694319838076930",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1409694319838076930/img/dMM3XPs0fxTvjcT9.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1409694319838076930/img/dMM3XPs0fxTvjcT9.jpg",
+					"url": "https://t.co/Syv22QhVhJ",
+					"display_url": "pic.twitter.com/Syv22QhVhJ",
+					"expanded_url": "https://twitter.com/1theK/status/1409783701551022080/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409694319838077000,
+					"id_str": "1409694319838076930",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1409694319838076930/img/dMM3XPs0fxTvjcT9.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1409694319838076930/img/dMM3XPs0fxTvjcT9.jpg",
+					"url": "https://t.co/Syv22QhVhJ",
+					"display_url": "pic.twitter.com/Syv22QhVhJ",
+					"expanded_url": "https://twitter.com/1theK/status/1409783701551022080/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 212337,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1409694319838076930/vid/480x852/XAJ1clOp6eyZOQ76.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1409694319838076930/vid/720x1280/2f3l1VBseg67DF7d.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1409694319838076930/pl/tVa8PvY244vTpsHV.m3u8?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1409694319838076930/vid/320x568/_YGc4Pf5ER7S3mIi.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/cbp2eLU1tZM"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakaoent.com",
+			"url": "https://t.co/BmRz0LNeFc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BmRz0LNeFc",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2249911,
+			"friends_count": 819,
+			"listed_count": 2053,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 14965,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1624953676",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2935,
+		"favorite_count": 5462,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인터넷을 발명한 사람에게 물었습니다.\n\nQ . 인터넷을 왜 발명하셨나요❓\nA . 이달소 내돌의 온도차를 전 세계 사람들에게 보여주기 위해서요❗\n\n▶ https://t.co/VM8TDW2nwl\n\n#LOONA #이달의소녀 #PTT #PaintTheTown #내돌의온도차 #GAPCRUSH  @loonatheworld https://t.co/Syv22QhVhJ"
+	},
+	{
 		"created_at": "Tue Jun 29 08:00:25 +0000 2021",
 		"id": 1409783712955330600,
 		"id_str": "1409783799840342019",
