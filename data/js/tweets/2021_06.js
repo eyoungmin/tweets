@@ -1,6 +1,494 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 29 10:56:36 +0000 2021",
+		"id": 1409828141762109400,
+		"id_str": "1409828141762109442",
+		"full_text": "#놀라운토요일 #도레미마켓 \n메보좌 민영, 역주행 전 태연 선배님의 말을 듣고 울컥했던 ssul.#놀라운토요일 | amazingsaturday EP.166 | tvN 210626 방송 \nhttps://t.co/FHoddN032A \n \n#김태연 #태연 #탱구 #TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "도레미마켓",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						54,
+						61
+					]
+				},
+				{
+					"text": "김태연",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "탱구",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						144,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FHoddN032A",
+					"expanded_url": "https://www.youtube.com/watch?v=xpXRBCgHzGU",
+					"display_url": "youtube.com/watch?v=xpXRBC…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#놀라운토요일 #도레미마켓 \n메보좌 민영, 역주행 전 태연 선배님의 말을 듣고 울컥했던 ssul.#놀라운토요일 | amazingsaturday EP.166 | tvN 210626 방송 \nhttps://t.co/FHoddN032A \n \n#김태연 #태연 #탱구 #TAEYEON"
+	},
+	{
+		"created_at": "Tue Jun 29 10:44:19 +0000 2021",
+		"id": 1409825047015878700,
+		"id_str": "1409825047015878658",
+		"full_text": "트윗하고 바로 고정하면 봇이 누락하는 듯.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "트윗하고 바로 고정하면 봇이 누락하는 듯."
+	},
+	{
+		"created_at": "Tue Jun 29 10:43:51 +0000 2021",
+		"id": 1409436587369255000,
+		"id_str": "1409824929625694209",
+		"full_text": "[MV] 이달의 소녀 (LOONA) \"PTT (Paint The Town)\"\n\nLOOПΔ 4th Mini Album [&amp;]\n2021.6.28 pm6 (KST) Release\n\n#이달의소녀 #LOONA #AND #PTT #PaintTheTown\n\nLOOΠΔ\nhttps://t.co/5CfbXI886V\n\n🏛 https://t.co/Lvpm85UWeT https://t.co/dOqNE0uZ5Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "AND",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "PTT",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "PaintTheTown",
+					"indices": [
+						126,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5CfbXI886V",
+					"expanded_url": "http://www.loonatheworld.com",
+					"display_url": "loonatheworld.com",
+					"indices": [
+						147,
+						170
+					]
+				},
+				{
+					"url": "https://t.co/Lvpm85UWeT",
+					"expanded_url": "https://youtu.be/_EEo-iE5u_A",
+					"display_url": "youtu.be/_EEo-iE5u_A",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1409436461926019000,
+					"id_str": "1409436461926019073",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1409436461926019073/pu/img/r9KzX_idNqcUmHou.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1409436461926019073/pu/img/r9KzX_idNqcUmHou.jpg",
+					"url": "https://t.co/dOqNE0uZ5Y",
+					"display_url": "pic.twitter.com/dOqNE0uZ5Y",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1409436587369254912/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409436461926019000,
+					"id_str": "1409436461926019073",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1409436461926019073/pu/img/r9KzX_idNqcUmHou.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1409436461926019073/pu/img/r9KzX_idNqcUmHou.jpg",
+					"url": "https://t.co/dOqNE0uZ5Y",
+					"display_url": "pic.twitter.com/dOqNE0uZ5Y",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1409436587369254912/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 33547,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1409436461926019073/pu/pl/KyGAIOjRSiwIAZnc.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1409436461926019073/pu/vid/480x270/QuCdAcI3H4_NQXGP.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1409436461926019073/pu/vid/1280x720/PAbHPHXhX51uDzhX.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1409436461926019073/pu/vid/640x360/2nIzPJ-HhjcRiElQ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 754314,
+			"friends_count": 1,
+			"listed_count": 7574,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3014,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38589,
+		"favorite_count": 65404,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "[MV] 이달의 소녀 (LOONA) \"PTT (Paint The Town)\"\n\nLOOПΔ 4th Mini Album [&amp;]\n2021.6.28 pm6 (KST) Release\n\n#이달의소녀 #LOONA #AND #PTT #PaintTheTown\n\nLOOΠΔ\nhttps://t.co/5CfbXI886V\n\n🏛 https://t.co/Lvpm85UWeT https://t.co/dOqNE0uZ5Y"
+	},
+	{
 		"created_at": "Tue Jun 29 09:54:29 +0000 2021",
 		"id": 1409812509272457200,
 		"id_str": "1409812509272457216",
