@@ -1,6 +1,874 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 29 03:01:51 +0000 2021",
+		"id": 1409708664177315800,
+		"id_str": "1409708664177315846",
+		"full_text": "#놀라운토요일 #도레미마켓 \n[태연 세로캠] 금발탱 X 흑발탱 ‘queen + 그녀와의 이별 + ASAP’ | 놀토직캠 \nhttps://t.co/rd12tKOyoN \n \n#김태연 #태연 #탱구 #TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "도레미마켓",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "김태연",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "탱구",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rd12tKOyoN",
+					"expanded_url": "https://www.youtube.com/watch?v=AgbHW_t0azI",
+					"display_url": "youtube.com/watch?v=AgbHW_…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#놀라운토요일 #도레미마켓 \n[태연 세로캠] 금발탱 X 흑발탱 ‘queen + 그녀와의 이별 + ASAP’ | 놀토직캠 \nhttps://t.co/rd12tKOyoN \n \n#김태연 #태연 #탱구 #TAEYEON"
+	},
+	{
+		"created_at": "Tue Jun 29 02:45:36 +0000 2021",
+		"id": 1409691715645034500,
+		"id_str": "1409704577524322304",
+		"full_text": "[6/29(화)엠뮤톡] 12시 59분 시~작! 스테이씨/에스파/온앤오프/이달의 소녀/AB6IX/러블리즈/NCT DREAM/트와이스/세븐틴/브레이브걸스/방탄소년단 오늘은 바로바로 톡치니들이 기다리던 신청곡 특집! 모두 시간 맞춰 놀러와~",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "대한민국 서울",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/3MOZ1S1s4O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MOZ1S1s4O",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1181162,
+			"friends_count": 418,
+			"listed_count": 1412,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18258,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1610345190",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 142,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[6/29(화)엠뮤톡] 12시 59분 시~작! 스테이씨/에스파/온앤오프/이달의 소녀/AB6IX/러블리즈/NCT DREAM/트와이스/세븐틴/브레이브걸스/방탄소년단 오늘은 바로바로 톡치니들이 기다리던 신청곡 특집! 모두 시간 맞춰 놀러와~"
+	},
+	{
+		"created_at": "Tue Jun 29 02:30:34 +0000 2021",
+		"id": 1409542296337404000,
+		"id_str": "1409700791795912711",
+		"full_text": "Thanks for tuning in tonight #Orbit!💫\n\nWe heard you all! We want to make sure you didn’t miss a second of this concert and have the best experience, so...\n\nPlease check the notice below and stay tuned for more updates!\n\n#LOONA #이달의소녀 #CONCERT #AND https://t.co/jT9PPuM2nx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						220,
+						226
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						227,
+						233
+					]
+				},
+				{
+					"text": "CONCERT",
+					"indices": [
+						234,
+						242
+					]
+				},
+				{
+					"text": "AND",
+					"indices": [
+						243,
+						247
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1409542214829498400,
+					"id_str": "1409542214829498370",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/E4-zLSLUYAIIKy4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4-zLSLUYAIIKy4.jpg",
+					"url": "https://t.co/jT9PPuM2nx",
+					"display_url": "pic.twitter.com/jT9PPuM2nx",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1409542296337403906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 605,
+							"h": 443,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 605,
+							"h": 443,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 605,
+							"h": 443,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409542214829498400,
+					"id_str": "1409542214829498370",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/E4-zLSLUYAIIKy4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4-zLSLUYAIIKy4.jpg",
+					"url": "https://t.co/jT9PPuM2nx",
+					"display_url": "pic.twitter.com/jT9PPuM2nx",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1409542296337403906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 605,
+							"h": 443,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 605,
+							"h": 443,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 605,
+							"h": 443,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. \nSTOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132540,
+			"friends_count": 101,
+			"listed_count": 273,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27284,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1592014887",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 499,
+		"favorite_count": 2407,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks for tuning in tonight #Orbit!💫\n\nWe heard you all! We want to make sure you didn’t miss a second of this concert and have the best experience, so...\n\nPlease check the notice below and stay tuned for more updates!\n\n#LOONA #이달의소녀 #CONCERT #AND https://t.co/jT9PPuM2nx"
+	},
+	{
+		"created_at": "Tue Jun 29 02:30:26 +0000 2021",
+		"id": 1409542438209818600,
+		"id_str": "1409700756756733955",
+		"full_text": "#Orbit 💫과 함께해 주셔서 감사합니다!\n\n이번 콘서트에서 팬 여러분이 한순간도 놓치지 않고, 좋은 경험으로 남을 수 있도록...\n빠른 업데이트 예정이니, 공지를 참고해 주세요!\n\n#LOONA #이달의소녀 #CONCERT #AND https://t.co/cDmnCZ8N0j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "CONCERT",
+					"indices": [
+						117,
+						125
+					]
+				},
+				{
+					"text": "AND",
+					"indices": [
+						126,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1409542424859353000,
+					"id_str": "1409542424859353091",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/E4-zXgmVoAMiY-w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4-zXgmVoAMiY-w.jpg",
+					"url": "https://t.co/cDmnCZ8N0j",
+					"display_url": "pic.twitter.com/cDmnCZ8N0j",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1409542438209818625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 615,
+							"h": 301,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 615,
+							"h": 301,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 615,
+							"h": 301,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409542424859353000,
+					"id_str": "1409542424859353091",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/E4-zXgmVoAMiY-w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4-zXgmVoAMiY-w.jpg",
+					"url": "https://t.co/cDmnCZ8N0j",
+					"display_url": "pic.twitter.com/cDmnCZ8N0j",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1409542438209818625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 615,
+							"h": 301,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 615,
+							"h": 301,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 615,
+							"h": 301,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1409542296337404000,
+		"in_reply_to_status_id_str": "1409542296337403906",
+		"in_reply_to_user_id": 1664037517,
+		"in_reply_to_user_id_str": "1664037517",
+		"in_reply_to_screen_name": "_mymusictaste",
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. \nSTOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132540,
+			"friends_count": 101,
+			"listed_count": 273,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27284,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1592014887",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 116,
+		"favorite_count": 195,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Orbit 💫과 함께해 주셔서 감사합니다!\n\n이번 콘서트에서 팬 여러분이 한순간도 놓치지 않고, 좋은 경험으로 남을 수 있도록...\n빠른 업데이트 예정이니, 공지를 참고해 주세요!\n\n#LOONA #이달의소녀 #CONCERT #AND https://t.co/cDmnCZ8N0j"
+	},
+	{
+		"created_at": "Tue Jun 29 02:29:39 +0000 2021",
+		"id": 1409693101698990000,
+		"id_str": "1409700559657963520",
+		"full_text": "[#NEWS] 마동석X서현 캐스팅, ‘거룩한 밤: 데몬 헌터스’ 6월 28일 크랭크인(공식)\n▶ https://t.co/lxPE2CyZDh\n\n#서현 #거룩한밤_데몬헌터스 #SEOHYUN https://t.co/qvBBRDZ6hy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "거룩한밤_데몬헌터스",
+					"indices": [
+						83,
+						94
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						95,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lxPE2CyZDh",
+					"expanded_url": "http://naver.me/57wmAv2n",
+					"display_url": "naver.me/57wmAv2n",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1409689847674011600,
+					"id_str": "1409689847674011650",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E5A5cpYVgAIRVv3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5A5cpYVgAIRVv3.jpg",
+					"url": "https://t.co/qvBBRDZ6hy",
+					"display_url": "pic.twitter.com/qvBBRDZ6hy",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1409693101698990086/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1114,
+							"h": 1392,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409689847674011600,
+					"id_str": "1409689847674011650",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E5A5cpYVgAIRVv3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5A5cpYVgAIRVv3.jpg",
+					"url": "https://t.co/qvBBRDZ6hy",
+					"display_url": "pic.twitter.com/qvBBRDZ6hy",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1409693101698990086/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1114,
+							"h": 1392,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45215,
+			"friends_count": 13,
+			"listed_count": 234,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14089,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 473,
+		"favorite_count": 668,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 마동석X서현 캐스팅, ‘거룩한 밤: 데몬 헌터스’ 6월 28일 크랭크인(공식)\n▶ https://t.co/lxPE2CyZDh\n\n#서현 #거룩한밤_데몬헌터스 #SEOHYUN https://t.co/qvBBRDZ6hy"
+	},
+	{
 		"created_at": "Mon Jun 28 20:52:48 +0000 2021",
 		"id": 1409605099882750000,
 		"id_str": "1409615788726788106",
