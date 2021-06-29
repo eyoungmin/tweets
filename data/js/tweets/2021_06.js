@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 29 05:45:37 +0000 2021",
+		"id": 1409738400274337800,
+		"id_str": "1409749877173755907",
+		"full_text": "V DIUM X KCON:TACT 4 U HIGHLIGHT✨\n\n“V DIUM, THE STADIUM EXPERIENCE!”\n\n#LOONA #ONF #VERIVERY\n\n#VDIUM #VIRTUALSTADIUM #KCON #KCONTACT4U https://t.co/bXuCjDdSX9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "ONF",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "VERIVERY",
+					"indices": [
+						82,
+						91
+					]
+				},
+				{
+					"text": "VDIUM",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "VIRTUALSTADIUM",
+					"indices": [
+						100,
+						115
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						122,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1409694351823839200,
+					"id_str": "1409694351823839232",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1409694351823839232/pu/img/ZCDZDrTcXS6hGxb8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1409694351823839232/pu/img/ZCDZDrTcXS6hGxb8.jpg",
+					"url": "https://t.co/bXuCjDdSX9",
+					"display_url": "pic.twitter.com/bXuCjDdSX9",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1409738400274337796/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409694351823839200,
+					"id_str": "1409694351823839232",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1409694351823839232/pu/img/ZCDZDrTcXS6hGxb8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1409694351823839232/pu/img/ZCDZDrTcXS6hGxb8.jpg",
+					"url": "https://t.co/bXuCjDdSX9",
+					"display_url": "pic.twitter.com/bXuCjDdSX9",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1409738400274337796/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 94367,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1409694351823839232/pu/vid/480x270/hPkmsbT4EAoM3tT_.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1409694351823839232/pu/pl/xBvzNXzr1moxj2mu.m3u8?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1409694351823839232/pu/vid/640x360/9v9u_BExLNv8SF7a.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1409694351823839232/pu/vid/1280x720/aBYQjpSyrlCxbEcn.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 369934613,
+			"id_str": "369934613",
+			"name": "Mwave",
+			"screen_name": "OfficialMwave",
+			"location": "Worldwide",
+			"description": "The official twitter of Mwave!\nEnjoy Mnet K-POP, Mwave",
+			"url": "https://t.co/eqYCWBhWa5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eqYCWBhWa5",
+							"expanded_url": "http://mwave.me",
+							"display_url": "mwave.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1885363,
+			"friends_count": 319,
+			"listed_count": 1919,
+			"created_at": "Thu Sep 08 05:50:31 +0000 2011",
+			"favourites_count": 498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 42089,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/369934613/1559616428",
+			"profile_link_color": "E50277",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 159,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "V DIUM X KCON:TACT 4 U HIGHLIGHT✨\n\n“V DIUM, THE STADIUM EXPERIENCE!”\n\n#LOONA #ONF #VERIVERY\n\n#VDIUM #VIRTUALSTADIUM #KCON #KCONTACT4U https://t.co/bXuCjDdSX9"
+	},
+	{
 		"created_at": "Tue Jun 29 04:45:37 +0000 2021",
 		"id": 1409733144576548900,
 		"id_str": "1409734777096318977",
