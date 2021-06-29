@@ -1,6 +1,548 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 29 11:52:48 +0000 2021",
+		"id": 1409836545436233700,
+		"id_str": "1409842281096613888",
+		"full_text": "#BLACKPINKINYOURAREA\n\n잠시 후 9시, JTBC #바라던바다 에\n#로제 가 출연합니다📺\n\n오늘도 #블링크 에게 환상적인 시간을\n선물할 챙이와 함께해 주세요🖤💖\n\n▶️ https://t.co/EE4fugvImm\n\n#BLACKPINK #블랙핑크 #ROSÉ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINKINYOURAREA",
+					"indices": [
+						0,
+						20
+					]
+				},
+				{
+					"text": "바라던바다",
+					"indices": [
+						36,
+						42
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "블링크",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						127,
+						137
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						144,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EE4fugvImm",
+					"expanded_url": "https://tv.naver.com/v/21044600",
+					"display_url": "tv.naver.com/v/21044600",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/QTHPhjMXWT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QTHPhjMXWT",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6921043,
+			"friends_count": 6,
+			"listed_count": 7925,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1623718821",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6726,
+		"favorite_count": 16226,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BLACKPINKINYOURAREA\n\n잠시 후 9시, JTBC #바라던바다 에\n#로제 가 출연합니다📺\n\n오늘도 #블링크 에게 환상적인 시간을\n선물할 챙이와 함께해 주세요🖤💖\n\n▶️ https://t.co/EE4fugvImm\n\n#BLACKPINK #블랙핑크 #ROSÉ"
+	},
+	{
+		"created_at": "Tue Jun 29 11:50:29 +0000 2021",
+		"id": 1409841698629243000,
+		"id_str": "1409841698629242883",
+		"full_text": "이달의 소녀(@loonatheworld) 여진은 심규선(@ROXIEEEEEEEE) 노래를 좋아해 즐겨 듣는다고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						7,
+						21
+					]
+				},
+				{
+					"screen_name": "ROXIEEEEEEEE",
+					"name": "심규선 Lucia",
+					"id": 183427484,
+					"id_str": "183427484",
+					"indices": [
+						31,
+						44
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이달의 소녀(@loonatheworld) 여진은 심규선(@ROXIEEEEEEEE) 노래를 좋아해 즐겨 듣는다고."
+	},
+	{
+		"created_at": "Tue Jun 29 11:46:23 +0000 2021",
+		"id": 1409840666843222000,
+		"id_str": "1409840666843222024",
+		"full_text": "#놀라운토요일 #도레미마켓 \n원샷은 탱구꺼! 1세대 걸그룹st 꾸러기 매력 ♡원샷♡#놀라운토요일 | amazingsaturday EP.166 | tvN 210626 방송 \nhttps://t.co/fH5APjSUBC \n \n#김태연 #태연 #탱구 #TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "도레미마켓",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						46,
+						53
+					]
+				},
+				{
+					"text": "김태연",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "탱구",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						136,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fH5APjSUBC",
+					"expanded_url": "https://www.youtube.com/watch?v=X4PjYiSIc6o",
+					"display_url": "youtube.com/watch?v=X4PjYi…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#놀라운토요일 #도레미마켓 \n원샷은 탱구꺼! 1세대 걸그룹st 꾸러기 매력 ♡원샷♡#놀라운토요일 | amazingsaturday EP.166 | tvN 210626 방송 \nhttps://t.co/fH5APjSUBC \n \n#김태연 #태연 #탱구 #TAEYEON"
+	},
+	{
+		"created_at": "Tue Jun 29 11:31:23 +0000 2021",
+		"id": 1409836894385475600,
+		"id_str": "1409836894385475589",
+		"full_text": "#놀라운토요일 #도레미마켓 \n상큼美 폭발 탱구의 여러부운! 모두 부자 되세요(۶•̀ᴗ•́)۶#놀라운토요일 | amazingsaturday EP.166 | tvN 210626 방송 \nhttps://t.co/OqSfmyg9wg \n \n#김태연 #태연 #탱구 #TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "도레미마켓",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "김태연",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "탱구",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						141,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OqSfmyg9wg",
+					"expanded_url": "https://www.youtube.com/watch?v=k0da-SJ1G9o",
+					"display_url": "youtube.com/watch?v=k0da-S…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#놀라운토요일 #도레미마켓 \n상큼美 폭발 탱구의 여러부운! 모두 부자 되세요(۶•̀ᴗ•́)۶#놀라운토요일 | amazingsaturday EP.166 | tvN 210626 방송 \nhttps://t.co/OqSfmyg9wg \n \n#김태연 #태연 #탱구 #TAEYEON"
+	},
+	{
 		"created_at": "Tue Jun 29 10:56:36 +0000 2021",
 		"id": 1409828141762109400,
 		"id_str": "1409828141762109442",
