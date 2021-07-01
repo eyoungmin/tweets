@@ -1,6 +1,687 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 01 09:52:48 +0000 2021",
+		"id": 1410469232714731500,
+		"id_str": "1410536857746784262",
+		"full_text": "We're buzzing right now 'cos VJ @sammalvero got to talk to Guy Berryman and Chris Martin of GRAMMY award-winning band Coldplay (@coldplay) for a #MYXclusive interview! Don't miss its premiere tonight at 7pm on the MYX Global Facebook page, and YouTube channel! https://t.co/6SUdZS3zN1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MYXclusive",
+					"indices": [
+						145,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sammalvero",
+					"name": "Samm Alvero ⁷",
+					"id": 52373325,
+					"id_str": "52373325",
+					"indices": [
+						32,
+						43
+					]
+				},
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						128,
+						137
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1410468407137341400,
+					"id_str": "1410468407137341440",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/E5L9ixZVEAAmXZQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5L9ixZVEAAmXZQ.jpg",
+					"url": "https://t.co/6SUdZS3zN1",
+					"display_url": "pic.twitter.com/6SUdZS3zN1",
+					"expanded_url": "https://twitter.com/myxglobal/status/1410469232714731522/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410468407137341400,
+					"id_str": "1410468407137341440",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/E5L9ixZVEAAmXZQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5L9ixZVEAAmXZQ.jpg",
+					"url": "https://t.co/6SUdZS3zN1",
+					"display_url": "pic.twitter.com/6SUdZS3zN1",
+					"expanded_url": "https://twitter.com/myxglobal/status/1410469232714731522/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45461766,
+			"id_str": "45461766",
+			"name": "MYX Global",
+			"screen_name": "myxglobal",
+			"location": "Philippines",
+			"description": "Your Choice. Your Music. The official Twitter account of the #1 music channel in the Philippines.",
+			"url": "https://t.co/kYgdWDdbNB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kYgdWDdbNB",
+							"expanded_url": "http://www.myx.global",
+							"display_url": "myx.global",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6703309,
+			"friends_count": 886,
+			"listed_count": 3679,
+			"created_at": "Mon Jun 08 00:39:31 +0000 2009",
+			"favourites_count": 2615,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402933046261653504/n1XjiK4l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402933046261653504/n1XjiK4l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45461766/1624094413",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 204,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're buzzing right now 'cos VJ @sammalvero got to talk to Guy Berryman and Chris Martin of GRAMMY award-winning band Coldplay (@coldplay) for a #MYXclusive interview! Don't miss its premiere tonight at 7pm on the MYX Global Facebook page, and YouTube channel! https://t.co/6SUdZS3zN1"
+	},
+	{
+		"created_at": "Thu Jul 01 09:45:44 +0000 2021",
+		"id": 1410525482035015700,
+		"id_str": "1410535080125153285",
+		"full_text": "#LOONA (@loonaJPofficial) の\n日本デビュー曲 \"PTT JPVer.\" が\n#Spotify で配信中🌗\n👉 https://t.co/2hiP5OeBhm\n\nリリースを記念して、Spotifyからハッシュタグ #Spotify_LOONA をつけて楽曲をシェアしてくれた方の中から抽選で1名様にサイン入りSpotifyトートをプレゼント🎁\n\n⇩応募方法⇩ https://t.co/sUrwI7Mgj4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"text": "Spotify_LOONA",
+					"indices": [
+						119,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonaJPofficial",
+					"name": "loonatheworld_jp_official",
+					"id": 1407603879026462700,
+					"id_str": "1407603879026462722",
+					"indices": [
+						8,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2hiP5OeBhm",
+					"expanded_url": "https://spoti.fi/3jrs9Ao",
+					"display_url": "spoti.fi/3jrs9Ao",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1410525356197511200,
+					"id_str": "1410525356197511177",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1410525356197511177/img/xt9L2ArZs5SOjcSU.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1410525356197511177/img/xt9L2ArZs5SOjcSU.jpg",
+					"url": "https://t.co/sUrwI7Mgj4",
+					"display_url": "pic.twitter.com/sUrwI7Mgj4",
+					"expanded_url": "https://twitter.com/SpotifyJP/status/1410525482035015680/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410525356197511200,
+					"id_str": "1410525356197511177",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1410525356197511177/img/xt9L2ArZs5SOjcSU.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1410525356197511177/img/xt9L2ArZs5SOjcSU.jpg",
+					"url": "https://t.co/sUrwI7Mgj4",
+					"display_url": "pic.twitter.com/sUrwI7Mgj4",
+					"expanded_url": "https://twitter.com/SpotifyJP/status/1410525482035015680/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 41675,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1410525356197511177/vid/640x360/Uz5hfT8sa6-vJx5z.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1410525356197511177/vid/1280x720/uN_iQnI3w977QAax.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1410525356197511177/pl/_Vi-YGus7Uda2uKc.m3u8?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1410525356197511177/vid/480x270/SvoYP4IfavVGZA3o.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 749773449459937300,
+			"id_str": "749773449459937280",
+			"name": "Spotify Japan",
+			"screen_name": "SpotifyJP",
+			"location": "日本 東京",
+			"description": "音楽から、ポッドキャストまで。すべては音からはじまる🎧   世界で3億5600万人以上のファンに選ばれている、オーディオ ストリーミングサービスSpotify（スポティファイ）。 #すべては音からはじまる カスタマーサポート：@SpotifyCaresJP",
+			"url": "https://t.co/8TdfuriFMo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8TdfuriFMo",
+							"expanded_url": "https://www.spotifypremium.jp/",
+							"display_url": "spotifypremium.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 203107,
+			"friends_count": 1598,
+			"listed_count": 1036,
+			"created_at": "Mon Jul 04 01:14:55 +0000 2016",
+			"favourites_count": 12839,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212038380407513088/P9PqU4OY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212038380407513088/P9PqU4OY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/749773449459937280/1623769225",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 448,
+		"favorite_count": 1317,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#LOONA (@loonaJPofficial) の\n日本デビュー曲 \"PTT JPVer.\" が\n#Spotify で配信中🌗\n👉 https://t.co/2hiP5OeBhm\n\nリリースを記念して、Spotifyからハッシュタグ #Spotify_LOONA をつけて楽曲をシェアしてくれた方の中から抽選で1名様にサイン入りSpotifyトートをプレゼント🎁\n\n⇩応募方法⇩ https://t.co/sUrwI7Mgj4"
+	},
+	{
+		"created_at": "Thu Jul 01 09:25:05 +0000 2021",
+		"id": 1410529884041093000,
+		"id_str": "1410529884041093120",
+		"full_text": "#이달의소녀 #공식팬카페 #스케줄 \n[이달의 소녀] 2021년 7월 스케줄 \nhttps://t.co/01TEgoyTvD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "스케줄",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/01TEgoyTvD",
+					"expanded_url": "http://cafe.daum.net/loonatheworld/F5dC/54",
+					"display_url": "cafe.daum.net/loonatheworld/…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44956,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #공식팬카페 #스케줄 \n[이달의 소녀] 2021년 7월 스케줄 \nhttps://t.co/01TEgoyTvD"
+	},
+	{
+		"created_at": "Thu Jul 01 09:12:12 +0000 2021",
+		"id": 1410526642003492900,
+		"id_str": "1410526642003492866",
+		"full_text": "#블랙핑크 #BLACKPINK \nBLACKPINK - 「THE ALBUM -JP Ver.-」 Concept Photo Teaser \nhttps://t.co/xmT6I2tyWr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						6,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xmT6I2tyWr",
+					"expanded_url": "https://www.youtube.com/watch?v=p7-jnvsVKb8",
+					"display_url": "youtube.com/watch?v=p7-jnv…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44956,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#블랙핑크 #BLACKPINK \nBLACKPINK - 「THE ALBUM -JP Ver.-」 Concept Photo Teaser \nhttps://t.co/xmT6I2tyWr"
+	},
+	{
 		"created_at": "Thu Jul 01 08:52:47 +0000 2021",
 		"id": 1410521054427205600,
 		"id_str": "1410521757845442562",
