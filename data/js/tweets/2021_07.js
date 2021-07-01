@@ -1,6 +1,525 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 01 06:52:53 +0000 2021",
+		"id": 1410485978377035800,
+		"id_str": "1410491581052899329",
+		"full_text": "Orbit💫 #LOONA made it on the cover of Spotify's main playlist 'New Music K-Pop' and 'FRESH! New Song Delivery'🎉 Enjoy LOONA's [&amp;] album and the new title track 'PTT (Paint The Town)’ on Spotify❤️\n\n#이달의소녀 #AND\n\n🏛 https://t.co/fSB2l5LFy7\n🏛 https://t.co/RFJsdAQafX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						201,
+						207
+					]
+				},
+				{
+					"text": "AND",
+					"indices": [
+						208,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fSB2l5LFy7",
+					"expanded_url": "https://spoti.fi/3juDMqn",
+					"display_url": "spoti.fi/3juDMqn",
+					"indices": [
+						216,
+						239
+					]
+				},
+				{
+					"url": "https://t.co/RFJsdAQafX",
+					"expanded_url": "https://spoti.fi/3AdE6Qa",
+					"display_url": "spoti.fi/3AdE6Qa",
+					"indices": [
+						242,
+						265
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1410485853491630000,
+		"in_reply_to_status_id_str": "1410485853491630080",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 757064,
+			"friends_count": 1,
+			"listed_count": 7598,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3023,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 416,
+		"favorite_count": 2046,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Orbit💫 #LOONA made it on the cover of Spotify's main playlist 'New Music K-Pop' and 'FRESH! New Song Delivery'🎉 Enjoy LOONA's [&amp;] album and the new title track 'PTT (Paint The Town)’ on Spotify❤️\n\n#이달의소녀 #AND\n\n🏛 https://t.co/fSB2l5LFy7\n🏛 https://t.co/RFJsdAQafX"
+	},
+	{
+		"created_at": "Thu Jul 01 06:45:42 +0000 2021",
+		"id": 1410485853491630000,
+		"id_str": "1410489773714808832",
+		"full_text": "오빛💫 #이달의소녀 가 스포티파이의 주요 플레이리스트인 ‘New Music K-Pop’과 ‘신곡 배달 Fresh!’의 커버를 장식했어요🎉 스포티파이에서도 이달의 소녀 [&amp;] 앨범과 신곡 'PTT (Paint The Town)’를 즐겨 주세요❤️\n\n#LOONA #AND\n\n🏛 https://t.co/fSB2l5LFy7\n🏛 https://t.co/RFJsdAQafX https://t.co/ivLv17pfv8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						4,
+						10
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						142,
+						148
+					]
+				},
+				{
+					"text": "AND",
+					"indices": [
+						149,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fSB2l5LFy7",
+					"expanded_url": "https://spoti.fi/3juDMqn",
+					"display_url": "spoti.fi/3juDMqn",
+					"indices": [
+						157,
+						180
+					]
+				},
+				{
+					"url": "https://t.co/RFJsdAQafX",
+					"expanded_url": "https://spoti.fi/3AdE6Qa",
+					"display_url": "spoti.fi/3AdE6Qa",
+					"indices": [
+						183,
+						206
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1410485542584606700,
+					"id_str": "1410485542584606723",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/E5MNIL6UYAMse7U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5MNIL6UYAMse7U.jpg",
+					"url": "https://t.co/ivLv17pfv8",
+					"display_url": "pic.twitter.com/ivLv17pfv8",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1410485853491630080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410485542584606700,
+					"id_str": "1410485542584606723",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/E5MNIL6UYAMse7U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5MNIL6UYAMse7U.jpg",
+					"url": "https://t.co/ivLv17pfv8",
+					"display_url": "pic.twitter.com/ivLv17pfv8",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1410485853491630080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1410485571709915100,
+					"id_str": "1410485571709915137",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/E5MNJ4aVUAEwDO3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5MNJ4aVUAEwDO3.jpg",
+					"url": "https://t.co/ivLv17pfv8",
+					"display_url": "pic.twitter.com/ivLv17pfv8",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1410485853491630080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 757064,
+			"friends_count": 1,
+			"listed_count": 7598,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3023,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1748,
+		"favorite_count": 6155,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오빛💫 #이달의소녀 가 스포티파이의 주요 플레이리스트인 ‘New Music K-Pop’과 ‘신곡 배달 Fresh!’의 커버를 장식했어요🎉 스포티파이에서도 이달의 소녀 [&amp;] 앨범과 신곡 'PTT (Paint The Town)’를 즐겨 주세요❤️\n\n#LOONA #AND\n\n🏛 https://t.co/fSB2l5LFy7\n🏛 https://t.co/RFJsdAQafX https://t.co/ivLv17pfv8"
+	},
+	{
+		"created_at": "Thu Jul 01 06:45:37 +0000 2021",
+		"id": 1410481769640468500,
+		"id_str": "1410489752260956163",
+		"full_text": "[LOOПΔ NEWS]\n\n이달의 소녀 천만뷰, ‘PTT’ 뮤비 공개 이틀만 [공식]\n\n▶️ https://t.co/qEaqEOtKgi\n\n#이달의소녀 #LOONA #AND",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "AND",
+					"indices": [
+						90,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qEaqEOtKgi",
+					"expanded_url": "http://naver.me/xhH9VgBW",
+					"display_url": "naver.me/xhH9VgBW",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 757064,
+			"friends_count": 1,
+			"listed_count": 7598,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3023,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 863,
+		"favorite_count": 4036,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LOOПΔ NEWS]\n\n이달의 소녀 천만뷰, ‘PTT’ 뮤비 공개 이틀만 [공식]\n\n▶️ https://t.co/qEaqEOtKgi\n\n#이달의소녀 #LOONA #AND"
+	},
+	{
 		"created_at": "Thu Jul 01 05:47:40 +0000 2021",
 		"id": 1410475168670048300,
 		"id_str": "1410475168670048258",
