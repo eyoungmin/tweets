@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 01 16:00:58 +0000 2021",
+		"id": 1410619123810246700,
+		"id_str": "1410629511482265607",
+		"full_text": "#슬기 Ver. #맛 #HotSauce 안 본 사람은 있어도 한 번만 본 사람은 없다‼ 앞으로 피자 먹을 때 핫소스 필요🙅🏻‍♀️ 쥔님이 추는 맛 (Hot Sauce)🌶 보면 되거든요😉 #SEULGI #RedVelvet \n\nEvery Tue, Thu 10PM #슬기zip https://t.co/Y3JiUm9PYH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "맛",
+					"indices": [
+						9,
+						11
+					]
+				},
+				{
+					"text": "HotSauce",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						104,
+						111
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						112,
+						122
+					]
+				},
+				{
+					"text": "슬기zip",
+					"indices": [
+						145,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1410618076064714800,
+					"id_str": "1410618076064714764",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1410618076064714764/pu/img/QNbabfGdKjHEADtX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1410618076064714764/pu/img/QNbabfGdKjHEADtX.jpg",
+					"url": "https://t.co/Y3JiUm9PYH",
+					"display_url": "pic.twitter.com/Y3JiUm9PYH",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1410619123810246657/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 408,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410618076064714800,
+					"id_str": "1410618076064714764",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1410618076064714764/pu/img/QNbabfGdKjHEADtX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1410618076064714764/pu/img/QNbabfGdKjHEADtX.jpg",
+					"url": "https://t.co/Y3JiUm9PYH",
+					"display_url": "pic.twitter.com/Y3JiUm9PYH",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1410619123810246657/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 408,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							5
+						],
+						"duration_millis": 28195,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410618076064714764/pu/vid/480x800/6S45LkuMRJzb5a5L.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410618076064714764/pu/vid/320x532/py6MyiheVGmRhd84.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410618076064714764/pu/vid/720x1200/VNS9vCw3fC0Ap6EF.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1410618076064714764/pu/pl/py0NA4O4yqu_EywY.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33784,
+			"friends_count": 1,
+			"listed_count": 127,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1621911527",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2583,
+		"favorite_count": 3787,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기 Ver. #맛 #HotSauce 안 본 사람은 있어도 한 번만 본 사람은 없다‼ 앞으로 피자 먹을 때 핫소스 필요🙅🏻‍♀️ 쥔님이 추는 맛 (Hot Sauce)🌶 보면 되거든요😉 #SEULGI #RedVelvet \n\nEvery Tue, Thu 10PM #슬기zip https://t.co/Y3JiUm9PYH"
+	},
+	{
 		"created_at": "Thu Jul 01 15:17:39 +0000 2021",
 		"id": 1410614923483254800,
 		"id_str": "1410618611190747145",
