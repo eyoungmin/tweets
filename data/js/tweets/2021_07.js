@@ -1,6 +1,733 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 01 07:52:48 +0000 2021",
+		"id": 1410496051249778700,
+		"id_str": "1410506659215163399",
+		"full_text": "제2회 세계문화산업포럼(WCIF) aespa 온라인 특별 공연이 곧 시작됩니다❤️\n\naespa's online special performance of the 2nd World Cultural Industry Forum (WCIF) will begin shortly❤️\n\n(KOR) https://t.co/3eXo7kE5Eo\n(ENG) https://t.co/Eo9wKisemH\n\n#WCIF #aespa #æspa #에스파",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WCIF",
+					"indices": [
+						213,
+						218
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						219,
+						225
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						226,
+						231
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						232,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3eXo7kE5Eo",
+					"expanded_url": "https://youtu.be/5IdBrpOdWxI",
+					"display_url": "youtu.be/5IdBrpOdWxI",
+					"indices": [
+						158,
+						181
+					]
+				},
+				{
+					"url": "https://t.co/Eo9wKisemH",
+					"expanded_url": "https://youtu.be/FVd5F_pNmhI",
+					"display_url": "youtu.be/FVd5F_pNmhI",
+					"indices": [
+						188,
+						211
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1163164,
+			"friends_count": 1,
+			"listed_count": 4475,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3253,
+		"favorite_count": 9836,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제2회 세계문화산업포럼(WCIF) aespa 온라인 특별 공연이 곧 시작됩니다❤️\n\naespa's online special performance of the 2nd World Cultural Industry Forum (WCIF) will begin shortly❤️\n\n(KOR) https://t.co/3eXo7kE5Eo\n(ENG) https://t.co/Eo9wKisemH\n\n#WCIF #aespa #æspa #에스파"
+	},
+	{
+		"created_at": "Thu Jul 01 07:45:37 +0000 2021",
+		"id": 1410495172069134300,
+		"id_str": "1410504851436544004",
+		"full_text": "[Group] Monthly Ranking OPEN\nVote for your ultimate bias!💝\n\n👑NOMINEE \n#SEVENTEEN \n#GOT7\n#iKON\n#MONSTAX\n#EXO\n#BTS\n#StrayKids \n#SuperJunior\n#TWICE\n#ASTRO\n#LOONA \n•\n•\n•\n🏆REWARD : Bus Wrappin AD (1 Month)\n\nVOTE👉🏻https://t.co/IKioiSUvSK https://t.co/IsvRXljT3E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SEVENTEEN",
+					"indices": [
+						70,
+						80
+					]
+				},
+				{
+					"text": "GOT7",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "iKON",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "MONSTAX",
+					"indices": [
+						94,
+						102
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "StrayKids",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"text": "SuperJunior",
+					"indices": [
+						125,
+						137
+					]
+				},
+				{
+					"text": "TWICE",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "ASTRO",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						152,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IKioiSUvSK",
+					"expanded_url": "https://bit.ly/3Aj0TtK",
+					"display_url": "bit.ly/3Aj0TtK",
+					"indices": [
+						208,
+						231
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1410495165601517600,
+					"id_str": "1410495165601517569",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/E5MV4UcVkAERG5g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5MV4UcVkAERG5g.jpg",
+					"url": "https://t.co/IsvRXljT3E",
+					"display_url": "pic.twitter.com/IsvRXljT3E",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1410495172069134338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410495165601517600,
+					"id_str": "1410495165601517569",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/E5MV4UcVkAERG5g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5MV4UcVkAERG5g.jpg",
+					"url": "https://t.co/IsvRXljT3E",
+					"display_url": "pic.twitter.com/IsvRXljT3E",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1410495172069134338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 842271014520148000,
+			"id_str": "842271014520147968",
+			"name": "아이돌챔프",
+			"screen_name": "idolchamp1",
+			"location": "아이돌 맴 속",
+			"description": "MBC M 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82749,
+			"friends_count": 102,
+			"listed_count": 200,
+			"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+			"favourites_count": 300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1580881175",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Group] Monthly Ranking OPEN\nVote for your ultimate bias!💝\n\n👑NOMINEE \n#SEVENTEEN \n#GOT7\n#iKON\n#MONSTAX\n#EXO\n#BTS\n#StrayKids \n#SuperJunior\n#TWICE\n#ASTRO\n#LOONA \n•\n•\n•\n🏆REWARD : Bus Wrappin AD (1 Month)\n\nVOTE👉🏻https://t.co/IKioiSUvSK https://t.co/IsvRXljT3E"
+	},
+	{
+		"created_at": "Thu Jul 01 07:42:12 +0000 2021",
+		"id": 1410503992988389400,
+		"id_str": "1410503992988389376",
+		"full_text": "#SMTOWN #Artist_News \n‘新 음원퀸’ 에스파 ‘Next Level’, 가온 스트리밍 차트도 1위! \nhttps://t.co/Gxts4vEBc1 \n \n#에스파 #aespa #æspa https://t.co/2IB4aFe58n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						104,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Gxts4vEBc1",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5163",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1410503991834841000,
+					"id_str": "1410503991834841093",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/E5Md6EuWEAUw58S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5Md6EuWEAUw58S.jpg",
+					"url": "https://t.co/2IB4aFe58n",
+					"display_url": "pic.twitter.com/2IB4aFe58n",
+					"expanded_url": "https://twitter.com/fromminn/status/1410503992988389376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410503991834841000,
+					"id_str": "1410503991834841093",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/E5Md6EuWEAUw58S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5Md6EuWEAUw58S.jpg",
+					"url": "https://t.co/2IB4aFe58n",
+					"display_url": "pic.twitter.com/2IB4aFe58n",
+					"expanded_url": "https://twitter.com/fromminn/status/1410503992988389376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44956,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81841,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \n‘新 음원퀸’ 에스파 ‘Next Level’, 가온 스트리밍 차트도 1위! \nhttps://t.co/Gxts4vEBc1 \n \n#에스파 #aespa #æspa https://t.co/2IB4aFe58n"
+	},
+	{
+		"created_at": "Thu Jul 01 07:24:31 +0000 2021",
+		"id": 1410499544882847700,
+		"id_str": "1410499544882847749",
+		"full_text": "#웹진예술경영 #예술경영지원센터 \n[예술경영지원센터] 문화예술 사회적경제 기업협력사업 공모 외 공모·행사 소식 \nhttps://t.co/9xUqUA0EGf \n \n#웹진 #예술경영 \n#뉴스레터 #Newsletter",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웹진예술경영",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "뉴스레터",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						107,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9xUqUA0EGf",
+					"expanded_url": "https://notifier.in/item/gvfhuxrra1dr47n0oz46zqocuu8jmoip/2778031.html",
+					"display_url": "notifier.in/item/gvfhuxrra…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44956,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81841,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#웹진예술경영 #예술경영지원센터 \n[예술경영지원센터] 문화예술 사회적경제 기업협력사업 공모 외 공모·행사 소식 \nhttps://t.co/9xUqUA0EGf \n \n#웹진 #예술경영 \n#뉴스레터 #Newsletter"
+	},
+	{
 		"created_at": "Thu Jul 01 06:52:53 +0000 2021",
 		"id": 1410485978377035800,
 		"id_str": "1410491581052899329",
