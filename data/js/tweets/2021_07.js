@@ -1,10 +1,126 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 01 16:12:50 +0000 2021",
+		"id": 1410632499974316000,
+		"id_str": "1410632499974316038",
+		"full_text": "#이달의소녀 #공식팬카페 #공지사항 \n[이달의 소녀] 이달의 소녀(LOOΠΔ) OFFICIAL LIGHT STICK 1주년 기념 MD 예약 판매 안내 \nhttps://t.co/jjDKpaWybU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "공지사항",
+					"indices": [
+						14,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jjDKpaWybU",
+					"expanded_url": "https://cafe.daum.net/loonatheworld/F5dA/312",
+					"display_url": "cafe.daum.net/loonatheworld/…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44956,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81871,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #공식팬카페 #공지사항 \n[이달의 소녀] 이달의 소녀(LOOΠΔ) OFFICIAL LIGHT STICK 1주년 기념 MD 예약 판매 안내 \nhttps://t.co/jjDKpaWybU"
+	},
+	{
 		"created_at": "Thu Jul 01 16:00:58 +0000 2021",
 		"id": 1410619123810246700,
 		"id_str": "1410629511482265607",
-		"full_text": "#슬기 Ver. #맛 #HotSauce 안 본 사람은 있어도 한 번만 본 사람은 없다‼ 앞으로 피자 먹을 때 핫소스 필요🙅🏻‍♀️ 쥔님이 추는 맛 (Hot Sauce)🌶 보면 되거든요😉 #SEULGI #RedVelvet \n\nEvery Tue, Thu 10PM #슬기zip https://t.co/Y3JiUm9PYH",
+		"full_text": "#슬기 Ver. #맛 #HotSauce 안 본 사람은 있어도 한 번만 본 사람은 없다‼ 앞으로 피자 먹을 때 핫소스 필요🙅🏻♀️ 쥔님이 추는 맛 (Hot Sauce)🌶 보면 되거든요😉 #SEULGI #RedVelvet \n\nEvery Tue, Thu 10PM #슬기zip https://t.co/Y3JiUm9PYH",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -247,7 +363,7 @@ Grailbird.data.tweets_2021_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#슬기 Ver. #맛 #HotSauce 안 본 사람은 있어도 한 번만 본 사람은 없다‼ 앞으로 피자 먹을 때 핫소스 필요🙅🏻‍♀️ 쥔님이 추는 맛 (Hot Sauce)🌶 보면 되거든요😉 #SEULGI #RedVelvet \n\nEvery Tue, Thu 10PM #슬기zip https://t.co/Y3JiUm9PYH"
+		"text": "#슬기 Ver. #맛 #HotSauce 안 본 사람은 있어도 한 번만 본 사람은 없다‼ 앞으로 피자 먹을 때 핫소스 필요🙅🏻♀️ 쥔님이 추는 맛 (Hot Sauce)🌶 보면 되거든요😉 #SEULGI #RedVelvet \n\nEvery Tue, Thu 10PM #슬기zip https://t.co/Y3JiUm9PYH"
 	},
 	{
 		"created_at": "Thu Jul 01 15:17:39 +0000 2021",
