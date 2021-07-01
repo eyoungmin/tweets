@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 01 15:00:58 +0000 2021",
+		"id": 1410606750575710200,
+		"id_str": "1410614410238849027",
+		"full_text": "#슬기zip 3주간의 대장정 액자 꾸미기🖼 드! 디! 어! 완성🎉 #슬기 ver. #맛 #HOTSAUCE 🌶 나 또 쥔님 춤선에 반하네... 강슬기 안 사랑하는 법 몰라....😍 \n\n다음 주 화요일 사랑하는 우런니🧡 배우 #공승연 씨가 놀러와요🏡(꺄아 소리질러~~~😆😆) 벌써 재밌는 찐친케미 투슬🐻✌🏻 절대 잊지 말기✨ https://t.co/9rFR5nF6ut",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "맛",
+					"indices": [
+						46,
+						48
+					]
+				},
+				{
+					"text": "HOTSAUCE",
+					"indices": [
+						49,
+						58
+					]
+				},
+				{
+					"text": "공승연",
+					"indices": [
+						124,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1410606744296857600,
+					"id_str": "1410606744296857612",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/E5N7XDeVoAwEjiC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5N7XDeVoAwEjiC.jpg",
+					"url": "https://t.co/9rFR5nF6ut",
+					"display_url": "pic.twitter.com/9rFR5nF6ut",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1410606750575710219/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410606744296857600,
+					"id_str": "1410606744296857612",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/E5N7XDeVoAwEjiC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5N7XDeVoAwEjiC.jpg",
+					"url": "https://t.co/9rFR5nF6ut",
+					"display_url": "pic.twitter.com/9rFR5nF6ut",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1410606750575710219/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1410606747706814500,
+					"id_str": "1410606747706814469",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/E5N7XQLVcAUpfcD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5N7XQLVcAUpfcD.jpg",
+					"url": "https://t.co/9rFR5nF6ut",
+					"display_url": "pic.twitter.com/9rFR5nF6ut",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1410606750575710219/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33742,
+			"friends_count": 1,
+			"listed_count": 128,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1621911527",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1746,
+		"favorite_count": 3152,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 3주간의 대장정 액자 꾸미기🖼 드! 디! 어! 완성🎉 #슬기 ver. #맛 #HOTSAUCE 🌶 나 또 쥔님 춤선에 반하네... 강슬기 안 사랑하는 법 몰라....😍 \n\n다음 주 화요일 사랑하는 우런니🧡 배우 #공승연 씨가 놀러와요🏡(꺄아 소리질러~~~😆😆) 벌써 재밌는 찐친케미 투슬🐻✌🏻 절대 잊지 말기✨ https://t.co/9rFR5nF6ut"
+	},
+	{
 		"created_at": "Thu Jul 01 13:00:57 +0000 2021",
 		"id": 1410584091628425200,
 		"id_str": "1410584207118663688",
