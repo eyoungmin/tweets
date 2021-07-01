@@ -1,6 +1,578 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 01 11:45:48 +0000 2021",
+		"id": 1410560086418722800,
+		"id_str": "1410565296318976011",
+		"full_text": "#이달의소녀\n210701 'PTT (Paint The Town)'\nMnet￼ #엠카운트다운\n\n'PTT (Paint The Town)'\n🏛 https://t.co/JFucKiLGCy\n\n#LOONA #AND",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "엠카운트다운",
+					"indices": [
+						43,
+						50
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "AND",
+					"indices": [
+						109,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JFucKiLGCy",
+					"expanded_url": "https://tv.naver.com/v/21094984",
+					"display_url": "tv.naver.com/v/21094984",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 757419,
+			"friends_count": 1,
+			"listed_count": 7600,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2563,
+		"favorite_count": 7132,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#이달의소녀\n210701 'PTT (Paint The Town)'\nMnet￼ #엠카운트다운\n\n'PTT (Paint The Town)'\n🏛 https://t.co/JFucKiLGCy\n\n#LOONA #AND"
+	},
+	{
+		"created_at": "Thu Jul 01 11:45:43 +0000 2021",
+		"id": 1410558457032237000,
+		"id_str": "1410565274793824262",
+		"full_text": "[팩트iN스타] #이달의소녀  #LOONA \n🎊오빛분들 오래 기다리셨습니다🎊\n팩인스를 이달소로 칠해버린📝\n12명의 여신🧚‍♀️ 두두등장✨\n\n🎬https://t.co/75bjdCHgs5\n\n🖌7/2 (금) 밤 10시 팩인스 유튜브에서 '본캐취업 2부' 공개!\n🏠7/4 (일) 낮 12시 TBS TV 본.방.사.수!\n\n@loonatheworld\n#PaintTheTown #PTT https://t.co/2mQnyGOIqJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						9,
+						15
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						17,
+						23
+					]
+				},
+				{
+					"text": "PaintTheTown",
+					"indices": [
+						190,
+						203
+					]
+				},
+				{
+					"text": "PTT",
+					"indices": [
+						204,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						175,
+						189
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/75bjdCHgs5",
+					"expanded_url": "http://youtu.be/SHIJ2obJZdk",
+					"display_url": "youtu.be/SHIJ2obJZdk",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1410558446760382500,
+					"id_str": "1410558446760382467",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/E5NPbxIUUAMDu3m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5NPbxIUUAMDu3m.jpg",
+					"url": "https://t.co/2mQnyGOIqJ",
+					"display_url": "pic.twitter.com/2mQnyGOIqJ",
+					"expanded_url": "https://twitter.com/factinstar/status/1410558457032237060/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410558446760382500,
+					"id_str": "1410558446760382467",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/E5NPbxIUUAMDu3m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5NPbxIUUAMDu3m.jpg",
+					"url": "https://t.co/2mQnyGOIqJ",
+					"display_url": "pic.twitter.com/2mQnyGOIqJ",
+					"expanded_url": "https://twitter.com/factinstar/status/1410558457032237060/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 800913985407062000,
+			"id_str": "800913985407062016",
+			"name": "팩트인스타 Fact iN Star",
+			"screen_name": "factinstar",
+			"location": "대한민국 서울",
+			"description": "📡팩트iN스타 공식계정\n💜 매주 목요일, 금요일 PM 10:00(KST) 팩트인스타 공식 유튜브 업로드\n💜 매주 일요일 PM 12:00(KST) TBS TV 방송",
+			"url": "https://t.co/WMISAOpZ3q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WMISAOpZ3q",
+							"expanded_url": "https://www.youtube.com/channel/UCakRF1Lu1ZuZR7Dx2B7b_9g",
+							"display_url": "youtube.com/channel/UCakRF…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10038,
+			"friends_count": 2702,
+			"listed_count": 47,
+			"created_at": "Tue Nov 22 04:09:09 +0000 2016",
+			"favourites_count": 2724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4788,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369556882277298183/vdgNM4RC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369556882277298183/vdgNM4RC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/800913985407062016/1615362781",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 432,
+		"favorite_count": 1035,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[팩트iN스타] #이달의소녀  #LOONA \n🎊오빛분들 오래 기다리셨습니다🎊\n팩인스를 이달소로 칠해버린📝\n12명의 여신🧚‍♀️ 두두등장✨\n\n🎬https://t.co/75bjdCHgs5\n\n🖌7/2 (금) 밤 10시 팩인스 유튜브에서 '본캐취업 2부' 공개!\n🏠7/4 (일) 낮 12시 TBS TV 본.방.사.수!\n\n@loonatheworld\n#PaintTheTown #PTT https://t.co/2mQnyGOIqJ"
+	},
+	{
+		"created_at": "Thu Jul 01 11:45:41 +0000 2021",
+		"id": 1410554525505699800,
+		"id_str": "1410565265826455553",
+		"full_text": "KCON:TACT 4 U #LOONA 's 1 min.👉 https://t.co/5P41UfYPXi   \n✨LOONA FULL ver. 👉 https://t.co/85p7MVaZUu \nJOIN the PREMIUM MEMBERSHIP for FULL ver 📌 https://t.co/3htPBHivGc https://t.co/oDqKt7w93U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						14,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5P41UfYPXi",
+					"expanded_url": "https://youtu.be/R-EVc9_dToE",
+					"display_url": "youtu.be/R-EVc9_dToE",
+					"indices": [
+						32,
+						55
+					]
+				},
+				{
+					"url": "https://t.co/85p7MVaZUu",
+					"expanded_url": "https://youtu.be/qKRtXxsl5hY",
+					"display_url": "youtu.be/qKRtXxsl5hY",
+					"indices": [
+						78,
+						101
+					]
+				},
+				{
+					"url": "https://t.co/3htPBHivGc",
+					"expanded_url": "http://youtube.com/KCON/join",
+					"display_url": "youtube.com/KCON/join",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1410466373847765000,
+					"id_str": "1410466373847765001",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/E5L7sazUUAkMZ4m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5L7sazUUAkMZ4m.jpg",
+					"url": "https://t.co/oDqKt7w93U",
+					"display_url": "pic.twitter.com/oDqKt7w93U",
+					"expanded_url": "https://twitter.com/KCON_official/status/1410554525505699843/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410466373847765000,
+					"id_str": "1410466373847765001",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/E5L7sazUUAkMZ4m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5L7sazUUAkMZ4m.jpg",
+					"url": "https://t.co/oDqKt7w93U",
+					"display_url": "pic.twitter.com/oDqKt7w93U",
+					"expanded_url": "https://twitter.com/KCON_official/status/1410554525505699843/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 375640,
+			"friends_count": 75,
+			"listed_count": 993,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 159,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KCON:TACT 4 U #LOONA 's 1 min.👉 https://t.co/5P41UfYPXi   \n✨LOONA FULL ver. 👉 https://t.co/85p7MVaZUu \nJOIN the PREMIUM MEMBERSHIP for FULL ver 📌 https://t.co/3htPBHivGc https://t.co/oDqKt7w93U"
+	},
+	{
 		"created_at": "Thu Jul 01 11:01:02 +0000 2021",
 		"id": 1410553850868629500,
 		"id_str": "1410554032586772483",
