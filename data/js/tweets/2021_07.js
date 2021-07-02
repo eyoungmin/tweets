@@ -1,6 +1,674 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 02 07:52:47 +0000 2021",
+		"id": 1410868439434989600,
+		"id_str": "1410869046275346433",
+		"full_text": "잠시 후 오후 5시(KST)는 뮤직뱅크 하는 시간🐺 #이달의소녀 의 하나 된 목소리가 담긴 'PTT (Paint The Town)' 무대 놓치지 마세요🖤\n\n#이달의소녀_PTT #LOONA #LOONA_PTT https://t.co/s0rEnPpOtx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						29,
+						35
+					]
+				},
+				{
+					"text": "이달의소녀_PTT",
+					"indices": [
+						87,
+						97
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "LOONA_PTT",
+					"indices": [
+						105,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1410863019270152200,
+					"id_str": "1410863019270152194",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/E5RkcOJVIAIlpxV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5RkcOJVIAIlpxV.jpg",
+					"url": "https://t.co/s0rEnPpOtx",
+					"display_url": "pic.twitter.com/s0rEnPpOtx",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1410868439434989570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410863019270152200,
+					"id_str": "1410863019270152194",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/E5RkcOJVIAIlpxV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5RkcOJVIAIlpxV.jpg",
+					"url": "https://t.co/s0rEnPpOtx",
+					"display_url": "pic.twitter.com/s0rEnPpOtx",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1410868439434989570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 758307,
+			"friends_count": 1,
+			"listed_count": 7608,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3031,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2803,
+		"favorite_count": 7514,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시 후 오후 5시(KST)는 뮤직뱅크 하는 시간🐺 #이달의소녀 의 하나 된 목소리가 담긴 'PTT (Paint The Town)' 무대 놓치지 마세요🖤\n\n#이달의소녀_PTT #LOONA #LOONA_PTT https://t.co/s0rEnPpOtx"
+	},
+	{
+		"created_at": "Fri Jul 02 07:49:22 +0000 2021",
+		"id": 1410868184622764000,
+		"id_str": "1410868184622764033",
+		"full_text": "#SMTOWN #네이버포스트\n[태연] 싱글 'Weekend' 맞이 여름 태연 원포인트 레슨\nhttps://t.co/apAHzAwlhy\n#태연 #TAEYEON https://t.co/Xgl1pUITPj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						79,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/apAHzAwlhy",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=31881767&memberNo=41350603&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1410868183112769500,
+					"id_str": "1410868183112769538",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/E5RpIy9WYAIZE-f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5RpIy9WYAIZE-f.jpg",
+					"url": "https://t.co/Xgl1pUITPj",
+					"display_url": "pic.twitter.com/Xgl1pUITPj",
+					"expanded_url": "https://twitter.com/fromminn/status/1410868184622764033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410868183112769500,
+					"id_str": "1410868183112769538",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/E5RpIy9WYAIZE-f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5RpIy9WYAIZE-f.jpg",
+					"url": "https://t.co/Xgl1pUITPj",
+					"display_url": "pic.twitter.com/Xgl1pUITPj",
+					"expanded_url": "https://twitter.com/fromminn/status/1410868184622764033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1053,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44956,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #네이버포스트\n[태연] 싱글 'Weekend' 맞이 여름 태연 원포인트 레슨\nhttps://t.co/apAHzAwlhy\n#태연 #TAEYEON https://t.co/Xgl1pUITPj"
+	},
+	{
+		"created_at": "Fri Jul 02 07:45:37 +0000 2021",
+		"id": 1410865826132021200,
+		"id_str": "1410867238853304320",
+		"full_text": "[#MCOUNTDOWN] This week's pre-voting current TOP20!\n\n☑️ Vote Now at https://t.co/yUxS0yxtY4\n\nJuly 2, 2021 ~ July 5, 2021, 9:00 (KST)\n\n#2PM #SEVENTEEN #NCTDREAM #ACE #LOONA #DRIPPIN #OMEGA_X #JUSTB #BDC #TO1 https://t.co/EoatREha6L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						1,
+						12
+					]
+				},
+				{
+					"text": "2PM",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "SEVENTEEN",
+					"indices": [
+						139,
+						149
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						150,
+						159
+					]
+				},
+				{
+					"text": "ACE",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						165,
+						171
+					]
+				},
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						172,
+						180
+					]
+				},
+				{
+					"text": "OMEGA_X",
+					"indices": [
+						181,
+						189
+					]
+				},
+				{
+					"text": "JUSTB",
+					"indices": [
+						190,
+						196
+					]
+				},
+				{
+					"text": "BDC",
+					"indices": [
+						197,
+						201
+					]
+				},
+				{
+					"text": "TO1",
+					"indices": [
+						202,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yUxS0yxtY4",
+					"expanded_url": "http://bit.ly/MCD_prevoting",
+					"display_url": "bit.ly/MCD_prevoting",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1410865007802261500,
+					"id_str": "1410865007802261504",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/E5RmP-AVIAAlmUO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5RmP-AVIAAlmUO.jpg",
+					"url": "https://t.co/EoatREha6L",
+					"display_url": "pic.twitter.com/EoatREha6L",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1410865826132021250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 773,
+							"h": 779,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 773,
+							"h": 779,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410865007802261500,
+					"id_str": "1410865007802261504",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/E5RmP-AVIAAlmUO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5RmP-AVIAAlmUO.jpg",
+					"url": "https://t.co/EoatREha6L",
+					"display_url": "pic.twitter.com/EoatREha6L",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1410865826132021250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 773,
+							"h": 779,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 773,
+							"h": 779,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 369934613,
+			"id_str": "369934613",
+			"name": "Mwave",
+			"screen_name": "OfficialMwave",
+			"location": "Worldwide",
+			"description": "The official twitter of Mwave!\nEnjoy Mnet K-POP, Mwave",
+			"url": "https://t.co/eqYCWBhWa5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eqYCWBhWa5",
+							"expanded_url": "http://mwave.me",
+							"display_url": "mwave.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1885856,
+			"friends_count": 319,
+			"listed_count": 1921,
+			"created_at": "Thu Sep 08 05:50:31 +0000 2011",
+			"favourites_count": 498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 42105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/369934613/1559616428",
+			"profile_link_color": "E50277",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 215,
+		"favorite_count": 340,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#MCOUNTDOWN] This week's pre-voting current TOP20!\n\n☑️ Vote Now at https://t.co/yUxS0yxtY4\n\nJuly 2, 2021 ~ July 5, 2021, 9:00 (KST)\n\n#2PM #SEVENTEEN #NCTDREAM #ACE #LOONA #DRIPPIN #OMEGA_X #JUSTB #BDC #TO1 https://t.co/EoatREha6L"
+	},
+	{
 		"created_at": "Fri Jul 02 06:45:36 +0000 2021",
 		"id": 1410845846522908700,
 		"id_str": "1410852139044384768",
