@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 02 04:44:19 +0000 2021",
+		"id": 1410810067465638000,
+		"id_str": "1410821615974297603",
+		"full_text": "The Best K-Pop Songs of 2021 So Far\n2021년 현재 최고의 K-Pop 곡들\n\nhttps://t.co/bWzjKrR8JT\n\n#백현 #BAEKHYUN \n#엑소 #EXO\n#밤비 #Bambi\n#aespa #æspa #에스파\n#NextLevel\n#TIME",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백현",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "BAEKHYUN",
+					"indices": [
+						88,
+						97
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "밤비",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "Bambi",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						137,
+						147
+					]
+				},
+				{
+					"text": "TIME",
+					"indices": [
+						148,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bWzjKrR8JT",
+					"expanded_url": "https://time.com/6077450/best-kpop-songs-2021/",
+					"display_url": "time.com/6077450/best-k…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9618717,
+			"friends_count": 55,
+			"listed_count": 10191,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1407,
+		"favorite_count": 5045,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "The Best K-Pop Songs of 2021 So Far\n2021년 현재 최고의 K-Pop 곡들\n\nhttps://t.co/bWzjKrR8JT\n\n#백현 #BAEKHYUN \n#엑소 #EXO\n#밤비 #Bambi\n#aespa #æspa #에스파\n#NextLevel\n#TIME"
+	},
+	{
 		"created_at": "Fri Jul 02 03:45:37 +0000 2021",
 		"id": 1410796620556517400,
 		"id_str": "1410806840812838925",
