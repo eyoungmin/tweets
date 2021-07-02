@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 02 01:45:51 +0000 2021",
+		"id": 1410776003824164900,
+		"id_str": "1410776701618032641",
+		"full_text": "&lt;쇼! 음악중심&gt; 출연자 라인업 공개🥳❣ #2PM  #MSG워너비(#MOM) #MSG워너비(#정상동기) #NCTDREAM #이달의소녀  #브레이브걸스 #업텐션 #에이스  #BDC #DRIPPIN #KINGDOM #OMEGA_X #JUSTB #아웃렛 토요일 오후 3시 10분🚀",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2PM",
+					"indices": [
+						29,
+						33
+					]
+				},
+				{
+					"text": "MSG워너비",
+					"indices": [
+						35,
+						42
+					]
+				},
+				{
+					"text": "MOM",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"text": "MSG워너비",
+					"indices": [
+						49,
+						56
+					]
+				},
+				{
+					"text": "정상동기",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						64,
+						73
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "브레이브걸스",
+					"indices": [
+						82,
+						89
+					]
+				},
+				{
+					"text": "업텐션",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "에이스",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "BDC",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						106,
+						114
+					]
+				},
+				{
+					"text": "KINGDOM",
+					"indices": [
+						115,
+						123
+					]
+				},
+				{
+					"text": "OMEGA_X",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "JUSTB",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "아웃렛",
+					"indices": [
+						140,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 224566089,
+			"id_str": "224566089",
+			"name": "쇼! 음악중심",
+			"screen_name": "MBCMusicCore",
+			"location": "대한민국 서울 (South Korea)",
+			"description": "쇼!음악중심 공식 트위터 / 매주 토요일 오후 3시30분 방송",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 252114,
+			"friends_count": 0,
+			"listed_count": 578,
+			"created_at": "Thu Dec 09 09:33:13 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134414494191374336/lUaIDPwc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134414494191374336/lUaIDPwc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/224566089/1591971824",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 372,
+		"favorite_count": 1614,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "&lt;쇼! 음악중심&gt; 출연자 라인업 공개🥳❣ #2PM  #MSG워너비(#MOM) #MSG워너비(#정상동기) #NCTDREAM #이달의소녀  #브레이브걸스 #업텐션 #에이스  #BDC #DRIPPIN #KINGDOM #OMEGA_X #JUSTB #아웃렛 토요일 오후 3시 10분🚀"
+	},
+	{
+		"created_at": "Fri Jul 02 01:45:46 +0000 2021",
+		"id": 1410772357006852000,
+		"id_str": "1410776680155824131",
+		"full_text": "이번주 #인기가요(#inkigayo) Ep.1100 라인업 공개!\n\nDRIPPIN/LIGHTSUM/브레이브걸스/블링블링/BDC/세븐틴/아웃렛/알렉사/업텐션/A.C.E/NCT DREAM/OMEGA X/원위/이달의 소녀/EPEX/JUST B/KINGDOM/2PM\n\n링크를 확인해주세요↙♥\nhttps://t.co/7Ur4Wxm4W3 https://t.co/A2nFFcFhxs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인기가요",
+					"indices": [
+						4,
+						9
+					]
+				},
+				{
+					"text": "inkigayo",
+					"indices": [
+						10,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7Ur4Wxm4W3",
+					"expanded_url": "https://programs.sbs.co.kr/enter/gayo/board/54772?cmd=view&page=1&board_no=1058",
+					"display_url": "programs.sbs.co.kr/enter/gayo/boa…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1410772297586151400,
+					"id_str": "1410772297586151425",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/E5QR7hiVkAE7Dqm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5QR7hiVkAE7Dqm.jpg",
+					"url": "https://t.co/A2nFFcFhxs",
+					"display_url": "pic.twitter.com/A2nFFcFhxs",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1410772357006852096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1150,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1221,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 652,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410772297586151400,
+					"id_str": "1410772297586151425",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/E5QR7hiVkAE7Dqm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5QR7hiVkAE7Dqm.jpg",
+					"url": "https://t.co/A2nFFcFhxs",
+					"display_url": "pic.twitter.com/A2nFFcFhxs",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1410772357006852096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1150,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1221,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 652,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130755875210088400,
+			"id_str": "1130755875210088448",
+			"name": "SBS인기가요 (SBS Inkigayo)",
+			"screen_name": "sbsnoriter",
+			"location": "Seoul, Republic of Korea",
+			"description": "일요일엔 인기가요! 'SBS인기가요' 공식 채널에서만 만날 수 있는 다양한 콘텐츠를 지금 만나보세요 ~♡ \n--------------------------------\n매주 일요일 오후 3시 50분 \nEvery Sun 3:50(KST) SBS Live on Air",
+			"url": "https://t.co/skgJieaVqa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/skgJieaVqa",
+							"expanded_url": "https://programs.sbs.co.kr/enter/gayo/main",
+							"display_url": "programs.sbs.co.kr/enter/gayo/main",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73726,
+			"friends_count": 0,
+			"listed_count": 311,
+			"created_at": "Tue May 21 08:43:03 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1280728616762933253/4YOXJPkh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1280728616762933253/4YOXJPkh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130755875210088448/1615255987",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1186,
+		"favorite_count": 2924,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주 #인기가요(#inkigayo) Ep.1100 라인업 공개!\n\nDRIPPIN/LIGHTSUM/브레이브걸스/블링블링/BDC/세븐틴/아웃렛/알렉사/업텐션/A.C.E/NCT DREAM/OMEGA X/원위/이달의 소녀/EPEX/JUST B/KINGDOM/2PM\n\n링크를 확인해주세요↙♥\nhttps://t.co/7Ur4Wxm4W3 https://t.co/A2nFFcFhxs"
+	},
+	{
 		"created_at": "Fri Jul 02 00:52:27 +0000 2021",
 		"id": 1410763263613210600,
 		"id_str": "1410763263613210628",
