@@ -1,6 +1,146 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 02 06:45:36 +0000 2021",
+		"id": 1410845846522908700,
+		"id_str": "1410852139044384768",
+		"full_text": "You can't stop us just we 우릴 멈출 수는 없어👊 엠카운트다운 1위 후보 사전 투표가 시작되었습니다! 후보에 오른 #이달의소녀 'PTT (Paint The Town)'에 오빛의 소중한 한 표 투표해 주세요💫\n\n🏛 https://t.co/Mgv0fOCXTV\n🏛 https://t.co/2X7lB6uPeB\n🏛 https://t.co/lLBdDMCfDO\n\n#LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						207,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mgv0fOCXTV",
+					"expanded_url": "https://m.mwave.me/en/mcountdown/prevoting/vote",
+					"display_url": "m.mwave.me/en/mcountdown/…",
+					"indices": [
+						130,
+						153
+					]
+				},
+				{
+					"url": "https://t.co/2X7lB6uPeB",
+					"expanded_url": "https://mcountdown.genie.co.kr/vote/pre",
+					"display_url": "mcountdown.genie.co.kr/vote/pre",
+					"indices": [
+						156,
+						179
+					]
+				},
+				{
+					"url": "https://t.co/lLBdDMCfDO",
+					"expanded_url": "https://mnetjp.com/mcountdown/vote/",
+					"display_url": "mnetjp.com/mcountdown/vot…",
+					"indices": [
+						182,
+						205
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 758264,
+			"friends_count": 1,
+			"listed_count": 7606,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2166,
+		"favorite_count": 5585,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "You can't stop us just we 우릴 멈출 수는 없어👊 엠카운트다운 1위 후보 사전 투표가 시작되었습니다! 후보에 오른 #이달의소녀 'PTT (Paint The Town)'에 오빛의 소중한 한 표 투표해 주세요💫\n\n🏛 https://t.co/Mgv0fOCXTV\n🏛 https://t.co/2X7lB6uPeB\n🏛 https://t.co/lLBdDMCfDO\n\n#LOONA"
+	},
+	{
 		"created_at": "Fri Jul 02 05:52:56 +0000 2021",
 		"id": 1410833496067645400,
 		"id_str": "1410838881247842305",
