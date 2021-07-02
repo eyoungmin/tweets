@@ -1,6 +1,677 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 02 09:45:39 +0000 2021",
+		"id": 1410892403062366200,
+		"id_str": "1410897449862979588",
+		"full_text": "#이달의소녀 \n210702 'PTT (Paint The Town)'\nKBS #뮤직뱅크\n\n'PTT (Paint The Town)'\n🏛 https://t.co/t8RAKAq2pH\n\n#LOONA #AND",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "뮤직뱅크",
+					"indices": [
+						42,
+						47
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "AND",
+					"indices": [
+						106,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t8RAKAq2pH",
+					"expanded_url": "http://naver.me/FpXlUiRM",
+					"display_url": "naver.me/FpXlUiRM",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 758441,
+			"friends_count": 1,
+			"listed_count": 7608,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3032,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1898,
+		"favorite_count": 5461,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#이달의소녀 \n210702 'PTT (Paint The Town)'\nKBS #뮤직뱅크\n\n'PTT (Paint The Town)'\n🏛 https://t.co/t8RAKAq2pH\n\n#LOONA #AND"
+	},
+	{
+		"created_at": "Fri Jul 02 09:45:36 +0000 2021",
+		"id": 1410884741671252000,
+		"id_str": "1410897436764168192",
+		"full_text": "[#21세기잠방]\n길거리에 꽃들이 \n마구 피어 있는 이곳,  \n암스테르담이야\n.\n어느 낯선 도시에서\n#이달의소녀 츄가 보내온 편지.\n지금 네이버 #오디오클립 에서 들으실 수 있습니다.\n@loonatheworld #LOONA #Chuu\nhttps://t.co/ZYbh0yuvKT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "21세기잠방",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"text": "오디오클립",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						125,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						103,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZYbh0yuvKT",
+					"expanded_url": "https://audioclip.naver.com/channels/4646/clips/128",
+					"display_url": "audioclip.naver.com/channels/4646/…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 904627296266358800,
+			"id_str": "904627296266358785",
+			"name": "MOMO X(모모엑스)",
+			"screen_name": "momox_official",
+			"location": "",
+			"description": "모바일 미디어 그룹 모모콘이 선보이는 신개념 예능 브랜드 #MOMOX 의 공식 트위터입니다 ✌🏻",
+			"url": "https://t.co/ym1qJkvs8S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ym1qJkvs8S",
+							"expanded_url": "https://www.youtube.com/MOMOXMEDIA",
+							"display_url": "youtube.com/MOMOXMEDIA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5950,
+			"friends_count": 0,
+			"listed_count": 44,
+			"created_at": "Mon Sep 04 08:48:49 +0000 2017",
+			"favourites_count": 229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1032100418317254656/V4y9tAhy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032100418317254656/V4y9tAhy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/904627296266358785/1534906876",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 103,
+		"favorite_count": 304,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#21세기잠방]\n길거리에 꽃들이 \n마구 피어 있는 이곳,  \n암스테르담이야\n.\n어느 낯선 도시에서\n#이달의소녀 츄가 보내온 편지.\n지금 네이버 #오디오클립 에서 들으실 수 있습니다.\n@loonatheworld #LOONA #Chuu\nhttps://t.co/ZYbh0yuvKT"
+	},
+	{
+		"created_at": "Fri Jul 02 09:42:17 +0000 2021",
+		"id": 1410896602508705800,
+		"id_str": "1410896602508705796",
+		"full_text": "#테스트 https://t.co/ue9itrRfIw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "테스트",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1410896601514745900,
+					"id_str": "1410896601514745857",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/E5SC-9wXoAEkUAx.png",
+					"media_url_https": "https://pbs.twimg.com/media/E5SC-9wXoAEkUAx.png",
+					"url": "https://t.co/ue9itrRfIw",
+					"display_url": "pic.twitter.com/ue9itrRfIw",
+					"expanded_url": "https://twitter.com/fromminn/status/1410896602508705796/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 494,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 494,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410896601514745900,
+					"id_str": "1410896601514745857",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/media/E5SC-9wXoAEkUAx.png",
+					"media_url_https": "https://pbs.twimg.com/media/E5SC-9wXoAEkUAx.png",
+					"url": "https://t.co/ue9itrRfIw",
+					"display_url": "pic.twitter.com/ue9itrRfIw",
+					"expanded_url": "https://twitter.com/fromminn/status/1410896602508705796/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 494,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 494,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44956,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#테스트 https://t.co/ue9itrRfIw"
+	},
+	{
+		"created_at": "Fri Jul 02 09:15:39 +0000 2021",
+		"id": 1410886060796641300,
+		"id_str": "1410889898526003200",
+		"full_text": "[유라]\n21.07.12 [Pacemaker]\n1. 유라(youra) - 놀이공원 (Roller Coaster)\n2. 유라(youra) - 서울 사이보그 (Seoul Cyborg)\n\n#유라 #인디 #music #노래 #음악 https://t.co/a61hyg4Ky9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유라",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "노래",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "음악",
+					"indices": [
+						121,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1410883170858258400,
+					"id_str": "1410883170858258432",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/E5R2xMqVUAA_3yK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5R2xMqVUAA_3yK.jpg",
+					"url": "https://t.co/a61hyg4Ky9",
+					"display_url": "pic.twitter.com/a61hyg4Ky9",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1410886060796641286/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 891,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 505,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1069,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410883170858258400,
+					"id_str": "1410883170858258432",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/E5R2xMqVUAA_3yK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5R2xMqVUAA_3yK.jpg",
+					"url": "https://t.co/a61hyg4Ky9",
+					"display_url": "pic.twitter.com/a61hyg4Ky9",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1410886060796641286/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 891,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 505,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1069,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/에버루아/아일",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 783,
+			"friends_count": 8,
+			"listed_count": 16,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유라]\n21.07.12 [Pacemaker]\n1. 유라(youra) - 놀이공원 (Roller Coaster)\n2. 유라(youra) - 서울 사이보그 (Seoul Cyborg)\n\n#유라 #인디 #music #노래 #음악 https://t.co/a61hyg4Ky9"
+	},
+	{
 		"created_at": "Fri Jul 02 08:53:12 +0000 2021",
 		"id": 1410876642264862700,
 		"id_str": "1410884248798740481",
