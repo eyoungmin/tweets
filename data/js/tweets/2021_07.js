@@ -1,6 +1,593 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 02 10:52:48 +0000 2021",
+		"id": 1410901064254038000,
+		"id_str": "1410914345228324865",
+		"full_text": "[#Behind] 네이버 포스트 업로드\n나뚜루 광고 촬영현장 비하인드\n\n▶ https://t.co/rz27Pji38b\n\n#Seori #서리 #나뚜루\n#네이버 #포스트 https://t.co/Z129SKDGe8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Behind",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "서리",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "나뚜루",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "네이버",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "포스트",
+					"indices": [
+						88,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rz27Pji38b",
+					"expanded_url": "http://naver.me/GvkTDSOH",
+					"display_url": "naver.me/GvkTDSOH",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1410896208009130000,
+					"id_str": "1410896208009129988",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/E5SCoD1UcAQAJMJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5SCoD1UcAQAJMJ.jpg",
+					"url": "https://t.co/Z129SKDGe8",
+					"display_url": "pic.twitter.com/Z129SKDGe8",
+					"expanded_url": "https://twitter.com/seori_official/status/1410901064254038018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410896208009130000,
+					"id_str": "1410896208009129988",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/E5SCoD1UcAQAJMJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5SCoD1UcAQAJMJ.jpg",
+					"url": "https://t.co/Z129SKDGe8",
+					"display_url": "pic.twitter.com/Z129SKDGe8",
+					"expanded_url": "https://twitter.com/seori_official/status/1410901064254038018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18763,
+			"friends_count": 0,
+			"listed_count": 71,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 280,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1622531493",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 516,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Behind] 네이버 포스트 업로드\n나뚜루 광고 촬영현장 비하인드\n\n▶ https://t.co/rz27Pji38b\n\n#Seori #서리 #나뚜루\n#네이버 #포스트 https://t.co/Z129SKDGe8"
+	},
+	{
+		"created_at": "Fri Jul 02 10:45:43 +0000 2021",
+		"id": 1410910124273635300,
+		"id_str": "1410912562376593410",
+		"full_text": "KCON:TACT 4 U #LOONA 's 1 min.\n👉 https://t.co/cSvzyakfLv   \n✨LOONA FULL ver. \n👉 https://t.co/l64zkCwlZD \nJOIN the PREMIUM MEMBERSHIP for FULL ver\n📌 https://t.co/f82AcVV5y5 https://t.co/IHIBaqoikA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						14,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cSvzyakfLv",
+					"expanded_url": "https://youtu.be/R-EVc9_dToE",
+					"display_url": "youtu.be/R-EVc9_dToE",
+					"indices": [
+						33,
+						56
+					]
+				},
+				{
+					"url": "https://t.co/l64zkCwlZD",
+					"expanded_url": "https://youtu.be/qKRtXxsl5hY",
+					"display_url": "youtu.be/qKRtXxsl5hY",
+					"indices": [
+						80,
+						103
+					]
+				},
+				{
+					"url": "https://t.co/f82AcVV5y5",
+					"expanded_url": "http://youtube.com/KCON/join",
+					"display_url": "youtube.com/KCON/join",
+					"indices": [
+						148,
+						171
+					]
+				},
+				{
+					"url": "https://t.co/IHIBaqoikA",
+					"expanded_url": "https://twitter.com/KCON_official/status/1410554525505699843",
+					"display_url": "twitter.com/KCON_official/…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3017029196,
+			"id_str": "3017029196",
+			"name": "KCON Japan",
+			"screen_name": "kconjapan",
+			"location": "",
+			"description": "世界最大級のK-Cultureフェスティバル『KCON JAPAN』の公式Twitterです！\n「KCON:TACT 4 U」 6/19(SAT)~6/27(SUN)\n📺 YouTube：KCON Official  / Mnet K-POP",
+			"url": "https://t.co/etAcwG6OZj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/etAcwG6OZj",
+							"expanded_url": "http://kconofficial.com/jp/",
+							"display_url": "kconofficial.com/jp/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 155007,
+			"friends_count": 132,
+			"listed_count": 319,
+			"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5ABB5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391537064353558530/QRfa0Egm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391537064353558530/QRfa0Egm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1620603263",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1410554525505699800,
+		"quoted_status_id_str": "1410554525505699843",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IHIBaqoikA",
+			"expanded": "https://twitter.com/KCON_official/status/1410554525505699843",
+			"display": "twitter.com/KCON_official/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 01 11:03:00 +0000 2021",
+			"id": 1410554525505699800,
+			"id_str": "1410554525505699843",
+			"full_text": "KCON:TACT 4 U #LOONA 's 1 min.👉 https://t.co/5P41UfYPXi   \n✨LOONA FULL ver. 👉 https://t.co/85p7MVaZUu \nJOIN the PREMIUM MEMBERSHIP for FULL ver 📌 https://t.co/3htPBHivGc https://t.co/oDqKt7w93U",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				169
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LOONA",
+						"indices": [
+							14,
+							20
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5P41UfYPXi",
+						"expanded_url": "https://youtu.be/R-EVc9_dToE",
+						"display_url": "youtu.be/R-EVc9_dToE",
+						"indices": [
+							32,
+							55
+						]
+					},
+					{
+						"url": "https://t.co/85p7MVaZUu",
+						"expanded_url": "https://youtu.be/qKRtXxsl5hY",
+						"display_url": "youtu.be/qKRtXxsl5hY",
+						"indices": [
+							78,
+							101
+						]
+					},
+					{
+						"url": "https://t.co/3htPBHivGc",
+						"expanded_url": "http://youtube.com/KCON/join",
+						"display_url": "youtube.com/KCON/join",
+						"indices": [
+							146,
+							169
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1410466373847765000,
+						"id_str": "1410466373847765001",
+						"indices": [
+							170,
+							193
+						],
+						"media_url": "http://pbs.twimg.com/media/E5L7sazUUAkMZ4m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5L7sazUUAkMZ4m.jpg",
+						"url": "https://t.co/oDqKt7w93U",
+						"display_url": "pic.twitter.com/oDqKt7w93U",
+						"expanded_url": "https://twitter.com/KCON_official/status/1410554525505699843/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1410466373847765000,
+						"id_str": "1410466373847765001",
+						"indices": [
+							170,
+							193
+						],
+						"media_url": "http://pbs.twimg.com/media/E5L7sazUUAkMZ4m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5L7sazUUAkMZ4m.jpg",
+						"url": "https://t.co/oDqKt7w93U",
+						"display_url": "pic.twitter.com/oDqKt7w93U",
+						"expanded_url": "https://twitter.com/KCON_official/status/1410554525505699843/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 135447868,
+				"id_str": "135447868",
+				"name": "KCON official",
+				"screen_name": "KCON_official",
+				"location": "Mnet, Seoul, Republic of KOREA",
+				"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+				"url": "https://t.co/IDnJhWG279",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IDnJhWG279",
+								"expanded_url": "http://kconofficial.com",
+								"display_url": "kconofficial.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 375916,
+				"friends_count": 75,
+				"listed_count": 991,
+				"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+				"favourites_count": 128,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10389,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 61,
+			"favorite_count": 258,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KCON:TACT 4 U #LOONA 's 1 min.\n👉 https://t.co/cSvzyakfLv   \n✨LOONA FULL ver. \n👉 https://t.co/l64zkCwlZD \nJOIN the PREMIUM MEMBERSHIP for FULL ver\n📌 https://t.co/f82AcVV5y5 https://t.co/IHIBaqoikA"
+	},
+	{
 		"created_at": "Fri Jul 02 09:45:39 +0000 2021",
 		"id": 1410892403062366200,
 		"id_str": "1410897449862979588",
