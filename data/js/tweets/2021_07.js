@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 02 19:45:36 +0000 2021",
+		"id": 1411047020148629500,
+		"id_str": "1411048432496676869",
+		"full_text": "#LOONA's Breaking Live REPLAY OPEN 💝\nFULL ver. ▶️ https://t.co/cH8TZJT5rQ\n\n#KCONTACT #KCONTACT4U https://t.co/XNBS82jBbw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						75,
+						84
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						85,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cH8TZJT5rQ",
+					"expanded_url": "http://youtu.be/2nHHGuiIzNU",
+					"display_url": "youtu.be/2nHHGuiIzNU",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1411030146509770800,
+					"id_str": "1411030146509770752",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1411030146509770752/img/WMgD8Qi_c7rdczwx.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1411030146509770752/img/WMgD8Qi_c7rdczwx.jpg",
+					"url": "https://t.co/XNBS82jBbw",
+					"display_url": "pic.twitter.com/XNBS82jBbw",
+					"expanded_url": "https://twitter.com/kconusa/status/1411047020148629508/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411030146509770800,
+					"id_str": "1411030146509770752",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1411030146509770752/img/WMgD8Qi_c7rdczwx.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1411030146509770752/img/WMgD8Qi_c7rdczwx.jpg",
+					"url": "https://t.co/XNBS82jBbw",
+					"display_url": "pic.twitter.com/XNBS82jBbw",
+					"expanded_url": "https://twitter.com/kconusa/status/1411047020148629508/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26627,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1411030146509770752/vid/480x270/7npDZE5kpmx7dK-L.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1411030146509770752/vid/640x360/sYgJP3llee1euTDb.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1411030146509770752/pl/s78_WtgvafVs4Ry-.m3u8?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1411030146509770752/vid/1280x720/DOi9Vwp89yRuFG19.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739451875,
+			"id_str": "739451875",
+			"name": "KCONUSA",
+			"screen_name": "kconusa",
+			"location": "Los Angeles, CA",
+			"description": "The official Twitter account of KCONUSA. #LetsKCON",
+			"url": "https://t.co/hfFB24vdQJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hfFB24vdQJ",
+							"expanded_url": "http://www.kconusa.com",
+							"display_url": "kconusa.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197185,
+			"friends_count": 5,
+			"listed_count": 434,
+			"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+			"favourites_count": 2972,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18734,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391543522545729542/uejKzOZL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391543522545729542/uejKzOZL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1620604805",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LOONA's Breaking Live REPLAY OPEN 💝\nFULL ver. ▶️ https://t.co/cH8TZJT5rQ\n\n#KCONTACT #KCONTACT4U https://t.co/XNBS82jBbw"
+	},
+	{
 		"created_at": "Fri Jul 02 18:45:36 +0000 2021",
 		"id": 1411023364429389800,
 		"id_str": "1411033332843008000",
