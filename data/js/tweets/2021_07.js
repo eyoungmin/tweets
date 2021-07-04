@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 04 04:45:36 +0000 2021",
+		"id": 1411535237629104000,
+		"id_str": "1411546715325349888",
+		"full_text": "오빛안녕!🥰👋 드디어! \n이달의 소녀🌙 LIVE예고편이 도착했어요!✉️\n\n귀를 녹이는 달달한 이달소의 LIVE!!🎤🎶\n내일 오후 7시 dingo global DGG에서 만날수 있어요!💞\n\n#이달의소녀 #LOONA #DanceOnMyOwn #LIVEDGG #dgg #dingo #dingoglobal https://t.co/zFLGu3Hc9a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "DanceOnMyOwn",
+					"indices": [
+						119,
+						132
+					]
+				},
+				{
+					"text": "LIVEDGG",
+					"indices": [
+						133,
+						141
+					]
+				},
+				{
+					"text": "dgg",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "dingo",
+					"indices": [
+						147,
+						153
+					]
+				},
+				{
+					"text": "dingoglobal",
+					"indices": [
+						154,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1410874530969489400,
+					"id_str": "1410874530969489411",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1410874530969489411/pu/img/zaK2jfH-M-7SZjf_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1410874530969489411/pu/img/zaK2jfH-M-7SZjf_.jpg",
+					"url": "https://t.co/zFLGu3Hc9a",
+					"display_url": "pic.twitter.com/zFLGu3Hc9a",
+					"expanded_url": "https://twitter.com/dingo_dgg/status/1411535237629104133/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410874530969489400,
+					"id_str": "1410874530969489411",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1410874530969489411/pu/img/zaK2jfH-M-7SZjf_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1410874530969489411/pu/img/zaK2jfH-M-7SZjf_.jpg",
+					"url": "https://t.co/zFLGu3Hc9a",
+					"display_url": "pic.twitter.com/zFLGu3Hc9a",
+					"expanded_url": "https://twitter.com/dingo_dgg/status/1411535237629104133/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 20020,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410874530969489411/pu/vid/480x270/TtAMSjNMvLI4w0BE.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410874530969489411/pu/vid/640x360/b_g2AmG69mChXvue.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1410874530969489411/pu/pl/ID3G7g4mA4IH_QkK.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410874530969489411/pu/vid/1280x720/hG0BJaNtulzDP8Ik.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377863784560128000,
+			"id_str": "1377863784560128002",
+			"name": "dgg",
+			"screen_name": "dingo_dgg",
+			"location": "대한민국",
+			"description": "dingo global official twitter! hey DGG🙋🏻‍♀️안녕 내 이름은 디지지❤️💚",
+			"url": "https://t.co/632yww1729",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/632yww1729",
+							"expanded_url": "https://youtube.com/c/dingoglobaldgg",
+							"display_url": "youtube.com/c/dingoglobald…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2187,
+			"friends_count": 1,
+			"listed_count": 8,
+			"created_at": "Fri Apr 02 06:01:48 +0000 2021",
+			"favourites_count": 151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1392389133864079361/lFsx6_0p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1392389133864079361/lFsx6_0p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377863784560128002/1620806464",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 470,
+		"favorite_count": 1147,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오빛안녕!🥰👋 드디어! \n이달의 소녀🌙 LIVE예고편이 도착했어요!✉️\n\n귀를 녹이는 달달한 이달소의 LIVE!!🎤🎶\n내일 오후 7시 dingo global DGG에서 만날수 있어요!💞\n\n#이달의소녀 #LOONA #DanceOnMyOwn #LIVEDGG #dgg #dingo #dingoglobal https://t.co/zFLGu3Hc9a"
+	},
+	{
 		"created_at": "Sun Jul 04 03:45:44 +0000 2021",
 		"id": 1411528074705850400,
 		"id_str": "1411531646663278594",
