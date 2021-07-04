@@ -1,6 +1,608 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 04 08:45:50 +0000 2021",
+		"id": 1411596385212788700,
+		"id_str": "1411607169980678146",
+		"full_text": "[🎥#페이스캠] 이달의 소녀 - PTT (Paint The Town)\n\n#인기가요 #이달의소녀 #LOONA #PTT #이달의소녀_PTT #LOONA_PTT @loonatheworld\n\n#올리비아혜: https://t.co/RnTiKqAt81\n#츄: https://t.co/P0pwEUkaJt\n#희진: https://t.co/99c0h7VwhP\n#여진: https://t.co/E8QoDLjNU4 https://t.co/jhTEfGneo0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "페이스캠",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						40,
+						45
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						46,
+						52
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "PTT",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "이달의소녀_PTT",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"text": "LOONA_PTT",
+					"indices": [
+						76,
+						86
+					]
+				},
+				{
+					"text": "올리비아혜",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						135,
+						137
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						192,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						87,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RnTiKqAt81",
+					"expanded_url": "https://youtu.be/rWhWN3wYxGg",
+					"display_url": "youtu.be/rWhWN3wYxGg",
+					"indices": [
+						111,
+						134
+					]
+				},
+				{
+					"url": "https://t.co/P0pwEUkaJt",
+					"expanded_url": "https://youtu.be/DeaCMBw_Hok",
+					"display_url": "youtu.be/DeaCMBw_Hok",
+					"indices": [
+						139,
+						162
+					]
+				},
+				{
+					"url": "https://t.co/99c0h7VwhP",
+					"expanded_url": "https://youtu.be/sJS2iDbKs0A",
+					"display_url": "youtu.be/sJS2iDbKs0A",
+					"indices": [
+						168,
+						191
+					]
+				},
+				{
+					"url": "https://t.co/E8QoDLjNU4",
+					"expanded_url": "https://youtu.be/sImCeRLGs18",
+					"display_url": "youtu.be/sImCeRLGs18",
+					"indices": [
+						197,
+						220
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1411596375846838300,
+					"id_str": "1411596375846838272",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/E5b_bMSUYAA1ncS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5b_bMSUYAA1ncS.jpg",
+					"url": "https://t.co/jhTEfGneo0",
+					"display_url": "pic.twitter.com/jhTEfGneo0",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1411596385212788737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411596375846838300,
+					"id_str": "1411596375846838272",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/E5b_bMSUYAA1ncS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5b_bMSUYAA1ncS.jpg",
+					"url": "https://t.co/jhTEfGneo0",
+					"display_url": "pic.twitter.com/jhTEfGneo0",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1411596385212788737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/qapZ7nOCns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qapZ7nOCns",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 466869,
+			"friends_count": 77,
+			"listed_count": 484,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 3208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1625368483",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 201,
+		"favorite_count": 372,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥#페이스캠] 이달의 소녀 - PTT (Paint The Town)\n\n#인기가요 #이달의소녀 #LOONA #PTT #이달의소녀_PTT #LOONA_PTT @loonatheworld\n\n#올리비아혜: https://t.co/RnTiKqAt81\n#츄: https://t.co/P0pwEUkaJt\n#희진: https://t.co/99c0h7VwhP\n#여진: https://t.co/E8QoDLjNU4 https://t.co/jhTEfGneo0"
+	},
+	{
+		"created_at": "Sun Jul 04 08:45:42 +0000 2021",
+		"id": 1411596115246424000,
+		"id_str": "1411607135985754113",
+		"full_text": "[🎥#안방1열직캠] 이달의 소녀 - PTT (Paint The Town)\n\n#인기가요 #이달의소녀 #LOONA #PTT #이달의소녀_PTT #LOONA_PTT @loonatheworld\n\n#진솔: https://t.co/VJWnJp7GEk\n#최리: https://t.co/zDrdSS6Liy\n#하슬: https://t.co/6z9rFtgi2R\n#현진: https://t.co/vvRC09olTf https://t.co/X7krP9J3bG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안방1열직캠",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						42,
+						47
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "PTT",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "이달의소녀_PTT",
+					"indices": [
+						67,
+						77
+					]
+				},
+				{
+					"text": "LOONA_PTT",
+					"indices": [
+						78,
+						88
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "하슬",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						192,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						89,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VJWnJp7GEk",
+					"expanded_url": "https://youtu.be/iSUpJwcEgfA",
+					"display_url": "youtu.be/iSUpJwcEgfA",
+					"indices": [
+						110,
+						133
+					]
+				},
+				{
+					"url": "https://t.co/zDrdSS6Liy",
+					"expanded_url": "https://youtu.be/KKmxKAu_3qE",
+					"display_url": "youtu.be/KKmxKAu_3qE",
+					"indices": [
+						139,
+						162
+					]
+				},
+				{
+					"url": "https://t.co/6z9rFtgi2R",
+					"expanded_url": "https://youtu.be/DRQZ8igP38U",
+					"display_url": "youtu.be/DRQZ8igP38U",
+					"indices": [
+						168,
+						191
+					]
+				},
+				{
+					"url": "https://t.co/vvRC09olTf",
+					"expanded_url": "https://youtu.be/pYOEMn1FXhw",
+					"display_url": "youtu.be/pYOEMn1FXhw",
+					"indices": [
+						197,
+						220
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1411596105796649000,
+					"id_str": "1411596105796648963",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/E5b_LeRVgAMgT4Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5b_LeRVgAMgT4Y.jpg",
+					"url": "https://t.co/X7krP9J3bG",
+					"display_url": "pic.twitter.com/X7krP9J3bG",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1411596115246424066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411596105796649000,
+					"id_str": "1411596105796648963",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/E5b_LeRVgAMgT4Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5b_LeRVgAMgT4Y.jpg",
+					"url": "https://t.co/X7krP9J3bG",
+					"display_url": "pic.twitter.com/X7krP9J3bG",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1411596115246424066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/qapZ7nOCns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qapZ7nOCns",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 466869,
+			"friends_count": 77,
+			"listed_count": 484,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 3208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1625368483",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 205,
+		"favorite_count": 377,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥#안방1열직캠] 이달의 소녀 - PTT (Paint The Town)\n\n#인기가요 #이달의소녀 #LOONA #PTT #이달의소녀_PTT #LOONA_PTT @loonatheworld\n\n#진솔: https://t.co/VJWnJp7GEk\n#최리: https://t.co/zDrdSS6Liy\n#하슬: https://t.co/6z9rFtgi2R\n#현진: https://t.co/vvRC09olTf https://t.co/X7krP9J3bG"
+	},
+	{
 		"created_at": "Sun Jul 04 07:52:48 +0000 2021",
 		"id": 1411585873976590300,
 		"id_str": "1411593822405120002",
