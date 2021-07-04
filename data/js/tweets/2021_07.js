@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 04 17:52:47 +0000 2021",
+		"id": 1411742936530829300,
+		"id_str": "1411744817005137923",
+		"full_text": "We’re part of @NBC’s #MacysFireworks Spectacular tonight at 8/7c. It wouldn’t be 4th of July without fireworks and alien hologram dancers 👾💥🇺🇸 PH https://t.co/kShMA7pc2Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MacysFireworks",
+					"indices": [
+						21,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nbc",
+					"name": "NBC Entertainment",
+					"id": 26585095,
+					"id_str": "26585095",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1411742264926290000,
+					"id_str": "1411742264926289923",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/E5eEHDdWQAMn3ll.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5eEHDdWQAMn3ll.jpg",
+					"url": "https://t.co/kShMA7pc2Z",
+					"display_url": "pic.twitter.com/kShMA7pc2Z",
+					"expanded_url": "https://twitter.com/coldplay/status/1411742936530829313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411742264926290000,
+					"id_str": "1411742264926289923",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/E5eEHDdWQAMn3ll.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5eEHDdWQAMn3ll.jpg",
+					"url": "https://t.co/kShMA7pc2Z",
+					"display_url": "pic.twitter.com/kShMA7pc2Z",
+					"expanded_url": "https://twitter.com/coldplay/status/1411742936530829313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Kaotica",
+			"description": "The official Twitter of the band Coldplay. New single, Higher Power, out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23003712,
+			"friends_count": 759,
+			"listed_count": 42747,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1307,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1620345079",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 777,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’re part of @NBC’s #MacysFireworks Spectacular tonight at 8/7c. It wouldn’t be 4th of July without fireworks and alien hologram dancers 👾💥🇺🇸 PH https://t.co/kShMA7pc2Z"
+	},
+	{
 		"created_at": "Sun Jul 04 15:18:28 +0000 2021",
 		"id": 1411701341806862300,
 		"id_str": "1411705981956857860",
