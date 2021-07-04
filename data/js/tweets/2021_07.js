@@ -1,6 +1,476 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 04 15:18:28 +0000 2021",
+		"id": 1411701341806862300,
+		"id_str": "1411705981956857860",
+		"full_text": "TAEYEON 태연 'Weekend' MV Teaser\n\nTAEYEON 태연 Single [Weekend]\n\n🎧 2021.07.06. 6PM KST\n\n#태연 #TAEYEON\n#Weekend\n#소녀시대 #GirlsGeneration https://t.co/CFvR6lTFrM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						112,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1411628440025927700,
+					"id_str": "1411628440025927682",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/E5cmMNpVEAIzhYE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5cmMNpVEAIzhYE.jpg",
+					"url": "https://t.co/CFvR6lTFrM",
+					"display_url": "pic.twitter.com/CFvR6lTFrM",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1411701341806862341/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411628440025927700,
+					"id_str": "1411628440025927682",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/E5cmMNpVEAIzhYE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5cmMNpVEAIzhYE.jpg",
+					"url": "https://t.co/CFvR6lTFrM",
+					"display_url": "pic.twitter.com/CFvR6lTFrM",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1411701341806862341/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28583,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1411628440025927682/vid/480x270/SCrcRPM2n6PSLcV-.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1411628440025927682/vid/640x360/FVequdnZtBpq-lY0.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1411628440025927682/pl/ze7LYjxb8CG2QT0K.m3u8?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1411628440025927682/vid/1280x720/xEyNtALJ8-kZf4Kz.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3640760,
+			"friends_count": 4,
+			"listed_count": 5426,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13023,
+		"favorite_count": 16541,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEYEON 태연 'Weekend' MV Teaser\n\nTAEYEON 태연 Single [Weekend]\n\n🎧 2021.07.06. 6PM KST\n\n#태연 #TAEYEON\n#Weekend\n#소녀시대 #GirlsGeneration https://t.co/CFvR6lTFrM"
+	},
+	{
+		"created_at": "Sun Jul 04 15:09:36 +0000 2021",
+		"id": 1411701848210243600,
+		"id_str": "1411703747336716289",
+		"full_text": "블루버스데이 (BLUEBIRTHDAY)\n\nNAVER TV ➫ 21.07.23\nYouTube ➫ 21.08.06\n\n#YERI #예리 #김예림\n#블루버스데이 #BLUEBIRTHDAY\n#레드벨벳 #RedVelvet https://t.co/KQPlxKPYxz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YERI",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "김예림",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "블루버스데이",
+					"indices": [
+						78,
+						85
+					]
+				},
+				{
+					"text": "BLUEBIRTHDAY",
+					"indices": [
+						86,
+						99
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						106,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1411701836688461800,
+					"id_str": "1411701836688461833",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/E5dfV0iVEAkE6Rg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5dfV0iVEAkE6Rg.jpg",
+					"url": "https://t.co/KQPlxKPYxz",
+					"display_url": "pic.twitter.com/KQPlxKPYxz",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1411701848210243584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1434,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411701836688461800,
+					"id_str": "1411701836688461833",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/E5dfV0iVEAkE6Rg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5dfV0iVEAkE6Rg.jpg",
+					"url": "https://t.co/KQPlxKPYxz",
+					"display_url": "pic.twitter.com/KQPlxKPYxz",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1411701848210243584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1434,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/U7JtipmDEo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U7JtipmDEo",
+							"expanded_url": "https://youtu.be/lNvBbh5jDcA",
+							"display_url": "youtu.be/lNvBbh5jDcA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4296769,
+			"friends_count": 1,
+			"listed_count": 9155,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1622019868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6371,
+		"favorite_count": 14032,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블루버스데이 (BLUEBIRTHDAY)\n\nNAVER TV ➫ 21.07.23\nYouTube ➫ 21.08.06\n\n#YERI #예리 #김예림\n#블루버스데이 #BLUEBIRTHDAY\n#레드벨벳 #RedVelvet https://t.co/KQPlxKPYxz"
+	},
+	{
 		"created_at": "Sun Jul 04 14:52:53 +0000 2021",
 		"id": 1411689702797693000,
 		"id_str": "1411699540617478147",
