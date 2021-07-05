@@ -1,6 +1,628 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 05 11:53:00 +0000 2021",
+		"id": 1412015915592405000,
+		"id_str": "1412016659578167299",
+		"full_text": "여름을 맞아 별캠프🏕를 떠난 #이달의소녀 ! 잠시 후 오후 9시(KST) 네이버 NOW에서 방송되는 'studio 문나잇' 놓치지 마세요😉\n\n#LOONA https://t.co/plKrB1LYWw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						79,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1412015909359685600,
+					"id_str": "1412015909359685636",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/E5h8_QaVkAQTeSH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5h8_QaVkAQTeSH.jpg",
+					"url": "https://t.co/plKrB1LYWw",
+					"display_url": "pic.twitter.com/plKrB1LYWw",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1412015915592404998/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412015909359685600,
+					"id_str": "1412015909359685636",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/E5h8_QaVkAQTeSH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5h8_QaVkAQTeSH.jpg",
+					"url": "https://t.co/plKrB1LYWw",
+					"display_url": "pic.twitter.com/plKrB1LYWw",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1412015915592404998/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 761488,
+			"friends_count": 1,
+			"listed_count": 7629,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2969,
+		"favorite_count": 7658,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여름을 맞아 별캠프🏕를 떠난 #이달의소녀 ! 잠시 후 오후 9시(KST) 네이버 NOW에서 방송되는 'studio 문나잇' 놓치지 마세요😉\n\n#LOONA https://t.co/plKrB1LYWw"
+	},
+	{
+		"created_at": "Mon Jul 05 11:52:57 +0000 2021",
+		"id": 1412009398692679700,
+		"id_str": "1412016646420631555",
+		"full_text": "One of those moments that we’ll always remember. Viva La Vida // @NBC #MacysFireworks Spectacular 2021 // New York City // ⚡️💜🇺🇸 \nlove c, g, j &amp; w https://t.co/4CygjSo2bL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MacysFireworks",
+					"indices": [
+						70,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nbc",
+					"name": "NBC Entertainment",
+					"id": 26585095,
+					"id_str": "26585095",
+					"indices": [
+						65,
+						69
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1412008451572654000,
+					"id_str": "1412008451572654080",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/E5h2tRtWEAA-TuO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5h2tRtWEAA-TuO.jpg",
+					"url": "https://t.co/4CygjSo2bL",
+					"display_url": "pic.twitter.com/4CygjSo2bL",
+					"expanded_url": "https://twitter.com/coldplay/status/1412009398692679689/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412008451572654000,
+					"id_str": "1412008451572654080",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/E5h2tRtWEAA-TuO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5h2tRtWEAA-TuO.jpg",
+					"url": "https://t.co/4CygjSo2bL",
+					"display_url": "pic.twitter.com/4CygjSo2bL",
+					"expanded_url": "https://twitter.com/coldplay/status/1412009398692679689/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 54433,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1412008451572654080/pl/YdqszJRRDiIoklrH.m3u8?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1412008451572654080/vid/480x270/wMhnT0pTfgHUmO8c.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1412008451572654080/vid/1280x720/p7tdfQHinpzRJIMB.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1412008451572654080/vid/640x360/9c2FF7mdj62g4OuK.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Kaotica",
+			"description": "The official Twitter of the band Coldplay. New single, Higher Power, out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23003698,
+			"friends_count": 760,
+			"listed_count": 42755,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1307,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1620345079",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 364,
+		"favorite_count": 1839,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One of those moments that we’ll always remember. Viva La Vida // @NBC #MacysFireworks Spectacular 2021 // New York City // ⚡️💜🇺🇸 \nlove c, g, j &amp; w https://t.co/4CygjSo2bL"
+	},
+	{
+		"created_at": "Mon Jul 05 11:52:48 +0000 2021",
+		"id": 1411958030099370000,
+		"id_str": "1412016608202133505",
+		"full_text": "[#빅픽쳐] @loonatheworld\n\n잠시 후 8시, 이달의 소녀편 최초공개 💞\n🎨 귀염뽀짝 난리난 잔망쟁이 소녀들 보러가자!\n\n👇🏻👇🏻 구독+알림설정 필수 \nhttps://t.co/rw4UD3YxLn https://t.co/8WkvgN20Fm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "빅픽쳐",
+					"indices": [
+						1,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						7,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rw4UD3YxLn",
+					"expanded_url": "https://youtu.be/M5mOGDd6uI8",
+					"display_url": "youtu.be/M5mOGDd6uI8",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1411947749856092200,
+					"id_str": "1411947749856092165",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/E5g-_2eVoAUS0GZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5g-_2eVoAUS0GZ.jpg",
+					"url": "https://t.co/8WkvgN20Fm",
+					"display_url": "pic.twitter.com/8WkvgN20Fm",
+					"expanded_url": "https://twitter.com/ArcadePang/status/1411958030099369985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411947749856092200,
+					"id_str": "1411947749856092165",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/E5g-_2eVoAUS0GZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5g-_2eVoAUS0GZ.jpg",
+					"url": "https://t.co/8WkvgN20Fm",
+					"display_url": "pic.twitter.com/8WkvgN20Fm",
+					"expanded_url": "https://twitter.com/ArcadePang/status/1411958030099369985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2711024234,
+			"id_str": "2711024234",
+			"name": "오락실 팡 Arcade Pang",
+			"screen_name": "ArcadePang",
+			"location": "",
+			"description": "🕹 #아빠안잔다 채널이 #오락실팡 으로 새롭게 바뀌었습니다!\n아잔다 뿐만 아니라 더 재밌는 콘텐츠도 팡팡 Soon!💫",
+			"url": "https://t.co/eQCSFQlkfO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eQCSFQlkfO",
+							"expanded_url": "http://bit.ly/ArcadePANG",
+							"display_url": "bit.ly/ArcadePANG",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32076,
+			"friends_count": 158,
+			"listed_count": 43,
+			"created_at": "Wed Aug 06 03:41:30 +0000 2014",
+			"favourites_count": 300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1385101277663621124/_RB62vUa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1385101277663621124/_RB62vUa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2711024234/1619068855",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1241,
+		"favorite_count": 3869,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#빅픽쳐] @loonatheworld\n\n잠시 후 8시, 이달의 소녀편 최초공개 💞\n🎨 귀염뽀짝 난리난 잔망쟁이 소녀들 보러가자!\n\n👇🏻👇🏻 구독+알림설정 필수 \nhttps://t.co/rw4UD3YxLn https://t.co/8WkvgN20Fm"
+	},
+	{
 		"created_at": "Mon Jul 05 10:52:47 +0000 2021",
 		"id": 1411989072390856700,
 		"id_str": "1412001508372135937",
@@ -285,7 +907,7 @@ Grailbird.data.tweets_2021_07 =
 			"name": "dgg",
 			"screen_name": "dingo_dgg",
 			"location": "대한민국",
-			"description": "dingo global official twitter! hey DGG🙋🏻‍♀️안녕 내 이름은 디지지❤️💚",
+			"description": "dingo global official twitter! hey DGG🙋🏻♀️안녕 내 이름은 디지지❤️💚",
 			"url": "https://t.co/632yww1729",
 			"entities": {
 				"url": {
