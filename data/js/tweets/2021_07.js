@@ -1,10 +1,218 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 05 08:45:37 +0000 2021",
+		"id": 1411965715075141600,
+		"id_str": "1411969502154268672",
+		"full_text": "[Current July Chart] \n7월 2주차 현재 아챔차트 순위는?\n\n1⃣ #LOONA ❤856,094\n2⃣ #SF9 ❤770,482\n3⃣ #BTS ❤488,522\n4⃣ #2PM ❤354,863\n5⃣ #NCTDREAM ❤244,447\n🌟IDOL MAP🌟 ▶ https://t.co/f3ZibKWHq5 https://t.co/2sfgXzcAp1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						46,
+						52
+					]
+				},
+				{
+					"text": "SF9",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "2PM",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						116,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f3ZibKWHq5",
+					"expanded_url": "http://bit.ly/2HNp8ri",
+					"display_url": "bit.ly/2HNp8ri",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1411965681331937300,
+					"id_str": "1411965681331937283",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/E5hPTmbVIAMN8Gm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5hPTmbVIAMN8Gm.jpg",
+					"url": "https://t.co/2sfgXzcAp1",
+					"display_url": "pic.twitter.com/2sfgXzcAp1",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1411965715075141632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411965681331937300,
+					"id_str": "1411965681331937283",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/E5hPTmbVIAMN8Gm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5hPTmbVIAMN8Gm.jpg",
+					"url": "https://t.co/2sfgXzcAp1",
+					"display_url": "pic.twitter.com/2sfgXzcAp1",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1411965715075141632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 842271014520148000,
+			"id_str": "842271014520147968",
+			"name": "아이돌챔프",
+			"screen_name": "idolchamp1",
+			"location": "아이돌 맴 속",
+			"description": "MBC M 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82920,
+			"friends_count": 102,
+			"listed_count": 196,
+			"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+			"favourites_count": 300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1580881175",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Current July Chart] \n7월 2주차 현재 아챔차트 순위는?\n\n1⃣ #LOONA ❤856,094\n2⃣ #SF9 ❤770,482\n3⃣ #BTS ❤488,522\n4⃣ #2PM ❤354,863\n5⃣ #NCTDREAM ❤244,447\n🌟IDOL MAP🌟 ▶ https://t.co/f3ZibKWHq5 https://t.co/2sfgXzcAp1"
+	},
+	{
 		"created_at": "Mon Jul 05 08:01:48 +0000 2021",
 		"id": 1411956132214571000,
 		"id_str": "1411958474984984577",
-		"full_text": "👏🏻드디어 내일👏🏻 #슬기zip 쥔님 짱친👭🏻 승연언니 놀러오는 날🥳\n\n#슬기 #공승연 투곰🐻 홈파티 할 손님들 (저요저요!!🙋🏻‍♀️🙋🏻‍♂️)\n화요일 오후 10시 잊지말고 꼬옥! 슬기🏡 놀러오기✌🏻\n\n#레드벨벳 #NOW온에어 https://t.co/qdgjIxZkVX",
+		"full_text": "👏🏻드디어 내일👏🏻 #슬기zip 쥔님 짱친👭🏻 승연언니 놀러오는 날🥳\n\n#슬기 #공승연 투곰🐻 홈파티 할 손님들 (저요저요!!🙋🏻♀️🙋🏻♂️)\n화요일 오후 10시 잊지말고 꼬옥! 슬기🏡 놀러오기✌🏻\n\n#레드벨벳 #NOW온에어 https://t.co/qdgjIxZkVX",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -209,7 +417,7 @@ Grailbird.data.tweets_2021_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "👏🏻드디어 내일👏🏻 #슬기zip 쥔님 짱친👭🏻 승연언니 놀러오는 날🥳\n\n#슬기 #공승연 투곰🐻 홈파티 할 손님들 (저요저요!!🙋🏻‍♀️🙋🏻‍♂️)\n화요일 오후 10시 잊지말고 꼬옥! 슬기🏡 놀러오기✌🏻\n\n#레드벨벳 #NOW온에어 https://t.co/qdgjIxZkVX"
+		"text": "👏🏻드디어 내일👏🏻 #슬기zip 쥔님 짱친👭🏻 승연언니 놀러오는 날🥳\n\n#슬기 #공승연 투곰🐻 홈파티 할 손님들 (저요저요!!🙋🏻♀️🙋🏻♂️)\n화요일 오후 10시 잊지말고 꼬옥! 슬기🏡 놀러오기✌🏻\n\n#레드벨벳 #NOW온에어 https://t.co/qdgjIxZkVX"
 	},
 	{
 		"created_at": "Mon Jul 05 07:52:55 +0000 2021",
