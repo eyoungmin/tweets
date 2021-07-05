@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 05 08:01:48 +0000 2021",
+		"id": 1411956132214571000,
+		"id_str": "1411958474984984577",
+		"full_text": "👏🏻드디어 내일👏🏻 #슬기zip 쥔님 짱친👭🏻 승연언니 놀러오는 날🥳\n\n#슬기 #공승연 투곰🐻 홈파티 할 손님들 (저요저요!!🙋🏻‍♀️🙋🏻‍♂️)\n화요일 오후 10시 잊지말고 꼬옥! 슬기🏡 놀러오기✌🏻\n\n#레드벨벳 #NOW온에어 https://t.co/qdgjIxZkVX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "공승연",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						120,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1411956093777899500,
+					"id_str": "1411956093777899528",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/E5hGliAUcAgC9hV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5hGliAUcAgC9hV.jpg",
+					"url": "https://t.co/qdgjIxZkVX",
+					"display_url": "pic.twitter.com/qdgjIxZkVX",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1411956132214571010/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411956093777899500,
+					"id_str": "1411956093777899528",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/E5hGliAUcAgC9hV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5hGliAUcAgC9hV.jpg",
+					"url": "https://t.co/qdgjIxZkVX",
+					"display_url": "pic.twitter.com/qdgjIxZkVX",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1411956132214571010/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34368,
+			"friends_count": 1,
+			"listed_count": 135,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1621911527",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 350,
+		"favorite_count": 719,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "👏🏻드디어 내일👏🏻 #슬기zip 쥔님 짱친👭🏻 승연언니 놀러오는 날🥳\n\n#슬기 #공승연 투곰🐻 홈파티 할 손님들 (저요저요!!🙋🏻‍♀️🙋🏻‍♂️)\n화요일 오후 10시 잊지말고 꼬옥! 슬기🏡 놀러오기✌🏻\n\n#레드벨벳 #NOW온에어 https://t.co/qdgjIxZkVX"
+	},
+	{
+		"created_at": "Mon Jul 05 07:52:55 +0000 2021",
+		"id": 1411948527136252000,
+		"id_str": "1411956239555256321",
+		"full_text": "@Madonna_Mark @TomAdler Much love from all of us, Tom and Mark  💘💘",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Madonna_Mark",
+					"name": "Mark Adler",
+					"id": 197822822,
+					"id_str": "197822822",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "TomAdler",
+					"name": "TomAdler #EndTheFilibuster",
+					"id": 16472802,
+					"id_str": "16472802",
+					"indices": [
+						14,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1411945555861729300,
+		"in_reply_to_status_id_str": "1411945555861729284",
+		"in_reply_to_user_id": 197822822,
+		"in_reply_to_user_id_str": "197822822",
+		"in_reply_to_screen_name": "Madonna_Mark",
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Kaotica",
+			"description": "The official Twitter of the band Coldplay. New single, Higher Power, out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23003724,
+			"friends_count": 759,
+			"listed_count": 42752,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1307,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8567,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1620345079",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@Madonna_Mark @TomAdler Much love from all of us, Tom and Mark  💘💘"
+	},
+	{
 		"created_at": "Mon Jul 05 06:45:53 +0000 2021",
 		"id": 1411936156132909000,
 		"id_str": "1411939370026872837",
