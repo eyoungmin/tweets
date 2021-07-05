@@ -1,6 +1,923 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 05 10:52:47 +0000 2021",
+		"id": 1411989072390856700,
+		"id_str": "1412001508372135937",
+		"full_text": "[NOTICE] 청하 bubble 이용자 계정 정지 관련 안내 (KOR / ENG)\n\n자세한 사항은 팬카페 공지 확인 부탁드립니다.\n\n▶ https://t.co/aoJTHKi4Y7\n\n#청하 #CHUNGHA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청하",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						106,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aoJTHKi4Y7",
+					"expanded_url": "https://cafe.daum.net/MNH-Chungha/g10g/189",
+					"display_url": "cafe.daum.net/MNH-Chungha/g1…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/uAFyf5T7B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAFyf5T7B0",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 330535,
+			"friends_count": 0,
+			"listed_count": 2042,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1617289944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 107,
+		"favorite_count": 584,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NOTICE] 청하 bubble 이용자 계정 정지 관련 안내 (KOR / ENG)\n\n자세한 사항은 팬카페 공지 확인 부탁드립니다.\n\n▶ https://t.co/aoJTHKi4Y7\n\n#청하 #CHUNGHA"
+	},
+	{
+		"created_at": "Mon Jul 05 10:45:37 +0000 2021",
+		"id": 1411988229247541200,
+		"id_str": "1411999701071810563",
+		"full_text": "Sing in every language in the world. 🌐🎤\nLIVE DGG 드디어 공개 😊\n\n이달의 소녀 (LOONA) \" Dance On My Own \" \nLIVE DGG 지금 바로 보러가기⬇️⬇️\nhttps://t.co/ayON4RZcj9\n\n#이달의소녀 #LOONA #DGG #LIVE_DGG #dingo \n@loonatheworld https://t.co/k82Ec3JpTe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						151,
+						157
+					]
+				},
+				{
+					"text": "DGG",
+					"indices": [
+						158,
+						162
+					]
+				},
+				{
+					"text": "LIVE_DGG",
+					"indices": [
+						163,
+						172
+					]
+				},
+				{
+					"text": "dingo",
+					"indices": [
+						173,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						181,
+						195
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ayON4RZcj9",
+					"expanded_url": "https://youtu.be/mpcg4VN27bU",
+					"display_url": "youtu.be/mpcg4VN27bU",
+					"indices": [
+						119,
+						142
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1411905782161936400,
+					"id_str": "1411905782161936386",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/E5gY1AoVEAI9MsV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5gY1AoVEAI9MsV.jpg",
+					"url": "https://t.co/k82Ec3JpTe",
+					"display_url": "pic.twitter.com/k82Ec3JpTe",
+					"expanded_url": "https://twitter.com/dingo_dgg/status/1411988229247541251/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411905782161936400,
+					"id_str": "1411905782161936386",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/E5gY1AoVEAI9MsV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5gY1AoVEAI9MsV.jpg",
+					"url": "https://t.co/k82Ec3JpTe",
+					"display_url": "pic.twitter.com/k82Ec3JpTe",
+					"expanded_url": "https://twitter.com/dingo_dgg/status/1411988229247541251/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377863784560128000,
+			"id_str": "1377863784560128002",
+			"name": "dgg",
+			"screen_name": "dingo_dgg",
+			"location": "대한민국",
+			"description": "dingo global official twitter! hey DGG🙋🏻‍♀️안녕 내 이름은 디지지❤️💚",
+			"url": "https://t.co/632yww1729",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/632yww1729",
+							"expanded_url": "https://youtube.com/c/dingoglobaldgg",
+							"display_url": "youtube.com/c/dingoglobald…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2188,
+			"friends_count": 1,
+			"listed_count": 9,
+			"created_at": "Fri Apr 02 06:01:48 +0000 2021",
+			"favourites_count": 151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1392389133864079361/lFsx6_0p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1392389133864079361/lFsx6_0p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377863784560128002/1620806464",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1828,
+		"favorite_count": 4181,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Sing in every language in the world. 🌐🎤\nLIVE DGG 드디어 공개 😊\n\n이달의 소녀 (LOONA) \" Dance On My Own \" \nLIVE DGG 지금 바로 보러가기⬇️⬇️\nhttps://t.co/ayON4RZcj9\n\n#이달의소녀 #LOONA #DGG #LIVE_DGG #dingo \n@loonatheworld https://t.co/k82Ec3JpTe"
+	},
+	{
+		"created_at": "Mon Jul 05 10:40:40 +0000 2021",
+		"id": 1411998455610941400,
+		"id_str": "1411998455610941443",
+		"full_text": "#작사가 #켄지 #KENZIE #신곡알리미 \n규현 (KYUHYUN) - 투게더 (Together) | 투게더 (Together) \nhttps://t.co/N7cGmfJi8Z \n \n#W0438500 #김연정",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "작사가",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "켄지",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "KENZIE",
+					"indices": [
+						9,
+						16
+					]
+				},
+				{
+					"text": "신곡알리미",
+					"indices": [
+						17,
+						23
+					]
+				},
+				{
+					"text": "W0438500",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"text": "김연정",
+					"indices": [
+						110,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N7cGmfJi8Z",
+					"expanded_url": "https://www.melon.com/song/detail.htm?songId=33651126",
+					"display_url": "melon.com/song/detail.ht…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1054,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81985,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#작사가 #켄지 #KENZIE #신곡알리미 \n규현 (KYUHYUN) - 투게더 (Together) | 투게더 (Together) \nhttps://t.co/N7cGmfJi8Z \n \n#W0438500 #김연정"
+	},
+	{
+		"created_at": "Mon Jul 05 10:29:39 +0000 2021",
+		"id": 1411994513292341200,
+		"id_str": "1411995683247296513",
+		"full_text": "🥳 Yang spesial di #VLIVE minggu ini 🥳\n\nNyalain notifikasi kalian agar tak ketinggalan live-nya 🔔💖\n\n#DAY6 #Even_of_Day #SF9 #TAEYEON #GirlsGeneration #VLIVEINDONESIA https://t.co/TT0oLByrdO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VLIVE",
+					"indices": [
+						18,
+						24
+					]
+				},
+				{
+					"text": "DAY6",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "Even_of_Day",
+					"indices": [
+						105,
+						117
+					]
+				},
+				{
+					"text": "SF9",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						123,
+						131
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						132,
+						148
+					]
+				},
+				{
+					"text": "VLIVEINDONESIA",
+					"indices": [
+						149,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1411993438770196500,
+					"id_str": "1411993438770196484",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/E5hojS8UcAQ8Tk8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5hojS8UcAQ8Tk8.jpg",
+					"url": "https://t.co/TT0oLByrdO",
+					"display_url": "pic.twitter.com/TT0oLByrdO",
+					"expanded_url": "https://twitter.com/vliveindonesia/status/1411994513292341250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411993438770196500,
+					"id_str": "1411993438770196484",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/E5hojS8UcAQ8Tk8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5hojS8UcAQ8Tk8.jpg",
+					"url": "https://t.co/TT0oLByrdO",
+					"display_url": "pic.twitter.com/TT0oLByrdO",
+					"expanded_url": "https://twitter.com/vliveindonesia/status/1411994513292341250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1105406743352229900,
+			"id_str": "1105406743352229888",
+			"name": "VLIVE INDONESIA",
+			"screen_name": "vliveindonesia",
+			"location": "",
+			"description": "Selamat datang di VLIVE Indonesia Official Account.\n\nChannel V INDONESIA 👇🏻 👇🏻",
+			"url": "https://t.co/2zoxavILHU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2zoxavILHU",
+							"expanded_url": "https://channels.vlive.tv/B4B94F/celeb",
+							"display_url": "channels.vlive.tv/B4B94F/celeb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34079,
+			"friends_count": 1,
+			"listed_count": 13,
+			"created_at": "Tue Mar 12 09:54:39 +0000 2019",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1105480655079534593/xBCJj6Kc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105480655079534593/xBCJj6Kc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1105406743352229888/1562229420",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "🥳 Yang spesial di #VLIVE minggu ini 🥳\n\nNyalain notifikasi kalian agar tak ketinggalan live-nya 🔔💖\n\n#DAY6 #Even_of_Day #SF9 #TAEYEON #GirlsGeneration #VLIVEINDONESIA https://t.co/TT0oLByrdO"
+	},
+	{
+		"created_at": "Mon Jul 05 10:21:42 +0000 2021",
+		"id": 1411993685030584300,
+		"id_str": "1411993685030584325",
+		"full_text": "#SMTOWN #Artist_News \n‘믿듣탱’ 태연, 음악 방송 출격! 신곡 ‘Weekend’ 컴백 무대 8일 첫 공개! \nhttps://t.co/uOQ9QbyRP9 \n \n#소녀시대 #GirlsGeneration https://t.co/QbNLo7Me2D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						104,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uOQ9QbyRP9",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5173",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1411993683671584800,
+					"id_str": "1411993683671584769",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/E5hoxjRXEAEW5OG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5hoxjRXEAEW5OG.jpg",
+					"url": "https://t.co/QbNLo7Me2D",
+					"display_url": "pic.twitter.com/QbNLo7Me2D",
+					"expanded_url": "https://twitter.com/fromminn/status/1411993685030584325/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411993683671584800,
+					"id_str": "1411993683671584769",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/E5hoxjRXEAEW5OG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5hoxjRXEAEW5OG.jpg",
+					"url": "https://t.co/QbNLo7Me2D",
+					"display_url": "pic.twitter.com/QbNLo7Me2D",
+					"expanded_url": "https://twitter.com/fromminn/status/1411993685030584325/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1054,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81985,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \n‘믿듣탱’ 태연, 음악 방송 출격! 신곡 ‘Weekend’ 컴백 무대 8일 첫 공개! \nhttps://t.co/uOQ9QbyRP9 \n \n#소녀시대 #GirlsGeneration https://t.co/QbNLo7Me2D"
+	},
+	{
 		"created_at": "Mon Jul 05 09:58:19 +0000 2021",
 		"id": 1411987800891789300,
 		"id_str": "1411987800891789312",
