@@ -1,6 +1,463 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 06 12:52:47 +0000 2021",
+		"id": 1412393348980117500,
+		"id_str": "1412394095067242501",
+		"full_text": "오늘의 슬기zip도 기대해주세요~ 🐻🧡\n\n#슬기 #SEULGI #슬기집 #슬기zip #레드벨벳 #RedVelvet https://t.co/k5m06uDNlq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						27,
+						34
+					]
+				},
+				{
+					"text": "슬기집",
+					"indices": [
+						35,
+						39
+					]
+				},
+				{
+					"text": "슬기zip",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						47,
+						52
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						53,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1412393337588359200,
+					"id_str": "1412393337588359175",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E5nUQeIVIAcacKX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5nUQeIVIAcacKX.jpg",
+					"url": "https://t.co/k5m06uDNlq",
+					"display_url": "pic.twitter.com/k5m06uDNlq",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1412393348980117510/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412393337588359200,
+					"id_str": "1412393337588359175",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E5nUQeIVIAcacKX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5nUQeIVIAcacKX.jpg",
+					"url": "https://t.co/k5m06uDNlq",
+					"display_url": "pic.twitter.com/k5m06uDNlq",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1412393348980117510/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/U7JtipmDEo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U7JtipmDEo",
+							"expanded_url": "https://youtu.be/lNvBbh5jDcA",
+							"display_url": "youtu.be/lNvBbh5jDcA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4304139,
+			"friends_count": 1,
+			"listed_count": 9151,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1981,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1622019868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3918,
+		"favorite_count": 10368,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘의 슬기zip도 기대해주세요~ 🐻🧡\n\n#슬기 #SEULGI #슬기집 #슬기zip #레드벨벳 #RedVelvet https://t.co/k5m06uDNlq"
+	},
+	{
+		"created_at": "Tue Jul 06 12:45:36 +0000 2021",
+		"id": 1412381060743123000,
+		"id_str": "1412392287183777796",
+		"full_text": "🌜#돌들의침묵 | 이달의 소녀 (LOONA) \n\n꿀잠을 마주하게 될 이달소 &amp; 오빛😴\n잠시 후, 밤 10시에 만나요!\n\n🎥 [Real Time] 꿀잠을 마주하게 될 이달소 &amp; 오빛😴\nㄴ https://t.co/YxgdPw9C3B\n\n#돌들의침묵_이달의소녀\n#TheSilenceOfIDOL_LOONA\n#이달의소녀 #LOON #PTT\n@loonatheworld https://t.co/u5Q5vEggTl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "돌들의침묵",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "돌들의침묵_이달의소녀",
+					"indices": [
+						137,
+						149
+					]
+				},
+				{
+					"text": "TheSilenceOfIDOL_LOONA",
+					"indices": [
+						150,
+						173
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "LOON",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "PTT",
+					"indices": [
+						187,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						192,
+						206
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YxgdPw9C3B",
+					"expanded_url": "http://youtu.be/8A2lBR8F318",
+					"display_url": "youtu.be/8A2lBR8F318",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1412340901091840000,
+					"id_str": "1412340901091840005",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/E5mkkQ9VkAU1K7y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5mkkQ9VkAU1K7y.jpg",
+					"url": "https://t.co/u5Q5vEggTl",
+					"display_url": "pic.twitter.com/u5Q5vEggTl",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1412381060743122945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412340901091840000,
+					"id_str": "1412340901091840005",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/E5mkkQ9VkAU1K7y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5mkkQ9VkAU1K7y.jpg",
+					"url": "https://t.co/u5Q5vEggTl",
+					"display_url": "pic.twitter.com/u5Q5vEggTl",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1412381060743122945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "KPop을 더 즐겁게! PLAY YOUR MUSIC🎶",
+			"url": "https://t.co/npNrfLZtFs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/npNrfLZtFs",
+							"expanded_url": "https://www.youtube.com/channel/UC9LcN9O8amxNcfu0fwGqwgQ",
+							"display_url": "youtube.com/channel/UC9LcN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25424,
+			"friends_count": 74,
+			"listed_count": 57,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1609479399",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 421,
+		"favorite_count": 953,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌜#돌들의침묵 | 이달의 소녀 (LOONA) \n\n꿀잠을 마주하게 될 이달소 &amp; 오빛😴\n잠시 후, 밤 10시에 만나요!\n\n🎥 [Real Time] 꿀잠을 마주하게 될 이달소 &amp; 오빛😴\nㄴ https://t.co/YxgdPw9C3B\n\n#돌들의침묵_이달의소녀\n#TheSilenceOfIDOL_LOONA\n#이달의소녀 #LOON #PTT\n@loonatheworld https://t.co/u5Q5vEggTl"
+	},
+	{
 		"created_at": "Tue Jul 06 11:52:48 +0000 2021",
 		"id": 1412373260289908700,
 		"id_str": "1412378996235456520",
