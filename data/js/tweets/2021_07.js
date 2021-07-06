@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 06 06:53:03 +0000 2021",
+		"id": 1412291877890523100,
+		"id_str": "1412303562466545664",
+		"full_text": "7월 6일 15시 기준, 서울시 서남권역에 오존주의보가 발령되었습니다. 실외활동을 자제하여 주시기 바랍니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://social.seoul.go.kr\" rel=\"nofollow\">서울 SMC(소셜미디어센터)</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1654849231,
+			"id_str": "1654849231",
+			"name": "서울라이프라인",
+			"screen_name": "SeoulLifeline",
+			"location": "",
+			"description": "서울특별시 재난분야 대표계정 SeoulLifeline입니다. 서울시에서 관리하는 재난재해 소식을 신속하게 알려드리는 시민님의 안전 지킴이가 되겠습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4060,
+			"friends_count": 900,
+			"listed_count": 38,
+			"created_at": "Thu Aug 08 07:35:51 +0000 2013",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000307073798/b73267ede951dad25fa0f6824cb12b47_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000307073798/b73267ede951dad25fa0f6824cb12b47_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1654849231/1376872038",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "7월 6일 15시 기준, 서울시 서남권역에 오존주의보가 발령되었습니다. 실외활동을 자제하여 주시기 바랍니다."
+	},
+	{
+		"created_at": "Tue Jul 06 06:52:48 +0000 2021",
+		"id": 1412257820603412500,
+		"id_str": "1412303498717315074",
+		"full_text": "지난해에 올라온 기사를 공유합니다. 국내엔 웅담 채취용 곰이 많이 사육되고 있는데, 종종 곰이 탈출하는 일도 벌어져요. 하지만 더 큰 문제는 좁은 철창 속에서 살아가는 사육곰이 겪을 고통입니다.\n\n옆집에 반달가슴곰 85마리가 이사 왔다…곰도 사람도 괴롭다 https://t.co/XYuHlvFLdl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XYuHlvFLdl",
+					"expanded_url": "https://news.joins.com/article/23833105",
+					"display_url": "news.joins.com/article/238331…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 908554621123047400,
+			"id_str": "908554621123047424",
+			"name": "이원영",
+			"screen_name": "gentoo210",
+			"location": "인천 송도",
+			"description": "동물행동학자. 책 ‘알아간다는 것’, ‘펭귄의 여름’ ‘물속을 나는 새’, ‘여름엔 북극에 갑니다’, 오디오클립 ‘이원영의 남극일기’, 팟캐스트 ‘이원영의 새, 동물, 생태 이야기’",
+			"url": "https://t.co/MNedRqcCWz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MNedRqcCWz",
+							"expanded_url": "http://instagram.com/wonyounglee1127",
+							"display_url": "instagram.com/wonyounglee1127",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29710,
+			"friends_count": 169,
+			"listed_count": 107,
+			"created_at": "Fri Sep 15 04:54:36 +0000 2017",
+			"favourites_count": 958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1266224184524304384/mpeqsj_E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266224184524304384/mpeqsj_E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/908554621123047424/1578730063",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 784,
+		"favorite_count": 169,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지난해에 올라온 기사를 공유합니다. 국내엔 웅담 채취용 곰이 많이 사육되고 있는데, 종종 곰이 탈출하는 일도 벌어져요. 하지만 더 큰 문제는 좁은 철창 속에서 살아가는 사육곰이 겪을 고통입니다.\n\n옆집에 반달가슴곰 85마리가 이사 왔다…곰도 사람도 괴롭다 https://t.co/XYuHlvFLdl"
+	},
+	{
 		"created_at": "Tue Jul 06 05:53:19 +0000 2021",
 		"id": 1412285446856396800,
 		"id_str": "1412288532312379394",
