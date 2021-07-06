@@ -1,6 +1,521 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 06 11:52:48 +0000 2021",
+		"id": 1412373260289908700,
+		"id_str": "1412378996235456520",
+		"full_text": "#BLACKPINKINYOURAREA\n\n잠시 후 9시, JTBC #바라던바다 에\n#로제 가 출연합니다📺\n\n핑크빛 노을 아래 분위기 찰떡인\n로챙이와 함께 힐링해 주세요🖤💖\n\n#BLACKPINK #블랙핑크 #ROSÉ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINKINYOURAREA",
+					"indices": [
+						0,
+						20
+					]
+				},
+				{
+					"text": "바라던바다",
+					"indices": [
+						36,
+						42
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						96,
+						106
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						113,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/QTHPhjMXWT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QTHPhjMXWT",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6953977,
+			"friends_count": 6,
+			"listed_count": 7979,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1623718821",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3449,
+		"favorite_count": 13972,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#BLACKPINKINYOURAREA\n\n잠시 후 9시, JTBC #바라던바다 에\n#로제 가 출연합니다📺\n\n핑크빛 노을 아래 분위기 찰떡인\n로챙이와 함께 힐링해 주세요🖤💖\n\n#BLACKPINK #블랙핑크 #ROSÉ"
+	},
+	{
+		"created_at": "Tue Jul 06 11:51:26 +0000 2021",
+		"id": 1412378655158849500,
+		"id_str": "1412378655158849548",
+		"full_text": "#놀라운토요일 #도레미마켓 \n(한공간 맞음 주의) 명예 '소녀시대' 키범이 &amp; 혼자만의 세계 한해#놀라운토요일 | amazingsaturday EP.167 | tvN 210703 방송 \nhttps://t.co/6CU4UpiKkC \n \n#김태연 #태연 #탱구 #TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "도레미마켓",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "김태연",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "탱구",
+					"indices": [
+						144,
+						147
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						148,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6CU4UpiKkC",
+					"expanded_url": "https://www.youtube.com/watch?v=IxPgExYAUX0",
+					"display_url": "youtube.com/watch?v=IxPgEx…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#놀라운토요일 #도레미마켓 \n(한공간 맞음 주의) 명예 '소녀시대' 키범이 &amp; 혼자만의 세계 한해#놀라운토요일 | amazingsaturday EP.167 | tvN 210703 방송 \nhttps://t.co/6CU4UpiKkC \n \n#김태연 #태연 #탱구 #TAEYEON"
+	},
+	{
+		"created_at": "Tue Jul 06 11:45:45 +0000 2021",
+		"id": 1412365712639860700,
+		"id_str": "1412377225790427136",
+		"full_text": "🌜#돌들의침묵 | 이달의 소녀 (LOONA) \n\n🎥 돌침수련회에서 그 누구도 이달소를 막을 순 없어~🔥\nㄴ영상 보기: https://t.co/0Q2z6Gmlbu\n\n🌟 꿀잠 영상 07. 06 10PM Coming soon 🌟\n\n#돌들의침묵_이달의소녀\n#TheSilenceOfIDOL_LOONA\n#이달의소녀 #LOON #PTT\n@loonatheworld https://t.co/Yg4bhVmgxv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "돌들의침묵",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "돌들의침묵_이달의소녀",
+					"indices": [
+						126,
+						138
+					]
+				},
+				{
+					"text": "TheSilenceOfIDOL_LOONA",
+					"indices": [
+						139,
+						162
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "LOON",
+					"indices": [
+						170,
+						175
+					]
+				},
+				{
+					"text": "PTT",
+					"indices": [
+						176,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						181,
+						195
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0Q2z6Gmlbu",
+					"expanded_url": "http://youtu.be/GL5y6MjFEVo",
+					"display_url": "youtu.be/GL5y6MjFEVo",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1412326460140888000,
+					"id_str": "1412326460140888070",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/E5mXbsOVIAYDudL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5mXbsOVIAYDudL.jpg",
+					"url": "https://t.co/Yg4bhVmgxv",
+					"display_url": "pic.twitter.com/Yg4bhVmgxv",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1412365712639860739/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412326460140888000,
+					"id_str": "1412326460140888070",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/E5mXbsOVIAYDudL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5mXbsOVIAYDudL.jpg",
+					"url": "https://t.co/Yg4bhVmgxv",
+					"display_url": "pic.twitter.com/Yg4bhVmgxv",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1412365712639860739/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "KPop을 더 즐겁게! PLAY YOUR MUSIC🎶",
+			"url": "https://t.co/npNrfLZtFs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/npNrfLZtFs",
+							"expanded_url": "https://www.youtube.com/channel/UC9LcN9O8amxNcfu0fwGqwgQ",
+							"display_url": "youtube.com/channel/UC9LcN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25401,
+			"friends_count": 74,
+			"listed_count": 58,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1609479399",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 937,
+		"favorite_count": 1748,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌜#돌들의침묵 | 이달의 소녀 (LOONA) \n\n🎥 돌침수련회에서 그 누구도 이달소를 막을 순 없어~🔥\nㄴ영상 보기: https://t.co/0Q2z6Gmlbu\n\n🌟 꿀잠 영상 07. 06 10PM Coming soon 🌟\n\n#돌들의침묵_이달의소녀\n#TheSilenceOfIDOL_LOONA\n#이달의소녀 #LOON #PTT\n@loonatheworld https://t.co/Yg4bhVmgxv"
+	},
+	{
 		"created_at": "Tue Jul 06 10:52:54 +0000 2021",
 		"id": 1412363287363084300,
 		"id_str": "1412363923551105025",
