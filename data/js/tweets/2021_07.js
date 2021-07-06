@@ -1,6 +1,1716 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 06 05:53:19 +0000 2021",
+		"id": 1412285446856396800,
+		"id_str": "1412288532312379394",
+		"full_text": "‘믿듣탱’ 태연이 이야기하는 신곡 ‘Weekend’ [일문일답]\n“편하게 들을 수 있고, 기분이 좋아지는 곡” \n\nTAEYEON talks about her new song 'Weekend'\n\"An uplifting song that's easy to listen to\" \n\nhttps://t.co/Vruc9IKeJb  \n\n#태연 #TAEYEON #Weekend #소녀시대 #GirlsGeneration https://t.co/PkYcMXAiZd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						181,
+						184
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						185,
+						193
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						194,
+						202
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						203,
+						208
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						209,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vruc9IKeJb",
+					"expanded_url": "https://bit.ly/2Ut60ah",
+					"display_url": "bit.ly/2Ut60ah",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1412284778863206400,
+					"id_str": "1412284778863206401",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/E5lxhhXVIAEX8oR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5lxhhXVIAEX8oR.jpg",
+					"url": "https://t.co/PkYcMXAiZd",
+					"display_url": "pic.twitter.com/PkYcMXAiZd",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1412285446856396802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1067,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412284778863206400,
+					"id_str": "1412284778863206401",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/E5lxhhXVIAEX8oR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5lxhhXVIAEX8oR.jpg",
+					"url": "https://t.co/PkYcMXAiZd",
+					"display_url": "pic.twitter.com/PkYcMXAiZd",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1412285446856396802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1067,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412284793945956400,
+					"id_str": "1412284793945956362",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/E5lxiZjVoAoutVW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5lxiZjVoAoutVW.jpg",
+					"url": "https://t.co/PkYcMXAiZd",
+					"display_url": "pic.twitter.com/PkYcMXAiZd",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1412285446856396802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 934,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412284820038701000,
+					"id_str": "1412284820038701061",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/E5lxj6wVUAUC3_9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5lxj6wVUAUC3_9.jpg",
+					"url": "https://t.co/PkYcMXAiZd",
+					"display_url": "pic.twitter.com/PkYcMXAiZd",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1412285446856396802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1134,
+							"h": 1700,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412284863386820600,
+					"id_str": "1412284863386820611",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/E5lxmcPVIAMzFWE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5lxmcPVIAMzFWE.jpg",
+					"url": "https://t.co/PkYcMXAiZd",
+					"display_url": "pic.twitter.com/PkYcMXAiZd",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1412285446856396802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1134,
+							"h": 1700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3641917,
+			"friends_count": 4,
+			"listed_count": 5432,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1711,
+		"favorite_count": 3264,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘믿듣탱’ 태연이 이야기하는 신곡 ‘Weekend’ [일문일답]\n“편하게 들을 수 있고, 기분이 좋아지는 곡” \n\nTAEYEON talks about her new song 'Weekend'\n\"An uplifting song that's easy to listen to\" \n\nhttps://t.co/Vruc9IKeJb  \n\n#태연 #TAEYEON #Weekend #소녀시대 #GirlsGeneration https://t.co/PkYcMXAiZd"
+	},
+	{
+		"created_at": "Tue Jul 06 05:53:15 +0000 2021",
+		"id": 1412268028947886000,
+		"id_str": "1412288514612371468",
+		"full_text": "https://t.co/z1FHt6XrKQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z1FHt6XrKQ",
+					"expanded_url": "https://twitter.com/t1uesday/status/1412267275458007041",
+					"display_url": "twitter.com/t1uesday/statu…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1412258967057682400,
+		"in_reply_to_status_id_str": "1412258967057682432",
+		"in_reply_to_user_id": 1407576788197249000,
+		"in_reply_to_user_id_str": "1407576788197249024",
+		"in_reply_to_screen_name": "jjeolqueen",
+		"user": {
+			"id": 1407576788197249000,
+			"id_str": "1407576788197249024",
+			"name": "역겹탱구리",
+			"screen_name": "jjeolqueen",
+			"location": "",
+			"description": "어쩔 난 퀸임",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25,
+			"friends_count": 22,
+			"listed_count": 0,
+			"created_at": "Wed Jun 23 05:50:39 +0000 2021",
+			"favourites_count": 149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1408383513674457089/bOoWT7OV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1408383513674457089/bOoWT7OV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407576788197249024/1625263312",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1412267275458007000,
+		"quoted_status_id_str": "1412267275458007041",
+		"quoted_status_permalink": {
+			"url": "https://t.co/z1FHt6XrKQ",
+			"expanded": "https://twitter.com/t1uesday/status/1412267275458007041",
+			"display": "twitter.com/t1uesday/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 06 04:28:51 +0000 2021",
+			"id": 1412267275458007000,
+			"id_str": "1412267275458007041",
+			"full_text": "https://t.co/h3u3BMW7ZR\n녹색연합 사육곰 구출 프로젝트 후원🐻 https://t.co/XzEscqK14t https://t.co/TIOAg5dqZV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				68
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/h3u3BMW7ZR",
+						"expanded_url": "http://campaign.greenkorea.org/save-bear/",
+						"display_url": "campaign.greenkorea.org/save-bear/",
+						"indices": [
+							0,
+							23
+						]
+					},
+					{
+						"url": "https://t.co/XzEscqK14t",
+						"expanded_url": "https://twitter.com/jjeolqueen/status/1412253874019180552",
+						"display_url": "twitter.com/jjeolqueen/sta…",
+						"indices": [
+							45,
+							68
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1412267264997421000,
+						"id_str": "1412267264997421063",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/E5lhmFIVcAcVCH9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5lhmFIVcAcVCH9.jpg",
+						"url": "https://t.co/TIOAg5dqZV",
+						"display_url": "pic.twitter.com/TIOAg5dqZV",
+						"expanded_url": "https://twitter.com/t1uesday/status/1412267275458007041/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 429,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1713,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 757,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1412267264997421000,
+						"id_str": "1412267264997421063",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/E5lhmFIVcAcVCH9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5lhmFIVcAcVCH9.jpg",
+						"url": "https://t.co/TIOAg5dqZV",
+						"display_url": "pic.twitter.com/TIOAg5dqZV",
+						"expanded_url": "https://twitter.com/t1uesday/status/1412267275458007041/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 429,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1713,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 757,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1412267265018368000,
+						"id_str": "1412267265018368001",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/E5lhmFNVEAE9cfB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5lhmFNVEAE9cfB.jpg",
+						"url": "https://t.co/TIOAg5dqZV",
+						"display_url": "pic.twitter.com/TIOAg5dqZV",
+						"expanded_url": "https://twitter.com/t1uesday/status/1412267275458007041/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1166,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 656,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 1166,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1412267265001545700,
+						"id_str": "1412267265001545734",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/E5lhmFJUYAY4byx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5lhmFJUYAY4byx.jpg",
+						"url": "https://t.co/TIOAg5dqZV",
+						"display_url": "pic.twitter.com/TIOAg5dqZV",
+						"expanded_url": "https://twitter.com/t1uesday/status/1412267275458007041/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1125,
+								"h": 1185,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1185,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 646,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1272342933392339000,
+				"id_str": "1272342933392338944",
+				"name": "요일",
+				"screen_name": "t1uesday",
+				"location": "",
+				"description": "",
+				"url": "https://t.co/mKo1UrNhYC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mKo1UrNhYC",
+								"expanded_url": "https://peing.net/ko/t1uesdayy",
+								"display_url": "peing.net/ko/t1uesdayy",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3715,
+				"friends_count": 147,
+				"listed_count": 26,
+				"created_at": "Mon Jun 15 01:39:35 +0000 2020",
+				"favourites_count": 3175,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12471,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1401284733913370627/Fr76u_fS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1401284733913370627/Fr76u_fS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1272342933392338944/1623219099",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1412253874019180500,
+			"quoted_status_id_str": "1412253874019180552",
+			"quoted_status_permalink": {
+				"url": "https://t.co/XzEscqK14t",
+				"expanded": "https://twitter.com/jjeolqueen/status/1412253874019180552",
+				"display": "twitter.com/jjeolqueen/sta…"
+			},
+			"retweet_count": 810,
+			"favorite_count": 86,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 151,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/z1FHt6XrKQ"
+	},
+	{
+		"created_at": "Tue Jul 06 05:53:06 +0000 2021",
+		"id": 1412269533813825500,
+		"id_str": "1412288476129673224",
+		"full_text": "용인 곰농장 작년에는 불법 도살하고 웅담 사전 예약자들한테 특별식 제공해주겠다면서 곰고기 취식도 했대요\n그때 청와대 청원글 올라왔다가 많은 관심 못받고 내려간 것 같은데 오늘 또 곰 탈출 사건 생긴 김에 글 잘쓰시는 분이 청원 새로 올려주셨으면 ㅠㅠ https://t.co/1V0DIcPS9j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1412269523403636700,
+					"id_str": "1412269523403636737",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/E5ljpiWVgAEWFBy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5ljpiWVgAEWFBy.jpg",
+					"url": "https://t.co/1V0DIcPS9j",
+					"display_url": "pic.twitter.com/1V0DIcPS9j",
+					"expanded_url": "https://twitter.com/jjeolqueen/status/1412269533813825540/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1127,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 660,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 374,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412269523403636700,
+					"id_str": "1412269523403636737",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/E5ljpiWVgAEWFBy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5ljpiWVgAEWFBy.jpg",
+					"url": "https://t.co/1V0DIcPS9j",
+					"display_url": "pic.twitter.com/1V0DIcPS9j",
+					"expanded_url": "https://twitter.com/jjeolqueen/status/1412269533813825540/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1127,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 660,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 374,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412269523399413800,
+					"id_str": "1412269523399413760",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/E5ljpiVVEAAFgsn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5ljpiVVEAAFgsn.jpg",
+					"url": "https://t.co/1V0DIcPS9j",
+					"display_url": "pic.twitter.com/1V0DIcPS9j",
+					"expanded_url": "https://twitter.com/jjeolqueen/status/1412269533813825540/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1140,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 668,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 379,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412269523651088400,
+					"id_str": "1412269523651088385",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/E5ljpjRVUAEDcSR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5ljpjRVUAEDcSR.jpg",
+					"url": "https://t.co/1V0DIcPS9j",
+					"display_url": "pic.twitter.com/1V0DIcPS9j",
+					"expanded_url": "https://twitter.com/jjeolqueen/status/1412269533813825540/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 399,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1202,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 704,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412269523399450600,
+					"id_str": "1412269523399450629",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/E5ljpiVVoAUiI4k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5ljpiVVoAUiI4k.jpg",
+					"url": "https://t.co/1V0DIcPS9j",
+					"display_url": "pic.twitter.com/1V0DIcPS9j",
+					"expanded_url": "https://twitter.com/jjeolqueen/status/1412269533813825540/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1122,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 373,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 657,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1412268028947886000,
+		"in_reply_to_status_id_str": "1412268028947886085",
+		"in_reply_to_user_id": 1407576788197249000,
+		"in_reply_to_user_id_str": "1407576788197249024",
+		"in_reply_to_screen_name": "jjeolqueen",
+		"user": {
+			"id": 1407576788197249000,
+			"id_str": "1407576788197249024",
+			"name": "역겹탱구리",
+			"screen_name": "jjeolqueen",
+			"location": "",
+			"description": "어쩔 난 퀸임",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25,
+			"friends_count": 22,
+			"listed_count": 0,
+			"created_at": "Wed Jun 23 05:50:39 +0000 2021",
+			"favourites_count": 149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1408383513674457089/bOoWT7OV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1408383513674457089/bOoWT7OV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407576788197249024/1625263312",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 290,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "용인 곰농장 작년에는 불법 도살하고 웅담 사전 예약자들한테 특별식 제공해주겠다면서 곰고기 취식도 했대요\n그때 청와대 청원글 올라왔다가 많은 관심 못받고 내려간 것 같은데 오늘 또 곰 탈출 사건 생긴 김에 글 잘쓰시는 분이 청원 새로 올려주셨으면 ㅠㅠ https://t.co/1V0DIcPS9j"
+	},
+	{
+		"created_at": "Tue Jul 06 05:53:01 +0000 2021",
+		"id": 1412258967057682400,
+		"id_str": "1412288454625464321",
+		"full_text": "지금 곰 탈출한 농장 전적 https://t.co/C9zA1AHkji",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1412258957494677500,
+					"id_str": "1412258957494677516",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/E5laChRVcAwBGeW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5laChRVcAwBGeW.jpg",
+					"url": "https://t.co/C9zA1AHkji",
+					"display_url": "pic.twitter.com/C9zA1AHkji",
+					"expanded_url": "https://twitter.com/jjeolqueen/status/1412258967057682432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1173,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 687,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 389,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412258957494677500,
+					"id_str": "1412258957494677516",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/E5laChRVcAwBGeW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5laChRVcAwBGeW.jpg",
+					"url": "https://t.co/C9zA1AHkji",
+					"display_url": "pic.twitter.com/C9zA1AHkji",
+					"expanded_url": "https://twitter.com/jjeolqueen/status/1412258967057682432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1173,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 687,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 389,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412258957494677500,
+					"id_str": "1412258957494677536",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/E5laChRVcCAq6dA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5laChRVcCAq6dA.jpg",
+					"url": "https://t.co/C9zA1AHkji",
+					"display_url": "pic.twitter.com/C9zA1AHkji",
+					"expanded_url": "https://twitter.com/jjeolqueen/status/1412258967057682432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 683,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1166,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 387,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412258957528158200,
+					"id_str": "1412258957528158209",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/E5laChZUUAEleRy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5laChZUUAEleRy.jpg",
+					"url": "https://t.co/C9zA1AHkji",
+					"display_url": "pic.twitter.com/C9zA1AHkji",
+					"expanded_url": "https://twitter.com/jjeolqueen/status/1412258967057682432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1149,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 673,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412258957494677500,
+					"id_str": "1412258957494677532",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/E5laChRVcBw7BdP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5laChRVcBw7BdP.jpg",
+					"url": "https://t.co/C9zA1AHkji",
+					"display_url": "pic.twitter.com/C9zA1AHkji",
+					"expanded_url": "https://twitter.com/jjeolqueen/status/1412258967057682432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 735,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 416,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1254,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1412257355111092200,
+		"in_reply_to_status_id_str": "1412257355111092224",
+		"in_reply_to_user_id": 1407576788197249000,
+		"in_reply_to_user_id_str": "1407576788197249024",
+		"in_reply_to_screen_name": "jjeolqueen",
+		"user": {
+			"id": 1407576788197249000,
+			"id_str": "1407576788197249024",
+			"name": "역겹탱구리",
+			"screen_name": "jjeolqueen",
+			"location": "",
+			"description": "어쩔 난 퀸임",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25,
+			"friends_count": 22,
+			"listed_count": 0,
+			"created_at": "Wed Jun 23 05:50:39 +0000 2021",
+			"favourites_count": 149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1408383513674457089/bOoWT7OV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1408383513674457089/bOoWT7OV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407576788197249024/1625263312",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 404,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지금 곰 탈출한 농장 전적 https://t.co/C9zA1AHkji"
+	},
+	{
+		"created_at": "Tue Jul 06 05:52:56 +0000 2021",
+		"id": 1412257355111092200,
+		"id_str": "1412288433133862912",
+		"full_text": "용인시 처인구 김모씨 농장\n한두번도 아니고 걍 없애야되는거 아님? https://t.co/uolZ79DAgF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1412257344986042400,
+					"id_str": "1412257344986042368",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/E5lYkqNUUAAq9g4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5lYkqNUUAAq9g4.jpg",
+					"url": "https://t.co/uolZ79DAgF",
+					"display_url": "pic.twitter.com/uolZ79DAgF",
+					"expanded_url": "https://twitter.com/jjeolqueen/status/1412257355111092224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 408,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1228,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412257344986042400,
+					"id_str": "1412257344986042368",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/E5lYkqNUUAAq9g4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5lYkqNUUAAq9g4.jpg",
+					"url": "https://t.co/uolZ79DAgF",
+					"display_url": "pic.twitter.com/uolZ79DAgF",
+					"expanded_url": "https://twitter.com/jjeolqueen/status/1412257355111092224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 408,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1228,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412257344981930000,
+					"id_str": "1412257344981929987",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/E5lYkqMVkAM33St.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5lYkqMVkAM33St.jpg",
+					"url": "https://t.co/uolZ79DAgF",
+					"display_url": "pic.twitter.com/uolZ79DAgF",
+					"expanded_url": "https://twitter.com/jjeolqueen/status/1412257355111092224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 797,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1283,
+							"h": 1931,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412257345002897400,
+					"id_str": "1412257345002897410",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/E5lYkqRVgAI5h-v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5lYkqRVgAI5h-v.jpg",
+					"url": "https://t.co/uolZ79DAgF",
+					"display_url": "pic.twitter.com/uolZ79DAgF",
+					"expanded_url": "https://twitter.com/jjeolqueen/status/1412257355111092224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 693,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 392,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1182,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412257344986116000,
+					"id_str": "1412257344986116130",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/E5lYkqNVcCIYQpR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5lYkqNVcCIYQpR.jpg",
+					"url": "https://t.co/uolZ79DAgF",
+					"display_url": "pic.twitter.com/uolZ79DAgF",
+					"expanded_url": "https://twitter.com/jjeolqueen/status/1412257355111092224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1195,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 397,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1412253874019180500,
+		"in_reply_to_status_id_str": "1412253874019180552",
+		"in_reply_to_user_id": 1407576788197249000,
+		"in_reply_to_user_id_str": "1407576788197249024",
+		"in_reply_to_screen_name": "jjeolqueen",
+		"user": {
+			"id": 1407576788197249000,
+			"id_str": "1407576788197249024",
+			"name": "역겹탱구리",
+			"screen_name": "jjeolqueen",
+			"location": "",
+			"description": "어쩔 난 퀸임",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25,
+			"friends_count": 22,
+			"listed_count": 0,
+			"created_at": "Wed Jun 23 05:50:39 +0000 2021",
+			"favourites_count": 149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1408383513674457089/bOoWT7OV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1408383513674457089/bOoWT7OV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407576788197249024/1625263312",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1160,
+		"favorite_count": 154,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "용인시 처인구 김모씨 농장\n한두번도 아니고 걍 없애야되는거 아님? https://t.co/uolZ79DAgF"
+	},
+	{
+		"created_at": "Tue Jul 06 05:52:48 +0000 2021",
+		"id": 1412253874019180500,
+		"id_str": "1412288399055233027",
+		"full_text": "지금 용인 곰탈출 재난문자온거 에버랜드가 아니고 약재용으로 곰 사육하는 쓸개즙 착취 농장이래 ㅠ https://t.co/1uc6tzRgI1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1412253867555704800,
+					"id_str": "1412253867555704834",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/E5lVaPxUUAIMX4j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5lVaPxUUAIMX4j.jpg",
+					"url": "https://t.co/1uc6tzRgI1",
+					"display_url": "pic.twitter.com/1uc6tzRgI1",
+					"expanded_url": "https://twitter.com/jjeolqueen/status/1412253874019180552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 606,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 606,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 606,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412253867555704800,
+					"id_str": "1412253867555704834",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/E5lVaPxUUAIMX4j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5lVaPxUUAIMX4j.jpg",
+					"url": "https://t.co/1uc6tzRgI1",
+					"display_url": "pic.twitter.com/1uc6tzRgI1",
+					"expanded_url": "https://twitter.com/jjeolqueen/status/1412253874019180552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 606,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 606,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 606,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412253867551518700,
+					"id_str": "1412253867551518723",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/E5lVaPwUcAMucwx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5lVaPwUcAMucwx.jpg",
+					"url": "https://t.co/1uc6tzRgI1",
+					"display_url": "pic.twitter.com/1uc6tzRgI1",
+					"expanded_url": "https://twitter.com/jjeolqueen/status/1412253874019180552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 703,
+							"h": 553,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 703,
+							"h": 553,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 535,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407576788197249000,
+			"id_str": "1407576788197249024",
+			"name": "역겹탱구리",
+			"screen_name": "jjeolqueen",
+			"location": "",
+			"description": "어쩔 난 퀸임",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25,
+			"friends_count": 22,
+			"listed_count": 0,
+			"created_at": "Wed Jun 23 05:50:39 +0000 2021",
+			"favourites_count": 149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1408383513674457089/bOoWT7OV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1408383513674457089/bOoWT7OV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407576788197249024/1625263312",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7503,
+		"favorite_count": 728,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지금 용인 곰탈출 재난문자온거 에버랜드가 아니고 약재용으로 곰 사육하는 쓸개즙 착취 농장이래 ㅠ https://t.co/1uc6tzRgI1"
+	},
+	{
 		"created_at": "Tue Jul 06 04:52:48 +0000 2021",
 		"id": 1412006341145772000,
 		"id_str": "1412273299728605184",
