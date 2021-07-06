@@ -1,6 +1,600 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 06 02:52:48 +0000 2021",
+		"id": 1412241275525296000,
+		"id_str": "1412243103826710530",
+		"full_text": "태연 컴백! 신곡 ‘Weekend’ 오늘 공개! \n5시 V 라이브 → 6시 ‘Weekend’ 음원+뮤직비디오 공개!\n\nTAEYEON to comeback with her new song ‘Weekend’ today!\nNAVER V LIVE today at 5PM KST → ‘Weekend’ music and MV release today at 6PM KST! \n\n#태연 #TAEYEON #Weekend #소녀시대 #GirlsGeneration https://t.co/EZbqW5MTEt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						204,
+						207
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						208,
+						216
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						217,
+						225
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						226,
+						231
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						232,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1412240747844169700,
+					"id_str": "1412240747844169742",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/E5lJelCVcA4IzzI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5lJelCVcA4IzzI.jpg",
+					"url": "https://t.co/EZbqW5MTEt",
+					"display_url": "pic.twitter.com/EZbqW5MTEt",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1412241275525296128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412240747844169700,
+					"id_str": "1412240747844169742",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/E5lJelCVcA4IzzI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5lJelCVcA4IzzI.jpg",
+					"url": "https://t.co/EZbqW5MTEt",
+					"display_url": "pic.twitter.com/EZbqW5MTEt",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1412241275525296128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412240747852570600,
+					"id_str": "1412240747852570625",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/E5lJelEVoAE1Fxp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5lJelEVoAE1Fxp.jpg",
+					"url": "https://t.co/EZbqW5MTEt",
+					"display_url": "pic.twitter.com/EZbqW5MTEt",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1412241275525296128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1067,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412240747848343600,
+					"id_str": "1412240747848343553",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/E5lJelDVIAEf5Vh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5lJelDVIAEf5Vh.jpg",
+					"url": "https://t.co/EZbqW5MTEt",
+					"display_url": "pic.twitter.com/EZbqW5MTEt",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1412241275525296128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1067,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3641716,
+			"friends_count": 4,
+			"listed_count": 5429,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1772,
+		"favorite_count": 3203,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태연 컴백! 신곡 ‘Weekend’ 오늘 공개! \n5시 V 라이브 → 6시 ‘Weekend’ 음원+뮤직비디오 공개!\n\nTAEYEON to comeback with her new song ‘Weekend’ today!\nNAVER V LIVE today at 5PM KST → ‘Weekend’ music and MV release today at 6PM KST! \n\n#태연 #TAEYEON #Weekend #소녀시대 #GirlsGeneration https://t.co/EZbqW5MTEt"
+	},
+	{
+		"created_at": "Tue Jul 06 02:45:36 +0000 2021",
+		"id": 1412237363741266000,
+		"id_str": "1412241291761553408",
+		"full_text": "❤210704 인기가요 PD노트\n\n이번 컨셉 너무 멋있는 이달의 소녀!\n진짜 이달소 없는 세상 상상도 못한다...달소가 세상을 구한다٩(♡ε♡ )۶\n\nMORE📸 https://t.co/L0cQaGMhKQ\n\n#인기가요 #inkigayo #PD노트 #이달의소녀 #LOONA #PTT @loonatheworld https://t.co/blh2LQYDNH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인기가요",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "inkigayo",
+					"indices": [
+						121,
+						130
+					]
+				},
+				{
+					"text": "PD노트",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						137,
+						143
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "PTT",
+					"indices": [
+						151,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						156,
+						170
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/L0cQaGMhKQ",
+					"expanded_url": "https://programs.sbs.co.kr/enter/gayo/visualboard/54795?cmd=view&page=1&board_no=435673",
+					"display_url": "programs.sbs.co.kr/enter/gayo/vis…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1412220774279118800,
+					"id_str": "1412220774279118848",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/E5k3T9tVgAAGZ7O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5k3T9tVgAAGZ7O.jpg",
+					"url": "https://t.co/blh2LQYDNH",
+					"display_url": "pic.twitter.com/blh2LQYDNH",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1412237363741265921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412220774279118800,
+					"id_str": "1412220774279118848",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/E5k3T9tVgAAGZ7O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5k3T9tVgAAGZ7O.jpg",
+					"url": "https://t.co/blh2LQYDNH",
+					"display_url": "pic.twitter.com/blh2LQYDNH",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1412237363741265921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412220796982857700,
+					"id_str": "1412220796982857730",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/E5k3VSSVEAIRRSa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5k3VSSVEAIRRSa.jpg",
+					"url": "https://t.co/blh2LQYDNH",
+					"display_url": "pic.twitter.com/blh2LQYDNH",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1412237363741265921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412220831564894200,
+					"id_str": "1412220831564894212",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/E5k3XTHVEAQDm2s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5k3XTHVEAQDm2s.jpg",
+					"url": "https://t.co/blh2LQYDNH",
+					"display_url": "pic.twitter.com/blh2LQYDNH",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1412237363741265921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130755875210088400,
+			"id_str": "1130755875210088448",
+			"name": "SBS인기가요 (SBS Inkigayo)",
+			"screen_name": "sbsnoriter",
+			"location": "Seoul, Republic of Korea",
+			"description": "일요일엔 인기가요! 'SBS인기가요' 공식 채널에서만 만날 수 있는 다양한 콘텐츠를 지금 만나보세요 ~♡ \n--------------------------------\n매주 일요일 오후 3시 50분 \nEvery Sun 3:50(KST) SBS Live on Air",
+			"url": "https://t.co/skgJieaVqa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/skgJieaVqa",
+							"expanded_url": "https://programs.sbs.co.kr/enter/gayo/main",
+							"display_url": "programs.sbs.co.kr/enter/gayo/main",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74645,
+			"friends_count": 0,
+			"listed_count": 308,
+			"created_at": "Tue May 21 08:43:03 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1280728616762933253/4YOXJPkh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1280728616762933253/4YOXJPkh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130755875210088448/1615255987",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 152,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤210704 인기가요 PD노트\n\n이번 컨셉 너무 멋있는 이달의 소녀!\n진짜 이달소 없는 세상 상상도 못한다...달소가 세상을 구한다٩(♡ε♡ )۶\n\nMORE📸 https://t.co/L0cQaGMhKQ\n\n#인기가요 #inkigayo #PD노트 #이달의소녀 #LOONA #PTT @loonatheworld https://t.co/blh2LQYDNH"
+	},
+	{
 		"created_at": "Tue Jul 06 01:52:36 +0000 2021",
 		"id": 1412227951945568300,
 		"id_str": "1412227951945568256",
