@@ -1,6 +1,900 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 06 04:52:48 +0000 2021",
+		"id": 1412006341145772000,
+		"id_str": "1412273299728605184",
+		"full_text": "https://t.co/KZwXez5jyo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1412006226477584400,
+					"id_str": "1412006226477584384",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E5h0Lo3WEAA0c0r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5h0Lo3WEAA0c0r.jpg",
+					"url": "https://t.co/KZwXez5jyo",
+					"display_url": "pic.twitter.com/KZwXez5jyo",
+					"expanded_url": "https://twitter.com/WholesomeMeme/status/1412006341145772035/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412006226477584400,
+					"id_str": "1412006226477584384",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E5h0Lo3WEAA0c0r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5h0Lo3WEAA0c0r.jpg",
+					"url": "https://t.co/KZwXez5jyo",
+					"display_url": "pic.twitter.com/KZwXez5jyo",
+					"expanded_url": "https://twitter.com/WholesomeMeme/status/1412006341145772035/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 762799939395158000,
+			"id_str": "762799939395158016",
+			"name": "WholesomeMemes",
+			"screen_name": "WholesomeMeme",
+			"location": "Ontario, Canada",
+			"description": "#WholesomeMeme. Memes, comics and wholesome stuff and anything we like. Check out our 5000+ Discord! We sell original shirts and stuff at https://t.co/1yKH0Uk1Kq",
+			"url": "https://t.co/ZBGVhtUP0q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZBGVhtUP0q",
+							"expanded_url": "http://www.wholesomememes.com",
+							"display_url": "wholesomememes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1yKH0Uk1Kq",
+							"expanded_url": "http://www.wholesomememes.com",
+							"display_url": "wholesomememes.com",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1597128,
+			"friends_count": 208,
+			"listed_count": 2624,
+			"created_at": "Mon Aug 08 23:57:32 +0000 2016",
+			"favourites_count": 153078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1411016646815358978/H8kX0hfw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1411016646815358978/H8kX0hfw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/762799939395158016/1625089063",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63871,
+		"favorite_count": 592454,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/KZwXez5jyo"
+	},
+	{
+		"created_at": "Tue Jul 06 04:45:37 +0000 2021",
+		"id": 1412266048678613000,
+		"id_str": "1412271492612644866",
+		"full_text": "하나가 된 짱달소의 퍼포먼스🔥\n짱달소의 색으로 Paint The Town🌈\n\n#이달의소녀  #LOONA  #AND #PTT #PaintTheTown https://t.co/hdGaQvLaJP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"text": "AND",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "PTT",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "PaintTheTown",
+					"indices": [
+						69,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1412206718767927300,
+					"id_str": "1412206718767927308",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/E5lgcP_VEAI3GeJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5lgcP_VEAI3GeJ.jpg",
+					"url": "https://t.co/hdGaQvLaJP",
+					"display_url": "pic.twitter.com/hdGaQvLaJP",
+					"expanded_url": "https://twitter.com/KBSMusicBank/status/1412266048678612996/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412206718767927300,
+					"id_str": "1412206718767927308",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/E5lgcP_VEAI3GeJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5lgcP_VEAI3GeJ.jpg",
+					"url": "https://t.co/hdGaQvLaJP",
+					"display_url": "pic.twitter.com/hdGaQvLaJP",
+					"expanded_url": "https://twitter.com/KBSMusicBank/status/1412266048678612996/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 231231,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1412206718767927308/vid/1280x720/Sg2yZBtioq5dohDq.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1412206718767927308/vid/640x360/FjZTcnzZBhfVvHKg.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1412206718767927308/pl/1b5fPPArs9CzfHGK.m3u8?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1412206718767927308/vid/480x270/ofQeioGVmtjwwowk.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52661072,
+			"id_str": "52661072",
+			"name": "뮤직뱅크 (Music Bank)🏦",
+			"screen_name": "KBSMusicBank",
+			"location": "대한민국 서울 (Seoul, South Korea)",
+			"description": "Friday 17:00 KBS 2TV 가장 신뢰할 수 있는 음악 차트 K-Chart, 현재 KBS World를 통해 117개국 방송 中",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1962463,
+			"friends_count": 14,
+			"listed_count": 4910,
+			"created_at": "Wed Jul 01 07:17:45 +0000 2009",
+			"favourites_count": 145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1783,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "010C0D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345965786691633153/SvTfIsxC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345965786691633153/SvTfIsxC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52661072/1558753651",
+			"profile_link_color": "96268B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FADD4B",
+			"profile_text_color": "030003",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 402,
+		"favorite_count": 1208,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "하나가 된 짱달소의 퍼포먼스🔥\n짱달소의 색으로 Paint The Town🌈\n\n#이달의소녀  #LOONA  #AND #PTT #PaintTheTown https://t.co/hdGaQvLaJP"
+	},
+	{
+		"created_at": "Tue Jul 06 04:29:43 +0000 2021",
+		"id": 1412261791489413000,
+		"id_str": "1412267494195314688",
+		"full_text": "TAEYEON Rilis Lagu ‘Weekend’ Sore Ini!\n\nCek artikel lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏻 https://t.co/c2P7qkt6du\n\n@GirlsGeneration #TAEYEON https://t.co/STKQyPlWLF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						151,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						134,
+						150
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/c2P7qkt6du",
+					"expanded_url": "https://www.facebook.com/299527763997578/posts/846585395958476/?d=n",
+					"display_url": "facebook.com/29952776399757…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1412261783272779800,
+					"id_str": "1412261783272779805",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/E5lcnAHVcB0C7d3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5lcnAHVcB0C7d3.jpg",
+					"url": "https://t.co/STKQyPlWLF",
+					"display_url": "pic.twitter.com/STKQyPlWLF",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1412261791489413127/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1067,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412261783272779800,
+					"id_str": "1412261783272779805",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/E5lcnAHVcB0C7d3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5lcnAHVcB0C7d3.jpg",
+					"url": "https://t.co/STKQyPlWLF",
+					"display_url": "pic.twitter.com/STKQyPlWLF",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1412261791489413127/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1067,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412261783276908500,
+					"id_str": "1412261783276908545",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/E5lcnAIUcAEXg3f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5lcnAIUcAEXg3f.jpg",
+					"url": "https://t.co/STKQyPlWLF",
+					"display_url": "pic.twitter.com/STKQyPlWLF",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1412261791489413127/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1067,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412261783281168400,
+					"id_str": "1412261783281168392",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/E5lcnAJVcAg757T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5lcnAJVcAg757T.jpg",
+					"url": "https://t.co/STKQyPlWLF",
+					"display_url": "pic.twitter.com/STKQyPlWLF",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1412261791489413127/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 577433,
+			"friends_count": 34,
+			"listed_count": 398,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 87,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 568,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "TAEYEON Rilis Lagu ‘Weekend’ Sore Ini!\n\nCek artikel lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏻 https://t.co/c2P7qkt6du\n\n@GirlsGeneration #TAEYEON https://t.co/STKQyPlWLF"
+	},
+	{
+		"created_at": "Tue Jul 06 04:26:19 +0000 2021",
+		"id": 1412266637647097900,
+		"id_str": "1412266637647097857",
+		"full_text": "#SMTOWN #Artist_News \n태연 컴백! 신곡 ‘Weekend’ 6일 공개! \nhttps://t.co/G0DTwKs6Pk \n \n#소녀시대 #GirlsGeneration https://t.co/5HZJYy0CdC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						83,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G0DTwKs6Pk",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5181",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1412266636791451600,
+					"id_str": "1412266636791451649",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/E5lhBg4XEAEimKg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5lhBg4XEAEimKg.jpg",
+					"url": "https://t.co/5HZJYy0CdC",
+					"display_url": "pic.twitter.com/5HZJYy0CdC",
+					"expanded_url": "https://twitter.com/fromminn/status/1412266637647097857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412266636791451600,
+					"id_str": "1412266636791451649",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/E5lhBg4XEAEimKg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5lhBg4XEAEimKg.jpg",
+					"url": "https://t.co/5HZJYy0CdC",
+					"display_url": "pic.twitter.com/5HZJYy0CdC",
+					"expanded_url": "https://twitter.com/fromminn/status/1412266637647097857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \n태연 컴백! 신곡 ‘Weekend’ 6일 공개! \nhttps://t.co/G0DTwKs6Pk \n \n#소녀시대 #GirlsGeneration https://t.co/5HZJYy0CdC"
+	},
+	{
 		"created_at": "Tue Jul 06 03:58:23 +0000 2021",
 		"id": 1412259608970866700,
 		"id_str": "1412259608970866689",
