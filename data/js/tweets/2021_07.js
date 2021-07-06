@@ -1,6 +1,1004 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 06 07:52:58 +0000 2021",
+		"id": 1412308210208309200,
+		"id_str": "1412318643573166082",
+		"full_text": "7월 6일 16시 기준, 도심, 서북, 동북, 동남권역에 오존주의보가 발령되었습니다. (서남권역 발령 유지, 전권역 발령) 실외활동을 자제하여 주시기 바랍니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://social.seoul.go.kr\" rel=\"nofollow\">서울 SMC(소셜미디어센터)</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1654849231,
+			"id_str": "1654849231",
+			"name": "서울라이프라인",
+			"screen_name": "SeoulLifeline",
+			"location": "",
+			"description": "서울특별시 재난분야 대표계정 SeoulLifeline입니다. 서울시에서 관리하는 재난재해 소식을 신속하게 알려드리는 시민님의 안전 지킴이가 되겠습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4060,
+			"friends_count": 900,
+			"listed_count": 38,
+			"created_at": "Thu Aug 08 07:35:51 +0000 2013",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 575,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000307073798/b73267ede951dad25fa0f6824cb12b47_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000307073798/b73267ede951dad25fa0f6824cb12b47_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1654849231/1376872038",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "7월 6일 16시 기준, 도심, 서북, 동북, 동남권역에 오존주의보가 발령되었습니다. (서남권역 발령 유지, 전권역 발령) 실외활동을 자제하여 주시기 바랍니다."
+	},
+	{
+		"created_at": "Tue Jul 06 07:29:52 +0000 2021",
+		"id": 1412311250969587700,
+		"id_str": "1412312827973488640",
+		"full_text": "[#VLIVE] 💌 잠시 후 5시, &lt;Weekend&gt; 태연엔터의 상반기 총회가 VLIVE에서 시작됩니다.🔔 금일 총회는 2021 #태연 상반기 결산을 시작으로 대표님과의 ‘Weekend’ 플랜 간담회 순으로 진행되오니 ✔️ 소원 여러분들은 꼭 참석하시어 자리를 빛내주시기 바랍니다❣️\n\n▶️ https://t.co/jHH0bzcU8q\n\n#TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VLIVE",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						194,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jHH0bzcU8q",
+					"expanded_url": "https://www.vlive.tv/video/254402",
+					"display_url": "vlive.tv/video/254402",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6229122,
+			"friends_count": 167,
+			"listed_count": 2809,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 520,
+		"favorite_count": 1448,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VLIVE] 💌 잠시 후 5시, &lt;Weekend&gt; 태연엔터의 상반기 총회가 VLIVE에서 시작됩니다.🔔 금일 총회는 2021 #태연 상반기 결산을 시작으로 대표님과의 ‘Weekend’ 플랜 간담회 순으로 진행되오니 ✔️ 소원 여러분들은 꼭 참석하시어 자리를 빛내주시기 바랍니다❣️\n\n▶️ https://t.co/jHH0bzcU8q\n\n#TAEYEON"
+	},
+	{
+		"created_at": "Tue Jul 06 07:29:47 +0000 2021",
+		"id": 1412307303844388900,
+		"id_str": "1412312806528065536",
+		"full_text": "#TAEYEON จะกลับมาพร้อมเพลงใหม่ ‘Weekend’ ในวันนี้!\n\nNAVER V LIVE (https://t.co/yebIVAXiPF) วันนี้ บ่าย 3 โมงไทย! → เพลงและมิวสิกวิดีโอของ ‘Weekend’ ปล่อยวันนี้ 4 โมงเย็นไทย!\n\n💗 https://t.co/Cu20M7lwDB\n\n#태연 #Weekend\n#소녀시대 #GirlsGeneration https://t.co/CMcAB79UXY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						202,
+						205
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						206,
+						214
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						215,
+						220
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						221,
+						237
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yebIVAXiPF",
+					"expanded_url": "http://vlive.tv/post/1-23826573",
+					"display_url": "vlive.tv/post/1-23826573",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/Cu20M7lwDB",
+					"expanded_url": "http://facebook.com/212568845457738/posts/4167605406620709/",
+					"display_url": "facebook.com/21256884545773…",
+					"indices": [
+						177,
+						200
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1412307063821127700,
+					"id_str": "1412307063821127680",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/E5mFyrTVUAAyGYT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5mFyrTVUAAyGYT.jpg",
+					"url": "https://t.co/CMcAB79UXY",
+					"display_url": "pic.twitter.com/CMcAB79UXY",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1412307303844388867/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412307063821127700,
+					"id_str": "1412307063821127680",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/E5mFyrTVUAAyGYT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5mFyrTVUAAyGYT.jpg",
+					"url": "https://t.co/CMcAB79UXY",
+					"display_url": "pic.twitter.com/CMcAB79UXY",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1412307303844388867/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412307064240578600,
+					"id_str": "1412307064240578575",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/E5mFys3VoA8w_8E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5mFys3VoA8w_8E.jpg",
+					"url": "https://t.co/CMcAB79UXY",
+					"display_url": "pic.twitter.com/CMcAB79UXY",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1412307303844388867/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1067,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412307064672587800,
+					"id_str": "1412307064672587776",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/E5mFyueVkAArvbA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5mFyueVkAArvbA.jpg",
+					"url": "https://t.co/CMcAB79UXY",
+					"display_url": "pic.twitter.com/CMcAB79UXY",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1412307303844388867/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1067,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85193,
+			"friends_count": 48,
+			"listed_count": 157,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8091,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 166,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "#TAEYEON จะกลับมาพร้อมเพลงใหม่ ‘Weekend’ ในวันนี้!\n\nNAVER V LIVE (https://t.co/yebIVAXiPF) วันนี้ บ่าย 3 โมงไทย! → เพลงและมิวสิกวิดีโอของ ‘Weekend’ ปล่อยวันนี้ 4 โมงเย็นไทย!\n\n💗 https://t.co/Cu20M7lwDB\n\n#태연 #Weekend\n#소녀시대 #GirlsGeneration https://t.co/CMcAB79UXY"
+	},
+	{
+		"created_at": "Tue Jul 06 07:29:39 +0000 2021",
+		"id": 1412301536265265200,
+		"id_str": "1412312772520681475",
+		"full_text": "[#VLIVE] ❗️ SANGAT PENTING ❗️ Weekend: Taeyeon Entertainment 1st Half-Year General Meeting akan segera berlangsung pada:\n📅 Hari ini, jam 15.00 WIB\n📌 VLIVE\nHadirin dimohon untuk dapat hadir tepat waktu✍️🏻\n\n▶️ https://t.co/bX3dHftI2a\n\n#TAEYEON #GirlsGeneration #VLIVEINDONESIA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VLIVE",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						233,
+						241
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						242,
+						258
+					]
+				},
+				{
+					"text": "VLIVEINDONESIA",
+					"indices": [
+						259,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bX3dHftI2a",
+					"expanded_url": "https://www.vlive.tv/video/254402",
+					"display_url": "vlive.tv/video/254402",
+					"indices": [
+						208,
+						231
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1105406743352229900,
+			"id_str": "1105406743352229888",
+			"name": "VLIVE INDONESIA",
+			"screen_name": "vliveindonesia",
+			"location": "",
+			"description": "Selamat datang di VLIVE Indonesia Official Account.\n\nChannel V INDONESIA 👇🏻 👇🏻",
+			"url": "https://t.co/2zoxavILHU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2zoxavILHU",
+							"expanded_url": "https://channels.vlive.tv/B4B94F/celeb",
+							"display_url": "channels.vlive.tv/B4B94F/celeb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34075,
+			"friends_count": 1,
+			"listed_count": 13,
+			"created_at": "Tue Mar 12 09:54:39 +0000 2019",
+			"favourites_count": 48,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1105480655079534593/xBCJj6Kc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105480655079534593/xBCJj6Kc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1105406743352229888/1562229420",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "[#VLIVE] ❗️ SANGAT PENTING ❗️ Weekend: Taeyeon Entertainment 1st Half-Year General Meeting akan segera berlangsung pada:\n📅 Hari ini, jam 15.00 WIB\n📌 VLIVE\nHadirin dimohon untuk dapat hadir tepat waktu✍️🏻\n\n▶️ https://t.co/bX3dHftI2a\n\n#TAEYEON #GirlsGeneration #VLIVEINDONESIA"
+	},
+	{
+		"created_at": "Tue Jul 06 07:29:30 +0000 2021",
+		"id": 1412312734562242600,
+		"id_str": "1412312734562242562",
+		"full_text": "#카카오TV #톡이나할까 #김이나\n44회. 선미\nhttps://t.co/KgXTqhoICN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "카카오TV",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "톡이나할까",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "김이나",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KgXTqhoICN",
+					"expanded_url": "https://tv.kakao.com/channel/3647846/cliplink/420508650",
+					"display_url": "tv.kakao.com/channel/364784…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#카카오TV #톡이나할까 #김이나\n44회. 선미\nhttps://t.co/KgXTqhoICN"
+	},
+	{
+		"created_at": "Tue Jul 06 07:29:28 +0000 2021",
+		"id": 1412312729176744000,
+		"id_str": "1412312729176743937",
+		"full_text": "#카카오TV #톡이나할까 #김이나\n어르신 선미를 위한 이나의 요즘 말 특강!\nhttps://t.co/N60l2rAfWh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "카카오TV",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "톡이나할까",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "김이나",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N60l2rAfWh",
+					"expanded_url": "https://tv.kakao.com/channel/3647846/cliplink/420496663",
+					"display_url": "tv.kakao.com/channel/364784…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#카카오TV #톡이나할까 #김이나\n어르신 선미를 위한 이나의 요즘 말 특강!\nhttps://t.co/N60l2rAfWh"
+	},
+	{
+		"created_at": "Tue Jul 06 07:29:28 +0000 2021",
+		"id": 1412312726794293200,
+		"id_str": "1412312726794293251",
+		"full_text": "#카카오TV #톡이나할까 #김이나\n선미x이나 피셜 연예계에서 조심해야 하는 포인트.tip\nhttps://t.co/A8OSVFJR4h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "카카오TV",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "톡이나할까",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "김이나",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A8OSVFJR4h",
+					"expanded_url": "https://tv.kakao.com/channel/3647846/cliplink/420496587",
+					"display_url": "tv.kakao.com/channel/364784…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#카카오TV #톡이나할까 #김이나\n선미x이나 피셜 연예계에서 조심해야 하는 포인트.tip\nhttps://t.co/A8OSVFJR4h"
+	},
+	{
 		"created_at": "Tue Jul 06 06:53:03 +0000 2021",
 		"id": 1412291877890523100,
 		"id_str": "1412303562466545664",
