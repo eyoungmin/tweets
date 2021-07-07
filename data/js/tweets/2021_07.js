@@ -1,10 +1,830 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 07 11:52:55 +0000 2021",
+		"id": 1412735923352051700,
+		"id_str": "1412741413251465218",
+		"full_text": "놀라운 토요일(Amazing Saturday) l 태연 TAEYEON 'Weekend' MV Reaction\n\nhttps://t.co/enLZzIi2vq\n\n#태연 #TAEYEON #Weekend\n#소녀시대 #GirlsGeneration\n#놀라운토요일 #AmazingSaturday",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						115,
+						131
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						132,
+						139
+					]
+				},
+				{
+					"text": "AmazingSaturday",
+					"indices": [
+						140,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/enLZzIi2vq",
+					"expanded_url": "https://youtu.be/KEH81ttIfuM",
+					"display_url": "youtu.be/KEH81ttIfuM",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3643672,
+			"friends_count": 4,
+			"listed_count": 5429,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2102,
+		"favorite_count": 3509,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "놀라운 토요일(Amazing Saturday) l 태연 TAEYEON 'Weekend' MV Reaction\n\nhttps://t.co/enLZzIi2vq\n\n#태연 #TAEYEON #Weekend\n#소녀시대 #GirlsGeneration\n#놀라운토요일 #AmazingSaturday"
+	},
+	{
+		"created_at": "Wed Jul 07 11:45:43 +0000 2021",
+		"id": 1412735650546077700,
+		"id_str": "1412739601345699840",
+		"full_text": "[#VLIVE] Coba tebak siapa yang baru aja menang posisi pertama di acara musik? Tentu saja itu adalah #LOONA 🌕 Kebahagiaan mereka sungguh menular sampai ke tulang rusukku 💘\n\n▶️ https://t.co/4aJ9qjumEb\n\n#VLIVEINDONESIA https://t.co/xMCfae1cKP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VLIVE",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "VLIVEINDONESIA",
+					"indices": [
+						200,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4aJ9qjumEb",
+					"expanded_url": "https://www.vlive.tv/video/255007",
+					"display_url": "vlive.tv/video/255007",
+					"indices": [
+						175,
+						198
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1412710034220273700,
+					"id_str": "1412710034220273665",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/E5r0SpBUUAE-ZYX.png",
+					"media_url_https": "https://pbs.twimg.com/media/E5r0SpBUUAE-ZYX.png",
+					"url": "https://t.co/xMCfae1cKP",
+					"display_url": "pic.twitter.com/xMCfae1cKP",
+					"expanded_url": "https://twitter.com/vliveindonesia/status/1412735650546077699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 725,
+							"h": 362,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 725,
+							"h": 362,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412710034220273700,
+					"id_str": "1412710034220273665",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/E5r0SpBUUAE-ZYX.png",
+					"media_url_https": "https://pbs.twimg.com/media/E5r0SpBUUAE-ZYX.png",
+					"url": "https://t.co/xMCfae1cKP",
+					"display_url": "pic.twitter.com/xMCfae1cKP",
+					"expanded_url": "https://twitter.com/vliveindonesia/status/1412735650546077699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 725,
+							"h": 362,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 725,
+							"h": 362,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1412710122674024400,
+					"id_str": "1412710122674024449",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/E5r0XyiVcAEnQ1j.png",
+					"media_url_https": "https://pbs.twimg.com/media/E5r0XyiVcAEnQ1j.png",
+					"url": "https://t.co/xMCfae1cKP",
+					"display_url": "pic.twitter.com/xMCfae1cKP",
+					"expanded_url": "https://twitter.com/vliveindonesia/status/1412735650546077699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 726,
+							"h": 364,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 726,
+							"h": 364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 341,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1412710147290321000,
+					"id_str": "1412710147290320905",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/E5r0ZOPUUAk0Yze.png",
+					"media_url_https": "https://pbs.twimg.com/media/E5r0ZOPUUAk0Yze.png",
+					"url": "https://t.co/xMCfae1cKP",
+					"display_url": "pic.twitter.com/xMCfae1cKP",
+					"expanded_url": "https://twitter.com/vliveindonesia/status/1412735650546077699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 725,
+							"h": 363,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 725,
+							"h": 363,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412710192148480000,
+					"id_str": "1412710192148480004",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/E5r0b1WVgAQl8Q0.png",
+					"media_url_https": "https://pbs.twimg.com/media/E5r0b1WVgAQl8Q0.png",
+					"url": "https://t.co/xMCfae1cKP",
+					"display_url": "pic.twitter.com/xMCfae1cKP",
+					"expanded_url": "https://twitter.com/vliveindonesia/status/1412735650546077699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 342,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 724,
+							"h": 364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 724,
+							"h": 364,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1105406743352229900,
+			"id_str": "1105406743352229888",
+			"name": "VLIVE INDONESIA",
+			"screen_name": "vliveindonesia",
+			"location": "",
+			"description": "Selamat datang di VLIVE Indonesia Official Account.\n\nChannel V INDONESIA 👇🏻 👇🏻",
+			"url": "https://t.co/2zoxavILHU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2zoxavILHU",
+							"expanded_url": "https://channels.vlive.tv/B4B94F/celeb",
+							"display_url": "channels.vlive.tv/B4B94F/celeb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34067,
+			"friends_count": 1,
+			"listed_count": 13,
+			"created_at": "Tue Mar 12 09:54:39 +0000 2019",
+			"favourites_count": 48,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1105480655079534593/xBCJj6Kc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105480655079534593/xBCJj6Kc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1105406743352229888/1562229420",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "[#VLIVE] Coba tebak siapa yang baru aja menang posisi pertama di acara musik? Tentu saja itu adalah #LOONA 🌕 Kebahagiaan mereka sungguh menular sampai ke tulang rusukku 💘\n\n▶️ https://t.co/4aJ9qjumEb\n\n#VLIVEINDONESIA https://t.co/xMCfae1cKP"
+	},
+	{
+		"created_at": "Wed Jul 07 11:45:36 +0000 2021",
+		"id": 1412728106419327000,
+		"id_str": "1412739575701819392",
+		"full_text": "🌜#돌들의침묵 | 이달의 소녀 (LOONA) \n\n🎥 [Night ver.] 모든 걸 걸고 춤을 추는 이달소의 무대❤️‍🔥 \nㄴ https://t.co/7fvGbo91C5\n\n#돌들의침묵_이달의소녀\n#TheSilenceOfIDOL_LOONA\n#이달의소녀 #LOON #PTT\n@loonatheworld https://t.co/OcNfm2uWay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "돌들의침묵",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "돌들의침묵_이달의소녀",
+					"indices": [
+						96,
+						108
+					]
+				},
+				{
+					"text": "TheSilenceOfIDOL_LOONA",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "LOON",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "PTT",
+					"indices": [
+						146,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						151,
+						165
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7fvGbo91C5",
+					"expanded_url": "http://youtu.be/3M12lVQCw4Q",
+					"display_url": "youtu.be/3M12lVQCw4Q",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1412703990043725800,
+					"id_str": "1412703990043725826",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E5ruy0tVUAI90Ry.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5ruy0tVUAI90Ry.jpg",
+					"url": "https://t.co/OcNfm2uWay",
+					"display_url": "pic.twitter.com/OcNfm2uWay",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1412728106419326976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412703990043725800,
+					"id_str": "1412703990043725826",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E5ruy0tVUAI90Ry.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5ruy0tVUAI90Ry.jpg",
+					"url": "https://t.co/OcNfm2uWay",
+					"display_url": "pic.twitter.com/OcNfm2uWay",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1412728106419326976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "KPop을 더 즐겁게! PLAY YOUR MUSIC🎶",
+			"url": "https://t.co/npNrfLZtFs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/npNrfLZtFs",
+							"expanded_url": "https://www.youtube.com/channel/UC9LcN9O8amxNcfu0fwGqwgQ",
+							"display_url": "youtube.com/channel/UC9LcN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25583,
+			"friends_count": 74,
+			"listed_count": 56,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1609479399",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1030,
+		"favorite_count": 3309,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌜#돌들의침묵 | 이달의 소녀 (LOONA) \n\n🎥 [Night ver.] 모든 걸 걸고 춤을 추는 이달소의 무대❤️‍🔥 \nㄴ https://t.co/7fvGbo91C5\n\n#돌들의침묵_이달의소녀\n#TheSilenceOfIDOL_LOONA\n#이달의소녀 #LOON #PTT\n@loonatheworld https://t.co/OcNfm2uWay"
+	},
+	{
+		"created_at": "Wed Jul 07 11:21:37 +0000 2021",
+		"id": 1412733538554859500,
+		"id_str": "1412733538554859531",
+		"full_text": "#소녀시대 #GirlsGeneration \n놀라운 토요일(Amazing Saturday) l 태연 TAEYEON 'Weekend' MV Reaction \nhttps://t.co/lwzUsvW0xL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						6,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lwzUsvW0xL",
+					"expanded_url": "https://www.youtube.com/watch?v=KEH81ttIfuM",
+					"display_url": "youtube.com/watch?v=KEH81t…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#소녀시대 #GirlsGeneration \n놀라운 토요일(Amazing Saturday) l 태연 TAEYEON 'Weekend' MV Reaction \nhttps://t.co/lwzUsvW0xL"
+	},
+	{
 		"created_at": "Wed Jul 07 10:45:36 +0000 2021",
 		"id": 1412713239431970800,
 		"id_str": "1412724476438093826",
-		"full_text": "[팩트iN스타] #이달의소녀 #LOONA\n\"바쁘다! 바빠!! 현대사회🏃‍♀️\"\n프로 N잡러 이달소❓ 이번N 탐정으로 변신하다⁉️\n올달소[&amp;]영달소 #뇌피셜록 탐정사무소 출근🎉\n\n🌙 7/8(목), 7/9(금) 밤 10시 팩인스 공식 유튜브\n🌟 7/11(일) 낮 12시 TBS TV 본방사수📡\n\n#희진 #현진 #하슬 #여진\n@loonatheworld https://t.co/Zy6W9x149m",
+		"full_text": "[팩트iN스타] #이달의소녀 #LOONA\n\"바쁘다! 바빠!! 현대사회🏃♀️\"\n프로 N잡러 이달소❓ 이번N 탐정으로 변신하다⁉️\n올달소[&amp;]영달소 #뇌피셜록 탐정사무소 출근🎉\n\n🌙 7/8(목), 7/9(금) 밤 10시 팩인스 공식 유튜브\n🌟 7/11(일) 낮 12시 TBS TV 본방사수📡\n\n#희진 #현진 #하슬 #여진\n@loonatheworld https://t.co/Zy6W9x149m",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -342,7 +1162,7 @@ Grailbird.data.tweets_2021_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[팩트iN스타] #이달의소녀 #LOONA\n\"바쁘다! 바빠!! 현대사회🏃‍♀️\"\n프로 N잡러 이달소❓ 이번N 탐정으로 변신하다⁉️\n올달소[&amp;]영달소 #뇌피셜록 탐정사무소 출근🎉\n\n🌙 7/8(목), 7/9(금) 밤 10시 팩인스 공식 유튜브\n🌟 7/11(일) 낮 12시 TBS TV 본방사수📡\n\n#희진 #현진 #하슬 #여진\n@loonatheworld https://t.co/Zy6W9x149m"
+		"text": "[팩트iN스타] #이달의소녀 #LOONA\n\"바쁘다! 바빠!! 현대사회🏃♀️\"\n프로 N잡러 이달소❓ 이번N 탐정으로 변신하다⁉️\n올달소[&amp;]영달소 #뇌피셜록 탐정사무소 출근🎉\n\n🌙 7/8(목), 7/9(금) 밤 10시 팩인스 공식 유튜브\n🌟 7/11(일) 낮 12시 TBS TV 본방사수📡\n\n#희진 #현진 #하슬 #여진\n@loonatheworld https://t.co/Zy6W9x149m"
 	},
 	{
 		"created_at": "Wed Jul 07 09:58:40 +0000 2021",
