@@ -1,6 +1,1272 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 07 09:58:40 +0000 2021",
+		"id": 1412712661813534700,
+		"id_str": "1412712661813534720",
+		"full_text": "#SMTOWN #Artist_News \n역시 ‘믿듣탱’! 태연 신곡 ‘Weekend’ 공개 동시에 음원 차트 1위! \nhttps://t.co/XDniK6MYwB \n \n#태연 #TAEYEON https://t.co/o8xz2Uhsc9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						97,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XDniK6MYwB",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5184",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1412712660844650500,
+					"id_str": "1412712660844650498",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/E5r2rh9XoAI8xtj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5r2rh9XoAI8xtj.jpg",
+					"url": "https://t.co/o8xz2Uhsc9",
+					"display_url": "pic.twitter.com/o8xz2Uhsc9",
+					"expanded_url": "https://twitter.com/fromminn/status/1412712661813534720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412712660844650500,
+					"id_str": "1412712660844650498",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/E5r2rh9XoAI8xtj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5r2rh9XoAI8xtj.jpg",
+					"url": "https://t.co/o8xz2Uhsc9",
+					"display_url": "pic.twitter.com/o8xz2Uhsc9",
+					"expanded_url": "https://twitter.com/fromminn/status/1412712661813534720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \n역시 ‘믿듣탱’! 태연 신곡 ‘Weekend’ 공개 동시에 음원 차트 1위! \nhttps://t.co/XDniK6MYwB \n \n#태연 #TAEYEON https://t.co/o8xz2Uhsc9"
+	},
+	{
+		"created_at": "Wed Jul 07 09:45:42 +0000 2021",
+		"id": 1412703061575823400,
+		"id_str": "1412709398783434753",
+		"full_text": "희진, 츄공주의 패션 센스가 궁금했던 오빛💫 잠시 후 오후 6시 30분(KST) 공개되는 '오떼르 : 미션 컴플희츄' 4화에서 확인해 보세요💖\n\n#이달의소녀 #희진 #츄 #LOONA #HeeJin #Chuu\n\n▶️ https://t.co/C4JM6fMXCr https://t.co/xffrjNhczw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						92,
+						94
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						102,
+						109
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						110,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C4JM6fMXCr",
+					"expanded_url": "http://bit.ly/3a4vz72",
+					"display_url": "bit.ly/3a4vz72",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1412703053728215000,
+					"id_str": "1412703053728215042",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/E5rt8UqUcAIoG3P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5rt8UqUcAIoG3P.jpg",
+					"url": "https://t.co/xffrjNhczw",
+					"display_url": "pic.twitter.com/xffrjNhczw",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1412703061575823361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412703053728215000,
+					"id_str": "1412703053728215042",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/E5rt8UqUcAIoG3P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5rt8UqUcAIoG3P.jpg",
+					"url": "https://t.co/xffrjNhczw",
+					"display_url": "pic.twitter.com/xffrjNhczw",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1412703061575823361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 764385,
+			"friends_count": 1,
+			"listed_count": 7639,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5465,
+		"favorite_count": 14889,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "희진, 츄공주의 패션 센스가 궁금했던 오빛💫 잠시 후 오후 6시 30분(KST) 공개되는 '오떼르 : 미션 컴플희츄' 4화에서 확인해 보세요💖\n\n#이달의소녀 #희진 #츄 #LOONA #HeeJin #Chuu\n\n▶️ https://t.co/C4JM6fMXCr https://t.co/xffrjNhczw"
+	},
+	{
+		"created_at": "Wed Jul 07 09:45:37 +0000 2021",
+		"id": 1412698455894413300,
+		"id_str": "1412709377308561409",
+		"full_text": "[고장난노래방] LOONA(이달의 소녀) - PTT (Paint The Town)│박력 있는데 자세히 보면 얼렁이 뚱땅이인 그것을 우리는 '달소'라고 부르기로 했어요🤦‍🤦‍[통통컬처](@loonatheworld)\n\n#이달소 #LOONA #PTT\n그런 사회적 합의가 있었어요\n\n▶https://t.co/eflhYSsWYo https://t.co/85CsN9jVE9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달소",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "PTT",
+					"indices": [
+						132,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						103,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eflhYSsWYo",
+					"expanded_url": "https://youtu.be/V-wUJ_RsZ5c",
+					"display_url": "youtu.be/V-wUJ_RsZ5c",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1412698423925493800,
+					"id_str": "1412698423925493767",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E5rpu1TVUAccyDJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5rpu1TVUAccyDJ.jpg",
+					"url": "https://t.co/85CsN9jVE9",
+					"display_url": "pic.twitter.com/85CsN9jVE9",
+					"expanded_url": "https://twitter.com/TONGTONG_C/status/1412698455894413321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412698423925493800,
+					"id_str": "1412698423925493767",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E5rpu1TVUAccyDJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5rpu1TVUAccyDJ.jpg",
+					"url": "https://t.co/85CsN9jVE9",
+					"display_url": "pic.twitter.com/85CsN9jVE9",
+					"expanded_url": "https://twitter.com/TONGTONG_C/status/1412698455894413321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1247773150856630300,
+			"id_str": "1247773150856630275",
+			"name": "TongTongTv 통통컬쳐",
+			"screen_name": "TONGTONG_C",
+			"location": "",
+			"description": "통통컬쳐 공식 트위터✨               TONGTONG CULTURE Official Twitter.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3632,
+			"friends_count": 4,
+			"listed_count": 12,
+			"created_at": "Wed Apr 08 06:28:52 +0000 2020",
+			"favourites_count": 86,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1329312160942489603/jgW4YlRg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329312160942489603/jgW4YlRg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1247773150856630275/1586328026",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 869,
+		"favorite_count": 2746,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[고장난노래방] LOONA(이달의 소녀) - PTT (Paint The Town)│박력 있는데 자세히 보면 얼렁이 뚱땅이인 그것을 우리는 '달소'라고 부르기로 했어요🤦‍🤦‍[통통컬처](@loonatheworld)\n\n#이달소 #LOONA #PTT\n그런 사회적 합의가 있었어요\n\n▶https://t.co/eflhYSsWYo https://t.co/85CsN9jVE9"
+	},
+	{
+		"created_at": "Wed Jul 07 09:35:13 +0000 2021",
+		"id": 1412706762273263600,
+		"id_str": "1412706762273263619",
+		"full_text": "#오떼르 #Hauteurtheday \n(ENG) 🚨머니게임 비이켜!🚨 츄 희진의 여름맞이 남자 코디 추천 | 오떼르: 미션컴플희츄 [Ep. 4] \nhttps://t.co/GCHIEFhJBz \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오떼르",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "Hauteurtheday",
+					"indices": [
+						5,
+						19
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "김지우",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						129,
+						131
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "츄튜브",
+					"indices": [
+						138,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GCHIEFhJBz",
+					"expanded_url": "https://youtu.be/pOciYpUmGwA",
+					"display_url": "youtu.be/pOciYpUmGwA",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오떼르 #Hauteurtheday \n(ENG) 🚨머니게임 비이켜!🚨 츄 희진의 여름맞이 남자 코디 추천 | 오떼르: 미션컴플희츄 [Ep. 4] \nhttps://t.co/GCHIEFhJBz \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브"
+	},
+	{
+		"created_at": "Wed Jul 07 09:29:39 +0000 2021",
+		"id": 1412697900040269800,
+		"id_str": "1412705358863376385",
+		"full_text": "💛#잇츠라이브 X #우주소녀💛\n\n#itsLIVE 영상으로만\n감상할 수 있었던 노래가\n7월 8일 오후 6시에 발매됩니다💖\n\n#WJSN #BabyBaby (by #소녀시대) \n@WJSN_Cosmic\n@MDRomeda_KPOP https://t.co/2B0tAGKQEN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "잇츠라이브",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "우주소녀",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "itsLIVE",
+					"indices": [
+						18,
+						26
+					]
+				},
+				{
+					"text": "WJSN",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "BabyBaby",
+					"indices": [
+						74,
+						83
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						88,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WJSN_Cosmic",
+					"name": "우주소녀",
+					"id": 4439470045,
+					"id_str": "4439470045",
+					"indices": [
+						96,
+						108
+					]
+				},
+				{
+					"screen_name": "MDRomeda_KPOP",
+					"name": "it's LIVE",
+					"id": 762467268227833900,
+					"id_str": "762467268227833857",
+					"indices": [
+						109,
+						123
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1412693971956945000,
+					"id_str": "1412693971956944897",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1412693971956944897/img/j3jb2A5RunTZXFdB.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1412693971956944897/img/j3jb2A5RunTZXFdB.jpg",
+					"url": "https://t.co/2B0tAGKQEN",
+					"display_url": "pic.twitter.com/2B0tAGKQEN",
+					"expanded_url": "https://twitter.com/vlending/status/1412697900040269834/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412693971956945000,
+					"id_str": "1412693971956944897",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1412693971956944897/img/j3jb2A5RunTZXFdB.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1412693971956944897/img/j3jb2A5RunTZXFdB.jpg",
+					"url": "https://t.co/2B0tAGKQEN",
+					"display_url": "pic.twitter.com/2B0tAGKQEN",
+					"expanded_url": "https://twitter.com/vlending/status/1412697900040269834/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 51593,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1412693971956944897/vid/480x270/6w3uI9s4bqSLmLvI.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1412693971956944897/vid/640x360/jDJIr9815ymlaKfq.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1412693971956944897/pl/YFr67kbHu94eX2Wa.m3u8?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1412693971956944897/vid/1280x720/f44io8m-otyd18jB.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 875207914503364600,
+			"id_str": "875207914503364609",
+			"name": "VLENDING (블렌딩)",
+			"screen_name": "vlending",
+			"location": "",
+			"description": "\"보는 음악, 함께 하는 음악\"\n다양한 드라마 OST 와 KPOP 음원을 제작하고 유통하는 블렌딩 공식 계정입니다.",
+			"url": "https://t.co/Qa4COCxXM9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qa4COCxXM9",
+							"expanded_url": "http://youtube.com/vlending",
+							"display_url": "youtube.com/vlending",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6019,
+			"friends_count": 15,
+			"listed_count": 27,
+			"created_at": "Thu Jun 15 04:26:42 +0000 2017",
+			"favourites_count": 78,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194910045206499333/ZPa5QJXO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194910045206499333/ZPa5QJXO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/875207914503364609/1619759913",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 722,
+		"favorite_count": 933,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💛#잇츠라이브 X #우주소녀💛\n\n#itsLIVE 영상으로만\n감상할 수 있었던 노래가\n7월 8일 오후 6시에 발매됩니다💖\n\n#WJSN #BabyBaby (by #소녀시대) \n@WJSN_Cosmic\n@MDRomeda_KPOP https://t.co/2B0tAGKQEN"
+	},
+	{
+		"created_at": "Wed Jul 07 09:16:49 +0000 2021",
+		"id": 1412697907317198800,
+		"id_str": "1412702133099450374",
+		"full_text": "[유라]\n21.07.12 [Pacemaker]\n1. 유라(youra) - 놀이공원 (Roller Coaster)\n2. 유라(youra) - 서울 사이보그 (Seoul Cyborg)\n\n#유라 #음악 #music #노래 #인디 https://t.co/2Nl2rJKW9h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유라",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "음악",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "노래",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						121,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1412644998323998700,
+					"id_str": "1412644998323998720",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/E5q5JDbVkAANspE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5q5JDbVkAANspE.jpg",
+					"url": "https://t.co/2Nl2rJKW9h",
+					"display_url": "pic.twitter.com/2Nl2rJKW9h",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1412697907317198854/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412644998323998700,
+					"id_str": "1412644998323998720",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/E5q5JDbVkAANspE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5q5JDbVkAANspE.jpg",
+					"url": "https://t.co/2Nl2rJKW9h",
+					"display_url": "pic.twitter.com/2Nl2rJKW9h",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1412697907317198854/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/에버루아/아일",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 785,
+			"friends_count": 8,
+			"listed_count": 17,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 918,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유라]\n21.07.12 [Pacemaker]\n1. 유라(youra) - 놀이공원 (Roller Coaster)\n2. 유라(youra) - 서울 사이보그 (Seoul Cyborg)\n\n#유라 #음악 #music #노래 #인디 https://t.co/2Nl2rJKW9h"
+	},
+	{
 		"created_at": "Wed Jul 07 08:45:36 +0000 2021",
 		"id": 1412682415802261500,
 		"id_str": "1412694276916527104",
