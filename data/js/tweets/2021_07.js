@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 07 10:45:36 +0000 2021",
+		"id": 1412713239431970800,
+		"id_str": "1412724476438093826",
+		"full_text": "[팩트iN스타] #이달의소녀 #LOONA\n\"바쁘다! 바빠!! 현대사회🏃‍♀️\"\n프로 N잡러 이달소❓ 이번N 탐정으로 변신하다⁉️\n올달소[&amp;]영달소 #뇌피셜록 탐정사무소 출근🎉\n\n🌙 7/8(목), 7/9(금) 밤 10시 팩인스 공식 유튜브\n🌟 7/11(일) 낮 12시 TBS TV 본방사수📡\n\n#희진 #현진 #하슬 #여진\n@loonatheworld https://t.co/Zy6W9x149m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						9,
+						15
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"text": "뇌피셜록",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "현진",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "하슬",
+					"indices": [
+						175,
+						178
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						179,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						183,
+						197
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1412711233178902500,
+					"id_str": "1412711233178902537",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/E5r1YbfVIAkDFEh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5r1YbfVIAkDFEh.jpg",
+					"url": "https://t.co/Zy6W9x149m",
+					"display_url": "pic.twitter.com/Zy6W9x149m",
+					"expanded_url": "https://twitter.com/factinstar/status/1412713239431970816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412711233178902500,
+					"id_str": "1412711233178902537",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/E5r1YbfVIAkDFEh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5r1YbfVIAkDFEh.jpg",
+					"url": "https://t.co/Zy6W9x149m",
+					"display_url": "pic.twitter.com/Zy6W9x149m",
+					"expanded_url": "https://twitter.com/factinstar/status/1412713239431970816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412711275939831800,
+					"id_str": "1412711275939831808",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/E5r1a6yVIAA8E1z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5r1a6yVIAA8E1z.jpg",
+					"url": "https://t.co/Zy6W9x149m",
+					"display_url": "pic.twitter.com/Zy6W9x149m",
+					"expanded_url": "https://twitter.com/factinstar/status/1412713239431970816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412711305652306000,
+					"id_str": "1412711305652305926",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/E5r1cpeVgAYckO5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5r1cpeVgAYckO5.jpg",
+					"url": "https://t.co/Zy6W9x149m",
+					"display_url": "pic.twitter.com/Zy6W9x149m",
+					"expanded_url": "https://twitter.com/factinstar/status/1412713239431970816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412711334127431700,
+					"id_str": "1412711334127431680",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/E5r1eTjVcAA5FZ9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5r1eTjVcAA5FZ9.jpg",
+					"url": "https://t.co/Zy6W9x149m",
+					"display_url": "pic.twitter.com/Zy6W9x149m",
+					"expanded_url": "https://twitter.com/factinstar/status/1412713239431970816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 800913985407062000,
+			"id_str": "800913985407062016",
+			"name": "팩트인스타 Fact iN Star",
+			"screen_name": "factinstar",
+			"location": "대한민국 서울",
+			"description": "📡팩트iN스타 공식계정\n💜 매주 목요일, 금요일 PM 10:00(KST) 팩트인스타 공식 유튜브 업로드\n💜 매주 일요일 PM 12:00(KST) TBS TV 방송",
+			"url": "https://t.co/WMISAOpZ3q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WMISAOpZ3q",
+							"expanded_url": "https://www.youtube.com/channel/UCakRF1Lu1ZuZR7Dx2B7b_9g",
+							"display_url": "youtube.com/channel/UCakRF…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10118,
+			"friends_count": 2696,
+			"listed_count": 46,
+			"created_at": "Tue Nov 22 04:09:09 +0000 2016",
+			"favourites_count": 2724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4793,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1369556882277298183/vdgNM4RC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369556882277298183/vdgNM4RC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/800913985407062016/1615362781",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 407,
+		"favorite_count": 913,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[팩트iN스타] #이달의소녀 #LOONA\n\"바쁘다! 바빠!! 현대사회🏃‍♀️\"\n프로 N잡러 이달소❓ 이번N 탐정으로 변신하다⁉️\n올달소[&amp;]영달소 #뇌피셜록 탐정사무소 출근🎉\n\n🌙 7/8(목), 7/9(금) 밤 10시 팩인스 공식 유튜브\n🌟 7/11(일) 낮 12시 TBS TV 본방사수📡\n\n#희진 #현진 #하슬 #여진\n@loonatheworld https://t.co/Zy6W9x149m"
+	},
+	{
 		"created_at": "Wed Jul 07 09:58:40 +0000 2021",
 		"id": 1412712661813534700,
 		"id_str": "1412712661813534720",
@@ -433,7 +777,7 @@ Grailbird.data.tweets_2021_07 =
 		"created_at": "Wed Jul 07 09:45:37 +0000 2021",
 		"id": 1412698455894413300,
 		"id_str": "1412709377308561409",
-		"full_text": "[고장난노래방] LOONA(이달의 소녀) - PTT (Paint The Town)│박력 있는데 자세히 보면 얼렁이 뚱땅이인 그것을 우리는 '달소'라고 부르기로 했어요🤦‍🤦‍[통통컬처](@loonatheworld)\n\n#이달소 #LOONA #PTT\n그런 사회적 합의가 있었어요\n\n▶https://t.co/eflhYSsWYo https://t.co/85CsN9jVE9",
+		"full_text": "[고장난노래방] LOONA(이달의 소녀) - PTT (Paint The Town)│박력 있는데 자세히 보면 얼렁이 뚱땅이인 그것을 우리는 '달소'라고 부르기로 했어요🤦🤦[통통컬처](@loonatheworld)\n\n#이달소 #LOONA #PTT\n그런 사회적 합의가 있었어요\n\n▶https://t.co/eflhYSsWYo https://t.co/85CsN9jVE9",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -632,7 +976,7 @@ Grailbird.data.tweets_2021_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[고장난노래방] LOONA(이달의 소녀) - PTT (Paint The Town)│박력 있는데 자세히 보면 얼렁이 뚱땅이인 그것을 우리는 '달소'라고 부르기로 했어요🤦‍🤦‍[통통컬처](@loonatheworld)\n\n#이달소 #LOONA #PTT\n그런 사회적 합의가 있었어요\n\n▶https://t.co/eflhYSsWYo https://t.co/85CsN9jVE9"
+		"text": "[고장난노래방] LOONA(이달의 소녀) - PTT (Paint The Town)│박력 있는데 자세히 보면 얼렁이 뚱땅이인 그것을 우리는 '달소'라고 부르기로 했어요🤦🤦[통통컬처](@loonatheworld)\n\n#이달소 #LOONA #PTT\n그런 사회적 합의가 있었어요\n\n▶https://t.co/eflhYSsWYo https://t.co/85CsN9jVE9"
 	},
 	{
 		"created_at": "Wed Jul 07 09:35:13 +0000 2021",
