@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 07 12:50:49 +0000 2021",
+		"id": 1412755986239176700,
+		"id_str": "1412755986239176712",
+		"full_text": "#선우정아 #Sunwoojunga \n작업실에서 진행하는 보이는 라디오 6번째 시간...* \nhttps://t.co/8oaucAn5lW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선우정아",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "Sunwoojunga",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8oaucAn5lW",
+					"expanded_url": "https://www.youtube.com/watch?v=Nm-dHUXIxxU",
+					"display_url": "youtube.com/watch?v=Nm-dHU…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1053,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#선우정아 #Sunwoojunga \n작업실에서 진행하는 보이는 라디오 6번째 시간...* \nhttps://t.co/8oaucAn5lW"
+	},
+	{
+		"created_at": "Wed Jul 07 12:50:48 +0000 2021",
+		"id": 1412755982179094500,
+		"id_str": "1412755982179094532",
+		"full_text": "#선우정아 #Sunwoojunga \n작업실에서 진행하는 보이는 라디오 6번째 시간...* \nhttps://t.co/5G7YKy3EXE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선우정아",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "Sunwoojunga",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5G7YKy3EXE",
+					"expanded_url": "https://www.youtube.com/watch?v=G3gaePVsvPA",
+					"display_url": "youtube.com/watch?v=G3gaeP…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1053,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#선우정아 #Sunwoojunga \n작업실에서 진행하는 보이는 라디오 6번째 시간...* \nhttps://t.co/5G7YKy3EXE"
+	},
+	{
 		"created_at": "Wed Jul 07 11:52:55 +0000 2021",
 		"id": 1412735923352051700,
 		"id_str": "1412741413251465218",
@@ -476,7 +694,7 @@ Grailbird.data.tweets_2021_07 =
 		"created_at": "Wed Jul 07 11:45:36 +0000 2021",
 		"id": 1412728106419327000,
 		"id_str": "1412739575701819392",
-		"full_text": "🌜#돌들의침묵 | 이달의 소녀 (LOONA) \n\n🎥 [Night ver.] 모든 걸 걸고 춤을 추는 이달소의 무대❤️‍🔥 \nㄴ https://t.co/7fvGbo91C5\n\n#돌들의침묵_이달의소녀\n#TheSilenceOfIDOL_LOONA\n#이달의소녀 #LOON #PTT\n@loonatheworld https://t.co/OcNfm2uWay",
+		"full_text": "🌜#돌들의침묵 | 이달의 소녀 (LOONA) \n\n🎥 [Night ver.] 모든 걸 걸고 춤을 추는 이달소의 무대❤️🔥 \nㄴ https://t.co/7fvGbo91C5\n\n#돌들의침묵_이달의소녀\n#TheSilenceOfIDOL_LOONA\n#이달의소녀 #LOON #PTT\n@loonatheworld https://t.co/OcNfm2uWay",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -709,7 +927,7 @@ Grailbird.data.tweets_2021_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "🌜#돌들의침묵 | 이달의 소녀 (LOONA) \n\n🎥 [Night ver.] 모든 걸 걸고 춤을 추는 이달소의 무대❤️‍🔥 \nㄴ https://t.co/7fvGbo91C5\n\n#돌들의침묵_이달의소녀\n#TheSilenceOfIDOL_LOONA\n#이달의소녀 #LOON #PTT\n@loonatheworld https://t.co/OcNfm2uWay"
+		"text": "🌜#돌들의침묵 | 이달의 소녀 (LOONA) \n\n🎥 [Night ver.] 모든 걸 걸고 춤을 추는 이달소의 무대❤️🔥 \nㄴ https://t.co/7fvGbo91C5\n\n#돌들의침묵_이달의소녀\n#TheSilenceOfIDOL_LOONA\n#이달의소녀 #LOON #PTT\n@loonatheworld https://t.co/OcNfm2uWay"
 	},
 	{
 		"created_at": "Wed Jul 07 11:21:37 +0000 2021",
