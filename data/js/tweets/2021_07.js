@@ -1,6 +1,384 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 07 05:47:20 +0000 2021",
+		"id": 1412649411319115800,
+		"id_str": "1412649411319115777",
+		"full_text": "#YG라이프 #YG엔터테인먼트 \n로제, 솔로곡 뮤비 1억뷰 돌파…미공개 사진 방출+감사 인사 \nhttps://t.co/l51flgF1P6 \n \n#블랙핑크 #BLACKPINK https://t.co/IQYj9Yxx5K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						86,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l51flgF1P6",
+					"expanded_url": "https://yg-life.com/archives/168670?lang=ko",
+					"display_url": "yg-life.com/archives/16867…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1412649410350174200,
+					"id_str": "1412649410350174209",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E5q9J3gWUAEn36r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5q9J3gWUAEn36r.jpg",
+					"url": "https://t.co/IQYj9Yxx5K",
+					"display_url": "pic.twitter.com/IQYj9Yxx5K",
+					"expanded_url": "https://twitter.com/fromminn/status/1412649411319115777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 520,
+							"h": 650,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 520,
+							"h": 650,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 520,
+							"h": 650,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412649410350174200,
+					"id_str": "1412649410350174209",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E5q9J3gWUAEn36r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5q9J3gWUAEn36r.jpg",
+					"url": "https://t.co/IQYj9Yxx5K",
+					"display_url": "pic.twitter.com/IQYj9Yxx5K",
+					"expanded_url": "https://twitter.com/fromminn/status/1412649411319115777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 520,
+							"h": 650,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 520,
+							"h": 650,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 520,
+							"h": 650,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82123,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트 \n로제, 솔로곡 뮤비 1억뷰 돌파…미공개 사진 방출+감사 인사 \nhttps://t.co/l51flgF1P6 \n \n#블랙핑크 #BLACKPINK https://t.co/IQYj9Yxx5K"
+	},
+	{
+		"created_at": "Wed Jul 07 05:45:39 +0000 2021",
+		"id": 1412638324649447400,
+		"id_str": "1412648987698601991",
+		"full_text": "[💟콘텐츠 예고]\n달소는 통컬을 찢어...\n역대급 텐션과 고장남(?)으로 레전드를 찍고 가신 이달소의 &lt;고장난 노래방&gt;이 오늘 ☞☞저녁 6시☜☜에 공개됩니다🙈🙈\n\n달소가 6시에 온다면... 난 8시 19분부터 심쿵할거야..💜\n #이달소 #통컬 https://t.co/jXnzykzaSz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달소",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "통컬",
+					"indices": [
+						138,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1412637011295436800,
+					"id_str": "1412637011295436802",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/E5qx4JbVgAI7qNu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5qx4JbVgAI7qNu.jpg",
+					"url": "https://t.co/jXnzykzaSz",
+					"display_url": "pic.twitter.com/jXnzykzaSz",
+					"expanded_url": "https://twitter.com/TONGTONG_C/status/1412638324649447431/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412637011295436800,
+					"id_str": "1412637011295436802",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/E5qx4JbVgAI7qNu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5qx4JbVgAI7qNu.jpg",
+					"url": "https://t.co/jXnzykzaSz",
+					"display_url": "pic.twitter.com/jXnzykzaSz",
+					"expanded_url": "https://twitter.com/TONGTONG_C/status/1412638324649447431/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1247773150856630300,
+			"id_str": "1247773150856630275",
+			"name": "TongTongTv 통통컬쳐",
+			"screen_name": "TONGTONG_C",
+			"location": "",
+			"description": "통통컬쳐 공식 트위터✨               TONGTONG CULTURE Official Twitter.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3564,
+			"friends_count": 4,
+			"listed_count": 12,
+			"created_at": "Wed Apr 08 06:28:52 +0000 2020",
+			"favourites_count": 86,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1329312160942489603/jgW4YlRg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329312160942489603/jgW4YlRg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1247773150856630275/1586328026",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 383,
+		"favorite_count": 768,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💟콘텐츠 예고]\n달소는 통컬을 찢어...\n역대급 텐션과 고장남(?)으로 레전드를 찍고 가신 이달소의 &lt;고장난 노래방&gt;이 오늘 ☞☞저녁 6시☜☜에 공개됩니다🙈🙈\n\n달소가 6시에 온다면... 난 8시 19분부터 심쿵할거야..💜\n #이달소 #통컬 https://t.co/jXnzykzaSz"
+	},
+	{
 		"created_at": "Wed Jul 07 04:52:56 +0000 2021",
 		"id": 1412627458700939300,
 		"id_str": "1412635721391915009",
