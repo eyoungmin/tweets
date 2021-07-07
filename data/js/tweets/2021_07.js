@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 07 14:14:04 +0000 2021",
+		"id": 1412775912643387400,
+		"id_str": "1412776935747293187",
+		"full_text": "여름 맞이 아이돌 ‘땋머’ 모음집\n\n#땋은머리 #땋기 #아이돌 #여돌 #에스파 #윈터 #태연 #소녀시대 #로제 #블랙핑크 #제니 #나연 #있지 #예지 #트와이스 #손나은\nhttps://t.co/62wGzqUTeC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "땋은머리",
+					"indices": [
+						20,
+						25
+					]
+				},
+				{
+					"text": "땋기",
+					"indices": [
+						26,
+						29
+					]
+				},
+				{
+					"text": "아이돌",
+					"indices": [
+						30,
+						34
+					]
+				},
+				{
+					"text": "여돌",
+					"indices": [
+						35,
+						38
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "나연",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "있지",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "예지",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "손나은",
+					"indices": [
+						90,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/62wGzqUTeC",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/56663?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/56663?…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89001,
+			"friends_count": 181,
+			"listed_count": 400,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여름 맞이 아이돌 ‘땋머’ 모음집\n\n#땋은머리 #땋기 #아이돌 #여돌 #에스파 #윈터 #태연 #소녀시대 #로제 #블랙핑크 #제니 #나연 #있지 #예지 #트와이스 #손나은\nhttps://t.co/62wGzqUTeC"
+	},
+	{
 		"created_at": "Wed Jul 07 13:02:27 +0000 2021",
 		"id": 1412758339587506200,
 		"id_str": "1412758911812194308",
