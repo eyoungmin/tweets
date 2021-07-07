@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 07 08:45:36 +0000 2021",
+		"id": 1412682415802261500,
+		"id_str": "1412694276916527104",
+		"full_text": "얼굴 루팡👀 신비한 얼굴 사전 특집!\n✨라인업✨ #홍윤화 #이은형 #하연수 #이달의소녀 #츄\n\n&lt;#라디오스타&gt; 오늘 밤 10시 20분에 만나요 제발~🙏 https://t.co/hn63xx058a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍윤화",
+					"indices": [
+						27,
+						31
+					]
+				},
+				{
+					"text": "이은형",
+					"indices": [
+						32,
+						36
+					]
+				},
+				{
+					"text": "하연수",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						49,
+						51
+					]
+				},
+				{
+					"text": "라디오스타",
+					"indices": [
+						57,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1412682410689400800,
+					"id_str": "1412682410689400834",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/E5rbKvWVkAIZIo6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5rbKvWVkAIZIo6.jpg",
+					"url": "https://t.co/hn63xx058a",
+					"display_url": "pic.twitter.com/hn63xx058a",
+					"expanded_url": "https://twitter.com/withMBC/status/1412682415802261510/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412682410689400800,
+					"id_str": "1412682410689400834",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/E5rbKvWVkAIZIo6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5rbKvWVkAIZIo6.jpg",
+					"url": "https://t.co/hn63xx058a",
+					"display_url": "pic.twitter.com/hn63xx058a",
+					"expanded_url": "https://twitter.com/withMBC/status/1412682415802261510/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412682410072842200,
+					"id_str": "1412682410072842242",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/E5rbKtDVoAIAZzE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5rbKtDVoAIAZzE.jpg",
+					"url": "https://t.co/hn63xx058a",
+					"display_url": "pic.twitter.com/hn63xx058a",
+					"expanded_url": "https://twitter.com/withMBC/status/1412682415802261510/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412682410064445400,
+					"id_str": "1412682410064445450",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/E5rbKtBVgAoBxBe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5rbKtBVgAoBxBe.jpg",
+					"url": "https://t.co/hn63xx058a",
+					"display_url": "pic.twitter.com/hn63xx058a",
+					"expanded_url": "https://twitter.com/withMBC/status/1412682415802261510/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412682410081153000,
+					"id_str": "1412682410081153026",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/E5rbKtFUcAIpkrc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5rbKtFUcAIpkrc.jpg",
+					"url": "https://t.co/hn63xx058a",
+					"display_url": "pic.twitter.com/hn63xx058a",
+					"expanded_url": "https://twitter.com/withMBC/status/1412682415802261510/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "MBC 방송 프로그램 홍보 트위터 MBC PR",
+			"url": "https://t.co/yOEvgSpDjG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yOEvgSpDjG",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1007234,
+			"friends_count": 10082,
+			"listed_count": 4216,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1621218372",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "얼굴 루팡👀 신비한 얼굴 사전 특집!\n✨라인업✨ #홍윤화 #이은형 #하연수 #이달의소녀 #츄\n\n&lt;#라디오스타&gt; 오늘 밤 10시 20분에 만나요 제발~🙏 https://t.co/hn63xx058a"
+	},
+	{
 		"created_at": "Wed Jul 07 06:29:39 +0000 2021",
 		"id": 1412647054740885500,
 		"id_str": "1412660060522782721",
