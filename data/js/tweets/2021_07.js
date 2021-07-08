@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 08 21:52:48 +0000 2021",
+		"id": 1413244382413791200,
+		"id_str": "1413254766927491076",
+		"full_text": "@coldplayeko @nat_pizza Coloratura is kind of like heaven. PH",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplayeko",
+					"name": "Martina 👽📻",
+					"id": 1337464395832696800,
+					"id_str": "1337464395832696839",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "nat_pizza",
+					"name": "ɴᴀᴛ🍕 ☻︎ 💜👽📻",
+					"id": 54940515,
+					"id_str": "54940515",
+					"indices": [
+						13,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1413155339185295400,
+		"in_reply_to_status_id_str": "1413155339185295365",
+		"in_reply_to_user_id": 1337464395832696800,
+		"in_reply_to_user_id_str": "1337464395832696839",
+		"in_reply_to_screen_name": "coldplayeko",
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Kaotica",
+			"description": "The official Twitter of the band Coldplay. New single, Higher Power, out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23001281,
+			"friends_count": 762,
+			"listed_count": 42745,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1307,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1620345079",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 175,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@coldplayeko @nat_pizza Coloratura is kind of like heaven. PH"
+	},
+	{
 		"created_at": "Thu Jul 08 17:39:08 +0000 2021",
 		"id": 1413190929712750600,
 		"id_str": "1413190929712750593",
