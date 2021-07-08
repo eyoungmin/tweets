@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 08 05:45:36 +0000 2021",
+		"id": 1413006061712203800,
+		"id_str": "1413011366688997384",
+		"full_text": "우리 지우는 정색을 못하츄~ #츄 의 '신세계' 성대모사🧡\n다 드루올 듯 ㅋㅋㅋㅋㅋㅋㅋ😂😂😂\n\n&lt;#라디오스타&gt; 매주 수요일 밤 10시 20분에 만나요 제발~🙏\nMBC210707방송 #이달의소녀 #loona #chuu https://t.co/7Wdsi7GzW8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "츄",
+					"indices": [
+						16,
+						18
+					]
+				},
+				{
+					"text": "라디오스타",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "loona",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "chuu",
+					"indices": [
+						121,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1412957210171252700,
+					"id_str": "1412957210171252736",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/E5wBakzVgAIbKG3.png",
+					"media_url_https": "https://pbs.twimg.com/media/E5wBakzVgAIbKG3.png",
+					"url": "https://t.co/7Wdsi7GzW8",
+					"display_url": "pic.twitter.com/7Wdsi7GzW8",
+					"expanded_url": "https://twitter.com/withMBC/status/1413006061712203778/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412957210171252700,
+					"id_str": "1412957210171252736",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/E5wBakzVgAIbKG3.png",
+					"media_url_https": "https://pbs.twimg.com/media/E5wBakzVgAIbKG3.png",
+					"url": "https://t.co/7Wdsi7GzW8",
+					"display_url": "pic.twitter.com/7Wdsi7GzW8",
+					"expanded_url": "https://twitter.com/withMBC/status/1413006061712203778/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59927,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1412957210171252736/pl/u0BRx8Uvs22AObBw.m3u8?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1412957210171252736/vid/540x540/EAerxDinY-uHeIG1.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1412957210171252736/vid/720x720/hC545TfsUzOeaIKv.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1412957210171252736/vid/320x320/lyxqMA7CD8DdLOSj.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "MBC 방송 프로그램 홍보 트위터 MBC PR",
+			"url": "https://t.co/yOEvgSpDjG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yOEvgSpDjG",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1007169,
+			"friends_count": 10081,
+			"listed_count": 4217,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1621218372",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리 지우는 정색을 못하츄~ #츄 의 '신세계' 성대모사🧡\n다 드루올 듯 ㅋㅋㅋㅋㅋㅋㅋ😂😂😂\n\n&lt;#라디오스타&gt; 매주 수요일 밤 10시 20분에 만나요 제발~🙏\nMBC210707방송 #이달의소녀 #loona #chuu https://t.co/7Wdsi7GzW8"
+	},
+	{
 		"created_at": "Thu Jul 08 04:45:37 +0000 2021",
 		"id": 1412992338855530500,
 		"id_str": "1412996268096475136",
