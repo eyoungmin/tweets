@@ -1,6 +1,564 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 08 12:52:55 +0000 2021",
+		"id": 1413118473228603400,
+		"id_str": "1413118900720570373",
+		"full_text": "가당치도 않을 만큼 많은 사랑을 받고 있습니다.\n살아있기를 참 잘했습니다. \n태어나 나를 찾아와줘서 \n노래가 향할 곳이 되어줘서 고맙습니다.\n사랑을 보냅니다.\n.\n#룸메이트 #다정한감시자들 #홍대입구역 #심규선 #해피규데이 #Happy_gyu_day #고맙습니다 #사랑합니다 https://t.co/XmtxGc4rF7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "룸메이트",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "다정한감시자들",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "홍대입구역",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "심규선",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "해피규데이",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "Happy_gyu_day",
+					"indices": [
+						125,
+						139
+					]
+				},
+				{
+					"text": "고맙습니다",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "사랑합니다",
+					"indices": [
+						147,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1413118441813278700,
+					"id_str": "1413118441813278725",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/E5xnvF3VgAUqBpM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5xnvF3VgAUqBpM.jpg",
+					"url": "https://t.co/XmtxGc4rF7",
+					"display_url": "pic.twitter.com/XmtxGc4rF7",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1413118473228603396/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413118441813278700,
+					"id_str": "1413118441813278725",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/E5xnvF3VgAUqBpM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5xnvF3VgAUqBpM.jpg",
+					"url": "https://t.co/XmtxGc4rF7",
+					"display_url": "pic.twitter.com/XmtxGc4rF7",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1413118473228603396/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1413118453217587200,
+					"id_str": "1413118453217587206",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/E5xnvwWVcAYzXXJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5xnvwWVcAYzXXJ.jpg",
+					"url": "https://t.co/XmtxGc4rF7",
+					"display_url": "pic.twitter.com/XmtxGc4rF7",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1413118473228603396/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1413118462218567700,
+					"id_str": "1413118462218567685",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/E5xnwR4VgAUwY8K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5xnwR4VgAUwY8K.jpg",
+					"url": "https://t.co/XmtxGc4rF7",
+					"display_url": "pic.twitter.com/XmtxGc4rF7",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1413118473228603396/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1413118470552621000,
+					"id_str": "1413118470552621059",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/E5xnww7VEAMii16.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5xnww7VEAMii16.jpg",
+					"url": "https://t.co/XmtxGc4rF7",
+					"display_url": "pic.twitter.com/XmtxGc4rF7",
+					"expanded_url": "https://twitter.com/ROXIEEEEEEEE/status/1413118473228603396/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183427484,
+			"id_str": "183427484",
+			"name": "심규선 Lucia",
+			"screen_name": "ROXIEEEEEEEE",
+			"location": "",
+			"description": "🌙월령",
+			"url": "https://t.co/FEy0kleGTA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FEy0kleGTA",
+							"expanded_url": "http://www.simgyuseon.com",
+							"display_url": "simgyuseon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10682,
+			"friends_count": 156,
+			"listed_count": 162,
+			"created_at": "Thu Aug 26 23:56:49 +0000 2010",
+			"favourites_count": 465,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D5EDEA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330066919668523010/HbiHUZjb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330066919668523010/HbiHUZjb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183427484/1607423257",
+			"profile_link_color": "F59BB1",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "가당치도 않을 만큼 많은 사랑을 받고 있습니다.\n살아있기를 참 잘했습니다. \n태어나 나를 찾아와줘서 \n노래가 향할 곳이 되어줘서 고맙습니다.\n사랑을 보냅니다.\n.\n#룸메이트 #다정한감시자들 #홍대입구역 #심규선 #해피규데이 #Happy_gyu_day #고맙습니다 #사랑합니다 https://t.co/XmtxGc4rF7"
+	},
+	{
+		"created_at": "Thu Jul 08 12:52:47 +0000 2021",
+		"id": 1413115651149811700,
+		"id_str": "1413118870865514500",
+		"full_text": "오늘은 무얼 할까나아~?\n❓🐻🖍\n\n#슬기 #SEULGI #슬기집 #슬기zip #레드벨벳 #RedVelvet https://t.co/ZPrhXKHVf2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						19,
+						22
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						23,
+						30
+					]
+				},
+				{
+					"text": "슬기집",
+					"indices": [
+						31,
+						35
+					]
+				},
+				{
+					"text": "슬기zip",
+					"indices": [
+						36,
+						42
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						49,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1413107055972425700,
+					"id_str": "1413107055972425732",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/E5xdYWTVoAQxwG3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5xdYWTVoAQxwG3.jpg",
+					"url": "https://t.co/ZPrhXKHVf2",
+					"display_url": "pic.twitter.com/ZPrhXKHVf2",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1413115651149811713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1495,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 496,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 876,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413107055972425700,
+					"id_str": "1413107055972425732",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/E5xdYWTVoAQxwG3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5xdYWTVoAQxwG3.jpg",
+					"url": "https://t.co/ZPrhXKHVf2",
+					"display_url": "pic.twitter.com/ZPrhXKHVf2",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1413115651149811713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1495,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 496,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 876,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/U7JtipmDEo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U7JtipmDEo",
+							"expanded_url": "https://youtu.be/lNvBbh5jDcA",
+							"display_url": "youtu.be/lNvBbh5jDcA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4310408,
+			"friends_count": 1,
+			"listed_count": 9153,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1984,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1622019868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3887,
+		"favorite_count": 11600,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘은 무얼 할까나아~?\n❓🐻🖍\n\n#슬기 #SEULGI #슬기집 #슬기zip #레드벨벳 #RedVelvet https://t.co/ZPrhXKHVf2"
+	},
+	{
 		"created_at": "Thu Jul 08 11:53:05 +0000 2021",
 		"id": 1413098506781216800,
 		"id_str": "1413103844058406914",
