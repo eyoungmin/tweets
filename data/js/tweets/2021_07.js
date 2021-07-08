@@ -1,6 +1,418 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 08 07:52:33 +0000 2021",
+		"id": 1413043314639659000,
+		"id_str": "1413043314639659010",
+		"full_text": "#예술경영지원센터 #온라인참가신청  \n2021 예술경영아카데미(MoAA) 조직경영 분야 &lt;�트렌드 특강 Ⅰ- 공연예술과 메타버스&gt; (2021-07-28) (접수마감: 2021-07-23) \nhttps://t.co/QStisbbxKr \n \n#예술경영 #밋업 #강의신청",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "온라인참가신청",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "밋업",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "강의신청",
+					"indices": [
+						149,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QStisbbxKr",
+					"expanded_url": "https://www.gokams.or.kr:442/02_apply/event_apply01.aspx?Idx=1009&flag=0&page=1&txtKeyword=&ddlKeyfield=T",
+					"display_url": "gokams.or.kr:442/02_apply/event…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#예술경영지원센터 #온라인참가신청  \n2021 예술경영아카데미(MoAA) 조직경영 분야 &lt;�트렌드 특강 Ⅰ- 공연예술과 메타버스&gt; (2021-07-28) (접수마감: 2021-07-23) \nhttps://t.co/QStisbbxKr \n \n#예술경영 #밋업 #강의신청"
+	},
+	{
+		"created_at": "Thu Jul 08 07:29:38 +0000 2021",
+		"id": 1413030672155832300,
+		"id_str": "1413037547043840000",
+		"full_text": "💗 #TAEYEON กลับมาเพิ่มความสนุกให้ฤดูร้อนนี้ ด้วยพลังอันสดใส+เวทีการแสดงที่มีชีวิตชีวา ในเพลงใหม่ ‘#Weekend’!\n\nhttps://t.co/v4UtLn8v4I\n\n-\n\n🎬 MV: https://t.co/XDHvK251uk\n🎧 JOOX: https://t.co/VVOF71TtBx\n🎧 แพลตฟอร์มอื่น: https://t.co/CmYxupfHQq\n\n#태연 #소녀시대 #GirlsGeneration https://t.co/eYfbXx331k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						2,
+						10
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						98,
+						106
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						242,
+						245
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						246,
+						251
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						252,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v4UtLn8v4I",
+					"expanded_url": "http://facebook.com/smtruethailand/posts/4173451436036106",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						110,
+						133
+					]
+				},
+				{
+					"url": "https://t.co/XDHvK251uk",
+					"expanded_url": "https://youtu.be/RmuL-BPFi2Q",
+					"display_url": "youtu.be/RmuL-BPFi2Q",
+					"indices": [
+						144,
+						167
+					]
+				},
+				{
+					"url": "https://t.co/VVOF71TtBx",
+					"expanded_url": "http://joox.com/th/album/GjZbg7kLj95LBXaLbM8iuQ==",
+					"display_url": "joox.com/th/album/GjZbg…",
+					"indices": [
+						176,
+						199
+					]
+				},
+				{
+					"url": "https://t.co/CmYxupfHQq",
+					"expanded_url": "http://smarturl.it/TAEYEON_Weekend",
+					"display_url": "smarturl.it/TAEYEON_Weekend",
+					"indices": [
+						217,
+						240
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1413020039905611800,
+					"id_str": "1413020039905611777",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/E5wOyGHUcAE498R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5wOyGHUcAE498R.jpg",
+					"url": "https://t.co/eYfbXx331k",
+					"display_url": "pic.twitter.com/eYfbXx331k",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1413030672155832321/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413020039905611800,
+					"id_str": "1413020039905611777",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/E5wOyGHUcAE498R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5wOyGHUcAE498R.jpg",
+					"url": "https://t.co/eYfbXx331k",
+					"display_url": "pic.twitter.com/eYfbXx331k",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1413030672155832321/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 62062,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1413020039905611777/vid/640x360/oKVuDVZFDDB41NGO.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1413020039905611777/pl/xYt34IBMJzqc27u7.m3u8?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1413020039905611777/vid/1280x720/fZ4QvtFoQ3Fb3gnI.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1413020039905611777/vid/480x270/cXVRv0h1Z57wOITy.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85259,
+			"friends_count": 48,
+			"listed_count": 156,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 380,
+		"favorite_count": 350,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "💗 #TAEYEON กลับมาเพิ่มความสนุกให้ฤดูร้อนนี้ ด้วยพลังอันสดใส+เวทีการแสดงที่มีชีวิตชีวา ในเพลงใหม่ ‘#Weekend’!\n\nhttps://t.co/v4UtLn8v4I\n\n-\n\n🎬 MV: https://t.co/XDHvK251uk\n🎧 JOOX: https://t.co/VVOF71TtBx\n🎧 แพลตฟอร์มอื่น: https://t.co/CmYxupfHQq\n\n#태연 #소녀시대 #GirlsGeneration https://t.co/eYfbXx331k"
+	},
+	{
 		"created_at": "Thu Jul 08 06:29:38 +0000 2021",
 		"id": 1413014989162623000,
 		"id_str": "1413022447713067014",
