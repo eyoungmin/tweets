@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 08 01:45:37 +0000 2021",
+		"id": 1412939495863844900,
+		"id_str": "1412950970183585792",
+		"full_text": "[#아이돌챔프_투표]\n\n8월에 데뷔한 아이돌은 누가 있을까⁉\n\n투표 결과 1위에게는\n데뷔기념일 포함 3일동안 무려 \n🎊📺T.V.홍.보.영.상📺🎊\n\nNow Ranking\n#REDVELVET\n#LOONA\n#ONF \n#GOLDENCHILD\n#TREASURE\n#NCTDREAM\n•\n•\n•\nVote here ➡ https://t.co/593hA0Vbwl https://t.co/rlMeigxzAS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌챔프_투표",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "REDVELVET",
+					"indices": [
+						94,
+						104
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "ONF",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "GOLDENCHILD",
+					"indices": [
+						118,
+						130
+					]
+				},
+				{
+					"text": "TREASURE",
+					"indices": [
+						131,
+						140
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						141,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/593hA0Vbwl",
+					"expanded_url": "https://bit.ly/3wlZjnP",
+					"display_url": "bit.ly/3wlZjnP",
+					"indices": [
+						169,
+						192
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1412933306207785000,
+					"id_str": "1412933306207784963",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/E5u_Wx_VUAMakTs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5u_Wx_VUAMakTs.jpg",
+					"url": "https://t.co/rlMeigxzAS",
+					"display_url": "pic.twitter.com/rlMeigxzAS",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1412939495863844871/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412933306207785000,
+					"id_str": "1412933306207784963",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/E5u_Wx_VUAMakTs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5u_Wx_VUAMakTs.jpg",
+					"url": "https://t.co/rlMeigxzAS",
+					"display_url": "pic.twitter.com/rlMeigxzAS",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1412939495863844871/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 842271014520148000,
+			"id_str": "842271014520147968",
+			"name": "아이돌챔프",
+			"screen_name": "idolchamp1",
+			"location": "아이돌 맴 속",
+			"description": "MBC M 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83126,
+			"friends_count": 102,
+			"listed_count": 198,
+			"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+			"favourites_count": 300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4724,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1580881175",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아이돌챔프_투표]\n\n8월에 데뷔한 아이돌은 누가 있을까⁉\n\n투표 결과 1위에게는\n데뷔기념일 포함 3일동안 무려 \n🎊📺T.V.홍.보.영.상📺🎊\n\nNow Ranking\n#REDVELVET\n#LOONA\n#ONF \n#GOLDENCHILD\n#TREASURE\n#NCTDREAM\n•\n•\n•\nVote here ➡ https://t.co/593hA0Vbwl https://t.co/rlMeigxzAS"
+	},
+	{
 		"created_at": "Wed Jul 07 23:52:48 +0000 2021",
 		"id": 1412909323404013600,
 		"id_str": "1412922580546248705",
