@@ -1,6 +1,150 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 08 02:03:41 +0000 2021",
+		"id": 1412955518335860700,
+		"id_str": "1412955518335860739",
+		"full_text": "#Oddity_Station #오디티스테이션  \n[오디티 스테이션 #130] 선곡 맛집 💿노웨이브와 함께 보내는 여유롭고 편안한 시간 \nhttps://t.co/b46zq3DfzI \n\n#SpaceOddity #스페이스오디티 \n#뉴스레터 #Newsletter #예술경영",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Oddity_Station",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"text": "오디티스테이션",
+					"indices": [
+						16,
+						24
+					]
+				},
+				{
+					"text": "SpaceOddity",
+					"indices": [
+						102,
+						114
+					]
+				},
+				{
+					"text": "스페이스오디티",
+					"indices": [
+						115,
+						123
+					]
+				},
+				{
+					"text": "뉴스레터",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "Newsletter",
+					"indices": [
+						131,
+						142
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						143,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b46zq3DfzI",
+					"expanded_url": "https://notifier.in/item/szdsgdgo3xfviifycjttr945omwrvtwb/2795048.html",
+					"display_url": "notifier.in/item/szdsgdgo3…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Oddity_Station #오디티스테이션  \n[오디티 스테이션 #130] 선곡 맛집 💿노웨이브와 함께 보내는 여유롭고 편안한 시간 \nhttps://t.co/b46zq3DfzI \n\n#SpaceOddity #스페이스오디티 \n#뉴스레터 #Newsletter #예술경영"
+	},
+	{
 		"created_at": "Thu Jul 08 01:45:37 +0000 2021",
 		"id": 1412939495863844900,
 		"id_str": "1412950970183585792",
