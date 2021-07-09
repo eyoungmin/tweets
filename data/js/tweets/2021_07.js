@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 09 17:52:47 +0000 2021",
+		"id": 1413514033081110500,
+		"id_str": "1413556756282740741",
+		"full_text": "We chart how @coldplay became a global phenomenon in tonight's all-new My Life On MTV tonight at 7pm on @MTVUK !! ✨ https://t.co/dfCPoRdWMx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"screen_name": "MTVUK",
+					"name": "MTV UK",
+					"id": 16807528,
+					"id_str": "16807528",
+					"indices": [
+						104,
+						110
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1413513795096383500,
+					"id_str": "1413513795096383495",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1413513795096383495/pu/img/j-Fkak0C_fD2e84k.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1413513795096383495/pu/img/j-Fkak0C_fD2e84k.jpg",
+					"url": "https://t.co/dfCPoRdWMx",
+					"display_url": "pic.twitter.com/dfCPoRdWMx",
+					"expanded_url": "https://twitter.com/MTVMusicUK/status/1413514033081110529/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413513795096383500,
+					"id_str": "1413513795096383495",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1413513795096383495/pu/img/j-Fkak0C_fD2e84k.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1413513795096383495/pu/img/j-Fkak0C_fD2e84k.jpg",
+					"url": "https://t.co/dfCPoRdWMx",
+					"display_url": "pic.twitter.com/dfCPoRdWMx",
+					"expanded_url": "https://twitter.com/MTVMusicUK/status/1413514033081110529/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59960,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1413513795096383495/pu/vid/540x540/E3mfsR00zcwlkUbs.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1413513795096383495/pu/vid/720x720/clJayUlIjeqTMjmo.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1413513795096383495/pu/pl/CnRdjJyL2jy38NBu.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1413513795096383495/pu/vid/320x320/uQ37Jlp4dMWS6khC.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.falcon.io\" rel=\"nofollow\">Falcon Social Media Management </a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35762475,
+			"id_str": "35762475",
+			"name": "MTV Music UK",
+			"screen_name": "MTVMusicUK",
+			"location": "London, UK",
+			"description": "The official Twitter account for MTV Music UK 💃🕺",
+			"url": "https://t.co/gaFEZAwlmU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gaFEZAwlmU",
+							"expanded_url": "http://www.mtv.co.uk/music",
+							"display_url": "mtv.co.uk/music",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1300639,
+			"friends_count": 5997,
+			"listed_count": 1533,
+			"created_at": "Mon Apr 27 15:01:40 +0000 2009",
+			"favourites_count": 10294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1303252996193742848/n6GP9rQo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1303252996193742848/n6GP9rQo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35762475/1615976344",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 105,
+		"favorite_count": 635,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We chart how @coldplay became a global phenomenon in tonight's all-new My Life On MTV tonight at 7pm on @MTVUK !! ✨ https://t.co/dfCPoRdWMx"
+	},
+	{
 		"created_at": "Fri Jul 09 16:34:31 +0000 2021",
 		"id": 1413537057222373400,
 		"id_str": "1413537057222373384",
