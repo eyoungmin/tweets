@@ -1,6 +1,525 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 09 08:52:48 +0000 2021",
+		"id": 1413408027156254700,
+		"id_str": "1413420862016008197",
+		"full_text": "EDAM엔터 식구들 총출동🏃\n새 식구가 된 세경씨를 환영하기 위해\n신입사원 지동씨가 준비한\n아주 특별한 선물이 궁금하다면? 🎁\n\n🎥 https://t.co/yfmobnnSCC https://t.co/JWv7JCHXJG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yfmobnnSCC",
+					"expanded_url": "https://youtu.be/vJ8HcvL8X8o",
+					"display_url": "youtu.be/vJ8HcvL8X8o",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1413408016871817200,
+					"id_str": "1413408016871817218",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/E51vGlBVgAIzuMc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E51vGlBVgAIzuMc.jpg",
+					"url": "https://t.co/JWv7JCHXJG",
+					"display_url": "pic.twitter.com/JWv7JCHXJG",
+					"expanded_url": "https://twitter.com/edam_ent/status/1413408027156254721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413408016871817200,
+					"id_str": "1413408016871817218",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/E51vGlBVgAIzuMc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E51vGlBVgAIzuMc.jpg",
+					"url": "https://t.co/JWv7JCHXJG",
+					"display_url": "pic.twitter.com/JWv7JCHXJG",
+					"expanded_url": "https://twitter.com/edam_ent/status/1413408027156254721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49604,
+			"friends_count": 1,
+			"listed_count": 183,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1053,
+		"favorite_count": 2128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "EDAM엔터 식구들 총출동🏃\n새 식구가 된 세경씨를 환영하기 위해\n신입사원 지동씨가 준비한\n아주 특별한 선물이 궁금하다면? 🎁\n\n🎥 https://t.co/yfmobnnSCC https://t.co/JWv7JCHXJG"
+	},
+	{
+		"created_at": "Fri Jul 09 08:45:43 +0000 2021",
+		"id": 1413405964850454500,
+		"id_str": "1413419078417633286",
+		"full_text": "[#21세기잠방]\n이곳의 여름은\n원색의 강렬함 그 자체야.\n쿠바에서 최리가. \n.\n어느 낯선 도시에서\n#이달의소녀 최리가 보내온 편지.\n지금 네이버 #오디오클립 에서 들으실 수 있습니다.\n@loonatheworld #LOONA #Choerry\nhttps://t.co/yfbfJ4kgT6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "21세기잠방",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "오디오클립",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						127,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						105,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yfbfJ4kgT6",
+					"expanded_url": "https://audioclip.naver.com/channels/4646/clips/130",
+					"display_url": "audioclip.naver.com/channels/4646/…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 904627296266358800,
+			"id_str": "904627296266358785",
+			"name": "MOMO X(모모엑스)",
+			"screen_name": "momox_official",
+			"location": "",
+			"description": "모바일 미디어 그룹 모모콘이 선보이는 신개념 예능 브랜드 #MOMOX 의 공식 트위터입니다 ✌🏻",
+			"url": "https://t.co/ym1qJkvs8S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ym1qJkvs8S",
+							"expanded_url": "https://www.youtube.com/MOMOXMEDIA",
+							"display_url": "youtube.com/MOMOXMEDIA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5953,
+			"friends_count": 0,
+			"listed_count": 44,
+			"created_at": "Mon Sep 04 08:48:49 +0000 2017",
+			"favourites_count": 229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1032100418317254656/V4y9tAhy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032100418317254656/V4y9tAhy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/904627296266358785/1534906876",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 257,
+		"favorite_count": 915,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#21세기잠방]\n이곳의 여름은\n원색의 강렬함 그 자체야.\n쿠바에서 최리가. \n.\n어느 낯선 도시에서\n#이달의소녀 최리가 보내온 편지.\n지금 네이버 #오디오클립 에서 들으실 수 있습니다.\n@loonatheworld #LOONA #Choerry\nhttps://t.co/yfbfJ4kgT6"
+	},
+	{
+		"created_at": "Fri Jul 09 08:38:46 +0000 2021",
+		"id": 1413417333511446500,
+		"id_str": "1413417333511446528",
+		"full_text": "#이달의소녀 #공식팬카페 #공방공지 \n[이달의 소녀] [&amp;] 발매 기념 'Orbit Ring - &amp;'⑥ 안내 \nhttps://t.co/jieL9sjYAX https://t.co/u10xjyzvXE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "공방공지",
+					"indices": [
+						14,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jieL9sjYAX",
+					"expanded_url": "https://cafe.daum.net/loonatheworld/F6Fq/373",
+					"display_url": "cafe.daum.net/loonatheworld/…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1413417332500615200,
+					"id_str": "1413417332500615175",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/E513k0cUUAcjnlV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E513k0cUUAcjnlV.jpg",
+					"url": "https://t.co/u10xjyzvXE",
+					"display_url": "pic.twitter.com/u10xjyzvXE",
+					"expanded_url": "https://twitter.com/fromminn/status/1413417333511446528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 198,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 131,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 198,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413417332500615200,
+					"id_str": "1413417332500615175",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/E513k0cUUAcjnlV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E513k0cUUAcjnlV.jpg",
+					"url": "https://t.co/u10xjyzvXE",
+					"display_url": "pic.twitter.com/u10xjyzvXE",
+					"expanded_url": "https://twitter.com/fromminn/status/1413417333511446528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 198,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 131,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 198,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44962,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #공식팬카페 #공방공지 \n[이달의 소녀] [&amp;] 발매 기념 'Orbit Ring - &amp;'⑥ 안내 \nhttps://t.co/jieL9sjYAX https://t.co/u10xjyzvXE"
+	},
+	{
 		"created_at": "Fri Jul 09 08:01:26 +0000 2021",
 		"id": 1413407934319636500,
 		"id_str": "1413407934319636482",
