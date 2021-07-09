@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 09 06:52:48 +0000 2021",
+		"id": 1413363987987656700,
+		"id_str": "1413390662192537602",
+		"full_text": "김종관 감독이 배우 신세경을 주인공으로 한 다큐멘터리를 찍습니다. 작품 밖 스타의 삶을 기록하는 ‘시네마틱 리얼 다큐’ 시리즈인 &lt;어나더 레코드&gt;(가제)의 첫 작품입니다. 올해 하반기 KT 시즌에서 독점 공개됩니다. 자세한 내용은 기사에서 확인하시죠. https://t.co/s6MIgANDTf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s6MIgANDTf",
+					"expanded_url": "http://www.cine21.com/news/view/?mag_id=98140",
+					"display_url": "cine21.com/news/view/?mag…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 130821868,
+			"id_str": "130821868",
+			"name": "cine21_editor",
+			"screen_name": "cine21_editor",
+			"location": "서울, 영등포구, 당산",
+			"description": "창간 26주년을 맞은 씨네21입니다. 📙최신호, 과월호 구입 👉 https://t.co/aL9yFmDXaY  📕e북, 리디북스, 교보문고, 모아진, 중앙 조인스, 밀리의 서재  https://t.co/2cnEsgntUF…",
+			"url": "https://t.co/2oKMERpkOg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2oKMERpkOg",
+							"expanded_url": "http://www.cine21.com",
+							"display_url": "cine21.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aL9yFmDXaY",
+							"expanded_url": "http://smartstore.naver.com/cine21",
+							"display_url": "smartstore.naver.com/cine21",
+							"indices": [
+								36,
+								59
+							]
+						},
+						{
+							"url": "https://t.co/2cnEsgntUF",
+							"expanded_url": "http://youtube.com/c/cine21tv/fea",
+							"display_url": "youtube.com/c/cine21tv/fea",
+							"indices": [
+								99,
+								122
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 442075,
+			"friends_count": 340,
+			"listed_count": 1708,
+			"created_at": "Thu Apr 08 12:28:06 +0000 2010",
+			"favourites_count": 68,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245611566659035136/pjOBmXRZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245611566659035136/pjOBmXRZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/130821868/1606440002",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 164,
+		"favorite_count": 398,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김종관 감독이 배우 신세경을 주인공으로 한 다큐멘터리를 찍습니다. 작품 밖 스타의 삶을 기록하는 ‘시네마틱 리얼 다큐’ 시리즈인 &lt;어나더 레코드&gt;(가제)의 첫 작품입니다. 올해 하반기 KT 시즌에서 독점 공개됩니다. 자세한 내용은 기사에서 확인하시죠. https://t.co/s6MIgANDTf"
+	},
+	{
 		"created_at": "Fri Jul 09 05:04:50 +0000 2021",
 		"id": 1413363492632006700,
 		"id_str": "1413363492632006657",
