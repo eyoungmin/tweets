@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 09 02:29:38 +0000 2021",
+		"id": 1413321080555536400,
+		"id_str": "1413324437542346758",
+		"full_text": "&lt;쇼! 음악중심&gt; 출연자 라인업 공개💌 #태연 #2PM  #MSG워너비(#MOM) #DAY6(#Even_of_Day) #SF9  #전소연 #매드몬스터 #MC민지 #NCTDREAM #이달의소녀  #아웃렛 #ONEWE #BDC #DRIPPIN #사이로 #안성준 #KINGDOM 토요일 오후 3시 10분💙🤍",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						28,
+						31
+					]
+				},
+				{
+					"text": "2PM",
+					"indices": [
+						32,
+						36
+					]
+				},
+				{
+					"text": "MSG워너비",
+					"indices": [
+						38,
+						45
+					]
+				},
+				{
+					"text": "MOM",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "DAY6",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "Even_of_Day",
+					"indices": [
+						58,
+						70
+					]
+				},
+				{
+					"text": "SF9",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "전소연",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "매드몬스터",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "MC민지",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "아웃렛",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "ONEWE",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "BDC",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						131,
+						139
+					]
+				},
+				{
+					"text": "사이로",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "안성준",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "KINGDOM",
+					"indices": [
+						150,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 224566089,
+			"id_str": "224566089",
+			"name": "쇼! 음악중심",
+			"screen_name": "MBCMusicCore",
+			"location": "대한민국 서울 (South Korea)",
+			"description": "쇼!음악중심 공식 트위터 / 매주 토요일 오후 3시30분 방송",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 252226,
+			"friends_count": 0,
+			"listed_count": 578,
+			"created_at": "Thu Dec 09 09:33:13 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134414494191374336/lUaIDPwc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134414494191374336/lUaIDPwc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/224566089/1591971824",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 331,
+		"favorite_count": 737,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "&lt;쇼! 음악중심&gt; 출연자 라인업 공개💌 #태연 #2PM  #MSG워너비(#MOM) #DAY6(#Even_of_Day) #SF9  #전소연 #매드몬스터 #MC민지 #NCTDREAM #이달의소녀  #아웃렛 #ONEWE #BDC #DRIPPIN #사이로 #안성준 #KINGDOM 토요일 오후 3시 10분💙🤍"
+	},
+	{
 		"created_at": "Fri Jul 09 01:45:37 +0000 2021",
 		"id": 1413299896904425500,
 		"id_str": "1413313356782505984",
