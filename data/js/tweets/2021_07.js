@@ -1,6 +1,585 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 09 04:45:36 +0000 2021",
+		"id": 1413347462643785700,
+		"id_str": "1413358655076978688",
+		"full_text": "⏯ #돌들의침묵 | 이달의 소녀\n촬영장 비하인드 필름 컷\n풀어봅니다..😎✨\n\n더 많은 사진 👇👇\nhttps://t.co/yysMDqFVSW\n\n#돌들의침묵_이달의소녀\n#TheSilenceOfIDOL_LOONA\n#이달의소녀 #LOONA #PTT\n@loonatheworld https://t.co/IV9fkmqB98",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "돌들의침묵",
+					"indices": [
+						2,
+						8
+					]
+				},
+				{
+					"text": "돌들의침묵_이달의소녀",
+					"indices": [
+						79,
+						91
+					]
+				},
+				{
+					"text": "TheSilenceOfIDOL_LOONA",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "PTT",
+					"indices": [
+						130,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						135,
+						149
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yysMDqFVSW",
+					"expanded_url": "https://www.instagram.com/p/CRF5zeKtKIk/",
+					"display_url": "instagram.com/p/CRF5zeKtKIk/",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1413314046607073300,
+					"id_str": "1413314046607073286",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/E50ZoygVoAY5n2v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E50ZoygVoAY5n2v.jpg",
+					"url": "https://t.co/IV9fkmqB98",
+					"display_url": "pic.twitter.com/IV9fkmqB98",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1413347462643785737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413314046607073300,
+					"id_str": "1413314046607073286",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/E50ZoygVoAY5n2v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E50ZoygVoAY5n2v.jpg",
+					"url": "https://t.co/IV9fkmqB98",
+					"display_url": "pic.twitter.com/IV9fkmqB98",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1413347462643785737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1413314046611267600,
+					"id_str": "1413314046611267589",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/E50ZoyhVoAUyqs-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E50ZoyhVoAUyqs-.jpg",
+					"url": "https://t.co/IV9fkmqB98",
+					"display_url": "pic.twitter.com/IV9fkmqB98",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1413347462643785737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1413314046611259400,
+					"id_str": "1413314046611259396",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/E50ZoyhVgAQfcMh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E50ZoyhVgAQfcMh.jpg",
+					"url": "https://t.co/IV9fkmqB98",
+					"display_url": "pic.twitter.com/IV9fkmqB98",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1413347462643785737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1413314046615376000,
+					"id_str": "1413314046615375879",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/E50ZoyiUUAc7OP0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E50ZoyiUUAc7OP0.jpg",
+					"url": "https://t.co/IV9fkmqB98",
+					"display_url": "pic.twitter.com/IV9fkmqB98",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1413347462643785737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "KPop을 더 즐겁게! PLAY YOUR MUSIC🎶",
+			"url": "https://t.co/npNrfLZtFs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/npNrfLZtFs",
+							"expanded_url": "https://www.youtube.com/channel/UC9LcN9O8amxNcfu0fwGqwgQ",
+							"display_url": "youtube.com/channel/UC9LcN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25612,
+			"friends_count": 74,
+			"listed_count": 57,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 820,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1609479399",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 795,
+		"favorite_count": 1703,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⏯ #돌들의침묵 | 이달의 소녀\n촬영장 비하인드 필름 컷\n풀어봅니다..😎✨\n\n더 많은 사진 👇👇\nhttps://t.co/yysMDqFVSW\n\n#돌들의침묵_이달의소녀\n#TheSilenceOfIDOL_LOONA\n#이달의소녀 #LOONA #PTT\n@loonatheworld https://t.co/IV9fkmqB98"
+	},
+	{
+		"created_at": "Fri Jul 09 04:07:44 +0000 2021",
+		"id": 1413349125672870000,
+		"id_str": "1413349125672869891",
+		"full_text": "#Sigrid #시그리드 #VEVO \nSigrid - Mirror (Maliboux Remix / Audio) \nhttps://t.co/dxeQCM90Ej",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Sigrid",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "시그리드",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "VEVO",
+					"indices": [
+						14,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dxeQCM90Ej",
+					"expanded_url": "https://www.youtube.com/watch?v=m7a8-BZ8K8A",
+					"display_url": "youtube.com/watch?v=m7a8-B…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Sigrid #시그리드 #VEVO \nSigrid - Mirror (Maliboux Remix / Audio) \nhttps://t.co/dxeQCM90Ej"
+	},
+	{
+		"created_at": "Fri Jul 09 04:03:20 +0000 2021",
+		"id": 1413348016329797600,
+		"id_str": "1413348016329797634",
+		"full_text": "#ZaraLarsson #자라라슨 #VEVO \nZara Larsson - I Need Love (Official Audio) ft. Trevor Daniel \nhttps://t.co/9YfQsv9d5N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ZaraLarsson",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "자라라슨",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "VEVO",
+					"indices": [
+						19,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9YfQsv9d5N",
+					"expanded_url": "https://www.youtube.com/watch?v=FlioeI4qTaA",
+					"display_url": "youtube.com/watch?v=FlioeI…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ZaraLarsson #자라라슨 #VEVO \nZara Larsson - I Need Love (Official Audio) ft. Trevor Daniel \nhttps://t.co/9YfQsv9d5N"
+	},
+	{
 		"created_at": "Fri Jul 09 03:45:37 +0000 2021",
 		"id": 1413342400173416400,
 		"id_str": "1413343556408852481",
