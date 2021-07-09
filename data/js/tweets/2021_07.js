@@ -1,6 +1,1309 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 09 08:01:26 +0000 2021",
+		"id": 1413407934319636500,
+		"id_str": "1413407934319636482",
+		"full_text": "#EDAM엔터테인먼트 #카카오M \n[신세경] WELCOME TO EDAM! 신세경 배우가 왔담! \nhttps://t.co/C3jXcrleuH \n \n#아이유 #IU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EDAM엔터테인먼트",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "카카오M",
+					"indices": [
+						12,
+						17
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						87,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C3jXcrleuH",
+					"expanded_url": "https://www.youtube.com/watch?v=vJ8HcvL8X8o",
+					"display_url": "youtube.com/watch?v=vJ8Hcv…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#EDAM엔터테인먼트 #카카오M \n[신세경] WELCOME TO EDAM! 신세경 배우가 왔담! \nhttps://t.co/C3jXcrleuH \n \n#아이유 #IU"
+	},
+	{
+		"created_at": "Fri Jul 09 07:52:53 +0000 2021",
+		"id": 1413405057714991000,
+		"id_str": "1413405783350554626",
+		"full_text": "오빛💫 잠시 후 오후 5시(KST) 방송되는 KBS '뮤직뱅크'로 금기를 깨고 무대도 부숴 버린 #이달의소녀 의 'PTT (Paint The Town)' 보러 오세옹😼\n\n#이달의소녀_PTT #LOONA #LOONA_PTT https://t.co/uuj7mtZ9G6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "이달의소녀_PTT",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "LOONA_PTT",
+					"indices": [
+						113,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1413374006166573000,
+					"id_str": "1413374006166573060",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/E51QK5RUUAQfKCC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E51QK5RUUAQfKCC.jpg",
+					"url": "https://t.co/uuj7mtZ9G6",
+					"display_url": "pic.twitter.com/uuj7mtZ9G6",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1413405057714991104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413374006166573000,
+					"id_str": "1413374006166573060",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/E51QK5RUUAQfKCC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E51QK5RUUAQfKCC.jpg",
+					"url": "https://t.co/uuj7mtZ9G6",
+					"display_url": "pic.twitter.com/uuj7mtZ9G6",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1413405057714991104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 766776,
+			"friends_count": 1,
+			"listed_count": 7660,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2751,
+		"favorite_count": 7310,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오빛💫 잠시 후 오후 5시(KST) 방송되는 KBS '뮤직뱅크'로 금기를 깨고 무대도 부숴 버린 #이달의소녀 의 'PTT (Paint The Town)' 보러 오세옹😼\n\n#이달의소녀_PTT #LOONA #LOONA_PTT https://t.co/uuj7mtZ9G6"
+	},
+	{
+		"created_at": "Fri Jul 09 07:52:48 +0000 2021",
+		"id": 1413400156322472000,
+		"id_str": "1413405761879818245",
+		"full_text": "☁️다들 주말 좋아하잖아요💗\n\nhttps://t.co/AVB3QvqrSr\n\n#Weekend \n#태연 #TAEYEON\n#소녀시대 #GirlsGeneration\n#WeekendChallenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Weekend",
+					"indices": [
+						42,
+						50
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						56,
+						64
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						71,
+						87
+					]
+				},
+				{
+					"text": "WeekendChallenge",
+					"indices": [
+						88,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AVB3QvqrSr",
+					"expanded_url": "https://vt.tiktok.com/ZSJbwK612/",
+					"display_url": "vt.tiktok.com/ZSJbwK612/",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3644574,
+			"friends_count": 4,
+			"listed_count": 5437,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2404,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1604,
+		"favorite_count": 2869,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "☁️다들 주말 좋아하잖아요💗\n\nhttps://t.co/AVB3QvqrSr\n\n#Weekend \n#태연 #TAEYEON\n#소녀시대 #GirlsGeneration\n#WeekendChallenge"
+	},
+	{
+		"created_at": "Fri Jul 09 07:45:51 +0000 2021",
+		"id": 1413401631257809000,
+		"id_str": "1413404013987606533",
+		"full_text": "Simply K-Pop CON-TOUR's 7th flight is taking off to INDIA💕\nIt begins LIVE on Monday, 7/12 at 7pm KST, so don't miss out!\n👉https://t.co/LuVDWC2GmU\n\n#LOONA #MINZY #MoonJongUp #DRIPPIN #BDC #woo_ah #PinkFantasy #DONGKIZ #AleXa #BXK #OMEGA_X #JUSTB #KINGDOM #SINCHONTIGER #KANGSORI https://t.co/XbIRRjWiWR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						147,
+						153
+					]
+				},
+				{
+					"text": "MINZY",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "MoonJongUp",
+					"indices": [
+						161,
+						172
+					]
+				},
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						173,
+						181
+					]
+				},
+				{
+					"text": "BDC",
+					"indices": [
+						182,
+						186
+					]
+				},
+				{
+					"text": "woo_ah",
+					"indices": [
+						187,
+						194
+					]
+				},
+				{
+					"text": "PinkFantasy",
+					"indices": [
+						195,
+						207
+					]
+				},
+				{
+					"text": "DONGKIZ",
+					"indices": [
+						208,
+						216
+					]
+				},
+				{
+					"text": "AleXa",
+					"indices": [
+						217,
+						223
+					]
+				},
+				{
+					"text": "BXK",
+					"indices": [
+						224,
+						228
+					]
+				},
+				{
+					"text": "OMEGA_X",
+					"indices": [
+						229,
+						237
+					]
+				},
+				{
+					"text": "JUSTB",
+					"indices": [
+						238,
+						244
+					]
+				},
+				{
+					"text": "KINGDOM",
+					"indices": [
+						245,
+						253
+					]
+				},
+				{
+					"text": "SINCHONTIGER",
+					"indices": [
+						254,
+						267
+					]
+				},
+				{
+					"text": "KANGSORI",
+					"indices": [
+						268,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LuVDWC2GmU",
+					"expanded_url": "https://youtu.be/-9kIX0iLRx8",
+					"display_url": "youtu.be/-9kIX0iLRx8",
+					"indices": [
+						122,
+						145
+					]
+				},
+				{
+					"url": "https://t.co/XbIRRjWiWR",
+					"expanded_url": "https://twitter.com/_Simplykpop/status/1413400413722726406",
+					"display_url": "twitter.com/_Simplykpop/st…",
+					"indices": [
+						278,
+						301
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66625290,
+			"id_str": "66625290",
+			"name": "Arirang World",
+			"screen_name": "arirangworld",
+			"location": "South Korea",
+			"description": "Arirang TV & Radio",
+			"url": "https://t.co/eRqGeUFAHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eRqGeUFAHR",
+							"expanded_url": "https://www.youtube.com/arirangworld",
+							"display_url": "youtube.com/arirangworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 156536,
+			"friends_count": 212,
+			"listed_count": 1215,
+			"created_at": "Tue Aug 18 07:40:53 +0000 2009",
+			"favourites_count": 6310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25641,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E6E6E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410884603825455105/PsIcEN-m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410884603825455105/PsIcEN-m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66625290/1625216120",
+			"profile_link_color": "ED1846",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFB2D7",
+			"profile_text_color": "0A0A0A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1413400413722726400,
+		"quoted_status_id_str": "1413400413722726406",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XbIRRjWiWR",
+			"expanded": "https://twitter.com/_Simplykpop/status/1413400413722726406",
+			"display": "twitter.com/_Simplykpop/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 09 07:31:32 +0000 2021",
+			"id": 1413400413722726400,
+			"id_str": "1413400413722726406",
+			"full_text": "심플리케이팝 CON-TOUR, 그 일곱 번째 여정 인도 편 ✈\n7월 12일 오후 7시부터 라이브 스트리밍으로 함께하실 수 있습니다💖\n\nSimply K-Pop CON-TOUR's 7th flight is taking off to INDIA 🇮🇳\nIt begins LIVE on Monday, 7/12 at 7pm KST, so don't miss out!\n\nhttps://t.co/UFb6rj2pR9 https://t.co/7tFbzia7RO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				222
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UFb6rj2pR9",
+						"expanded_url": "https://youtu.be/-9kIX0iLRx8",
+						"display_url": "youtu.be/-9kIX0iLRx8",
+						"indices": [
+							199,
+							222
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1413400405506023400,
+						"id_str": "1413400405506023428",
+						"indices": [
+							223,
+							246
+						],
+						"media_url": "http://pbs.twimg.com/media/E51oLieUYAQygKb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E51oLieUYAQygKb.jpg",
+						"url": "https://t.co/7tFbzia7RO",
+						"display_url": "pic.twitter.com/7tFbzia7RO",
+						"expanded_url": "https://twitter.com/_Simplykpop/status/1413400413722726406/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1413400405506023400,
+						"id_str": "1413400405506023428",
+						"indices": [
+							223,
+							246
+						],
+						"media_url": "http://pbs.twimg.com/media/E51oLieUYAQygKb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E51oLieUYAQygKb.jpg",
+						"url": "https://t.co/7tFbzia7RO",
+						"display_url": "pic.twitter.com/7tFbzia7RO",
+						"expanded_url": "https://twitter.com/_Simplykpop/status/1413400413722726406/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 505587119,
+				"id_str": "505587119",
+				"name": "SIMPLY K-POP",
+				"screen_name": "_Simplykpop",
+				"location": "",
+				"description": "∎아리랑 월드채널: 금요일 PM 1시 ∎아리랑 한국채널: 토요일 PM 1시 ∎World Arirang Channel: FRI 1PM KST ∎Korea Arirang Channel: SAT 1PM KST",
+				"url": "https://t.co/vf8sF8eEny",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vf8sF8eEny",
+								"expanded_url": "https://www.youtube.com/arirangworld",
+								"display_url": "youtube.com/arirangworld",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 379213,
+				"friends_count": 4,
+				"listed_count": 1112,
+				"created_at": "Mon Feb 27 07:32:00 +0000 2012",
+				"favourites_count": 948,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11795,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1382552195963314181/z3_5pDdL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1382552195963314181/z3_5pDdL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/505587119/1571237354",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 126,
+			"favorite_count": 264,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 6,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Simply K-Pop CON-TOUR's 7th flight is taking off to INDIA💕\nIt begins LIVE on Monday, 7/12 at 7pm KST, so don't miss out!\n👉https://t.co/LuVDWC2GmU\n\n#LOONA #MINZY #MoonJongUp #DRIPPIN #BDC #woo_ah #PinkFantasy #DONGKIZ #AleXa #BXK #OMEGA_X #JUSTB #KINGDOM #SINCHONTIGER #KANGSORI https://t.co/XbIRRjWiWR"
+	},
+	{
+		"created_at": "Fri Jul 09 07:45:43 +0000 2021",
+		"id": 1413401541378076700,
+		"id_str": "1413403979820711940",
+		"full_text": "Simply K-Pop CON-TOUR's 7th flight is taking off to INDIA💕\nIt begins LIVE on Monday, 7/12 at 7pm KST, so don't miss out!\n👉https://t.co/kq9SqZbB61\n\n#LOONA #MINZY #MoonJongUp #DRIPPIN #BDC #woo_ah #PinkFantasy #DONGKIZ #AleXa #BXK #OMEGA_X #JUSTB #KINGDOM #SINCHONTIGER #KANGSORI https://t.co/opF7yb3czz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						147,
+						153
+					]
+				},
+				{
+					"text": "MINZY",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "MoonJongUp",
+					"indices": [
+						161,
+						172
+					]
+				},
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						173,
+						181
+					]
+				},
+				{
+					"text": "BDC",
+					"indices": [
+						182,
+						186
+					]
+				},
+				{
+					"text": "woo_ah",
+					"indices": [
+						187,
+						194
+					]
+				},
+				{
+					"text": "PinkFantasy",
+					"indices": [
+						195,
+						207
+					]
+				},
+				{
+					"text": "DONGKIZ",
+					"indices": [
+						208,
+						216
+					]
+				},
+				{
+					"text": "AleXa",
+					"indices": [
+						217,
+						223
+					]
+				},
+				{
+					"text": "BXK",
+					"indices": [
+						224,
+						228
+					]
+				},
+				{
+					"text": "OMEGA_X",
+					"indices": [
+						229,
+						237
+					]
+				},
+				{
+					"text": "JUSTB",
+					"indices": [
+						238,
+						244
+					]
+				},
+				{
+					"text": "KINGDOM",
+					"indices": [
+						245,
+						253
+					]
+				},
+				{
+					"text": "SINCHONTIGER",
+					"indices": [
+						254,
+						267
+					]
+				},
+				{
+					"text": "KANGSORI",
+					"indices": [
+						268,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kq9SqZbB61",
+					"expanded_url": "https://youtu.be/-9kIX0iLRx8",
+					"display_url": "youtu.be/-9kIX0iLRx8",
+					"indices": [
+						122,
+						145
+					]
+				},
+				{
+					"url": "https://t.co/opF7yb3czz",
+					"expanded_url": "https://twitter.com/_Simplykpop/status/1413400413722726406",
+					"display_url": "twitter.com/_Simplykpop/st…",
+					"indices": [
+						278,
+						301
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1204659086215671800,
+			"id_str": "1204659086215671808",
+			"name": "K-ROUND",
+			"screen_name": "PLAY_K_ROUND",
+			"location": "",
+			"description": "Playground for K-Pop Fans All Around the World! [official]\n전 세계 K-POP 팬들의 덕질 놀이터, K-ROUND",
+			"url": "https://t.co/eRqGeUFAHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eRqGeUFAHR",
+							"expanded_url": "https://www.youtube.com/arirangworld",
+							"display_url": "youtube.com/arirangworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12464,
+			"friends_count": 3,
+			"listed_count": 100,
+			"created_at": "Wed Dec 11 07:08:16 +0000 2019",
+			"favourites_count": 361,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211805481875820545/Ej0dDVoB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211805481875820545/Ej0dDVoB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1204659086215671808/1577751796",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1413400413722726400,
+		"quoted_status_id_str": "1413400413722726406",
+		"quoted_status_permalink": {
+			"url": "https://t.co/opF7yb3czz",
+			"expanded": "https://twitter.com/_Simplykpop/status/1413400413722726406",
+			"display": "twitter.com/_Simplykpop/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 09 07:31:32 +0000 2021",
+			"id": 1413400413722726400,
+			"id_str": "1413400413722726406",
+			"full_text": "심플리케이팝 CON-TOUR, 그 일곱 번째 여정 인도 편 ✈\n7월 12일 오후 7시부터 라이브 스트리밍으로 함께하실 수 있습니다💖\n\nSimply K-Pop CON-TOUR's 7th flight is taking off to INDIA 🇮🇳\nIt begins LIVE on Monday, 7/12 at 7pm KST, so don't miss out!\n\nhttps://t.co/UFb6rj2pR9 https://t.co/7tFbzia7RO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				222
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UFb6rj2pR9",
+						"expanded_url": "https://youtu.be/-9kIX0iLRx8",
+						"display_url": "youtu.be/-9kIX0iLRx8",
+						"indices": [
+							199,
+							222
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1413400405506023400,
+						"id_str": "1413400405506023428",
+						"indices": [
+							223,
+							246
+						],
+						"media_url": "http://pbs.twimg.com/media/E51oLieUYAQygKb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E51oLieUYAQygKb.jpg",
+						"url": "https://t.co/7tFbzia7RO",
+						"display_url": "pic.twitter.com/7tFbzia7RO",
+						"expanded_url": "https://twitter.com/_Simplykpop/status/1413400413722726406/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1413400405506023400,
+						"id_str": "1413400405506023428",
+						"indices": [
+							223,
+							246
+						],
+						"media_url": "http://pbs.twimg.com/media/E51oLieUYAQygKb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E51oLieUYAQygKb.jpg",
+						"url": "https://t.co/7tFbzia7RO",
+						"display_url": "pic.twitter.com/7tFbzia7RO",
+						"expanded_url": "https://twitter.com/_Simplykpop/status/1413400413722726406/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 505587119,
+				"id_str": "505587119",
+				"name": "SIMPLY K-POP",
+				"screen_name": "_Simplykpop",
+				"location": "",
+				"description": "∎아리랑 월드채널: 금요일 PM 1시 ∎아리랑 한국채널: 토요일 PM 1시 ∎World Arirang Channel: FRI 1PM KST ∎Korea Arirang Channel: SAT 1PM KST",
+				"url": "https://t.co/vf8sF8eEny",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vf8sF8eEny",
+								"expanded_url": "https://www.youtube.com/arirangworld",
+								"display_url": "youtube.com/arirangworld",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 379213,
+				"friends_count": 4,
+				"listed_count": 1112,
+				"created_at": "Mon Feb 27 07:32:00 +0000 2012",
+				"favourites_count": 948,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11795,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1382552195963314181/z3_5pDdL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1382552195963314181/z3_5pDdL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/505587119/1571237354",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 126,
+			"favorite_count": 264,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 3,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Simply K-Pop CON-TOUR's 7th flight is taking off to INDIA💕\nIt begins LIVE on Monday, 7/12 at 7pm KST, so don't miss out!\n👉https://t.co/kq9SqZbB61\n\n#LOONA #MINZY #MoonJongUp #DRIPPIN #BDC #woo_ah #PinkFantasy #DONGKIZ #AleXa #BXK #OMEGA_X #JUSTB #KINGDOM #SINCHONTIGER #KANGSORI https://t.co/opF7yb3czz"
+	},
+	{
 		"created_at": "Fri Jul 09 06:52:48 +0000 2021",
 		"id": 1413363987987656700,
 		"id_str": "1413390662192537602",
