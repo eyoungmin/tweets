@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 09 20:52:48 +0000 2021",
+		"id": 1413594720526377000,
+		"id_str": "1413602055202254848",
+		"full_text": "@guyberrymen @Coeurli @coldplayben Soooooorry. It was me being overly protective. At ease, everyone ! PH",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guyberrymen",
+					"name": "❀ syd ❀",
+					"id": 27377765,
+					"id_str": "27377765",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Coeurli",
+					"name": "Coeurli 🥖🍓",
+					"id": 396027819,
+					"id_str": "396027819",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"screen_name": "coldplayben",
+					"name": "ben👽📻",
+					"id": 885542164939362300,
+					"id_str": "885542164939362305",
+					"indices": [
+						22,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1413556453743472600,
+		"in_reply_to_status_id_str": "1413556453743472640",
+		"in_reply_to_user_id": 27377765,
+		"in_reply_to_user_id_str": "27377765",
+		"in_reply_to_screen_name": "guyberrymen",
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Kaotica",
+			"description": "The official Twitter of the band Coldplay. New single, Higher Power, out now.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23000906,
+			"friends_count": 764,
+			"listed_count": 42748,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389264116502704131/arWiuiOR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1620345079",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 133,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@guyberrymen @Coeurli @coldplayben Soooooorry. It was me being overly protective. At ease, everyone ! PH"
+	},
+	{
 		"created_at": "Fri Jul 09 18:04:55 +0000 2021",
 		"id": 1413551021490536400,
 		"id_str": "1413559806753841152",
