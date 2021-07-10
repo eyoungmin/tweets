@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 10 22:45:37 +0000 2021",
+		"id": 1413981357190041600,
+		"id_str": "1413992835213406210",
+		"full_text": "Gorgeous, beautiful, talented, flawless, perfect, everything good in this world.💅 LOONA - in 이달의 소녀 ON WAVE [LOOΠΔTHEWORLD : &amp;] is back for a replay in just a few hours!\n\nThe fact that saying \"Everyday I Love You\" is not enough with #ViVi!😻 https://t.co/RIHzHxvjxX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ViVi",
+					"indices": [
+						237,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1413897457814048800,
+					"id_str": "1413897457814048770",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/E58sPynVkAI-Jpd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E58sPynVkAI-Jpd.jpg",
+					"url": "https://t.co/RIHzHxvjxX",
+					"display_url": "pic.twitter.com/RIHzHxvjxX",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1413981357190041612/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413897457814048800,
+					"id_str": "1413897457814048770",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/E58sPynVkAI-Jpd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E58sPynVkAI-Jpd.jpg",
+					"url": "https://t.co/RIHzHxvjxX",
+					"display_url": "pic.twitter.com/RIHzHxvjxX",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1413981357190041612/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1413897473022599200,
+					"id_str": "1413897473022599169",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/E58sQrRVoAEbWNF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E58sQrRVoAEbWNF.jpg",
+					"url": "https://t.co/RIHzHxvjxX",
+					"display_url": "pic.twitter.com/RIHzHxvjxX",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1413981357190041612/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. \nSTOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132622,
+			"friends_count": 101,
+			"listed_count": 265,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5184,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1592014887",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 416,
+		"favorite_count": 1437,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Gorgeous, beautiful, talented, flawless, perfect, everything good in this world.💅 LOONA - in 이달의 소녀 ON WAVE [LOOΠΔTHEWORLD : &amp;] is back for a replay in just a few hours!\n\nThe fact that saying \"Everyday I Love You\" is not enough with #ViVi!😻 https://t.co/RIHzHxvjxX"
+	},
+	{
 		"created_at": "Sat Jul 10 13:03:12 +0000 2021",
 		"id": 1413845459613880300,
 		"id_str": "1413846265801056262",
