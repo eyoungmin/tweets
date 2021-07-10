@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 10 05:45:36 +0000 2021",
+		"id": 1413728243731992600,
+		"id_str": "1413736142223167491",
+		"full_text": "📢 뭐죠 이 사랑스러운 #왕크왕캠 은?\n막내 여진과 동그라미(?) 츄의 하이텐션 PTT💫\n\n[4K] 왕하이텐션이니까 왕크게 보는 💗왕크왕캠💗 아무도 막을 수 없는 이달소 여진&amp;츄 🐸🐧\n🎥 https://t.co/Vwnt3OFRGK\n\n#이달의소녀 #이달소 #LOONA #여진 #츄\n#PTT #LOONA_PTT #전효성의꿈꾸는라디오 https://t.co/dQD7OSPwXn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "왕크왕캠",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "여진",
+					"indices": [
+						153,
+						156
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						157,
+						159
+					]
+				},
+				{
+					"text": "PTT",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "LOONA_PTT",
+					"indices": [
+						165,
+						175
+					]
+				},
+				{
+					"text": "전효성의꿈꾸는라디오",
+					"indices": [
+						176,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vwnt3OFRGK",
+					"expanded_url": "https://youtu.be/LGZACdB5WEg",
+					"display_url": "youtu.be/LGZACdB5WEg",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1413728029650526200,
+					"id_str": "1413728029650526209",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E56SJxhVIAE2i-D.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E56SJxhVIAE2i-D.jpg",
+					"url": "https://t.co/dQD7OSPwXn",
+					"display_url": "pic.twitter.com/dQD7OSPwXn",
+					"expanded_url": "https://twitter.com/radiombc/status/1413728243731992580/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 422,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 422,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413728029650526200,
+					"id_str": "1413728029650526209",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E56SJxhVIAE2i-D.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E56SJxhVIAE2i-D.jpg",
+					"url": "https://t.co/dQD7OSPwXn",
+					"display_url": "pic.twitter.com/dQD7OSPwXn",
+					"expanded_url": "https://twitter.com/radiombc/status/1413728243731992580/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 422,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 422,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							400,
+							211
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E56SJxhVIAE2i-D.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145925496,
+			"id_str": "145925496",
+			"name": "봉춘라디오 MBC RADIO",
+			"screen_name": "radiombc",
+			"location": "MBC RADIO",
+			"description": "MBC RADIO Official #MBC라디오 #봉춘라디오",
+			"url": "https://t.co/aMXLX3vY7V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aMXLX3vY7V",
+							"expanded_url": "https://www.youtube.com/RadioMBC",
+							"display_url": "youtube.com/RadioMBC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74467,
+			"friends_count": 44,
+			"listed_count": 602,
+			"created_at": "Thu May 20 06:02:35 +0000 2010",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1290175170045292544/Caze5N6G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290175170045292544/Caze5N6G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145925496/1596436707",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 뭐죠 이 사랑스러운 #왕크왕캠 은?\n막내 여진과 동그라미(?) 츄의 하이텐션 PTT💫\n\n[4K] 왕하이텐션이니까 왕크게 보는 💗왕크왕캠💗 아무도 막을 수 없는 이달소 여진&amp;츄 🐸🐧\n🎥 https://t.co/Vwnt3OFRGK\n\n#이달의소녀 #이달소 #LOONA #여진 #츄\n#PTT #LOONA_PTT #전효성의꿈꾸는라디오 https://t.co/dQD7OSPwXn"
+	},
+	{
 		"created_at": "Sat Jul 10 04:34:08 +0000 2021",
 		"id": 1413718153461485600,
 		"id_str": "1413718153461485569",
