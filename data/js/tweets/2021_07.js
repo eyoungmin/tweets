@@ -1,6 +1,354 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 10 06:45:37 +0000 2021",
+		"id": 1413739347531075600,
+		"id_str": "1413751242464112642",
+		"full_text": "7/12 예정이었던 이달의 소녀 유튜브 라이브는 코로나 관련 이슈로 인해 취소되었습니다 \n유튜브 라이브를 기다리셨을 오빛 분들과 많은 분들의 양해바랍니다 https://t.co/9UgYEjgQbq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9UgYEjgQbq",
+					"expanded_url": "https://twitter.com/allthekpop/status/1413430224151322628",
+					"display_url": "twitter.com/allthekpop/sta…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81653,
+			"friends_count": 334,
+			"listed_count": 312,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1625438770",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1413430224151322600,
+		"quoted_status_id_str": "1413430224151322628",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9UgYEjgQbq",
+			"expanded": "https://twitter.com/allthekpop/status/1413430224151322628",
+			"display": "twitter.com/allthekpop/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 09 09:30:00 +0000 2021",
+			"id": 1413430224151322600,
+			"id_str": "1413430224151322628",
+			"full_text": "#주간아 #주간아이돌 @weeklyidol_\n#이달의소녀 #LOONA @loonatheworld\n\n🚨삐용삐용🚨에에엥에엥🚑💉\n비상사태 모두 여기 집중🗣\n\n이달의 소녀 유튜브 라이브 안내❗❗\n\n유튜브 채널 [ALL THE K-POP]\n팔로우+시작 알림 받기\n👉https://t.co/ULNjpFQBGu👈 https://t.co/dbuGkTw4Tx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				167
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "주간아",
+						"indices": [
+							0,
+							4
+						]
+					},
+					{
+						"text": "주간아이돌",
+						"indices": [
+							5,
+							11
+						]
+					},
+					{
+						"text": "이달의소녀",
+						"indices": [
+							25,
+							31
+						]
+					},
+					{
+						"text": "LOONA",
+						"indices": [
+							32,
+							38
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "weeklyidol_",
+						"name": "주간아이돌 (Weekly idol official)",
+						"id": 1305389044700905500,
+						"id_str": "1305389044700905472",
+						"indices": [
+							12,
+							24
+						]
+					},
+					{
+						"screen_name": "loonatheworld",
+						"name": "이달의 소녀(LOOΠΔ)",
+						"id": 770959712791597000,
+						"id_str": "770959712791597056",
+						"indices": [
+							39,
+							53
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ULNjpFQBGu",
+						"expanded_url": "https://bit.ly/3fgQ5Eo",
+						"display_url": "bit.ly/3fgQ5Eo",
+						"indices": [
+							143,
+							166
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1413048548048834600,
+						"id_str": "1413048548048834565",
+						"indices": [
+							168,
+							191
+						],
+						"media_url": "http://pbs.twimg.com/media/E5woKvTVEAUJVQM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5woKvTVEAUJVQM.jpg",
+						"url": "https://t.co/dbuGkTw4Tx",
+						"display_url": "pic.twitter.com/dbuGkTw4Tx",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1413430224151322628/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1413048548048834600,
+						"id_str": "1413048548048834565",
+						"indices": [
+							168,
+							191
+						],
+						"media_url": "http://pbs.twimg.com/media/E5woKvTVEAUJVQM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5woKvTVEAUJVQM.jpg",
+						"url": "https://t.co/dbuGkTw4Tx",
+						"display_url": "pic.twitter.com/dbuGkTw4Tx",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1413430224151322628/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744928926,
+				"id_str": "744928926",
+				"name": "올더케이팝",
+				"screen_name": "ALLTHEKPOP",
+				"location": "",
+				"description": "ALL about ID♡L, ALL THE K-POP",
+				"url": "https://t.co/0kbjbCEhaR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0kbjbCEhaR",
+								"expanded_url": "http://www.youtube.com/allthekpop",
+								"display_url": "youtube.com/allthekpop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 81653,
+				"friends_count": 334,
+				"listed_count": 312,
+				"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+				"favourites_count": 7904,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7244,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1625438770",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 484,
+			"favorite_count": 1028,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 129,
+		"favorite_count": 227,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "7/12 예정이었던 이달의 소녀 유튜브 라이브는 코로나 관련 이슈로 인해 취소되었습니다 \n유튜브 라이브를 기다리셨을 오빛 분들과 많은 분들의 양해바랍니다 https://t.co/9UgYEjgQbq"
+	},
+	{
 		"created_at": "Sat Jul 10 05:45:36 +0000 2021",
 		"id": 1413728243731992600,
 		"id_str": "1413736142223167491",
