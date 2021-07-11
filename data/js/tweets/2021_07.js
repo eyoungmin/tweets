@@ -1,6 +1,472 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 11 09:53:01 +0000 2021",
+		"id": 1414159009796432000,
+		"id_str": "1414160792803495938",
+		"full_text": "[안방1열 직캠4K] 태연 'Weekend' (TAEYEON FanCam)│@ SBS Inkigayo_2021.07.11.\n\nhttps://t.co/wrCxtO36b4 \n\n#태연 #TAEYEON #Weekend \n#소녀시대 #GirlsGeneration \n#인기가요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						125,
+						141
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						143,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wrCxtO36b4",
+					"expanded_url": "https://youtu.be/T7eVG_Jh2ow",
+					"display_url": "youtu.be/T7eVG_Jh2ow",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3645737,
+			"friends_count": 4,
+			"listed_count": 5448,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 756,
+		"favorite_count": 1462,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[안방1열 직캠4K] 태연 'Weekend' (TAEYEON FanCam)│@ SBS Inkigayo_2021.07.11.\n\nhttps://t.co/wrCxtO36b4 \n\n#태연 #TAEYEON #Weekend \n#소녀시대 #GirlsGeneration \n#인기가요"
+	},
+	{
+		"created_at": "Sun Jul 11 09:52:55 +0000 2021",
+		"id": 1414156235461386200,
+		"id_str": "1414160767121772546",
+		"full_text": "[D-2] 'Baby’\n2021.07.13 6PM KST\n\nM/V @visualsfrom\n\n아도이 새 싱글 ‘Baby’를 프로필 링크로 pre-save 하실 수 있습니다 (스포티파이, 애플뮤직, 디저, 타이달)\nClick on profile link to pre-save ADOY’s new single ‘Baby’ on Spotify, Apple Music, Deezer or Tidal.\n\n#ADOY #newsingle #baby https://t.co/s8wwrTxpNR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ADOY",
+					"indices": [
+						220,
+						225
+					]
+				},
+				{
+					"text": "newsingle",
+					"indices": [
+						226,
+						236
+					]
+				},
+				{
+					"text": "baby",
+					"indices": [
+						237,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "visualsfrom",
+					"name": "visualsfrom",
+					"id": 705438717234667500,
+					"id_str": "705438717234667520",
+					"indices": [
+						37,
+						49
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1414156195640668200,
+					"id_str": "1414156195640668165",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/E6AXkUIUcAUT_V-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6AXkUIUcAUT_V-.jpg",
+					"url": "https://t.co/s8wwrTxpNR",
+					"display_url": "pic.twitter.com/s8wwrTxpNR",
+					"expanded_url": "https://twitter.com/adoyband/status/1414156235461386242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414156195640668200,
+					"id_str": "1414156195640668165",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/E6AXkUIUcAUT_V-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6AXkUIUcAUT_V-.jpg",
+					"url": "https://t.co/s8wwrTxpNR",
+					"display_url": "pic.twitter.com/s8wwrTxpNR",
+					"expanded_url": "https://twitter.com/adoyband/status/1414156235461386242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1414156210513748000,
+					"id_str": "1414156210513747972",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/E6AXlLiVoAQ00TK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6AXlLiVoAQ00TK.jpg",
+					"url": "https://t.co/s8wwrTxpNR",
+					"display_url": "pic.twitter.com/s8wwrTxpNR",
+					"expanded_url": "https://twitter.com/adoyband/status/1414156235461386242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1414156219577557000,
+					"id_str": "1414156219577556994",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/E6AXltTUYAIwP0U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6AXltTUYAIwP0U.jpg",
+					"url": "https://t.co/s8wwrTxpNR",
+					"display_url": "pic.twitter.com/s8wwrTxpNR",
+					"expanded_url": "https://twitter.com/adoyband/status/1414156235461386242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1414156228129747000,
+					"id_str": "1414156228129746946",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/E6AXmNKUcAIacd1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6AXmNKUcAIacd1.jpg",
+					"url": "https://t.co/s8wwrTxpNR",
+					"display_url": "pic.twitter.com/s8wwrTxpNR",
+					"expanded_url": "https://twitter.com/adoyband/status/1414156235461386242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/LF4K4WcWrD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF4K4WcWrD",
+							"expanded_url": "https://orcd.co/adoybaby",
+							"display_url": "orcd.co/adoybaby",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4416,
+			"friends_count": 505,
+			"listed_count": 0,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1625820897",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[D-2] 'Baby’\n2021.07.13 6PM KST\n\nM/V @visualsfrom\n\n아도이 새 싱글 ‘Baby’를 프로필 링크로 pre-save 하실 수 있습니다 (스포티파이, 애플뮤직, 디저, 타이달)\nClick on profile link to pre-save ADOY’s new single ‘Baby’ on Spotify, Apple Music, Deezer or Tidal.\n\n#ADOY #newsingle #baby https://t.co/s8wwrTxpNR"
+	},
+	{
 		"created_at": "Sun Jul 11 08:53:00 +0000 2021",
 		"id": 1414138231910666200,
 		"id_str": "1414145688208826370",
