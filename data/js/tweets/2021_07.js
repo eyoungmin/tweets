@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 11 06:45:36 +0000 2021",
+		"id": 1414102152457359400,
+		"id_str": "1414113629222457346",
+		"full_text": "Enjoy the replay of the 이달의 소녀 ON WAVE [LOOΠΔTHEWORLD : &amp;] concert #Orbit! All applicable ticket holders can watch the concert now!\n\n📺https://t.co/JG2Ld0djh0\n\nCome see #LOONA again now! https://t.co/r2xbZpg6yH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Orbit",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						172,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JG2Ld0djh0",
+					"expanded_url": "https://mmt.fans/M2Tm",
+					"display_url": "mmt.fans/M2Tm",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1413904025016148000,
+					"id_str": "1413904025016147977",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/E58yODWVIAkcpGZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E58yODWVIAkcpGZ.jpg",
+					"url": "https://t.co/r2xbZpg6yH",
+					"display_url": "pic.twitter.com/r2xbZpg6yH",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1414102152457359360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413904025016148000,
+					"id_str": "1413904025016147977",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/E58yODWVIAkcpGZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E58yODWVIAkcpGZ.jpg",
+					"url": "https://t.co/r2xbZpg6yH",
+					"display_url": "pic.twitter.com/r2xbZpg6yH",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1414102152457359360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1413904041080352800,
+					"id_str": "1413904041080352769",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/E58yO_MVcAEUx04.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E58yO_MVcAEUx04.jpg",
+					"url": "https://t.co/r2xbZpg6yH",
+					"display_url": "pic.twitter.com/r2xbZpg6yH",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1414102152457359360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1413904055579988000,
+					"id_str": "1413904055579987972",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/E58yP1NUUAQRFKG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E58yP1NUUAQRFKG.jpg",
+					"url": "https://t.co/r2xbZpg6yH",
+					"display_url": "pic.twitter.com/r2xbZpg6yH",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1414102152457359360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1413904076186685400,
+					"id_str": "1413904076186685440",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/E58yRB-VkAAJTEO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E58yRB-VkAAJTEO.jpg",
+					"url": "https://t.co/r2xbZpg6yH",
+					"display_url": "pic.twitter.com/r2xbZpg6yH",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1414102152457359360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "https://www.mymusictaste.com/contact/",
+			"description": "🎤 MyMusicTaste is a fan-initiated concert making platform. \nSTOP WISHING, START MAKING!✨",
+			"url": "https://t.co/7MhqyWXpJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7MhqyWXpJW",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132709,
+			"friends_count": 101,
+			"listed_count": 266,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1592014887",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 560,
+		"favorite_count": 1354,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Enjoy the replay of the 이달의 소녀 ON WAVE [LOOΠΔTHEWORLD : &amp;] concert #Orbit! All applicable ticket holders can watch the concert now!\n\n📺https://t.co/JG2Ld0djh0\n\nCome see #LOONA again now! https://t.co/r2xbZpg6yH"
+	},
+	{
 		"created_at": "Sun Jul 11 05:17:44 +0000 2021",
 		"id": 1414084109819732000,
 		"id_str": "1414091514305597451",
