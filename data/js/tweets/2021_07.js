@@ -1,6 +1,838 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 12 08:45:36 +0000 2021",
+		"id": 1414494744080642000,
+		"id_str": "1414506216404004867",
+		"full_text": "BACKSTAGE BEHIND DAY 1 PREVIEW! 📹✨\nIf you're curious about the artists preparing for KCON:TACT 4 U stage,\nsee you in the behind-the-scenes video tonight at 6pm‼️\n\n#HASUNGWOON #HIGHLIGHT #LOONA #ONEUS #P1Harmony\n\n#KCONTACT #KCONTACT4U https://t.co/yWdyGhfBvW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HASUNGWOON",
+					"indices": [
+						163,
+						174
+					]
+				},
+				{
+					"text": "HIGHLIGHT",
+					"indices": [
+						175,
+						185
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						186,
+						192
+					]
+				},
+				{
+					"text": "ONEUS",
+					"indices": [
+						193,
+						199
+					]
+				},
+				{
+					"text": "P1Harmony",
+					"indices": [
+						200,
+						210
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						212,
+						221
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						222,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1414436496082235400,
+					"id_str": "1414436496082235392",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414436496082235392/pu/img/BccrMuKGpebF4jKH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414436496082235392/pu/img/BccrMuKGpebF4jKH.jpg",
+					"url": "https://t.co/yWdyGhfBvW",
+					"display_url": "pic.twitter.com/yWdyGhfBvW",
+					"expanded_url": "https://twitter.com/KCON_official/status/1414494744080642049/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414436496082235400,
+					"id_str": "1414436496082235392",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414436496082235392/pu/img/BccrMuKGpebF4jKH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414436496082235392/pu/img/BccrMuKGpebF4jKH.jpg",
+					"url": "https://t.co/yWdyGhfBvW",
+					"display_url": "pic.twitter.com/yWdyGhfBvW",
+					"expanded_url": "https://twitter.com/KCON_official/status/1414494744080642049/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 42743,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1414436496082235392/pu/pl/_AB27ZERnmctVC1W.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414436496082235392/pu/vid/640x360/syuoSkmWKOSdtZV1.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414436496082235392/pu/vid/1280x720/vVmaEN-rtE9sTx5L.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414436496082235392/pu/vid/480x270/mD8tgO2vWdi-_1nS.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 379389,
+			"friends_count": 75,
+			"listed_count": 993,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10428,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 373,
+		"favorite_count": 553,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BACKSTAGE BEHIND DAY 1 PREVIEW! 📹✨\nIf you're curious about the artists preparing for KCON:TACT 4 U stage,\nsee you in the behind-the-scenes video tonight at 6pm‼️\n\n#HASUNGWOON #HIGHLIGHT #LOONA #ONEUS #P1Harmony\n\n#KCONTACT #KCONTACT4U https://t.co/yWdyGhfBvW"
+	},
+	{
+		"created_at": "Mon Jul 12 08:17:35 +0000 2021",
+		"id": 1414499162205442000,
+		"id_str": "1414499162205442052",
+		"full_text": "#SMTOWN #Artist_News \n강타, 2021년 버전 ‘자유롭게 날 수 있도록’ 7월 14일 공개! \nhttps://t.co/ECKrxT1L5e \n \n#에스파 #aespa #æspa https://t.co/jgsezZAGDO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						101,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ECKrxT1L5e",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5201",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1414499161249095700,
+					"id_str": "1414499161249095682",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/E6FPfilXIAInCNI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6FPfilXIAInCNI.jpg",
+					"url": "https://t.co/jgsezZAGDO",
+					"display_url": "pic.twitter.com/jgsezZAGDO",
+					"expanded_url": "https://twitter.com/fromminn/status/1414499162205442052/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414499161249095700,
+					"id_str": "1414499161249095682",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/E6FPfilXIAInCNI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6FPfilXIAInCNI.jpg",
+					"url": "https://t.co/jgsezZAGDO",
+					"display_url": "pic.twitter.com/jgsezZAGDO",
+					"expanded_url": "https://twitter.com/fromminn/status/1414499162205442052/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44956,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82343,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \n강타, 2021년 버전 ‘자유롭게 날 수 있도록’ 7월 14일 공개! \nhttps://t.co/ECKrxT1L5e \n \n#에스파 #aespa #æspa https://t.co/jgsezZAGDO"
+	},
+	{
+		"created_at": "Mon Jul 12 08:10:37 +0000 2021",
+		"id": 1414488611441971200,
+		"id_str": "1414497411204993031",
+		"full_text": "#ONEW #온유 #KEY #키\n#MINHO #민호 #TAEMIN #태민\n#SHINee #샤이니\n#marieclaire #마리끌레르 https://t.co/caFxUvS3VB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ONEW",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "온유",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "KEY",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						15,
+						17
+					]
+				},
+				{
+					"text": "MINHO",
+					"indices": [
+						18,
+						24
+					]
+				},
+				{
+					"text": "민호",
+					"indices": [
+						25,
+						28
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						29,
+						36
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						41,
+						48
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "marieclaire",
+					"indices": [
+						54,
+						66
+					]
+				},
+				{
+					"text": "마리끌레르",
+					"indices": [
+						67,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1414488603489497000,
+					"id_str": "1414488603489497092",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/E6FF4_3UcAQg0hw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6FF4_3UcAQg0hw.jpg",
+					"url": "https://t.co/caFxUvS3VB",
+					"display_url": "pic.twitter.com/caFxUvS3VB",
+					"expanded_url": "https://twitter.com/SHINee/status/1414488611441971208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1112,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414488603489497000,
+					"id_str": "1414488603489497092",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/E6FF4_3UcAQg0hw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6FF4_3UcAQg0hw.jpg",
+					"url": "https://t.co/caFxUvS3VB",
+					"display_url": "pic.twitter.com/caFxUvS3VB",
+					"expanded_url": "https://twitter.com/SHINee/status/1414488611441971208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1112,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1414488603695014000,
+					"id_str": "1414488603695013888",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/E6FF5AoUYAAlqiw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6FF5AoUYAAlqiw.jpg",
+					"url": "https://t.co/caFxUvS3VB",
+					"display_url": "pic.twitter.com/caFxUvS3VB",
+					"expanded_url": "https://twitter.com/SHINee/status/1414488611441971208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1112,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1414488603686629400,
+					"id_str": "1414488603686629376",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/E6FF5AmUcAAWMfh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6FF5AmUcAAWMfh.jpg",
+					"url": "https://t.co/caFxUvS3VB",
+					"display_url": "pic.twitter.com/caFxUvS3VB",
+					"expanded_url": "https://twitter.com/SHINee/status/1414488611441971208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1112,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1414488603745394700,
+					"id_str": "1414488603745394690",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/E6FF5A0VIAIBbHw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6FF5A0VIAIBbHw.jpg",
+					"url": "https://t.co/caFxUvS3VB",
+					"display_url": "pic.twitter.com/caFxUvS3VB",
+					"expanded_url": "https://twitter.com/SHINee/status/1414488611441971208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1112,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1414488133253558300,
+		"in_reply_to_status_id_str": "1414488133253558277",
+		"in_reply_to_user_id": 887973863824306200,
+		"in_reply_to_user_id_str": "887973863824306176",
+		"in_reply_to_screen_name": "SHINee",
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "TAEMIN - The 3rd Mini Album Advice",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2045927,
+			"friends_count": 2,
+			"listed_count": 5208,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402197244539904003/NfjlPV9e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402197244539904003/NfjlPV9e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1623144852",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4221,
+		"favorite_count": 9931,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#ONEW #온유 #KEY #키\n#MINHO #민호 #TAEMIN #태민\n#SHINee #샤이니\n#marieclaire #마리끌레르 https://t.co/caFxUvS3VB"
+	},
+	{
 		"created_at": "Mon Jul 12 07:29:38 +0000 2021",
 		"id": 1414481619151331300,
 		"id_str": "1414487096618672138",
