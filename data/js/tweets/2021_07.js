@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 12 12:29:39 +0000 2021",
+		"id": 1414550760717652000,
+		"id_str": "1414562597639184388",
+		"full_text": "[🎥#페이스캠] 태연 - Weekend \n\n#인기가요 #TAEYEON #태연 #소녀시대 #GirlsGeneration #Weekend @GirlsGeneration\n\n📌https://t.co/bNSz1lLrD3 https://t.co/RvarEjZT2O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "페이스캠",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						30,
+						38
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						39,
+						42
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						49,
+						65
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						75,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bNSz1lLrD3",
+					"expanded_url": "https://youtu.be/rkjDzS1a0Yc",
+					"display_url": "youtu.be/rkjDzS1a0Yc",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1414549264835911700,
+					"id_str": "1414549264835911680",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E6F9D8_VoAAd-Lr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6F9D8_VoAAd-Lr.jpg",
+					"url": "https://t.co/RvarEjZT2O",
+					"display_url": "pic.twitter.com/RvarEjZT2O",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1414550760717651971/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414549264835911700,
+					"id_str": "1414549264835911680",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E6F9D8_VoAAd-Lr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6F9D8_VoAAd-Lr.jpg",
+					"url": "https://t.co/RvarEjZT2O",
+					"display_url": "pic.twitter.com/RvarEjZT2O",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1414550760717651971/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/qapZ7nOCns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qapZ7nOCns",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 473856,
+			"friends_count": 77,
+			"listed_count": 486,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 3302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1625972715",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 648,
+		"favorite_count": 981,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥#페이스캠] 태연 - Weekend \n\n#인기가요 #TAEYEON #태연 #소녀시대 #GirlsGeneration #Weekend @GirlsGeneration\n\n📌https://t.co/bNSz1lLrD3 https://t.co/RvarEjZT2O"
+	},
+	{
+		"created_at": "Mon Jul 12 12:20:22 +0000 2021",
+		"id": 1414553883997737000,
+		"id_str": "1414560263324377094",
+		"full_text": "[페이스캠4K] 태연 'Weekend' (TAEYEON FaceCam)│@ SBS Inkigayo_2021.07.11.\n\nhttps://t.co/ehRJF1yJVg\n\n#태연 #TAEYEON #Weekend\n#소녀시대 #GirlsGeneration\n#인기가요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						106,
+						114
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						121,
+						137
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						138,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ehRJF1yJVg",
+					"expanded_url": "https://youtu.be/rkjDzS1a0Yc",
+					"display_url": "youtu.be/rkjDzS1a0Yc",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3646177,
+			"friends_count": 4,
+			"listed_count": 5448,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1282,
+		"favorite_count": 2694,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[페이스캠4K] 태연 'Weekend' (TAEYEON FaceCam)│@ SBS Inkigayo_2021.07.11.\n\nhttps://t.co/ehRJF1yJVg\n\n#태연 #TAEYEON #Weekend\n#소녀시대 #GirlsGeneration\n#인기가요"
+	},
+	{
 		"created_at": "Mon Jul 12 11:20:22 +0000 2021",
 		"id": 1414540037257973800,
 		"id_str": "1414545161309229057",
