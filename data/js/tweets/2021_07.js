@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 12 16:52:48 +0000 2021",
+		"id": 1414627485988188200,
+		"id_str": "1414628820716507137",
+		"full_text": "우리 완디 성공적인 첫방🐿\n매일 저녁 8시 꼭! 놀러 오세요💙\n\n#웬디 #WENDY #완디 #웬디의영스트리트 #영스트리트 #영스 #레드벨벳 #RedVelvet https://t.co/mjkl0wYe5y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬디",
+					"indices": [
+						36,
+						39
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						51,
+						60
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "영스",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						78,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1414627475871527000,
+					"id_str": "1414627475871526912",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/E6HEMbzUcAAN_bF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6HEMbzUcAAN_bF.jpg",
+					"url": "https://t.co/mjkl0wYe5y",
+					"display_url": "pic.twitter.com/mjkl0wYe5y",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1414627485988188160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1097,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1316,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 621,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414627475871527000,
+					"id_str": "1414627475871526912",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/E6HEMbzUcAAN_bF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6HEMbzUcAAN_bF.jpg",
+					"url": "https://t.co/mjkl0wYe5y",
+					"display_url": "pic.twitter.com/mjkl0wYe5y",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1414627485988188160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1097,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1316,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 621,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1414627481693261800,
+					"id_str": "1414627481693261827",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/E6HEMxfVEAM2fXP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6HEMxfVEAM2fXP.jpg",
+					"url": "https://t.co/mjkl0wYe5y",
+					"display_url": "pic.twitter.com/mjkl0wYe5y",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1414627485988188160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1097,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1316,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 621,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/U7JtipmDEo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U7JtipmDEo",
+							"expanded_url": "https://youtu.be/lNvBbh5jDcA",
+							"display_url": "youtu.be/lNvBbh5jDcA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4319986,
+			"friends_count": 1,
+			"listed_count": 9163,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1622019868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3741,
+		"favorite_count": 8680,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리 완디 성공적인 첫방🐿\n매일 저녁 8시 꼭! 놀러 오세요💙\n\n#웬디 #WENDY #완디 #웬디의영스트리트 #영스트리트 #영스 #레드벨벳 #RedVelvet https://t.co/mjkl0wYe5y"
+	},
+	{
 		"created_at": "Mon Jul 12 14:12:21 +0000 2021",
 		"id": 1414588443800256500,
 		"id_str": "1414588443800256513",
