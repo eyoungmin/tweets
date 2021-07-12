@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 12 01:52:48 +0000 2021",
+		"id": 1414389575250858000,
+		"id_str": "1414402328732577795",
+		"full_text": "[#예술경영 웹진 : 기획특집①] \n&lt;샌프란시스코의 예술가 보장소득 실험&gt;\n\n469호 기획특집①  읽으러 가기👇👇👇\nhttps://t.co/A3Oj677rf7\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/Fs7GnJWhMf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "웹진",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						106,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A3Oj677rf7",
+					"expanded_url": "https://bit.ly/3hxGfiv",
+					"display_url": "bit.ly/3hxGfiv",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1414389551968125000,
+					"id_str": "1414389551968124930",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/E6DrzcMVgAIZF7t.png",
+					"media_url_https": "https://pbs.twimg.com/media/E6DrzcMVgAIZF7t.png",
+					"url": "https://t.co/Fs7GnJWhMf",
+					"display_url": "pic.twitter.com/Fs7GnJWhMf",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1414389575250857987/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 643,
+							"h": 309,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 643,
+							"h": 309,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 643,
+							"h": 309,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414389551968125000,
+					"id_str": "1414389551968124930",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/E6DrzcMVgAIZF7t.png",
+					"media_url_https": "https://pbs.twimg.com/media/E6DrzcMVgAIZF7t.png",
+					"url": "https://t.co/Fs7GnJWhMf",
+					"display_url": "pic.twitter.com/Fs7GnJWhMf",
+					"expanded_url": "https://twitter.com/weeklyAM/status/1414389575250857987/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 643,
+							"h": 309,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 643,
+							"h": 309,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 643,
+							"h": 309,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180261024,
+			"id_str": "180261024",
+			"name": "웹진≪예술경영≫",
+			"screen_name": "weeklyAM",
+			"location": "대학로 예술경영지원센터KAMS",
+			"description": "웹진≪예술경영≫",
+			"url": "https://t.co/qL8DWFa3K7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qL8DWFa3K7",
+							"expanded_url": "http://www.gokams.or.kr/webzine/",
+							"display_url": "gokams.or.kr/webzine/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6945,
+			"friends_count": 2951,
+			"listed_count": 101,
+			"created_at": "Thu Aug 19 05:30:26 +0000 2010",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763905572307546112/TMZitkC5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180261024/1553153321",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "7EDB5E",
+			"profile_sidebar_fill_color": "9DEB96",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예술경영 웹진 : 기획특집①] \n&lt;샌프란시스코의 예술가 보장소득 실험&gt;\n\n469호 기획특집①  읽으러 가기👇👇👇\nhttps://t.co/A3Oj677rf7\n\n#예술경영 #웹진 #예술경영지원센터 https://t.co/Fs7GnJWhMf"
+	},
+	{
 		"created_at": "Mon Jul 12 00:45:37 +0000 2021",
 		"id": 1414373942580551700,
 		"id_str": "1414385422512365571",
