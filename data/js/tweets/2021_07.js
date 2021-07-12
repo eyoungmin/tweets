@@ -1,6 +1,491 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 12 03:29:50 +0000 2021",
+		"id": 1414422407268298800,
+		"id_str": "1414426750730358788",
+		"full_text": "[Mbic's K-POP of the week🔎]\n일주일 내내 주말ing🍑🍑🍑🍑\n#태연 - 위켄드 (#Taeyeon - Weekend)♬\nMBC210710방송 https://t.co/a71CbCoJow",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "Taeyeon",
+					"indices": [
+						56,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1414394159952138200,
+					"id_str": "1414394159952138246",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/E6EJm2WVEAYNE2q.png",
+					"media_url_https": "https://pbs.twimg.com/media/E6EJm2WVEAYNE2q.png",
+					"url": "https://t.co/a71CbCoJow",
+					"display_url": "pic.twitter.com/a71CbCoJow",
+					"expanded_url": "https://twitter.com/withMBC/status/1414422407268298753/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414394159952138200,
+					"id_str": "1414394159952138246",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/E6EJm2WVEAYNE2q.png",
+					"media_url_https": "https://pbs.twimg.com/media/E6EJm2WVEAYNE2q.png",
+					"url": "https://t.co/a71CbCoJow",
+					"display_url": "pic.twitter.com/a71CbCoJow",
+					"expanded_url": "https://twitter.com/withMBC/status/1414422407268298753/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59927,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1414394159952138246/vid/720x720/NRXYQ9mgK-2wrD9R.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1414394159952138246/vid/320x320/k-u0rAc5mivM2ZU0.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1414394159952138246/vid/540x540/CtgA_Gyebk4X30A8.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1414394159952138246/pl/4zc_QiXnwKtWRvdq.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "MBC 방송 프로그램 홍보 트위터 MBC PR",
+			"url": "https://t.co/yOEvgSpDjG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yOEvgSpDjG",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1007047,
+			"friends_count": 10061,
+			"listed_count": 4219,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1621218372",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 446,
+		"favorite_count": 573,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Mbic's K-POP of the week🔎]\n일주일 내내 주말ing🍑🍑🍑🍑\n#태연 - 위켄드 (#Taeyeon - Weekend)♬\nMBC210710방송 https://t.co/a71CbCoJow"
+	},
+	{
+		"created_at": "Mon Jul 12 03:29:43 +0000 2021",
+		"id": 1414419300031606800,
+		"id_str": "1414426720883642368",
+		"full_text": "#TAEYEON ビデオメッセージ。\n\nニューシングル『Weekend』を今すぐ聴こう。\n\n@GirlsGeneration\n@gg_official_jp\n\n#AppleMusic\n#テヨン\nhttps://t.co/7M9wGB2yzT https://t.co/Ni7QXWnQKc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "AppleMusic",
+					"indices": [
+						80,
+						91
+					]
+				},
+				{
+					"text": "テヨン",
+					"indices": [
+						92,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						46,
+						62
+					]
+				},
+				{
+					"screen_name": "gg_official_jp",
+					"name": "少女時代 JAPAN OFFICIAL",
+					"id": 2585025200,
+					"id_str": "2585025200",
+					"indices": [
+						63,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7M9wGB2yzT",
+					"expanded_url": "https://apple.co/3hzNCG9",
+					"display_url": "apple.co/3hzNCG9",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1414419249351831600,
+					"id_str": "1414419249351831553",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/E6EG2soXEAM19SZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6EG2soXEAM19SZ.jpg",
+					"url": "https://t.co/Ni7QXWnQKc",
+					"display_url": "pic.twitter.com/Ni7QXWnQKc",
+					"expanded_url": "https://twitter.com/AppleMusicJapan/status/1414419300031606786/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1520,
+							"h": 832,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 657,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414419249351831600,
+					"id_str": "1414419249351831553",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/E6EG2soXEAM19SZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6EG2soXEAM19SZ.jpg",
+					"url": "https://t.co/Ni7QXWnQKc",
+					"display_url": "pic.twitter.com/Ni7QXWnQKc",
+					"expanded_url": "https://twitter.com/AppleMusicJapan/status/1414419300031606786/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1520,
+							"h": 832,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 657,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							95,
+							52
+						],
+						"duration_millis": 14600,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1414419249351831553/vid/492x270/18jFKG0HSgqC1uSs.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1414419249351831553/vid/1314x720/hMEaWWPwEmV-omy-.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1414419249351831553/pl/2J-R0RCXwWcVPi-o.m3u8?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1414419249351831553/vid/656x360/kgpcj23KdhMg02JU.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3156009252,
+			"id_str": "3156009252",
+			"name": "Apple Music Japan",
+			"screen_name": "AppleMusicJapan",
+			"location": "",
+			"description": "音楽の楽しみ方のすべてを一つに。",
+			"url": "http://t.co/PlNpH897yT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/PlNpH897yT",
+							"expanded_url": "http://apple.com/jp/music",
+							"display_url": "apple.com/jp/music",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86546,
+			"friends_count": 14,
+			"listed_count": 723,
+			"created_at": "Tue Apr 14 12:51:17 +0000 2015",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306029440145584128/Ykxqjhoi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306029440145584128/Ykxqjhoi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3156009252/1600216658",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 315,
+		"favorite_count": 604,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#TAEYEON ビデオメッセージ。\n\nニューシングル『Weekend』を今すぐ聴こう。\n\n@GirlsGeneration\n@gg_official_jp\n\n#AppleMusic\n#テヨン\nhttps://t.co/7M9wGB2yzT https://t.co/Ni7QXWnQKc"
+	},
+	{
 		"created_at": "Mon Jul 12 03:02:02 +0000 2021",
 		"id": 1414419755100950500,
 		"id_str": "1414419755100950529",
