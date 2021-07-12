@@ -1,6 +1,342 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 12 18:45:41 +0000 2021",
+		"id": 1414653283948372000,
+		"id_str": "1414657229106647043",
+		"full_text": "KCON:TACT 4 U DAY 1 Photomatic Unreleased Cuts! 💥📷\n\nCheck out these cuts from Backstage Behind! 🎈💞\n\n&lt;Backstage Behind&gt; is available to KCON:TACT PREMIUM members.\n\n📎 https://t.co/c8lH7cbKHY\n\n#KCONTACT #KCONTACT4U #LOONA #이달의소녀 #포토매틱 #포토매틱포토부스 https://t.co/VHAVbvuKSL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						196,
+						205
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						206,
+						217
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						218,
+						224
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						225,
+						231
+					]
+				},
+				{
+					"text": "포토매틱",
+					"indices": [
+						232,
+						237
+					]
+				},
+				{
+					"text": "포토매틱포토부스",
+					"indices": [
+						238,
+						247
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c8lH7cbKHY",
+					"expanded_url": "http://bit.ly/KCONTACT4U_VOD",
+					"display_url": "bit.ly/KCONTACT4U_VOD",
+					"indices": [
+						171,
+						194
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1414636676639432700,
+					"id_str": "1414636676639432712",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/E6HMj_VVIAg3-jr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6HMj_VVIAg3-jr.jpg",
+					"url": "https://t.co/VHAVbvuKSL",
+					"display_url": "pic.twitter.com/VHAVbvuKSL",
+					"expanded_url": "https://twitter.com/kconusa/status/1414653283948371982/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1844,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414636676639432700,
+					"id_str": "1414636676639432712",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/E6HMj_VVIAg3-jr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6HMj_VVIAg3-jr.jpg",
+					"url": "https://t.co/VHAVbvuKSL",
+					"display_url": "pic.twitter.com/VHAVbvuKSL",
+					"expanded_url": "https://twitter.com/kconusa/status/1414653283948371982/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1844,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1414636676735934500,
+					"id_str": "1414636676735934464",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/E6HMj_sVoAAfCXc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6HMj_sVoAAfCXc.jpg",
+					"url": "https://t.co/VHAVbvuKSL",
+					"display_url": "pic.twitter.com/VHAVbvuKSL",
+					"expanded_url": "https://twitter.com/kconusa/status/1414653283948371982/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1844,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1414636701775917000,
+					"id_str": "1414636701775917059",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/E6HMlc-VcAM-wDm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6HMlc-VcAM-wDm.jpg",
+					"url": "https://t.co/VHAVbvuKSL",
+					"display_url": "pic.twitter.com/VHAVbvuKSL",
+					"expanded_url": "https://twitter.com/kconusa/status/1414653283948371982/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1240,
+							"h": 1844,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1414636701872320500,
+					"id_str": "1414636701872320514",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/E6HMldVUcAIWwSa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6HMldVUcAIWwSa.jpg",
+					"url": "https://t.co/VHAVbvuKSL",
+					"display_url": "pic.twitter.com/VHAVbvuKSL",
+					"expanded_url": "https://twitter.com/kconusa/status/1414653283948371982/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1844,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 739451875,
+			"id_str": "739451875",
+			"name": "KCONUSA",
+			"screen_name": "kconusa",
+			"location": "Los Angeles, CA",
+			"description": "The official Twitter account of KCONUSA. #LetsKCON",
+			"url": "https://t.co/hfFB24vdQJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hfFB24vdQJ",
+							"expanded_url": "http://www.kconusa.com",
+							"display_url": "kconusa.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197365,
+			"friends_count": 5,
+			"listed_count": 432,
+			"created_at": "Sun Aug 05 23:40:55 +0000 2012",
+			"favourites_count": 2973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18762,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391543522545729542/uejKzOZL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391543522545729542/uejKzOZL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/739451875/1620604805",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KCON:TACT 4 U DAY 1 Photomatic Unreleased Cuts! 💥📷\n\nCheck out these cuts from Backstage Behind! 🎈💞\n\n&lt;Backstage Behind&gt; is available to KCON:TACT PREMIUM members.\n\n📎 https://t.co/c8lH7cbKHY\n\n#KCONTACT #KCONTACT4U #LOONA #이달의소녀 #포토매틱 #포토매틱포토부스 https://t.co/VHAVbvuKSL"
+	},
+	{
 		"created_at": "Mon Jul 12 16:52:48 +0000 2021",
 		"id": 1414627485988188200,
 		"id_str": "1414628820716507137",
