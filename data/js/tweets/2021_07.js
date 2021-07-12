@@ -1,10 +1,406 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 12 07:29:38 +0000 2021",
+		"id": 1414481619151331300,
+		"id_str": "1414487096618672138",
+		"full_text": "#더바디샵 NEW #화이트머스크 와 함께한 #조이 의 아름다운 순간을 공개합니다☺️ #JOY IS JOY!💚 조이는 가장 조이 다울 때 에너지가 넘치죠! 나를 더 나답게 깨우는 에너지, NEW 화이트머스크와 조이의 미소가 담긴 영상을 지금 바로 확인해보세요!✨@RVsmtown \n\nhttps://t.co/2aWcsgiXlY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "더바디샵",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "화이트머스크",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						24,
+						27
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						47,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						145,
+						154
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2aWcsgiXlY",
+					"expanded_url": "https://bit.ly/3hY3Ho2",
+					"display_url": "bit.ly/3hY3Ho2",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 102038546,
+			"id_str": "102038546",
+			"name": "Singles Korea 싱글즈",
+			"screen_name": "singlesmania",
+			"location": "seoul",
+			"description": "당당한 싱글들을 위한 즐거운 패션 매거진 싱글즈.",
+			"url": "https://t.co/0AqlouNorT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0AqlouNorT",
+							"expanded_url": "http://linktr.ee/Singlesmagazine",
+							"display_url": "linktr.ee/Singlesmagazine",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26538,
+			"friends_count": 1431,
+			"listed_count": 197,
+			"created_at": "Tue Jan 05 11:43:09 +0000 2010",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F3F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389450100162711553/CScqoQww_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389450100162711553/CScqoQww_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/102038546/1623998035",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCD",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 288,
+		"favorite_count": 458,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#더바디샵 NEW #화이트머스크 와 함께한 #조이 의 아름다운 순간을 공개합니다☺️ #JOY IS JOY!💚 조이는 가장 조이 다울 때 에너지가 넘치죠! 나를 더 나답게 깨우는 에너지, NEW 화이트머스크와 조이의 미소가 담긴 영상을 지금 바로 확인해보세요!✨@RVsmtown \n\nhttps://t.co/2aWcsgiXlY"
+	},
+	{
+		"created_at": "Mon Jul 12 07:09:35 +0000 2021",
+		"id": 1414480847596507100,
+		"id_str": "1414482053190594569",
+		"full_text": "#JOY #조이 #싱글즈 #Singles #레드벨벳 #RedVelvet https://t.co/hvEcPEFpqM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JOY",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "싱글즈",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "Singles",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						29,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1414480773894209500,
+					"id_str": "1414480773894209537",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414480773894209537/pu/img/yYETH5xtjLx2YS6i.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414480773894209537/pu/img/yYETH5xtjLx2YS6i.jpg",
+					"url": "https://t.co/hvEcPEFpqM",
+					"display_url": "pic.twitter.com/hvEcPEFpqM",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1414480847596507139/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414480773894209500,
+					"id_str": "1414480773894209537",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414480773894209537/pu/img/yYETH5xtjLx2YS6i.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414480773894209537/pu/img/yYETH5xtjLx2YS6i.jpg",
+					"url": "https://t.co/hvEcPEFpqM",
+					"display_url": "pic.twitter.com/hvEcPEFpqM",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1414480847596507139/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 27333,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414480773894209537/pu/vid/480x600/Tgl8myYBVPg7RXYy.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414480773894209537/pu/vid/320x400/v0GJcSOxB1N3trGg.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414480773894209537/pu/vid/720x900/uJQIeNCP3hBxqdu1.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1414480773894209537/pu/pl/xLZhWmxO1VY2ybHN.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/U7JtipmDEo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U7JtipmDEo",
+							"expanded_url": "https://youtu.be/lNvBbh5jDcA",
+							"display_url": "youtu.be/lNvBbh5jDcA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4318677,
+			"friends_count": 1,
+			"listed_count": 9159,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1622019868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4466,
+		"favorite_count": 12335,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#JOY #조이 #싱글즈 #Singles #레드벨벳 #RedVelvet https://t.co/hvEcPEFpqM"
+	},
+	{
 		"created_at": "Mon Jul 12 06:45:39 +0000 2021",
 		"id": 1414464760557363200,
 		"id_str": "1414476030191063045",
-		"full_text": "#LOONA, who makes everyone become a LOONA-tic is finally at #SelfPT ‼\nWith their cuteness and beauty ✨ they painted all over Self PT with their colors🎨💕Orbit ‼ Come to THE SHOW at 6PM, on 7/13 (Tues.), ready to fall deeply in love again❤️‍🔥\n\n#LOONA #PTT #THESHOW @loonatheworld https://t.co/OauXHHrpJl",
+		"full_text": "#LOONA, who makes everyone become a LOONA-tic is finally at #SelfPT ‼\nWith their cuteness and beauty ✨ they painted all over Self PT with their colors🎨💕Orbit ‼ Come to THE SHOW at 6PM, on 7/13 (Tues.), ready to fall deeply in love again❤️🔥\n\n#LOONA #PTT #THESHOW @loonatheworld https://t.co/OauXHHrpJl",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -207,13 +603,13 @@ Grailbird.data.tweets_2021_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "#LOONA, who makes everyone become a LOONA-tic is finally at #SelfPT ‼\nWith their cuteness and beauty ✨ they painted all over Self PT with their colors🎨💕Orbit ‼ Come to THE SHOW at 6PM, on 7/13 (Tues.), ready to fall deeply in love again❤️‍🔥\n\n#LOONA #PTT #THESHOW @loonatheworld https://t.co/OauXHHrpJl"
+		"text": "#LOONA, who makes everyone become a LOONA-tic is finally at #SelfPT ‼\nWith their cuteness and beauty ✨ they painted all over Self PT with their colors🎨💕Orbit ‼ Come to THE SHOW at 6PM, on 7/13 (Tues.), ready to fall deeply in love again❤️🔥\n\n#LOONA #PTT #THESHOW @loonatheworld https://t.co/OauXHHrpJl"
 	},
 	{
 		"created_at": "Mon Jul 12 06:45:36 +0000 2021",
 		"id": 1414464728332607500,
 		"id_str": "1414476017138343936",
-		"full_text": "매달 보고 또 봐도 계속 보고싶은 #이달의_소녀 가 드디어 #셀피티 에 찾아왔습니다‼ \n그 누구도 막을 수 없는 잔망미와 비주얼로✨ 셀피티를 이달소 색깔로 야무지게 칠했다고 하는데🎨💕 오빛‼ 짱달소에게 한번 더 입덕 당할 준비하고 7/13(화) 6시에 #더쇼 로 오세요❤️‍🔥❤️‍🔥 #PTT @loonatheworld https://t.co/MGIVqEUdly",
+		"full_text": "매달 보고 또 봐도 계속 보고싶은 #이달의_소녀 가 드디어 #셀피티 에 찾아왔습니다‼ \n그 누구도 막을 수 없는 잔망미와 비주얼로✨ 셀피티를 이달소 색깔로 야무지게 칠했다고 하는데🎨💕 오빛‼ 짱달소에게 한번 더 입덕 당할 준비하고 7/13(화) 6시에 #더쇼 로 오세요❤️🔥❤️🔥 #PTT @loonatheworld https://t.co/MGIVqEUdly",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -409,7 +805,7 @@ Grailbird.data.tweets_2021_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "매달 보고 또 봐도 계속 보고싶은 #이달의_소녀 가 드디어 #셀피티 에 찾아왔습니다‼ \n그 누구도 막을 수 없는 잔망미와 비주얼로✨ 셀피티를 이달소 색깔로 야무지게 칠했다고 하는데🎨💕 오빛‼ 짱달소에게 한번 더 입덕 당할 준비하고 7/13(화) 6시에 #더쇼 로 오세요❤️‍🔥❤️‍🔥 #PTT @loonatheworld https://t.co/MGIVqEUdly"
+		"text": "매달 보고 또 봐도 계속 보고싶은 #이달의_소녀 가 드디어 #셀피티 에 찾아왔습니다‼ \n그 누구도 막을 수 없는 잔망미와 비주얼로✨ 셀피티를 이달소 색깔로 야무지게 칠했다고 하는데🎨💕 오빛‼ 짱달소에게 한번 더 입덕 당할 준비하고 7/13(화) 6시에 #더쇼 로 오세요❤️🔥❤️🔥 #PTT @loonatheworld https://t.co/MGIVqEUdly"
 	},
 	{
 		"created_at": "Mon Jul 12 06:29:38 +0000 2021",
