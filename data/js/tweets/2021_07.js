@@ -1,6 +1,669 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 13 08:52:47 +0000 2021",
+		"id": 1414857130973307000,
+		"id_str": "1414870412148854784",
+		"full_text": "[아이돌리그] 이달의 소녀 (LOONA)\n게임 앞에서 돌변한 이달의 소녀💫 이것은 스포츠인가 예능인가🤔\n\n💟 7월 17일 토요일 저녁 8시 #STATV\n☞ https://t.co/rO26v41Vxr\n\n#이달의소녀 #LOONA\n@loonatheworld https://t.co/CQ8xUIoG3n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATV",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						119,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						126,
+						140
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rO26v41Vxr",
+					"expanded_url": "https://youtu.be/Mhu1I2_mhmE",
+					"display_url": "youtu.be/Mhu1I2_mhmE",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1414823731055136800,
+					"id_str": "1414823731055136782",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/E6J3BZnVIAMCReG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6J3BZnVIAMCReG.jpg",
+					"url": "https://t.co/CQ8xUIoG3n",
+					"display_url": "pic.twitter.com/CQ8xUIoG3n",
+					"expanded_url": "https://twitter.com/STATVOFFICIAL/status/1414857130973306881/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414823731055136800,
+					"id_str": "1414823731055136782",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/E6J3BZnVIAMCReG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6J3BZnVIAMCReG.jpg",
+					"url": "https://t.co/CQ8xUIoG3n",
+					"display_url": "pic.twitter.com/CQ8xUIoG3n",
+					"expanded_url": "https://twitter.com/STATVOFFICIAL/status/1414857130973306881/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1414823731055136782/vid/480x270/s5EpdTTUqGiEo4la.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1414823731055136782/vid/1280x720/jkbBNkDYTsDYsH5i.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1414823731055136782/vid/640x360/9ClhOrBW5vqF-DJb.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1414823731055136782/pl/jjv0YHQ7izsa6lW2.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "게임 앞에서 돌변한 이달의 소녀💫 이것은 스포츠인가 예능인가🤔｜아이돌리그",
+						"description": "💟 7월 17일 토요일 저녁 8시 (KST / ENG SUB) #STATV #아이돌리그",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/Mhu1I2_mhmE"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1252499532677406700,
+			"id_str": "1252499532677406720",
+			"name": "STATV",
+			"screen_name": "STATVOFFICIAL",
+			"location": "",
+			"description": "⭐ 아이돌리그 토요일 저녁 8시 ​\n⭐ 별의별 재미 STATV (스타티비) ​\n📺 KT Olleh tv 89 📺 SK Btv 137 📺 LG U+tv 99 ​\n ​\n💟 7월 17일 토요일 저녁 8시 (KST / ENG SUB) ​\n#아이돌리그 #이달의소녀 #LOONA",
+			"url": "https://t.co/hXQ9XpmKUd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hXQ9XpmKUd",
+							"expanded_url": "https://www.statv.co.kr/",
+							"display_url": "statv.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6879,
+			"friends_count": 11,
+			"listed_count": 26,
+			"created_at": "Tue Apr 21 07:29:13 +0000 2020",
+			"favourites_count": 333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1316939204778102785/sMklT9hP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1316939204778102785/sMklT9hP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1252499532677406720/1602816576",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1386,
+		"favorite_count": 4212,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[아이돌리그] 이달의 소녀 (LOONA)\n게임 앞에서 돌변한 이달의 소녀💫 이것은 스포츠인가 예능인가🤔\n\n💟 7월 17일 토요일 저녁 8시 #STATV\n☞ https://t.co/rO26v41Vxr\n\n#이달의소녀 #LOONA\n@loonatheworld https://t.co/CQ8xUIoG3n"
+	},
+	{
+		"created_at": "Tue Jul 13 08:45:36 +0000 2021",
+		"id": 1414854088982864000,
+		"id_str": "1414868604248629252",
+		"full_text": "[#21세기잠방]\n선명하고 다양한 색이 있는 곳, \n여기는 모로코의 작은 도시 마라케시야.\n.\n어느 낯선 도시에서\n#이달의소녀 여진이가 보내온 편지.\n지금 네이버 #오디오클립 에서 들으실 수 있습니다.\n@loonatheworld #LOONA #YeoJin\nhttps://t.co/83ykglr0j2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "21세기잠방",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "오디오클립",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						128,
+						134
+					]
+				},
+				{
+					"text": "YeoJin",
+					"indices": [
+						135,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						113,
+						127
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/83ykglr0j2",
+					"expanded_url": "https://audioclip.naver.com/channels/4646/clips/131",
+					"display_url": "audioclip.naver.com/channels/4646/…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 904627296266358800,
+			"id_str": "904627296266358785",
+			"name": "MOMO X(모모엑스)",
+			"screen_name": "momox_official",
+			"location": "",
+			"description": "모바일 미디어 그룹 모모콘이 선보이는 신개념 예능 브랜드 #MOMOX 의 공식 트위터입니다 ✌🏻",
+			"url": "https://t.co/ym1qJkvs8S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ym1qJkvs8S",
+							"expanded_url": "https://www.youtube.com/MOMOXMEDIA",
+							"display_url": "youtube.com/MOMOXMEDIA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5950,
+			"friends_count": 0,
+			"listed_count": 44,
+			"created_at": "Mon Sep 04 08:48:49 +0000 2017",
+			"favourites_count": 229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1032100418317254656/V4y9tAhy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032100418317254656/V4y9tAhy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/904627296266358785/1534906876",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#21세기잠방]\n선명하고 다양한 색이 있는 곳, \n여기는 모로코의 작은 도시 마라케시야.\n.\n어느 낯선 도시에서\n#이달의소녀 여진이가 보내온 편지.\n지금 네이버 #오디오클립 에서 들으실 수 있습니다.\n@loonatheworld #LOONA #YeoJin\nhttps://t.co/83ykglr0j2"
+	},
+	{
+		"created_at": "Tue Jul 13 08:29:38 +0000 2021",
+		"id": 1414849575974695000,
+		"id_str": "1414864585719525380",
+		"full_text": "❤210711 인기가요 엔딩맛집\n\n빛나는 미모로 인기가요 무대 조명 이겨버린 태연의 무대!!\n엔딩맛집에서 확인하세요💜\n\n링크를 확인해주세요↙♥\nhttps://t.co/mn09hT24Wk\n\n#인기가요 #inkigayo #엔딩맛집 #태연 #TAEYEON #Weekend @GirlsGeneration https://t.co/uafNIS2Dey",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인기가요",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "inkigayo",
+					"indices": [
+						111,
+						120
+					]
+				},
+				{
+					"text": "엔딩맛집",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						131,
+						139
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						140,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						149,
+						165
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mn09hT24Wk",
+					"expanded_url": "https://programs.sbs.co.kr/enter/gayo/visualboard/68458?cmd=view&page=1&board_no=14303",
+					"display_url": "programs.sbs.co.kr/enter/gayo/vis…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1414834717233356800,
+					"id_str": "1414834717233356800",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E6KAreCVoAAZHIA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E6KAreCVoAAZHIA.jpg",
+					"url": "https://t.co/uafNIS2Dey",
+					"display_url": "pic.twitter.com/uafNIS2Dey",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1414849575974694931/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414834717233356800,
+					"id_str": "1414834717233356800",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E6KAreCVoAAZHIA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E6KAreCVoAAZHIA.jpg",
+					"url": "https://t.co/uafNIS2Dey",
+					"display_url": "pic.twitter.com/uafNIS2Dey",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1414849575974694931/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E6KAreCVoAAZHIA.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130755875210088400,
+			"id_str": "1130755875210088448",
+			"name": "SBS인기가요 (SBS Inkigayo)",
+			"screen_name": "sbsnoriter",
+			"location": "Seoul, Republic of Korea",
+			"description": "일요일엔 인기가요! 'SBS인기가요' 공식 채널에서만 만날 수 있는 다양한 콘텐츠를 지금 만나보세요 ~♡ \n--------------------------------\n매주 일요일 오후 3시 50분 \nEvery Sun 3:50(KST) SBS Live on Air",
+			"url": "https://t.co/skgJieaVqa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/skgJieaVqa",
+							"expanded_url": "https://programs.sbs.co.kr/enter/gayo/main",
+							"display_url": "programs.sbs.co.kr/enter/gayo/main",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76057,
+			"friends_count": 0,
+			"listed_count": 312,
+			"created_at": "Tue May 21 08:43:03 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1280728616762933253/4YOXJPkh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1280728616762933253/4YOXJPkh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130755875210088448/1615255987",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 334,
+		"favorite_count": 660,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤210711 인기가요 엔딩맛집\n\n빛나는 미모로 인기가요 무대 조명 이겨버린 태연의 무대!!\n엔딩맛집에서 확인하세요💜\n\n링크를 확인해주세요↙♥\nhttps://t.co/mn09hT24Wk\n\n#인기가요 #inkigayo #엔딩맛집 #태연 #TAEYEON #Weekend @GirlsGeneration https://t.co/uafNIS2Dey"
+	},
+	{
 		"created_at": "Tue Jul 13 07:49:12 +0000 2021",
 		"id": 1414854408177954800,
 		"id_str": "1414854408177954816",
