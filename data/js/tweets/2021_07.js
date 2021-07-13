@@ -1,6 +1,705 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 13 05:52:59 +0000 2021",
+		"id": 1414510530484605000,
+		"id_str": "1414825161526857729",
+		"full_text": "Singer-Songwriter SEORI talks about working with @TXT_bighit, new music being in the works, wanting to be recognized as the only SEORI &amp; more in an exclusive interview with Pinkvilla. \n\nWatch here: https://t.co/OLq2iBVjmr\n\n#SEORI #THELONGNIGHT #TXT_FREEZE @seori_official https://t.co/XgsGvVmJhB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SEORI",
+					"indices": [
+						227,
+						233
+					]
+				},
+				{
+					"text": "THELONGNIGHT",
+					"indices": [
+						234,
+						247
+					]
+				},
+				{
+					"text": "TXT_FREEZE",
+					"indices": [
+						248,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TXT_bighit",
+					"name": "TXT OFFICIAL",
+					"id": 1083198663424237600,
+					"id_str": "1083198663424237569",
+					"indices": [
+						49,
+						60
+					]
+				},
+				{
+					"screen_name": "seori_official",
+					"name": "Seori",
+					"id": 1143072158467231700,
+					"id_str": "1143072158467231745",
+					"indices": [
+						260,
+						275
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OLq2iBVjmr",
+					"expanded_url": "https://youtu.be/P-doogGS6OE",
+					"display_url": "youtu.be/P-doogGS6OE",
+					"indices": [
+						202,
+						225
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1414510528039321600,
+					"id_str": "1414510528039321600",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/E6FZ1LLVgAA0bNz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6FZ1LLVgAA0bNz.jpg",
+					"url": "https://t.co/XgsGvVmJhB",
+					"display_url": "pic.twitter.com/XgsGvVmJhB",
+					"expanded_url": "https://twitter.com/pinkvilla/status/1414510530484604929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414510528039321600,
+					"id_str": "1414510528039321600",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/E6FZ1LLVgAA0bNz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6FZ1LLVgAA0bNz.jpg",
+					"url": "https://t.co/XgsGvVmJhB",
+					"display_url": "pic.twitter.com/XgsGvVmJhB",
+					"expanded_url": "https://twitter.com/pinkvilla/status/1414510530484604929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14182050,
+			"id_str": "14182050",
+			"name": "Pinkvilla",
+			"screen_name": "pinkvilla",
+			"location": "Mumbai, India",
+			"description": "Your daily dose of Bollywood gossip and fashion. Instagram : https://t.co/lY0KsYnvpB YouTube: https://t.co/3mymh8wDCX",
+			"url": "https://t.co/JfVNRfT89S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JfVNRfT89S",
+							"expanded_url": "https://pinkvilla.onelink.me/rOrx/93285bed",
+							"display_url": "pinkvilla.onelink.me/rOrx/93285bed",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/lY0KsYnvpB",
+							"expanded_url": "https://Instagram.com/pinkvilla",
+							"display_url": "Instagram.com/pinkvilla",
+							"indices": [
+								61,
+								84
+							]
+						},
+						{
+							"url": "https://t.co/3mymh8wDCX",
+							"expanded_url": "https://www.youtube.com/pinkvilla",
+							"display_url": "youtube.com/pinkvilla",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 950872,
+			"friends_count": 756,
+			"listed_count": 600,
+			"created_at": "Thu Mar 20 03:45:33 +0000 2008",
+			"favourites_count": 488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 238697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/418848443881119744/uV7dEImQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/418848443881119744/uV7dEImQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14182050/1620991788",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 243,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Singer-Songwriter SEORI talks about working with @TXT_bighit, new music being in the works, wanting to be recognized as the only SEORI &amp; more in an exclusive interview with Pinkvilla. \n\nWatch here: https://t.co/OLq2iBVjmr\n\n#SEORI #THELONGNIGHT #TXT_FREEZE @seori_official https://t.co/XgsGvVmJhB"
+	},
+	{
+		"created_at": "Tue Jul 13 05:52:48 +0000 2021",
+		"id": 1414543013993455600,
+		"id_str": "1414825114244427778",
+		"full_text": "Merging real-life talent with AI innovation, @aespa_official offer a new beginning for K-Pop...\n\n@malvika_padin26 profiles this daring new group; \"We give our all into each song...\"\n\nhttps://t.co/tXMVQlbHqH\n\n#AESPA https://t.co/IBfIzZUnem",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AESPA",
+					"indices": [
+						208,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						45,
+						60
+					]
+				},
+				{
+					"screen_name": "malvika_padin26",
+					"name": "Malvika Padin",
+					"id": 900259514133340200,
+					"id_str": "900259514133340160",
+					"indices": [
+						97,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tXMVQlbHqH",
+					"expanded_url": "https://www.clashmusic.com/features/aespa-is-k-pop-reinvented",
+					"display_url": "clashmusic.com/features/aespa…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1414542560203268000,
+					"id_str": "1414542560203268098",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/E6F29sSWYAIQWGs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6F29sSWYAIQWGs.jpg",
+					"url": "https://t.co/IBfIzZUnem",
+					"display_url": "pic.twitter.com/IBfIzZUnem",
+					"expanded_url": "https://twitter.com/ClashMagazine/status/1414543013993455616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 547,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 547,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414542560203268000,
+					"id_str": "1414542560203268098",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/E6F29sSWYAIQWGs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6F29sSWYAIQWGs.jpg",
+					"url": "https://t.co/IBfIzZUnem",
+					"display_url": "pic.twitter.com/IBfIzZUnem",
+					"expanded_url": "https://twitter.com/ClashMagazine/status/1414543013993455616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 547,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 547,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14236207,
+			"id_str": "14236207",
+			"name": "CLASH",
+			"screen_name": "ClashMagazine",
+			"location": "London, England",
+			"description": "CLASH Magazine. Adventures in music, fashion, film and more. Online, and in print | The 'Future Now' issue is here: https://t.co/uW09xNkZ8H",
+			"url": "https://t.co/pvPJeir5NH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pvPJeir5NH",
+							"expanded_url": "http://www.clashmusic.com",
+							"display_url": "clashmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uW09xNkZ8H",
+							"expanded_url": "http://shorturl.at/euxCL",
+							"display_url": "shorturl.at/euxCL",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 82323,
+			"friends_count": 7815,
+			"listed_count": 1624,
+			"created_at": "Thu Mar 27 15:48:57 +0000 2008",
+			"favourites_count": 30641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 126003,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383021360558014464/t1Ew2p5P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383021360558014464/t1Ew2p5P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14236207/1621852563",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1216,
+		"favorite_count": 5064,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Merging real-life talent with AI innovation, @aespa_official offer a new beginning for K-Pop...\n\n@malvika_padin26 profiles this daring new group; \"We give our all into each song...\"\n\nhttps://t.co/tXMVQlbHqH\n\n#AESPA https://t.co/IBfIzZUnem"
+	},
+	{
+		"created_at": "Tue Jul 13 05:45:37 +0000 2021",
+		"id": 1414820419874427000,
+		"id_str": "1414823306377695232",
+		"full_text": "[이달의소녀킼킼 #219]\n오빛 만나기 전 #이달의소녀 는 대기실에서🕺💃💞\n\n#LOONA #LOONAKick https://t.co/K457QGPH8x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						50,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1414820271207321600,
+					"id_str": "1414820271207321602",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414820271207321602/pu/img/VTEjc0eWPYTz7xqa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414820271207321602/pu/img/VTEjc0eWPYTz7xqa.jpg",
+					"url": "https://t.co/K457QGPH8x",
+					"display_url": "pic.twitter.com/K457QGPH8x",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1414820419874426883/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414820271207321600,
+					"id_str": "1414820271207321602",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414820271207321602/pu/img/VTEjc0eWPYTz7xqa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414820271207321602/pu/img/VTEjc0eWPYTz7xqa.jpg",
+					"url": "https://t.co/K457QGPH8x",
+					"display_url": "pic.twitter.com/K457QGPH8x",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1414820419874426883/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 26167,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414820271207321602/pu/vid/720x1280/rZ-Z9EoGQtmO-ycu.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414820271207321602/pu/vid/320x568/kXTLaRZKYyoflpX5.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1414820271207321602/pu/pl/hftNItp3RQXolVki.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414820271207321602/pu/vid/480x852/f8wwsrIaM65pgzfi.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 769316,
+			"friends_count": 1,
+			"listed_count": 7668,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3081,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4026,
+		"favorite_count": 10758,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀킼킼 #219]\n오빛 만나기 전 #이달의소녀 는 대기실에서🕺💃💞\n\n#LOONA #LOONAKick https://t.co/K457QGPH8x"
+	},
+	{
 		"created_at": "Tue Jul 13 04:15:19 +0000 2021",
 		"id": 1414796043556851700,
 		"id_str": "1414800584109039633",
