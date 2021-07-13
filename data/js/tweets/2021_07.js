@@ -1,6 +1,1393 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 13 09:52:56 +0000 2021",
+		"id": 1414874361752813600,
+		"id_str": "1414885546653102107",
+		"full_text": "#LOONA has been nominated as THE SHOW CHOICE on ‘THE SHOW’ again this week💫 Vote for 🌙 LOONA🌙 during the live voting on the ‘STARPASS’ app! 'PTT (Paint The Town)’ 많.관.부 until the end📢❤️\n\n🏛 https://t.co/D7Xie0q7Wp (iOS)\n🏛 https://t.co/pSqWBvvRG7 (Android)\n\n#이달의소녀",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						256,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D7Xie0q7Wp",
+					"expanded_url": "https://apple.co/3wcD0RC",
+					"display_url": "apple.co/3wcD0RC",
+					"indices": [
+						189,
+						212
+					]
+				},
+				{
+					"url": "https://t.co/pSqWBvvRG7",
+					"expanded_url": "https://bit.ly/3AlZy5v",
+					"display_url": "bit.ly/3AlZy5v",
+					"indices": [
+						221,
+						244
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1414874257578872800,
+		"in_reply_to_status_id_str": "1414874257578872834",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 769490,
+			"friends_count": 1,
+			"listed_count": 7658,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3084,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 652,
+		"favorite_count": 2452,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LOONA has been nominated as THE SHOW CHOICE on ‘THE SHOW’ again this week💫 Vote for 🌙 LOONA🌙 during the live voting on the ‘STARPASS’ app! 'PTT (Paint The Town)’ 많.관.부 until the end📢❤️\n\n🏛 https://t.co/D7Xie0q7Wp (iOS)\n🏛 https://t.co/pSqWBvvRG7 (Android)\n\n#이달의소녀"
+	},
+	{
+		"created_at": "Tue Jul 13 09:46:02 +0000 2021",
+		"id": 1414882567560450000,
+		"id_str": "1414883811821772805",
+		"full_text": "지우가 츄 된 썰.gif\n힘들때마다 꺼내보는 선물같은🎁 #츄 짤❤️\n\n&lt;#라디오스타&gt; 매주 수요일 밤 10시 20분에 만나요 제발~\nMBC210707방송 #이달의소녀 #loona https://t.co/qBwwcMff1H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "츄",
+					"indices": [
+						31,
+						33
+					]
+				},
+				{
+					"text": "라디오스타",
+					"indices": [
+						43,
+						49
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "loona",
+					"indices": [
+						99,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1414877466900844500,
+					"id_str": "1414877466900844544",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/E6KsJzyVcAMF7xc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6KsJzyVcAMF7xc.jpg",
+					"url": "https://t.co/qBwwcMff1H",
+					"display_url": "pic.twitter.com/qBwwcMff1H",
+					"expanded_url": "https://twitter.com/withMBC/status/1414882567560450052/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 573,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 950,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 950,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414877466900844500,
+					"id_str": "1414877466900844544",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/E6KsJzyVcAMF7xc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6KsJzyVcAMF7xc.jpg",
+					"url": "https://t.co/qBwwcMff1H",
+					"display_url": "pic.twitter.com/qBwwcMff1H",
+					"expanded_url": "https://twitter.com/withMBC/status/1414882567560450052/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 573,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 950,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 950,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							19
+						],
+						"duration_millis": 17985,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1414877466900844544/vid/480x570/sK9NJzQtCSk4x_i3.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1414877466900844544/pl/tk1gvXbSzeuyC1Tx.m3u8?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1414877466900844544/vid/320x380/C2EBjqCJRG5cODYi.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1414877466900844544/vid/720x854/d5akC5cNhjBSCTj9.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "MBC 방송 프로그램 홍보 트위터 MBC PR",
+			"url": "https://t.co/yOEvgSpDjG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yOEvgSpDjG",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1006925,
+			"friends_count": 10061,
+			"listed_count": 4221,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1621218372",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지우가 츄 된 썰.gif\n힘들때마다 꺼내보는 선물같은🎁 #츄 짤❤️\n\n&lt;#라디오스타&gt; 매주 수요일 밤 10시 20분에 만나요 제발~\nMBC210707방송 #이달의소녀 #loona https://t.co/qBwwcMff1H"
+	},
+	{
+		"created_at": "Tue Jul 13 09:45:58 +0000 2021",
+		"id": 1414876833644900400,
+		"id_str": "1414883794600046592",
+		"full_text": "KCON:TACT 4 U FanPick Cam &lt;CENTER CAM &amp; ALL CAM&gt; VOD DAY 1 💌\n\n🔗 https://t.co/62VVWFkMHL\n\n*&lt;FanPick Cam VOD&gt;はKCON:TACT PREMIUMのみ視聴可能です。\n\n#HASUNGWOON #HIGHLIGHT #LOONA #ONEUS  #P1Harmony\n#KCONTACT #KCONTACT4U https://t.co/nsxmPnPKpp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HASUNGWOON",
+					"indices": [
+						152,
+						163
+					]
+				},
+				{
+					"text": "HIGHLIGHT",
+					"indices": [
+						164,
+						174
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						175,
+						181
+					]
+				},
+				{
+					"text": "ONEUS",
+					"indices": [
+						182,
+						188
+					]
+				},
+				{
+					"text": "P1Harmony",
+					"indices": [
+						190,
+						200
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						201,
+						210
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						211,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/62VVWFkMHL",
+					"expanded_url": "http://bit.ly/KCONTACT4U_VOD",
+					"display_url": "bit.ly/KCONTACT4U_VOD",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1414876703772446700,
+					"id_str": "1414876703772446724",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Km3aFVEAQ7gl2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Km3aFVEAQ7gl2.jpg",
+					"url": "https://t.co/nsxmPnPKpp",
+					"display_url": "pic.twitter.com/nsxmPnPKpp",
+					"expanded_url": "https://twitter.com/kconjapan/status/1414876833644900353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414876703772446700,
+					"id_str": "1414876703772446724",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Km3aFVEAQ7gl2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Km3aFVEAQ7gl2.jpg",
+					"url": "https://t.co/nsxmPnPKpp",
+					"display_url": "pic.twitter.com/nsxmPnPKpp",
+					"expanded_url": "https://twitter.com/kconjapan/status/1414876833644900353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1414876724353912800,
+					"id_str": "1414876724353912833",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Km4mwVUAEUf93.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Km4mwVUAEUf93.jpg",
+					"url": "https://t.co/nsxmPnPKpp",
+					"display_url": "pic.twitter.com/nsxmPnPKpp",
+					"expanded_url": "https://twitter.com/kconjapan/status/1414876833644900353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1414876763834835000,
+					"id_str": "1414876763834834945",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Km651UYAEvjOK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Km651UYAEvjOK.jpg",
+					"url": "https://t.co/nsxmPnPKpp",
+					"display_url": "pic.twitter.com/nsxmPnPKpp",
+					"expanded_url": "https://twitter.com/kconjapan/status/1414876833644900353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3017029196,
+			"id_str": "3017029196",
+			"name": "KCON Japan",
+			"screen_name": "kconjapan",
+			"location": "",
+			"description": "世界最大級のK-Cultureフェスティバル『KCON JAPAN』の公式Twitterです！\n「KCON:TACT 4 U」 6/19(SAT)~6/27(SUN)\n📺 YouTube：KCON Official  / Mnet K-POP",
+			"url": "https://t.co/etAcwG6OZj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/etAcwG6OZj",
+							"expanded_url": "http://kconofficial.com/jp/",
+							"display_url": "kconofficial.com/jp/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 154901,
+			"friends_count": 131,
+			"listed_count": 319,
+			"created_at": "Thu Feb 12 06:02:55 +0000 2015",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5ABB5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391537064353558530/QRfa0Egm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391537064353558530/QRfa0Egm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3017029196/1620603263",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "KCON:TACT 4 U FanPick Cam &lt;CENTER CAM &amp; ALL CAM&gt; VOD DAY 1 💌\n\n🔗 https://t.co/62VVWFkMHL\n\n*&lt;FanPick Cam VOD&gt;はKCON:TACT PREMIUMのみ視聴可能です。\n\n#HASUNGWOON #HIGHLIGHT #LOONA #ONEUS  #P1Harmony\n#KCONTACT #KCONTACT4U https://t.co/nsxmPnPKpp"
+	},
+	{
+		"created_at": "Tue Jul 13 09:45:52 +0000 2021",
+		"id": 1414874257578872800,
+		"id_str": "1414883768880361473",
+		"full_text": "#이달의소녀 가 이번 주도 ‘더쇼’ 1위 후보로 선정되었대요, 오빛💫 실시간 투표가 진행되는 'STARPASS' 앱에 접속하여 🌙이달의 소녀🌙 꼭 투표해 주세요! 'PTT (Paint The Town)’ 끝까지 많.관.부📢❤️\n\n🏛 https://t.co/D7Xie0q7Wp (iOS)\n🏛 https://t.co/pSqWBvvRG7 (Android)\n\n#LOONA https://t.co/Q9TO66nVNW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						197,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D7Xie0q7Wp",
+					"expanded_url": "https://apple.co/3wcD0RC",
+					"display_url": "apple.co/3wcD0RC",
+					"indices": [
+						130,
+						153
+					]
+				},
+				{
+					"url": "https://t.co/pSqWBvvRG7",
+					"expanded_url": "https://bit.ly/3AlZy5v",
+					"display_url": "bit.ly/3AlZy5v",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1414873010696122400,
+					"id_str": "1414873010696122370",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/E6KjgcTUcAIE7tq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6KjgcTUcAIE7tq.jpg",
+					"url": "https://t.co/Q9TO66nVNW",
+					"display_url": "pic.twitter.com/Q9TO66nVNW",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1414874257578872834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414873010696122400,
+					"id_str": "1414873010696122370",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/E6KjgcTUcAIE7tq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6KjgcTUcAIE7tq.jpg",
+					"url": "https://t.co/Q9TO66nVNW",
+					"display_url": "pic.twitter.com/Q9TO66nVNW",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1414874257578872834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 769490,
+			"friends_count": 1,
+			"listed_count": 7658,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3084,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3534,
+		"favorite_count": 9983,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 가 이번 주도 ‘더쇼’ 1위 후보로 선정되었대요, 오빛💫 실시간 투표가 진행되는 'STARPASS' 앱에 접속하여 🌙이달의 소녀🌙 꼭 투표해 주세요! 'PTT (Paint The Town)’ 끝까지 많.관.부📢❤️\n\n🏛 https://t.co/D7Xie0q7Wp (iOS)\n🏛 https://t.co/pSqWBvvRG7 (Android)\n\n#LOONA https://t.co/Q9TO66nVNW"
+	},
+	{
+		"created_at": "Tue Jul 13 09:45:48 +0000 2021",
+		"id": 1414874045976252400,
+		"id_str": "1414883751423848452",
+		"full_text": "[★EP.269 THE SHOW CHOICE NOMINEE②]\nLOONA’s supernatural visuals… cannot be explained by science.\nBTW, THE SHOW isn’t a science major. \nLOONA has opened up our eyes to science👀\nLOONA’s beautiful faces will take over the world🤝\n\n#LOONA #PTT #THESHOW @loonatheworld https://t.co/ClWcAA6YPG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						227,
+						233
+					]
+				},
+				{
+					"text": "PTT",
+					"indices": [
+						234,
+						238
+					]
+				},
+				{
+					"text": "THESHOW",
+					"indices": [
+						239,
+						247
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						248,
+						262
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1414874033678475300,
+					"id_str": "1414874033678475269",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Kkb_NUYAU0NWx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Kkb_NUYAU0NWx.jpg",
+					"url": "https://t.co/ClWcAA6YPG",
+					"display_url": "pic.twitter.com/ClWcAA6YPG",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1414874045976252429/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 559,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 987,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1593,
+							"h": 1937,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414874033678475300,
+					"id_str": "1414874033678475269",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Kkb_NUYAU0NWx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Kkb_NUYAU0NWx.jpg",
+					"url": "https://t.co/ClWcAA6YPG",
+					"display_url": "pic.twitter.com/ClWcAA6YPG",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1414874045976252429/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 559,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 987,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1593,
+							"h": 1937,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 517295819,
+			"id_str": "517295819",
+			"name": "THE SHOW",
+			"screen_name": "sbsmtvtheshow",
+			"location": "",
+			"description": "SBS MTV THE SHOW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 963107,
+			"friends_count": 100,
+			"listed_count": 1578,
+			"created_at": "Wed Mar 07 06:49:30 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/517295819/1528422724",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 237,
+		"favorite_count": 777,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[★EP.269 THE SHOW CHOICE NOMINEE②]\nLOONA’s supernatural visuals… cannot be explained by science.\nBTW, THE SHOW isn’t a science major. \nLOONA has opened up our eyes to science👀\nLOONA’s beautiful faces will take over the world🤝\n\n#LOONA #PTT #THESHOW @loonatheworld https://t.co/ClWcAA6YPG"
+	},
+	{
+		"created_at": "Tue Jul 13 09:45:44 +0000 2021",
+		"id": 1414874018906214400,
+		"id_str": "1414883734164320275",
+		"full_text": "[★269회 더쇼초이스 후보②] \n생태계 파괴한 이달소 비주얼.. 이건 초자연적 현상이 아닐 수가 없어요.\n참고로 더쇼 이과 아닙니다.\n짱달소가 자연과학에 눈 뜨게 해준 거라고요👀\n울 이달소 얼굴이 이 세상을 지배한다🤝\n\n#이달의소녀 #PTT #THESHOW #더쇼 @loonatheworld https://t.co/B6ABbQIvMh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "PTT",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "THESHOW",
+					"indices": [
+						136,
+						144
+					]
+				},
+				{
+					"text": "더쇼",
+					"indices": [
+						145,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						149,
+						163
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1414874007359262700,
+					"id_str": "1414874007359262727",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/E6KkadKVEAcVGL8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6KkadKVEAcVGL8.jpg",
+					"url": "https://t.co/B6ABbQIvMh",
+					"display_url": "pic.twitter.com/B6ABbQIvMh",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1414874018906214401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 559,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 987,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1593,
+							"h": 1937,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414874007359262700,
+					"id_str": "1414874007359262727",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/E6KkadKVEAcVGL8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6KkadKVEAcVGL8.jpg",
+					"url": "https://t.co/B6ABbQIvMh",
+					"display_url": "pic.twitter.com/B6ABbQIvMh",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1414874018906214401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 559,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 987,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1593,
+							"h": 1937,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 517295819,
+			"id_str": "517295819",
+			"name": "THE SHOW",
+			"screen_name": "sbsmtvtheshow",
+			"location": "",
+			"description": "SBS MTV THE SHOW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 963107,
+			"friends_count": 100,
+			"listed_count": 1578,
+			"created_at": "Wed Mar 07 06:49:30 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/517295819/1528422724",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 225,
+		"favorite_count": 592,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[★269회 더쇼초이스 후보②] \n생태계 파괴한 이달소 비주얼.. 이건 초자연적 현상이 아닐 수가 없어요.\n참고로 더쇼 이과 아닙니다.\n짱달소가 자연과학에 눈 뜨게 해준 거라고요👀\n울 이달소 얼굴이 이 세상을 지배한다🤝\n\n#이달의소녀 #PTT #THESHOW #더쇼 @loonatheworld https://t.co/B6ABbQIvMh"
+	},
+	{
+		"created_at": "Tue Jul 13 09:45:38 +0000 2021",
+		"id": 1414873734419079200,
+		"id_str": "1414883708402905108",
+		"full_text": "★269회 더쇼초이스 후보★\n①SF9 ②이달의 소녀 ③전소연 #더쇼 실시간 투표는 오직 #스타패스 앱을 통해서만 진행됩니다! 투표는 #STARPASS 앱 다운로드 후 참여할 수 있습니다^_^! 더쇼 플레이~!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "더쇼",
+					"indices": [
+						34,
+						37
+					]
+				},
+				{
+					"text": "스타패스",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "STARPASS",
+					"indices": [
+						74,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 517295819,
+			"id_str": "517295819",
+			"name": "THE SHOW",
+			"screen_name": "sbsmtvtheshow",
+			"location": "",
+			"description": "SBS MTV THE SHOW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 963107,
+			"friends_count": 100,
+			"listed_count": 1578,
+			"created_at": "Wed Mar 07 06:49:30 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/517295819/1528422724",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 246,
+		"favorite_count": 391,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "★269회 더쇼초이스 후보★\n①SF9 ②이달의 소녀 ③전소연 #더쇼 실시간 투표는 오직 #스타패스 앱을 통해서만 진행됩니다! 투표는 #STARPASS 앱 다운로드 후 참여할 수 있습니다^_^! 더쇼 플레이~!"
+	},
+	{
 		"created_at": "Tue Jul 13 08:52:47 +0000 2021",
 		"id": 1414857130973307000,
 		"id_str": "1414870412148854784",
@@ -188,7 +1575,7 @@ Grailbird.data.tweets_2021_07 =
 			"name": "STATV",
 			"screen_name": "STATVOFFICIAL",
 			"location": "",
-			"description": "⭐ 아이돌리그 토요일 저녁 8시 ​\n⭐ 별의별 재미 STATV (스타티비) ​\n📺 KT Olleh tv 89 📺 SK Btv 137 📺 LG U+tv 99 ​\n ​\n💟 7월 17일 토요일 저녁 8시 (KST / ENG SUB) ​\n#아이돌리그 #이달의소녀 #LOONA",
+			"description": "⭐ 아이돌리그 토요일 저녁 8시 \n⭐ 별의별 재미 STATV (스타티비) \n📺 KT Olleh tv 89 📺 SK Btv 137 📺 LG U+tv 99 \n \n💟 7월 17일 토요일 저녁 8시 (KST / ENG SUB) \n#아이돌리그 #이달의소녀 #LOONA",
 			"url": "https://t.co/hXQ9XpmKUd",
 			"entities": {
 				"url": {
