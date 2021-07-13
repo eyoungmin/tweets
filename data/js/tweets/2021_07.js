@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 13 06:45:36 +0000 2021",
+		"id": 1414832561352708000,
+		"id_str": "1414838405524070400",
+		"full_text": "210708 #MCOUNTDOWN 현장포토\n#블링블링(#BlingBling)/#문종업/#BDC/#DRIPPIN(#드리핀)/#에이스(#ACE)/#원위(#ONEWE)/#이달의소녀 ♪\n\n▶️ More Photos\nhttps://t.co/spC5olrbzy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						7,
+						18
+					]
+				},
+				{
+					"text": "블링블링",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"text": "BlingBling",
+					"indices": [
+						30,
+						41
+					]
+				},
+				{
+					"text": "문종업",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"text": "BDC",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						53,
+						61
+					]
+				},
+				{
+					"text": "드리핀",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "에이스",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "ACE",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "원위",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "ONEWE",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						91,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/spC5olrbzy",
+					"expanded_url": "http://naver.me/GC2fFAdt",
+					"display_url": "naver.me/GC2fFAdt",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128479879,
+			"id_str": "128479879",
+			"name": "M COUNTDOWN",
+			"screen_name": "MnetMcountdown",
+			"location": "Seoul, South Korea",
+			"description": "World No.1 Kpop Chart Show M COUNTDOWN \nEvery Thur 6PM(KST) Mnet Live on Air",
+			"url": "https://t.co/odbOLMvcH3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/odbOLMvcH3",
+							"expanded_url": "https://mcountdown.genie.co.kr/",
+							"display_url": "mcountdown.genie.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3886715,
+			"friends_count": 1,
+			"listed_count": 4586,
+			"created_at": "Thu Apr 01 07:11:48 +0000 2010",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10639,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1361485890388783105/8JPHSXGO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361485890388783105/8JPHSXGO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128479879/1613624850",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 141,
+		"favorite_count": 370,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "210708 #MCOUNTDOWN 현장포토\n#블링블링(#BlingBling)/#문종업/#BDC/#DRIPPIN(#드리핀)/#에이스(#ACE)/#원위(#ONEWE)/#이달의소녀 ♪\n\n▶️ More Photos\nhttps://t.co/spC5olrbzy"
+	},
+	{
 		"created_at": "Tue Jul 13 05:52:59 +0000 2021",
 		"id": 1414510530484605000,
 		"id_str": "1414825161526857729",
