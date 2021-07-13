@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 12 23:21:42 +0000 2021",
+		"id": 1414721253772984300,
+		"id_str": "1414726693953040388",
+		"full_text": "#ROSÉ ‘On The Ground’ M/V HITS 200 MILLION VIEWS \n@Youtube\n BLINKs worldwide, thank you so much!\n\n'On The Ground' M/V\n🎥https://t.co/fICRnim0Pd\n\n#ROSÉ #로제 #BLACKPINK #블랙핑크 #OnTheGround #MV #200MILLION #YOUTUBE #YG https://t.co/rdgCAW5jUX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ROSÉ",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						154,
+						164
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						165,
+						170
+					]
+				},
+				{
+					"text": "OnTheGround",
+					"indices": [
+						171,
+						183
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						184,
+						187
+					]
+				},
+				{
+					"text": "200MILLION",
+					"indices": [
+						188,
+						199
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						200,
+						208
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						209,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						50,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fICRnim0Pd",
+					"expanded_url": "https://youtu.be/CKZvWhCqx1s",
+					"display_url": "youtu.be/CKZvWhCqx1s",
+					"indices": [
+						119,
+						142
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1414720796333797400,
+					"id_str": "1414720796333797378",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/E6IZEZnVcAI_aUp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6IZEZnVcAI_aUp.jpg",
+					"url": "https://t.co/rdgCAW5jUX",
+					"display_url": "pic.twitter.com/rdgCAW5jUX",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1414721253772984321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414720796333797400,
+					"id_str": "1414720796333797378",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/E6IZEZnVcAI_aUp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6IZEZnVcAI_aUp.jpg",
+					"url": "https://t.co/rdgCAW5jUX",
+					"display_url": "pic.twitter.com/rdgCAW5jUX",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1414721253772984321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/aWhwrQsIZl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWhwrQsIZl",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4263570,
+			"friends_count": 0,
+			"listed_count": 5998,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 333,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1623718900",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12685,
+		"favorite_count": 36262,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ROSÉ ‘On The Ground’ M/V HITS 200 MILLION VIEWS \n@Youtube\n BLINKs worldwide, thank you so much!\n\n'On The Ground' M/V\n🎥https://t.co/fICRnim0Pd\n\n#ROSÉ #로제 #BLACKPINK #블랙핑크 #OnTheGround #MV #200MILLION #YOUTUBE #YG https://t.co/rdgCAW5jUX"
+	},
+	{
 		"created_at": "Mon Jul 12 18:45:41 +0000 2021",
 		"id": 1414653283948372000,
 		"id_str": "1414657229106647043",
