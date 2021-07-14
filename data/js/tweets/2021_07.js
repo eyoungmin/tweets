@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 14 01:15:32 +0000 2021",
+		"id": 1415116405687558100,
+		"id_str": "1415117727795011585",
+		"full_text": "#ELLEcoverstar #블랙핑크 #BLACKPINK #제니 @ygofficialblink\n\n8월의 그녀, 제니🧡\n\n기사보기📲https://t.co/WKrrNT54Oi https://t.co/I0NUq3NGYt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELLEcoverstar",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						15,
+						20
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						21,
+						31
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						32,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						36,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WKrrNT54Oi",
+					"expanded_url": "https://bit.ly/3kc2o7H",
+					"display_url": "bit.ly/3kc2o7H",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1415115451118411800,
+					"id_str": "1415115451118411777",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/E6OAAVQUYAE3u9r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6OAAVQUYAE3u9r.jpg",
+					"url": "https://t.co/I0NUq3NGYt",
+					"display_url": "pic.twitter.com/I0NUq3NGYt",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1415116405687558145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415115451118411800,
+					"id_str": "1415115451118411777",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/E6OAAVQUYAE3u9r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6OAAVQUYAE3u9r.jpg",
+					"url": "https://t.co/I0NUq3NGYt",
+					"display_url": "pic.twitter.com/I0NUq3NGYt",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1415116405687558145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1415115463449669600,
+					"id_str": "1415115463449669640",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/E6OABDMUcAglfRe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6OABDMUcAglfRe.jpg",
+					"url": "https://t.co/I0NUq3NGYt",
+					"display_url": "pic.twitter.com/I0NUq3NGYt",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1415116405687558145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 ELLE KOREA 공식 트위터 official twitter 입니다.",
+			"url": "https://t.co/wrg4l4aKRf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wrg4l4aKRf",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 139393,
+			"friends_count": 3465,
+			"listed_count": 446,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1623731468",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3665,
+		"favorite_count": 6200,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ELLEcoverstar #블랙핑크 #BLACKPINK #제니 @ygofficialblink\n\n8월의 그녀, 제니🧡\n\n기사보기📲https://t.co/WKrrNT54Oi https://t.co/I0NUq3NGYt"
+	},
+	{
 		"created_at": "Wed Jul 14 00:23:40 +0000 2021",
 		"id": 1415104676115226600,
 		"id_str": "1415104676115226624",
