@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 14 15:06:05 +0000 2021",
+		"id": 1415317661932658700,
+		"id_str": "1415326741766180867",
+		"full_text": "my young heart @CTappOfficial challenge is live now on the app. click here if you'd like to join in: https://t.co/NaYzTodaPU \n#BirdyXct https://t.co/5ZxOgt0fD8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BirdyXct",
+					"indices": [
+						126,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CTappOfficial",
+					"name": "Color Therapy App",
+					"id": 826493067305685000,
+					"id_str": "826493067305684992",
+					"indices": [
+						15,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NaYzTodaPU",
+					"expanded_url": "http://get.colortherapy.me",
+					"display_url": "get.colortherapy.me",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1415215850366378000,
+					"id_str": "1415215850366377987",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1415215850366377987/img/Oz5qTHcmRYqwu8vd.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1415215850366377987/img/Oz5qTHcmRYqwu8vd.jpg",
+					"url": "https://t.co/5ZxOgt0fD8",
+					"display_url": "pic.twitter.com/5ZxOgt0fD8",
+					"expanded_url": "https://twitter.com/birdy/status/1415317661932658690/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415215850366378000,
+					"id_str": "1415215850366377987",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1415215850366377987/img/Oz5qTHcmRYqwu8vd.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1415215850366377987/img/Oz5qTHcmRYqwu8vd.jpg",
+					"url": "https://t.co/5ZxOgt0fD8",
+					"display_url": "pic.twitter.com/5ZxOgt0fD8",
+					"expanded_url": "https://twitter.com/birdy/status/1415317661932658690/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15000,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1415215850366377987/vid/720x720/vZ4awBpVU2oDDq5n.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1415215850366377987/vid/320x320/4-tTo9GTWYpei1MI.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1415215850366377987/vid/540x540/blSAzkRjue6kqJ0s.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1415215850366377987/pl/ElpreVfspMzEG9gf.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Young Heart - my new album, OUT NOW 💛 \nhttps://t.co/JJysUdcZGQ",
+			"url": "https://t.co/AOWSyI9JYu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JJysUdcZGQ",
+							"expanded_url": "http://birdy.lnk.to/Young-Heart",
+							"display_url": "birdy.lnk.to/Young-Heart",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 316062,
+			"friends_count": 181,
+			"listed_count": 1192,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "my young heart @CTappOfficial challenge is live now on the app. click here if you'd like to join in: https://t.co/NaYzTodaPU \n#BirdyXct https://t.co/5ZxOgt0fD8"
+	},
+	{
 		"created_at": "Wed Jul 14 13:45:36 +0000 2021",
 		"id": 1415297198594543600,
 		"id_str": "1415306489355513862",
