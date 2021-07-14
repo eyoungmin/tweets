@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 14 13:45:36 +0000 2021",
+		"id": 1415297198594543600,
+		"id_str": "1415306489355513862",
+		"full_text": "[#비주얼캠]\n《4K로 만나는 아이돌 얼굴 자랑캠》\n\nPerfect한 이달소보다가\nTime 가는 줄 몰랐네...\nTear.. 나 울어,,, 짱달소 너무 예뻐서 울어T-T\n✨ https://t.co/fVg90vLQdu\n\n#VISUALCAM #이달의소녀 #LOONA\n#PTT #PaintTheTown @loonatheworld https://t.co/TN9aI4lyx0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "비주얼캠",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "VISUALCAM",
+					"indices": [
+						122,
+						132
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "PTT",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "PaintTheTown",
+					"indices": [
+						152,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						166,
+						180
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fVg90vLQdu",
+					"expanded_url": "https://youtu.be/s2HYgO_HmbQ",
+					"display_url": "youtu.be/s2HYgO_HmbQ",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1415297189438398500,
+					"id_str": "1415297189438398464",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/E6QlS5QVoAAii1s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6QlS5QVoAAii1s.jpg",
+					"url": "https://t.co/TN9aI4lyx0",
+					"display_url": "pic.twitter.com/TN9aI4lyx0",
+					"expanded_url": "https://twitter.com/MnetKR/status/1415297198594543621/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415297189438398500,
+					"id_str": "1415297189438398464",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/E6QlS5QVoAAii1s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6QlS5QVoAAii1s.jpg",
+					"url": "https://t.co/TN9aI4lyx0",
+					"display_url": "pic.twitter.com/TN9aI4lyx0",
+					"expanded_url": "https://twitter.com/MnetKR/status/1415297198594543621/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2979374,
+			"friends_count": 21189,
+			"listed_count": 2912,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 198,
+		"favorite_count": 558,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#비주얼캠]\n《4K로 만나는 아이돌 얼굴 자랑캠》\n\nPerfect한 이달소보다가\nTime 가는 줄 몰랐네...\nTear.. 나 울어,,, 짱달소 너무 예뻐서 울어T-T\n✨ https://t.co/fVg90vLQdu\n\n#VISUALCAM #이달의소녀 #LOONA\n#PTT #PaintTheTown @loonatheworld https://t.co/TN9aI4lyx0"
+	},
+	{
 		"created_at": "Wed Jul 14 13:01:58 +0000 2021",
 		"id": 1415295508332044300,
 		"id_str": "1415295508332044289",
