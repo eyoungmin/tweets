@@ -1,6 +1,1285 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 14 09:52:51 +0000 2021",
+		"id": 1415234790639374300,
+		"id_str": "1415247912863477765",
+		"full_text": "KANGTA 강타 '자유롭게 날 수 있도록 2021 (Free To Fly 2021)' MV\n\nhttps://t.co/QXK9YkA6Xd\n\n#KANGTA #강타\n#자유롭게날수있도록\n#Free_To_Fly_2021",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KANGTA",
+					"indices": [
+						78,
+						85
+					]
+				},
+				{
+					"text": "강타",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "자유롭게날수있도록",
+					"indices": [
+						90,
+						100
+					]
+				},
+				{
+					"text": "Free_To_Fly_2021",
+					"indices": [
+						101,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QXK9YkA6Xd",
+					"expanded_url": "https://youtu.be/_eprOE_CdEI",
+					"display_url": "youtu.be/_eprOE_CdEI",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9665137,
+			"friends_count": 55,
+			"listed_count": 10249,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7837,
+		"favorite_count": 19273,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KANGTA 강타 '자유롭게 날 수 있도록 2021 (Free To Fly 2021)' MV\n\nhttps://t.co/QXK9YkA6Xd\n\n#KANGTA #강타\n#자유롭게날수있도록\n#Free_To_Fly_2021"
+	},
+	{
+		"created_at": "Wed Jul 14 09:35:27 +0000 2021",
+		"id": 1415243536107249700,
+		"id_str": "1415243536107249667",
+		"full_text": "#오떼르 #Hauteurtheday \n(ENG) ❌여기선 관절 얘기 금지❌ 시니어 모델들의 희츄 우쭈쭈 모먼트 | 오떼르: 미션컴플희츄 [Ep. 5] \nhttps://t.co/BTrmdmzgrq \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오떼르",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "Hauteurtheday",
+					"indices": [
+						5,
+						19
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "김지우",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						132,
+						134
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "츄튜브",
+					"indices": [
+						141,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BTrmdmzgrq",
+					"expanded_url": "https://youtu.be/eErdslB8Swg",
+					"display_url": "youtu.be/eErdslB8Swg",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44954,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82450,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오떼르 #Hauteurtheday \n(ENG) ❌여기선 관절 얘기 금지❌ 시니어 모델들의 희츄 우쭈쭈 모먼트 | 오떼르: 미션컴플희츄 [Ep. 5] \nhttps://t.co/BTrmdmzgrq \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브"
+	},
+	{
+		"created_at": "Wed Jul 14 09:22:01 +0000 2021",
+		"id": 1415236294184079400,
+		"id_str": "1415240155175145477",
+		"full_text": "#BLACKPINK 5th ANNIVERSARY [4+1] THE MOVIE MAIN TRAILER\n\nMore info\n@ https://t.co/IDxJBkQvm3\n@ https://t.co/OEwpcOCO0d\n\n#블랙핑크 #THE_MOVIE #BLACKPINKTHEMOVIE #MAINTRAILER #20210804 #COMINGSOON #5thANNIVERSARY #4PLUS1_PROJECT #BLACKPINKINYOURCINEMA  #SCREENX #4DX #YG #CJ4DPLEX https://t.co/h13UTXN4tX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "THE_MOVIE",
+					"indices": [
+						126,
+						136
+					]
+				},
+				{
+					"text": "BLACKPINKTHEMOVIE",
+					"indices": [
+						137,
+						155
+					]
+				},
+				{
+					"text": "MAINTRAILER",
+					"indices": [
+						156,
+						168
+					]
+				},
+				{
+					"text": "COMINGSOON",
+					"indices": [
+						179,
+						190
+					]
+				},
+				{
+					"text": "5thANNIVERSARY",
+					"indices": [
+						191,
+						206
+					]
+				},
+				{
+					"text": "4PLUS1_PROJECT",
+					"indices": [
+						207,
+						222
+					]
+				},
+				{
+					"text": "BLACKPINKINYOURCINEMA",
+					"indices": [
+						223,
+						245
+					]
+				},
+				{
+					"text": "SCREENX",
+					"indices": [
+						247,
+						255
+					]
+				},
+				{
+					"text": "4DX",
+					"indices": [
+						256,
+						260
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						261,
+						264
+					]
+				},
+				{
+					"text": "CJ4DPLEX",
+					"indices": [
+						265,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IDxJBkQvm3",
+					"expanded_url": "http://5th.blackpinkofficial.com",
+					"display_url": "5th.blackpinkofficial.com",
+					"indices": [
+						69,
+						92
+					]
+				},
+				{
+					"url": "https://t.co/OEwpcOCO0d",
+					"expanded_url": "http://blackpinkthemovie.com",
+					"display_url": "blackpinkthemovie.com",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1415235795292541000,
+					"id_str": "1415235795292540931",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Pw5sCVkAACiur.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Pw5sCVkAACiur.jpg",
+					"url": "https://t.co/h13UTXN4tX",
+					"display_url": "pic.twitter.com/h13UTXN4tX",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1415236294184079361/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415235795292541000,
+					"id_str": "1415235795292540931",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Pw5sCVkAACiur.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Pw5sCVkAACiur.jpg",
+					"url": "https://t.co/h13UTXN4tX",
+					"display_url": "pic.twitter.com/h13UTXN4tX",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1415236294184079361/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 74366,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1415235795292540931/pu/vid/640x360/CE5WJGXKyaTEBa2r.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1415235795292540931/pu/vid/1280x720/ArpVnWF_DzebgCGs.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1415235795292540931/pu/pl/kilOK0AHNJUNtA3O.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1415235795292540931/pu/vid/480x270/x_fzq7cGFLN5nCTd.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/QTHPhjMXWT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QTHPhjMXWT",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6988515,
+			"friends_count": 6,
+			"listed_count": 8015,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1716,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1623718821",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7976,
+		"favorite_count": 20446,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 5th ANNIVERSARY [4+1] THE MOVIE MAIN TRAILER\n\nMore info\n@ https://t.co/IDxJBkQvm3\n@ https://t.co/OEwpcOCO0d\n\n#블랙핑크 #THE_MOVIE #BLACKPINKTHEMOVIE #MAINTRAILER #20210804 #COMINGSOON #5thANNIVERSARY #4PLUS1_PROJECT #BLACKPINKINYOURCINEMA  #SCREENX #4DX #YG #CJ4DPLEX https://t.co/h13UTXN4tX"
+	},
+	{
+		"created_at": "Wed Jul 14 09:22:01 +0000 2021",
+		"id": 1415235949160636400,
+		"id_str": "1415240155166740481",
+		"full_text": "#BLACKPINK 5th ANNIVERSARY [4+1] THE MOVIE MAIN TRAILER\n\nMore info\n@ https://t.co/W1vLIdbfgI\n@ https://t.co/bquaDSMDr0\n\n#블랙핑크 #THE_MOVIE #BLACKPINKTHEMOVIE #MAINTRAILER #20210804 #COMINGSOON #5thANNIVERSARY #4PLUS1_PROJECT #BLACKPINKINYOURCINEMA #SCREENX #4DX #CJ4DPLEX #YG https://t.co/kvOcSD0X0A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "THE_MOVIE",
+					"indices": [
+						126,
+						136
+					]
+				},
+				{
+					"text": "BLACKPINKTHEMOVIE",
+					"indices": [
+						137,
+						155
+					]
+				},
+				{
+					"text": "MAINTRAILER",
+					"indices": [
+						156,
+						168
+					]
+				},
+				{
+					"text": "COMINGSOON",
+					"indices": [
+						179,
+						190
+					]
+				},
+				{
+					"text": "5thANNIVERSARY",
+					"indices": [
+						191,
+						206
+					]
+				},
+				{
+					"text": "4PLUS1_PROJECT",
+					"indices": [
+						207,
+						222
+					]
+				},
+				{
+					"text": "BLACKPINKINYOURCINEMA",
+					"indices": [
+						223,
+						245
+					]
+				},
+				{
+					"text": "SCREENX",
+					"indices": [
+						246,
+						254
+					]
+				},
+				{
+					"text": "4DX",
+					"indices": [
+						255,
+						259
+					]
+				},
+				{
+					"text": "CJ4DPLEX",
+					"indices": [
+						260,
+						269
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						270,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W1vLIdbfgI",
+					"expanded_url": "http://5th.blackpinkofficial.com",
+					"display_url": "5th.blackpinkofficial.com",
+					"indices": [
+						69,
+						92
+					]
+				},
+				{
+					"url": "https://t.co/bquaDSMDr0",
+					"expanded_url": "http://blackpinkthemovie.com",
+					"display_url": "blackpinkthemovie.com",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1415235404840591400,
+					"id_str": "1415235404840591365",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415235404840591365/pu/img/lMBLz5nWH-1hd2xH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415235404840591365/pu/img/lMBLz5nWH-1hd2xH.jpg",
+					"url": "https://t.co/kvOcSD0X0A",
+					"display_url": "pic.twitter.com/kvOcSD0X0A",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1415235949160636417/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415235404840591400,
+					"id_str": "1415235404840591365",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415235404840591365/pu/img/lMBLz5nWH-1hd2xH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415235404840591365/pu/img/lMBLz5nWH-1hd2xH.jpg",
+					"url": "https://t.co/kvOcSD0X0A",
+					"display_url": "pic.twitter.com/kvOcSD0X0A",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1415235949160636417/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 74366,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1415235404840591365/pu/vid/480x270/wLpevHaII3XBTua6.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1415235404840591365/pu/pl/-VNsvl-DYprYclGy.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1415235404840591365/pu/vid/1280x720/qbT9TV3yzLFvvpnv.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1415235404840591365/pu/vid/640x360/Z3XWVzolSKMS4CHE.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/aWhwrQsIZl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWhwrQsIZl",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4270532,
+			"friends_count": 0,
+			"listed_count": 6006,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1623718900",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26959,
+		"favorite_count": 52609,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 5th ANNIVERSARY [4+1] THE MOVIE MAIN TRAILER\n\nMore info\n@ https://t.co/W1vLIdbfgI\n@ https://t.co/bquaDSMDr0\n\n#블랙핑크 #THE_MOVIE #BLACKPINKTHEMOVIE #MAINTRAILER #20210804 #COMINGSOON #5thANNIVERSARY #4PLUS1_PROJECT #BLACKPINKINYOURCINEMA #SCREENX #4DX #CJ4DPLEX #YG https://t.co/kvOcSD0X0A"
+	},
+	{
+		"created_at": "Wed Jul 14 09:04:16 +0000 2021",
+		"id": 1415234628793757700,
+		"id_str": "1415235689201897477",
+		"full_text": "모델핏 뽐내기⭐️에 도전한 희진, 츄공주! 잠시 후 오후 6시 30분(KST) 공개되는 '오떼르 : 미션 컴플희츄' 5화에서 시니어 모델과 함깨 보낸 즐거운 시간들 확인해 보세요❤️\n\n#이달의소녀 #희진 #츄 #LOONA #HeeJin #Chuu\n\n▶️ https://t.co/C4JM6fMXCr https://t.co/8DpBNOjWrD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						114,
+						116
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						132,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C4JM6fMXCr",
+					"expanded_url": "http://bit.ly/3a4vz72",
+					"display_url": "bit.ly/3a4vz72",
+					"indices": [
+						142,
+						165
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1415234622930112500,
+					"id_str": "1415234622930112513",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E6PsZC2VUAEm3c2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6PsZC2VUAEm3c2.jpg",
+					"url": "https://t.co/8DpBNOjWrD",
+					"display_url": "pic.twitter.com/8DpBNOjWrD",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1415234628793757698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 772,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 513,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 772,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415234622930112500,
+					"id_str": "1415234622930112513",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E6PsZC2VUAEm3c2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6PsZC2VUAEm3c2.jpg",
+					"url": "https://t.co/8DpBNOjWrD",
+					"display_url": "pic.twitter.com/8DpBNOjWrD",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1415234628793757698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 772,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 513,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 772,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 770299,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3087,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2939,
+		"favorite_count": 9185,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모델핏 뽐내기⭐️에 도전한 희진, 츄공주! 잠시 후 오후 6시 30분(KST) 공개되는 '오떼르 : 미션 컴플희츄' 5화에서 시니어 모델과 함깨 보낸 즐거운 시간들 확인해 보세요❤️\n\n#이달의소녀 #희진 #츄 #LOONA #HeeJin #Chuu\n\n▶️ https://t.co/C4JM6fMXCr https://t.co/8DpBNOjWrD"
+	},
+	{
+		"created_at": "Wed Jul 14 09:04:07 +0000 2021",
+		"id": 1415235649427361800,
+		"id_str": "1415235649427361794",
+		"full_text": "#YoonA #윤아 #임윤아 \n융-티시에👩🏻‍🍳 | 레몬 케이크 만들었어요🍋 | 베이킹 꿈나무 융 \nhttps://t.co/Pw2YKwp7pH \n \n#GirlsGeneration #소녀시대",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YoonA",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						83,
+						99
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						100,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Pw2YKwp7pH",
+					"expanded_url": "https://www.youtube.com/watch?v=6RwmcAPDlE0",
+					"display_url": "youtube.com/watch?v=6RwmcA…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44954,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82450,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YoonA #윤아 #임윤아 \n융-티시에👩🏻‍🍳 | 레몬 케이크 만들었어요🍋 | 베이킹 꿈나무 융 \nhttps://t.co/Pw2YKwp7pH \n \n#GirlsGeneration #소녀시대"
+	},
+	{
 		"created_at": "Wed Jul 14 08:52:47 +0000 2021",
 		"id": 1415228778717008000,
 		"id_str": "1415232799892705281",
