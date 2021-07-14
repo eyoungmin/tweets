@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 14 08:52:47 +0000 2021",
+		"id": 1415228778717008000,
+		"id_str": "1415232799892705281",
+		"full_text": "MUSIC IS SO LIFE-AFFIRMING",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new album 'No One Else Can Wear Your Crown' is out now 👑",
+			"url": "https://t.co/cVg0U1Kw8y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cVg0U1Kw8y",
+							"expanded_url": "https://ohwonder.lnk.to/No_One_Else_Can_Wear_Your_CrownTW",
+							"display_url": "ohwonder.lnk.to/No_One_Else_Ca…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168901,
+			"friends_count": 202,
+			"listed_count": 422,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3534,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215307732095467521/if0osRtf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215307732095467521/if0osRtf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1590060241",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 162,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "MUSIC IS SO LIFE-AFFIRMING"
+	},
+	{
+		"created_at": "Wed Jul 14 08:45:37 +0000 2021",
+		"id": 1415222516314898400,
+		"id_str": "1415230993238302722",
+		"full_text": "[💟콘텐츠 예고]\n통컬은 여러분들이 '이달소 거짓말 탐지기 그거'를 애타게 찾으셨단 걸 알고 있습니다...\n\n그래서 준비한...!!!!!!!\n\n오늘 저녁 8시🙉🙉\n#이달소 #LOONA #통컬 https://t.co/0VUdQun2Om",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달소",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "통컬",
+					"indices": [
+						103,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1415222400917016600,
+					"id_str": "1415222400917016581",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415222400917016581/pu/img/TB3GImoGspPnnLZa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415222400917016581/pu/img/TB3GImoGspPnnLZa.jpg",
+					"url": "https://t.co/0VUdQun2Om",
+					"display_url": "pic.twitter.com/0VUdQun2Om",
+					"expanded_url": "https://twitter.com/TONGTONG_C/status/1415222516314898442/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415222400917016600,
+					"id_str": "1415222400917016581",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415222400917016581/pu/img/TB3GImoGspPnnLZa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415222400917016581/pu/img/TB3GImoGspPnnLZa.jpg",
+					"url": "https://t.co/0VUdQun2Om",
+					"display_url": "pic.twitter.com/0VUdQun2Om",
+					"expanded_url": "https://twitter.com/TONGTONG_C/status/1415222516314898442/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 4371,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1415222400917016581/pu/pl/ZlxV_oqO-bRPOcLy.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1415222400917016581/pu/vid/640x360/rnWvLyjEjesP9YIY.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1415222400917016581/pu/vid/1280x720/E5bSDbF1LEcnxMpc.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1415222400917016581/pu/vid/480x270/AQuMPGknE0P6dSyy.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1247773150856630300,
+			"id_str": "1247773150856630275",
+			"name": "TongTongTv 통통컬쳐",
+			"screen_name": "TONGTONG_C",
+			"location": "",
+			"description": "통통컬쳐 공식 트위터✨               TONGTONG CULTURE Official Twitter.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3853,
+			"friends_count": 33,
+			"listed_count": 12,
+			"created_at": "Wed Apr 08 06:28:52 +0000 2020",
+			"favourites_count": 86,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1329312160942489603/jgW4YlRg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329312160942489603/jgW4YlRg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1247773150856630275/1586328026",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 481,
+		"favorite_count": 982,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[💟콘텐츠 예고]\n통컬은 여러분들이 '이달소 거짓말 탐지기 그거'를 애타게 찾으셨단 걸 알고 있습니다...\n\n그래서 준비한...!!!!!!!\n\n오늘 저녁 8시🙉🙉\n#이달소 #LOONA #통컬 https://t.co/0VUdQun2Om"
+	},
+	{
 		"created_at": "Wed Jul 14 07:29:38 +0000 2021",
 		"id": 1415208644434567200,
 		"id_str": "1415211874103275523",
