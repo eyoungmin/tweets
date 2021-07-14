@@ -1,6 +1,135 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 14 10:15:38 +0000 2021",
+		"id": 1415246225041883100,
+		"id_str": "1415253649991733252",
+		"full_text": "'인간 불가리' 블랙핑크 리사의 선공개 화보컷을 공개합니다. \n\n#리사 #블랙핑크 #BLACKPINK \nhttps://t.co/8YTfFOCckA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "리사",
+					"indices": [
+						36,
+						39
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						40,
+						45
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						46,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8YTfFOCckA",
+					"expanded_url": "https://www.wkorea.com/2021/07/14/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC-%EB%A6%AC%EC%82%AC-%EB%8D%94%EB%B8%94%EC%9C%A0-8%EC%9B%94%ED%98%B8-%ED%99%94%EB%B3%B4-%EC%84%A0%EA%B3%B5%EA%B0%9C/?ddw=92037&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2021/07/14/%EB…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5xzw0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5xzw0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276976,
+			"friends_count": 0,
+			"listed_count": 814,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1623740686",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3539,
+		"favorite_count": 5818,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'인간 불가리' 블랙핑크 리사의 선공개 화보컷을 공개합니다. \n\n#리사 #블랙핑크 #BLACKPINK \nhttps://t.co/8YTfFOCckA"
+	},
+	{
 		"created_at": "Wed Jul 14 09:52:51 +0000 2021",
 		"id": 1415234790639374300,
 		"id_str": "1415247912863477765",
@@ -1153,7 +1282,7 @@ Grailbird.data.tweets_2021_07 =
 		"created_at": "Wed Jul 14 09:04:07 +0000 2021",
 		"id": 1415235649427361800,
 		"id_str": "1415235649427361794",
-		"full_text": "#YoonA #윤아 #임윤아 \n융-티시에👩🏻‍🍳 | 레몬 케이크 만들었어요🍋 | 베이킹 꿈나무 융 \nhttps://t.co/Pw2YKwp7pH \n \n#GirlsGeneration #소녀시대",
+		"full_text": "#YoonA #윤아 #임윤아 \n융-티시에👩🏻🍳 | 레몬 케이크 만들었어요🍋 | 베이킹 꿈나무 융 \nhttps://t.co/Pw2YKwp7pH \n \n#GirlsGeneration #소녀시대",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1277,7 +1406,7 @@ Grailbird.data.tweets_2021_07 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#YoonA #윤아 #임윤아 \n융-티시에👩🏻‍🍳 | 레몬 케이크 만들었어요🍋 | 베이킹 꿈나무 융 \nhttps://t.co/Pw2YKwp7pH \n \n#GirlsGeneration #소녀시대"
+		"text": "#YoonA #윤아 #임윤아 \n융-티시에👩🏻🍳 | 레몬 케이크 만들었어요🍋 | 베이킹 꿈나무 융 \nhttps://t.co/Pw2YKwp7pH \n \n#GirlsGeneration #소녀시대"
 	},
 	{
 		"created_at": "Wed Jul 14 08:52:47 +0000 2021",
