@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 15 04:52:47 +0000 2021",
+		"id": 1415423693648326700,
+		"id_str": "1415534790141517827",
+		"full_text": "🎵 “Next Level,” @aespa_official\n \nThe anthemic chorus is infused with a snappy energy, one that compels the listener to transform any leisurely stroll into an imagined runway strut when aespa's rap verses beginning with “I’m on the next level” start to play https://t.co/6jfvlLmdMU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						16,
+						31
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1415422750173261800,
+					"id_str": "1415422750173261825",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/E6SXffcVcAE-uNj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6SXffcVcAE-uNj.jpg",
+					"url": "https://t.co/6jfvlLmdMU",
+					"display_url": "pic.twitter.com/6jfvlLmdMU",
+					"expanded_url": "https://twitter.com/TIME/status/1415423693648326659/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415422750173261800,
+					"id_str": "1415422750173261825",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/E6SXffcVcAE-uNj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6SXffcVcAE-uNj.jpg",
+					"url": "https://t.co/6jfvlLmdMU",
+					"display_url": "pic.twitter.com/6jfvlLmdMU",
+					"expanded_url": "https://twitter.com/TIME/status/1415423693648326659/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1415423687080091600,
+		"in_reply_to_status_id_str": "1415423687080091652",
+		"in_reply_to_user_id": 14293310,
+		"in_reply_to_user_id_str": "14293310",
+		"in_reply_to_screen_name": "TIME",
+		"user": {
+			"id": 14293310,
+			"id_str": "14293310",
+			"name": "TIME",
+			"screen_name": "TIME",
+			"location": "",
+			"description": "News and current events from around the globe. Subscribe: https://t.co/yT0dueLEm0",
+			"url": "https://t.co/39rKBtbZ0j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/39rKBtbZ0j",
+							"expanded_url": "https://www.time.com",
+							"display_url": "time.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yT0dueLEm0",
+							"expanded_url": "http://ti.me/subscribe",
+							"display_url": "ti.me/subscribe",
+							"indices": [
+								58,
+								81
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18142088,
+			"friends_count": 506,
+			"listed_count": 103676,
+			"created_at": "Thu Apr 03 13:54:30 +0000 2008",
+			"favourites_count": 555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 374660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "CC0000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1367496192662331402/7ye6OsYx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367496192662331402/7ye6OsYx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14293310/1625747384",
+			"profile_link_color": "DE3333",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "D9D9D9",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1700,
+		"favorite_count": 4892,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎵 “Next Level,” @aespa_official\n \nThe anthemic chorus is infused with a snappy energy, one that compels the listener to transform any leisurely stroll into an imagined runway strut when aespa's rap verses beginning with “I’m on the next level” start to play https://t.co/6jfvlLmdMU"
+	},
+	{
 		"created_at": "Thu Jul 15 03:21:01 +0000 2021",
 		"id": 1415506404748710000,
 		"id_str": "1415511693531119618",
