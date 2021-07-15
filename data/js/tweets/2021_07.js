@@ -1,6 +1,961 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 15 08:45:37 +0000 2021",
+		"id": 1415585486794477600,
+		"id_str": "1415593381380689921",
+		"full_text": "[🎀당첨자 발표🎀]\n이달의소녀(LOONA) 'PTT (Paint The Town)' &lt;고장난노래방&gt; 구독자 이벤트(사인앨범) 당첨자가 발표되었습니다! 통통컬쳐 채널 유튜브 커뮤니티와 해당 영상 고정댓글을 확인해주세요! \n(feat. 서로 남탓하는 가슴 따뜻한 현장❤) https://t.co/uw2i4i9x5g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1415585393127293000,
+					"id_str": "1415585393127292932",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/E6UrajqVgAQDTWm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6UrajqVgAQDTWm.jpg",
+					"url": "https://t.co/uw2i4i9x5g",
+					"display_url": "pic.twitter.com/uw2i4i9x5g",
+					"expanded_url": "https://twitter.com/TONGTONG_C/status/1415585486794477569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415585393127293000,
+					"id_str": "1415585393127292932",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/E6UrajqVgAQDTWm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6UrajqVgAQDTWm.jpg",
+					"url": "https://t.co/uw2i4i9x5g",
+					"display_url": "pic.twitter.com/uw2i4i9x5g",
+					"expanded_url": "https://twitter.com/TONGTONG_C/status/1415585486794477569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1247773150856630300,
+			"id_str": "1247773150856630275",
+			"name": "TongTongTv 통통컬쳐",
+			"screen_name": "TONGTONG_C",
+			"location": "",
+			"description": "통통컬쳐 공식 트위터✨               TONGTONG CULTURE Official Twitter.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3981,
+			"friends_count": 33,
+			"listed_count": 12,
+			"created_at": "Wed Apr 08 06:28:52 +0000 2020",
+			"favourites_count": 86,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1329312160942489603/jgW4YlRg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329312160942489603/jgW4YlRg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1247773150856630275/1586328026",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 131,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎀당첨자 발표🎀]\n이달의소녀(LOONA) 'PTT (Paint The Town)' &lt;고장난노래방&gt; 구독자 이벤트(사인앨범) 당첨자가 발표되었습니다! 통통컬쳐 채널 유튜브 커뮤니티와 해당 영상 고정댓글을 확인해주세요! \n(feat. 서로 남탓하는 가슴 따뜻한 현장❤) https://t.co/uw2i4i9x5g"
+	},
+	{
+		"created_at": "Thu Jul 15 08:29:39 +0000 2021",
+		"id": 1415574352095940600,
+		"id_str": "1415589362734149634",
+		"full_text": "[🎥#단독샷캠] 태연 - Weekend \n\n#인기가요 #TAEYEON #태연 #소녀시대 #GirlsGeneration #Weekend @GirlsGeneration\n\n📌https://t.co/Zil3ecyA9J https://t.co/PGHG7P3BjV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "단독샷캠",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						30,
+						38
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						39,
+						42
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						49,
+						65
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						75,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Zil3ecyA9J",
+					"expanded_url": "https://youtu.be/Jl8EkxXanJM",
+					"display_url": "youtu.be/Jl8EkxXanJM",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1415568005229006800,
+					"id_str": "1415568005229006848",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E6UbmcsVUAAPSNi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6UbmcsVUAAPSNi.jpg",
+					"url": "https://t.co/PGHG7P3BjV",
+					"display_url": "pic.twitter.com/PGHG7P3BjV",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1415574352095940608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415568005229006800,
+					"id_str": "1415568005229006848",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E6UbmcsVUAAPSNi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6UbmcsVUAAPSNi.jpg",
+					"url": "https://t.co/PGHG7P3BjV",
+					"display_url": "pic.twitter.com/PGHG7P3BjV",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1415574352095940608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/qapZ7nOCns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qapZ7nOCns",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 475507,
+			"friends_count": 77,
+			"listed_count": 486,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 3315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1625972715",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 561,
+		"favorite_count": 711,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥#단독샷캠] 태연 - Weekend \n\n#인기가요 #TAEYEON #태연 #소녀시대 #GirlsGeneration #Weekend @GirlsGeneration\n\n📌https://t.co/Zil3ecyA9J https://t.co/PGHG7P3BjV"
+	},
+	{
+		"created_at": "Thu Jul 15 08:11:24 +0000 2021",
+		"id": 1415581983917236200,
+		"id_str": "1415584773234434049",
+		"full_text": "&lt;TAEMIN 6v6 Home Edition with SPAO&gt; SALES NOTICE\n\n🎬 (SUB) https://t.co/RiYQ6pQRbs\n\n✅ Sales Day\n2021. 07. 18. SUN 12:00 ~ [KST]\n\n✅ Online Store\nSMTOWN &amp;STORE : https://t.co/qPFqhm1YuR \nSPAO : https://t.co/rl0720491H \n\n#TAEMIN #태민 #6v6\n#SHINee #샤이니\n#SPAO #스파오 https://t.co/MdaVnVzOqZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEMIN",
+					"indices": [
+						227,
+						234
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						235,
+						238
+					]
+				},
+				{
+					"text": "6v6",
+					"indices": [
+						239,
+						243
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						244,
+						251
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						252,
+						256
+					]
+				},
+				{
+					"text": "SPAO",
+					"indices": [
+						257,
+						262
+					]
+				},
+				{
+					"text": "스파오",
+					"indices": [
+						263,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RiYQ6pQRbs",
+					"expanded_url": "https://youtu.be/ImDqZ1E-tPI",
+					"display_url": "youtu.be/ImDqZ1E-tPI",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/qPFqhm1YuR",
+					"expanded_url": "https://smtownandstore.com/",
+					"display_url": "smtownandstore.com",
+					"indices": [
+						169,
+						192
+					]
+				},
+				{
+					"url": "https://t.co/rl0720491H",
+					"expanded_url": "http://spao.com/",
+					"display_url": "spao.com",
+					"indices": [
+						201,
+						224
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1415553864900649000,
+					"id_str": "1415553864900648966",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E6UnwJfVkAIwE1I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6UnwJfVkAIwE1I.jpg",
+					"url": "https://t.co/MdaVnVzOqZ",
+					"display_url": "pic.twitter.com/MdaVnVzOqZ",
+					"expanded_url": "https://twitter.com/SHINee/status/1415581983917236224/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415553864900649000,
+					"id_str": "1415553864900648966",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E6UnwJfVkAIwE1I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6UnwJfVkAIwE1I.jpg",
+					"url": "https://t.co/MdaVnVzOqZ",
+					"display_url": "pic.twitter.com/MdaVnVzOqZ",
+					"expanded_url": "https://twitter.com/SHINee/status/1415581983917236224/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 190524,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1415553864900648966/vid/640x360/nQCCh8bCvykcWyEz.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1415553864900648966/pl/ofFC26iEaOuwsfd9.m3u8?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1415553864900648966/vid/480x270/mNYXKPLuQZUFArQO.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1415553864900648966/vid/1280x720/XVgzpaGfwbzxHquA.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "TAEMIN 6v6 Home Edition with SPAO",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "TAEMIN - The 3rd Mini Album Advice",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2047630,
+			"friends_count": 2,
+			"listed_count": 5200,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1906,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402197244539904003/NfjlPV9e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402197244539904003/NfjlPV9e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1623144852",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3196,
+		"favorite_count": 6162,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "&lt;TAEMIN 6v6 Home Edition with SPAO&gt; SALES NOTICE\n\n🎬 (SUB) https://t.co/RiYQ6pQRbs\n\n✅ Sales Day\n2021. 07. 18. SUN 12:00 ~ [KST]\n\n✅ Online Store\nSMTOWN &amp;STORE : https://t.co/qPFqhm1YuR \nSPAO : https://t.co/rl0720491H \n\n#TAEMIN #태민 #6v6\n#SHINee #샤이니\n#SPAO #스파오 https://t.co/MdaVnVzOqZ"
+	},
+	{
+		"created_at": "Thu Jul 15 08:07:18 +0000 2021",
+		"id": 1415583741834145800,
+		"id_str": "1415583741834145792",
+		"full_text": "#예술경영지원센터 #온라인참가신청  \n2021 예술경영아카데미(MoAA) 취업 분야&lt;�문화예술 취업 All-Pass ③ 면접 과정&gt; 수강 신청 (2021-08-10 ~ 08-13) (접수마감: 2021-07-28) \nhttps://t.co/zlqwPbAsYi \n \n#예술경영 #밋업 #강의신청",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "온라인참가신청",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "밋업",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "강의신청",
+					"indices": [
+						164,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zlqwPbAsYi",
+					"expanded_url": "https://www.gokams.or.kr:442/02_apply/event_apply01.aspx?Idx=1015&flag=0&page=1&txtKeyword=&ddlKeyfield=T",
+					"display_url": "gokams.or.kr:442/02_apply/event…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#예술경영지원센터 #온라인참가신청  \n2021 예술경영아카데미(MoAA) 취업 분야&lt;�문화예술 취업 All-Pass ③ 면접 과정&gt; 수강 신청 (2021-08-10 ~ 08-13) (접수마감: 2021-07-28) \nhttps://t.co/zlqwPbAsYi \n \n#예술경영 #밋업 #강의신청"
+	},
+	{
+		"created_at": "Thu Jul 15 08:07:18 +0000 2021",
+		"id": 1415583740206661600,
+		"id_str": "1415583740206661640",
+		"full_text": "#예술경영지원센터 #온라인참가신청  \n2021 예술경영아카데미(MoAA) 취업 분야&lt;�문화예술 취업 All-Pass ② 자기소개서 과정&gt; 수강 신청 (2021-08-06) (접수마감: 2021-07-28) \nhttps://t.co/n8hAxaKQNq \n \n#예술경영 #밋업 #강의신청",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "온라인참가신청",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "밋업",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "강의신청",
+					"indices": [
+						159,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n8hAxaKQNq",
+					"expanded_url": "https://www.gokams.or.kr:442/02_apply/event_apply01.aspx?Idx=1014&flag=0&page=1&txtKeyword=&ddlKeyfield=T",
+					"display_url": "gokams.or.kr:442/02_apply/event…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1053,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#예술경영지원센터 #온라인참가신청  \n2021 예술경영아카데미(MoAA) 취업 분야&lt;�문화예술 취업 All-Pass ② 자기소개서 과정&gt; 수강 신청 (2021-08-06) (접수마감: 2021-07-28) \nhttps://t.co/n8hAxaKQNq \n \n#예술경영 #밋업 #강의신청"
+	},
+	{
 		"created_at": "Thu Jul 15 07:19:43 +0000 2021",
 		"id": 1415571763422015500,
 		"id_str": "1415571763422015488",
