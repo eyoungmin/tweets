@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 15 02:29:39 +0000 2021",
+		"id": 1415491307322105900,
+		"id_str": "1415498766485004290",
+		"full_text": "❤210711 인기가요 미션포토 \n\n조명이 필요없는 빛나는 태연의 미모✨\n홈페이지 미공개사진 무로고ver. 에서 확인하세요💜\n\n📸 https://t.co/DyH5BsKvfE\n\n#인기가요 #inkigayo #태연 #TAEYEON #Weekend @GirlsGeneration https://t.co/CQLnCIPfvQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인기가요",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "inkigayo",
+					"indices": [
+						104,
+						113
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						127,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						136,
+						152
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DyH5BsKvfE",
+					"expanded_url": "https://programs.sbs.co.kr/enter/gayo/visualboard/54795?cmd=view&page=1&board_no=435812",
+					"display_url": "programs.sbs.co.kr/enter/gayo/vis…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1415204580690825200,
+					"id_str": "1415204580690825217",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/E6PREWyVEAEQG8P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6PREWyVEAEQG8P.jpg",
+					"url": "https://t.co/CQLnCIPfvQ",
+					"display_url": "pic.twitter.com/CQLnCIPfvQ",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1415491307322105858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415204580690825200,
+					"id_str": "1415204580690825217",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/E6PREWyVEAEQG8P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6PREWyVEAEQG8P.jpg",
+					"url": "https://t.co/CQLnCIPfvQ",
+					"display_url": "pic.twitter.com/CQLnCIPfvQ",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1415491307322105858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1415204606255132700,
+					"id_str": "1415204606255132674",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/E6PRF2BVcAIq723.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6PRF2BVcAIq723.jpg",
+					"url": "https://t.co/CQLnCIPfvQ",
+					"display_url": "pic.twitter.com/CQLnCIPfvQ",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1415491307322105858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1415204625049809000,
+					"id_str": "1415204625049808900",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/E6PRG8CVcAQ-wuo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6PRG8CVcAQ-wuo.jpg",
+					"url": "https://t.co/CQLnCIPfvQ",
+					"display_url": "pic.twitter.com/CQLnCIPfvQ",
+					"expanded_url": "https://twitter.com/sbsnoriter/status/1415491307322105858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130755875210088400,
+			"id_str": "1130755875210088448",
+			"name": "SBS인기가요 (SBS Inkigayo)",
+			"screen_name": "sbsnoriter",
+			"location": "Seoul, Republic of Korea",
+			"description": "일요일엔 인기가요! 'SBS인기가요' 공식 채널에서만 만날 수 있는 다양한 콘텐츠를 지금 만나보세요 ~♡ \n--------------------------------\n매주 일요일 오후 3시 50분 \nEvery Sun 3:50(KST) SBS Live on Air",
+			"url": "https://t.co/skgJieaVqa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/skgJieaVqa",
+							"expanded_url": "https://programs.sbs.co.kr/enter/gayo/main",
+							"display_url": "programs.sbs.co.kr/enter/gayo/main",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76245,
+			"friends_count": 0,
+			"listed_count": 313,
+			"created_at": "Tue May 21 08:43:03 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1280728616762933253/4YOXJPkh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1280728616762933253/4YOXJPkh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130755875210088448/1615255987",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 265,
+		"favorite_count": 506,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤210711 인기가요 미션포토 \n\n조명이 필요없는 빛나는 태연의 미모✨\n홈페이지 미공개사진 무로고ver. 에서 확인하세요💜\n\n📸 https://t.co/DyH5BsKvfE\n\n#인기가요 #inkigayo #태연 #TAEYEON #Weekend @GirlsGeneration https://t.co/CQLnCIPfvQ"
+	},
+	{
 		"created_at": "Thu Jul 15 01:52:48 +0000 2021",
 		"id": 1415483157202280400,
 		"id_str": "1415489491721146369",
