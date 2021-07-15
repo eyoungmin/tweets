@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 15 07:01:14 +0000 2021",
+		"id": 1415556755975590000,
+		"id_str": "1415567112723079172",
+		"full_text": "'THE #BIGISSUEKOREA' NO.255\n✨This magazine contains an special interview of #KRYSTAL with 2 different covers❤💎\n\nGlobal link is now available! \n✔🌎Global → https://t.co/1yt4GpWgSo\n\n📣Through 'yes24 Global', only 'Type A' (all member cover) can be purchased.\n\n#JungSooJung https://t.co/pmklVSd3Un",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BIGISSUEKOREA",
+					"indices": [
+						5,
+						19
+					]
+				},
+				{
+					"text": "KRYSTAL",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "JungSooJung",
+					"indices": [
+						256,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1yt4GpWgSo",
+					"expanded_url": "http://bit.ly/2U38eh3",
+					"display_url": "bit.ly/2U38eh3",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1415555605566136300,
+					"id_str": "1415555605566136325",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/E6UQUsWVIAURr5c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6UQUsWVIAURr5c.jpg",
+					"url": "https://t.co/pmklVSd3Un",
+					"display_url": "pic.twitter.com/pmklVSd3Un",
+					"expanded_url": "https://twitter.com/bigissuekorea/status/1415556755975589892/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1654,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 370,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 653,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415555605566136300,
+					"id_str": "1415555605566136325",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/E6UQUsWVIAURr5c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6UQUsWVIAURr5c.jpg",
+					"url": "https://t.co/pmklVSd3Un",
+					"display_url": "pic.twitter.com/pmklVSd3Un",
+					"expanded_url": "https://twitter.com/bigissuekorea/status/1415556755975589892/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1654,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 370,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 653,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113791386,
+			"id_str": "113791386",
+			"name": "빅이슈코리아",
+			"screen_name": "bigissuekorea",
+			"location": "Seoul",
+			"description": "‘빈곤해체’를 미션으로 하는 사회적기업, #빅이슈코리아 주거취약계층의 자립을 돕는 매거진, 《빅이슈》를 발행합니다. \n✨255호 구매하기✨➡️ https://t.co/vyGUsEQS87\n🌐Global ➡️ https://t.co/MGZ5Ok1g48",
+			"url": "https://t.co/7AnlIguvcr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7AnlIguvcr",
+							"expanded_url": "http://www.bigissue.kr",
+							"display_url": "bigissue.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vyGUsEQS87",
+							"expanded_url": "http://bit.ly/3ril5YU",
+							"display_url": "bit.ly/3ril5YU",
+							"indices": [
+								80,
+								103
+							]
+						},
+						{
+							"url": "https://t.co/MGZ5Ok1g48",
+							"expanded_url": "http://bit.ly/2U38eh3",
+							"display_url": "bit.ly/2U38eh3",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11429,
+			"friends_count": 9225,
+			"listed_count": 384,
+			"created_at": "Sat Feb 13 02:11:09 +0000 2010",
+			"favourites_count": 1487,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090083669178347520/hLsqDmc4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090083669178347520/hLsqDmc4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113791386/1626310392",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'THE #BIGISSUEKOREA' NO.255\n✨This magazine contains an special interview of #KRYSTAL with 2 different covers❤💎\n\nGlobal link is now available! \n✔🌎Global → https://t.co/1yt4GpWgSo\n\n📣Through 'yes24 Global', only 'Type A' (all member cover) can be purchased.\n\n#JungSooJung https://t.co/pmklVSd3Un"
+	},
+	{
 		"created_at": "Thu Jul 15 05:56:34 +0000 2021",
 		"id": 1415550837724745700,
 		"id_str": "1415550837724745729",
