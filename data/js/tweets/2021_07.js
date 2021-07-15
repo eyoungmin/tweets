@@ -1,6 +1,453 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 15 13:45:37 +0000 2021",
+		"id": 1415662432236626000,
+		"id_str": "1415668879586516992",
+		"full_text": "이름은 #OliviaHye 인데 별명은 오백만 개🤭 지깅비아혜 퀸영숙의 낚시 히트는 계속된다! 잠시 후 오후 10시 30분(KST) 방송되는 채널A ‘나만 믿고 따라와 도시어부3’ 오늘도 기대해 주세요, 오빛💫\n\n#이달의소녀 #LOONA https://t.co/PR7o86EQk8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OliviaHye",
+					"indices": [
+						4,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						126,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1415528913296519200,
+					"id_str": "1415528913296519171",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/E6T4C_5VcAMEnXD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6T4C_5VcAMEnXD.jpg",
+					"url": "https://t.co/PR7o86EQk8",
+					"display_url": "pic.twitter.com/PR7o86EQk8",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1415662432236625923/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1504,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415528913296519200,
+					"id_str": "1415528913296519171",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/E6T4C_5VcAMEnXD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6T4C_5VcAMEnXD.jpg",
+					"url": "https://t.co/PR7o86EQk8",
+					"display_url": "pic.twitter.com/PR7o86EQk8",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1415662432236625923/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1504,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 771189,
+			"friends_count": 1,
+			"listed_count": 7670,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4693,
+		"favorite_count": 15138,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이름은 #OliviaHye 인데 별명은 오백만 개🤭 지깅비아혜 퀸영숙의 낚시 히트는 계속된다! 잠시 후 오후 10시 30분(KST) 방송되는 채널A ‘나만 믿고 따라와 도시어부3’ 오늘도 기대해 주세요, 오빛💫\n\n#이달의소녀 #LOONA https://t.co/PR7o86EQk8"
+	},
+	{
+		"created_at": "Thu Jul 15 13:04:27 +0000 2021",
+		"id": 1415653074215997400,
+		"id_str": "1415658521173979142",
+		"full_text": "#슬기zip 쥔님 혼자 집 지키는 날👸🏻 울 쥔님 외롭지 않게🥲심심하지 않게🥱 손님들 얼른 놀러오기👋🏻 멋지고 예쁘고 귀엽고 세상 혼자 다 사는 #슬기 오늘은 어떤 옷👚 입었을지 어떤 작업🖌 할지 벌써부터 설렌다...💖 #NOW온에어 #SEULGI 🏡 https://t.co/6P1FXNknTr https://t.co/vE29MazKDp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						131,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6P1FXNknTr",
+					"expanded_url": "https://now.naver.com/show/816",
+					"display_url": "now.naver.com/show/816",
+					"indices": [
+						141,
+						164
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1415653022802137000,
+					"id_str": "1415653022802137089",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Vo7H1UUAE_QMf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Vo7H1UUAE_QMf.jpg",
+					"url": "https://t.co/vE29MazKDp",
+					"display_url": "pic.twitter.com/vE29MazKDp",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1415653074215997447/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415653022802137000,
+					"id_str": "1415653022802137089",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Vo7H1UUAE_QMf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Vo7H1UUAE_QMf.jpg",
+					"url": "https://t.co/vE29MazKDp",
+					"display_url": "pic.twitter.com/vE29MazKDp",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1415653074215997447/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1415653049108885500,
+					"id_str": "1415653049108885504",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Vo8p1VcAAHA3D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Vo8p1VcAAHA3D.jpg",
+					"url": "https://t.co/vE29MazKDp",
+					"display_url": "pic.twitter.com/vE29MazKDp",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1415653074215997447/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35702,
+			"friends_count": 1,
+			"listed_count": 162,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1621911527",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2400,
+		"favorite_count": 4472,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 쥔님 혼자 집 지키는 날👸🏻 울 쥔님 외롭지 않게🥲심심하지 않게🥱 손님들 얼른 놀러오기👋🏻 멋지고 예쁘고 귀엽고 세상 혼자 다 사는 #슬기 오늘은 어떤 옷👚 입었을지 어떤 작업🖌 할지 벌써부터 설렌다...💖 #NOW온에어 #SEULGI 🏡 https://t.co/6P1FXNknTr https://t.co/vE29MazKDp"
+	},
+	{
 		"created_at": "Thu Jul 15 12:52:56 +0000 2021",
 		"id": 1415652366183899100,
 		"id_str": "1415655620322148355",
