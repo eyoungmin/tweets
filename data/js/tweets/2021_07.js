@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 15 15:04:28 +0000 2021",
+		"id": 1415683768556220400,
+		"id_str": "1415688724025798660",
+		"full_text": "#슬기zip 차곡차곡 생성 완료🧡 곰지락 곰지락..🐻 손님들 위한 준비한 반지💍 (짠!) 자꾸만 보고 싶은 갬성 슬디쥔님📻  오늘 손님들과 함께해서 #슬기 너무 즐거웠어요😎 모두모두 슬ㄴr잇😴 #NOW온에어 \n\n다음 주 화요일 #블루버스데이 💧🎂 #김예림 #홍석 과 투슬✌🏻✨ #SEULGI 🏡 꼬옥! 놀러오기😉 https://t.co/XLeZPXE6yS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						108,
+						115
+					]
+				},
+				{
+					"text": "블루버스데이",
+					"indices": [
+						127,
+						134
+					]
+				},
+				{
+					"text": "김예림",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "홍석",
+					"indices": [
+						143,
+						146
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						155,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1415683716626620400,
+					"id_str": "1415683716626620416",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/E6WE1vPVoAAoOFg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6WE1vPVoAAoOFg.jpg",
+					"url": "https://t.co/XLeZPXE6yS",
+					"display_url": "pic.twitter.com/XLeZPXE6yS",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1415683768556220428/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415683716626620400,
+					"id_str": "1415683716626620416",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/E6WE1vPVoAAoOFg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6WE1vPVoAAoOFg.jpg",
+					"url": "https://t.co/XLeZPXE6yS",
+					"display_url": "pic.twitter.com/XLeZPXE6yS",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1415683768556220428/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1415683730723594200,
+					"id_str": "1415683730723594240",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/E6WE2jwUYAAVOlC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6WE2jwUYAAVOlC.jpg",
+					"url": "https://t.co/XLeZPXE6yS",
+					"display_url": "pic.twitter.com/XLeZPXE6yS",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1415683768556220428/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1736,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1017,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1415683749442855000,
+					"id_str": "1415683749442854928",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/E6WE3pfVoBACaOi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6WE3pfVoBACaOi.jpg",
+					"url": "https://t.co/XLeZPXE6yS",
+					"display_url": "pic.twitter.com/XLeZPXE6yS",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1415683768556220428/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1755,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1028,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 583,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1415683764072587300,
+					"id_str": "1415683764072587266",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/E6WE4f_VoAIHDfr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6WE4f_VoAIHDfr.jpg",
+					"url": "https://t.co/XLeZPXE6yS",
+					"display_url": "pic.twitter.com/XLeZPXE6yS",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1415683768556220428/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1685,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 988,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35758,
+			"friends_count": 1,
+			"listed_count": 164,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1621911527",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1705,
+		"favorite_count": 2979,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 차곡차곡 생성 완료🧡 곰지락 곰지락..🐻 손님들 위한 준비한 반지💍 (짠!) 자꾸만 보고 싶은 갬성 슬디쥔님📻  오늘 손님들과 함께해서 #슬기 너무 즐거웠어요😎 모두모두 슬ㄴr잇😴 #NOW온에어 \n\n다음 주 화요일 #블루버스데이 💧🎂 #김예림 #홍석 과 투슬✌🏻✨ #SEULGI 🏡 꼬옥! 놀러오기😉 https://t.co/XLeZPXE6yS"
+	},
+	{
 		"created_at": "Thu Jul 15 15:02:02 +0000 2021",
 		"id": 1415676338489356300,
 		"id_str": "1415688110998884356",
