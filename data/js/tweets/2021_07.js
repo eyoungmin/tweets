@@ -1,6 +1,379 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 15 01:01:09 +0000 2021",
+		"id": 1415475846983274500,
+		"id_str": "1415476495900758016",
+		"full_text": "《빅이슈》 255호 신간 발매🎉\n\n[COVER STORY]  배우 #정수정 #KRYSTAL\n[AD] #방탄 #진 빌보드 1위 축하 광고💫\n\n지금 바로 구매하기 👉https://t.co/Krqbekms0R\n\n#빅이슈 #bigissue #빅이슈255호 #빅이슈잡지 #매거진 #빅판 #정수정 #크리스탈 #KRYSTAL #새콤달콤 #애비규환 https://t.co/2OrivZFZfU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정수정",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "KRYSTAL",
+					"indices": [
+						42,
+						50
+					]
+				},
+				{
+					"text": "방탄",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "진",
+					"indices": [
+						60,
+						62
+					]
+				},
+				{
+					"text": "빅이슈",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "bigissue",
+					"indices": [
+						120,
+						129
+					]
+				},
+				{
+					"text": "빅이슈255호",
+					"indices": [
+						130,
+						138
+					]
+				},
+				{
+					"text": "빅이슈잡지",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "매거진",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "빅판",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "정수정",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "크리스탈",
+					"indices": [
+						160,
+						165
+					]
+				},
+				{
+					"text": "KRYSTAL",
+					"indices": [
+						166,
+						174
+					]
+				},
+				{
+					"text": "새콤달콤",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "애비규환",
+					"indices": [
+						181,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Krqbekms0R",
+					"expanded_url": "http://bit.ly/3ril5YU",
+					"display_url": "bit.ly/3ril5YU",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1415475814754230300,
+					"id_str": "1415475814754230272",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/E6THwQaVIAAeNa4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6THwQaVIAAeNa4.jpg",
+					"url": "https://t.co/2OrivZFZfU",
+					"display_url": "pic.twitter.com/2OrivZFZfU",
+					"expanded_url": "https://twitter.com/bigissuekorea/status/1415475846983274496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415475814754230300,
+					"id_str": "1415475814754230272",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/E6THwQaVIAAeNa4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6THwQaVIAAeNa4.jpg",
+					"url": "https://t.co/2OrivZFZfU",
+					"display_url": "pic.twitter.com/2OrivZFZfU",
+					"expanded_url": "https://twitter.com/bigissuekorea/status/1415475846983274496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1415475814750068700,
+					"id_str": "1415475814750068742",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/E6THwQZVoAYwze3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6THwQZVoAYwze3.jpg",
+					"url": "https://t.co/2OrivZFZfU",
+					"display_url": "pic.twitter.com/2OrivZFZfU",
+					"expanded_url": "https://twitter.com/bigissuekorea/status/1415475846983274496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1415475814750056400,
+					"id_str": "1415475814750056453",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/E6THwQZVcAUxBbH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6THwQZVcAUxBbH.jpg",
+					"url": "https://t.co/2OrivZFZfU",
+					"display_url": "pic.twitter.com/2OrivZFZfU",
+					"expanded_url": "https://twitter.com/bigissuekorea/status/1415475846983274496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113791386,
+			"id_str": "113791386",
+			"name": "빅이슈코리아",
+			"screen_name": "bigissuekorea",
+			"location": "Seoul",
+			"description": "‘빈곤해체’를 미션으로 하는 사회적기업, #빅이슈코리아 주거취약계층의 자립을 돕는 매거진, 《빅이슈》를 발행합니다. \n✨254호 구매하기✨➡️ https://t.co/y6sDPv9gcb",
+			"url": "https://t.co/7AnlIguvcr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7AnlIguvcr",
+							"expanded_url": "http://www.bigissue.kr",
+							"display_url": "bigissue.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/y6sDPv9gcb",
+							"expanded_url": "http://bit.ly/3jsHtg3",
+							"display_url": "bit.ly/3jsHtg3",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11427,
+			"friends_count": 9225,
+			"listed_count": 384,
+			"created_at": "Sat Feb 13 02:11:09 +0000 2010",
+			"favourites_count": 1487,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090083669178347520/hLsqDmc4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090083669178347520/hLsqDmc4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113791386/1626310392",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "《빅이슈》 255호 신간 발매🎉\n\n[COVER STORY]  배우 #정수정 #KRYSTAL\n[AD] #방탄 #진 빌보드 1위 축하 광고💫\n\n지금 바로 구매하기 👉https://t.co/Krqbekms0R\n\n#빅이슈 #bigissue #빅이슈255호 #빅이슈잡지 #매거진 #빅판 #정수정 #크리스탈 #KRYSTAL #새콤달콤 #애비규환 https://t.co/2OrivZFZfU"
+	},
+	{
 		"created_at": "Wed Jul 14 16:58:39 +0000 2021",
 		"id": 1415355070376513500,
 		"id_str": "1415355070376513541",
