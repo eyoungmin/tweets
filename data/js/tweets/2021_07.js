@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 16 15:01:32 +0000 2021",
+		"id": 1416036498755920000,
+		"id_str": "1416050373328969730",
+		"full_text": "#빅이슈 255호 메이킹_ #정수정 _수정_진짜수정_진짜최종수정임_최종.mp4\n\n사실 수정할 부분이 없었다고 한다.\n수정할 필요 없는 수정...💎\n\n보러가요...🤍\n 🎬https://t.co/OTvjXWJUiX\n\n#빅이슈코리아 #크리스탈 #Krystal #애비규환 #새콤달콤 #경찰수업",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "빅이슈",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "정수정",
+					"indices": [
+						15,
+						19
+					]
+				},
+				{
+					"text": "빅이슈코리아",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"text": "크리스탈",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "Krystal",
+					"indices": [
+						133,
+						141
+					]
+				},
+				{
+					"text": "애비규환",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "새콤달콤",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "경찰수업",
+					"indices": [
+						154,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OTvjXWJUiX",
+					"expanded_url": "https://bit.ly/3kmRHza",
+					"display_url": "bit.ly/3kmRHza",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113791386,
+			"id_str": "113791386",
+			"name": "빅이슈코리아",
+			"screen_name": "bigissuekorea",
+			"location": "Seoul",
+			"description": "‘빈곤해체’를 미션으로 하는 사회적기업, #빅이슈코리아 주거취약계층의 자립을 돕는 매거진, 《빅이슈》를 발행합니다. \n✨255호 구매하기✨➡️ https://t.co/vyGUsEQS87\n🌐Global ➡️ https://t.co/MGZ5Ok1g48",
+			"url": "https://t.co/7AnlIguvcr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7AnlIguvcr",
+							"expanded_url": "http://www.bigissue.kr",
+							"display_url": "bigissue.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vyGUsEQS87",
+							"expanded_url": "http://bit.ly/3ril5YU",
+							"display_url": "bit.ly/3ril5YU",
+							"indices": [
+								80,
+								103
+							]
+						},
+						{
+							"url": "https://t.co/MGZ5Ok1g48",
+							"expanded_url": "http://bit.ly/2U38eh3",
+							"display_url": "bit.ly/2U38eh3",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11434,
+			"friends_count": 9224,
+			"listed_count": 384,
+			"created_at": "Sat Feb 13 02:11:09 +0000 2010",
+			"favourites_count": 1487,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090083669178347520/hLsqDmc4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090083669178347520/hLsqDmc4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113791386/1626310392",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#빅이슈 255호 메이킹_ #정수정 _수정_진짜수정_진짜최종수정임_최종.mp4\n\n사실 수정할 부분이 없었다고 한다.\n수정할 필요 없는 수정...💎\n\n보러가요...🤍\n 🎬https://t.co/OTvjXWJUiX\n\n#빅이슈코리아 #크리스탈 #Krystal #애비규환 #새콤달콤 #경찰수업"
+	},
+	{
 		"created_at": "Fri Jul 16 13:45:37 +0000 2021",
 		"id": 1416029149714522000,
 		"id_str": "1416031266332413960",
