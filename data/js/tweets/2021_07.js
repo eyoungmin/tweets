@@ -1,6 +1,344 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 16 17:52:48 +0000 2021",
+		"id": 1416081419395375000,
+		"id_str": "1416093471941738496",
+		"full_text": "this one’s been on repeat for a while now! soo excited that you guys can finally hear it 🥳 thank you @kellyleeowens 💘 https://t.co/2KF06uAati",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kellyleeowens",
+					"name": "Kelly Lee Owens",
+					"id": 290650472,
+					"id_str": "290650472",
+					"indices": [
+						101,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2KF06uAati",
+					"expanded_url": "https://twitter.com/kellyleeowens/status/1415953897500336137",
+					"display_url": "twitter.com/kellyleeowens/…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81858,
+			"friends_count": 264,
+			"listed_count": 304,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5927,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394240555333337089/STtGqeaY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394240555333337089/STtGqeaY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1621409378",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1415953897500336000,
+		"quoted_status_id_str": "1415953897500336137",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2KF06uAati",
+			"expanded": "https://twitter.com/kellyleeowens/status/1415953897500336137",
+			"display": "twitter.com/kellyleeowens/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 16 08:38:10 +0000 2021",
+			"id": 1415953897500336000,
+			"id_str": "1415953897500336137",
+			"full_text": "It was such a joy to work on this @thisissigrid remix! The song itself is incredible and I wanted to take it to clubbier heights with my reimagining of it. I feel it’s more important than ever that we keep dancing! Listen now.\n\nhttps://t.co/7acX4rn5au https://t.co/VUsOHSWkos",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				251
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "thisissigrid",
+						"name": "sigrid",
+						"id": 819042492,
+						"id_str": "819042492",
+						"indices": [
+							34,
+							47
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/7acX4rn5au",
+						"expanded_url": "https://sigrid.lnk.to/KellyLeeOwensKL",
+						"display_url": "sigrid.lnk.to/KellyLeeOwensKL",
+						"indices": [
+							228,
+							251
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1415953675101560800,
+						"id_str": "1415953675101560833",
+						"indices": [
+							252,
+							275
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415953675101560833/pu/img/UdCMVfhVW9u-321p.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415953675101560833/pu/img/UdCMVfhVW9u-321p.jpg",
+						"url": "https://t.co/VUsOHSWkos",
+						"display_url": "pic.twitter.com/VUsOHSWkos",
+						"expanded_url": "https://twitter.com/kellyleeowens/status/1415953897500336137/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1250,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1415953675101560800,
+						"id_str": "1415953675101560833",
+						"indices": [
+							252,
+							275
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415953675101560833/pu/img/UdCMVfhVW9u-321p.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415953675101560833/pu/img/UdCMVfhVW9u-321p.jpg",
+						"url": "https://t.co/VUsOHSWkos",
+						"display_url": "pic.twitter.com/VUsOHSWkos",
+						"expanded_url": "https://twitter.com/kellyleeowens/status/1415953897500336137/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1250,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								5
+							],
+							"duration_millis": 20440,
+							"variants": [
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1415953675101560833/pu/vid/480x600/XDwHsi_AI1JWAFCk.mp4?tag=12"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1415953675101560833/pu/vid/320x400/BcFNKoLTa6wa8jK5.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1415953675101560833/pu/vid/720x900/SvFHxobCbR_VBrHF.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1415953675101560833/pu/pl/OEP9uOhTKd3SdB4C.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 290650472,
+				"id_str": "290650472",
+				"name": "Kelly Lee Owens",
+				"screen_name": "kellyleeowens",
+				"location": "London, UK.",
+				"description": "NEW ALBUM ‘INNER SONG’ OUT NOW!",
+				"url": "https://t.co/EC7qqarudR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EC7qqarudR",
+								"expanded_url": "https://linktr.ee/kellyleeowens",
+								"display_url": "linktr.ee/kellyleeowens",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11433,
+				"friends_count": 189,
+				"listed_count": 122,
+				"created_at": "Sat Apr 30 17:08:16 +0000 2011",
+				"favourites_count": 11370,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1118,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "08040F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1331575249348009985/t-PVdaNv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331575249348009985/t-PVdaNv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/290650472/1608135981",
+				"profile_link_color": "150542",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 65,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 17,
+		"favorite_count": 135,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this one’s been on repeat for a while now! soo excited that you guys can finally hear it 🥳 thank you @kellyleeowens 💘 https://t.co/2KF06uAati"
+	},
+	{
 		"created_at": "Fri Jul 16 16:44:44 +0000 2021",
 		"id": 1416076343549337600,
 		"id_str": "1416076343549337602",
