@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 16 15:52:54 +0000 2021",
+		"id": 1415664066861826000,
+		"id_str": "1416063297955188743",
+		"full_text": "📢Calling all UK @thisissigrid fans...\n\nHave a burning question you'd love to ask her?🎶\n\nInterested in filming yourself asking your Sigrid question? If so email us📩theoneshow@bbc.co.uk \n\n...and you may just end up featured in the show! \n\n#TheOneShow @sigridinvain @SigridFanpage https://t.co/Or4NelZY1U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheOneShow",
+					"indices": [
+						237,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thisissigrid",
+					"name": "sigrid",
+					"id": 819042492,
+					"id_str": "819042492",
+					"indices": [
+						16,
+						29
+					]
+				},
+				{
+					"screen_name": "sigridinvain",
+					"name": "Sigrid In Vain Fanpage",
+					"id": 1119369707231096800,
+					"id_str": "1119369707231096833",
+					"indices": [
+						249,
+						262
+					]
+				},
+				{
+					"screen_name": "SigridFanpage",
+					"name": "Sigrid Fanpage",
+					"id": 872664514025672700,
+					"id_str": "872664514025672704",
+					"indices": [
+						263,
+						277
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1415664059823759400,
+					"id_str": "1415664059823759360",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E6Vy9j8VIAAfoca.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E6Vy9j8VIAAfoca.jpg",
+					"url": "https://t.co/Or4NelZY1U",
+					"display_url": "pic.twitter.com/Or4NelZY1U",
+					"expanded_url": "https://twitter.com/BBCTheOneShow/status/1415664066861826057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 268,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 268,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 268,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415664059823759400,
+					"id_str": "1415664059823759360",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E6Vy9j8VIAAfoca.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E6Vy9j8VIAAfoca.jpg",
+					"url": "https://t.co/Or4NelZY1U",
+					"display_url": "pic.twitter.com/Or4NelZY1U",
+					"expanded_url": "https://twitter.com/BBCTheOneShow/status/1415664066861826057/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 268,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 268,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 268,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							120,
+							67
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E6Vy9j8VIAAfoca.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4339015883,
+			"id_str": "4339015883",
+			"name": "BBC The One Show",
+			"screen_name": "BBCTheOneShow",
+			"location": "London, England",
+			"description": "Live programme with topical stories and big name guests. Weekdays, 7pm on @BBCOne Tweets to us may be used in the show. For more details on how: https://t.co/pkMzL808Hm",
+			"url": "https://t.co/iBLaK3BAfh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iBLaK3BAfh",
+							"expanded_url": "http://www.bbc.co.uk/theoneshow",
+							"display_url": "bbc.co.uk/theoneshow",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pkMzL808Hm",
+							"expanded_url": "http://bbc.in/2Rdrk1V",
+							"display_url": "bbc.in/2Rdrk1V",
+							"indices": [
+								145,
+								168
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 88253,
+			"friends_count": 1764,
+			"listed_count": 200,
+			"created_at": "Tue Dec 01 10:56:41 +0000 2015",
+			"favourites_count": 8502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17555,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366913147790106629/QCPjz89g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366913147790106629/QCPjz89g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4339015883/1616259474",
+			"profile_link_color": "9E0800",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📢Calling all UK @thisissigrid fans...\n\nHave a burning question you'd love to ask her?🎶\n\nInterested in filming yourself asking your Sigrid question? If so email us📩theoneshow@bbc.co.uk \n\n...and you may just end up featured in the show! \n\n#TheOneShow @sigridinvain @SigridFanpage https://t.co/Or4NelZY1U"
+	},
+	{
 		"created_at": "Fri Jul 16 15:01:32 +0000 2021",
 		"id": 1416036498755920000,
 		"id_str": "1416050373328969730",
