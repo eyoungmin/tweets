@@ -1,6 +1,607 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 16 09:52:54 +0000 2021",
+		"id": 1415959570753544200,
+		"id_str": "1415972701500542976",
+		"full_text": "MAX CHANGMIN 최강창민 l 태연 TAEYEON 'Weekend' MV Reaction\n\n🎬https://t.co/7ThL1uTTiE\n\n#최강창민 #MAX_CHANGMIN\n#동방신기 #TVXQ! #東方神起\n#태연 #TAEYEON #Weekend\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최강창민",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "MAX_CHANGMIN",
+					"indices": [
+						86,
+						99
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						123,
+						131
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						132,
+						140
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						147,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7ThL1uTTiE",
+					"expanded_url": "https://youtu.be/jDPFuX8cZl8",
+					"display_url": "youtu.be/jDPFuX8cZl8",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319815,
+			"friends_count": 1,
+			"listed_count": 927,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395373634357665796/5sSYvz_w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395373634357665796/5sSYvz_w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1621517975",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1767,
+		"favorite_count": 3001,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MAX CHANGMIN 최강창민 l 태연 TAEYEON 'Weekend' MV Reaction\n\n🎬https://t.co/7ThL1uTTiE\n\n#최강창민 #MAX_CHANGMIN\n#동방신기 #TVXQ! #東方神起\n#태연 #TAEYEON #Weekend\n#소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Fri Jul 16 09:52:48 +0000 2021",
+		"id": 1415959957837549600,
+		"id_str": "1415972675722301445",
+		"full_text": "MNH ENTERTAINMENT \n공식 인스타그램이 개설되었습니다!🎉\n\nOfficial IG : mnhent.official \n👉 https://t.co/nK90Qho0Qr\n\n#MNH엔터테인먼트 #MNHent\n#청하 #CHUNGHA\n#밴디트 #BVNDIT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MNH엔터테인먼트",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"text": "MNHent",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						121,
+						129
+					]
+				},
+				{
+					"text": "밴디트",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "BVNDIT",
+					"indices": [
+						135,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nK90Qho0Qr",
+					"expanded_url": "https://www.instagram.com/mnhent.official/",
+					"display_url": "instagram.com/mnhent.officia…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4811494633,
+			"id_str": "4811494633",
+			"name": "MNH ent.",
+			"screen_name": "mnhent_01",
+			"location": "",
+			"description": "MNH Entertainment Official Twitter",
+			"url": "https://t.co/aMSIKt43IK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aMSIKt43IK",
+							"expanded_url": "http://mnhenter.com",
+							"display_url": "mnhenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29976,
+			"friends_count": 7,
+			"listed_count": 331,
+			"created_at": "Mon Jan 25 08:29:56 +0000 2016",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1985,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1415911773614469123/V_WGnenk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415911773614469123/V_WGnenk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4811494633/1552967838",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 404,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MNH ENTERTAINMENT \n공식 인스타그램이 개설되었습니다!🎉\n\nOfficial IG : mnhent.official \n👉 https://t.co/nK90Qho0Qr\n\n#MNH엔터테인먼트 #MNHent\n#청하 #CHUNGHA\n#밴디트 #BVNDIT"
+	},
+	{
+		"created_at": "Fri Jul 16 09:20:48 +0000 2021",
+		"id": 1415960647888556000,
+		"id_str": "1415964624701116416",
+		"full_text": "사극 &lt;보쌈-운명을 훔치다&gt;를 무사히 완주하고 현실로 돌아온 #권유리 를 만났습니다. 이제는 스스로를 조금 더 알 것 같다고 말하는 권유리의 화보와 인터뷰는 &lt;얼루어&gt; 8월호에서 만날 수 있습니다. 👉🏻 https://t.co/M4zhiXcB4g\n\n#KWONYURI #YURI #유리 #소녀시대 #GirlsGeneration #얼루어 #allure https://t.co/87rxS4JNwI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권유리",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "KWONYURI",
+					"indices": [
+						151,
+						160
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						171,
+						176
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						177,
+						193
+					]
+				},
+				{
+					"text": "얼루어",
+					"indices": [
+						194,
+						198
+					]
+				},
+				{
+					"text": "allure",
+					"indices": [
+						199,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M4zhiXcB4g",
+					"expanded_url": "http://allurekorea.com/?ddw=92079",
+					"display_url": "allurekorea.com/?ddw=92079",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1415956937338851300,
+					"id_str": "1415956937338851328",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415956937338851328/pu/img/HeiBiSFi3f1_HYbU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415956937338851328/pu/img/HeiBiSFi3f1_HYbU.jpg",
+					"url": "https://t.co/87rxS4JNwI",
+					"display_url": "pic.twitter.com/87rxS4JNwI",
+					"expanded_url": "https://twitter.com/allurekorea/status/1415960647888556035/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415956937338851300,
+					"id_str": "1415956937338851328",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415956937338851328/pu/img/HeiBiSFi3f1_HYbU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415956937338851328/pu/img/HeiBiSFi3f1_HYbU.jpg",
+					"url": "https://t.co/87rxS4JNwI",
+					"display_url": "pic.twitter.com/87rxS4JNwI",
+					"expanded_url": "https://twitter.com/allurekorea/status/1415960647888556035/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 12746,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1415956937338851328/pu/vid/480x600/BT9ixP7fEbtdprbS.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1415956937338851328/pu/pl/n-fpm_WTCTVE7Dp3.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1415956937338851328/pu/vid/320x400/DzqhPpVK7aGLsfGC.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1415956937338851328/pu/vid/720x900/r0-K9kv4arqWxYw6.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262307,
+			"id_str": "78262307",
+			"name": "allure korea",
+			"screen_name": "allurekorea",
+			"location": "Seoul",
+			"description": "beauty & style expert, Allure Magazine Korea",
+			"url": "https://t.co/arFVZMPfxh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/arFVZMPfxh",
+							"expanded_url": "http://www.allurekorea.com",
+							"display_url": "allurekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37032,
+			"friends_count": 1,
+			"listed_count": 296,
+			"created_at": "Tue Sep 29 09:19:06 +0000 2009",
+			"favourites_count": 157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123776053632229378/Dt_b2R_a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262307/1624263832",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 243,
+		"favorite_count": 238,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사극 &lt;보쌈-운명을 훔치다&gt;를 무사히 완주하고 현실로 돌아온 #권유리 를 만났습니다. 이제는 스스로를 조금 더 알 것 같다고 말하는 권유리의 화보와 인터뷰는 &lt;얼루어&gt; 8월호에서 만날 수 있습니다. 👉🏻 https://t.co/M4zhiXcB4g\n\n#KWONYURI #YURI #유리 #소녀시대 #GirlsGeneration #얼루어 #allure https://t.co/87rxS4JNwI"
+	},
+	{
 		"created_at": "Fri Jul 16 08:52:48 +0000 2021",
 		"id": 1415944685747466200,
 		"id_str": "1415957576437714944",
