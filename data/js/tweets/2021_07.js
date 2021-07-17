@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 17 16:52:57 +0000 2021",
+		"id": 1416439059182928000,
+		"id_str": "1416440798380535810",
+		"full_text": "🥳 https://t.co/L55Gw6O7Wc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/L55Gw6O7Wc",
+					"expanded_url": "https://twitter.com/BBCTheOneShow/status/1416104714542911490",
+					"display_url": "twitter.com/BBCTheOneShow/…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81940,
+			"friends_count": 264,
+			"listed_count": 304,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5927,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394240555333337089/STtGqeaY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394240555333337089/STtGqeaY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1621409378",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1416104714542911500,
+		"quoted_status_id_str": "1416104714542911490",
+		"quoted_status_permalink": {
+			"url": "https://t.co/L55Gw6O7Wc",
+			"expanded": "https://twitter.com/BBCTheOneShow/status/1416104714542911490",
+			"display": "twitter.com/BBCTheOneShow/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 16 18:37:28 +0000 2021",
+			"id": 1416104714542911500,
+			"id_str": "1416104714542911490",
+			"full_text": "This song! 💛🔥\n\nThe amazing @thisissigrid with an exclusive performance of her latest single Mirror at the beautiful @SerpentineVenue.\n\nWatch in full 👉https://t.co/gbdTCzmcHj \n\n#TheOneShow https://t.co/MVatoEbWUj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				187
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TheOneShow",
+						"indices": [
+							176,
+							187
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "thisissigrid",
+						"name": "sigrid",
+						"id": 819042492,
+						"id_str": "819042492",
+						"indices": [
+							27,
+							40
+						]
+					},
+					{
+						"screen_name": "SerpentineVenue",
+						"name": "Serpentine Venue",
+						"id": 2837996253,
+						"id_str": "2837996253",
+						"indices": [
+							116,
+							132
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/gbdTCzmcHj",
+						"expanded_url": "http://youtu.be/_o0dc-ZLZ04",
+						"display_url": "youtu.be/_o0dc-ZLZ04",
+						"indices": [
+							150,
+							173
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1416063935963443200,
+						"id_str": "1416063935963443206",
+						"indices": [
+							188,
+							211
+						],
+						"media_url": "http://pbs.twimg.com/media/E6bfTTAWQAMt56u.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E6bfTTAWQAMt56u.jpg",
+						"url": "https://t.co/MVatoEbWUj",
+						"display_url": "pic.twitter.com/MVatoEbWUj",
+						"expanded_url": "https://twitter.com/BBCTheOneShow/status/1416104714542911490/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1416063935963443200,
+						"id_str": "1416063935963443206",
+						"indices": [
+							188,
+							211
+						],
+						"media_url": "http://pbs.twimg.com/media/E6bfTTAWQAMt56u.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E6bfTTAWQAMt56u.jpg",
+						"url": "https://t.co/MVatoEbWUj",
+						"display_url": "pic.twitter.com/MVatoEbWUj",
+						"expanded_url": "https://twitter.com/BBCTheOneShow/status/1416104714542911490/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 29240,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1416063935963443206/vid/720x720/pVw57vPjtvCdkrWv.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1416063935963443206/vid/540x540/4Giu4q2qGtxl_i_r.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1416063935963443206/pl/HBoERRdysiTm8KYs.m3u8?tag=14"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1416063935963443206/vid/320x320/_hEGneIylLyO9uEI.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "The One Show",
+							"description": "Sigrid - Mirror ",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4339015883,
+				"id_str": "4339015883",
+				"name": "BBC The One Show",
+				"screen_name": "BBCTheOneShow",
+				"location": "London, England",
+				"description": "Live programme with topical stories and big name guests. Weekdays, 7pm on @BBCOne Tweets to us may be used in the show. For more details on how: https://t.co/pkMzL808Hm",
+				"url": "https://t.co/iBLaK3BAfh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iBLaK3BAfh",
+								"expanded_url": "http://www.bbc.co.uk/theoneshow",
+								"display_url": "bbc.co.uk/theoneshow",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/pkMzL808Hm",
+								"expanded_url": "http://bbc.in/2Rdrk1V",
+								"display_url": "bbc.in/2Rdrk1V",
+								"indices": [
+									145,
+									168
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 88255,
+				"friends_count": 1765,
+				"listed_count": 200,
+				"created_at": "Tue Dec 01 10:56:41 +0000 2015",
+				"favourites_count": 8500,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 17575,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1366913147790106629/QCPjz89g_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366913147790106629/QCPjz89g_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4339015883/1616259474",
+				"profile_link_color": "9E0800",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 99,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 12,
+		"favorite_count": 179,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🥳 https://t.co/L55Gw6O7Wc"
+	},
+	{
 		"created_at": "Sat Jul 17 15:12:08 +0000 2021",
 		"id": 1416412633947803600,
 		"id_str": "1416415428478267399",
