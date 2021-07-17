@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 17 11:21:05 +0000 2021",
+		"id": 1416351980507652000,
+		"id_str": "1416357280749035521",
+		"full_text": "레게노의 귀환! 2세대 여돌들의 화려한 컴백\n\n#태연 #핫펠트 #공민지 #소녀시대 #Weekend #Summertime #효린 #씨스타 #없던이유 #티아모 #2ne1 #아이돌 #여돌 #컴백 \nhttps://t.co/yaB372jGgv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						26,
+						29
+					]
+				},
+				{
+					"text": "핫펠트",
+					"indices": [
+						30,
+						34
+					]
+				},
+				{
+					"text": "공민지",
+					"indices": [
+						35,
+						39
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						40,
+						45
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						46,
+						54
+					]
+				},
+				{
+					"text": "Summertime",
+					"indices": [
+						55,
+						66
+					]
+				},
+				{
+					"text": "효린",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "씨스타",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "없던이유",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "티아모",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "2ne1",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "아이돌",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "여돌",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "컴백",
+					"indices": [
+						102,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yaB372jGgv",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/56918?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/56918?…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88974,
+			"friends_count": 3,
+			"listed_count": 400,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12880,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레게노의 귀환! 2세대 여돌들의 화려한 컴백\n\n#태연 #핫펠트 #공민지 #소녀시대 #Weekend #Summertime #효린 #씨스타 #없던이유 #티아모 #2ne1 #아이돌 #여돌 #컴백 \nhttps://t.co/yaB372jGgv"
+	},
+	{
+		"created_at": "Sat Jul 17 11:07:33 +0000 2021",
+		"id": 1416353878031802400,
+		"id_str": "1416353878031802382",
+		"full_text": "#유리한TV #유리한식탁 \n[유리한 식탁2] EP2-1. 율 주인장에게 날라 온 63만 요리 너튜버의 도.전.장 \nhttps://t.co/WMaQDUk9C4 \n \n#소녀시대 #GirlsGeneration \n#권유리 #YuriKwon #유리 #YURI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유리한TV",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "유리한식탁",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						97,
+						113
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "YuriKwon",
+					"indices": [
+						120,
+						129
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						134,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WMaQDUk9C4",
+					"expanded_url": "https://www.youtube.com/watch?v=9gpH0lrgYOM",
+					"display_url": "youtube.com/watch?v=9gpH0l…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1053,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유리한TV #유리한식탁 \n[유리한 식탁2] EP2-1. 율 주인장에게 날라 온 63만 요리 너튜버의 도.전.장 \nhttps://t.co/WMaQDUk9C4 \n \n#소녀시대 #GirlsGeneration \n#권유리 #YuriKwon #유리 #YURI"
+	},
+	{
 		"created_at": "Sat Jul 17 09:21:35 +0000 2021",
 		"id": 1416321776615792600,
 		"id_str": "1416327209506115586",
