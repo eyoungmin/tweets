@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 18 04:09:58 +0000 2021",
+		"id": 1416611177149440000,
+		"id_str": "1416611177149440000",
+		"full_text": "#백예린 #YerinBaek #알라딘\n백예린 - Every letter I sent you. [2CD] (백예린드림어스 | 2020년 08월 | 54,900원)\nhttps://t.co/sTzs4btPoL https://t.co/Cof17pF0E3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "YerinBaek",
+					"indices": [
+						5,
+						15
+					]
+				},
+				{
+					"text": "알라딘",
+					"indices": [
+						16,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sTzs4btPoL",
+					"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?itemid=229030812",
+					"display_url": "aladin.co.kr/shop/wproduct.…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1416611175886999600,
+					"id_str": "1416611175886999553",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/E6jQW-OX0AE9nTf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6jQW-OX0AE9nTf.jpg",
+					"url": "https://t.co/Cof17pF0E3",
+					"display_url": "pic.twitter.com/Cof17pF0E3",
+					"expanded_url": "https://twitter.com/fromminn/status/1416611177149440000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1416611175886999600,
+					"id_str": "1416611175886999553",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/E6jQW-OX0AE9nTf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6jQW-OX0AE9nTf.jpg",
+					"url": "https://t.co/Cof17pF0E3",
+					"display_url": "pic.twitter.com/Cof17pF0E3",
+					"expanded_url": "https://twitter.com/fromminn/status/1416611177149440000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1053,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#백예린 #YerinBaek #알라딘\n백예린 - Every letter I sent you. [2CD] (백예린드림어스 | 2020년 08월 | 54,900원)\nhttps://t.co/sTzs4btPoL https://t.co/Cof17pF0E3"
+	},
+	{
 		"created_at": "Sun Jul 18 03:02:37 +0000 2021",
 		"id": 1416593200609828900,
 		"id_str": "1416594227333537792",
