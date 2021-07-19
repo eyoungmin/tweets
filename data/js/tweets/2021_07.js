@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 19 02:23:05 +0000 2021",
+		"id": 1416946474059931600,
+		"id_str": "1416946666364497921",
+		"full_text": "블랙핑크가 선택한 하나의 카드\nBLACKPINK‘s Choice\nBLACKPINK CARD by BC CARD\n\nhttps://t.co/AroyhLSTi2 \n\n#블랙핑크 #블랙핑크카드 #BLACKPINK #BLACKPINKCARD #BCCARD #비씨카드 #BC카드 #페이북 #paybooc https://t.co/gpLYCAKm9L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "블랙핑크카드",
+					"indices": [
+						95,
+						102
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						103,
+						113
+					]
+				},
+				{
+					"text": "BLACKPINKCARD",
+					"indices": [
+						114,
+						128
+					]
+				},
+				{
+					"text": "BCCARD",
+					"indices": [
+						129,
+						136
+					]
+				},
+				{
+					"text": "비씨카드",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "BC카드",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "페이북",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "paybooc",
+					"indices": [
+						154,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AroyhLSTi2",
+					"expanded_url": "http://bc.cr/?gyajp",
+					"display_url": "bc.cr/?gyajp",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1416945511282577400,
+					"id_str": "1416945511282577409",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/E6oBLO2VgAMg5-b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6oBLO2VgAMg5-b.jpg",
+					"url": "https://t.co/gpLYCAKm9L",
+					"display_url": "pic.twitter.com/gpLYCAKm9L",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1416946474059931652/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1416945511282577400,
+					"id_str": "1416945511282577409",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/E6oBLO2VgAMg5-b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6oBLO2VgAMg5-b.jpg",
+					"url": "https://t.co/gpLYCAKm9L",
+					"display_url": "pic.twitter.com/gpLYCAKm9L",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1416946474059931652/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 35834,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1416945511282577409/vid/480x270/90zwzNpkp7_PH70u.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1416945511282577409/vid/1280x720/xkVVRDu1WUWB1EXX.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1416945511282577409/pl/KknbxMcp2VyhNZKe.m3u8?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1416945511282577409/vid/640x360/elKxtdPhW6RaVtG2.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/aWhwrQsIZl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWhwrQsIZl",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4289634,
+			"friends_count": 0,
+			"listed_count": 6028,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 336,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1623718900",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10248,
+		"favorite_count": 33795,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블랙핑크가 선택한 하나의 카드\nBLACKPINK‘s Choice\nBLACKPINK CARD by BC CARD\n\nhttps://t.co/AroyhLSTi2 \n\n#블랙핑크 #블랙핑크카드 #BLACKPINK #BLACKPINKCARD #BCCARD #비씨카드 #BC카드 #페이북 #paybooc https://t.co/gpLYCAKm9L"
+	},
+	{
 		"created_at": "Sun Jul 18 22:54:37 +0000 2021",
 		"id": 1416894205792866300,
 		"id_str": "1416894205792866306",
