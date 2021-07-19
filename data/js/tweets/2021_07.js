@@ -1,6 +1,499 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 19 04:12:35 +0000 2021",
+		"id": 1416964088752599000,
+		"id_str": "1416974221524168706",
+		"full_text": "#ONEW #온유 #KEY #키\n#MINHO #민호 #TAEMIN #태민\n#SHINee #샤이니\n#marieclaire #마리끌레르 https://t.co/qiqX2Zsqj0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ONEW",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "온유",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "KEY",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						15,
+						17
+					]
+				},
+				{
+					"text": "MINHO",
+					"indices": [
+						18,
+						24
+					]
+				},
+				{
+					"text": "민호",
+					"indices": [
+						25,
+						28
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						29,
+						36
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						41,
+						48
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "marieclaire",
+					"indices": [
+						54,
+						66
+					]
+				},
+				{
+					"text": "마리끌레르",
+					"indices": [
+						67,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1416964077436293000,
+					"id_str": "1416964077436293121",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/E6oRUi8UUAEszu3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6oRUi8UUAEszu3.jpg",
+					"url": "https://t.co/qiqX2Zsqj0",
+					"display_url": "pic.twitter.com/qiqX2Zsqj0",
+					"expanded_url": "https://twitter.com/SHINee/status/1416964088752599040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1636,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1416964077436293000,
+					"id_str": "1416964077436293121",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/E6oRUi8UUAEszu3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6oRUi8UUAEszu3.jpg",
+					"url": "https://t.co/qiqX2Zsqj0",
+					"display_url": "pic.twitter.com/qiqX2Zsqj0",
+					"expanded_url": "https://twitter.com/SHINee/status/1416964088752599040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1636,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1416964077537042400,
+					"id_str": "1416964077537042433",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/E6oRUjUVoAEUAA2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6oRUjUVoAEUAA2.jpg",
+					"url": "https://t.co/qiqX2Zsqj0",
+					"display_url": "pic.twitter.com/qiqX2Zsqj0",
+					"expanded_url": "https://twitter.com/SHINee/status/1416964088752599040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1636,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1416964077608325000,
+					"id_str": "1416964077608325125",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/E6oRUjlVUAUkOJQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6oRUjlVUAUkOJQ.jpg",
+					"url": "https://t.co/qiqX2Zsqj0",
+					"display_url": "pic.twitter.com/qiqX2Zsqj0",
+					"expanded_url": "https://twitter.com/SHINee/status/1416964088752599040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 947,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 537,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1579,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1416964077687959600,
+					"id_str": "1416964077687959562",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/E6oRUj4UcAoxU3g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6oRUj4UcAoxU3g.jpg",
+					"url": "https://t.co/qiqX2Zsqj0",
+					"display_url": "pic.twitter.com/qiqX2Zsqj0",
+					"expanded_url": "https://twitter.com/SHINee/status/1416964088752599040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1636,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1416963987418218500,
+		"in_reply_to_status_id_str": "1416963987418218496",
+		"in_reply_to_user_id": 887973863824306200,
+		"in_reply_to_user_id_str": "887973863824306176",
+		"in_reply_to_screen_name": "SHINee",
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "TAEMIN - The 3rd Mini Album Advice",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2051434,
+			"friends_count": 2,
+			"listed_count": 5218,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402197244539904003/NfjlPV9e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402197244539904003/NfjlPV9e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1623144852",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3174,
+		"favorite_count": 7844,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#ONEW #온유 #KEY #키\n#MINHO #민호 #TAEMIN #태민\n#SHINee #샤이니\n#marieclaire #마리끌레르 https://t.co/qiqX2Zsqj0"
+	},
+	{
+		"created_at": "Mon Jul 19 04:05:23 +0000 2021",
+		"id": 1416969774463025200,
+		"id_str": "1416972410218160128",
+		"full_text": "[#하슬 / #HaSeul] 너무 보고 싶어요 오빛 ㅜㅜ 우리 볼 때까지 나갈 때 마스크 꼭꼭 쓰구 다니기 약속~👌 오빛 사랑해여 :)💚\n\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하슬",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HaSeul",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						85,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1416969741680349200,
+		"in_reply_to_status_id_str": "1416969741680349185",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 773616,
+			"friends_count": 1,
+			"listed_count": 7716,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3096,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1212,
+		"favorite_count": 6013,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[#하슬 / #HaSeul] 너무 보고 싶어요 오빛 ㅜㅜ 우리 볼 때까지 나갈 때 마스크 꼭꼭 쓰구 다니기 약속~👌 오빛 사랑해여 :)💚\n\n#이달의소녀 #LOONA"
+	},
+	{
 		"created_at": "Mon Jul 19 03:52:50 +0000 2021",
 		"id": 1416958622647480300,
 		"id_str": "1416969250670104576",
