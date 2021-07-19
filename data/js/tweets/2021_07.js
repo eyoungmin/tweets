@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 19 17:07:12 +0000 2021",
+		"id": 1417165246792409000,
+		"id_str": "1417169160744804376",
+		"full_text": "young heart by the lake for @floodmagazine 💛 https://t.co/aqOCRsZnAH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "floodmagazine",
+					"name": "FLOOD Magazine",
+					"id": 18517910,
+					"id_str": "18517910",
+					"indices": [
+						28,
+						42
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1417162578300752000,
+					"id_str": "1417162578300751887",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1417162578300751887/img/J3jIzYLEY5VYcmOP.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1417162578300751887/img/J3jIzYLEY5VYcmOP.jpg",
+					"url": "https://t.co/aqOCRsZnAH",
+					"display_url": "pic.twitter.com/aqOCRsZnAH",
+					"expanded_url": "https://twitter.com/birdy/status/1417165246792409093/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417162578300752000,
+					"id_str": "1417162578300751887",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1417162578300751887/img/J3jIzYLEY5VYcmOP.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1417162578300751887/img/J3jIzYLEY5VYcmOP.jpg",
+					"url": "https://t.co/aqOCRsZnAH",
+					"display_url": "pic.twitter.com/aqOCRsZnAH",
+					"expanded_url": "https://twitter.com/birdy/status/1417165246792409093/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 336640,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1417162578300751887/pl/gunlHX6zRkN6xOhQ.m3u8?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1417162578300751887/vid/480x270/rUp0IxhN1mymNJ0p.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1417162578300751887/vid/1280x720/Hmh1SFs0VxQIL0JU.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1417162578300751887/vid/640x360/O6CPUtu8ZvuISddt.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Young Heart - my new album, OUT NOW 💛 \nhttps://t.co/JJysUdcZGQ",
+			"url": "https://t.co/AOWSyI9JYu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JJysUdcZGQ",
+							"expanded_url": "http://birdy.lnk.to/Young-Heart",
+							"display_url": "birdy.lnk.to/Young-Heart",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 315978,
+			"friends_count": 181,
+			"listed_count": 1191,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 289,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "young heart by the lake for @floodmagazine 💛 https://t.co/aqOCRsZnAH"
+	},
+	{
 		"created_at": "Mon Jul 19 16:54:07 +0000 2021",
 		"id": 1417165867964674000,
 		"id_str": "1417165867964674055",
