@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 20 09:52:47 +0000 2021",
+		"id": 1417393843473899500,
+		"id_str": "1417422226580774912",
+		"full_text": "바라던 바다 네 번째 이야기··🐟\n\n#로제 와 함께하는 첫 낮 영업☀️\n바쁘고 정신없어도 \n미소를 잃지 않는 직원들😊\n\n한편 🌊바다에서는,\n바다 정화 활동을 이어가는 #김고은\n특수장비를 이용한 세밀한 작업까지!\n\n오늘 밤 9시 &lt;#바라던바다&gt; 본방사수🌊 https://t.co/426jgPYTZE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로제",
+					"indices": [
+						20,
+						23
+					]
+				},
+				{
+					"text": "김고은",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "바라던바다",
+					"indices": [
+						131,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1417027224658579500,
+					"id_str": "1417027224658579457",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/E6pMayYUUAEYrWQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6pMayYUUAEYrWQ.jpg",
+					"url": "https://t.co/426jgPYTZE",
+					"display_url": "pic.twitter.com/426jgPYTZE",
+					"expanded_url": "https://twitter.com/jtbclove/status/1417393843473899529/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417027224658579500,
+					"id_str": "1417027224658579457",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/E6pMayYUUAEYrWQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6pMayYUUAEYrWQ.jpg",
+					"url": "https://t.co/426jgPYTZE",
+					"display_url": "pic.twitter.com/426jgPYTZE",
+					"expanded_url": "https://twitter.com/jtbclove/status/1417393843473899529/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 58058,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1417027224658579457/pl/wIsFkzspeQSW718n.m3u8?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1417027224658579457/vid/640x360/kSPXMvrFgdO8sdjY.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1417027224658579457/vid/1280x720/v4M5bGbVyG8NGTDU.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1417027224658579457/vid/480x270/vaPqpykozlKomB2K.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[바라던 바다] 4회 예고",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.youtube.com/watch?v=Tpzyduwks2c"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 451581,
+			"friends_count": 111,
+			"listed_count": 737,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 22921,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1381488444128432131/05xHSfgm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1381488444128432131/05xHSfgm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1623634158",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2002,
+		"favorite_count": 6075,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "바라던 바다 네 번째 이야기··🐟\n\n#로제 와 함께하는 첫 낮 영업☀️\n바쁘고 정신없어도 \n미소를 잃지 않는 직원들😊\n\n한편 🌊바다에서는,\n바다 정화 활동을 이어가는 #김고은\n특수장비를 이용한 세밀한 작업까지!\n\n오늘 밤 9시 &lt;#바라던바다&gt; 본방사수🌊 https://t.co/426jgPYTZE"
+	},
+	{
 		"created_at": "Tue Jul 20 08:49:11 +0000 2021",
 		"id": 1417406217538920400,
 		"id_str": "1417406217538920454",
