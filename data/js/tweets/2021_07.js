@@ -1,6 +1,470 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 20 15:53:03 +0000 2021",
+		"id": 1417503579762577400,
+		"id_str": "1417512888533663754",
+		"full_text": "Music Of The Spheres. The new album 🪐 October 15th, 2021.\nAvailable to pre-order: https://t.co/TglyCzQdOq \n https://t.co/ydofZEUDmE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TglyCzQdOq",
+					"expanded_url": "https://cldp.ly/MOTS",
+					"display_url": "cldp.ly/MOTS",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1417485873369714700,
+					"id_str": "1417485873369714689",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/E6v5qjDXEAoH97h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6v5qjDXEAoH97h.jpg",
+					"url": "https://t.co/ydofZEUDmE",
+					"display_url": "pic.twitter.com/ydofZEUDmE",
+					"expanded_url": "https://twitter.com/coldplay/status/1417501125817819138/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1417501125817819100,
+					"source_status_id_str": "1417501125817819138",
+					"source_user_id": 18863815,
+					"source_user_id_str": "18863815"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417485873369714700,
+					"id_str": "1417485873369714689",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/E6v5qjDXEAoH97h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6v5qjDXEAoH97h.jpg",
+					"url": "https://t.co/ydofZEUDmE",
+					"display_url": "pic.twitter.com/ydofZEUDmE",
+					"expanded_url": "https://twitter.com/coldplay/status/1417501125817819138/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1417501125817819100,
+					"source_status_id_str": "1417501125817819138",
+					"source_user_id": 18863815,
+					"source_user_id_str": "18863815",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 114000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1417485873369714689/pl/3IfruJjgpZJ9hwIB.m3u8?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1417485873369714689/vid/480x270/NR0o4fhOVbcZ-dlx.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1417485873369714689/vid/640x360/3HZnryZawLadJ2Z8.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1417485873369714689/vid/1280x720/-wj12Lk2iPJSQBwL.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 18863815,
+							"id_str": "18863815",
+							"name": "Coldplay",
+							"screen_name": "coldplay",
+							"location": "Kaotica",
+							"description": "The official Twitter of the band Coldplay. New album, Music Of The Spheres, out October 15th, 2021.",
+							"url": "https://t.co/zVkAnvGWS0",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/zVkAnvGWS0",
+											"expanded_url": "https://linktr.ee/coldplay",
+											"display_url": "linktr.ee/coldplay",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 23002612,
+							"friends_count": 765,
+							"listed_count": 42752,
+							"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+							"favourites_count": 1309,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 8591,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": true,
+							"profile_background_color": "131516",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+							"profile_link_color": "11518C",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "EFEFEF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1417501479263477800,
+		"in_reply_to_status_id_str": "1417501479263477770",
+		"in_reply_to_user_id": 18863815,
+		"in_reply_to_user_id_str": "18863815",
+		"in_reply_to_screen_name": "coldplay",
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Kaotica",
+			"description": "The official Twitter of the band Coldplay. New album, Music Of The Spheres, out October 15th, 2021.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23002612,
+			"friends_count": 765,
+			"listed_count": 42752,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8591,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1284,
+		"favorite_count": 5767,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Music Of The Spheres. The new album 🪐 October 15th, 2021.\nAvailable to pre-order: https://t.co/TglyCzQdOq \n https://t.co/ydofZEUDmE"
+	},
+	{
+		"created_at": "Tue Jul 20 15:52:58 +0000 2021",
+		"id": 1417501479263477800,
+		"id_str": "1417512866891059200",
+		"full_text": "Love c, g, w &amp; j 🪐 (and p) https://t.co/XEJlt5XbE6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1417501445818044400,
+					"id_str": "1417501445818044424",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/E6v6DgKWUAgxeZz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6v6DgKWUAgxeZz.jpg",
+					"url": "https://t.co/XEJlt5XbE6",
+					"display_url": "pic.twitter.com/XEJlt5XbE6",
+					"expanded_url": "https://twitter.com/coldplay/status/1417501479263477770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 641,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1132,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1932,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417501445818044400,
+					"id_str": "1417501445818044424",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/E6v6DgKWUAgxeZz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6v6DgKWUAgxeZz.jpg",
+					"url": "https://t.co/XEJlt5XbE6",
+					"display_url": "pic.twitter.com/XEJlt5XbE6",
+					"expanded_url": "https://twitter.com/coldplay/status/1417501479263477770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 641,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1132,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1932,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Kaotica",
+			"description": "The official Twitter of the band Coldplay. New album, Music Of The Spheres, out October 15th, 2021.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23002612,
+			"friends_count": 765,
+			"listed_count": 42752,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8591,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4875,
+		"favorite_count": 20970,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Love c, g, w &amp; j 🪐 (and p) https://t.co/XEJlt5XbE6"
+	},
+	{
 		"created_at": "Tue Jul 20 15:06:18 +0000 2021",
 		"id": 1417501124358180900,
 		"id_str": "1417501124358180864",
