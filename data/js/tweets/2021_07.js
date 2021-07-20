@@ -1,6 +1,628 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 20 10:22:09 +0000 2021",
+		"id": 1417424040935837700,
+		"id_str": "1417429614612434958",
+		"full_text": "요건 몰랐지? 예술혼 빙의 시켜줄 여돌 취미생활 3\n\n#예리 #윤아 #강미나 #레드벨벳 #소녀시대 #썸머가이즈 #오진달래 #칵테일 #베이킹 #독서 #페인팅 #아이돌 #여돌\nhttps://t.co/Ushx5jFbcS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						34,
+						37
+					]
+				},
+				{
+					"text": "강미나",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "썸머가이즈",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "오진달래",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "칵테일",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "베이킹",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "독서",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "페인팅",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "아이돌",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "여돌",
+					"indices": [
+						92,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ushx5jFbcS",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/56947?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/56947?…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88988,
+			"friends_count": 3,
+			"listed_count": 400,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "요건 몰랐지? 예술혼 빙의 시켜줄 여돌 취미생활 3\n\n#예리 #윤아 #강미나 #레드벨벳 #소녀시대 #썸머가이즈 #오진달래 #칵테일 #베이킹 #독서 #페인팅 #아이돌 #여돌\nhttps://t.co/Ushx5jFbcS"
+	},
+	{
+		"created_at": "Tue Jul 20 10:22:08 +0000 2021",
+		"id": 1417424042466988000,
+		"id_str": "1417429612536102917",
+		"full_text": "염색 고민 중이라면 지금 당장 저장 각!\n\n#마마무 #화사 #태연 #에스파 #윈터 #아이돌 #염색 #헤어스타일 #소녀시대 #투톤 #우주소녀 #은서 #오마이걸 #아린\nhttps://t.co/QAiwYJ6jzA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "마마무",
+					"indices": [
+						24,
+						28
+					]
+				},
+				{
+					"text": "화사",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						33,
+						36
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "아이돌",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "염색",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "헤어스타일",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "투톤",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "우주소녀",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "은서",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "아린",
+					"indices": [
+						88,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QAiwYJ6jzA",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/56981?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/56981?…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88988,
+			"friends_count": 3,
+			"listed_count": 400,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "염색 고민 중이라면 지금 당장 저장 각!\n\n#마마무 #화사 #태연 #에스파 #윈터 #아이돌 #염색 #헤어스타일 #소녀시대 #투톤 #우주소녀 #은서 #오마이걸 #아린\nhttps://t.co/QAiwYJ6jzA"
+	},
+	{
+		"created_at": "Tue Jul 20 10:16:39 +0000 2021",
+		"id": 1417428231238701000,
+		"id_str": "1417428231238701064",
+		"full_text": "#이달의소녀 #LOONA #VLIVE \nhttps://t.co/Higbua3APR \n \n🖼️ 원본보기 \nhttps://t.co/m6Zsszbbr9 \n \n#브이라이브 #포스트 https://t.co/ulwpyYmdEP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "브이라이브",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "포스트",
+					"indices": [
+						92,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Higbua3APR",
+					"expanded_url": "https://www.vlive.tv/post/1-24222334",
+					"display_url": "vlive.tv/post/1-24222334",
+					"indices": [
+						22,
+						45
+					]
+				},
+				{
+					"url": "https://t.co/m6Zsszbbr9",
+					"expanded_url": "https://v-phinf.pstatic.net/20210720_99/16267661728706SGdT_JPEG/image.jpg",
+					"display_url": "v-phinf.pstatic.net/20210720_99/16…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1417428229577662500,
+					"id_str": "1417428229577662465",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E6u3dwaWYAEhBRL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6u3dwaWYAEhBRL.jpg",
+					"url": "https://t.co/ulwpyYmdEP",
+					"display_url": "pic.twitter.com/ulwpyYmdEP",
+					"expanded_url": "https://twitter.com/fromminn/status/1417428231238701064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417428229577662500,
+					"id_str": "1417428229577662465",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E6u3dwaWYAEhBRL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6u3dwaWYAEhBRL.jpg",
+					"url": "https://t.co/ulwpyYmdEP",
+					"display_url": "pic.twitter.com/ulwpyYmdEP",
+					"expanded_url": "https://twitter.com/fromminn/status/1417428231238701064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1053,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA #VLIVE \nhttps://t.co/Higbua3APR \n \n🖼️ 원본보기 \nhttps://t.co/m6Zsszbbr9 \n \n#브이라이브 #포스트 https://t.co/ulwpyYmdEP"
+	},
+	{
 		"created_at": "Tue Jul 20 09:52:47 +0000 2021",
 		"id": 1417393843473899500,
 		"id_str": "1417422226580774912",
