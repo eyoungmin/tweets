@@ -1,6 +1,899 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 21 09:30:39 +0000 2021",
+		"id": 1417779042468630500,
+		"id_str": "1417779042468630528",
+		"full_text": "#오떼르 #Hauteurtheday \n(ENG) 💪근손실 킹받네💦 츄&amp;희진이 요즘 핫한 운동하면 벌어지는 일 | 오떼르: 미션컴플희츄 [Ep. 6] \nhttps://t.co/gl4ZI4FnoU \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오떼르",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "Hauteurtheday",
+					"indices": [
+						5,
+						19
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "김지우",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						135,
+						137
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "츄튜브",
+					"indices": [
+						144,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gl4ZI4FnoU",
+					"expanded_url": "https://youtu.be/w3NkH3I6OeI",
+					"display_url": "youtu.be/w3NkH3I6OeI",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1053,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오떼르 #Hauteurtheday \n(ENG) 💪근손실 킹받네💦 츄&amp;희진이 요즘 핫한 운동하면 벌어지는 일 | 오떼르: 미션컴플희츄 [Ep. 6] \nhttps://t.co/gl4ZI4FnoU \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브"
+	},
+	{
+		"created_at": "Wed Jul 21 09:29:39 +0000 2021",
+		"id": 1417763780751204400,
+		"id_str": "1417778789132771329",
+		"full_text": "[K-Pop Live Sesseion]\n\n#LeeMujin's singin live🎤  Girls' Generation💗\n\n🎬YT LINK\n👉👉 https://t.co/RTbgszB6mC\n\n#Super_KPOP #이무진\n#소녀시대 #이승철 https://t.co/Prm4wWFSTo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LeeMujin",
+					"indices": [
+						23,
+						32
+					]
+				},
+				{
+					"text": "Super_KPOP",
+					"indices": [
+						106,
+						117
+					]
+				},
+				{
+					"text": "이무진",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "이승철",
+					"indices": [
+						129,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RTbgszB6mC",
+					"expanded_url": "https://youtu.be/EYicHbOqYbY",
+					"display_url": "youtu.be/EYicHbOqYbY",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1417730267305836500,
+					"id_str": "1417730267305836545",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/E6zKiSRVEAAKtiW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6zKiSRVEAAKtiW.jpg",
+					"url": "https://t.co/Prm4wWFSTo",
+					"display_url": "pic.twitter.com/Prm4wWFSTo",
+					"expanded_url": "https://twitter.com/arirangworld/status/1417763780751204355/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417730267305836500,
+					"id_str": "1417730267305836545",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/E6zKiSRVEAAKtiW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6zKiSRVEAAKtiW.jpg",
+					"url": "https://t.co/Prm4wWFSTo",
+					"display_url": "pic.twitter.com/Prm4wWFSTo",
+					"expanded_url": "https://twitter.com/arirangworld/status/1417763780751204355/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 179213,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1417730267305836545/vid/640x360/MxK8BgW8UCxrgMXP.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1417730267305836545/vid/1280x720/7i1C2EpjcsxvZwZF.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1417730267305836545/pl/mb2ZBTviAehjWpmS.m3u8?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1417730267305836545/vid/480x270/Kr3fwmeFHAeAJvQ4.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66625290,
+			"id_str": "66625290",
+			"name": "Arirang World",
+			"screen_name": "arirangworld",
+			"location": "South Korea",
+			"description": "Arirang TV & Radio",
+			"url": "https://t.co/eRqGeUFAHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eRqGeUFAHR",
+							"expanded_url": "https://www.youtube.com/arirangworld",
+							"display_url": "youtube.com/arirangworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 156506,
+			"friends_count": 212,
+			"listed_count": 1215,
+			"created_at": "Tue Aug 18 07:40:53 +0000 2009",
+			"favourites_count": 6348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25681,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E6E6E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410884603825455105/PsIcEN-m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410884603825455105/PsIcEN-m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66625290/1625216120",
+			"profile_link_color": "ED1846",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFB2D7",
+			"profile_text_color": "0A0A0A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[K-Pop Live Sesseion]\n\n#LeeMujin's singin live🎤  Girls' Generation💗\n\n🎬YT LINK\n👉👉 https://t.co/RTbgszB6mC\n\n#Super_KPOP #이무진\n#소녀시대 #이승철 https://t.co/Prm4wWFSTo"
+	},
+	{
+		"created_at": "Wed Jul 21 09:20:12 +0000 2021",
+		"id": 1417773970410020900,
+		"id_str": "1417776413533347840",
+		"full_text": "[유라]\n아직도 서울 사이보그 라이브를 안 들은 사람이 있다면..\n당장 아래 링크를 클릭하여 필수 시청하도록..!\n\n👉🏻 https://t.co/dnplLFZUPh\n\n#유라 #live #music #음악 https://t.co/uFJnXSmPZ8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유라",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "live",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "음악",
+					"indices": [
+						110,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dnplLFZUPh",
+					"expanded_url": "https://bit.ly/36JHwwv",
+					"display_url": "bit.ly/36JHwwv",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1417773853183406000,
+					"id_str": "1417773853183406085",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1417773853183406085/pu/img/B2DVA0SVq1cGrqY0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1417773853183406085/pu/img/B2DVA0SVq1cGrqY0.jpg",
+					"url": "https://t.co/uFJnXSmPZ8",
+					"display_url": "pic.twitter.com/uFJnXSmPZ8",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1417773970410020866/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417773853183406000,
+					"id_str": "1417773853183406085",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1417773853183406085/pu/img/B2DVA0SVq1cGrqY0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1417773853183406085/pu/img/B2DVA0SVq1cGrqY0.jpg",
+					"url": "https://t.co/uFJnXSmPZ8",
+					"display_url": "pic.twitter.com/uFJnXSmPZ8",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1417773970410020866/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 55966,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1417773853183406085/pu/pl/g_UebZOXhK9BT7w6.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1417773853183406085/pu/vid/320x320/X7Wt_lMQwm8gS_UW.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1417773853183406085/pu/vid/540x540/N1lfqYenruHwRiOw.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1417773853183406085/pu/vid/720x720/ac9Jfk_QwVXxQToz.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/에버루아/아일",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 802,
+			"friends_count": 7,
+			"listed_count": 17,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유라]\n아직도 서울 사이보그 라이브를 안 들은 사람이 있다면..\n당장 아래 링크를 클릭하여 필수 시청하도록..!\n\n👉🏻 https://t.co/dnplLFZUPh\n\n#유라 #live #music #음악 https://t.co/uFJnXSmPZ8"
+	},
+	{
+		"created_at": "Wed Jul 21 09:13:12 +0000 2021",
+		"id": 1417771633159250000,
+		"id_str": "1417774649484529664",
+		"full_text": "[4K]샤이니SHINee 🍊금귤즈🍊 키KEY &amp; 태민TAEMIN 추측인터뷰, 다음생엔 서로의 아들로??(Eng Sub)\n\n👉🏻 https://t.co/6ztpKtrEqV\n\n#KEY #키 #TAEMIN #태민\n#SHINee #샤이니\n#marieclaire #마리끌레르 https://t.co/R6Ey5sSrkQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KEY",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						105,
+						107
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						108,
+						115
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						120,
+						127
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "marieclaire",
+					"indices": [
+						133,
+						145
+					]
+				},
+				{
+					"text": "마리끌레르",
+					"indices": [
+						146,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6ztpKtrEqV",
+					"expanded_url": "https://youtu.be/Ds_8x4C_M8A",
+					"display_url": "youtu.be/Ds_8x4C_M8A",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1417771627761135600,
+					"id_str": "1417771627761135620",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/E6zvyKVUcAQGM-3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6zvyKVUcAQGM-3.jpg",
+					"url": "https://t.co/R6Ey5sSrkQ",
+					"display_url": "pic.twitter.com/R6Ey5sSrkQ",
+					"expanded_url": "https://twitter.com/SHINee/status/1417771633159249920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417771627761135600,
+					"id_str": "1417771627761135620",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/E6zvyKVUcAQGM-3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6zvyKVUcAQGM-3.jpg",
+					"url": "https://t.co/R6Ey5sSrkQ",
+					"display_url": "pic.twitter.com/R6Ey5sSrkQ",
+					"expanded_url": "https://twitter.com/SHINee/status/1417771633159249920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "TAEMIN - The 3rd Mini Album Advice",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2052844,
+			"friends_count": 2,
+			"listed_count": 5229,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402197244539904003/NfjlPV9e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402197244539904003/NfjlPV9e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1623144852",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3362,
+		"favorite_count": 6437,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[4K]샤이니SHINee 🍊금귤즈🍊 키KEY &amp; 태민TAEMIN 추측인터뷰, 다음생엔 서로의 아들로??(Eng Sub)\n\n👉🏻 https://t.co/6ztpKtrEqV\n\n#KEY #키 #TAEMIN #태민\n#SHINee #샤이니\n#marieclaire #마리끌레르 https://t.co/R6Ey5sSrkQ"
+	},
+	{
 		"created_at": "Wed Jul 21 06:52:51 +0000 2021",
 		"id": 1417733520466714600,
 		"id_str": "1417739329464639489",
