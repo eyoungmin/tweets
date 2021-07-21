@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 21 17:52:48 +0000 2021",
+		"id": 1417683244611293200,
+		"id_str": "1417905411181666305",
+		"full_text": "【#Coldplay 】\nアルバム 『Music Of The Sphere』を10月15日に全世界同時リリース💞\n\niTunesではプレオーダースタート✍️🎶\n\nご予約・視聴はこちら👉https://t.co/IEfZAtT5U7 https://t.co/srdoZi1S9c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Coldplay",
+					"indices": [
+						1,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IEfZAtT5U7",
+					"expanded_url": "https://Coldplay.lnk.to/MusicoftheSpheresPu",
+					"display_url": "Coldplay.lnk.to/MusicoftheSphe…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1417683237313269800,
+					"id_str": "1417683237313269760",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/E6yfZKQVUAAF7I-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6yfZKQVUAAF7I-.jpg",
+					"url": "https://t.co/srdoZi1S9c",
+					"display_url": "pic.twitter.com/srdoZi1S9c",
+					"expanded_url": "https://twitter.com/wmj_intl/status/1417683244611293189/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417683237313269800,
+					"id_str": "1417683237313269760",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/E6yfZKQVUAAF7I-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6yfZKQVUAAF7I-.jpg",
+					"url": "https://t.co/srdoZi1S9c",
+					"display_url": "pic.twitter.com/srdoZi1S9c",
+					"expanded_url": "https://twitter.com/wmj_intl/status/1417683244611293189/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1417683237422264300,
+					"id_str": "1417683237422264323",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/E6yfZKqUcAM6odi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6yfZKqUcAM6odi.jpg",
+					"url": "https://t.co/srdoZi1S9c",
+					"display_url": "pic.twitter.com/srdoZi1S9c",
+					"expanded_url": "https://twitter.com/wmj_intl/status/1417683244611293189/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 455,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 309,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 455,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 209010060,
+			"id_str": "209010060",
+			"name": "ワーナーミュージック・ジャパン洋楽",
+			"screen_name": "wmj_intl",
+			"location": "",
+			"description": "Warner Music Japan による公式アカウント✨洋楽の最新情報や来日情報などを中心につぶやきます！ お問い合わせはコチラ👉https://t.co/ulo2EtXpHI インスタはコチラ👉https://t.co/pUINpNwzTX",
+			"url": "https://t.co/FI4UxZJInP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FI4UxZJInP",
+							"expanded_url": "http://wmg.jp/",
+							"display_url": "wmg.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ulo2EtXpHI",
+							"expanded_url": "https://wmg.jp/inquiry.php",
+							"display_url": "wmg.jp/inquiry.php",
+							"indices": [
+								67,
+								90
+							]
+						},
+						{
+							"url": "https://t.co/pUINpNwzTX",
+							"expanded_url": "https://www.instagram.com/warnermusicjp_intl/",
+							"display_url": "instagram.com/warnermusicjp_…",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 78450,
+			"friends_count": 809,
+			"listed_count": 826,
+			"created_at": "Thu Oct 28 10:44:11 +0000 2010",
+			"favourites_count": 1484,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 45106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0FD44D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311108719514537986/jz4vlUBO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311108719514537986/jz4vlUBO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/209010060/1623460881",
+			"profile_link_color": "0CD463",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 688,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【#Coldplay 】\nアルバム 『Music Of The Sphere』を10月15日に全世界同時リリース💞\n\niTunesではプレオーダースタート✍️🎶\n\nご予約・視聴はこちら👉https://t.co/IEfZAtT5U7 https://t.co/srdoZi1S9c"
+	},
+	{
 		"created_at": "Wed Jul 21 16:03:11 +0000 2021",
 		"id": 1417877826775179300,
 		"id_str": "1417877826775179265",
