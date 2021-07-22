@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 22 09:29:45 +0000 2021",
+		"id": 1418136914884849700,
+		"id_str": "1418141206173954050",
+		"full_text": "#걸스플래닛999소녀대전 의 마스터 3인이 #퍼스트룩 의 표지를 장식했습니다. 소녀들과 여정을 시작한 플래닛 마스터 #여진구, 케이팝 마스터 #선미 #티파니 가 그 주인공인데요. 세 사람의 인터뷰와 화보를 222호에서 만나보세요. \n\n@Mnet @tiffanyyoung @official_sunmi_ @Actor_Yeo https://t.co/mSZmEH3jXW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "걸스플래닛999소녀대전",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "퍼스트룩",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"text": "여진구",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "선미",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						83,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MNet",
+					"name": "M-Net",
+					"id": 276701473,
+					"id_str": "276701473",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"screen_name": "tiffanyyoung",
+					"name": "TIFFANY YOUNG",
+					"id": 971130819518476300,
+					"id_str": "971130819518476289",
+					"indices": [
+						137,
+						150
+					]
+				},
+				{
+					"screen_name": "official_sunmi_",
+					"name": "선미 SUNMI",
+					"id": 895202531978104800,
+					"id_str": "895202531978104832",
+					"indices": [
+						151,
+						167
+					]
+				},
+				{
+					"screen_name": "Actor_Yeo",
+					"name": "여진구",
+					"id": 391278195,
+					"id_str": "391278195",
+					"indices": [
+						168,
+						178
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1418136857930453000,
+					"id_str": "1418136857930452992",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E6479WvVUAAemTC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6479WvVUAAemTC.jpg",
+					"url": "https://t.co/mSZmEH3jXW",
+					"display_url": "pic.twitter.com/mSZmEH3jXW",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1418136914884849666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1399,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 819,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418136857930453000,
+					"id_str": "1418136857930452992",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E6479WvVUAAemTC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6479WvVUAAemTC.jpg",
+					"url": "https://t.co/mSZmEH3jXW",
+					"display_url": "pic.twitter.com/mSZmEH3jXW",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1418136914884849666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1399,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 819,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1418136858588901400,
+					"id_str": "1418136858588901384",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E6479ZMUcAgNS39.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6479ZMUcAgNS39.jpg",
+					"url": "https://t.co/mSZmEH3jXW",
+					"display_url": "pic.twitter.com/mSZmEH3jXW",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1418136914884849666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1399,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 819,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1418136859452919800,
+					"id_str": "1418136859452919812",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E6479caUUAQ8b13.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6479caUUAQ8b13.jpg",
+					"url": "https://t.co/mSZmEH3jXW",
+					"display_url": "pic.twitter.com/mSZmEH3jXW",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1418136914884849666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 819,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1399,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 309565415,
+			"id_str": "309565415",
+			"name": "1stlookofficial",
+			"screen_name": "1stlookofficial",
+			"location": "대한민국 서울",
+			"description": "ENTERTAINMENT & LIFESTYLE MAGAZINE  https://t.co/Vh1AQE8BK5",
+			"url": "http://www.firstlook.co.kr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://www.firstlook.co.kr",
+							"expanded_url": null,
+							"indices": [
+								0,
+								26
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Vh1AQE8BK5",
+							"expanded_url": "http://Instagram.com/1stlookofficial",
+							"display_url": "Instagram.com/1stlookofficial",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 193499,
+			"friends_count": 1,
+			"listed_count": 347,
+			"created_at": "Thu Jun 02 09:15:49 +0000 2011",
+			"favourites_count": 476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/424003706678296576/C7782RwT_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/424003706678296576/C7782RwT_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/309565415/1626917093",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 600,
+		"favorite_count": 1591,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#걸스플래닛999소녀대전 의 마스터 3인이 #퍼스트룩 의 표지를 장식했습니다. 소녀들과 여정을 시작한 플래닛 마스터 #여진구, 케이팝 마스터 #선미 #티파니 가 그 주인공인데요. 세 사람의 인터뷰와 화보를 222호에서 만나보세요. \n\n@Mnet @tiffanyyoung @official_sunmi_ @Actor_Yeo https://t.co/mSZmEH3jXW"
+	},
+	{
 		"created_at": "Thu Jul 22 08:45:37 +0000 2021",
 		"id": 1418118624636588000,
 		"id_str": "1418130096129511426",
