@@ -1,6 +1,290 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 21 23:36:49 +0000 2021",
+		"id": 1417862030791307300,
+		"id_str": "1417991986099875844",
+		"full_text": "#AKMU '낙하 (with 아이유)' TRACK POSTER\n\nCOLLABORATION ALBUM [NEXT EPISODE]\n✅2021.07.26 6PM\n\n#악뮤 #LEECHANHYUK #이찬혁 #LEESUHYUN #이수현 #IU #아이유 #CollaborationAlbum #NEXTEPISODE #Title #낙하 #TrackPoster #20210726 #YG https://t.co/cwXlGSmHW1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AKMU",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "악뮤",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "LEECHANHYUK",
+					"indices": [
+						92,
+						104
+					]
+				},
+				{
+					"text": "이찬혁",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "LEESUHYUN",
+					"indices": [
+						110,
+						120
+					]
+				},
+				{
+					"text": "이수현",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "CollaborationAlbum",
+					"indices": [
+						135,
+						154
+					]
+				},
+				{
+					"text": "NEXTEPISODE",
+					"indices": [
+						155,
+						167
+					]
+				},
+				{
+					"text": "Title",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "낙하",
+					"indices": [
+						175,
+						178
+					]
+				},
+				{
+					"text": "TrackPoster",
+					"indices": [
+						179,
+						191
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						202,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1417860671123845000,
+					"id_str": "1417860671123845122",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/E61AxKtVcAIC1_H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E61AxKtVcAIC1_H.jpg",
+					"url": "https://t.co/cwXlGSmHW1",
+					"display_url": "pic.twitter.com/cwXlGSmHW1",
+					"expanded_url": "https://twitter.com/ygent_official/status/1417862030791307265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417860671123845000,
+					"id_str": "1417860671123845122",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/E61AxKtVcAIC1_H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E61AxKtVcAIC1_H.jpg",
+					"url": "https://t.co/cwXlGSmHW1",
+					"display_url": "pic.twitter.com/cwXlGSmHW1",
+					"expanded_url": "https://twitter.com/ygent_official/status/1417862030791307265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7759836,
+			"friends_count": 36,
+			"listed_count": 8578,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6616,
+		"favorite_count": 18584,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#AKMU '낙하 (with 아이유)' TRACK POSTER\n\nCOLLABORATION ALBUM [NEXT EPISODE]\n✅2021.07.26 6PM\n\n#악뮤 #LEECHANHYUK #이찬혁 #LEESUHYUN #이수현 #IU #아이유 #CollaborationAlbum #NEXTEPISODE #Title #낙하 #TrackPoster #20210726 #YG https://t.co/cwXlGSmHW1"
+	},
+	{
 		"created_at": "Wed Jul 21 17:52:48 +0000 2021",
 		"id": 1417683244611293200,
 		"id_str": "1417905411181666305",
