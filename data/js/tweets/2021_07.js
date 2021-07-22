@@ -1,6 +1,347 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 22 06:33:14 +0000 2021",
+		"id": 1418096784019271700,
+		"id_str": "1418096784019271680",
+		"full_text": "#KBS #공지사항 #가요심의 \n[#뮤직비디오심의] 뮤직비디오 2021년 7월 4주차 심의결과 \nhttps://t.co/AarIkrKXDo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KBS",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "공지사항",
+					"indices": [
+						5,
+						10
+					]
+				},
+				{
+					"text": "가요심의",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "뮤직비디오심의",
+					"indices": [
+						19,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AarIkrKXDo",
+					"expanded_url": "https://www.kbs.co.kr/board/board.html?bbs_loc=X2017-0031-04-699231,read,%EB%AE%A4%EC%A7%81%EB%B9%84%EB%94%94%EC%98%A4%EC%8B%AC%EC%9D%98,2195,1058441",
+					"display_url": "kbs.co.kr/board/board.ht…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1052,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44944,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#KBS #공지사항 #가요심의 \n[#뮤직비디오심의] 뮤직비디오 2021년 7월 4주차 심의결과 \nhttps://t.co/AarIkrKXDo"
+	},
+	{
+		"created_at": "Thu Jul 22 06:13:24 +0000 2021",
+		"id": 1418088486557520000,
+		"id_str": "1418091790570164227",
+		"full_text": "Beyond LIVE – TAEMIN : Never Gonna Dance Again\n\nℹ️ PHOTO STORY BOOK 온라인 예약판매 안내\n2021. 07. 22 (목)부터 다양한 온라인 판매처에서 예약판매 진행예정입니다.\n\n#TAEMIN #태민\n#SHINee #샤이니\n#BeyondLIVE #비욘드라이브 https://t.co/wffaX2Rqn3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEMIN",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						140,
+						147
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "BeyondLIVE",
+					"indices": [
+						153,
+						164
+					]
+				},
+				{
+					"text": "비욘드라이브",
+					"indices": [
+						165,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1418086827848724500,
+					"id_str": "1418086827848724486",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/E64OdOKVcAY2gKj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E64OdOKVcAY2gKj.jpg",
+					"url": "https://t.co/wffaX2Rqn3",
+					"display_url": "pic.twitter.com/wffaX2Rqn3",
+					"expanded_url": "https://twitter.com/SHINee/status/1418088486557519874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1043,
+							"h": 1042,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1043,
+							"h": 1042,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418086827848724500,
+					"id_str": "1418086827848724486",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/E64OdOKVcAY2gKj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E64OdOKVcAY2gKj.jpg",
+					"url": "https://t.co/wffaX2Rqn3",
+					"display_url": "pic.twitter.com/wffaX2Rqn3",
+					"expanded_url": "https://twitter.com/SHINee/status/1418088486557519874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1043,
+							"h": 1042,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1043,
+							"h": 1042,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "TAEMIN - The 3rd Mini Album Advice",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2053486,
+			"friends_count": 2,
+			"listed_count": 5228,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402197244539904003/NfjlPV9e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402197244539904003/NfjlPV9e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1623144852",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2718,
+		"favorite_count": 6256,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Beyond LIVE – TAEMIN : Never Gonna Dance Again\n\nℹ️ PHOTO STORY BOOK 온라인 예약판매 안내\n2021. 07. 22 (목)부터 다양한 온라인 판매처에서 예약판매 진행예정입니다.\n\n#TAEMIN #태민\n#SHINee #샤이니\n#BeyondLIVE #비욘드라이브 https://t.co/wffaX2Rqn3"
+	},
+	{
 		"created_at": "Thu Jul 22 05:41:33 +0000 2021",
 		"id": 1418083773728579600,
 		"id_str": "1418083773728579584",
