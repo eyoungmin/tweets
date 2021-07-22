@@ -1,6 +1,369 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 22 10:45:36 +0000 2021",
+		"id": 1418148820907479000,
+		"id_str": "1418160294073929732",
+		"full_text": "#BTS 컴백에 설렘, \n#도산대로 에서 또 설렘💜\n\nBTS와 #이달소 #킹덤 을 \n모두 만날 수 있는 곳 #스포티파이\n\nNew Music Friday ▶https://t.co/pHplH00RUB\n#EQUAL KOREA ▶https://t.co/uxbkJml3ED\n#RADAR KOREA ▶https://t.co/yhz31vMacj\n\n#SpotifyKR @bts_bighit  \n@loonatheworld @KINGDOM_GFent https://t.co/2IFabMQyf5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BTS",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "도산대로",
+					"indices": [
+						14,
+						19
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						35,
+						39
+					]
+				},
+				{
+					"text": "킹덤",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "스포티파이",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "EQUAL",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "RADAR",
+					"indices": [
+						148,
+						154
+					]
+				},
+				{
+					"text": "SpotifyKR",
+					"indices": [
+						187,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bts_bighit",
+					"name": "BTS_official",
+					"id": 1409798257,
+					"id_str": "1409798257",
+					"indices": [
+						198,
+						209
+					]
+				},
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						212,
+						226
+					]
+				},
+				{
+					"screen_name": "KINGDOM_GFent",
+					"name": "KINGDOM",
+					"id": 1211487174190755800,
+					"id_str": "1211487174190755840",
+					"indices": [
+						227,
+						241
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pHplH00RUB",
+					"expanded_url": "http://spoti.fi/2VFGeAt",
+					"display_url": "spoti.fi/2VFGeAt",
+					"indices": [
+						86,
+						109
+					]
+				},
+				{
+					"url": "https://t.co/uxbkJml3ED",
+					"expanded_url": "http://spoti.fi/36zcSpz",
+					"display_url": "spoti.fi/36zcSpz",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/yhz31vMacj",
+					"expanded_url": "http://spoti.fi/3ki1vKS",
+					"display_url": "spoti.fi/3ki1vKS",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1418142062969385000,
+					"id_str": "1418142062969384960",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/E65AsVBUcAA_ag6.png",
+					"media_url_https": "https://pbs.twimg.com/media/E65AsVBUcAA_ag6.png",
+					"url": "https://t.co/2IFabMQyf5",
+					"display_url": "pic.twitter.com/2IFabMQyf5",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1418148820907479042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418142062969385000,
+					"id_str": "1418142062969384960",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/E65AsVBUcAA_ag6.png",
+					"media_url_https": "https://pbs.twimg.com/media/E65AsVBUcAA_ag6.png",
+					"url": "https://t.co/2IFabMQyf5",
+					"display_url": "pic.twitter.com/2IFabMQyf5",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1418148820907479042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1418143561283866600,
+					"id_str": "1418143561283866624",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/E65CDirVEAAc_wZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E65CDirVEAAc_wZ.jpg",
+					"url": "https://t.co/2IFabMQyf5",
+					"display_url": "pic.twitter.com/2IFabMQyf5",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1418148820907479042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 686,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 686,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1418143611426721800,
+					"id_str": "1418143611426721796",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/E65CGdeUUAQYxHn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E65CGdeUUAQYxHn.jpg",
+					"url": "https://t.co/2IFabMQyf5",
+					"display_url": "pic.twitter.com/2IFabMQyf5",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1418148820907479042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 686,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 686,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1207908245118963700,
+			"id_str": "1207908245118963712",
+			"name": "Spotify Korea",
+			"screen_name": "SpotifyKR",
+			"location": "",
+			"description": "Spotify Korea 공식 계정\n언제 어디서나 음악과 함께.\n새로운 음악을 발견하고, 듣고, 공유해보세요!",
+			"url": "https://t.co/wO2qjsJlaO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wO2qjsJlaO",
+							"expanded_url": "https://www.spotify.com/kr-ko",
+							"display_url": "spotify.com/kr-ko",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61949,
+			"friends_count": 0,
+			"listed_count": 52,
+			"created_at": "Fri Dec 20 06:19:10 +0000 2019",
+			"favourites_count": 151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 426,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1207908245118963712/1611891505",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1544,
+		"favorite_count": 3503,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BTS 컴백에 설렘, \n#도산대로 에서 또 설렘💜\n\nBTS와 #이달소 #킹덤 을 \n모두 만날 수 있는 곳 #스포티파이\n\nNew Music Friday ▶https://t.co/pHplH00RUB\n#EQUAL KOREA ▶https://t.co/uxbkJml3ED\n#RADAR KOREA ▶https://t.co/yhz31vMacj\n\n#SpotifyKR @bts_bighit  \n@loonatheworld @KINGDOM_GFent https://t.co/2IFabMQyf5"
+	},
+	{
 		"created_at": "Thu Jul 22 09:29:45 +0000 2021",
 		"id": 1418136914884849700,
 		"id_str": "1418141206173954050",
