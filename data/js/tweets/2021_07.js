@@ -1,6 +1,395 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 22 03:01:43 +0000 2021",
+		"id": 1418043551036940300,
+		"id_str": "1418043551036940289",
+		"full_text": "#이달의소녀 #LOONA \n달로그 #28 (LOONA LOG #28) 최리 #28 (Choerry #28) \nhttps://t.co/pBYc0sv0CK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pBYc0sv0CK",
+					"expanded_url": "https://youtu.be/Y8ac5EohfM0",
+					"display_url": "youtu.be/Y8ac5EohfM0",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1053,
+			"listed_count": 7,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82691,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA \n달로그 #28 (LOONA LOG #28) 최리 #28 (Choerry #28) \nhttps://t.co/pBYc0sv0CK"
+	},
+	{
+		"created_at": "Thu Jul 22 02:52:48 +0000 2021",
+		"id": 1417922339719852000,
+		"id_str": "1418041306480250885",
+		"full_text": "Did you know that Seori means 'frost' in Korean??? 👀❄️ With chilling vocals and a snowy stage name, @seori_official is truly coming for Elsa's entire brand 😜\nhttps://t.co/3r4ftOMPXZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seori_official",
+					"name": "Seori",
+					"id": 1143072158467231700,
+					"id_str": "1143072158467231745",
+					"indices": [
+						100,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3r4ftOMPXZ",
+					"expanded_url": "https://ed.gr/djpfh",
+					"display_url": "ed.gr/djpfh",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://meetedgar.com\" rel=\"nofollow\">MeetEdgar</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 700641137,
+			"id_str": "700641137",
+			"name": "The Honey POP⁷ ⋈ 🐝",
+			"screen_name": "thehoneypop",
+			"location": "",
+			"description": "The fans’ voice on pop culture, representing Swifties, 5SOSfam, Directioners, ARMY, Mixers, BLINKS, Monbebe, Arianators, Atiny, Stay, Shawol, VIP, & more!",
+			"url": "https://t.co/CH61V8vlpB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CH61V8vlpB",
+							"expanded_url": "http://thehoneypop.com",
+							"display_url": "thehoneypop.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10615,
+			"friends_count": 858,
+			"listed_count": 20,
+			"created_at": "Thu Oct 03 20:35:49 +0000 2013",
+			"favourites_count": 31770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17337,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1386297659179294722/l1MGfr0M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1386297659179294722/l1MGfr0M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/700641137/1619354093",
+			"profile_link_color": "FFFFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 224,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Did you know that Seori means 'frost' in Korean??? 👀❄️ With chilling vocals and a snowy stage name, @seori_official is truly coming for Elsa's entire brand 😜\nhttps://t.co/3r4ftOMPXZ"
+	},
+	{
+		"created_at": "Thu Jul 22 02:45:36 +0000 2021",
+		"id": 1418027785671512000,
+		"id_str": "1418039497795809285",
+		"full_text": "[🎀당첨자 발표🎀]\n&lt;짜릿한 인터뷰&gt; 이달의소녀 '비비·이브·하슬'편 구독자 이벤트(사인 폴라) 당첨자가 발표되었습니다! 통통컬쳐 채널 유튜브 커뮤니티와 해당 영상 고정댓글을 확인해주세요! \n(feat. 수영이 눈에 별있다...⭐) https://t.co/MXZtC78n6G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1418027736380055600,
+					"id_str": "1418027736380055554",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/E63YtpSVoAIRj2G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E63YtpSVoAIRj2G.jpg",
+					"url": "https://t.co/MXZtC78n6G",
+					"display_url": "pic.twitter.com/MXZtC78n6G",
+					"expanded_url": "https://twitter.com/TONGTONG_C/status/1418027785671512067/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418027736380055600,
+					"id_str": "1418027736380055554",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/E63YtpSVoAIRj2G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E63YtpSVoAIRj2G.jpg",
+					"url": "https://t.co/MXZtC78n6G",
+					"display_url": "pic.twitter.com/MXZtC78n6G",
+					"expanded_url": "https://twitter.com/TONGTONG_C/status/1418027785671512067/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1247773150856630300,
+			"id_str": "1247773150856630275",
+			"name": "TongTongTv 통통컬쳐",
+			"screen_name": "TONGTONG_C",
+			"location": "",
+			"description": "통통컬쳐 공식 트위터✨               TONGTONG CULTURE Official Twitter.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4019,
+			"friends_count": 33,
+			"listed_count": 13,
+			"created_at": "Wed Apr 08 06:28:52 +0000 2020",
+			"favourites_count": 86,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 498,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1329312160942489603/jgW4YlRg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329312160942489603/jgW4YlRg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1247773150856630275/1586328026",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 106,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎀당첨자 발표🎀]\n&lt;짜릿한 인터뷰&gt; 이달의소녀 '비비·이브·하슬'편 구독자 이벤트(사인 폴라) 당첨자가 발표되었습니다! 통통컬쳐 채널 유튜브 커뮤니티와 해당 영상 고정댓글을 확인해주세요! \n(feat. 수영이 눈에 별있다...⭐) https://t.co/MXZtC78n6G"
+	},
+	{
 		"created_at": "Thu Jul 22 01:02:20 +0000 2021",
 		"id": 1418013507682029600,
 		"id_str": "1418013507682029579",
