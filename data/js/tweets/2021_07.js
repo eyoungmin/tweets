@@ -1,6 +1,421 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 22 07:17:40 +0000 2021",
+		"id": 1418107020998189000,
+		"id_str": "1418107962179014656",
+		"full_text": "https://t.co/5yvmuPs5YI\n\n어...? 예쁘다..🤭❣️ 아무나 소화 못한다는 핑크 헤어 스타일링! 가장 잘 어울리는 아이돌은 누구?! 찰떡 아이돌 뽑고 젠틀몬스터 선글라스 or 납작복숭아 받자! #코피셜 #강다니엘 #지민 #로제 #지디 #태연 #차은우 #세훈 #사나",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "코피셜",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "강다니엘",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "지민",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "지디",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "차은우",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "세훈",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "사나",
+					"indices": [
+						154,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5yvmuPs5YI",
+					"expanded_url": "https://bit.ly/3hT2MGC",
+					"display_url": "bit.ly/3hT2MGC",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89003,
+			"friends_count": 3,
+			"listed_count": 399,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12894,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/5yvmuPs5YI\n\n어...? 예쁘다..🤭❣️ 아무나 소화 못한다는 핑크 헤어 스타일링! 가장 잘 어울리는 아이돌은 누구?! 찰떡 아이돌 뽑고 젠틀몬스터 선글라스 or 납작복숭아 받자! #코피셜 #강다니엘 #지민 #로제 #지디 #태연 #차은우 #세훈 #사나"
+	},
+	{
+		"created_at": "Thu Jul 22 07:17:40 +0000 2021",
+		"id": 1418107779114422300,
+		"id_str": "1418107962174763009",
+		"full_text": "#다녤 #방탄소년단 #방탄소년단지민 #방탄 #bts #블랙핑크 #블핑 #BLACKPINK #블랙핑크로제 #빅뱅 #지드래곤 #권지용 #GD #소녀시대 #소시 #아스트로 #은우 #exo #엑소 #트와이스 #twice",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "다녤",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "방탄소년단",
+					"indices": [
+						4,
+						10
+					]
+				},
+				{
+					"text": "방탄소년단지민",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"text": "방탄",
+					"indices": [
+						20,
+						23
+					]
+				},
+				{
+					"text": "bts",
+					"indices": [
+						24,
+						28
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						29,
+						34
+					]
+				},
+				{
+					"text": "블핑",
+					"indices": [
+						35,
+						38
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						39,
+						49
+					]
+				},
+				{
+					"text": "블랙핑크로제",
+					"indices": [
+						50,
+						57
+					]
+				},
+				{
+					"text": "빅뱅",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "지드래곤",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "권지용",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "GD",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "소시",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "아스트로",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "은우",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "exo",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "twice",
+					"indices": [
+						112,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1418107020998189000,
+		"in_reply_to_status_id_str": "1418107020998189063",
+		"in_reply_to_user_id": 160470854,
+		"in_reply_to_user_id_str": "160470854",
+		"in_reply_to_screen_name": "cosmokorea",
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89003,
+			"friends_count": 3,
+			"listed_count": 399,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12894,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#다녤 #방탄소년단 #방탄소년단지민 #방탄 #bts #블랙핑크 #블핑 #BLACKPINK #블랙핑크로제 #빅뱅 #지드래곤 #권지용 #GD #소녀시대 #소시 #아스트로 #은우 #exo #엑소 #트와이스 #twice"
+	},
+	{
 		"created_at": "Thu Jul 22 06:33:14 +0000 2021",
 		"id": 1418096784019271700,
 		"id_str": "1418096784019271680",
