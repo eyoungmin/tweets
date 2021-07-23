@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 23 01:17:50 +0000 2021",
+		"id": 1418376967057907700,
+		"id_str": "1418379797525274627",
+		"full_text": "더블유 8월호 커버를 장식한 블랙핑크 리사의 화보 풀 스토리를 만나보세요. \n\n#블랙핑크 #리사 #BLACKPINK #LISA \nhttps://t.co/EPxWE3hd2R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						54,
+						64
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						65,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EPxWE3hd2R",
+					"expanded_url": "https://www.wkorea.com/2021/07/23/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC-%EB%A6%AC%EC%82%AC-%EC%BB%A4%EB%B2%84-%ED%99%94%EB%B3%B4-%ED%92%80-%EC%8A%A4%ED%86%A0%EB%A6%AC-forever-young/?ddw=92486&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2021/07/23/%EB…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5xzw0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5xzw0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 281592,
+			"friends_count": 0,
+			"listed_count": 812,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1623740686",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2282,
+		"favorite_count": 3964,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "더블유 8월호 커버를 장식한 블랙핑크 리사의 화보 풀 스토리를 만나보세요. \n\n#블랙핑크 #리사 #BLACKPINK #LISA \nhttps://t.co/EPxWE3hd2R"
+	},
+	{
 		"created_at": "Thu Jul 22 23:52:57 +0000 2021",
 		"id": 1418349177675866000,
 		"id_str": "1418358434085363719",
