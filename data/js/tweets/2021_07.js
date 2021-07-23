@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 23 05:52:51 +0000 2021",
+		"id": 1418443394250985500,
+		"id_str": "1418449006330580993",
+		"full_text": "THE SHOW 라이브 콘서트 현장을 담은 SKT V 컬러링이 오픈되었습니다!👏\n\n블링크~! 우리 보이는 V 컬러링에서도 만나요!\n\n아래 링크 클릭, 모바일에서 확인 필수❤\n링크: https://t.co/eqEVpaxk7l\n\n#BLACKPINK #블랙핑크 #THESHOW #라이브콘서트 https://t.co/JSNjgcGhTs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						126,
+						136
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "THESHOW",
+					"indices": [
+						143,
+						151
+					]
+				},
+				{
+					"text": "라이브콘서트",
+					"indices": [
+						152,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eqEVpaxk7l",
+					"expanded_url": "https://vcoloring.com/tag?tag=BPLIVE",
+					"display_url": "vcoloring.com/tag?tag=BPLIVE",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1418443390300024800,
+					"id_str": "1418443390300024833",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/E69Sv4zVcAECLfZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E69Sv4zVcAECLfZ.jpg",
+					"url": "https://t.co/JSNjgcGhTs",
+					"display_url": "pic.twitter.com/JSNjgcGhTs",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1418443394250985480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 840,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 583,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 840,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418443390300024800,
+					"id_str": "1418443390300024833",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/E69Sv4zVcAECLfZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E69Sv4zVcAECLfZ.jpg",
+					"url": "https://t.co/JSNjgcGhTs",
+					"display_url": "pic.twitter.com/JSNjgcGhTs",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1418443394250985480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 840,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 583,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 840,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/QTHPhjMXWT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QTHPhjMXWT",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7023942,
+			"friends_count": 6,
+			"listed_count": 8073,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1623718821",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3997,
+		"favorite_count": 15472,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "THE SHOW 라이브 콘서트 현장을 담은 SKT V 컬러링이 오픈되었습니다!👏\n\n블링크~! 우리 보이는 V 컬러링에서도 만나요!\n\n아래 링크 클릭, 모바일에서 확인 필수❤\n링크: https://t.co/eqEVpaxk7l\n\n#BLACKPINK #블랙핑크 #THESHOW #라이브콘서트 https://t.co/JSNjgcGhTs"
+	},
+	{
 		"created_at": "Fri Jul 23 04:45:37 +0000 2021",
 		"id": 1418428709598498800,
 		"id_str": "1418432085413486593",
