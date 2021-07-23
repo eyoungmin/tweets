@@ -1,6 +1,158 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 23 20:59:44 +0000 2021",
+		"id": 1418045523903139800,
+		"id_str": "1418677230004097024",
+		"full_text": "멜론 https://t.co/vVZfoiohgo\n플로 https://t.co/mbi0MzlGNK\n지니 https://t.co/OeAUqEvwAX\n벅스 https://t.co/zJAukKbwb4\n바이브 https://t.co/cM6UUJifii\n애플뮤직 https://t.co/1YRww6J7nx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vVZfoiohgo",
+					"expanded_url": "https://bit.ly/3eFCCFm",
+					"display_url": "bit.ly/3eFCCFm",
+					"indices": [
+						3,
+						26
+					]
+				},
+				{
+					"url": "https://t.co/mbi0MzlGNK",
+					"expanded_url": "https://bit.ly/3wXa8NF",
+					"display_url": "bit.ly/3wXa8NF",
+					"indices": [
+						30,
+						53
+					]
+				},
+				{
+					"url": "https://t.co/OeAUqEvwAX",
+					"expanded_url": "https://bit.ly/2TuwDvC",
+					"display_url": "bit.ly/2TuwDvC",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/zJAukKbwb4",
+					"expanded_url": "https://bit.ly/3y12WkL",
+					"display_url": "bit.ly/3y12WkL",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/cM6UUJifii",
+					"expanded_url": "https://bit.ly/3ryndvB",
+					"display_url": "bit.ly/3ryndvB",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/1YRww6J7nx",
+					"expanded_url": "https://apple.co/3iG1vlw",
+					"display_url": "apple.co/3iG1vlw",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": 1418043821523234800,
+		"in_reply_to_status_id_str": "1418043821523234822",
+		"in_reply_to_user_id": 602961088,
+		"in_reply_to_user_id_str": "602961088",
+		"in_reply_to_screen_name": "YOUNGGIFTEDWACK",
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3545,
+			"friends_count": 1205,
+			"listed_count": 49,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "멜론 https://t.co/vVZfoiohgo\n플로 https://t.co/mbi0MzlGNK\n지니 https://t.co/OeAUqEvwAX\n벅스 https://t.co/zJAukKbwb4\n바이브 https://t.co/cM6UUJifii\n애플뮤직 https://t.co/1YRww6J7nx"
+	},
+	{
 		"created_at": "Fri Jul 23 15:52:48 +0000 2021",
 		"id": 1418590767803740200,
 		"id_str": "1418599988209192966",
