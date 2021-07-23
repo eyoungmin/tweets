@@ -1,10 +1,193 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 23 15:52:48 +0000 2021",
+		"id": 1418590767803740200,
+		"id_str": "1418599988209192966",
+		"full_text": "hey @AppleMusic thank you ✨❤️ https://t.co/EPoPY7x95g https://t.co/LJsyrbYEAi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						4,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EPoPY7x95g",
+					"expanded_url": "https://sigrid.lnk.to/A-ListPop",
+					"display_url": "sigrid.lnk.to/A-ListPop",
+					"indices": [
+						30,
+						53
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1418590762283974700,
+					"id_str": "1418590762283974661",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/E6_YyEOWQAUQFyH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6_YyEOWQAUQFyH.jpg",
+					"url": "https://t.co/LJsyrbYEAi",
+					"display_url": "pic.twitter.com/LJsyrbYEAi",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1418590767803740162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418590762283974700,
+					"id_str": "1418590762283974661",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/E6_YyEOWQAUQFyH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6_YyEOWQAUQFyH.jpg",
+					"url": "https://t.co/LJsyrbYEAi",
+					"display_url": "pic.twitter.com/LJsyrbYEAi",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1418590767803740162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81969,
+			"friends_count": 264,
+			"listed_count": 300,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5926,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394240555333337089/STtGqeaY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394240555333337089/STtGqeaY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1621409378",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 118,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "hey @AppleMusic thank you ✨❤️ https://t.co/EPoPY7x95g https://t.co/LJsyrbYEAi"
+	},
+	{
 		"created_at": "Fri Jul 23 13:08:06 +0000 2021",
 		"id": 1418557162364809200,
 		"id_str": "1418558542684987398",
-		"full_text": "so excited to share my third little collection of music inspired by the zodiac signs, ‘’Fire: Leo’s Songs’’ is out now 🔥all songs have been chosen by me from my previous three albums and Young Heart 💛\nhttps://t.co/p9YE0nHcqp⁠\n⁠\n📸: @affairintokyo⁠ https://t.co/6Kb7HEkFQM",
+		"full_text": "so excited to share my third little collection of music inspired by the zodiac signs, ‘’Fire: Leo’s Songs’’ is out now 🔥all songs have been chosen by me from my previous three albums and Young Heart 💛\nhttps://t.co/p9YE0nHcqp\n\n📸: @affairintokyo https://t.co/6Kb7HEkFQM",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -204,7 +387,7 @@ Grailbird.data.tweets_2021_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "so excited to share my third little collection of music inspired by the zodiac signs, ‘’Fire: Leo’s Songs’’ is out now 🔥all songs have been chosen by me from my previous three albums and Young Heart 💛\nhttps://t.co/p9YE0nHcqp⁠\n⁠\n📸: @affairintokyo⁠ https://t.co/6Kb7HEkFQM"
+		"text": "so excited to share my third little collection of music inspired by the zodiac signs, ‘’Fire: Leo’s Songs’’ is out now 🔥all songs have been chosen by me from my previous three albums and Young Heart 💛\nhttps://t.co/p9YE0nHcqp\n\n📸: @affairintokyo https://t.co/6Kb7HEkFQM"
 	},
 	{
 		"created_at": "Fri Jul 23 11:51:22 +0000 2021",
