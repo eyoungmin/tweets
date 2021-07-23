@@ -1,6 +1,506 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 23 07:53:05 +0000 2021",
+		"id": 1418478429616238600,
+		"id_str": "1418479264379383808",
+		"full_text": "[#고원 / #GoWon] 😲😘😆\n\n#이달의소녀 #LOONA https://t.co/VzpcnZLtS6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고원",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "GoWon",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						27,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1418478419969417200,
+					"id_str": "1418478419969417216",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/E69ym4fVoAAP_GD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E69ym4fVoAAP_GD.jpg",
+					"url": "https://t.co/VzpcnZLtS6",
+					"display_url": "pic.twitter.com/VzpcnZLtS6",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1418478429616238595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418478419969417200,
+					"id_str": "1418478419969417216",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/E69ym4fVoAAP_GD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E69ym4fVoAAP_GD.jpg",
+					"url": "https://t.co/VzpcnZLtS6",
+					"display_url": "pic.twitter.com/VzpcnZLtS6",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1418478429616238595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1418478419965186000,
+					"id_str": "1418478419965186048",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/E69ym4eVEAADfNE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E69ym4eVEAADfNE.jpg",
+					"url": "https://t.co/VzpcnZLtS6",
+					"display_url": "pic.twitter.com/VzpcnZLtS6",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1418478429616238595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1418478419969384400,
+					"id_str": "1418478419969384450",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/E69ym4fVIAIzuXG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E69ym4fVIAIzuXG.jpg",
+					"url": "https://t.co/VzpcnZLtS6",
+					"display_url": "pic.twitter.com/VzpcnZLtS6",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1418478429616238595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 776217,
+			"friends_count": 1,
+			"listed_count": 7738,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3655,
+		"favorite_count": 8635,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "[#고원 / #GoWon] 😲😘😆\n\n#이달의소녀 #LOONA https://t.co/VzpcnZLtS6"
+	},
+	{
+		"created_at": "Fri Jul 23 07:53:00 +0000 2021",
+		"id": 1418467827745542100,
+		"id_str": "1418479242849959940",
+		"full_text": "@VinnyHolliday @RamseyColdplay When chris played me the full demo I thought he’d gone mad but as usual it turns out he’s a genius and I’m an idiot 🙃 then Jonny did the guitar solo, Guy did that lovely bass waterfall thing and Will gave it a cosmic groove. BBITW. 💜 PH",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VinnyHolliday",
+					"name": "Vinny Holliday",
+					"id": 2491295532,
+					"id_str": "2491295532",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "RamseyColdplay",
+					"name": "RamseyLoVesColdplay👽📻🪐",
+					"id": 1027809475468484600,
+					"id_str": "1027809475468484608",
+					"indices": [
+						15,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1418466468698542000,
+		"in_reply_to_status_id_str": "1418466468698542082",
+		"in_reply_to_user_id": 2491295532,
+		"in_reply_to_user_id_str": "2491295532",
+		"in_reply_to_screen_name": "VinnyHolliday",
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Coloratura",
+			"description": "The official Twitter of the band Coldplay. New album, Music Of The Spheres, out October 15th, 2021.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23009535,
+			"friends_count": 765,
+			"listed_count": 42741,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 402,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@VinnyHolliday @RamseyColdplay When chris played me the full demo I thought he’d gone mad but as usual it turns out he’s a genius and I’m an idiot 🙃 then Jonny did the guitar solo, Guy did that lovely bass waterfall thing and Will gave it a cosmic groove. BBITW. 💜 PH"
+	},
+	{
+		"created_at": "Fri Jul 23 07:52:53 +0000 2021",
+		"id": 1418466188313645000,
+		"id_str": "1418479212961406976",
+		"full_text": "@FrankSchepers24 Wow thanks Frank. That means a lot to the band and I. 💚⚡️ PH",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FrankSchepers24",
+					"name": "Frank Schepers 👽📻",
+					"id": 1063109333246976000,
+					"id_str": "1063109333246976000",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1418362798187466800,
+		"in_reply_to_status_id_str": "1418362798187466752",
+		"in_reply_to_user_id": 1063109333246976000,
+		"in_reply_to_user_id_str": "1063109333246976000",
+		"in_reply_to_screen_name": "FrankSchepers24",
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Coloratura",
+			"description": "The official Twitter of the band Coldplay. New album, Music Of The Spheres, out October 15th, 2021.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23009535,
+			"friends_count": 765,
+			"listed_count": 42741,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 183,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@FrankSchepers24 Wow thanks Frank. That means a lot to the band and I. 💚⚡️ PH"
+	},
+	{
 		"created_at": "Fri Jul 23 06:03:07 +0000 2021",
 		"id": 1418446501303373800,
 		"id_str": "1418451591963713539",
