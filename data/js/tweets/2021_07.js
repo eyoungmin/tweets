@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 23 13:08:06 +0000 2021",
+		"id": 1418557162364809200,
+		"id_str": "1418558542684987398",
+		"full_text": "so excited to share my third little collection of music inspired by the zodiac signs, ‘’Fire: Leo’s Songs’’ is out now 🔥all songs have been chosen by me from my previous three albums and Young Heart 💛\nhttps://t.co/p9YE0nHcqp⁠\n⁠\n📸: @affairintokyo⁠ https://t.co/6Kb7HEkFQM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "affairintokyo",
+					"name": "Lotta",
+					"id": 351971783,
+					"id_str": "351971783",
+					"indices": [
+						231,
+						245
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/p9YE0nHcqp",
+					"expanded_url": "http://Birdy.lnk.to/Fire-Leos-songs",
+					"display_url": "Birdy.lnk.to/Fire-Leos-songs",
+					"indices": [
+						201,
+						224
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1418554610403381200,
+					"id_str": "1418554610403381252",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/E6-35v-WEAQ5-Zq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6-35v-WEAQ5-Zq.jpg",
+					"url": "https://t.co/6Kb7HEkFQM",
+					"display_url": "pic.twitter.com/6Kb7HEkFQM",
+					"expanded_url": "https://twitter.com/birdy/status/1418557162364809222/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418554610403381200,
+					"id_str": "1418554610403381252",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/E6-35v-WEAQ5-Zq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6-35v-WEAQ5-Zq.jpg",
+					"url": "https://t.co/6Kb7HEkFQM",
+					"display_url": "pic.twitter.com/6Kb7HEkFQM",
+					"expanded_url": "https://twitter.com/birdy/status/1418557162364809222/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Young Heart - my new album, OUT NOW 💛 \nhttps://t.co/JJysUdcZGQ",
+			"url": "https://t.co/AOWSyI9JYu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JJysUdcZGQ",
+							"expanded_url": "http://birdy.lnk.to/Young-Heart",
+							"display_url": "birdy.lnk.to/Young-Heart",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 315933,
+			"friends_count": 181,
+			"listed_count": 1192,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2329,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 164,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "so excited to share my third little collection of music inspired by the zodiac signs, ‘’Fire: Leo’s Songs’’ is out now 🔥all songs have been chosen by me from my previous three albums and Young Heart 💛\nhttps://t.co/p9YE0nHcqp⁠\n⁠\n📸: @affairintokyo⁠ https://t.co/6Kb7HEkFQM"
+	},
+	{
 		"created_at": "Fri Jul 23 11:51:22 +0000 2021",
 		"id": 1418539231430025200,
 		"id_str": "1418539231430025221",
