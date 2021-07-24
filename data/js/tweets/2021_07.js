@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 24 08:52:47 +0000 2021",
+		"id": 1418825085704491000,
+		"id_str": "1418856678720737289",
+		"full_text": "[짜릿한인터뷰] LOONA｜통컬이 거짓말 탐지기로 낳고 자막으로 키운 딸들 (feat. 코코몽X김민교X말티즈) ‍[Thrilling Interview/ 통통컬처](@loonatheworld)\n\n#이달소 #LOONA \n아버지\n나를 낳고\n바지적삼\n다 적시셨네\n\n▶https://t.co/pEvsjWaqPA https://t.co/9gyIAlGMVt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달소",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						113,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						91,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pEvsjWaqPA",
+					"expanded_url": "https://youtu.be/KytqGNOBv20",
+					"display_url": "youtu.be/KytqGNOBv20",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1418825021334691800,
+					"id_str": "1418825021334691847",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/E7Ct1vMXIAcZ9dd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7Ct1vMXIAcZ9dd.jpg",
+					"url": "https://t.co/9gyIAlGMVt",
+					"display_url": "pic.twitter.com/9gyIAlGMVt",
+					"expanded_url": "https://twitter.com/TONGTONG_C/status/1418825085704491009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418825021334691800,
+					"id_str": "1418825021334691847",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/E7Ct1vMXIAcZ9dd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7Ct1vMXIAcZ9dd.jpg",
+					"url": "https://t.co/9gyIAlGMVt",
+					"display_url": "pic.twitter.com/9gyIAlGMVt",
+					"expanded_url": "https://twitter.com/TONGTONG_C/status/1418825085704491009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1418813793514053600,
+		"in_reply_to_status_id_str": "1418813793514053632",
+		"in_reply_to_user_id": 1247773150856630300,
+		"in_reply_to_user_id_str": "1247773150856630275",
+		"in_reply_to_screen_name": "TONGTONG_C",
+		"user": {
+			"id": 1247773150856630300,
+			"id_str": "1247773150856630275",
+			"name": "TongTongTv 통통컬쳐",
+			"screen_name": "TONGTONG_C",
+			"location": "",
+			"description": "통통컬쳐 공식 트위터✨               TONGTONG CULTURE Official Twitter.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4063,
+			"friends_count": 33,
+			"listed_count": 12,
+			"created_at": "Wed Apr 08 06:28:52 +0000 2020",
+			"favourites_count": 87,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1329312160942489603/jgW4YlRg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329312160942489603/jgW4YlRg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1247773150856630275/1586328026",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 616,
+		"favorite_count": 2394,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[짜릿한인터뷰] LOONA｜통컬이 거짓말 탐지기로 낳고 자막으로 키운 딸들 (feat. 코코몽X김민교X말티즈) ‍[Thrilling Interview/ 통통컬처](@loonatheworld)\n\n#이달소 #LOONA \n아버지\n나를 낳고\n바지적삼\n다 적시셨네\n\n▶https://t.co/pEvsjWaqPA https://t.co/9gyIAlGMVt"
+	},
+	{
 		"created_at": "Sat Jul 24 07:45:37 +0000 2021",
 		"id": 1418832083867238400,
 		"id_str": "1418839772135632900",
