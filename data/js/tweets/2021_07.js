@@ -1,10 +1,465 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 24 09:53:29 +0000 2021",
+		"id": 1418866357219823600,
+		"id_str": "1418871952064778245",
+		"full_text": "YESEO (예서) Profile Photo with MUSE ON 2021\n\n너무 멋진 프로필 사진✨ 감사합니다 💘\n\nPhotographer 유경오\nH&amp;M by 이은서\nStyling IBAEKILHO\n\n#뮤즈온 #뮤즈온2021 #한국콘텐츠진흥원 https://t.co/QFXp393sIF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤즈온",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "뮤즈온2021",
+					"indices": [
+						123,
+						131
+					]
+				},
+				{
+					"text": "한국콘텐츠진흥원",
+					"indices": [
+						132,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1418866342837604400,
+					"id_str": "1418866342837604357",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/E7DTa9yX0AUKNDZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7DTa9yX0AUKNDZ.jpg",
+					"url": "https://t.co/QFXp393sIF",
+					"display_url": "pic.twitter.com/QFXp393sIF",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1418866357219823616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1192,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2034,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418866342837604400,
+					"id_str": "1418866342837604357",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/E7DTa9yX0AUKNDZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7DTa9yX0AUKNDZ.jpg",
+					"url": "https://t.co/QFXp393sIF",
+					"display_url": "pic.twitter.com/QFXp393sIF",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1418866357219823616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1192,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2034,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1418866342841757700,
+					"id_str": "1418866342841757700",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/E7DTa9zXMAQtY50.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7DTa9zXMAQtY50.jpg",
+					"url": "https://t.co/QFXp393sIF",
+					"display_url": "pic.twitter.com/QFXp393sIF",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1418866357219823616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 747,
+			"friends_count": 3,
+			"listed_count": 19,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305497822712623104/FY-WtTfo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305497822712623104/FY-WtTfo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1601735780",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "YESEO (예서) Profile Photo with MUSE ON 2021\n\n너무 멋진 프로필 사진✨ 감사합니다 💘\n\nPhotographer 유경오\nH&amp;M by 이은서\nStyling IBAEKILHO\n\n#뮤즈온 #뮤즈온2021 #한국콘텐츠진흥원 https://t.co/QFXp393sIF"
+	},
+	{
+		"created_at": "Sat Jul 24 09:45:36 +0000 2021",
+		"id": 1418858496309694500,
+		"id_str": "1418869970168123400",
+		"full_text": "춤 추고 싶었어요🐰 무대가 너무 하고 싶었던 단군토끼 #희진 (ft. #올리비아_혜 ) 의 #왕크왕캠 이 드디어 나왔다구요❣\n\n갓벽한 얼굴과 더 갓벽한 무대 보러 봉춘으로 달려달려💨💨\n \n📽 https://t.co/qnqWHA8anu\n\n#이달의소녀 #이달소 #Paint_The_Town #PTT https://t.co/XYWNTpf28u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "희진",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "올리비아_혜",
+					"indices": [
+						39,
+						46
+					]
+				},
+				{
+					"text": "왕크왕캠",
+					"indices": [
+						51,
+						56
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "Paint_The_Town",
+					"indices": [
+						144,
+						159
+					]
+				},
+				{
+					"text": "PTT",
+					"indices": [
+						160,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qnqWHA8anu",
+					"expanded_url": "https://youtu.be/d5t8GMDHuEc",
+					"display_url": "youtu.be/d5t8GMDHuEc",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1418782882164707300,
+					"id_str": "1418782882164707328",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/E7CHg6jVEAAoOKa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7CHg6jVEAAoOKa.jpg",
+					"url": "https://t.co/XYWNTpf28u",
+					"display_url": "pic.twitter.com/XYWNTpf28u",
+					"expanded_url": "https://twitter.com/radiombc/status/1418858496309694465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418782882164707300,
+					"id_str": "1418782882164707328",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/E7CHg6jVEAAoOKa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7CHg6jVEAAoOKa.jpg",
+					"url": "https://t.co/XYWNTpf28u",
+					"display_url": "pic.twitter.com/XYWNTpf28u",
+					"expanded_url": "https://twitter.com/radiombc/status/1418858496309694465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145925496,
+			"id_str": "145925496",
+			"name": "봉춘라디오 MBC RADIO",
+			"screen_name": "radiombc",
+			"location": "MBC RADIO",
+			"description": "MBC RADIO Official #MBC라디오 #봉춘라디오",
+			"url": "https://t.co/aMXLX3vY7V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aMXLX3vY7V",
+							"expanded_url": "https://www.youtube.com/RadioMBC",
+							"display_url": "youtube.com/RadioMBC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74478,
+			"friends_count": 44,
+			"listed_count": 602,
+			"created_at": "Thu May 20 06:02:35 +0000 2010",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1290175170045292544/Caze5N6G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290175170045292544/Caze5N6G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145925496/1596436707",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 190,
+		"favorite_count": 400,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "춤 추고 싶었어요🐰 무대가 너무 하고 싶었던 단군토끼 #희진 (ft. #올리비아_혜 ) 의 #왕크왕캠 이 드디어 나왔다구요❣\n\n갓벽한 얼굴과 더 갓벽한 무대 보러 봉춘으로 달려달려💨💨\n \n📽 https://t.co/qnqWHA8anu\n\n#이달의소녀 #이달소 #Paint_The_Town #PTT https://t.co/XYWNTpf28u"
+	},
+	{
 		"created_at": "Sat Jul 24 08:52:47 +0000 2021",
 		"id": 1418825085704491000,
 		"id_str": "1418856678720737289",
-		"full_text": "[짜릿한인터뷰] LOONA｜통컬이 거짓말 탐지기로 낳고 자막으로 키운 딸들 (feat. 코코몽X김민교X말티즈) ‍[Thrilling Interview/ 통통컬처](@loonatheworld)\n\n#이달소 #LOONA \n아버지\n나를 낳고\n바지적삼\n다 적시셨네\n\n▶https://t.co/pEvsjWaqPA https://t.co/9gyIAlGMVt",
+		"full_text": "[짜릿한인터뷰] LOONA｜통컬이 거짓말 탐지기로 낳고 자막으로 키운 딸들 (feat. 코코몽X김민교X말티즈) [Thrilling Interview/ 통통컬처](@loonatheworld)\n\n#이달소 #LOONA \n아버지\n나를 낳고\n바지적삼\n다 적시셨네\n\n▶https://t.co/pEvsjWaqPA https://t.co/9gyIAlGMVt",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -196,7 +651,7 @@ Grailbird.data.tweets_2021_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[짜릿한인터뷰] LOONA｜통컬이 거짓말 탐지기로 낳고 자막으로 키운 딸들 (feat. 코코몽X김민교X말티즈) ‍[Thrilling Interview/ 통통컬처](@loonatheworld)\n\n#이달소 #LOONA \n아버지\n나를 낳고\n바지적삼\n다 적시셨네\n\n▶https://t.co/pEvsjWaqPA https://t.co/9gyIAlGMVt"
+		"text": "[짜릿한인터뷰] LOONA｜통컬이 거짓말 탐지기로 낳고 자막으로 키운 딸들 (feat. 코코몽X김민교X말티즈) [Thrilling Interview/ 통통컬처](@loonatheworld)\n\n#이달소 #LOONA \n아버지\n나를 낳고\n바지적삼\n다 적시셨네\n\n▶https://t.co/pEvsjWaqPA https://t.co/9gyIAlGMVt"
 	},
 	{
 		"created_at": "Sat Jul 24 07:45:37 +0000 2021",
