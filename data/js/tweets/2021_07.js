@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 25 18:52:47 +0000 2021",
+		"id": 1419288827793797000,
+		"id_str": "1419370061568020489",
+		"full_text": "calling @thisissigrid fans!!!\n\ntonight @BBCR1 she'll be on to chat about her return, what she does to switch off, and share 30 mins of her favourite wind down tracks with a Chill Mix ✨\n\nshe's so class - hear her from 8pm: https://t.co/637YoPHUpK https://t.co/u2M5vQdkNR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thisissigrid",
+					"name": "sigrid",
+					"id": 819042492,
+					"id_str": "819042492",
+					"indices": [
+						8,
+						21
+					]
+				},
+				{
+					"screen_name": "BBCR1",
+					"name": "BBC Radio 1",
+					"id": 7111412,
+					"id_str": "7111412",
+					"indices": [
+						39,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/637YoPHUpK",
+					"expanded_url": "https://www.bbc.co.uk/programmes/m000y606",
+					"display_url": "bbc.co.uk/programmes/m00…",
+					"indices": [
+						222,
+						245
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1419288825852055600,
+					"id_str": "1419288825852055553",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/E7JTqtqX0AEkV7p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7JTqtqX0AEkV7p.jpg",
+					"url": "https://t.co/u2M5vQdkNR",
+					"display_url": "pic.twitter.com/u2M5vQdkNR",
+					"expanded_url": "https://twitter.com/sianelerievans/status/1419288827793797120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1419288825852055600,
+					"id_str": "1419288825852055553",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/E7JTqtqX0AEkV7p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7JTqtqX0AEkV7p.jpg",
+					"url": "https://t.co/u2M5vQdkNR",
+					"display_url": "pic.twitter.com/u2M5vQdkNR",
+					"expanded_url": "https://twitter.com/sianelerievans/status/1419288827793797120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 476238991,
+			"id_str": "476238991",
+			"name": "Sian Eleri",
+			"screen_name": "sianelerievans",
+			"location": "London + Caernarfon",
+			"description": "Presenter! @BBCR1's Chillest Show every Sunday • R1 Relax • sometimes @BBCRadioCymru • mgmt: courtneay@insanitygroup.com • iawn ia",
+			"url": "https://t.co/HpSCPD0csC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HpSCPD0csC",
+							"expanded_url": "https://bbc.in/3sAfSMe",
+							"display_url": "bbc.in/3sAfSMe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5849,
+			"friends_count": 697,
+			"listed_count": 8,
+			"created_at": "Fri Jan 27 22:39:37 +0000 2012",
+			"favourites_count": 4092,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2F2F2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212406213968900096/QW_0Me_C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212406213968900096/QW_0Me_C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/476238991/1399128831",
+			"profile_link_color": "A9ACC7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 110,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "calling @thisissigrid fans!!!\n\ntonight @BBCR1 she'll be on to chat about her return, what she does to switch off, and share 30 mins of her favourite wind down tracks with a Chill Mix ✨\n\nshe's so class - hear her from 8pm: https://t.co/637YoPHUpK https://t.co/u2M5vQdkNR"
+	},
+	{
 		"created_at": "Sun Jul 25 17:52:47 +0000 2021",
 		"id": 1419326652551663600,
 		"id_str": "1419354961989849090",
