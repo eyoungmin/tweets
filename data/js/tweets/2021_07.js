@@ -1,6 +1,531 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 25 12:24:08 +0000 2021",
+		"id": 1419266180565581800,
+		"id_str": "1419272251111661570",
+		"full_text": "효연이 직접 밝힌 다음 활동 '스포' 알려드림\n\n#소녀시대 #소시 #효연 #데일리룩 #스타일 #패션 #인터뷰 #유리 #수영 #골프 #인스타그램 #SNS #MBTI #걸그룹 #여돌 #아이돌 #솔로 #아티스트\nhttps://t.co/LP7f8axTjV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "소시",
+					"indices": [
+						33,
+						36
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "데일리룩",
+					"indices": [
+						41,
+						46
+					]
+				},
+				{
+					"text": "스타일",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "패션",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "인터뷰",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "수영",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "골프",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "인스타그램",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "SNS",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "MBTI",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "걸그룹",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "여돌",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "아이돌",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "솔로",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "아티스트",
+					"indices": [
+						109,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LP7f8axTjV",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/57042?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/57042?…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89007,
+			"friends_count": 3,
+			"listed_count": 400,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12906,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "효연이 직접 밝힌 다음 활동 '스포' 알려드림\n\n#소녀시대 #소시 #효연 #데일리룩 #스타일 #패션 #인터뷰 #유리 #수영 #골프 #인스타그램 #SNS #MBTI #걸그룹 #여돌 #아이돌 #솔로 #아티스트\nhttps://t.co/LP7f8axTjV"
+	},
+	{
+		"created_at": "Sun Jul 25 12:04:41 +0000 2021",
+		"id": 1419267332388442000,
+		"id_str": "1419267358074408961",
+		"full_text": "@glassmagazine @givenchy \n#WINTER #윈터 \n#aespa #æspa #에스파 https://t.co/Cui1F5fztR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WINTER",
+					"indices": [
+						26,
+						33
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						34,
+						37
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						52,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "glassmagazine",
+					"name": "The Glass Magazine",
+					"id": 63691675,
+					"id_str": "63691675",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "givenchy",
+					"name": "Givenchy",
+					"id": 274040176,
+					"id_str": "274040176",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1419267326805831700,
+					"id_str": "1419267326805831688",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/E7JAHTeUcAgcxiG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7JAHTeUcAgcxiG.jpg",
+					"url": "https://t.co/Cui1F5fztR",
+					"display_url": "pic.twitter.com/Cui1F5fztR",
+					"expanded_url": "https://twitter.com/aespa_official/status/1419267332388442115/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1419267326805831700,
+					"id_str": "1419267326805831688",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/E7JAHTeUcAgcxiG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7JAHTeUcAgcxiG.jpg",
+					"url": "https://t.co/Cui1F5fztR",
+					"display_url": "pic.twitter.com/Cui1F5fztR",
+					"expanded_url": "https://twitter.com/aespa_official/status/1419267332388442115/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1419267326969483300,
+					"id_str": "1419267326969483268",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/E7JAHUFVkAQouZr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7JAHUFVkAQouZr.jpg",
+					"url": "https://t.co/Cui1F5fztR",
+					"display_url": "pic.twitter.com/Cui1F5fztR",
+					"expanded_url": "https://twitter.com/aespa_official/status/1419267332388442115/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1419267327154004000,
+					"id_str": "1419267327154003970",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/E7JAHUxVIAInqQ3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7JAHUxVIAInqQ3.jpg",
+					"url": "https://t.co/Cui1F5fztR",
+					"display_url": "pic.twitter.com/Cui1F5fztR",
+					"expanded_url": "https://twitter.com/aespa_official/status/1419267332388442115/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1419267322691293200,
+		"in_reply_to_status_id_str": "1419267322691293187",
+		"in_reply_to_user_id": 1277453652924366800,
+		"in_reply_to_user_id_str": "1277453652924366848",
+		"in_reply_to_screen_name": "aespa_official",
+		"user": {
+			"id": 1277453652924366800,
+			"id_str": "1277453652924366848",
+			"name": "aespa",
+			"screen_name": "aespa_official",
+			"location": "",
+			"description": "Next Level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1279475,
+			"friends_count": 1,
+			"listed_count": 4886,
+			"created_at": "Mon Jun 29 04:08:00 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389958073020604416/c-BnpgQ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277453652924366848/1620226804",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6598,
+		"favorite_count": 16684,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@glassmagazine @givenchy \n#WINTER #윈터 \n#aespa #æspa #에스파 https://t.co/Cui1F5fztR"
+	},
+	{
 		"created_at": "Sun Jul 25 11:06:12 +0000 2021",
 		"id": 1419252639531929600,
 		"id_str": "1419252639531929602",
