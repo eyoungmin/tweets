@@ -1,6 +1,428 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 26 04:55:45 +0000 2021",
+		"id": 1419521801038741500,
+		"id_str": "1419521801038741504",
+		"full_text": "#SMTOWN #Artist_News \n‘8월 컴백’ 레드벨벳, 신비로운 분위기의 아카이브 비디오 공개 화제! \nhttps://t.co/UbgRXiHpAT \n \n#레드벨벳 #RedVelvet https://t.co/cpwTowovnl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						96,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UbgRXiHpAT",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5244",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1419521799512109000,
+					"id_str": "1419521799512109057",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/E7MnjkLXsAEZ_pa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7MnjkLXsAEZ_pa.jpg",
+					"url": "https://t.co/cpwTowovnl",
+					"display_url": "pic.twitter.com/cpwTowovnl",
+					"expanded_url": "https://twitter.com/fromminn/status/1419521801038741504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1419521799512109000,
+					"id_str": "1419521799512109057",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/E7MnjkLXsAEZ_pa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7MnjkLXsAEZ_pa.jpg",
+					"url": "https://t.co/cpwTowovnl",
+					"display_url": "pic.twitter.com/cpwTowovnl",
+					"expanded_url": "https://twitter.com/fromminn/status/1419521801038741504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44938,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \n‘8월 컴백’ 레드벨벳, 신비로운 분위기의 아카이브 비디오 공개 화제! \nhttps://t.co/UbgRXiHpAT \n \n#레드벨벳 #RedVelvet https://t.co/cpwTowovnl"
+	},
+	{
+		"created_at": "Mon Jul 26 04:45:55 +0000 2021",
+		"id": 1419518455926034400,
+		"id_str": "1419519325166256129",
+		"full_text": "[#TMINEWS] TMI 주인공 찾기 이벤트 정답 공개🎉\n\n수요일 저녁 8시, #이브 , #츄 의 활약을 기대해 주세요♡\n\n자세한 내용은 아래 링크를 확인하세요!\n☞https://t.co/5gPEIoIryZ\n\n아이돌 정보 과부하 차트쇼 &lt;TMI NEWS&gt;\n매주 수요일 저녁 8시 본방사수💫\n\n#이달의소녀 #LOONA https://t.co/BFfBvfBx5G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TMINEWS",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						51,
+						53
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						177,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5gPEIoIryZ",
+					"expanded_url": "https://bit.ly/2WbZd5M",
+					"display_url": "bit.ly/2WbZd5M",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1419518450985103400,
+					"id_str": "1419518450985103361",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E7Mkgp8UcAEfCdi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7Mkgp8UcAEfCdi.jpg",
+					"url": "https://t.co/BFfBvfBx5G",
+					"display_url": "pic.twitter.com/BFfBvfBx5G",
+					"expanded_url": "https://twitter.com/MnetKR/status/1419518455926034436/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1419518450985103400,
+					"id_str": "1419518450985103361",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E7Mkgp8UcAEfCdi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7Mkgp8UcAEfCdi.jpg",
+					"url": "https://t.co/BFfBvfBx5G",
+					"display_url": "pic.twitter.com/BFfBvfBx5G",
+					"expanded_url": "https://twitter.com/MnetKR/status/1419518455926034436/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2979816,
+			"friends_count": 21184,
+			"listed_count": 2911,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 381,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#TMINEWS] TMI 주인공 찾기 이벤트 정답 공개🎉\n\n수요일 저녁 8시, #이브 , #츄 의 활약을 기대해 주세요♡\n\n자세한 내용은 아래 링크를 확인하세요!\n☞https://t.co/5gPEIoIryZ\n\n아이돌 정보 과부하 차트쇼 &lt;TMI NEWS&gt;\n매주 수요일 저녁 8시 본방사수💫\n\n#이달의소녀 #LOONA https://t.co/BFfBvfBx5G"
+	},
+	{
 		"created_at": "Mon Jul 26 03:45:36 +0000 2021",
 		"id": 1419500797654573000,
 		"id_str": "1419504148672811011",
