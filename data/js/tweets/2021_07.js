@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 26 07:45:36 +0000 2021",
+		"id": 1419555638200266800,
+		"id_str": "1419564546998550528",
+		"full_text": "[Current July Chart] \n7월 5주차 현재 아챔차트 순위는?\n\n1⃣ #SF9 ❤4,490,110\n2⃣ #BTS ❤2,365,964\n3⃣ #KANGDANIEL ❤1,429,989\n4⃣ #2PM ❤1,150,994\n5⃣ #LOONA ❤1,058,894\n🌟IDOL MAP🌟 ▶ https://t.co/f3ZibKWHq5 https://t.co/TBTk0xitUS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SF9",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "KANGDANIEL",
+					"indices": [
+						84,
+						95
+					]
+				},
+				{
+					"text": "2PM",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						129,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f3ZibKWHq5",
+					"expanded_url": "http://bit.ly/2HNp8ri",
+					"display_url": "bit.ly/2HNp8ri",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1419555626850558000,
+					"id_str": "1419555626850557958",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E7NGUk1VoAYHZUM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7NGUk1VoAYHZUM.jpg",
+					"url": "https://t.co/TBTk0xitUS",
+					"display_url": "pic.twitter.com/TBTk0xitUS",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1419555638200266754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1419555626850558000,
+					"id_str": "1419555626850557958",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E7NGUk1VoAYHZUM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7NGUk1VoAYHZUM.jpg",
+					"url": "https://t.co/TBTk0xitUS",
+					"display_url": "pic.twitter.com/TBTk0xitUS",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1419555638200266754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 842271014520148000,
+			"id_str": "842271014520147968",
+			"name": "아이돌챔프",
+			"screen_name": "idolchamp1",
+			"location": "아이돌 맴 속",
+			"description": "MBC M 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83995,
+			"friends_count": 104,
+			"listed_count": 207,
+			"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+			"favourites_count": 300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1580881175",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Current July Chart] \n7월 5주차 현재 아챔차트 순위는?\n\n1⃣ #SF9 ❤4,490,110\n2⃣ #BTS ❤2,365,964\n3⃣ #KANGDANIEL ❤1,429,989\n4⃣ #2PM ❤1,150,994\n5⃣ #LOONA ❤1,058,894\n🌟IDOL MAP🌟 ▶ https://t.co/f3ZibKWHq5 https://t.co/TBTk0xitUS"
+	},
+	{
 		"created_at": "Mon Jul 26 06:45:36 +0000 2021",
 		"id": 1419523532787130400,
 		"id_str": "1419549447017619456",
