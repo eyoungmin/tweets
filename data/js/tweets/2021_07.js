@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 26 06:45:36 +0000 2021",
+		"id": 1419523532787130400,
+		"id_str": "1419549447017619456",
+		"full_text": "이달의 소녀(LOONA)와 함께 하는 사인 CD &amp; 폴라로이드 사진 이벤트\nHere's a CD and polaroid photo with LOONA's autograph~!!♥\n자세한 사항은 유튜브 커뮤니티를 참조하세요!\nhttps://t.co/FJvMANPEGT\n\n#이달의소녀 #LOONA #PTT\n#폴라로이드 #사인CD #폴카이벤트 https://t.co/55FSboxkaP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						161,
+						167
+					]
+				},
+				{
+					"text": "PTT",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "폴라로이드",
+					"indices": [
+						173,
+						179
+					]
+				},
+				{
+					"text": "사인CD",
+					"indices": [
+						180,
+						185
+					]
+				},
+				{
+					"text": "폴카이벤트",
+					"indices": [
+						186,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FJvMANPEGT",
+					"expanded_url": "https://www.youtube.com/channel/UC3pk0eDcZx_oYGCWNyJpjMQ/community",
+					"display_url": "youtube.com/channel/UC3pk0…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1419523158688764000,
+					"id_str": "1419523158688763906",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/E7MoyrgVkAIS_Ks.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7MoyrgVkAIS_Ks.jpg",
+					"url": "https://t.co/55FSboxkaP",
+					"display_url": "pic.twitter.com/55FSboxkaP",
+					"expanded_url": "https://twitter.com/ae_ssr/status/1419523532787130369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1419523158688764000,
+					"id_str": "1419523158688763906",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/E7MoyrgVkAIS_Ks.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7MoyrgVkAIS_Ks.jpg",
+					"url": "https://t.co/55FSboxkaP",
+					"display_url": "pic.twitter.com/55FSboxkaP",
+					"expanded_url": "https://twitter.com/ae_ssr/status/1419523532787130369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906055771921629200,
+			"id_str": "906055771921629184",
+			"name": "나돌(NADOL)",
+			"screen_name": "ae_ssr",
+			"location": "대한민국 중구",
+			"description": "KPOP 스타들의 매력발산 채널 '나도 아이돌이다'",
+			"url": "https://t.co/W4BmT5ww9v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W4BmT5ww9v",
+							"expanded_url": "https://www.youtube.com/channel/UC3pk0eDcZx_oYGCWNyJpjMQ/featured?view_as=subscriber",
+							"display_url": "youtube.com/channel/UC3pk0…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1665,
+			"friends_count": 95,
+			"listed_count": 17,
+			"created_at": "Fri Sep 08 07:25:04 +0000 2017",
+			"favourites_count": 38,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2263,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1318368541406494720/fyadTBj2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318368541406494720/fyadTBj2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906055771921629184/1603158530",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 136,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이달의 소녀(LOONA)와 함께 하는 사인 CD &amp; 폴라로이드 사진 이벤트\nHere's a CD and polaroid photo with LOONA's autograph~!!♥\n자세한 사항은 유튜브 커뮤니티를 참조하세요!\nhttps://t.co/FJvMANPEGT\n\n#이달의소녀 #LOONA #PTT\n#폴라로이드 #사인CD #폴카이벤트 https://t.co/55FSboxkaP"
+	},
+	{
 		"created_at": "Mon Jul 26 04:55:45 +0000 2021",
 		"id": 1419521801038741500,
 		"id_str": "1419521801038741504",
