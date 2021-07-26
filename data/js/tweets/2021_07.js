@@ -1,6 +1,936 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 26 02:52:50 +0000 2021",
+		"id": 1419487917584515000,
+		"id_str": "1419490866482360320",
+		"full_text": "Red Velvet, set to comeback in August, is to hype up the pre-comeback period with ‘Queens Mystic General Store ‘, the general store-concept archiving promotion!\n\nPromotion to be carried out until August 1st via Instagram!\n\n#RedVelvet #Queens_Mystic_General_Store #Queens",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						223,
+						233
+					]
+				},
+				{
+					"text": "Queens_Mystic_General_Store",
+					"indices": [
+						234,
+						262
+					]
+				},
+				{
+					"text": "Queens",
+					"indices": [
+						263,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1419487534984306700,
+		"in_reply_to_status_id_str": "1419487534984306690",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/U7JtipmDEo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U7JtipmDEo",
+							"expanded_url": "https://youtu.be/lNvBbh5jDcA",
+							"display_url": "youtu.be/lNvBbh5jDcA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4356550,
+			"friends_count": 1,
+			"listed_count": 9263,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1622019868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4642,
+		"favorite_count": 10637,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Red Velvet, set to comeback in August, is to hype up the pre-comeback period with ‘Queens Mystic General Store ‘, the general store-concept archiving promotion!\n\nPromotion to be carried out until August 1st via Instagram!\n\n#RedVelvet #Queens_Mystic_General_Store #Queens"
+	},
+	{
+		"created_at": "Mon Jul 26 02:52:47 +0000 2021",
+		"id": 1419487534984306700,
+		"id_str": "1419490857598738432",
+		"full_text": "‘8월 컴백’ 레드벨벳,  잡화점 콘셉트의 아카이빙 프로모션 ‘신비한 퀸즈잡화점’ 으로 컴백 예열!\n\n8월 1일까지 일주일간 인스타그램을 통해 진행!\n\n#레드벨벳 #RedVelvet #Queens_Mystic_General_Store  ​\n#신비한_퀸즈_잡화점 #퀸즈잡화점 #Queens https://t.co/jIO5PvRKdb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						91,
+						101
+					]
+				},
+				{
+					"text": "Queens_Mystic_General_Store",
+					"indices": [
+						102,
+						130
+					]
+				},
+				{
+					"text": "신비한_퀸즈_잡화점",
+					"indices": [
+						134,
+						145
+					]
+				},
+				{
+					"text": "퀸즈잡화점",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "Queens",
+					"indices": [
+						153,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1419487512720928800,
+					"id_str": "1419487512720928772",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/E7MIXz7VcAQpCEN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7MIXz7VcAQpCEN.jpg",
+					"url": "https://t.co/jIO5PvRKdb",
+					"display_url": "pic.twitter.com/jIO5PvRKdb",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1419487534984306690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1969,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 853,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1419487512720928800,
+					"id_str": "1419487512720928772",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/E7MIXz7VcAQpCEN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7MIXz7VcAQpCEN.jpg",
+					"url": "https://t.co/jIO5PvRKdb",
+					"display_url": "pic.twitter.com/jIO5PvRKdb",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1419487534984306690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1969,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 853,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1419487512720941000,
+					"id_str": "1419487512720941056",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/E7MIXz7VoAAfqFM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7MIXz7VoAAfqFM.jpg",
+					"url": "https://t.co/jIO5PvRKdb",
+					"display_url": "pic.twitter.com/jIO5PvRKdb",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1419487534984306690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 588,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1770,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1037,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/U7JtipmDEo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U7JtipmDEo",
+							"expanded_url": "https://youtu.be/lNvBbh5jDcA",
+							"display_url": "youtu.be/lNvBbh5jDcA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4356550,
+			"friends_count": 1,
+			"listed_count": 9263,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1622019868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14077,
+		"favorite_count": 24483,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘8월 컴백’ 레드벨벳,  잡화점 콘셉트의 아카이빙 프로모션 ‘신비한 퀸즈잡화점’ 으로 컴백 예열!\n\n8월 1일까지 일주일간 인스타그램을 통해 진행!\n\n#레드벨벳 #RedVelvet #Queens_Mystic_General_Store  ​\n#신비한_퀸즈_잡화점 #퀸즈잡화점 #Queens https://t.co/jIO5PvRKdb"
+	},
+	{
+		"created_at": "Mon Jul 26 02:52:39 +0000 2021",
+		"id": 1419381041131757600,
+		"id_str": "1419490821686980608",
+		"full_text": "Jennie and Grimes go to space 🧚🏻‍♀️🚀 https://t.co/d3FaY30hOf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1419380992536547300,
+					"id_str": "1419380992536547329",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/E7KnfhUVEAEtPxi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7KnfhUVEAEtPxi.jpg",
+					"url": "https://t.co/d3FaY30hOf",
+					"display_url": "pic.twitter.com/d3FaY30hOf",
+					"expanded_url": "https://twitter.com/Grimezsz/status/1419381041131757568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1534,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1419380992536547300,
+					"id_str": "1419380992536547329",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/E7KnfhUVEAEtPxi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7KnfhUVEAEtPxi.jpg",
+					"url": "https://t.co/d3FaY30hOf",
+					"display_url": "pic.twitter.com/d3FaY30hOf",
+					"expanded_url": "https://twitter.com/Grimezsz/status/1419381041131757568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1534,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1419380992536563700,
+					"id_str": "1419380992536563714",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/E7KnfhUVUAI9_yO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7KnfhUVUAI9_yO.jpg",
+					"url": "https://t.co/d3FaY30hOf",
+					"display_url": "pic.twitter.com/d3FaY30hOf",
+					"expanded_url": "https://twitter.com/Grimezsz/status/1419381041131757568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1534,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1419380992544960500,
+					"id_str": "1419380992544960512",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/E7KnfhWVcAA6BYE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7KnfhWVcAA6BYE.jpg",
+					"url": "https://t.co/d3FaY30hOf",
+					"display_url": "pic.twitter.com/d3FaY30hOf",
+					"expanded_url": "https://twitter.com/Grimezsz/status/1419381041131757568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1534,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 276540738,
+			"id_str": "276540738",
+			"name": "Grimes",
+			"screen_name": "Grimezsz",
+			"location": "Valhalla . Com 🧩🐉🪐",
+			"description": "Miss Information 💊",
+			"url": "https://t.co/d84PhImpfd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d84PhImpfd",
+							"expanded_url": "https://metaverse.lnk.to/ClaireDeLuneTA",
+							"display_url": "metaverse.lnk.to/ClaireDeLuneTA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1199985,
+			"friends_count": 1019,
+			"listed_count": 3054,
+			"created_at": "Sun Apr 03 15:32:54 +0000 2011",
+			"favourites_count": 9516,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1413711236710109187/D_ir4hoc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1413711236710109187/D_ir4hoc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/276540738/1626352394",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "18EB11",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15595,
+		"favorite_count": 67546,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Jennie and Grimes go to space 🧚🏻‍♀️🚀 https://t.co/d3FaY30hOf"
+	},
+	{
+		"created_at": "Mon Jul 26 02:45:45 +0000 2021",
+		"id": 1419478301421146000,
+		"id_str": "1419489086100983808",
+		"full_text": "[TMI NEWS] 이달의 소녀 츄 이력서📋\n⠀\n출근을 앞둔 커버모델 이달의 소녀 츄의 TMI 대방출!\n⠀\n아이돌 정보 과부하 차트쇼 &lt;TMI NEWS&gt;\n매주 수요일 저녁 8시 본방사수💫\n⠀\n#TMINEWS #츄 #Chuu #이달의소녀 #LOONA #전현무 #장도연 #Mnet #엠넷 https://t.co/RaKiWMGT5A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TMINEWS",
+					"indices": [
+						113,
+						121
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						122,
+						124
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "전현무",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "장도연",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						161,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1419478296379625500,
+					"id_str": "1419478296379625472",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/E7L__WYVkAAaMQR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7L__WYVkAAaMQR.jpg",
+					"url": "https://t.co/RaKiWMGT5A",
+					"display_url": "pic.twitter.com/RaKiWMGT5A",
+					"expanded_url": "https://twitter.com/MnetKR/status/1419478301421146120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1419478296379625500,
+					"id_str": "1419478296379625472",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/E7L__WYVkAAaMQR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7L__WYVkAAaMQR.jpg",
+					"url": "https://t.co/RaKiWMGT5A",
+					"display_url": "pic.twitter.com/RaKiWMGT5A",
+					"expanded_url": "https://twitter.com/MnetKR/status/1419478301421146120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1419478296501186600,
+					"id_str": "1419478296501186566",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/E7L__W1UcAYdCZi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7L__W1UcAYdCZi.jpg",
+					"url": "https://t.co/RaKiWMGT5A",
+					"display_url": "pic.twitter.com/RaKiWMGT5A",
+					"expanded_url": "https://twitter.com/MnetKR/status/1419478301421146120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1419478296555786200,
+					"id_str": "1419478296555786241",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/E7L__XCVkAEIXjK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7L__XCVkAEIXjK.jpg",
+					"url": "https://t.co/RaKiWMGT5A",
+					"display_url": "pic.twitter.com/RaKiWMGT5A",
+					"expanded_url": "https://twitter.com/MnetKR/status/1419478301421146120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2979770,
+			"friends_count": 21184,
+			"listed_count": 2911,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 241,
+		"favorite_count": 747,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[TMI NEWS] 이달의 소녀 츄 이력서📋\n⠀\n출근을 앞둔 커버모델 이달의 소녀 츄의 TMI 대방출!\n⠀\n아이돌 정보 과부하 차트쇼 &lt;TMI NEWS&gt;\n매주 수요일 저녁 8시 본방사수💫\n⠀\n#TMINEWS #츄 #Chuu #이달의소녀 #LOONA #전현무 #장도연 #Mnet #엠넷 https://t.co/RaKiWMGT5A"
+	},
+	{
 		"created_at": "Sun Jul 25 18:52:47 +0000 2021",
 		"id": 1419288827793797000,
 		"id_str": "1419370061568020489",
