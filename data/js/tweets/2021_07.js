@@ -1,6 +1,396 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 27 02:53:00 +0000 2021",
+		"id": 1419849475493798000,
+		"id_str": "1419853297385672704",
+		"full_text": "🇺🇸LOOПΔ in New York🇺🇸 #LOONA PTT (Paint The Town) in New York through @Spotify @SpotifyKR EQUAL💚 Ready to color summer in the US into LOONA‼️🎨\n\n#이달의소녀 #이달의소녀_PTT #LOONA_PTT #SpotifyEQUAL \n\n▶️ https://t.co/sEiJ6agZpJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						22,
+						28
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "이달의소녀_PTT",
+					"indices": [
+						151,
+						161
+					]
+				},
+				{
+					"text": "LOONA_PTT",
+					"indices": [
+						162,
+						172
+					]
+				},
+				{
+					"text": "SpotifyEQUAL",
+					"indices": [
+						173,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						70,
+						78
+					]
+				},
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						79,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sEiJ6agZpJ",
+					"expanded_url": "https://spoti.fi/3iPXqv0",
+					"display_url": "spoti.fi/3iPXqv0",
+					"indices": [
+						192,
+						215
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1419849448922902500,
+		"in_reply_to_status_id_str": "1419849448922902528",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 779375,
+			"friends_count": 1,
+			"listed_count": 7763,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 421,
+		"favorite_count": 2501,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🇺🇸LOOПΔ in New York🇺🇸 #LOONA PTT (Paint The Town) in New York through @Spotify @SpotifyKR EQUAL💚 Ready to color summer in the US into LOONA‼️🎨\n\n#이달의소녀 #이달의소녀_PTT #LOONA_PTT #SpotifyEQUAL \n\n▶️ https://t.co/sEiJ6agZpJ"
+	},
+	{
+		"created_at": "Tue Jul 27 02:52:48 +0000 2021",
+		"id": 1419843718903857200,
+		"id_str": "1419853246026371083",
+		"full_text": "레드벨벳, 8월 1일 오후 8시 데뷔 7주년 기념 스페셜 V LIVE 진행!\n팬들과 함께 하는 데뷔 7주년 축하 랜선 파티 예고!\n \nRed Velvet to have their 7th anniversary NAVER V LIVE on August 1st at 8PM KST!\nTo hold an online celebration party with fans!\n\n\n\n#레드벨벳 #RedVelvet https://t.co/BTXu93iGnm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						205,
+						210
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						211,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1419843554721943600,
+					"id_str": "1419843554721943555",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/E7RMMLvUUAMHxXr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7RMMLvUUAMHxXr.jpg",
+					"url": "https://t.co/BTXu93iGnm",
+					"display_url": "pic.twitter.com/BTXu93iGnm",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1419843718903857155/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1419843554721943600,
+					"id_str": "1419843554721943555",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/E7RMMLvUUAMHxXr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7RMMLvUUAMHxXr.jpg",
+					"url": "https://t.co/BTXu93iGnm",
+					"display_url": "pic.twitter.com/BTXu93iGnm",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1419843718903857155/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1419843554722009000,
+					"id_str": "1419843554722009096",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/E7RMMLvVUAg03Nz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7RMMLvVUAg03Nz.jpg",
+					"url": "https://t.co/BTXu93iGnm",
+					"display_url": "pic.twitter.com/BTXu93iGnm",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1419843718903857155/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/U7JtipmDEo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U7JtipmDEo",
+							"expanded_url": "https://youtu.be/lNvBbh5jDcA",
+							"display_url": "youtu.be/lNvBbh5jDcA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4363266,
+			"friends_count": 1,
+			"listed_count": 9308,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394081726993899521/HX_Qo0T4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1622019868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12130,
+		"favorite_count": 26790,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳, 8월 1일 오후 8시 데뷔 7주년 기념 스페셜 V LIVE 진행!\n팬들과 함께 하는 데뷔 7주년 축하 랜선 파티 예고!\n \nRed Velvet to have their 7th anniversary NAVER V LIVE on August 1st at 8PM KST!\nTo hold an online celebration party with fans!\n\n\n\n#레드벨벳 #RedVelvet https://t.co/BTXu93iGnm"
+	},
+	{
 		"created_at": "Mon Jul 26 21:07:34 +0000 2021",
 		"id": 1419766368447176700,
 		"id_str": "1419766368447176718",
