@@ -1,6 +1,392 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 02 01:20:18 +0000 2021",
+		"id": 1421999190759014400,
+		"id_str": "1422004297315672064",
+		"full_text": "#광고 6년 연속 럭셔리 쿠션 no.1 입생로랑 뷰티의 엉크르 드 뽀 쿠션과 최고의 아티스트 로제와의 완벽한 만남. \n로제의 고급스러운 스킨 메이크업, 빛나는 아우라를 완성한 #입생로랑쿠션 을 경험해 보세요.✨\n- \n#입생로랑뷰티 #엉크르드뽀쿠션 #입생로랑뷰티x로제 #No1CushionFor6Years #로제쿠션 https://t.co/WLGu1xo2xF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "광고",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "입생로랑쿠션",
+					"indices": [
+						98,
+						105
+					]
+				},
+				{
+					"text": "입생로랑뷰티",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"text": "엉크르드뽀쿠션",
+					"indices": [
+						129,
+						137
+					]
+				},
+				{
+					"text": "입생로랑뷰티x로제",
+					"indices": [
+						138,
+						148
+					]
+				},
+				{
+					"text": "No1CushionFor6Years",
+					"indices": [
+						149,
+						169
+					]
+				},
+				{
+					"text": "로제쿠션",
+					"indices": [
+						170,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1421997197034328000,
+					"id_str": "1421997197034328067",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/E7vy6qjVEAMqDP8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7vy6qjVEAMqDP8.jpg",
+					"url": "https://t.co/WLGu1xo2xF",
+					"display_url": "pic.twitter.com/WLGu1xo2xF",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1421999190759014401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 499,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 880,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1421997197034328000,
+					"id_str": "1421997197034328067",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/E7vy6qjVEAMqDP8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7vy6qjVEAMqDP8.jpg",
+					"url": "https://t.co/WLGu1xo2xF",
+					"display_url": "pic.twitter.com/WLGu1xo2xF",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1421999190759014401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 499,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 880,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1421997197025943600,
+					"id_str": "1421997197025943555",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/E7vy6qhVIAMzjGl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7vy6qhVIAMzjGl.jpg",
+					"url": "https://t.co/WLGu1xo2xF",
+					"display_url": "pic.twitter.com/WLGu1xo2xF",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1421999190759014401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 926,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 926,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159102271,
+			"id_str": "159102271",
+			"name": "VOGUE KOREA",
+			"screen_name": "VogueKorea",
+			"location": "",
+			"description": "Vogue Korea official twitter",
+			"url": "https://t.co/7zHHYnc0Dp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7zHHYnc0Dp",
+							"expanded_url": "http://www.vogue.co.kr",
+							"display_url": "vogue.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 95552,
+			"friends_count": 0,
+			"listed_count": 319,
+			"created_at": "Thu Jun 24 13:11:05 +0000 2010",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159102271/1626420541",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5EF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1446,
+		"favorite_count": 3104,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#광고 6년 연속 럭셔리 쿠션 no.1 입생로랑 뷰티의 엉크르 드 뽀 쿠션과 최고의 아티스트 로제와의 완벽한 만남. \n로제의 고급스러운 스킨 메이크업, 빛나는 아우라를 완성한 #입생로랑쿠션 을 경험해 보세요.✨\n- \n#입생로랑뷰티 #엉크르드뽀쿠션 #입생로랑뷰티x로제 #No1CushionFor6Years #로제쿠션 https://t.co/WLGu1xo2xF"
+	},
+	{
+		"created_at": "Mon Aug 02 01:08:44 +0000 2021",
+		"id": 1422000147865632800,
+		"id_str": "1422001386011594754",
+		"full_text": "[#하슬 / #HaSeul] ps.초콜릿 열심히 먹는 까꿍이와 피곤해서 뻗어도 예쁜 땡깡쟁이💚\n\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하슬",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HaSeul",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						61,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1422000126340472800,
+		"in_reply_to_status_id_str": "1422000126340472832",
+		"in_reply_to_user_id": 770959712791597000,
+		"in_reply_to_user_id_str": "770959712791597056",
+		"in_reply_to_screen_name": "loonatheworld",
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 783371,
+			"friends_count": 1,
+			"listed_count": 7784,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 685,
+		"favorite_count": 4568,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[#하슬 / #HaSeul] ps.초콜릿 열심히 먹는 까꿍이와 피곤해서 뻗어도 예쁜 땡깡쟁이💚\n\n#이달의소녀 #LOONA"
+	},
+	{
 		"created_at": "Mon Aug 02 00:45:36 +0000 2021",
 		"id": 1421987713389977600,
 		"id_str": "1421995565467029507",
