@@ -1,6 +1,1180 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 02 03:45:42 +0000 2021",
+		"id": 1422030125932040200,
+		"id_str": "1422040885731201026",
+		"full_text": "진솔이가 한 달 동안 기다렸다는 선물의 정체...?\n\n#아이돌패밀리 #이달의소녀 #LOONA \n#IDOLFAMILY #진솔 #JinSoul\n\nhttps://t.co/YXDBmgZ36r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌패밀리",
+					"indices": [
+						30,
+						37
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "IDOLFAMILY",
+					"indices": [
+						53,
+						64
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						69,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YXDBmgZ36r",
+					"expanded_url": "https://www.youtube.com/watch?v=7yQ2UB1s3Mo",
+					"display_url": "youtube.com/watch?v=7yQ2UB…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906055771921629200,
+			"id_str": "906055771921629184",
+			"name": "나돌(NADOL)",
+			"screen_name": "ae_ssr",
+			"location": "대한민국 중구",
+			"description": "KPOP 스타들의 매력발산 채널 '나도 아이돌이다'",
+			"url": "https://t.co/W4BmT5ww9v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W4BmT5ww9v",
+							"expanded_url": "https://www.youtube.com/channel/UC3pk0eDcZx_oYGCWNyJpjMQ/featured?view_as=subscriber",
+							"display_url": "youtube.com/channel/UC3pk0…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1764,
+			"friends_count": 96,
+			"listed_count": 16,
+			"created_at": "Fri Sep 08 07:25:04 +0000 2017",
+			"favourites_count": 38,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1318368541406494720/fyadTBj2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318368541406494720/fyadTBj2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906055771921629184/1603158530",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 81,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "진솔이가 한 달 동안 기다렸다는 선물의 정체...?\n\n#아이돌패밀리 #이달의소녀 #LOONA \n#IDOLFAMILY #진솔 #JinSoul\n\nhttps://t.co/YXDBmgZ36r"
+	},
+	{
+		"created_at": "Mon Aug 02 03:40:22 +0000 2021",
+		"id": 1422030271793176600,
+		"id_str": "1422039544048898048",
+		"full_text": "전 세계 BLINK와 BLACKPINK를 위한 글로벌 공식 팬 커뮤니티, BLACKPINK 위버스가 오픈했습니다!🎉\n\n지금 #BLACKPINK위버스 에서 #BLINK_in_Weverse 해시태그와 함께 반가운 서로에게 환영 인사를 남겨주세요.참여하신 분들 중 추첨을 통해 선물을 드립니다!💝\n\n#위버스 가기👉https://t.co/YMamD8xZk9 https://t.co/XRosmr7LGq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK위버스",
+					"indices": [
+						69,
+						82
+					]
+				},
+				{
+					"text": "BLINK_in_Weverse",
+					"indices": [
+						86,
+						103
+					]
+				},
+				{
+					"text": "위버스",
+					"indices": [
+						164,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YMamD8xZk9",
+					"expanded_url": "https://weverse.onelink.me/qt3S/568fa560",
+					"display_url": "weverse.onelink.me/qt3S/568fa560",
+					"indices": [
+						172,
+						195
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1422028183780552700,
+					"id_str": "1422028183780552707",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/E7wPGVLVcAMAdGI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7wPGVLVcAMAdGI.jpg",
+					"url": "https://t.co/XRosmr7LGq",
+					"display_url": "pic.twitter.com/XRosmr7LGq",
+					"expanded_url": "https://twitter.com/weverseofficial/status/1422030271793176577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422028183780552700,
+					"id_str": "1422028183780552707",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/E7wPGVLVcAMAdGI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7wPGVLVcAMAdGI.jpg",
+					"url": "https://t.co/XRosmr7LGq",
+					"display_url": "pic.twitter.com/XRosmr7LGq",
+					"expanded_url": "https://twitter.com/weverseofficial/status/1422030271793176577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 988692701791993900,
+			"id_str": "988692701791993856",
+			"name": "Weverse",
+			"screen_name": "weverseofficial",
+			"location": "대한민국 서울",
+			"description": "Official for All Fans　　　　　　　　                    \nCopyright by WEVERSE COMPANY Inc. All rights reserved.",
+			"url": "https://t.co/v5AKrQxS7o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v5AKrQxS7o",
+							"expanded_url": "https://weverseapp.page.link/egZf",
+							"display_url": "weverseapp.page.link/egZf",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3305971,
+			"friends_count": 35,
+			"listed_count": 4877,
+			"created_at": "Tue Apr 24 08:14:43 +0000 2018",
+			"favourites_count": 39,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1752,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134006940399366144/PtAdIdBp_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134006940399366144/PtAdIdBp_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/988692701791993856/1583732374",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6420,
+		"favorite_count": 20372,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "전 세계 BLINK와 BLACKPINK를 위한 글로벌 공식 팬 커뮤니티, BLACKPINK 위버스가 오픈했습니다!🎉\n\n지금 #BLACKPINK위버스 에서 #BLINK_in_Weverse 해시태그와 함께 반가운 서로에게 환영 인사를 남겨주세요.참여하신 분들 중 추첨을 통해 선물을 드립니다!💝\n\n#위버스 가기👉https://t.co/YMamD8xZk9 https://t.co/XRosmr7LGq"
+	},
+	{
+		"created_at": "Mon Aug 02 03:26:49 +0000 2021",
+		"id": 1422029948613664800,
+		"id_str": "1422036133949493252",
+		"full_text": "#BLINK_in_Weverse\n\n#BLACKPINK 와 #BLINK 만의 공간인 #Weverse 가 드디어 오픈되었습니다!👏👏 위버스에서 #젠츄리챙 과 함께 소중한 순간들을 차곡차곡 쌓아보아요✨아래 링크를 통해 바로 함께해요!\n\n🖤💖 https://t.co/1sU2qRB2yG\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA\n#BLACKPINKWeverse",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLINK_in_Weverse",
+					"indices": [
+						0,
+						17
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						19,
+						29
+					]
+				},
+				{
+					"text": "BLINK",
+					"indices": [
+						32,
+						38
+					]
+				},
+				{
+					"text": "Weverse",
+					"indices": [
+						46,
+						54
+					]
+				},
+				{
+					"text": "젠츄리챙",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						170,
+						177
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						178,
+						183
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						184,
+						189
+					]
+				},
+				{
+					"text": "BLACKPINKWeverse",
+					"indices": [
+						190,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1sU2qRB2yG",
+					"expanded_url": "https://www.weverse.io/blackpink/feed",
+					"display_url": "weverse.io/blackpink/feed",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/QTHPhjMXWT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QTHPhjMXWT",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7059300,
+			"friends_count": 7,
+			"listed_count": 8129,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1733,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1623718821",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8270,
+		"favorite_count": 22247,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BLINK_in_Weverse\n\n#BLACKPINK 와 #BLINK 만의 공간인 #Weverse 가 드디어 오픈되었습니다!👏👏 위버스에서 #젠츄리챙 과 함께 소중한 순간들을 차곡차곡 쌓아보아요✨아래 링크를 통해 바로 함께해요!\n\n🖤💖 https://t.co/1sU2qRB2yG\n\n#블랙핑크 #JISOO #JENNIE #ROSÉ #LISA\n#BLACKPINKWeverse"
+	},
+	{
+		"created_at": "Mon Aug 02 03:08:55 +0000 2021",
+		"id": 1422030612613849000,
+		"id_str": "1422031632781897732",
+		"full_text": "여름이다 ! 레드벨벳 흥을 돋우자!\n\nhttps://t.co/23Sv2EBhVR\n\n#레드벨벳 #RedVelvet \n#퀸덤 #Queendom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						52,
+						62
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "Queendom",
+					"indices": [
+						68,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/23Sv2EBhVR",
+					"expanded_url": "http://naver.me/xH2dj8JQ",
+					"display_url": "naver.me/xH2dj8JQ",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4388499,
+			"friends_count": 1,
+			"listed_count": 9381,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5478,
+		"favorite_count": 14278,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여름이다 ! 레드벨벳 흥을 돋우자!\n\nhttps://t.co/23Sv2EBhVR\n\n#레드벨벳 #RedVelvet \n#퀸덤 #Queendom"
+	},
+	{
+		"created_at": "Mon Aug 02 03:08:55 +0000 2021",
+		"id": 1422029636549038000,
+		"id_str": "1422031632664383488",
+		"full_text": "✅ MD 2nd LINE UP\n-ONLINE STORE : SMTOWN &amp;STORE, SM Global Shop, SM true Store   \n-SALES PERIOD : 2021. 08. 13 (FRI) 15:00 ~ 2021. 08. 22 (SUN) 23:59 [KST]\n\n#Queendom #퀸덤 #레드벨벳 #RedVelvet\n#BeyondLIVE #비욘드라이브",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Queendom",
+					"indices": [
+						160,
+						169
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						180,
+						190
+					]
+				},
+				{
+					"text": "BeyondLIVE",
+					"indices": [
+						191,
+						202
+					]
+				},
+				{
+					"text": "비욘드라이브",
+					"indices": [
+						203,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1422029481254932500,
+		"in_reply_to_status_id_str": "1422029481254932481",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4388499,
+			"friends_count": 1,
+			"listed_count": 9381,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1350,
+		"favorite_count": 4157,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "✅ MD 2nd LINE UP\n-ONLINE STORE : SMTOWN &amp;STORE, SM Global Shop, SM true Store   \n-SALES PERIOD : 2021. 08. 13 (FRI) 15:00 ~ 2021. 08. 22 (SUN) 23:59 [KST]\n\n#Queendom #퀸덤 #레드벨벳 #RedVelvet\n#BeyondLIVE #비욘드라이브"
+	},
+	{
+		"created_at": "Mon Aug 02 03:08:55 +0000 2021",
+		"id": 1422029481254932500,
+		"id_str": "1422031632647688195",
+		"full_text": "Beyond LIVE - Red Velvet ONLINE FANMEETING 'inteRView vol.7 : Queendom'\nOFFICIAL MD ONLINE SALES NOTICE\n\n✅MD 1st LINE UP\n-ONLINE STORE : YES24, SM Global Shop, SM true Store   \n-SALES PERIOD : 2021. 08. 09 (MON) 15:00 ~ 2021. 08. 17 (TUE) 23:59 [KST]\n\n#레드벨벳 #RedVelvet https://t.co/JKOjesGk5G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						252,
+						257
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						258,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1422029250052333600,
+					"id_str": "1422029250052333572",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/E7wQEZWVoAQv7i2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7wQEZWVoAQv7i2.jpg",
+					"url": "https://t.co/JKOjesGk5G",
+					"display_url": "pic.twitter.com/JKOjesGk5G",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1422029481254932481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 387,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 661,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 219,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422029250052333600,
+					"id_str": "1422029250052333572",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/E7wQEZWVoAQv7i2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7wQEZWVoAQv7i2.jpg",
+					"url": "https://t.co/JKOjesGk5G",
+					"display_url": "pic.twitter.com/JKOjesGk5G",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1422029481254932481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 387,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 661,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 219,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4388499,
+			"friends_count": 1,
+			"listed_count": 9381,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5983,
+		"favorite_count": 13404,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Beyond LIVE - Red Velvet ONLINE FANMEETING 'inteRView vol.7 : Queendom'\nOFFICIAL MD ONLINE SALES NOTICE\n\n✅MD 1st LINE UP\n-ONLINE STORE : YES24, SM Global Shop, SM true Store   \n-SALES PERIOD : 2021. 08. 09 (MON) 15:00 ~ 2021. 08. 17 (TUE) 23:59 [KST]\n\n#레드벨벳 #RedVelvet https://t.co/JKOjesGk5G"
+	},
+	{
+		"created_at": "Mon Aug 02 03:08:55 +0000 2021",
+		"id": 1422029732682473500,
+		"id_str": "1422031632588959747",
+		"full_text": "✅ Online Store \nYES24(PC) : https://t.co/ZLDGWyOO5E\nYES24(MOBILE) : https://t.co/LqjwJwZfZE\nYES24(GLOBAL) : https://t.co/Ry36QvJGHl\nSMTOWN &amp;STORE : https://t.co/InoTF4hlHN\nSM Global Shop : https://t.co/X34y7uXp78\nSM true Store : https://t.co/ljRb30lP1X\n\n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						258,
+						263
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						264,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZLDGWyOO5E",
+					"expanded_url": "http://yes24.com/eWorld/EventWorld/Event?eventno=205648",
+					"display_url": "yes24.com/eWorld/EventWo…",
+					"indices": [
+						28,
+						51
+					]
+				},
+				{
+					"url": "https://t.co/LqjwJwZfZE",
+					"expanded_url": "http://m.yes24.com/Event/EventDetail?eventNo=205648",
+					"display_url": "m.yes24.com/Event/EventDet…",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/Ry36QvJGHl",
+					"expanded_url": "http://global.yes24.com/Event/205649",
+					"display_url": "global.yes24.com/Event/205649",
+					"indices": [
+						108,
+						131
+					]
+				},
+				{
+					"url": "https://t.co/InoTF4hlHN",
+					"expanded_url": "http://smtownandstore.com/",
+					"display_url": "smtownandstore.com",
+					"indices": [
+						152,
+						175
+					]
+				},
+				{
+					"url": "https://t.co/X34y7uXp78",
+					"expanded_url": "http://smglobalshop.com/",
+					"display_url": "smglobalshop.com",
+					"indices": [
+						193,
+						216
+					]
+				},
+				{
+					"url": "https://t.co/ljRb30lP1X",
+					"expanded_url": "http://store.weloveshopping.com/thsumstore",
+					"display_url": "store.weloveshopping.com/thsumstore",
+					"indices": [
+						233,
+						256
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1422029636549038000,
+		"in_reply_to_status_id_str": "1422029636549038089",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4388499,
+			"friends_count": 1,
+			"listed_count": 9381,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1266,
+		"favorite_count": 3768,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✅ Online Store \nYES24(PC) : https://t.co/ZLDGWyOO5E\nYES24(MOBILE) : https://t.co/LqjwJwZfZE\nYES24(GLOBAL) : https://t.co/Ry36QvJGHl\nSMTOWN &amp;STORE : https://t.co/InoTF4hlHN\nSM Global Shop : https://t.co/X34y7uXp78\nSM true Store : https://t.co/ljRb30lP1X\n\n#레드벨벳 #RedVelvet"
+	},
+	{
 		"created_at": "Mon Aug 02 03:01:50 +0000 2021",
 		"id": 1422029848273424400,
 		"id_str": "1422029848273424385",
