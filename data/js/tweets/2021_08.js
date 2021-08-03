@@ -1,6 +1,524 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 03 03:29:38 +0000 2021",
+		"id": 1422391779580686300,
+		"id_str": "1422399233802612796",
+		"full_text": "[#텔미썸씽] EP.3-1\n\n텔미썸씽에 효연 왔지HYO💗 \n\n소녀시대 효연! \n솔로가수 효연! \n취미부자 김효연까지 몽땅 등장!😍 \n\n어린 시절 킥보드 타고 돌았던 압구정,\n오늘은 썸카와 함께 달려봅시다💨💨 \n\n#효연 #신동 #꽈뚜룹 #텔미썸씽 https://t.co/b33gRecMIw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "텔미썸씽",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "신동",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "꽈뚜룹",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "텔미썸씽",
+					"indices": [
+						131,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1422037960455643100,
+					"id_str": "1422037960455643139",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/E7wX_aIUYAM0CGr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7wX_aIUYAM0CGr.jpg",
+					"url": "https://t.co/b33gRecMIw",
+					"display_url": "pic.twitter.com/b33gRecMIw",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1422391779580686336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422037960455643100,
+					"id_str": "1422037960455643139",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/E7wX_aIUYAM0CGr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7wX_aIUYAM0CGr.jpg",
+					"url": "https://t.co/b33gRecMIw",
+					"display_url": "pic.twitter.com/b33gRecMIw",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1422391779580686336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page\n\n☠️ 괴로운 체험단\n🥂 신과 함께\n🏡 잡동산\n 😤소년멘탈캠프2",
+			"url": "https://t.co/qCwgD9FIgZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qCwgD9FIgZ",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35266,
+			"friends_count": 0,
+			"listed_count": 57,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 714,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1607069106",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 154,
+		"favorite_count": 261,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#텔미썸씽] EP.3-1\n\n텔미썸씽에 효연 왔지HYO💗 \n\n소녀시대 효연! \n솔로가수 효연! \n취미부자 김효연까지 몽땅 등장!😍 \n\n어린 시절 킥보드 타고 돌았던 압구정,\n오늘은 썸카와 함께 달려봅시다💨💨 \n\n#효연 #신동 #꽈뚜룹 #텔미썸씽 https://t.co/b33gRecMIw"
+	},
+	{
+		"created_at": "Tue Aug 03 03:27:10 +0000 2021",
+		"id": 1422395203516727300,
+		"id_str": "1422398609958477824",
+		"full_text": "HYO 신곡 ‘Second’ 8월 9일 오후 6시 공개! 무더위 날려줄 쿨 서머 댄스곡!\n비비 지원사격, 힙한 시너지 예고!\n\nHYO’s new song ‘Second’ to be released on 8/9 6PM KST!\nA cool summer dance song set to blow away the scorching heat!\nFeaturing artist BIBI to create hip synergy with HYO!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1422392915200905200,
+		"in_reply_to_status_id_str": "1422392915200905220",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3653027,
+			"friends_count": 4,
+			"listed_count": 5485,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 715,
+		"favorite_count": 1928,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "HYO 신곡 ‘Second’ 8월 9일 오후 6시 공개! 무더위 날려줄 쿨 서머 댄스곡!\n비비 지원사격, 힙한 시너지 예고!\n\nHYO’s new song ‘Second’ to be released on 8/9 6PM KST!\nA cool summer dance song set to blow away the scorching heat!\nFeaturing artist BIBI to create hip synergy with HYO!"
+	},
+	{
+		"created_at": "Tue Aug 03 03:27:10 +0000 2021",
+		"id": 1422392915200905200,
+		"id_str": "1422398609811677185",
+		"full_text": "HYO Single [Second]\n\n🎧 2021.08.09. 6PM KST \n\n#HYO #효연 #Second\n#소녀시대 #GirlsGeneration https://t.co/M3ED7qhUyw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						54,
+						61
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						68,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1422392906883551200,
+					"id_str": "1422392906883551236",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/E71a0AnUUAQ6PsU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E71a0AnUUAQ6PsU.jpg",
+					"url": "https://t.co/M3ED7qhUyw",
+					"display_url": "pic.twitter.com/M3ED7qhUyw",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1422392915200905220/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422392906883551200,
+					"id_str": "1422392906883551236",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/E71a0AnUUAQ6PsU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E71a0AnUUAQ6PsU.jpg",
+					"url": "https://t.co/M3ED7qhUyw",
+					"display_url": "pic.twitter.com/M3ED7qhUyw",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1422392915200905220/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3653027,
+			"friends_count": 4,
+			"listed_count": 5485,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7671,
+		"favorite_count": 15469,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "HYO Single [Second]\n\n🎧 2021.08.09. 6PM KST \n\n#HYO #효연 #Second\n#소녀시대 #GirlsGeneration https://t.co/M3ED7qhUyw"
+	},
+	{
 		"created_at": "Tue Aug 03 02:11:38 +0000 2021",
 		"id": 1422379603155378200,
 		"id_str": "1422379603155378177",
