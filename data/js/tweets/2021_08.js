@@ -1,6 +1,824 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 03 14:01:57 +0000 2021",
+		"id": 1422558361896329200,
+		"id_str": "1422558361896329222",
+		"full_text": "#김윤아 #loveyuna \n[ Silent Live ] 4 Lullabies 2021년 8월 \nhttps://t.co/P1VT9bCSez \n \n#자우림 #JAURIM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김윤아",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "loveyuna",
+					"indices": [
+						5,
+						14
+					]
+				},
+				{
+					"text": "자우림",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "JAURIM",
+					"indices": [
+						86,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P1VT9bCSez",
+					"expanded_url": "https://www.youtube.com/watch?v=_t8nDen8fUg",
+					"display_url": "youtube.com/watch?v=_t8nDe…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "#김윤아 #loveyuna \n[ Silent Live ] 4 Lullabies 2021년 8월 \nhttps://t.co/P1VT9bCSez \n \n#자우림 #JAURIM"
+	},
+	{
+		"created_at": "Tue Aug 03 14:01:47 +0000 2021",
+		"id": 1422558317562540000,
+		"id_str": "1422558317562540036",
+		"full_text": "#TroyeSivan #트로이시반 #VEVO \nTroye Sivan - You (from In A Dream EP Live) \nhttps://t.co/93AUZyx7Xm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TroyeSivan",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "트로이시반",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "VEVO",
+					"indices": [
+						19,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/93AUZyx7Xm",
+					"expanded_url": "https://www.youtube.com/watch?v=pRfJUyvnSks",
+					"display_url": "youtube.com/watch?v=pRfJUy…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#TroyeSivan #트로이시반 #VEVO \nTroye Sivan - You (from In A Dream EP Live) \nhttps://t.co/93AUZyx7Xm"
+	},
+	{
+		"created_at": "Tue Aug 03 13:09:15 +0000 2021",
+		"id": 1422542579892056000,
+		"id_str": "1422545095987847174",
+		"full_text": "슬기가 만든 🎁\n아낌없이 쏜다🎊\n\nhttps://t.co/jf8MOnQoc4\n\n#슬기 #SEULGI #슬기집 #슬기zip #레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						48,
+						55
+					]
+				},
+				{
+					"text": "슬기집",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "슬기zip",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						74,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jf8MOnQoc4",
+					"expanded_url": "http://naver.me/GmFsAfbv",
+					"display_url": "naver.me/GmFsAfbv",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4397151,
+			"friends_count": 1,
+			"listed_count": 9372,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3116,
+		"favorite_count": 11584,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬기가 만든 🎁\n아낌없이 쏜다🎊\n\nhttps://t.co/jf8MOnQoc4\n\n#슬기 #SEULGI #슬기집 #슬기zip #레드벨벳 #RedVelvet"
+	},
+	{
+		"created_at": "Tue Aug 03 13:09:15 +0000 2021",
+		"id": 1422540617737937000,
+		"id_str": "1422545095375474691",
+		"full_text": "무더운 여름에는 슬기zip 슬캉스로🐻🧡\n\n#슬기 #SEULGI #슬기집 #슬기zip #레드벨벳 #RedVelvet https://t.co/TrLJIOGmra",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						27,
+						34
+					]
+				},
+				{
+					"text": "슬기집",
+					"indices": [
+						35,
+						39
+					]
+				},
+				{
+					"text": "슬기zip",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						47,
+						52
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						53,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1422540605482147800,
+					"id_str": "1422540605482147850",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E73hJMxVIAoff-V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E73hJMxVIAoff-V.jpg",
+					"url": "https://t.co/TrLJIOGmra",
+					"display_url": "pic.twitter.com/TrLJIOGmra",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1422540617737936896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422540605482147800,
+					"id_str": "1422540605482147850",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E73hJMxVIAoff-V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E73hJMxVIAoff-V.jpg",
+					"url": "https://t.co/TrLJIOGmra",
+					"display_url": "pic.twitter.com/TrLJIOGmra",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1422540617737936896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4397151,
+			"friends_count": 1,
+			"listed_count": 9372,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9696,
+		"favorite_count": 31902,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "무더운 여름에는 슬기zip 슬캉스로🐻🧡\n\n#슬기 #SEULGI #슬기집 #슬기zip #레드벨벳 #RedVelvet https://t.co/TrLJIOGmra"
+	},
+	{
+		"created_at": "Tue Aug 03 13:09:14 +0000 2021",
+		"id": 1422531022822903800,
+		"id_str": "1422545095325192203",
+		"full_text": "#슬기zip 잠시 후 10PM (KST)‼\n#슬기 🏡 손님이라면\n절대 놓칠 수 없는 절호의 기회🔥 \n\n슬페셜에디션👑 선물이 와르르🎊\n단 하나뿐인 #슬기 사인 폴라📸\n쥔님이 정성 한가득 들어간 비즈💍\n#뱀뱀 직접 꾸민 귀염뽀쨕 이불🛏\n\n모든 선물🎁 슬기zip 본방에서!\n가질 수 있다는 사실😉 #NOW온에어 https://t.co/H8M6CcsDmP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						24,
+						27
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "뱀뱀",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						163,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1422530995157299200,
+					"id_str": "1422530995157299205",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/E73YZzhVcAUJTvo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E73YZzhVcAUJTvo.jpg",
+					"url": "https://t.co/H8M6CcsDmP",
+					"display_url": "pic.twitter.com/H8M6CcsDmP",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1422531022822903810/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422530995157299200,
+					"id_str": "1422530995157299205",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/E73YZzhVcAUJTvo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E73YZzhVcAUJTvo.jpg",
+					"url": "https://t.co/H8M6CcsDmP",
+					"display_url": "pic.twitter.com/H8M6CcsDmP",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1422531022822903810/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38158,
+			"friends_count": 1,
+			"listed_count": 201,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1621911527",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1351,
+		"favorite_count": 2932,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 잠시 후 10PM (KST)‼\n#슬기 🏡 손님이라면\n절대 놓칠 수 없는 절호의 기회🔥 \n\n슬페셜에디션👑 선물이 와르르🎊\n단 하나뿐인 #슬기 사인 폴라📸\n쥔님이 정성 한가득 들어간 비즈💍\n#뱀뱀 직접 꾸민 귀염뽀쨕 이불🛏\n\n모든 선물🎁 슬기zip 본방에서!\n가질 수 있다는 사실😉 #NOW온에어 https://t.co/H8M6CcsDmP"
+	},
+	{
 		"created_at": "Tue Aug 03 11:53:46 +0000 2021",
 		"id": 1422526103151911000,
 		"id_str": "1422526103151910915",
