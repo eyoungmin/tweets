@@ -1,6 +1,978 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 03 05:40:12 +0000 2021",
+		"id": 1422422031300104200,
+		"id_str": "1422432088825937921",
+		"full_text": "#BLACKPINK 5th ANNIVERSARY [4+1] 2021 SUMMER DIARY PREVIEW\n\n🎬YouTube: https://t.co/4JM0D9IGMk \n📺NAVER TV: https://t.co/SRnWiwSvnE\n\n#블랙핑크 #2021 #SUMMERDIARY #INEVERLAND #20210825 #RELEASE #5thANNIVERSARY #4PLUS1_PROJECT #YG https://t.co/0pl0zvuYfi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "SUMMERDIARY",
+					"indices": [
+						143,
+						155
+					]
+				},
+				{
+					"text": "INEVERLAND",
+					"indices": [
+						156,
+						167
+					]
+				},
+				{
+					"text": "RELEASE",
+					"indices": [
+						178,
+						186
+					]
+				},
+				{
+					"text": "5thANNIVERSARY",
+					"indices": [
+						187,
+						202
+					]
+				},
+				{
+					"text": "4PLUS1_PROJECT",
+					"indices": [
+						203,
+						218
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						219,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4JM0D9IGMk",
+					"expanded_url": "https://youtu.be/HKrrncw8n6E",
+					"display_url": "youtu.be/HKrrncw8n6E",
+					"indices": [
+						70,
+						93
+					]
+				},
+				{
+					"url": "https://t.co/SRnWiwSvnE",
+					"expanded_url": "https://tv.naver.com/v/21658520",
+					"display_url": "tv.naver.com/v/21658520",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1422098444420718600,
+					"id_str": "1422098444420718592",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/E7xPpQ8VEAoJus6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7xPpQ8VEAoJus6.jpg",
+					"url": "https://t.co/0pl0zvuYfi",
+					"display_url": "pic.twitter.com/0pl0zvuYfi",
+					"expanded_url": "https://twitter.com/ygent_official/status/1422422031300104193/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1154,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422098444420718600,
+					"id_str": "1422098444420718592",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/E7xPpQ8VEAoJus6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7xPpQ8VEAoJus6.jpg",
+					"url": "https://t.co/0pl0zvuYfi",
+					"display_url": "pic.twitter.com/0pl0zvuYfi",
+					"expanded_url": "https://twitter.com/ygent_official/status/1422422031300104193/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1154,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 77177,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1422098444420718592/pl/G2_dgXMfgkWK54HU.m3u8?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1422098444420718592/vid/640x360/zrgeblOqnoxU67ba.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1422098444420718592/vid/480x270/ylrLJKH9YgiX7h8r.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1422098444420718592/vid/1280x720/yadPlly-PbqPjnfn.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "BLACKPINK 5th ANNIVERSARY [4+1] 2021 SUMMER DIARY PREVIEW",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/HKrrncw8n6E"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7796426,
+			"friends_count": 36,
+			"listed_count": 8636,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11391,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10830,
+		"favorite_count": 28316,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 5th ANNIVERSARY [4+1] 2021 SUMMER DIARY PREVIEW\n\n🎬YouTube: https://t.co/4JM0D9IGMk \n📺NAVER TV: https://t.co/SRnWiwSvnE\n\n#블랙핑크 #2021 #SUMMERDIARY #INEVERLAND #20210825 #RELEASE #5thANNIVERSARY #4PLUS1_PROJECT #YG https://t.co/0pl0zvuYfi"
+	},
+	{
+		"created_at": "Tue Aug 03 05:27:11 +0000 2021",
+		"id": 1422423181860606000,
+		"id_str": "1422428816501215236",
+		"full_text": "#BLACKPINK 5th ANNIVERSARY [4+1] 2021 SUMMER DIARY PREVIEW\n\n#블랙핑크 #2021 #SUMMERDIARY #INEVERLAND #20210825 #RELEASE #5thANNIVERSARY #4PLUS1_PROJECT #YG https://t.co/vkzgCr5nMl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "SUMMERDIARY",
+					"indices": [
+						72,
+						84
+					]
+				},
+				{
+					"text": "INEVERLAND",
+					"indices": [
+						85,
+						96
+					]
+				},
+				{
+					"text": "RELEASE",
+					"indices": [
+						107,
+						115
+					]
+				},
+				{
+					"text": "5thANNIVERSARY",
+					"indices": [
+						116,
+						131
+					]
+				},
+				{
+					"text": "4PLUS1_PROJECT",
+					"indices": [
+						132,
+						147
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						148,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1422421873682309000,
+					"id_str": "1422421873682309123",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1422421873682309123/pu/img/zjwr73zRI8gmsKGO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1422421873682309123/pu/img/zjwr73zRI8gmsKGO.jpg",
+					"url": "https://t.co/vkzgCr5nMl",
+					"display_url": "pic.twitter.com/vkzgCr5nMl",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1422423181860605953/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422421873682309000,
+					"id_str": "1422421873682309123",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1422421873682309123/pu/img/zjwr73zRI8gmsKGO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1422421873682309123/pu/img/zjwr73zRI8gmsKGO.jpg",
+					"url": "https://t.co/vkzgCr5nMl",
+					"display_url": "pic.twitter.com/vkzgCr5nMl",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1422423181860605953/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 77177,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1422421873682309123/pu/vid/640x360/H8XaBPAVfhorrFa3.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1422421873682309123/pu/vid/480x270/h6PNKqflpRIjS0hg.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1422421873682309123/pu/vid/1280x720/cdszajHCjBj3niXP.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1422421873682309123/pu/pl/z6-9_UyAh-4jM_0z.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/aWhwrQsIZl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWhwrQsIZl",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4360267,
+			"friends_count": 0,
+			"listed_count": 6149,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1623718900",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24356,
+		"favorite_count": 54980,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 5th ANNIVERSARY [4+1] 2021 SUMMER DIARY PREVIEW\n\n#블랙핑크 #2021 #SUMMERDIARY #INEVERLAND #20210825 #RELEASE #5thANNIVERSARY #4PLUS1_PROJECT #YG https://t.co/vkzgCr5nMl"
+	},
+	{
+		"created_at": "Tue Aug 03 05:21:19 +0000 2021",
+		"id": 1422427340089479200,
+		"id_str": "1422427340089479176",
+		"full_text": "#SMTOWN #Artist_News \nSM ‘STATION’, 텐 솔로곡 ‘Paint Me Naked’ 8월 10일 공개! \nhttps://t.co/Ztx8tJTIlO \n \n#STATION #SMSTATION #스테이션 https://t.co/ACjETZI4Dd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						98,
+						106
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						107,
+						117
+					]
+				},
+				{
+					"text": "스테이션",
+					"indices": [
+						118,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ztx8tJTIlO",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5272",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1422427338722193400,
+					"id_str": "1422427338722193410",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/E716INNXMAI1Pg6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E716INNXMAI1Pg6.jpg",
+					"url": "https://t.co/ACjETZI4Dd",
+					"display_url": "pic.twitter.com/ACjETZI4Dd",
+					"expanded_url": "https://twitter.com/fromminn/status/1422427340089479176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422427338722193400,
+					"id_str": "1422427338722193410",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/E716INNXMAI1Pg6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E716INNXMAI1Pg6.jpg",
+					"url": "https://t.co/ACjETZI4Dd",
+					"display_url": "pic.twitter.com/ACjETZI4Dd",
+					"expanded_url": "https://twitter.com/fromminn/status/1422427340089479176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \nSM ‘STATION’, 텐 솔로곡 ‘Paint Me Naked’ 8월 10일 공개! \nhttps://t.co/Ztx8tJTIlO \n \n#STATION #SMSTATION #스테이션 https://t.co/ACjETZI4Dd"
+	},
+	{
+		"created_at": "Tue Aug 03 05:20:33 +0000 2021",
+		"id": 1422427145578688500,
+		"id_str": "1422427145578688512",
+		"full_text": "#SMTOWN #Artist_News \n‘8월 16일 컴백’ 레드벨벳, 새 미니앨범 ‘Queendom’ 스케줄 포스터 공개 화제! \nhttps://t.co/8atdn534Ah \n \n#레드벨벳 #RedVelvet https://t.co/JXMtfooRYk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						107,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8atdn534Ah",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5273",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1422427144500695000,
+					"id_str": "1422427144500695059",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E71585rWUBMN64O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E71585rWUBMN64O.jpg",
+					"url": "https://t.co/JXMtfooRYk",
+					"display_url": "pic.twitter.com/JXMtfooRYk",
+					"expanded_url": "https://twitter.com/fromminn/status/1422427145578688512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422427144500695000,
+					"id_str": "1422427144500695059",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E71585rWUBMN64O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E71585rWUBMN64O.jpg",
+					"url": "https://t.co/JXMtfooRYk",
+					"display_url": "pic.twitter.com/JXMtfooRYk",
+					"expanded_url": "https://twitter.com/fromminn/status/1422427145578688512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \n‘8월 16일 컴백’ 레드벨벳, 새 미니앨범 ‘Queendom’ 스케줄 포스터 공개 화제! \nhttps://t.co/8atdn534Ah \n \n#레드벨벳 #RedVelvet https://t.co/JXMtfooRYk"
+	},
+	{
 		"created_at": "Tue Aug 03 03:29:38 +0000 2021",
 		"id": 1422391779580686300,
 		"id_str": "1422399233802612796",
