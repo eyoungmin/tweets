@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 03 10:20:38 +0000 2021",
+		"id": 1422497472602067000,
+		"id_str": "1422502662201692164",
+		"full_text": "제니, 슬기, 지수의 거울 셀카에 항상 등장한 이 아이템은?\n\n#블랙핑크 #BLACKPINK #제니 #지수 #레드벨벳 #슬기 #여돌 #아이돌 #거울셀카 #거셀 #셀카 #물결 #패턴 #거울 #스웨덴 #디자이너 #인스타 #SNS #가구\nhttps://t.co/t4UYYY5Wse",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						41,
+						51
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "여돌",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "아이돌",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "거울셀카",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "거셀",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "셀카",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "물결",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "패턴",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "거울",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "스웨덴",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "디자이너",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "인스타",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "SNS",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "가구",
+					"indices": [
+						126,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t4UYYY5Wse",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/57334?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/57334?…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88979,
+			"friends_count": 3,
+			"listed_count": 400,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제니, 슬기, 지수의 거울 셀카에 항상 등장한 이 아이템은?\n\n#블랙핑크 #BLACKPINK #제니 #지수 #레드벨벳 #슬기 #여돌 #아이돌 #거울셀카 #거셀 #셀카 #물결 #패턴 #거울 #스웨덴 #디자이너 #인스타 #SNS #가구\nhttps://t.co/t4UYYY5Wse"
+	},
+	{
 		"created_at": "Tue Aug 03 09:06:57 +0000 2021",
 		"id": 1422480458747584500,
 		"id_str": "1422484122228776968",
