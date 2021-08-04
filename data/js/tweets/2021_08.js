@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 04 15:40:38 +0000 2021",
+		"id": 1422920285439791000,
+		"id_str": "1422945581257928705",
+		"full_text": "✨ Beautiful &amp; talented @seori_official graced us by sharing her first times as a musician! \n\nWatch📺 https://t.co/V8lTZfjY4d\nMAKE👉🎶 https://t.co/GveguF0k9y\n\n#Seori #Make_Seori #StopWishingStartMaking with #MyMusicTaste https://t.co/nv65sbFYgB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Seori",
+					"indices": [
+						160,
+						166
+					]
+				},
+				{
+					"text": "Make_Seori",
+					"indices": [
+						167,
+						178
+					]
+				},
+				{
+					"text": "StopWishingStartMaking",
+					"indices": [
+						179,
+						202
+					]
+				},
+				{
+					"text": "MyMusicTaste",
+					"indices": [
+						208,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seori_official",
+					"name": "Seori",
+					"id": 1143072158467231700,
+					"id_str": "1143072158467231745",
+					"indices": [
+						27,
+						42
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/V8lTZfjY4d",
+					"expanded_url": "https://youtu.be/x-gsLfm-TQ0",
+					"display_url": "youtu.be/x-gsLfm-TQ0",
+					"indices": [
+						104,
+						127
+					]
+				},
+				{
+					"url": "https://t.co/GveguF0k9y",
+					"expanded_url": "https://mmt.fans/MthP",
+					"display_url": "mmt.fans/MthP",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1422920281501360000,
+					"id_str": "1422920281501360128",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/E786dQKWYAAGopC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E786dQKWYAAGopC.jpg",
+					"url": "https://t.co/nv65sbFYgB",
+					"display_url": "pic.twitter.com/nv65sbFYgB",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1422920285439791108/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422920281501360000,
+					"id_str": "1422920281501360128",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/E786dQKWYAAGopC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E786dQKWYAAGopC.jpg",
+					"url": "https://t.co/nv65sbFYgB",
+					"display_url": "pic.twitter.com/nv65sbFYgB",
+					"expanded_url": "https://twitter.com/_mymusictaste/status/1422920285439791108/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">Agorapulse app</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1664037517,
+			"id_str": "1664037517",
+			"name": "MyMusicTaste",
+			"screen_name": "_mymusictaste",
+			"location": "STOP WISHING, START MAKING!✨",
+			"description": "MMT for all K-pop entertainment needs. \n🎤Fan-initiated Concert Prod. & Tour Ops. \n📺Online Event Platform \n🌏Global PR & Marketing \n📰K-Ent. News \n🛒 @_mmtshop",
+			"url": "https://t.co/LzblWIgF6O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzblWIgF6O",
+							"expanded_url": "http://mymusictaste.com",
+							"display_url": "mymusictaste.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132583,
+			"friends_count": 102,
+			"listed_count": 271,
+			"created_at": "Mon Aug 12 03:09:22 +0000 2013",
+			"favourites_count": 5153,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969494262701219840/QQ4LLVIJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1664037517/1627643810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 245,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✨ Beautiful &amp; talented @seori_official graced us by sharing her first times as a musician! \n\nWatch📺 https://t.co/V8lTZfjY4d\nMAKE👉🎶 https://t.co/GveguF0k9y\n\n#Seori #Make_Seori #StopWishingStartMaking with #MyMusicTaste https://t.co/nv65sbFYgB"
+	},
+	{
 		"created_at": "Wed Aug 04 15:09:36 +0000 2021",
 		"id": 1422936362647396400,
 		"id_str": "1422937770981478403",
