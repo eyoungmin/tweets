@@ -1,6 +1,827 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 04 02:40:31 +0000 2021",
+		"id": 1422747730733002800,
+		"id_str": "1422749258848088066",
+		"full_text": "Red Velvet to bring refreshing energy with their new song ‘Queendom’!\n\nA pop dance song with the message that we are all ‘Queens’ of our lives and that together we shine more beautifully!\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Queendom",
+					"indices": [
+						189,
+						198
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						199,
+						202
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						203,
+						208
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						209,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1422747649535475700,
+		"in_reply_to_status_id_str": "1422747649535475720",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4400191,
+			"friends_count": 1,
+			"listed_count": 9394,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2853,
+		"favorite_count": 7725,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Red Velvet to bring refreshing energy with their new song ‘Queendom’!\n\nA pop dance song with the message that we are all ‘Queens’ of our lives and that together we shine more beautifully!\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet"
+	},
+	{
+		"created_at": "Wed Aug 04 02:40:22 +0000 2021",
+		"id": 1422747649535475700,
+		"id_str": "1422749220545703939",
+		"full_text": "레드벨벳 신곡 ‘Queendom’ 청량지수 UP! \n\n우리 모두가 자기 인생의 ‘Queen’이고, 함께 하면 더욱 아름답게 빛나는 존재라는 메시지를 담은 팝 댄스 곡!\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet https://t.co/cxfpgW0r8Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Queendom",
+					"indices": [
+						95,
+						104
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						115,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1422747609765007400,
+					"id_str": "1422747609765007367",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/E76dab0UUAcDnMD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E76dab0UUAcDnMD.jpg",
+					"url": "https://t.co/cxfpgW0r8Y",
+					"display_url": "pic.twitter.com/cxfpgW0r8Y",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1422747649535475720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1696,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 994,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 563,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422747609765007400,
+					"id_str": "1422747609765007367",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/E76dab0UUAcDnMD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E76dab0UUAcDnMD.jpg",
+					"url": "https://t.co/cxfpgW0r8Y",
+					"display_url": "pic.twitter.com/cxfpgW0r8Y",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1422747649535475720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1696,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 994,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 563,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4400191,
+			"friends_count": 1,
+			"listed_count": 9394,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10288,
+		"favorite_count": 21812,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳 신곡 ‘Queendom’ 청량지수 UP! \n\n우리 모두가 자기 인생의 ‘Queen’이고, 함께 하면 더욱 아름답게 빛나는 존재라는 메시지를 담은 팝 댄스 곡!\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet https://t.co/cxfpgW0r8Y"
+	},
+	{
+		"created_at": "Wed Aug 04 02:40:19 +0000 2021",
+		"id": 1422739065225420800,
+		"id_str": "1422749207384018950",
+		"full_text": "존중하며 버티기 성공💕 \n관객 앞에서 \n처음 부르는 \n#로제 〈#Gone〉♬\n\n★𝗳𝘂𝗹𝗹 𝘃𝗲𝗿. \n☞ https://t.co/CU5ocgOawp\n\n▶️매주 화요일 밤 𝟵시 \n&lt;#바라던바다&gt; 본방사수🌊🍸 https://t.co/rr2kDS7jK9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로제",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "Gone",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "바라던바다",
+					"indices": [
+						102,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CU5ocgOawp",
+					"expanded_url": "https://tv.naver.com/v/21680799",
+					"display_url": "tv.naver.com/v/21680799",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1422714891983417300,
+					"id_str": "1422714891983417350",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/E76AMSJVoAEFDft.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E76AMSJVoAEFDft.jpg",
+					"url": "https://t.co/rr2kDS7jK9",
+					"display_url": "pic.twitter.com/rr2kDS7jK9",
+					"expanded_url": "https://twitter.com/jtbclove/status/1422739065225420807/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422714891983417300,
+					"id_str": "1422714891983417350",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/E76AMSJVoAEFDft.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E76AMSJVoAEFDft.jpg",
+					"url": "https://t.co/rr2kDS7jK9",
+					"display_url": "pic.twitter.com/rr2kDS7jK9",
+					"expanded_url": "https://twitter.com/jtbclove/status/1422739065225420807/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 54354,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1422714891983417350/pl/84xusB2bHqcSxBvv.m3u8?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1422714891983417350/vid/480x270/g4bpTTAeIEUd6mft.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1422714891983417350/vid/1280x720/Yyms8XqrT3wnZE1s.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1422714891983417350/vid/640x360/o0xLoWz2xzTsORFJ.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[바라던 바다] 존중하며 버티기 성공💕 관객 앞에서 처음 부르는 로제의 〈Gone〉♬JTBC 210803방송",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://tv.naver.com/v/21680799"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 452773,
+			"friends_count": 111,
+			"listed_count": 737,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23014,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1381488444128432131/05xHSfgm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1381488444128432131/05xHSfgm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1623634158",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3020,
+		"favorite_count": 9542,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "존중하며 버티기 성공💕 \n관객 앞에서 \n처음 부르는 \n#로제 〈#Gone〉♬\n\n★𝗳𝘂𝗹𝗹 𝘃𝗲𝗿. \n☞ https://t.co/CU5ocgOawp\n\n▶️매주 화요일 밤 𝟵시 \n&lt;#바라던바다&gt; 본방사수🌊🍸 https://t.co/rr2kDS7jK9"
+	},
+	{
+		"created_at": "Wed Aug 04 02:40:09 +0000 2021",
+		"id": 1422723965714194400,
+		"id_str": "1422749169077399552",
+		"full_text": "음색에 치인다··🧡 \n올 타임 레전드 \n#로제 x #온유 \n&lt;기억을 걷는 시간〉♬\n\n★𝗳𝘂𝗹𝗹 𝘃𝗲𝗿. \n☞ https://t.co/o6UVHWtemE\n\n▶️매주 화요일 밤 𝟵시 \n&lt;#바라던바다&gt; 본방사수🌊🍸 https://t.co/E0mj9a4GKK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로제",
+					"indices": [
+						22,
+						25
+					]
+				},
+				{
+					"text": "온유",
+					"indices": [
+						28,
+						31
+					]
+				},
+				{
+					"text": "바라던바다",
+					"indices": [
+						108,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o6UVHWtemE",
+					"expanded_url": "https://tv.naver.com/v/21680798",
+					"display_url": "tv.naver.com/v/21680798",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1422713864823607300,
+					"id_str": "1422713864823607299",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/E76AB1nVgAIzM4c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E76AB1nVgAIzM4c.jpg",
+					"url": "https://t.co/E0mj9a4GKK",
+					"display_url": "pic.twitter.com/E0mj9a4GKK",
+					"expanded_url": "https://twitter.com/jtbclove/status/1422723965714194436/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422713864823607300,
+					"id_str": "1422713864823607299",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/E76AB1nVgAIzM4c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E76AB1nVgAIzM4c.jpg",
+					"url": "https://t.co/E0mj9a4GKK",
+					"display_url": "pic.twitter.com/E0mj9a4GKK",
+					"expanded_url": "https://twitter.com/jtbclove/status/1422723965714194436/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 57057,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1422713864823607299/vid/480x270/P_ikpxVk30l3oYf3.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1422713864823607299/pl/1eavUX6X4yFzsT2X.m3u8?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1422713864823607299/vid/640x360/Jp26uCF3QEPPStUj.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1422713864823607299/vid/1280x720/XzCyILZ9SmNWBuSX.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[바라던 바다] 음색에 치인다··🧡 올 타임 레전드 로제x온유의 〈기억을 걷는 시간〉♬| JTBC 210803방송",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://tv.naver.com/v/21680798"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 452773,
+			"friends_count": 111,
+			"listed_count": 737,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23014,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1381488444128432131/05xHSfgm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1381488444128432131/05xHSfgm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1623634158",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2225,
+		"favorite_count": 7245,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "음색에 치인다··🧡 \n올 타임 레전드 \n#로제 x #온유 \n&lt;기억을 걷는 시간〉♬\n\n★𝗳𝘂𝗹𝗹 𝘃𝗲𝗿. \n☞ https://t.co/o6UVHWtemE\n\n▶️매주 화요일 밤 𝟵시 \n&lt;#바라던바다&gt; 본방사수🌊🍸 https://t.co/E0mj9a4GKK"
+	},
+	{
 		"created_at": "Wed Aug 04 01:13:51 +0000 2021",
 		"id": 1422727448068825000,
 		"id_str": "1422727448068825098",
