@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 04 05:40:10 +0000 2021",
+		"id": 1420208695204454400,
+		"id_str": "1422794467883507718",
+		"full_text": "[K-Traditional Talk!] Seoye with LOONA\n\nIt's K-traditional Talk!😀😀\n\nLet’s learn Seoye with LOONA and get the chance to talk with them on Live K-Community Festival by participating K-Community Challenge!🎉\n\nhttps://t.co/AFdyYoMSR3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AFdyYoMSR3",
+					"expanded_url": "https://www.youtube.com/watch?v=xWa88g71BN4",
+					"display_url": "youtube.com/watch?v=xWa88g…",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1106374121804329000,
+			"id_str": "1106374121804328960",
+			"name": "K-Community Festival",
+			"screen_name": "kcf_kofice",
+			"location": "",
+			"description": "2021 K-Community Challenge \nhttps://t.co/Kt3BeFX9BS",
+			"url": "https://t.co/h8IzfQifpc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h8IzfQifpc",
+							"expanded_url": "https://www.kcommunityfestival.com/",
+							"display_url": "kcommunityfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Kt3BeFX9BS",
+							"expanded_url": "https://www.youtube.com/c/kcommunityfestival",
+							"display_url": "youtube.com/c/kcommunityfe…",
+							"indices": [
+								28,
+								51
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1888,
+			"friends_count": 4,
+			"listed_count": 2,
+			"created_at": "Fri Mar 15 01:58:40 +0000 2019",
+			"favourites_count": 41,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1401827795471269889/KqUz8qKB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1401827795471269889/KqUz8qKB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1106374121804328960/1625468977",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 424,
+		"favorite_count": 2033,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[K-Traditional Talk!] Seoye with LOONA\n\nIt's K-traditional Talk!😀😀\n\nLet’s learn Seoye with LOONA and get the chance to talk with them on Live K-Community Festival by participating K-Community Challenge!🎉\n\nhttps://t.co/AFdyYoMSR3"
+	},
+	{
 		"created_at": "Wed Aug 04 04:33:14 +0000 2021",
 		"id": 1422777624141738000,
 		"id_str": "1422777624141737989",
