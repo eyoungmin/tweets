@@ -1,6 +1,1348 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 05 15:09:45 +0000 2021",
+		"id": 1423298498833776600,
+		"id_str": "1423300199355621387",
+		"full_text": "레드벨벳 Red Velvet The 6th Mini Album ‘Queendom’ - Homecoming! ‘IRENE &amp; WENDY &amp; YERI’\n\n🎧 2021.8.16. 6PM KST\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet\n#예리 #YERI https://t.co/squq7XKtQt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Queendom",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						149,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1423289113805934600,
+					"id_str": "1423289113805934604",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/E8CJ6HkVUAwBDZO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8CJ6HkVUAwBDZO.jpg",
+					"url": "https://t.co/squq7XKtQt",
+					"display_url": "pic.twitter.com/squq7XKtQt",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1423298498833776643/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423289113805934600,
+					"id_str": "1423289113805934604",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/E8CJ6HkVUAwBDZO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8CJ6HkVUAwBDZO.jpg",
+					"url": "https://t.co/squq7XKtQt",
+					"display_url": "pic.twitter.com/squq7XKtQt",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1423298498833776643/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1423289113906540500,
+					"id_str": "1423289113906540549",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/E8CJ6H8UcAU2YNr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8CJ6H8UcAU2YNr.jpg",
+					"url": "https://t.co/squq7XKtQt",
+					"display_url": "pic.twitter.com/squq7XKtQt",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1423298498833776643/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4411957,
+			"friends_count": 1,
+			"listed_count": 9449,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2077,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24815,
+		"favorite_count": 40628,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "레드벨벳 Red Velvet The 6th Mini Album ‘Queendom’ - Homecoming! ‘IRENE &amp; WENDY &amp; YERI’\n\n🎧 2021.8.16. 6PM KST\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet\n#예리 #YERI https://t.co/squq7XKtQt"
+	},
+	{
+		"created_at": "Thu Aug 05 15:09:45 +0000 2021",
+		"id": 1423298750550843400,
+		"id_str": "1423300197375897602",
+		"full_text": "레드벨벳 Red Velvet The 6th Mini Album ‘Queendom’ - Homecoming! ‘IRENE &amp; WENDY &amp; YERI’\n\n🎧 2021.8.16. 6PM KST\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet\n#아이린 #IRENE https://t.co/rxmnuCHEDQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Queendom",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						150,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1423289332647940000,
+					"id_str": "1423289332647940099",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E8CKG20VUAMkbgt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8CKG20VUAMkbgt.jpg",
+					"url": "https://t.co/rxmnuCHEDQ",
+					"display_url": "pic.twitter.com/rxmnuCHEDQ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1423298750550843396/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423289332647940000,
+					"id_str": "1423289332647940099",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E8CKG20VUAMkbgt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8CKG20VUAMkbgt.jpg",
+					"url": "https://t.co/rxmnuCHEDQ",
+					"display_url": "pic.twitter.com/rxmnuCHEDQ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1423298750550843396/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1423289332769591300,
+					"id_str": "1423289332769591297",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E8CKG3RVkAEuiCD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8CKG3RVkAEuiCD.jpg",
+					"url": "https://t.co/rxmnuCHEDQ",
+					"display_url": "pic.twitter.com/rxmnuCHEDQ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1423298750550843396/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1423289332857589800,
+					"id_str": "1423289332857589762",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E8CKG3mUUAIjX7o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8CKG3mUUAIjX7o.jpg",
+					"url": "https://t.co/rxmnuCHEDQ",
+					"display_url": "pic.twitter.com/rxmnuCHEDQ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1423298750550843396/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4411957,
+			"friends_count": 1,
+			"listed_count": 9449,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2077,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29661,
+		"favorite_count": 47409,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "레드벨벳 Red Velvet The 6th Mini Album ‘Queendom’ - Homecoming! ‘IRENE &amp; WENDY &amp; YERI’\n\n🎧 2021.8.16. 6PM KST\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet\n#아이린 #IRENE https://t.co/rxmnuCHEDQ"
+	},
+	{
+		"created_at": "Thu Aug 05 15:09:45 +0000 2021",
+		"id": 1423299002167177200,
+		"id_str": "1423300197354905611",
+		"full_text": "레드벨벳 Red Velvet The 6th Mini Album ‘Queendom’ - Homecoming! ‘IRENE &amp; WENDY &amp; YERI’\n\n🎧 2021.8.16. 6PM KST\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet\n#아이린 #IRENE https://t.co/AcsK3rF8eQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Queendom",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						150,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1423289526500298800,
+					"id_str": "1423289526500298762",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E8CKSI-VkAoCpqE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8CKSI-VkAoCpqE.jpg",
+					"url": "https://t.co/AcsK3rF8eQ",
+					"display_url": "pic.twitter.com/AcsK3rF8eQ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1423299002167177218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423289526500298800,
+					"id_str": "1423289526500298762",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E8CKSI-VkAoCpqE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8CKSI-VkAoCpqE.jpg",
+					"url": "https://t.co/AcsK3rF8eQ",
+					"display_url": "pic.twitter.com/AcsK3rF8eQ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1423299002167177218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1423289526642831400,
+					"id_str": "1423289526642831369",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E8CKSJgUcAkcqFY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8CKSJgUcAkcqFY.jpg",
+					"url": "https://t.co/AcsK3rF8eQ",
+					"display_url": "pic.twitter.com/AcsK3rF8eQ",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1423299002167177218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 766,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1307,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 434,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4411957,
+			"friends_count": 1,
+			"listed_count": 9449,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2077,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28573,
+		"favorite_count": 45105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "레드벨벳 Red Velvet The 6th Mini Album ‘Queendom’ - Homecoming! ‘IRENE &amp; WENDY &amp; YERI’\n\n🎧 2021.8.16. 6PM KST\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet\n#아이린 #IRENE https://t.co/AcsK3rF8eQ"
+	},
+	{
+		"created_at": "Thu Aug 05 15:09:45 +0000 2021",
+		"id": 1423298247213334500,
+		"id_str": "1423300197338079236",
+		"full_text": "레드벨벳 Red Velvet The 6th Mini Album ‘Queendom’ - Homecoming! ‘IRENE &amp; WENDY &amp; YERI’\n\n🎧 2021.8.16. 6PM KST\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet\n#예리 #YERI https://t.co/My5qjuOa7U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Queendom",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						149,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1423288947807977500,
+					"id_str": "1423288947807977477",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/E8CJwdLVgAUr_qj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8CJwdLVgAUr_qj.jpg",
+					"url": "https://t.co/My5qjuOa7U",
+					"display_url": "pic.twitter.com/My5qjuOa7U",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1423298247213334529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423288947807977500,
+					"id_str": "1423288947807977477",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/E8CJwdLVgAUr_qj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8CJwdLVgAUr_qj.jpg",
+					"url": "https://t.co/My5qjuOa7U",
+					"display_url": "pic.twitter.com/My5qjuOa7U",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1423298247213334529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1423288947904446500,
+					"id_str": "1423288947904446471",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/E8CJwdiVgAchI1L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8CJwdiVgAchI1L.jpg",
+					"url": "https://t.co/My5qjuOa7U",
+					"display_url": "pic.twitter.com/My5qjuOa7U",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1423298247213334529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1423288948026069000,
+					"id_str": "1423288948026069000",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/E8CJwd_VUAgb4pR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8CJwd_VUAgb4pR.jpg",
+					"url": "https://t.co/My5qjuOa7U",
+					"display_url": "pic.twitter.com/My5qjuOa7U",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1423298247213334529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4411957,
+			"friends_count": 1,
+			"listed_count": 9449,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2077,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26452,
+		"favorite_count": 41934,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "레드벨벳 Red Velvet The 6th Mini Album ‘Queendom’ - Homecoming! ‘IRENE &amp; WENDY &amp; YERI’\n\n🎧 2021.8.16. 6PM KST\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet\n#예리 #YERI https://t.co/My5qjuOa7U"
+	},
+	{
+		"created_at": "Thu Aug 05 15:09:41 +0000 2021",
+		"id": 1423297995345436700,
+		"id_str": "1423300179961303057",
+		"full_text": "레드벨벳 Red Velvet The 6th Mini Album ‘Queendom’ - Homecoming! ‘IRENE &amp; WENDY &amp; YERI’\n\n🎧 2021.8.16. 6PM KST\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet\n#웬디 #WENDY https://t.co/PgkWxnVYBr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Queendom",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						149,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1423288435272388600,
+					"id_str": "1423288435272388628",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/E8CJSn1VEBQfR_B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8CJSn1VEBQfR_B.jpg",
+					"url": "https://t.co/PgkWxnVYBr",
+					"display_url": "pic.twitter.com/PgkWxnVYBr",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1423297995345436672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423288435272388600,
+					"id_str": "1423288435272388628",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/E8CJSn1VEBQfR_B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8CJSn1VEBQfR_B.jpg",
+					"url": "https://t.co/PgkWxnVYBr",
+					"display_url": "pic.twitter.com/PgkWxnVYBr",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1423297995345436672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1423288435389866000,
+					"id_str": "1423288435389865996",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/E8CJSoRVoAw2ztE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8CJSoRVoAw2ztE.jpg",
+					"url": "https://t.co/PgkWxnVYBr",
+					"display_url": "pic.twitter.com/PgkWxnVYBr",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1423297995345436672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4411957,
+			"friends_count": 1,
+			"listed_count": 9449,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2077,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24547,
+		"favorite_count": 39709,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "레드벨벳 Red Velvet The 6th Mini Album ‘Queendom’ - Homecoming! ‘IRENE &amp; WENDY &amp; YERI’\n\n🎧 2021.8.16. 6PM KST\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet\n#웬디 #WENDY https://t.co/PgkWxnVYBr"
+	},
+	{
 		"created_at": "Thu Aug 05 14:55:28 +0000 2021",
 		"id": 1423296601452269600,
 		"id_str": "1423296601452269575",
