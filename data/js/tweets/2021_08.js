@@ -1,6 +1,451 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 05 07:45:37 +0000 2021",
+		"id": 1423185981381873700,
+		"id_str": "1423188426707423237",
+		"full_text": "라임 무엇..😍 비트에 녹아버리는\n#아이돌 세글자 노래🎵 모음.zip\n\n#DAY6 (#EVENofDAY) - #역대급\n#LOONA (#이달의소녀) - #PTT\n#P1Harmony - #겁나니\n#JOY - #쥬뗌므\n#YOONJISUNG - #러브송\n#EVERGLOW - #퍼스트\n\n&lt;#쇼음악중심🎙&gt; 매주 토요일 오후 3시 10분\nMBC 210717 방송 https://t.co/lfx2gnL74Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌",
+					"indices": [
+						19,
+						23
+					]
+				},
+				{
+					"text": "DAY6",
+					"indices": [
+						40,
+						45
+					]
+				},
+				{
+					"text": "EVENofDAY",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"text": "역대급",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "PTT",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "P1Harmony",
+					"indices": [
+						89,
+						99
+					]
+				},
+				{
+					"text": "겁나니",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "쥬뗌므",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "YOONJISUNG",
+					"indices": [
+						119,
+						130
+					]
+				},
+				{
+					"text": "러브송",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "EVERGLOW",
+					"indices": [
+						138,
+						147
+					]
+				},
+				{
+					"text": "퍼스트",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						160,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1423181002470355000,
+					"id_str": "1423181002470354948",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/E8ArM9gVUAAhGgI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8ArM9gVUAAhGgI.jpg",
+					"url": "https://t.co/lfx2gnL74Y",
+					"display_url": "pic.twitter.com/lfx2gnL74Y",
+					"expanded_url": "https://twitter.com/withMBC/status/1423185981381873665/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423181002470355000,
+					"id_str": "1423181002470354948",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/E8ArM9gVUAAhGgI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8ArM9gVUAAhGgI.jpg",
+					"url": "https://t.co/lfx2gnL74Y",
+					"display_url": "pic.twitter.com/lfx2gnL74Y",
+					"expanded_url": "https://twitter.com/withMBC/status/1423185981381873665/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 232432,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1423181002470354948/vid/480x270/LSzAVm1lvSsd80vc.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1423181002470354948/vid/1280x720/pop0Eu1VPExE1lIj.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1423181002470354948/pl/kZJRL5wsoTqO6YLZ.m3u8?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1423181002470354948/vid/640x360/fE5NLHjzfo_i4eyM.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "MBC 방송 프로그램 홍보 트위터 MBC PR",
+			"url": "https://t.co/yOEvgSpDjG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yOEvgSpDjG",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1005934,
+			"friends_count": 10052,
+			"listed_count": 4218,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1621218372",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "라임 무엇..😍 비트에 녹아버리는\n#아이돌 세글자 노래🎵 모음.zip\n\n#DAY6 (#EVENofDAY) - #역대급\n#LOONA (#이달의소녀) - #PTT\n#P1Harmony - #겁나니\n#JOY - #쥬뗌므\n#YOONJISUNG - #러브송\n#EVERGLOW - #퍼스트\n\n&lt;#쇼음악중심🎙&gt; 매주 토요일 오후 3시 10분\nMBC 210717 방송 https://t.co/lfx2gnL74Y"
+	},
+	{
+		"created_at": "Thu Aug 05 07:13:45 +0000 2021",
+		"id": 1423180407995080700,
+		"id_str": "1423180407995080704",
+		"full_text": "#KBS #공지사항 #가요심의 \n[#뮤직비디오심의] 뮤직비디오 2021년 8월 1주차 심의결과 \nhttps://t.co/Xe7uRJsmb7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KBS",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "공지사항",
+					"indices": [
+						5,
+						10
+					]
+				},
+				{
+					"text": "가요심의",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "뮤직비디오심의",
+					"indices": [
+						19,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Xe7uRJsmb7",
+					"expanded_url": "https://www.kbs.co.kr/board/board.html?bbs_loc=X2017-0031-04-699231,read,%EB%AE%A4%EC%A7%81%EB%B9%84%EB%94%94%EC%98%A4%EC%8B%AC%EC%9D%98,2204,1060473",
+					"display_url": "kbs.co.kr/board/board.ht…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#KBS #공지사항 #가요심의 \n[#뮤직비디오심의] 뮤직비디오 2021년 8월 1주차 심의결과 \nhttps://t.co/Xe7uRJsmb7"
+	},
+	{
 		"created_at": "Thu Aug 05 06:51:49 +0000 2021",
 		"id": 1423174890350329900,
 		"id_str": "1423174890350329859",
