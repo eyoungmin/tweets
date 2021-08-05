@@ -1,6 +1,427 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 05 02:45:37 +0000 2021",
+		"id": 1423111885293899800,
+		"id_str": "1423112928899866638",
+		"full_text": "오늘의 라인업 ᰔᩚ \n\n구구단 세미나, 포미닛 투윤, 빅스엘알, 투하트, 이달의 소녀 yyxy, 우주소녀 쪼꼬미, 우주소녀 더 블랙, 뉴이스트 W, 비투비 포유, 오마이걸 반하나, 데이식스 (이븐 오브 데이), 슈퍼주니어 D&amp;E, 문빈&amp;산하, 부석순, 웨이션브이, 엔시티 드림, 엔시티 127 etc ••• https://t.co/VzvAB916bY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VzvAB916bY",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1423111417385734150",
+					"display_url": "twitter.com/ALLTHEKPOP/sta…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82600,
+			"friends_count": 337,
+			"listed_count": 313,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7371,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1627864416",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1423111417385734100,
+		"quoted_status_id_str": "1423111417385734150",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VzvAB916bY",
+			"expanded": "https://twitter.com/ALLTHEKPOP/status/1423111417385734150",
+			"display": "twitter.com/ALLTHEKPOP/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 05 02:39:36 +0000 2021",
+			"id": 1423111417385734100,
+			"id_str": "1423111417385734150",
+			"full_text": "올케다방의 띵곡팔이👋\n⏰PM 2:00~3:30\n\n반하나 컴백해❗ 컴백해❕ 보답해❗ 보답해❕\n행복은 성적순이 아니라 부석순 @부석순_컴백해\n반짝 나타나 마음을 뒤흔들고 간 유닛 무대 같이 봐요 (*✧×✧*)✨\n\n▶https://t.co/e2n0G5KZ7U\n☝올케팝 유튜브 채널 알림 설정하면 띵곡팔이 알림 딩동 https://t.co/2c0wfLVPoW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				172
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/e2n0G5KZ7U",
+						"expanded_url": "https://youtu.be/_BrZmlgZow8",
+						"display_url": "youtu.be/_BrZmlgZow8",
+						"indices": [
+							118,
+							141
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1423111405662732300,
+						"id_str": "1423111405662732290",
+						"indices": [
+							173,
+							196
+						],
+						"media_url": "http://pbs.twimg.com/media/E7_oSJJVgAI10gf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E7_oSJJVgAI10gf.jpg",
+						"url": "https://t.co/2c0wfLVPoW",
+						"display_url": "pic.twitter.com/2c0wfLVPoW",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1423111417385734150/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1423111405662732300,
+						"id_str": "1423111405662732290",
+						"indices": [
+							173,
+							196
+						],
+						"media_url": "http://pbs.twimg.com/media/E7_oSJJVgAI10gf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E7_oSJJVgAI10gf.jpg",
+						"url": "https://t.co/2c0wfLVPoW",
+						"display_url": "pic.twitter.com/2c0wfLVPoW",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1423111417385734150/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744928926,
+				"id_str": "744928926",
+				"name": "올더케이팝",
+				"screen_name": "ALLTHEKPOP",
+				"location": "",
+				"description": "ALL about ID♡L, ALL THE K-POP",
+				"url": "https://t.co/0kbjbCEhaR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0kbjbCEhaR",
+								"expanded_url": "http://www.youtube.com/allthekpop",
+								"display_url": "youtube.com/allthekpop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 82600,
+				"friends_count": 337,
+				"listed_count": 313,
+				"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+				"favourites_count": 7906,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7371,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1627864416",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 34,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 4,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘의 라인업 ᰔᩚ \n\n구구단 세미나, 포미닛 투윤, 빅스엘알, 투하트, 이달의 소녀 yyxy, 우주소녀 쪼꼬미, 우주소녀 더 블랙, 뉴이스트 W, 비투비 포유, 오마이걸 반하나, 데이식스 (이븐 오브 데이), 슈퍼주니어 D&amp;E, 문빈&amp;산하, 부석순, 웨이션브이, 엔시티 드림, 엔시티 127 etc ••• https://t.co/VzvAB916bY"
+	},
+	{
+		"created_at": "Thu Aug 05 02:27:46 +0000 2021",
+		"id": 1423100418846969900,
+		"id_str": "1423108437496401923",
+		"full_text": "소시 14살 축하해💖\n#GG14EVA \n#소원과_14년째_항해중\n#소녀시대 #소원 https://t.co/ElCnfgBEtW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GG14EVA",
+					"indices": [
+						12,
+						20
+					]
+				},
+				{
+					"text": "소원과_14년째_항해중",
+					"indices": [
+						22,
+						35
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						36,
+						41
+					]
+				},
+				{
+					"text": "소원",
+					"indices": [
+						42,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ElCnfgBEtW",
+					"expanded_url": "https://www.instagram.com/p/CSLNAWphLpd/?utm_medium=twitter",
+					"display_url": "instagram.com/p/CSLNAWphLpd/…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2173631072,
+			"id_str": "2173631072",
+			"name": "서현(Seohyun)",
+			"screen_name": "sjhsjh0628",
+			"location": "",
+			"description": "Singer / Actor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1387160,
+			"friends_count": 31,
+			"listed_count": 2878,
+			"created_at": "Mon Nov 04 08:58:47 +0000 2013",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350274158945398785/6B2gOd8K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350274158945398785/6B2gOd8K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2173631072/1617691854",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1725,
+		"favorite_count": 2798,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소시 14살 축하해💖\n#GG14EVA \n#소원과_14년째_항해중\n#소녀시대 #소원 https://t.co/ElCnfgBEtW"
+	},
+	{
 		"created_at": "Thu Aug 05 01:40:10 +0000 2021",
 		"id": 1423086500439154700,
 		"id_str": "1423096457679286283",
