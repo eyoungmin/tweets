@@ -1,6 +1,682 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 05 09:40:10 +0000 2021",
+		"id": 1423183303910183000,
+		"id_str": "1423217254985080835",
+		"full_text": "Shout out video | 이달의 소녀(LOONA) | congratulations on launching Rolling Stone Korea\n\n#롤링스톤 #롤링스톤코리아 #RollingStone #RollingStoneKorea #RSK #이달의소녀 #loona #블록베리크리에이티브 \n\n@loonatheworld https://t.co/sCsrGTv24C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링스톤",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "롤링스톤코리아",
+					"indices": [
+						90,
+						98
+					]
+				},
+				{
+					"text": "RollingStone",
+					"indices": [
+						99,
+						112
+					]
+				},
+				{
+					"text": "RollingStoneKorea",
+					"indices": [
+						113,
+						131
+					]
+				},
+				{
+					"text": "RSK",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						137,
+						143
+					]
+				},
+				{
+					"text": "loona",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "블록베리크리에이티브",
+					"indices": [
+						151,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loonatheworld",
+					"name": "이달의 소녀(LOOΠΔ)",
+					"id": 770959712791597000,
+					"id_str": "770959712791597056",
+					"indices": [
+						165,
+						179
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1423183089820311600,
+					"id_str": "1423183089820311558",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1423183089820311558/pu/img/55sZXqH3UneoVWgf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1423183089820311558/pu/img/55sZXqH3UneoVWgf.jpg",
+					"url": "https://t.co/sCsrGTv24C",
+					"display_url": "pic.twitter.com/sCsrGTv24C",
+					"expanded_url": "https://twitter.com/rollingstonekor/status/1423183303910182919/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423183089820311600,
+					"id_str": "1423183089820311558",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1423183089820311558/pu/img/55sZXqH3UneoVWgf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1423183089820311558/pu/img/55sZXqH3UneoVWgf.jpg",
+					"url": "https://t.co/sCsrGTv24C",
+					"display_url": "pic.twitter.com/sCsrGTv24C",
+					"expanded_url": "https://twitter.com/rollingstonekor/status/1423183303910182919/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30080,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1423183089820311558/pu/vid/1280x720/WBr7cZYP_kXNoAQa.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1423183089820311558/pu/vid/640x360/-sZVbTcI4oG-tWou.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1423183089820311558/pu/pl/n4PTmGDvBJxeg2VT.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1423183089820311558/pu/vid/480x270/kyASGg8faTIYYR7k.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1342798927364427800,
+			"id_str": "1342798927364427776",
+			"name": "Rolling Stone Korea",
+			"screen_name": "rollingstonekor",
+			"location": "",
+			"description": "The number one brand in music publishing launching in Korea.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2561,
+			"friends_count": 5,
+			"listed_count": 8,
+			"created_at": "Sat Dec 26 11:46:38 +0000 2020",
+			"favourites_count": 252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1342800452841193473/HLjoiuMx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1342800452841193473/HLjoiuMx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1342798927364427776/1608983636",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1133,
+		"favorite_count": 3910,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Shout out video | 이달의 소녀(LOONA) | congratulations on launching Rolling Stone Korea\n\n#롤링스톤 #롤링스톤코리아 #RollingStone #RollingStoneKorea #RSK #이달의소녀 #loona #블록베리크리에이티브 \n\n@loonatheworld https://t.co/sCsrGTv24C"
+	},
+	{
+		"created_at": "Thu Aug 05 09:21:08 +0000 2021",
+		"id": 1423205024465703000,
+		"id_str": "1423212464011825158",
+		"full_text": "#ELLEASKMEANYTHING @BLACKPINK #Rosé\n&lt;엘르&gt;와 #블랙핑크 #로제 가 다시 만납니다! 로제에게 궁금한 점을 지금 멘션으로 남겨주세요. 로제가 직접 답해줄 예정!🌹🖤\n\nElle meets BLACKPINK's Rosé again. If you have any questions for Rosé, please leave anything! https://t.co/po3Kil9g0i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELLEASKMEANYTHING",
+					"indices": [
+						0,
+						18
+					]
+				},
+				{
+					"text": "Rosé",
+					"indices": [
+						30,
+						35
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						54,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						19,
+						29
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1423204963782561800,
+					"id_str": "1423204963782561795",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/E8A9X8TVEAM6qkP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8A9X8TVEAM6qkP.jpg",
+					"url": "https://t.co/po3Kil9g0i",
+					"display_url": "pic.twitter.com/po3Kil9g0i",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1423205024465702912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 898,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 898,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423204963782561800,
+					"id_str": "1423204963782561795",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/E8A9X8TVEAM6qkP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8A9X8TVEAM6qkP.jpg",
+					"url": "https://t.co/po3Kil9g0i",
+					"display_url": "pic.twitter.com/po3Kil9g0i",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1423205024465702912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 898,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 898,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 ELLE KOREA 공식 트위터 official twitter 입니다.",
+			"url": "https://t.co/wrg4l4aKRf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wrg4l4aKRf",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 140232,
+			"friends_count": 3462,
+			"listed_count": 443,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 539,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1626242604",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 839,
+		"favorite_count": 1546,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ELLEASKMEANYTHING @BLACKPINK #Rosé\n&lt;엘르&gt;와 #블랙핑크 #로제 가 다시 만납니다! 로제에게 궁금한 점을 지금 멘션으로 남겨주세요. 로제가 직접 답해줄 예정!🌹🖤\n\nElle meets BLACKPINK's Rosé again. If you have any questions for Rosé, please leave anything! https://t.co/po3Kil9g0i"
+	},
+	{
+		"created_at": "Thu Aug 05 09:07:32 +0000 2021",
+		"id": 1423207403860885500,
+		"id_str": "1423209041396830210",
+		"full_text": "꼭꼭 숨어라 세경이 보일라😀\n아무도 없는 밤에\n신세경이 강남구청역을 찾은 이유는?\n지금 바로 쓱크립트를 확인하세요🥰\n⠀\n🗒 https://t.co/WoclppT8IG\n⠀\n#신세경 #ShinSaeKyeong\n#쓱크립트 #SSKcript https://t.co/6MimZ64sUM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신세경",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "ShinSaeKyeong",
+					"indices": [
+						100,
+						114
+					]
+				},
+				{
+					"text": "쓱크립트",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "SSKcript",
+					"indices": [
+						121,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WoclppT8IG",
+					"expanded_url": "https://youtu.be/w_1Pb_Zy9FA",
+					"display_url": "youtu.be/w_1Pb_Zy9FA",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1423207386307649500,
+					"id_str": "1423207386307649538",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/E8A_k86UYAImJwF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8A_k86UYAImJwF.jpg",
+					"url": "https://t.co/6MimZ64sUM",
+					"display_url": "pic.twitter.com/6MimZ64sUM",
+					"expanded_url": "https://twitter.com/edam_ent/status/1423207403860885508/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423207386307649500,
+					"id_str": "1423207386307649538",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/E8A_k86UYAImJwF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8A_k86UYAImJwF.jpg",
+					"url": "https://t.co/6MimZ64sUM",
+					"display_url": "pic.twitter.com/6MimZ64sUM",
+					"expanded_url": "https://twitter.com/edam_ent/status/1423207403860885508/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50858,
+			"friends_count": 1,
+			"listed_count": 191,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 363,
+		"favorite_count": 1180,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "꼭꼭 숨어라 세경이 보일라😀\n아무도 없는 밤에\n신세경이 강남구청역을 찾은 이유는?\n지금 바로 쓱크립트를 확인하세요🥰\n⠀\n🗒 https://t.co/WoclppT8IG\n⠀\n#신세경 #ShinSaeKyeong\n#쓱크립트 #SSKcript https://t.co/6MimZ64sUM"
+	},
+	{
 		"created_at": "Thu Aug 05 08:29:38 +0000 2021",
 		"id": 1423199292584456200,
 		"id_str": "1423199506598875136",
