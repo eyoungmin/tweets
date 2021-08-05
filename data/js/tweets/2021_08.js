@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 05 06:51:49 +0000 2021",
+		"id": 1423174890350329900,
+		"id_str": "1423174890350329859",
+		"full_text": "#SMTOWN #Artist_News \n효연 (HYO), 신곡 ‘Second’ 카운트다운 생방송 9일 오후 5시 진행! \nhttps://t.co/2dihS2zjl4 \n \n#소녀시대 #GirlsGeneration https://t.co/kHezfMWE03",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						101,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2dihS2zjl4",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5285",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1423174889415008300,
+					"id_str": "1423174889415008256",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E8AiBYjWYAAPREe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8AiBYjWYAAPREe.jpg",
+					"url": "https://t.co/kHezfMWE03",
+					"display_url": "pic.twitter.com/kHezfMWE03",
+					"expanded_url": "https://twitter.com/fromminn/status/1423174890350329859/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423174889415008300,
+					"id_str": "1423174889415008256",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E8AiBYjWYAAPREe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8AiBYjWYAAPREe.jpg",
+					"url": "https://t.co/kHezfMWE03",
+					"display_url": "pic.twitter.com/kHezfMWE03",
+					"expanded_url": "https://twitter.com/fromminn/status/1423174890350329859/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 317,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \n효연 (HYO), 신곡 ‘Second’ 카운트다운 생방송 9일 오후 5시 진행! \nhttps://t.co/2dihS2zjl4 \n \n#소녀시대 #GirlsGeneration https://t.co/kHezfMWE03"
+	},
+	{
 		"created_at": "Thu Aug 05 05:49:20 +0000 2021",
 		"id": 1423159165372014600,
 		"id_str": "1423159165372014595",
@@ -735,7 +936,7 @@ Grailbird.data.tweets_2021_08 =
 		"created_at": "Thu Aug 05 05:29:38 +0000 2021",
 		"id": 1423149162011365400,
 		"id_str": "1423154208493158401",
-		"full_text": "#멜론매거진 위로와 힘이 되는 아이돌 어록😍\n모든게 완벽하신 분들이🙋‍♂️🙋‍♀️\n이렇게 예쁜 말만 골라서 하면 ✨\n정말 눈물 펑펑이라 이말이야..😭\n\n🔗https://t.co/E4gYrMBK4P\n\n#멜론 #melon #매거진 #트렌드클리핑 #아이돌\n#지민 #아이유 #안유진 #태연 #서은광 #마크\n#승희 #유주 #태현 #김세정 #엑시 https://t.co/THmOfj8G3f",
+		"full_text": "#멜론매거진 위로와 힘이 되는 아이돌 어록😍\n모든게 완벽하신 분들이🙋♂️🙋♀️\n이렇게 예쁜 말만 골라서 하면 ✨\n정말 눈물 펑펑이라 이말이야..😭\n\n🔗https://t.co/E4gYrMBK4P\n\n#멜론 #melon #매거진 #트렌드클리핑 #아이돌\n#지민 #아이유 #안유진 #태연 #서은광 #마크\n#승희 #유주 #태현 #김세정 #엑시 https://t.co/THmOfj8G3f",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1142,7 +1343,7 @@ Grailbird.data.tweets_2021_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#멜론매거진 위로와 힘이 되는 아이돌 어록😍\n모든게 완벽하신 분들이🙋‍♂️🙋‍♀️\n이렇게 예쁜 말만 골라서 하면 ✨\n정말 눈물 펑펑이라 이말이야..😭\n\n🔗https://t.co/E4gYrMBK4P\n\n#멜론 #melon #매거진 #트렌드클리핑 #아이돌\n#지민 #아이유 #안유진 #태연 #서은광 #마크\n#승희 #유주 #태현 #김세정 #엑시 https://t.co/THmOfj8G3f"
+		"text": "#멜론매거진 위로와 힘이 되는 아이돌 어록😍\n모든게 완벽하신 분들이🙋♂️🙋♀️\n이렇게 예쁜 말만 골라서 하면 ✨\n정말 눈물 펑펑이라 이말이야..😭\n\n🔗https://t.co/E4gYrMBK4P\n\n#멜론 #melon #매거진 #트렌드클리핑 #아이돌\n#지민 #아이유 #안유진 #태연 #서은광 #마크\n#승희 #유주 #태현 #김세정 #엑시 https://t.co/THmOfj8G3f"
 	},
 	{
 		"created_at": "Thu Aug 05 05:25:31 +0000 2021",
