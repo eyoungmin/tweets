@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 05 01:40:10 +0000 2021",
+		"id": 1423086500439154700,
+		"id_str": "1423096457679286283",
+		"full_text": "#BLACKPINK 5th ANNIVERSARY [4+1] POP-UP\nNotice has been uploaded.\n\n▶️https://t.co/7YGAcCDN9h\n\n#블랙핑크 #4PLUS1_POPUP #20210821 #OPEN #5thANNIVERSARY #4PLUS1_PROJECT #YG https://t.co/XGaSU2bIZP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "4PLUS1_POPUP",
+					"indices": [
+						100,
+						113
+					]
+				},
+				{
+					"text": "OPEN",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "5thANNIVERSARY",
+					"indices": [
+						130,
+						145
+					]
+				},
+				{
+					"text": "4PLUS1_PROJECT",
+					"indices": [
+						146,
+						161
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						162,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7YGAcCDN9h",
+					"expanded_url": "https://www.facebook.com/BLACKPINKOFFICIAL/posts/364697941686680",
+					"display_url": "facebook.com/BLACKPINKOFFIC…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1423084733504753700,
+					"id_str": "1423084733504753666",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E7_QBnnVEAIbW2F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7_QBnnVEAIbW2F.jpg",
+					"url": "https://t.co/XGaSU2bIZP",
+					"display_url": "pic.twitter.com/XGaSU2bIZP",
+					"expanded_url": "https://twitter.com/ygent_official/status/1423086500439154692/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423084733504753700,
+					"id_str": "1423084733504753666",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E7_QBnnVEAIbW2F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7_QBnnVEAIbW2F.jpg",
+					"url": "https://t.co/XGaSU2bIZP",
+					"display_url": "pic.twitter.com/XGaSU2bIZP",
+					"expanded_url": "https://twitter.com/ygent_official/status/1423086500439154692/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7802410,
+			"friends_count": 36,
+			"listed_count": 8638,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3282,
+		"favorite_count": 13982,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BLACKPINK 5th ANNIVERSARY [4+1] POP-UP\nNotice has been uploaded.\n\n▶️https://t.co/7YGAcCDN9h\n\n#블랙핑크 #4PLUS1_POPUP #20210821 #OPEN #5thANNIVERSARY #4PLUS1_PROJECT #YG https://t.co/XGaSU2bIZP"
+	},
+	{
 		"created_at": "Wed Aug 04 18:31:02 +0000 2021",
 		"id": 1422988464019054600,
 		"id_str": "1422988464019054595",
