@@ -1,6 +1,794 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 06 08:45:37 +0000 2021",
+		"id": 1423554508500607000,
+		"id_str": "1423565913756999680",
+		"full_text": "[인용알티 포토카드 당첨자]\n@Peanuts_HODU\n@LipD__00\n@soulbit09\n@PrXxKnxlYUHhgYA\n@00_princess_19\n@loona_6lippu6\n@ii0w0iiz\n@Mochi_960125\n🐵당첨자는 디엠을 열고 안내를 기다려쬬 https://t.co/8Fh6VfjNJW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Peanuts_HODU",
+					"name": "호두는 폴라가 가지고시푼데",
+					"id": 908891921828810800,
+					"id_str": "908891921828810752",
+					"indices": [
+						16,
+						29
+					]
+				},
+				{
+					"screen_name": "LipD__00",
+					"name": "리비디",
+					"id": 1281527764483367000,
+					"id_str": "1281527764483366912",
+					"indices": [
+						30,
+						39
+					]
+				},
+				{
+					"screen_name": "soulbit09",
+					"name": "쏠&빛",
+					"id": 1052560289663574000,
+					"id_str": "1052560289663574016",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"screen_name": "PrXxKnxlYUHhgYA",
+					"name": "살려줘",
+					"id": 1411274544422162400,
+					"id_str": "1411274544422162442",
+					"indices": [
+						51,
+						67
+					]
+				},
+				{
+					"screen_name": "00_princess_19",
+					"name": "셋공",
+					"id": 1396109061897154600,
+					"id_str": "1396109061897154561",
+					"indices": [
+						68,
+						83
+					]
+				},
+				{
+					"screen_name": "loona_6lippu6",
+					"name": "&달소깅&",
+					"id": 1883048444,
+					"id_str": "1883048444",
+					"indices": [
+						84,
+						98
+					]
+				},
+				{
+					"screen_name": "ii0w0iiz",
+					"name": "히랑",
+					"id": 1363340427663876000,
+					"id_str": "1363340427663876098",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"screen_name": "Mochi_960125",
+					"name": "덤덤hyun",
+					"id": 884920218861961200,
+					"id_str": "884920218861961216",
+					"indices": [
+						109,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8Fh6VfjNJW",
+					"expanded_url": "https://twitter.com/cocomong_kr/status/1419930802847043592",
+					"display_url": "twitter.com/cocomong_kr/st…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097461345677500400,
+			"id_str": "1097461345677500417",
+			"name": "코코몽",
+			"screen_name": "cocomong_kr",
+			"location": "냉장고나라 ",
+			"description": "코코몽(냉장고 코씨,12살) 회사 몰래하는 케이팝 덕질계정🙈",
+			"url": "https://t.co/srDteO8EOb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/srDteO8EOb",
+							"expanded_url": "https://www.instagram.com/cocomong.official",
+							"display_url": "instagram.com/cocomong.offic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4930,
+			"friends_count": 0,
+			"listed_count": 9,
+			"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+			"favourites_count": 1611,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1419930802847043600,
+		"quoted_status_id_str": "1419930802847043592",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8Fh6VfjNJW",
+			"expanded": "https://twitter.com/cocomong_kr/status/1419930802847043592",
+			"display": "twitter.com/cocomong_kr/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 27 08:00:59 +0000 2021",
+			"id": 1419930802847043600,
+			"id_str": "1419930802847043592",
+			"full_text": "멋진 앨범을 만들어서 보내준 오빛 칭구들 정말정말 고맙다몽! \n코몽이도 얌얌 너무너무 재밌고 좋았어❤️\n잘 간직하겠다몽!\n\n고마우니까 남은 포카 탈탈 털어서 \n인용RT로 얌얌mv코멘트 달아준 칭구 8명에게 얌얌 포토카드를 선물한다몽🐵\n\n❗️끝날때까지 끝난건 아니다몽!🙈\n\nhttps://t.co/1KDGvtZQR5 https://t.co/We9zWpXzfK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				175
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1KDGvtZQR5",
+						"expanded_url": "https://youtu.be/D0f26VyDJhA",
+						"display_url": "youtu.be/D0f26VyDJhA",
+						"indices": [
+							152,
+							175
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1419930790943543300,
+						"id_str": "1419930790943543300",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/E7Sbh__UUAQKa9j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E7Sbh__UUAQKa9j.jpg",
+						"url": "https://t.co/We9zWpXzfK",
+						"display_url": "pic.twitter.com/We9zWpXzfK",
+						"expanded_url": "https://twitter.com/cocomong_kr/status/1419930802847043592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1419930790943543300,
+						"id_str": "1419930790943543300",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/E7Sbh__UUAQKa9j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E7Sbh__UUAQKa9j.jpg",
+						"url": "https://t.co/We9zWpXzfK",
+						"display_url": "pic.twitter.com/We9zWpXzfK",
+						"expanded_url": "https://twitter.com/cocomong_kr/status/1419930802847043592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1419930790943551500,
+						"id_str": "1419930790943551489",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/E7Sbh__UcAEnBDW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E7Sbh__UcAEnBDW.jpg",
+						"url": "https://t.co/We9zWpXzfK",
+						"display_url": "pic.twitter.com/We9zWpXzfK",
+						"expanded_url": "https://twitter.com/cocomong_kr/status/1419930802847043592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1419930791006544000,
+						"id_str": "1419930791006543877",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/E7SbiAOVoAU2kKQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E7SbiAOVoAU2kKQ.jpg",
+						"url": "https://t.co/We9zWpXzfK",
+						"display_url": "pic.twitter.com/We9zWpXzfK",
+						"expanded_url": "https://twitter.com/cocomong_kr/status/1419930802847043592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1419930790947815400,
+						"id_str": "1419930790947815426",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/E7SbiAAVgAIBwp6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E7SbiAAVgAIBwp6.jpg",
+						"url": "https://t.co/We9zWpXzfK",
+						"display_url": "pic.twitter.com/We9zWpXzfK",
+						"expanded_url": "https://twitter.com/cocomong_kr/status/1419930802847043592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1187,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2026,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 673,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1097461345677500400,
+				"id_str": "1097461345677500417",
+				"name": "코코몽",
+				"screen_name": "cocomong_kr",
+				"location": "냉장고나라 ",
+				"description": "코코몽(냉장고 코씨,12살) 회사 몰래하는 케이팝 덕질계정🙈",
+				"url": "https://t.co/srDteO8EOb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/srDteO8EOb",
+								"expanded_url": "https://www.instagram.com/cocomong.official",
+								"display_url": "instagram.com/cocomong.offic…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4930,
+				"friends_count": 0,
+				"listed_count": 9,
+				"created_at": "Mon Feb 18 11:42:29 +0000 2019",
+				"favourites_count": 1611,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3208,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377613398788222977/OsDN0wDG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097461345677500417/1562283397",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 459,
+			"favorite_count": 1577,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[인용알티 포토카드 당첨자]\n@Peanuts_HODU\n@LipD__00\n@soulbit09\n@PrXxKnxlYUHhgYA\n@00_princess_19\n@loona_6lippu6\n@ii0w0iiz\n@Mochi_960125\n🐵당첨자는 디엠을 열고 안내를 기다려쬬 https://t.co/8Fh6VfjNJW"
+	},
+	{
+		"created_at": "Fri Aug 06 08:40:12 +0000 2021",
+		"id": 1423557612155506700,
+		"id_str": "1423564550742421504",
+		"full_text": "South Korean R&amp;B singer-songwriter @seori_official talks about her new single #TheLongNight, #TXT collab on #0X1LOVESONG, the reason behind 'night' as a theme in her songs, being inspired by #AvrilLavigne, and more in an exclusive conversation! \n\nhttps://t.co/JK2Z2nH6o9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheLongNight",
+					"indices": [
+						82,
+						95
+					]
+				},
+				{
+					"text": "TXT",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "0X1LOVESONG",
+					"indices": [
+						112,
+						124
+					]
+				},
+				{
+					"text": "AvrilLavigne",
+					"indices": [
+						195,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seori_official",
+					"name": "Seori",
+					"id": 1143072158467231700,
+					"id_str": "1143072158467231745",
+					"indices": [
+						39,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JK2Z2nH6o9",
+					"expanded_url": "https://www.youtube.com/watch?v=IK5wYJIv8HY",
+					"display_url": "youtube.com/watch?v=IK5wYJ…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1423556903913746400,
+		"in_reply_to_status_id_str": "1423556903913746432",
+		"in_reply_to_user_id": 41549052,
+		"in_reply_to_user_id_str": "41549052",
+		"in_reply_to_screen_name": "Bollyhungama",
+		"user": {
+			"id": 41549052,
+			"id_str": "41549052",
+			"name": "BollyHungama",
+			"screen_name": "Bollyhungama",
+			"location": "",
+			"description": "Your ultimate destination for exclusive updates on your favorite celebrities, films, events & more.",
+			"url": "http://t.co/i8ngQRiT6z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/i8ngQRiT6z",
+							"expanded_url": "http://www.bollywoodhungama.com",
+							"display_url": "bollywoodhungama.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1879208,
+			"friends_count": 867,
+			"listed_count": 1124,
+			"created_at": "Thu May 21 07:47:00 +0000 2009",
+			"favourites_count": 1097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 126306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/541347285/BH_Logo_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/541347285/BH_Logo_normal.JPG",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41549052/1627359936",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 104,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "South Korean R&amp;B singer-songwriter @seori_official talks about her new single #TheLongNight, #TXT collab on #0X1LOVESONG, the reason behind 'night' as a theme in her songs, being inspired by #AvrilLavigne, and more in an exclusive conversation! \n\nhttps://t.co/JK2Z2nH6o9"
+	},
+	{
+		"created_at": "Fri Aug 06 08:40:09 +0000 2021",
+		"id": 1423556903913746400,
+		"id_str": "1423564541804306435",
+		"full_text": "EXCLUSIVE: Korean singer #SEORI on #The_Long_Night, #TXT collaboration, being inspired by #AvrilLavigne and acknowledged by some of the biggest artists \n\n@seori_official #TheLongNight \n\nhttps://t.co/QXX9EDeHP6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SEORI",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "The_Long_Night",
+					"indices": [
+						35,
+						50
+					]
+				},
+				{
+					"text": "TXT",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "AvrilLavigne",
+					"indices": [
+						90,
+						103
+					]
+				},
+				{
+					"text": "TheLongNight",
+					"indices": [
+						170,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seori_official",
+					"name": "Seori",
+					"id": 1143072158467231700,
+					"id_str": "1143072158467231745",
+					"indices": [
+						154,
+						169
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QXX9EDeHP6",
+					"expanded_url": "https://www.bollywoodhungama.com/news/features/exclusive-korean-singer-seori-on-the-long-night-txt-collaboration-and-being-inspired-by-avril-lavigne/",
+					"display_url": "bollywoodhungama.com/news/features/…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41549052,
+			"id_str": "41549052",
+			"name": "BollyHungama",
+			"screen_name": "Bollyhungama",
+			"location": "",
+			"description": "Your ultimate destination for exclusive updates on your favorite celebrities, films, events & more.",
+			"url": "http://t.co/i8ngQRiT6z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/i8ngQRiT6z",
+							"expanded_url": "http://www.bollywoodhungama.com",
+							"display_url": "bollywoodhungama.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1879208,
+			"friends_count": 867,
+			"listed_count": 1124,
+			"created_at": "Thu May 21 07:47:00 +0000 2009",
+			"favourites_count": 1097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 126306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/541347285/BH_Logo_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/541347285/BH_Logo_normal.JPG",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41549052/1627359936",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 171,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "EXCLUSIVE: Korean singer #SEORI on #The_Long_Night, #TXT collaboration, being inspired by #AvrilLavigne and acknowledged by some of the biggest artists \n\n@seori_official #TheLongNight \n\nhttps://t.co/QXX9EDeHP6"
+	},
+	{
 		"created_at": "Fri Aug 06 07:40:10 +0000 2021",
 		"id": 1423177301706092500,
 		"id_str": "1423549442700062722",
