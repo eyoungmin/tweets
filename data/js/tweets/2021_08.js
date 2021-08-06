@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 06 04:54:34 +0000 2021",
+		"id": 1423504473310130200,
+		"id_str": "1423507769051676673",
+		"full_text": "New Still images of KIM YERIM in the drama ‘Blue Birthday’ are raising anticipation for the upcoming story!\nNew episodes of ‘Blue Birthday’ available every Friday and Saturday on NAVER TV &amp; YouTube!\n\n#김예림 #KIMYERIM\n#블루버스데이 #BLUEBIRTHDAY\n#레드벨벳 #RedVelvet https://t.co/hOpiaEsqws",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김예림",
+					"indices": [
+						204,
+						208
+					]
+				},
+				{
+					"text": "KIMYERIM",
+					"indices": [
+						209,
+						218
+					]
+				},
+				{
+					"text": "블루버스데이",
+					"indices": [
+						219,
+						226
+					]
+				},
+				{
+					"text": "BLUEBIRTHDAY",
+					"indices": [
+						227,
+						240
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						241,
+						246
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						247,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1423504293848490000,
+					"id_str": "1423504293848489996",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/E8FNnPsVIAwubQt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8FNnPsVIAwubQt.jpg",
+					"url": "https://t.co/hOpiaEsqws",
+					"display_url": "pic.twitter.com/hOpiaEsqws",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1423504473310130181/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423504293848490000,
+					"id_str": "1423504293848489996",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/E8FNnPsVIAwubQt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8FNnPsVIAwubQt.jpg",
+					"url": "https://t.co/hOpiaEsqws",
+					"display_url": "pic.twitter.com/hOpiaEsqws",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1423504473310130181/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1423504293856903200,
+					"id_str": "1423504293856903168",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/E8FNnPuVgAAxfru.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8FNnPuVgAAxfru.jpg",
+					"url": "https://t.co/hOpiaEsqws",
+					"display_url": "pic.twitter.com/hOpiaEsqws",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1423504473310130181/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9737223,
+			"friends_count": 55,
+			"listed_count": 10351,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3060,
+		"favorite_count": 8348,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New Still images of KIM YERIM in the drama ‘Blue Birthday’ are raising anticipation for the upcoming story!\nNew episodes of ‘Blue Birthday’ available every Friday and Saturday on NAVER TV &amp; YouTube!\n\n#김예림 #KIMYERIM\n#블루버스데이 #BLUEBIRTHDAY\n#레드벨벳 #RedVelvet https://t.co/hOpiaEsqws"
+	},
+	{
 		"created_at": "Fri Aug 06 03:40:12 +0000 2021",
 		"id": 1423478946713071600,
 		"id_str": "1423489056965545986",
