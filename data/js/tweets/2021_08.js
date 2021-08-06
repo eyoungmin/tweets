@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 06 10:48:06 +0000 2021",
+		"id": 1423596740922548200,
+		"id_str": "1423596740922548229",
+		"full_text": "#놀라운토요일 #도레미마켓 \n[선공개] “이 순간만 기다렸어요” 탱구 얘기만 주구장창하는 우영ㅋㅋㅋ#놀라운토요일 | amazingsaturday EP.172 \nhttps://t.co/VtzbElQIx9 \n \n#김태연 #태연 #탱구 #TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "도레미마켓",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "김태연",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "탱구",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						129,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VtzbElQIx9",
+					"expanded_url": "https://www.youtube.com/watch?v=c4kXWojIeWA",
+					"display_url": "youtube.com/watch?v=c4kXWo…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44911,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#놀라운토요일 #도레미마켓 \n[선공개] “이 순간만 기다렸어요” 탱구 얘기만 주구장창하는 우영ㅋㅋㅋ#놀라운토요일 | amazingsaturday EP.172 \nhttps://t.co/VtzbElQIx9 \n \n#김태연 #태연 #탱구 #TAEYEON"
+	},
+	{
+		"created_at": "Fri Aug 06 10:40:17 +0000 2021",
+		"id": 1422845240973484000,
+		"id_str": "1423594770681708548",
+		"full_text": "촬영장에 조명이 왜 필요하죠?🤷‍♀️\n우리 지은 배우 미소 한 번 이면\n온 세상이 환해지는데🌞💛😘\n\n8/6(금) 오후 6시🕕\n📺 #메가박스플러스엠 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 에서\n&lt;#드림&gt;(가제) 촬영 현장 밀착 취재 #독점공개\n\n#지은언니랑_아이컨택함 #성덕은웁니다\n#박서준 #이지은 #아이유 #영화드림 #이병헌감독 https://t.co/Ru317XZWeV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "메가박스플러스엠",
+					"indices": [
+						72,
+						81
+					]
+				},
+				{
+					"text": "드림",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "독점공개",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "지은언니랑_아이컨택함",
+					"indices": [
+						128,
+						140
+					]
+				},
+				{
+					"text": "성덕은웁니다",
+					"indices": [
+						141,
+						148
+					]
+				},
+				{
+					"text": "박서준",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "이지은",
+					"indices": [
+						154,
+						158
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						159,
+						163
+					]
+				},
+				{
+					"text": "영화드림",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "이병헌감독",
+					"indices": [
+						170,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1422845230525542400,
+					"id_str": "1422845230525542403",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E772MtfVcAMiU3Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E772MtfVcAMiU3Y.jpg",
+					"url": "https://t.co/Ru317XZWeV",
+					"display_url": "pic.twitter.com/Ru317XZWeV",
+					"expanded_url": "https://twitter.com/megabox_plusm/status/1422845240973484038/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422845230525542400,
+					"id_str": "1422845230525542403",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E772MtfVcAMiU3Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E772MtfVcAMiU3Y.jpg",
+					"url": "https://t.co/Ru317XZWeV",
+					"display_url": "pic.twitter.com/Ru317XZWeV",
+					"expanded_url": "https://twitter.com/megabox_plusm/status/1422845240973484038/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1874700738,
+			"id_str": "1874700738",
+			"name": "메가박스플러스엠",
+			"screen_name": "megabox_plusm",
+			"location": "",
+			"description": "메가박스 플러스엠 공식 트위터입니다.",
+			"url": "https://t.co/z4bPgQh2jh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/z4bPgQh2jh",
+							"expanded_url": "http://www.facebook.com/megabox.plusm",
+							"display_url": "facebook.com/megabox.plusm",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3085,
+			"friends_count": 92,
+			"listed_count": 28,
+			"created_at": "Tue Sep 17 08:49:21 +0000 2013",
+			"favourites_count": 43,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2795,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389037307756351488/-Odrr7Ir_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389037307756351488/-Odrr7Ir_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1874700738/1620007276",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1579,
+		"favorite_count": 4316,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "촬영장에 조명이 왜 필요하죠?🤷‍♀️\n우리 지은 배우 미소 한 번 이면\n온 세상이 환해지는데🌞💛😘\n\n8/6(금) 오후 6시🕕\n📺 #메가박스플러스엠 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 에서\n&lt;#드림&gt;(가제) 촬영 현장 밀착 취재 #독점공개\n\n#지은언니랑_아이컨택함 #성덕은웁니다\n#박서준 #이지은 #아이유 #영화드림 #이병헌감독 https://t.co/Ru317XZWeV"
+	},
+	{
 		"created_at": "Fri Aug 06 09:40:14 +0000 2021",
 		"id": 1423577802859630600,
 		"id_str": "1423579659090944000",
