@@ -1,6 +1,1232 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 06 11:40:23 +0000 2021",
+		"id": 1423605792754868200,
+		"id_str": "1423609896482791426",
+		"full_text": "🙃 https://t.co/brQAPjCZZc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1423605789323894800,
+					"id_str": "1423605789323894789",
+					"indices": [
+						2,
+						25
+					],
+					"media_url": "http://pbs.twimg.com/media/E8Gp7DzXIAUDlcy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8Gp7DzXIAUDlcy.jpg",
+					"url": "https://t.co/brQAPjCZZc",
+					"display_url": "pic.twitter.com/brQAPjCZZc",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1423605792754868228/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 648,
+							"h": 403,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 648,
+							"h": 403,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 648,
+							"h": 403,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423605789323894800,
+					"id_str": "1423605789323894789",
+					"indices": [
+						2,
+						25
+					],
+					"media_url": "http://pbs.twimg.com/media/E8Gp7DzXIAUDlcy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8Gp7DzXIAUDlcy.jpg",
+					"url": "https://t.co/brQAPjCZZc",
+					"display_url": "pic.twitter.com/brQAPjCZZc",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1423605792754868228/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 648,
+							"h": 403,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 648,
+							"h": 403,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 648,
+							"h": 403,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81870,
+			"friends_count": 264,
+			"listed_count": 301,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5924,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394240555333337089/STtGqeaY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394240555333337089/STtGqeaY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1621409378",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 316,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🙃 https://t.co/brQAPjCZZc"
+	},
+	{
+		"created_at": "Fri Aug 06 11:40:19 +0000 2021",
+		"id": 1423605277379776500,
+		"id_str": "1423609879131004934",
+		"full_text": "I’ve dreamt of being on the cover of @NME for years now. the only thing I can say is thank you and tjuhu 🥲🤟 https://t.co/YSNPZWBvPL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NME",
+					"name": "NME",
+					"id": 19063323,
+					"id_str": "19063323",
+					"indices": [
+						37,
+						41
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1423605272954740700,
+					"id_str": "1423605272954740743",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GpdALXIAcHaX1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GpdALXIAcHaX1.jpg",
+					"url": "https://t.co/YSNPZWBvPL",
+					"display_url": "pic.twitter.com/YSNPZWBvPL",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1423605277379776514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423605272954740700,
+					"id_str": "1423605272954740743",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GpdALXIAcHaX1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GpdALXIAcHaX1.jpg",
+					"url": "https://t.co/YSNPZWBvPL",
+					"display_url": "pic.twitter.com/YSNPZWBvPL",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1423605277379776514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81870,
+			"friends_count": 264,
+			"listed_count": 301,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5924,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394240555333337089/STtGqeaY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394240555333337089/STtGqeaY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1621409378",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 418,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’ve dreamt of being on the cover of @NME for years now. the only thing I can say is thank you and tjuhu 🥲🤟 https://t.co/YSNPZWBvPL"
+	},
+	{
+		"created_at": "Fri Aug 06 11:40:16 +0000 2021",
+		"id": 1423557933355438000,
+		"id_str": "1423609865927266305",
+		"full_text": ".@thisissigrid was understandably overwhelmed by the success of her 2019 debut ‘Sucker Punch’, but a period of self-reflection unlocked new single ‘Mirror’, a shimmering celebration of self. Read the full NME interview with the Norwegian star here: https://t.co/JroncUiIVE https://t.co/ICc3u5TKbQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thisissigrid",
+					"name": "sigrid",
+					"id": 819042492,
+					"id_str": "819042492",
+					"indices": [
+						1,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JroncUiIVE",
+					"expanded_url": "http://ow.ly/zp3N50FLEXq",
+					"display_url": "ow.ly/zp3N50FLEXq",
+					"indices": [
+						249,
+						272
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1423557930696286200,
+					"id_str": "1423557930696286208",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/E8F-ZUhXoAAWFCx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8F-ZUhXoAAWFCx.jpg",
+					"url": "https://t.co/ICc3u5TKbQ",
+					"display_url": "pic.twitter.com/ICc3u5TKbQ",
+					"expanded_url": "https://twitter.com/NME/status/1423557933355438086/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423557930696286200,
+					"id_str": "1423557930696286208",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/E8F-ZUhXoAAWFCx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8F-ZUhXoAAWFCx.jpg",
+					"url": "https://t.co/ICc3u5TKbQ",
+					"display_url": "pic.twitter.com/ICc3u5TKbQ",
+					"expanded_url": "https://twitter.com/NME/status/1423557933355438086/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19063323,
+			"id_str": "19063323",
+			"name": "NME",
+			"screen_name": "NME",
+			"location": "London",
+			"description": "The world’s defining voice in music and pop culture: breaking what’s new and what’s next since 1952. Follow us for news, interviews and more: https://t.co/e8f6nn0SSj",
+			"url": "https://t.co/A278qJqyA1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A278qJqyA1",
+							"expanded_url": "http://www.nme.com",
+							"display_url": "nme.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e8f6nn0SSj",
+							"expanded_url": "http://bnd.link/nme",
+							"display_url": "bnd.link/nme",
+							"indices": [
+								142,
+								165
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 900327,
+			"friends_count": 3333,
+			"listed_count": 14309,
+			"created_at": "Fri Jan 16 11:52:57 +0000 2009",
+			"favourites_count": 3990,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 232673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268111341673312262/inm0djQ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268111341673312262/inm0djQ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19063323/1628237585",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EDF0F8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 139,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@thisissigrid was understandably overwhelmed by the success of her 2019 debut ‘Sucker Punch’, but a period of self-reflection unlocked new single ‘Mirror’, a shimmering celebration of self. Read the full NME interview with the Norwegian star here: https://t.co/JroncUiIVE https://t.co/ICc3u5TKbQ"
+	},
+	{
+		"created_at": "Fri Aug 06 11:29:22 +0000 2021",
+		"id": 1423607123292864500,
+		"id_str": "1423607123292864518",
+		"full_text": "#SMTOWN #Artist_News \n‘콘셉트퀸’ 레드벨벳 아이린, 웬디, 예리 티저 이미지 공개! \nhttps://t.co/RebdxxJDcj \n \n#레드벨벳 #RedVelvet https://t.co/B4s5or5UM1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						91,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RebdxxJDcj",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5289",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1423607122227519500,
+					"id_str": "1423607122227519496",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GrIpQWYAgLs8H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GrIpQWYAgLs8H.jpg",
+					"url": "https://t.co/B4s5or5UM1",
+					"display_url": "pic.twitter.com/B4s5or5UM1",
+					"expanded_url": "https://twitter.com/fromminn/status/1423607123292864518/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423607122227519500,
+					"id_str": "1423607122227519496",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GrIpQWYAgLs8H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GrIpQWYAgLs8H.jpg",
+					"url": "https://t.co/B4s5or5UM1",
+					"display_url": "pic.twitter.com/B4s5or5UM1",
+					"expanded_url": "https://twitter.com/fromminn/status/1423607123292864518/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44911,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \n‘콘셉트퀸’ 레드벨벳 아이린, 웬디, 예리 티저 이미지 공개! \nhttps://t.co/RebdxxJDcj \n \n#레드벨벳 #RedVelvet https://t.co/B4s5or5UM1"
+	},
+	{
+		"created_at": "Fri Aug 06 11:29:19 +0000 2021",
+		"id": 1423607111968305200,
+		"id_str": "1423607111968305154",
+		"full_text": "#SMTOWN #Artist_News \n‘블루버스데이’ 김예림(레드벨벳 예리), 상반된 표정의 스틸 공개! 궁금증 유발 \nhttps://t.co/4iaLh0jXPy \n \n#레드벨벳 #RedVelvet https://t.co/jhyourArWS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						101,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4iaLh0jXPy",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5288",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1423607110470938600,
+					"id_str": "1423607110470938625",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GrH9dXMAE08EF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GrH9dXMAE08EF.jpg",
+					"url": "https://t.co/jhyourArWS",
+					"display_url": "pic.twitter.com/jhyourArWS",
+					"expanded_url": "https://twitter.com/fromminn/status/1423607111968305154/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423607110470938600,
+					"id_str": "1423607110470938625",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GrH9dXMAE08EF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GrH9dXMAE08EF.jpg",
+					"url": "https://t.co/jhyourArWS",
+					"display_url": "pic.twitter.com/jhyourArWS",
+					"expanded_url": "https://twitter.com/fromminn/status/1423607111968305154/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44911,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \n‘블루버스데이’ 김예림(레드벨벳 예리), 상반된 표정의 스틸 공개! 궁금증 유발 \nhttps://t.co/4iaLh0jXPy \n \n#레드벨벳 #RedVelvet https://t.co/jhyourArWS"
+	},
+	{
+		"created_at": "Fri Aug 06 11:28:09 +0000 2021",
+		"id": 1423602707781230600,
+		"id_str": "1423606818735935495",
+		"full_text": "“Second” \n2021.08.09 6pm KST https://t.co/51PgnljxUN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1423602695034732500,
+					"id_str": "1423602695034732546",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GnG8rVgAIc9sb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GnG8rVgAIc9sb.jpg",
+					"url": "https://t.co/51PgnljxUN",
+					"display_url": "pic.twitter.com/51PgnljxUN",
+					"expanded_url": "https://twitter.com/Hyoyeon_djhyo/status/1423602707781230595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423602695034732500,
+					"id_str": "1423602695034732546",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GnG8rVgAIc9sb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GnG8rVgAIc9sb.jpg",
+					"url": "https://t.co/51PgnljxUN",
+					"display_url": "pic.twitter.com/51PgnljxUN",
+					"expanded_url": "https://twitter.com/Hyoyeon_djhyo/status/1423602707781230595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1423602695080796200,
+					"id_str": "1423602695080796161",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GnG82UYAETdSf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GnG82UYAETdSf.jpg",
+					"url": "https://t.co/51PgnljxUN",
+					"display_url": "pic.twitter.com/51PgnljxUN",
+					"expanded_url": "https://twitter.com/Hyoyeon_djhyo/status/1423602707781230595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1423602695089266700,
+					"id_str": "1423602695089266689",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GnG84VoAE318R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GnG84VoAE318R.jpg",
+					"url": "https://t.co/51PgnljxUN",
+					"display_url": "pic.twitter.com/51PgnljxUN",
+					"expanded_url": "https://twitter.com/Hyoyeon_djhyo/status/1423602707781230595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1423602695080841200,
+					"id_str": "1423602695080841220",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GnG82VEAQhR35.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GnG82VEAQhR35.jpg",
+					"url": "https://t.co/51PgnljxUN",
+					"display_url": "pic.twitter.com/51PgnljxUN",
+					"expanded_url": "https://twitter.com/Hyoyeon_djhyo/status/1423602707781230595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 792687101842186200,
+			"id_str": "792687101842186240",
+			"name": "Hyoyeon",
+			"screen_name": "Hyoyeon_djhyo",
+			"location": "K",
+			"description": "HyoYeon from Girls’ Generation DJ Hyo",
+			"url": "https://t.co/U9OPugEoAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U9OPugEoAv",
+							"expanded_url": "http://hyoyeon.smtown.com",
+							"display_url": "hyoyeon.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261430,
+			"friends_count": 9,
+			"listed_count": 585,
+			"created_at": "Sun Oct 30 11:18:27 +0000 2016",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422518129213669376/Svrk3sdy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422518129213669376/Svrk3sdy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/792687101842186240/1628169794",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1468,
+		"favorite_count": 2805,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Second” \n2021.08.09 6pm KST https://t.co/51PgnljxUN"
+	},
+	{
 		"created_at": "Fri Aug 06 10:48:06 +0000 2021",
 		"id": 1423596740922548200,
 		"id_str": "1423596740922548229",
@@ -141,7 +1367,7 @@ Grailbird.data.tweets_2021_08 =
 		"created_at": "Fri Aug 06 10:40:17 +0000 2021",
 		"id": 1422845240973484000,
 		"id_str": "1423594770681708548",
-		"full_text": "촬영장에 조명이 왜 필요하죠?🤷‍♀️\n우리 지은 배우 미소 한 번 이면\n온 세상이 환해지는데🌞💛😘\n\n8/6(금) 오후 6시🕕\n📺 #메가박스플러스엠 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 에서\n&lt;#드림&gt;(가제) 촬영 현장 밀착 취재 #독점공개\n\n#지은언니랑_아이컨택함 #성덕은웁니다\n#박서준 #이지은 #아이유 #영화드림 #이병헌감독 https://t.co/Ru317XZWeV",
+		"full_text": "촬영장에 조명이 왜 필요하죠?🤷♀️\n우리 지은 배우 미소 한 번 이면\n온 세상이 환해지는데🌞💛😘\n\n8/6(금) 오후 6시🕕\n📺 #메가박스플러스엠 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 에서\n&lt;#드림&gt;(가제) 촬영 현장 밀착 취재 #독점공개\n\n#지은언니랑_아이컨택함 #성덕은웁니다\n#박서준 #이지은 #아이유 #영화드림 #이병헌감독 https://t.co/Ru317XZWeV",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -381,7 +1607,7 @@ Grailbird.data.tweets_2021_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "촬영장에 조명이 왜 필요하죠?🤷‍♀️\n우리 지은 배우 미소 한 번 이면\n온 세상이 환해지는데🌞💛😘\n\n8/6(금) 오후 6시🕕\n📺 #메가박스플러스엠 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 에서\n&lt;#드림&gt;(가제) 촬영 현장 밀착 취재 #독점공개\n\n#지은언니랑_아이컨택함 #성덕은웁니다\n#박서준 #이지은 #아이유 #영화드림 #이병헌감독 https://t.co/Ru317XZWeV"
+		"text": "촬영장에 조명이 왜 필요하죠?🤷♀️\n우리 지은 배우 미소 한 번 이면\n온 세상이 환해지는데🌞💛😘\n\n8/6(금) 오후 6시🕕\n📺 #메가박스플러스엠 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 에서\n&lt;#드림&gt;(가제) 촬영 현장 밀착 취재 #독점공개\n\n#지은언니랑_아이컨택함 #성덕은웁니다\n#박서준 #이지은 #아이유 #영화드림 #이병헌감독 https://t.co/Ru317XZWeV"
 	},
 	{
 		"created_at": "Fri Aug 06 09:40:14 +0000 2021",
