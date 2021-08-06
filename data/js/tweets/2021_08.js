@@ -1,6 +1,701 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 06 06:40:32 +0000 2021",
+		"id": 1423530566800998400,
+		"id_str": "1423534438776987648",
+		"full_text": "✅ Online Store \nYES24(PC) : https://t.co/ZLDGWyOO5E\nYES24(MOBILE) : https://t.co/LqjwJwZfZE\nYES24(GLOBAL) : https://t.co/Ry36QvJGHl\n\n#Queendom #퀸덤 #레드벨벳 #RedVelvet\n#BeyondLIVE #비욘드라이브",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Queendom",
+					"indices": [
+						133,
+						142
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						143,
+						146
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						153,
+						163
+					]
+				},
+				{
+					"text": "BeyondLIVE",
+					"indices": [
+						164,
+						175
+					]
+				},
+				{
+					"text": "비욘드라이브",
+					"indices": [
+						176,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZLDGWyOO5E",
+					"expanded_url": "http://yes24.com/eWorld/EventWorld/Event?eventno=205648",
+					"display_url": "yes24.com/eWorld/EventWo…",
+					"indices": [
+						28,
+						51
+					]
+				},
+				{
+					"url": "https://t.co/LqjwJwZfZE",
+					"expanded_url": "http://m.yes24.com/Event/EventDetail?eventNo=205648",
+					"display_url": "m.yes24.com/Event/EventDet…",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/Ry36QvJGHl",
+					"expanded_url": "http://global.yes24.com/Event/205649",
+					"display_url": "global.yes24.com/Event/205649",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1423530508894441500,
+		"in_reply_to_status_id_str": "1423530508894441480",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4417203,
+			"friends_count": 1,
+			"listed_count": 9431,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2080,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 462,
+		"favorite_count": 1647,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✅ Online Store \nYES24(PC) : https://t.co/ZLDGWyOO5E\nYES24(MOBILE) : https://t.co/LqjwJwZfZE\nYES24(GLOBAL) : https://t.co/Ry36QvJGHl\n\n#Queendom #퀸덤 #레드벨벳 #RedVelvet\n#BeyondLIVE #비욘드라이브"
+	},
+	{
+		"created_at": "Fri Aug 06 06:40:28 +0000 2021",
+		"id": 1423530508894441500,
+		"id_str": "1423534421538377728",
+		"full_text": "Beyond LIVE - Red Velvet ONLINE FANMEETING 'inteRView vol.7 : Queendom'\nOFFICIAL MD 1st LINE UP ONLINE SALES NOTICE \n\n✅Sales Day\n2021. 08. 09 (MON) 15:00 ~ 2021. 08. 17 (TUE) 23:59 [KST]\n\n#Queendom #퀸덤 #레드벨벳 #RedVelvet\n#BeyondLIVE #비욘드라이브 https://t.co/2jdpDklR85",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Queendom",
+					"indices": [
+						188,
+						197
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						198,
+						201
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						202,
+						207
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						208,
+						218
+					]
+				},
+				{
+					"text": "BeyondLIVE",
+					"indices": [
+						219,
+						230
+					]
+				},
+				{
+					"text": "비욘드라이브",
+					"indices": [
+						231,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1423530275905040400,
+					"id_str": "1423530275905040388",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/E8FlPmZVcAQJA1Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8FlPmZVcAQJA1Z.jpg",
+					"url": "https://t.co/2jdpDklR85",
+					"display_url": "pic.twitter.com/2jdpDklR85",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1423530508894441480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 689,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 403,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 229,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423530275905040400,
+					"id_str": "1423530275905040388",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/E8FlPmZVcAQJA1Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8FlPmZVcAQJA1Z.jpg",
+					"url": "https://t.co/2jdpDklR85",
+					"display_url": "pic.twitter.com/2jdpDklR85",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1423530508894441480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 689,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 403,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 229,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1423530293911163000,
+					"id_str": "1423530293911162883",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/E8FlQpeVEAMuj73.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8FlQpeVEAMuj73.jpg",
+					"url": "https://t.co/2jdpDklR85",
+					"display_url": "pic.twitter.com/2jdpDklR85",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1423530508894441480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 191,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 576,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 338,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1423530312571625500,
+					"id_str": "1423530312571625475",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/E8FlRu_VIAMdCve.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8FlRu_VIAMdCve.jpg",
+					"url": "https://t.co/2jdpDklR85",
+					"display_url": "pic.twitter.com/2jdpDklR85",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1423530508894441480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 578,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 192,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 339,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1423530329088823300,
+					"id_str": "1423530329088823298",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/E8FlSshVkAIAQze.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8FlSshVkAIAQze.jpg",
+					"url": "https://t.co/2jdpDklR85",
+					"display_url": "pic.twitter.com/2jdpDklR85",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1423530508894441480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 242,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 728,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 427,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4417203,
+			"friends_count": 1,
+			"listed_count": 9431,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2080,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2930,
+		"favorite_count": 7741,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Beyond LIVE - Red Velvet ONLINE FANMEETING 'inteRView vol.7 : Queendom'\nOFFICIAL MD 1st LINE UP ONLINE SALES NOTICE \n\n✅Sales Day\n2021. 08. 09 (MON) 15:00 ~ 2021. 08. 17 (TUE) 23:59 [KST]\n\n#Queendom #퀸덤 #레드벨벳 #RedVelvet\n#BeyondLIVE #비욘드라이브 https://t.co/2jdpDklR85"
+	},
+	{
+		"created_at": "Fri Aug 06 06:37:46 +0000 2021",
+		"id": 1423533741759139800,
+		"id_str": "1423533741759139845",
+		"full_text": "#YG라이프 #YG엔터테인먼트 \n‘블랙핑크 섬’ 생겼다…YG ‘인 유어 에리아’ 오픈 \nhttps://t.co/UK5Dm2c1ZA \n \n#블랙핑크 #BLACKPINK https://t.co/O7NozMr1N6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						82,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UK5Dm2c1ZA",
+					"expanded_url": "https://yg-life.com/archives/169349?lang=ko",
+					"display_url": "yg-life.com/archives/16934…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1423533740773580800,
+					"id_str": "1423533740773580800",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/E8FoZSCXoAAFL7C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8FoZSCXoAAFL7C.jpg",
+					"url": "https://t.co/O7NozMr1N6",
+					"display_url": "pic.twitter.com/O7NozMr1N6",
+					"expanded_url": "https://twitter.com/fromminn/status/1423533741759139845/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 540,
+							"h": 304,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 304,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 304,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423533740773580800,
+					"id_str": "1423533740773580800",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/E8FoZSCXoAAFL7C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8FoZSCXoAAFL7C.jpg",
+					"url": "https://t.co/O7NozMr1N6",
+					"display_url": "pic.twitter.com/O7NozMr1N6",
+					"expanded_url": "https://twitter.com/fromminn/status/1423533741759139845/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 540,
+							"h": 304,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 304,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 304,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1052,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44911,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트 \n‘블랙핑크 섬’ 생겼다…YG ‘인 유어 에리아’ 오픈 \nhttps://t.co/UK5Dm2c1ZA \n \n#블랙핑크 #BLACKPINK https://t.co/O7NozMr1N6"
+	},
+	{
 		"created_at": "Fri Aug 06 05:45:36 +0000 2021",
 		"id": 1423513157075570700,
 		"id_str": "1423520614292283392",
