@@ -1,6 +1,164 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sat Aug 07 09:35:31 +0000 2021",
+		"id": 1423940862225141800,
+		"id_str": "1423940862225141762",
+		"full_text": "#오떼르 #Hauteurtheday \n[오떼르X김용명] 김용명이 자주 가는 백화점은? #Shorts \nhttps://t.co/TAaVDUpSmd \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오떼르",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "Hauteurtheday",
+					"indices": [
+						5,
+						19
+					]
+				},
+				{
+					"text": "Shorts",
+					"indices": [
+						48,
+						55
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "김지우",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						104,
+						106
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "츄튜브",
+					"indices": [
+						113,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TAaVDUpSmd",
+					"expanded_url": "https://youtu.be/dK98wOxAh-A",
+					"display_url": "youtu.be/dK98wOxAh-A",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44911,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오떼르 #Hauteurtheday \n[오떼르X김용명] 김용명이 자주 가는 백화점은? #Shorts \nhttps://t.co/TAaVDUpSmd \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브"
+	},
+	{
 		"created_at": "Sat Aug 07 07:40:09 +0000 2021",
 		"id": 1423904281652916200,
 		"id_str": "1423911830104285184",
