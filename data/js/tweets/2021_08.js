@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sat Aug 07 06:21:35 +0000 2021",
+		"id": 1423887605725220900,
+		"id_str": "1423892056418578436",
+		"full_text": "#헤어스타일리스트 #김귀애 와 #메이크업 아티스트 #이준성 과 함께하는 유튜브 콘텐츠! 옷차림은 수상해도 실력은 찐인 두 사람과 모델 #제니 가 디즈니 커버 메이크업에 도전했는데요! 과연 어떤 비주얼을 완성했을지? 궁금하다면 지금 확인해보세요!\n\n📲  https://t.co/5uhiLuPf0m https://t.co/tCM9sVWBMl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헤어스타일리스트",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "김귀애",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "메이크업",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "이준성",
+					"indices": [
+						28,
+						32
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						75,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5uhiLuPf0m",
+					"expanded_url": "https://bit.ly/3lG5jpW",
+					"display_url": "bit.ly/3lG5jpW",
+					"indices": [
+						141,
+						164
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1423887496463540200,
+					"id_str": "1423887496463540224",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1423887496463540224/pu/img/OxU9KKvo3B126Q4z.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1423887496463540224/pu/img/OxU9KKvo3B126Q4z.jpg",
+					"url": "https://t.co/tCM9sVWBMl",
+					"display_url": "pic.twitter.com/tCM9sVWBMl",
+					"expanded_url": "https://twitter.com/singlesmania/status/1423887605725220871/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423887496463540200,
+					"id_str": "1423887496463540224",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1423887496463540224/pu/img/OxU9KKvo3B126Q4z.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1423887496463540224/pu/img/OxU9KKvo3B126Q4z.jpg",
+					"url": "https://t.co/tCM9sVWBMl",
+					"display_url": "pic.twitter.com/tCM9sVWBMl",
+					"expanded_url": "https://twitter.com/singlesmania/status/1423887605725220871/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59900,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1423887496463540224/pu/vid/480x270/zoLQb9pfr_hcDP9N.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1423887496463540224/pu/vid/640x360/sR-t1hWdT3PKQAD9.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1423887496463540224/pu/pl/WYE7Zw4HxgIpRFk9.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 102038546,
+			"id_str": "102038546",
+			"name": "Singles Korea 싱글즈",
+			"screen_name": "singlesmania",
+			"location": "seoul",
+			"description": "당당한 싱글들을 위한 즐거운 패션 매거진 싱글즈.",
+			"url": "https://t.co/0AqlouNorT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0AqlouNorT",
+							"expanded_url": "http://linktr.ee/Singlesmagazine",
+							"display_url": "linktr.ee/Singlesmagazine",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26956,
+			"friends_count": 1,
+			"listed_count": 200,
+			"created_at": "Tue Jan 05 11:43:09 +0000 2010",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3575,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F3F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389450100162711553/CScqoQww_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389450100162711553/CScqoQww_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/102038546/1626535104",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCD",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#헤어스타일리스트 #김귀애 와 #메이크업 아티스트 #이준성 과 함께하는 유튜브 콘텐츠! 옷차림은 수상해도 실력은 찐인 두 사람과 모델 #제니 가 디즈니 커버 메이크업에 도전했는데요! 과연 어떤 비주얼을 완성했을지? 궁금하다면 지금 확인해보세요!\n\n📲  https://t.co/5uhiLuPf0m https://t.co/tCM9sVWBMl"
+	},
+	{
 		"created_at": "Sat Aug 07 05:53:28 +0000 2021",
 		"id": 1423884981575823400,
 		"id_str": "1423884981575823363",
