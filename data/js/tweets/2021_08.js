@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sat Aug 07 01:27:37 +0000 2021",
+		"id": 1423818078291431400,
+		"id_str": "1423818078291431424",
+		"full_text": "#알라딘 #앨범 #음반 \n이달의 소녀 미니 3집 [12:00] [C Ver.] (이달의 소녀다날 | 2021년 01월 | 22,300원) \nhttps://t.co/Vj4Ay1Gy3Y \n \n#이달의소녀 #LOONA https://t.co/yIeqBGUmf7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "알라딘",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "앨범",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "음반",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						112,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vj4Ay1Gy3Y",
+					"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?itemid=254676325",
+					"display_url": "aladin.co.kr/shop/wproduct.…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1423818077444231200,
+					"id_str": "1423818077444231170",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/E8Jq_2rX0AITp9J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8Jq_2rX0AITp9J.jpg",
+					"url": "https://t.co/yIeqBGUmf7",
+					"display_url": "pic.twitter.com/yIeqBGUmf7",
+					"expanded_url": "https://twitter.com/fromminn/status/1423818078291431424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423818077444231200,
+					"id_str": "1423818077444231170",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/E8Jq_2rX0AITp9J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8Jq_2rX0AITp9J.jpg",
+					"url": "https://t.co/yIeqBGUmf7",
+					"display_url": "pic.twitter.com/yIeqBGUmf7",
+					"expanded_url": "https://twitter.com/fromminn/status/1423818078291431424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44911,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83284,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#알라딘 #앨범 #음반 \n이달의 소녀 미니 3집 [12:00] [C Ver.] (이달의 소녀다날 | 2021년 01월 | 22,300원) \nhttps://t.co/Vj4Ay1Gy3Y \n \n#이달의소녀 #LOONA https://t.co/yIeqBGUmf7"
+	},
+	{
 		"created_at": "Fri Aug 06 18:40:09 +0000 2021",
 		"id": 1423712787214356500,
 		"id_str": "1423715536534376448",
