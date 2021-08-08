@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sun Aug 08 06:40:09 +0000 2021",
+		"id": 1423244653093032000,
+		"id_str": "1424259118458671104",
+		"full_text": "https://t.co/ETZ4bocaD4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1423243995623264300,
+					"id_str": "1423243995623264263",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1423243995623264263/pu/img/gKJkIUT8y0iw5xy2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1423243995623264263/pu/img/gKJkIUT8y0iw5xy2.jpg",
+					"url": "https://t.co/ETZ4bocaD4",
+					"display_url": "pic.twitter.com/ETZ4bocaD4",
+					"expanded_url": "https://twitter.com/animalsaura/status/1423244653093031938/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423243995623264300,
+					"id_str": "1423243995623264263",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1423243995623264263/pu/img/gKJkIUT8y0iw5xy2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1423243995623264263/pu/img/gKJkIUT8y0iw5xy2.jpg",
+					"url": "https://t.co/ETZ4bocaD4",
+					"display_url": "pic.twitter.com/ETZ4bocaD4",
+					"expanded_url": "https://twitter.com/animalsaura/status/1423244653093031938/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 14000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1423243995623264263/pu/pl/rnVi4sSMdKvldOEe.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1423243995623264263/pu/vid/320x400/se-fd55am53XNv0y.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1423243995623264263/pu/vid/480x600/2FdYBo7EJxJ5Iiwo.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1419245919153778700,
+			"id_str": "1419245919153778690",
+			"name": "animals with powerful aura",
+			"screen_name": "animalsaura",
+			"location": "",
+			"description": "We don't own content. Follow us and turn on notifications. DM for credit/removal/submission.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4623,
+			"friends_count": 1,
+			"listed_count": 17,
+			"created_at": "Sun Jul 25 10:40:02 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1423608194341904386/Lr0oRMSB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1423608194341904386/Lr0oRMSB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1419245919153778690/1628248051",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22301,
+		"favorite_count": 96754,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/ETZ4bocaD4"
+	},
+	{
 		"created_at": "Sun Aug 08 03:28:36 +0000 2021",
 		"id": 1424203717818060800,
 		"id_str": "1424210911112273920",
