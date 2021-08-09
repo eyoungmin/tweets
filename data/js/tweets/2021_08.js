@@ -1,6 +1,570 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 09 13:57:13 +0000 2021",
+		"id": 1424731496045326300,
+		"id_str": "1424731496045326342",
+		"full_text": "#YG라이프 #YG엔터테인먼트 \n블랙핑크, 176만 팬들과 5주년 자축…”함께한 여정 행운” \nhttps://t.co/vcnwavZSBh \n \n#블랙핑크 #BLACKPINK https://t.co/tCQJXONN6i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						86,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vcnwavZSBh",
+					"expanded_url": "https://yg-life.com/archives/169468?lang=ko",
+					"display_url": "yg-life.com/archives/16946…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1424731494443069400,
+					"id_str": "1424731494443069442",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E8WpvuKXMAIfW8Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8WpvuKXMAIfW8Q.jpg",
+					"url": "https://t.co/tCQJXONN6i",
+					"display_url": "pic.twitter.com/tCQJXONN6i",
+					"expanded_url": "https://twitter.com/fromminn/status/1424731496045326342/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 398,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 398,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 398,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1424731494443069400,
+					"id_str": "1424731494443069442",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E8WpvuKXMAIfW8Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8WpvuKXMAIfW8Q.jpg",
+					"url": "https://t.co/tCQJXONN6i",
+					"display_url": "pic.twitter.com/tCQJXONN6i",
+					"expanded_url": "https://twitter.com/fromminn/status/1424731496045326342/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 398,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 398,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 398,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트 \n블랙핑크, 176만 팬들과 5주년 자축…”함께한 여정 행운” \nhttps://t.co/vcnwavZSBh \n \n#블랙핑크 #BLACKPINK https://t.co/tCQJXONN6i"
+	},
+	{
+		"created_at": "Mon Aug 09 13:57:11 +0000 2021",
+		"id": 1424731489237934000,
+		"id_str": "1424731489237934090",
+		"full_text": "#YG라이프 #YG엔터테인먼트 \n제니 7억뷰 신기록…韓 여성 솔로 최초 \nhttps://t.co/bVm6Kuemdu \n \n#블랙핑크 #BLACKPINK https://t.co/s9ar3ugR2Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						74,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bVm6Kuemdu",
+					"expanded_url": "https://yg-life.com/archives/169463?lang=ko",
+					"display_url": "yg-life.com/archives/16946…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1424731488273244200,
+					"id_str": "1424731488273244161",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/E8WpvXLXIAE2DFQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8WpvXLXIAE2DFQ.jpg",
+					"url": "https://t.co/s9ar3ugR2Y",
+					"display_url": "pic.twitter.com/s9ar3ugR2Y",
+					"expanded_url": "https://twitter.com/fromminn/status/1424731489237934090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1424731488273244200,
+					"id_str": "1424731488273244161",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/E8WpvXLXIAE2DFQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8WpvXLXIAE2DFQ.jpg",
+					"url": "https://t.co/s9ar3ugR2Y",
+					"display_url": "pic.twitter.com/s9ar3ugR2Y",
+					"expanded_url": "https://twitter.com/fromminn/status/1424731489237934090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트 \n제니 7억뷰 신기록…韓 여성 솔로 최초 \nhttps://t.co/bVm6Kuemdu \n \n#블랙핑크 #BLACKPINK https://t.co/s9ar3ugR2Y"
+	},
+	{
+		"created_at": "Mon Aug 09 13:40:10 +0000 2021",
+		"id": 1424717646885314600,
+		"id_str": "1424727203074514944",
+		"full_text": "YESEO EP [TRY FREE!] \n“D-5”\n\n2021.08.14\n12PM (KST)\n\n💥Coming Soon✨\n\nAll Music Made by YESEO\nMixed by IMLAY\nMastered by 821 SOUND\nDistribution by Poclanos\n\nPhoto by Kim Moon Dog\nH&amp;M by Lee Eun Seo\nStyling by IBAEKILHO https://t.co/nuY253V7C3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1424717642057744400,
+					"id_str": "1424717642057744386",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/E8WdJaAVgAIOVj1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8WdJaAVgAIOVj1.jpg",
+					"url": "https://t.co/nuY253V7C3",
+					"display_url": "pic.twitter.com/nuY253V7C3",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1424717646885314563/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 820,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 820,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1424717642057744400,
+					"id_str": "1424717642057744386",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/E8WdJaAVgAIOVj1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8WdJaAVgAIOVj1.jpg",
+					"url": "https://t.co/nuY253V7C3",
+					"display_url": "pic.twitter.com/nuY253V7C3",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1424717646885314563/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 820,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 820,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 748,
+			"friends_count": 3,
+			"listed_count": 19,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305497822712623104/FY-WtTfo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305497822712623104/FY-WtTfo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1601735780",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YESEO EP [TRY FREE!] \n“D-5”\n\n2021.08.14\n12PM (KST)\n\n💥Coming Soon✨\n\nAll Music Made by YESEO\nMixed by IMLAY\nMastered by 821 SOUND\nDistribution by Poclanos\n\nPhoto by Kim Moon Dog\nH&amp;M by Lee Eun Seo\nStyling by IBAEKILHO https://t.co/nuY253V7C3"
+	},
+	{
 		"created_at": "Mon Aug 09 12:58:13 +0000 2021",
 		"id": 1424716649622560800,
 		"id_str": "1424716649622560771",
