@@ -1,6 +1,880 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 09 07:40:18 +0000 2021",
+		"id": 1424625304903950300,
+		"id_str": "1424636643714256897",
+		"full_text": "JENNIE ‘SOLO’ M/V HITS 700 MILLION VIEWS @Youtube \nBLINKs worldwide Thank you so much!\n\n'SOLO' M/V\n🎥https://t.co/rAxtSggqOe\n\n#BLACKPINK #블랙핑크 #JENNIE #제니 #SOLO #MV #700MILLION #YOUTUBE #YG https://t.co/RyV6geUy8Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						125,
+						135
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						142,
+						149
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "SOLO",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "700MILLION",
+					"indices": [
+						164,
+						175
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						176,
+						184
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						185,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						41,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rAxtSggqOe",
+					"expanded_url": "https://youtu.be/b73BI9eUkjM",
+					"display_url": "youtu.be/b73BI9eUkjM",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1424622816066904000,
+					"id_str": "1424622816066904064",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/E8VG5zqVoAAtX9M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8VG5zqVoAAtX9M.jpg",
+					"url": "https://t.co/RyV6geUy8Z",
+					"display_url": "pic.twitter.com/RyV6geUy8Z",
+					"expanded_url": "https://twitter.com/ygent_official/status/1424625304903950337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1424622816066904000,
+					"id_str": "1424622816066904064",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/E8VG5zqVoAAtX9M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8VG5zqVoAAtX9M.jpg",
+					"url": "https://t.co/RyV6geUy8Z",
+					"display_url": "pic.twitter.com/RyV6geUy8Z",
+					"expanded_url": "https://twitter.com/ygent_official/status/1424625304903950337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7813524,
+			"friends_count": 36,
+			"listed_count": 8649,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7164,
+		"favorite_count": 21737,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "JENNIE ‘SOLO’ M/V HITS 700 MILLION VIEWS @Youtube \nBLINKs worldwide Thank you so much!\n\n'SOLO' M/V\n🎥https://t.co/rAxtSggqOe\n\n#BLACKPINK #블랙핑크 #JENNIE #제니 #SOLO #MV #700MILLION #YOUTUBE #YG https://t.co/RyV6geUy8Z"
+	},
+	{
+		"created_at": "Mon Aug 09 07:29:39 +0000 2021",
+		"id": 1424632139992080400,
+		"id_str": "1424633960160763904",
+		"full_text": "[#VLIVE] 무더위를 시원하게 날려 줄🍹 썸머 퀸 #효연 의 &lt;Second&gt; 카운트다운 라이브가💙 잠시 후 시작됩니다!🏝️ 청량함 가득 썸머 바이브를 풀 충전하고 싶다면〰️🌊 오늘 오후 5시에 효여니가 기다리고있는 VLIVE로 꼭 찾아오세HYO😘\n\n▶️ https://t.co/M1EuizdudM\n\n#HYO #소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VLIVE",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						180,
+						185
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						186,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M1EuizdudM",
+					"expanded_url": "https://www.vlive.tv/video/258340",
+					"display_url": "vlive.tv/video/258340",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6476945,
+			"friends_count": 167,
+			"listed_count": 2995,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 191,
+		"favorite_count": 1169,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VLIVE] 무더위를 시원하게 날려 줄🍹 썸머 퀸 #효연 의 &lt;Second&gt; 카운트다운 라이브가💙 잠시 후 시작됩니다!🏝️ 청량함 가득 썸머 바이브를 풀 충전하고 싶다면〰️🌊 오늘 오후 5시에 효여니가 기다리고있는 VLIVE로 꼭 찾아오세HYO😘\n\n▶️ https://t.co/M1EuizdudM\n\n#HYO #소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Mon Aug 09 07:28:52 +0000 2021",
+		"id": 1424625477952557000,
+		"id_str": "1424633765209403398",
+		"full_text": "JENNIE ‘SOLO’ M/V HITS 700 MILLION VIEWS \n@Youtube\n \nBLINKs worldwide Thank you so much!\n\n'SOLO' M/V\n🎥https://t.co/bngYBZlYIA\n\n#BLACKPINK #블랙핑크 #JENNIE #제니 #SOLO #MV #700MILLION #YOUTUBE #YG https://t.co/Plu2CrCjTE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						127,
+						137
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "JENNIE",
+					"indices": [
+						144,
+						151
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "SOLO",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						162,
+						165
+					]
+				},
+				{
+					"text": "700MILLION",
+					"indices": [
+						166,
+						177
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						178,
+						186
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						187,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						42,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bngYBZlYIA",
+					"expanded_url": "https://youtu.be/b73BI9eUkjM",
+					"display_url": "youtu.be/b73BI9eUkjM",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1424625375993155600,
+					"id_str": "1424625375993155587",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/E8VJO0IUUAM2eVB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8VJO0IUUAM2eVB.jpg",
+					"url": "https://t.co/Plu2CrCjTE",
+					"display_url": "pic.twitter.com/Plu2CrCjTE",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1424625477952557057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1424625375993155600,
+					"id_str": "1424625375993155587",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/E8VJO0IUUAM2eVB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8VJO0IUUAM2eVB.jpg",
+					"url": "https://t.co/Plu2CrCjTE",
+					"display_url": "pic.twitter.com/Plu2CrCjTE",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1424625477952557057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/aWhwrQsIZl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aWhwrQsIZl",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4401666,
+			"friends_count": 0,
+			"listed_count": 6183,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311878593278996481/WPvQDNTP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1623718900",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16334,
+		"favorite_count": 40988,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "JENNIE ‘SOLO’ M/V HITS 700 MILLION VIEWS \n@Youtube\n \nBLINKs worldwide Thank you so much!\n\n'SOLO' M/V\n🎥https://t.co/bngYBZlYIA\n\n#BLACKPINK #블랙핑크 #JENNIE #제니 #SOLO #MV #700MILLION #YOUTUBE #YG https://t.co/Plu2CrCjTE"
+	},
+	{
+		"created_at": "Mon Aug 09 07:11:30 +0000 2021",
+		"id": 1424629395721949200,
+		"id_str": "1424629395721949184",
+		"full_text": "#SMTOWN #Artist_News \n효연 (HYO) 신곡 ‘Second’ 9일 오후 6시 공개! \nhttps://t.co/cIz2LVoHTp \n \n#소녀시대 #GirlsGeneration https://t.co/ymMnt812NP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						90,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cIz2LVoHTp",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5297",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1424629394455285800,
+					"id_str": "1424629394455285764",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/E8VM4uEWUAQibeg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8VM4uEWUAQibeg.jpg",
+					"url": "https://t.co/ymMnt812NP",
+					"display_url": "pic.twitter.com/ymMnt812NP",
+					"expanded_url": "https://twitter.com/fromminn/status/1424629395721949184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1424629394455285800,
+					"id_str": "1424629394455285764",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/E8VM4uEWUAQibeg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8VM4uEWUAQibeg.jpg",
+					"url": "https://t.co/ymMnt812NP",
+					"display_url": "pic.twitter.com/ymMnt812NP",
+					"expanded_url": "https://twitter.com/fromminn/status/1424629395721949184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44910,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \n효연 (HYO) 신곡 ‘Second’ 9일 오후 6시 공개! \nhttps://t.co/cIz2LVoHTp \n \n#소녀시대 #GirlsGeneration https://t.co/ymMnt812NP"
+	},
+	{
 		"created_at": "Mon Aug 09 06:40:18 +0000 2021",
 		"id": 1424621171094347800,
 		"id_str": "1424621541124411395",
