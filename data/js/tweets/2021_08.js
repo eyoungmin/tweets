@@ -1,6 +1,1294 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 10 08:40:09 +0000 2021",
+		"id": 1425003987787337700,
+		"id_str": "1425014092901802037",
+		"full_text": "#少女時代 #HYO (@gg_official_jp)\n新曲「Second feat. BIBI」配信中🏖️\n#ヒョヨン からメッセージをお届け🌈💕\n\nヒョヨナと #BIBI ちゃんの歌声が心地よいサマーソング😌🌴まさに今の時期にぴったりの一曲を #AmazonMusic で楽しんでね💘👉https://t.co/AelMgXSLVX\n@GirlsGeneration https://t.co/tZwrW5Wqlc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "少女時代",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						6,
+						10
+					]
+				},
+				{
+					"text": "ヒョヨン",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "BIBI",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "AmazonMusic",
+					"indices": [
+						125,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gg_official_jp",
+					"name": "少女時代 JAPAN OFFICIAL",
+					"id": 2585025200,
+					"id_str": "2585025200",
+					"indices": [
+						12,
+						27
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						170,
+						186
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AelMgXSLVX",
+					"expanded_url": "https://amzn.to/3AxpmLt",
+					"display_url": "amzn.to/3AxpmLt",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1424994304582250500,
+					"id_str": "1424994304582250501",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/E8aY4s-VoAc7I2p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8aY4s-VoAc7I2p.jpg",
+					"url": "https://t.co/tZwrW5Wqlc",
+					"display_url": "pic.twitter.com/tZwrW5Wqlc",
+					"expanded_url": "https://twitter.com/amazonmusicjp/status/1425003987787337737/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1424994304582250500,
+					"id_str": "1424994304582250501",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/E8aY4s-VoAc7I2p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8aY4s-VoAc7I2p.jpg",
+					"url": "https://t.co/tZwrW5Wqlc",
+					"display_url": "pic.twitter.com/tZwrW5Wqlc",
+					"expanded_url": "https://twitter.com/amazonmusicjp/status/1425003987787337737/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 16683,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1424994304582250501/pl/V7UOseiCiAfqRaW5.m3u8?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1424994304582250501/vid/320x320/6bXxQhN4Ss8k8fAz.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1424994304582250501/vid/720x720/BrGIV3vbxzmvS5dO.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1424994304582250501/vid/540x540/Xw56ELn4uBS-UPJQ.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910751840492412900,
+			"id_str": "910751840492412928",
+			"name": "Amazon Music JP",
+			"screen_name": "amazonmusicjp",
+			"location": "",
+			"description": "好きな音楽を好きなだけ🎵\n音楽聴き放題サービス、Amazon Music（アマゾンミュージック）の公式Twitterです。最新の音楽情報や、お得なキャンペーン、ここでしか見られないアーティストのオリジナルコンテンツなどを配信中！",
+			"url": "https://t.co/EKRnscsj5m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EKRnscsj5m",
+							"expanded_url": "https://www.amazon.co.jp/amu",
+							"display_url": "amazon.co.jp/amu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 159770,
+			"friends_count": 2199,
+			"listed_count": 458,
+			"created_at": "Thu Sep 21 06:25:34 +0000 2017",
+			"favourites_count": 1751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 380112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065506331203780608/LcW1Gjrh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065506331203780608/LcW1Gjrh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910751840492412928/1602644189",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 123,
+		"favorite_count": 263,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#少女時代 #HYO (@gg_official_jp)\n新曲「Second feat. BIBI」配信中🏖️\n#ヒョヨン からメッセージをお届け🌈💕\n\nヒョヨナと #BIBI ちゃんの歌声が心地よいサマーソング😌🌴まさに今の時期にぴったりの一曲を #AmazonMusic で楽しんでね💘👉https://t.co/AelMgXSLVX\n@GirlsGeneration https://t.co/tZwrW5Wqlc"
+	},
+	{
+		"created_at": "Tue Aug 10 08:39:21 +0000 2021",
+		"id": 1425013891529072600,
+		"id_str": "1425013891529072649",
+		"full_text": "#카카오TV #톡이나할까 #김이나\n49회. 죽음의 실무자 편\nhttps://t.co/NNbYAbooAn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "카카오TV",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "톡이나할까",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "김이나",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NNbYAbooAn",
+					"expanded_url": "https://tv.kakao.com/channel/3647846/cliplink/421395399",
+					"display_url": "tv.kakao.com/channel/364784…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#카카오TV #톡이나할까 #김이나\n49회. 죽음의 실무자 편\nhttps://t.co/NNbYAbooAn"
+	},
+	{
+		"created_at": "Tue Aug 10 08:39:20 +0000 2021",
+		"id": 1425013887850762200,
+		"id_str": "1425013887850762240",
+		"full_text": "#카카오TV #톡이나할까 #김이나\n그가 원하는 마지막 삶을 살 수 있도록..\nhttps://t.co/Y6dt70zEhA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "카카오TV",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "톡이나할까",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "김이나",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y6dt70zEhA",
+					"expanded_url": "https://tv.kakao.com/channel/3647846/cliplink/421381906",
+					"display_url": "tv.kakao.com/channel/364784…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#카카오TV #톡이나할까 #김이나\n그가 원하는 마지막 삶을 살 수 있도록..\nhttps://t.co/Y6dt70zEhA"
+	},
+	{
+		"created_at": "Tue Aug 10 08:39:20 +0000 2021",
+		"id": 1425013884813992000,
+		"id_str": "1425013884813991937",
+		"full_text": "#카카오TV #톡이나할까 #김이나\n의뢰인을 방해한 이유 \"구해달라는 다른 표현이라 생각합니다\"\nhttps://t.co/E9MBl51SMj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "카카오TV",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "톡이나할까",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "김이나",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E9MBl51SMj",
+					"expanded_url": "https://tv.kakao.com/channel/3647846/cliplink/421381774",
+					"display_url": "tv.kakao.com/channel/364784…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#카카오TV #톡이나할까 #김이나\n의뢰인을 방해한 이유 \"구해달라는 다른 표현이라 생각합니다\"\nhttps://t.co/E9MBl51SMj"
+	},
+	{
+		"created_at": "Tue Aug 10 08:39:19 +0000 2021",
+		"id": 1425013882641391600,
+		"id_str": "1425013882641391616",
+		"full_text": "#카카오TV #톡이나할까 #김이나\n장례지도사에게 밝히는 이나의 장례 계획!!?\nhttps://t.co/b38blB5WZG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "카카오TV",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "톡이나할까",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "김이나",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b38blB5WZG",
+					"expanded_url": "https://tv.kakao.com/channel/3647846/cliplink/421381675",
+					"display_url": "tv.kakao.com/channel/364784…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#카카오TV #톡이나할까 #김이나\n장례지도사에게 밝히는 이나의 장례 계획!!?\nhttps://t.co/b38blB5WZG"
+	},
+	{
+		"created_at": "Tue Aug 10 08:29:43 +0000 2021",
+		"id": 1425003988836049000,
+		"id_str": "1425011465099042842",
+		"full_text": "내가 이런말을 했다고😮❓ 믿기지 않는 효연 어록 모음📁부터 효연이 듣고 소녀시대 멤버들 집합 시키고 싶었던 노래🎵까지 \n바쁜 일상 속 잠깐의 여유가 되어줄 효연의 #아이돌등판 😘 지금 확인하세HYO❗\n\n▶https://t.co/7zd6iUUnhC\n\n#효연 #HYO #Second #세컨드 #IDDP @GirlsGeneration https://t.co/7E6Fr6RGtT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌등판",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						148,
+						155
+					]
+				},
+				{
+					"text": "세컨드",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "IDDP",
+					"indices": [
+						161,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						167,
+						183
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7zd6iUUnhC",
+					"expanded_url": "https://youtu.be/IzBs5n8nSX4",
+					"display_url": "youtu.be/IzBs5n8nSX4",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1424993476018466800,
+					"id_str": "1424993476018466817",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E8adzBlUUAMbtKD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8adzBlUUAMbtKD.jpg",
+					"url": "https://t.co/7E6Fr6RGtT",
+					"display_url": "pic.twitter.com/7E6Fr6RGtT",
+					"expanded_url": "https://twitter.com/1theK/status/1425003988836048914/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1424993476018466800,
+					"id_str": "1424993476018466817",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E8adzBlUUAMbtKD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8adzBlUUAMbtKD.jpg",
+					"url": "https://t.co/7E6Fr6RGtT",
+					"display_url": "pic.twitter.com/7E6Fr6RGtT",
+					"expanded_url": "https://twitter.com/1theK/status/1425003988836048914/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 116783,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1424993476018466817/pl/Ya5JVCTclRRA70rP.m3u8?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1424993476018466817/vid/640x360/-0tv0dZiExZvrEPW.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1424993476018466817/vid/1280x720/k27I7O_Pus3pmPgy.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1424993476018466817/vid/480x270/4SX09jrvRrcha6KK.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/IzBs5n8nSX4"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakaoent.com",
+			"url": "https://t.co/BmRz0LNeFc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BmRz0LNeFc",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2258414,
+			"friends_count": 817,
+			"listed_count": 2060,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 14933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23324,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1628577938",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 419,
+		"favorite_count": 558,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내가 이런말을 했다고😮❓ 믿기지 않는 효연 어록 모음📁부터 효연이 듣고 소녀시대 멤버들 집합 시키고 싶었던 노래🎵까지 \n바쁜 일상 속 잠깐의 여유가 되어줄 효연의 #아이돌등판 😘 지금 확인하세HYO❗\n\n▶https://t.co/7zd6iUUnhC\n\n#효연 #HYO #Second #세컨드 #IDDP @GirlsGeneration https://t.co/7E6Fr6RGtT"
+	},
+	{
+		"created_at": "Tue Aug 10 08:29:40 +0000 2021",
+		"id": 1425002707828445200,
+		"id_str": "1425011452050563110",
+		"full_text": "HYO's BACK! 👏🏻👏🏻🌟\n#AweSMCorner kali ini #HYO akan menjawab berbagai pertanyaan mulai dari lirik favorit di lagu \"Second\" hingga kegiatan pertama yang dilakukan ketika sampai rumah. Check it out!🔥\n\n#효연 #Second #GirlsGeneration\n#AweSMCorner_HYO @Hyoyeon_djhyo @GirlsGeneration https://t.co/a67yUtrBIu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AweSMCorner",
+					"indices": [
+						18,
+						30
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						197,
+						200
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						201,
+						208
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						209,
+						225
+					]
+				},
+				{
+					"text": "AweSMCorner_HYO",
+					"indices": [
+						226,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						243,
+						257
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						258,
+						274
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1424980244277072000,
+					"id_str": "1424980244277071872",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/E8aOSk-UYAgHpfo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8aOSk-UYAgHpfo.jpg",
+					"url": "https://t.co/a67yUtrBIu",
+					"display_url": "pic.twitter.com/a67yUtrBIu",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1425002707828445185/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1424980244277072000,
+					"id_str": "1424980244277071872",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/E8aOSk-UYAgHpfo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8aOSk-UYAgHpfo.jpg",
+					"url": "https://t.co/a67yUtrBIu",
+					"display_url": "pic.twitter.com/a67yUtrBIu",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1425002707828445185/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 144033,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1424980244277071872/vid/1280x720/CgNYjJ_Wkd3O8CCO.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1424980244277071872/vid/640x360/LyiKpzxfigvyzZSs.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1424980244277071872/vid/480x270/OOZWmwdDjej55lDR.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1424980244277071872/pl/muRIVQFy0yBlP8Nk.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "AweSM Corner with 효연 (HYO) : Rapid Question Challenge",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 635809,
+			"friends_count": 34,
+			"listed_count": 418,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 86,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2305,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 199,
+		"favorite_count": 751,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "HYO's BACK! 👏🏻👏🏻🌟\n#AweSMCorner kali ini #HYO akan menjawab berbagai pertanyaan mulai dari lirik favorit di lagu \"Second\" hingga kegiatan pertama yang dilakukan ketika sampai rumah. Check it out!🔥\n\n#효연 #Second #GirlsGeneration\n#AweSMCorner_HYO @Hyoyeon_djhyo @GirlsGeneration https://t.co/a67yUtrBIu"
+	},
+	{
 		"created_at": "Tue Aug 10 07:40:25 +0000 2021",
 		"id": 1424997803655274500,
 		"id_str": "1424999058813464576",
