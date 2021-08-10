@@ -1,6 +1,841 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 10 09:40:12 +0000 2021",
+		"id": 1425019134891397000,
+		"id_str": "1425029201644687361",
+		"full_text": "#少女時代 の #HYO がニューシングル『Second (feat. BIBI) 』リリース。\n\n今すぐビデオメッセージとともにチェックしよう。\n\n@gg_official_jp\n\n#AppleMusic\nhttps://t.co/P22uILtfmz https://t.co/D6bLqRasWO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "少女時代",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "AppleMusic",
+					"indices": [
+						92,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gg_official_jp",
+					"name": "少女時代 JAPAN OFFICIAL",
+					"id": 2585025200,
+					"id_str": "2585025200",
+					"indices": [
+						75,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/P22uILtfmz",
+					"expanded_url": "https://apple.co/3AyvIu5",
+					"display_url": "apple.co/3AyvIu5",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1425019087168721000,
+					"id_str": "1425019087168720901",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1425019087168720901/img/_f9hwM90G7s5Iwff.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1425019087168720901/img/_f9hwM90G7s5Iwff.jpg",
+					"url": "https://t.co/D6bLqRasWO",
+					"display_url": "pic.twitter.com/D6bLqRasWO",
+					"expanded_url": "https://twitter.com/AppleMusicJapan/status/1425019134891397120/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425019087168721000,
+					"id_str": "1425019087168720901",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1425019087168720901/img/_f9hwM90G7s5Iwff.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1425019087168720901/img/_f9hwM90G7s5Iwff.jpg",
+					"url": "https://t.co/D6bLqRasWO",
+					"display_url": "pic.twitter.com/D6bLqRasWO",
+					"expanded_url": "https://twitter.com/AppleMusicJapan/status/1425019134891397120/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 17201,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1425019087168720901/vid/480x270/8q2x3XRDROH8hdWD.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1425019087168720901/vid/640x360/bKL56iK8T4iy2jo_.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1425019087168720901/vid/1280x720/v2RCGLwwtXrljCce.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1425019087168720901/pl/UH4ztz7bu8ahXYIO.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3156009252,
+			"id_str": "3156009252",
+			"name": "Apple Music Japan",
+			"screen_name": "AppleMusicJapan",
+			"location": "",
+			"description": "音楽の楽しみ方のすべてを一つに。",
+			"url": "http://t.co/PlNpH897yT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/PlNpH897yT",
+							"expanded_url": "http://apple.com/jp/music",
+							"display_url": "apple.com/jp/music",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86879,
+			"friends_count": 14,
+			"listed_count": 728,
+			"created_at": "Tue Apr 14 12:51:17 +0000 2015",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306029440145584128/Ykxqjhoi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306029440145584128/Ykxqjhoi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3156009252/1600216658",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 274,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#少女時代 の #HYO がニューシングル『Second (feat. BIBI) 』リリース。\n\n今すぐビデオメッセージとともにチェックしよう。\n\n@gg_official_jp\n\n#AppleMusic\nhttps://t.co/P22uILtfmz https://t.co/D6bLqRasWO"
+	},
+	{
+		"created_at": "Tue Aug 10 09:40:09 +0000 2021",
+		"id": 1425019087349026800,
+		"id_str": "1425029192572456967",
+		"full_text": "#少女時代 の #HYO (@Hyoyeon_djhyo) が\n5thシングル\"#Second (Feat.BIBI)\" \nでカムバック🎊\n\n彼女のパワフルな歌声を堪能できる\nポジティブなサマーダンスポップ🏖🎶\n\nビデオコメントと合わせて\n#Spotify でチェックしてみて😎\n▶︎https://t.co/Ft5hybUleX\n\n@GirlsGeneration \n@gg_official_jp https://t.co/CGN8cx4VA7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "少女時代",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						120,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						167,
+						183
+					]
+				},
+				{
+					"screen_name": "gg_official_jp",
+					"name": "少女時代 JAPAN OFFICIAL",
+					"id": 2585025200,
+					"id_str": "2585025200",
+					"indices": [
+						185,
+						200
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ft5hybUleX",
+					"expanded_url": "https://spoti.fi/3CvuscN",
+					"display_url": "spoti.fi/3CvuscN",
+					"indices": [
+						142,
+						165
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1424951001056825300,
+					"id_str": "1424951001056825345",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1424951001056825345/img/kSrYDuMkejUH1Kdw.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1424951001056825345/img/kSrYDuMkejUH1Kdw.jpg",
+					"url": "https://t.co/CGN8cx4VA7",
+					"display_url": "pic.twitter.com/CGN8cx4VA7",
+					"expanded_url": "https://twitter.com/SpotifyJP/status/1425019087349026816/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1424951001056825300,
+					"id_str": "1424951001056825345",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1424951001056825345/img/kSrYDuMkejUH1Kdw.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1424951001056825345/img/kSrYDuMkejUH1Kdw.jpg",
+					"url": "https://t.co/CGN8cx4VA7",
+					"display_url": "pic.twitter.com/CGN8cx4VA7",
+					"expanded_url": "https://twitter.com/SpotifyJP/status/1425019087349026816/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 22472,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1424951001056825345/vid/540x540/yB6-AuRgnPa4Gema.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1424951001056825345/vid/320x320/_nkC3xiAjovCshQN.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1424951001056825345/vid/720x720/wrcTJw1aU8iuVfOA.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1424951001056825345/pl/LG7PXwOp12Cgd8X6.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 749773449459937300,
+			"id_str": "749773449459937280",
+			"name": "Spotify Japan",
+			"screen_name": "SpotifyJP",
+			"location": "日本 東京",
+			"description": "音楽から、ポッドキャストまで。すべては音からはじまる🎧 世界で3億6500万人以上のファンに選ばれている、オーディオ ストリーミングサービスSpotify（スポティファイ）。 #すべては音からはじまる カスタマーサポート：@SpotifyCaresJP",
+			"url": "https://t.co/8TdfuriFMo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8TdfuriFMo",
+							"expanded_url": "https://www.spotifypremium.jp/",
+							"display_url": "spotifypremium.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 205399,
+			"friends_count": 1598,
+			"listed_count": 1051,
+			"created_at": "Mon Jul 04 01:14:55 +0000 2016",
+			"favourites_count": 13246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212038380407513088/P9PqU4OY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212038380407513088/P9PqU4OY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/749773449459937280/1623769225",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 170,
+		"favorite_count": 339,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#少女時代 の #HYO (@Hyoyeon_djhyo) が\n5thシングル\"#Second (Feat.BIBI)\" \nでカムバック🎊\n\n彼女のパワフルな歌声を堪能できる\nポジティブなサマーダンスポップ🏖🎶\n\nビデオコメントと合わせて\n#Spotify でチェックしてみて😎\n▶︎https://t.co/Ft5hybUleX\n\n@GirlsGeneration \n@gg_official_jp https://t.co/CGN8cx4VA7"
+	},
+	{
+		"created_at": "Tue Aug 10 09:22:24 +0000 2021",
+		"id": 1425019088787722200,
+		"id_str": "1425024721779712002",
+		"full_text": "#블랙핑크 #제니 가 즐겨 입는 '베이비 티셔츠' 어디서 살까?\nhttps://t.co/Z5wWFAjXiu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						6,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z5wWFAjXiu",
+					"expanded_url": "https://www.wkorea.com/2020/05/28/%EB%B8%94%ED%95%91-%EC%A0%9C%EB%8B%88%EA%B0%80-%EC%A6%90%EA%B2%A8%EC%9E%85%EB%8A%94-%EB%B2%A0%EC%9D%B4%EB%B9%84%ED%8B%B0-%EC%A7%81%EA%B5%AC-%EC%A2%8C%ED%91%9C/?ddw=93480&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2020/05/28/%EB…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5xzw0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5xzw0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283486,
+			"friends_count": 0,
+			"listed_count": 813,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12677,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1627020150",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 204,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#블랙핑크 #제니 가 즐겨 입는 '베이비 티셔츠' 어디서 살까?\nhttps://t.co/Z5wWFAjXiu"
+	},
+	{
+		"created_at": "Tue Aug 10 09:12:13 +0000 2021",
+		"id": 1425020238416912400,
+		"id_str": "1425022161257844739",
+		"full_text": "ADOY 3rd EP album [her]\n\nRelease date\n2021.08.15 6PM KST\n\n#ADOY https://t.co/81kLhjD2gG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ADOY",
+					"indices": [
+						58,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1425020229227192300,
+					"id_str": "1425020229227192321",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E8awWTDVIAEo02O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8awWTDVIAEo02O.jpg",
+					"url": "https://t.co/81kLhjD2gG",
+					"display_url": "pic.twitter.com/81kLhjD2gG",
+					"expanded_url": "https://twitter.com/adoyband/status/1425020238416912385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425020229227192300,
+					"id_str": "1425020229227192321",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E8awWTDVIAEo02O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8awWTDVIAEo02O.jpg",
+					"url": "https://t.co/81kLhjD2gG",
+					"display_url": "pic.twitter.com/81kLhjD2gG",
+					"expanded_url": "https://twitter.com/adoyband/status/1425020238416912385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/LF4K4WcWrD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF4K4WcWrD",
+							"expanded_url": "https://orcd.co/adoybaby",
+							"display_url": "orcd.co/adoybaby",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4518,
+			"friends_count": 504,
+			"listed_count": 42,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1625820897",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ADOY 3rd EP album [her]\n\nRelease date\n2021.08.15 6PM KST\n\n#ADOY https://t.co/81kLhjD2gG"
+	},
+	{
 		"created_at": "Tue Aug 10 08:40:09 +0000 2021",
 		"id": 1425003987787337700,
 		"id_str": "1425014092901802037",
