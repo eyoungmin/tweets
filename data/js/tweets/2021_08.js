@@ -1,6 +1,632 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 10 01:45:36 +0000 2021",
+		"id": 1424897282596507600,
+		"id_str": "1424909768301350912",
+		"full_text": "제작진 놈들한테 농락당했습니다....(feat. 고원&amp;하슬)\n\n#아이돌그라운드 #이달의소녀 #LOONA\n#진솔 #JinSoul #성대모사\n\nhttps://t.co/iE6dUnZeIi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌그라운드",
+					"indices": [
+						39,
+						47
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						66,
+						74
+					]
+				},
+				{
+					"text": "성대모사",
+					"indices": [
+						75,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iE6dUnZeIi",
+					"expanded_url": "https://www.youtube.com/watch?v=4cDAD_Lanmk",
+					"display_url": "youtube.com/watch?v=4cDAD_…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906055771921629200,
+			"id_str": "906055771921629184",
+			"name": "나돌(NADOL)",
+			"screen_name": "ae_ssr",
+			"location": "대한민국 중구",
+			"description": "KPOP 스타들의 매력발산 채널 '나도 아이돌이다'",
+			"url": "https://t.co/W4BmT5ww9v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W4BmT5ww9v",
+							"expanded_url": "https://www.youtube.com/channel/UC3pk0eDcZx_oYGCWNyJpjMQ/featured?view_as=subscriber",
+							"display_url": "youtube.com/channel/UC3pk0…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1814,
+			"friends_count": 96,
+			"listed_count": 17,
+			"created_at": "Fri Sep 08 07:25:04 +0000 2017",
+			"favourites_count": 38,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1318368541406494720/fyadTBj2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318368541406494720/fyadTBj2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906055771921629184/1603158530",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제작진 놈들한테 농락당했습니다....(feat. 고원&amp;하슬)\n\n#아이돌그라운드 #이달의소녀 #LOONA\n#진솔 #JinSoul #성대모사\n\nhttps://t.co/iE6dUnZeIi"
+	},
+	{
+		"created_at": "Tue Aug 10 01:40:25 +0000 2021",
+		"id": 1424902655843864600,
+		"id_str": "1424908460680953858",
+		"full_text": "#이달의소녀 는 늘 게임에 진심인 편🔥 이모지 맞히기🤔에 불타오른 소녀들의 열정을 코스모폴리탄 'That’s So Emo' 영상을 통해 확인하세요🐰🐱🕊🐸🦌🦉🐟🦇🦢🐧🦋🐺\n\n▶️ https://t.co/52YIsuYfFy\n\n#LOONA https://t.co/7tChPGY5SJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						123,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/52YIsuYfFy",
+					"expanded_url": "https://youtu.be/_QGVMd4YWgk",
+					"display_url": "youtu.be/_QGVMd4YWgk",
+					"indices": [
+						98,
+						121
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1424902613103906800,
+					"id_str": "1424902613103906841",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1424902613103906841/pu/img/7j3F4DDnw1LwlAHF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1424902613103906841/pu/img/7j3F4DDnw1LwlAHF.jpg",
+					"url": "https://t.co/7tChPGY5SJ",
+					"display_url": "pic.twitter.com/7tChPGY5SJ",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1424902655843864590/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1424902613103906800,
+					"id_str": "1424902613103906841",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1424902613103906841/pu/img/7j3F4DDnw1LwlAHF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1424902613103906841/pu/img/7j3F4DDnw1LwlAHF.jpg",
+					"url": "https://t.co/7tChPGY5SJ",
+					"display_url": "pic.twitter.com/7tChPGY5SJ",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1424902655843864590/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 17834,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1424902613103906841/pu/pl/76HkYZNNeQIhwoLF.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1424902613103906841/pu/vid/320x568/YVNy_wHC3X7sbpdL.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1424902613103906841/pu/vid/720x1280/hL9FP86J-gRILR8w.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1424902613103906841/pu/vid/480x852/xM19YXkHA5wkAk5Z.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 788219,
+			"friends_count": 1,
+			"listed_count": 7811,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2923,
+		"favorite_count": 10439,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 는 늘 게임에 진심인 편🔥 이모지 맞히기🤔에 불타오른 소녀들의 열정을 코스모폴리탄 'That’s So Emo' 영상을 통해 확인하세요🐰🐱🕊🐸🦌🦉🐟🦇🦢🐧🦋🐺\n\n▶️ https://t.co/52YIsuYfFy\n\n#LOONA https://t.co/7tChPGY5SJ"
+	},
+	{
+		"created_at": "Tue Aug 10 01:40:09 +0000 2021",
+		"id": 1424898417583558700,
+		"id_str": "1424908396814286849",
+		"full_text": "#BLACKPINK 5th ANNIVERSARY [4+1] POP-UP \n\n📢온라인 사전 예약 방법 및 유의사항 안내 \n✔️https://t.co/9nj8aQ3a9v\n\n#블랙핑크 #4PLUS1_POPUP #20210821 #OPEN #5thANNIVERSARY #4PLUS1_PROJECT #YG https://t.co/6NT7OCyivm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "4PLUS1_POPUP",
+					"indices": [
+						100,
+						113
+					]
+				},
+				{
+					"text": "OPEN",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "5thANNIVERSARY",
+					"indices": [
+						130,
+						145
+					]
+				},
+				{
+					"text": "4PLUS1_PROJECT",
+					"indices": [
+						146,
+						161
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						162,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9nj8aQ3a9v",
+					"expanded_url": "https://www.facebook.com/BLACKPINKOFFICIAL/posts/367886144701193",
+					"display_url": "facebook.com/BLACKPINKOFFIC…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1424896041493549000,
+					"id_str": "1424896041493549057",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E8Y_ZnsVUAEPQAS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8Y_ZnsVUAEPQAS.jpg",
+					"url": "https://t.co/6NT7OCyivm",
+					"display_url": "pic.twitter.com/6NT7OCyivm",
+					"expanded_url": "https://twitter.com/ygent_official/status/1424898417583558666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1424896041493549000,
+					"id_str": "1424896041493549057",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E8Y_ZnsVUAEPQAS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8Y_ZnsVUAEPQAS.jpg",
+					"url": "https://t.co/6NT7OCyivm",
+					"display_url": "pic.twitter.com/6NT7OCyivm",
+					"expanded_url": "https://twitter.com/ygent_official/status/1424898417583558666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7815518,
+			"friends_count": 36,
+			"listed_count": 8649,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3899,
+		"favorite_count": 19403,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BLACKPINK 5th ANNIVERSARY [4+1] POP-UP \n\n📢온라인 사전 예약 방법 및 유의사항 안내 \n✔️https://t.co/9nj8aQ3a9v\n\n#블랙핑크 #4PLUS1_POPUP #20210821 #OPEN #5thANNIVERSARY #4PLUS1_PROJECT #YG https://t.co/6NT7OCyivm"
+	},
+	{
 		"created_at": "Mon Aug 09 15:10:03 +0000 2021",
 		"id": 1424748629680525300,
 		"id_str": "1424749825686392832",
