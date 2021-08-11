@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 11 19:40:24 +0000 2021",
+		"id": 1425532691613687800,
+		"id_str": "1425542635746377732",
+		"full_text": "@XandYWillFixYou @SkyFullofXyloto @coldplayarobtth Very well, thanks for asking. A",
+		"truncated": false,
+		"display_text_range": [
+			51,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "XandYWillFixYou",
+					"name": "Roberto🌌",
+					"id": 1251234735579451400,
+					"id_str": "1251234735579451392",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "SkyFullofXyloto",
+					"name": "O✨MOTS IS COMING👽📻 🪐",
+					"id": 1414757580820385800,
+					"id_str": "1414757580820385807",
+					"indices": [
+						17,
+						33
+					]
+				},
+				{
+					"screen_name": "coldplayarobtth",
+					"name": "Dan 👽📻",
+					"id": 1963095073,
+					"id_str": "1963095073",
+					"indices": [
+						34,
+						50
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1425530647230271500,
+		"in_reply_to_status_id_str": "1425530647230271489",
+		"in_reply_to_user_id": 1251234735579451400,
+		"in_reply_to_user_id_str": "1251234735579451392",
+		"in_reply_to_screen_name": "XandYWillFixYou",
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Coloratura",
+			"description": "The official Twitter of the band Coldplay. New album, Music Of The Spheres, out October 15th, 2021.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23004308,
+			"friends_count": 767,
+			"listed_count": 42706,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@XandYWillFixYou @SkyFullofXyloto @coldplayarobtth Very well, thanks for asking. A"
+	},
+	{
+		"created_at": "Wed Aug 11 19:40:18 +0000 2021",
+		"id": 1425530308166832000,
+		"id_str": "1425542610064715785",
+		"full_text": "@SkyFullofXyloto @coldplayarobtth Oh, that’s odd. Please try contact@coldplay.com A",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SkyFullofXyloto",
+					"name": "O✨MOTS IS COMING👽📻 🪐",
+					"id": 1414757580820385800,
+					"id_str": "1414757580820385807",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "coldplayarobtth",
+					"name": "Dan 👽📻",
+					"id": 1963095073,
+					"id_str": "1963095073",
+					"indices": [
+						17,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1425528714398421000,
+		"in_reply_to_status_id_str": "1425528714398420996",
+		"in_reply_to_user_id": 1414757580820385800,
+		"in_reply_to_user_id_str": "1414757580820385807",
+		"in_reply_to_screen_name": "SkyFullofXyloto",
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Coloratura",
+			"description": "The official Twitter of the band Coldplay. New album, Music Of The Spheres, out October 15th, 2021.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23004308,
+			"friends_count": 767,
+			"listed_count": 42706,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@SkyFullofXyloto @coldplayarobtth Oh, that’s odd. Please try contact@coldplay.com A"
+	},
+	{
 		"created_at": "Wed Aug 11 18:40:09 +0000 2021",
 		"id": 1425524574733705200,
 		"id_str": "1425527475862396932",
