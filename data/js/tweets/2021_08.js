@@ -1,6 +1,987 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 11 11:36:13 +0000 2021",
+		"id": 1425420788392366000,
+		"id_str": "1425420788392366083",
+		"full_text": "지니가 잼스라는 이름을 버리고 지니 오리지널로 바꿨다. 솔직히 이쯤되면 연락한 번 줘야 하는 것 아닌가 싶다.  @genieoriginal https://t.co/MxweVLQMc6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "genieoriginal",
+					"name": "genie original",
+					"id": 1125666048135458800,
+					"id_str": "1125666048135458817",
+					"indices": [
+						63,
+						77
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MxweVLQMc6",
+					"expanded_url": "https://twitter.com/fromminn/status/1318165730668412929",
+					"display_url": "twitter.com/fromminn/statu…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1318165730668413000,
+		"quoted_status_id_str": "1318165730668412929",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MxweVLQMc6",
+			"expanded": "https://twitter.com/fromminn/status/1318165730668412929",
+			"display": "twitter.com/fromminn/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 19 12:22:55 +0000 2020",
+			"id": 1318165730668413000,
+			"id_str": "1318165730668412929",
+			"full_text": "미안한 말이지만 잼스도 마찬가지. 콘텐츠 채널을 만들었는데 이렇게 흑백으로 할 것이 아니라 지니의 콘텐츠 채널임을 알릴 수 있게 통일감을 주고 특징이 있어야 한다. 잼스가 어떤 것을 하는 채널인지 전혀 드러나지 않는다. @gems_genie \n\n#뮤직비지니스 #브랜딩 #지니 #genie https://t.co/Z355jkiRPA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				160
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "뮤직비지니스",
+						"indices": [
+							137,
+							144
+						]
+					},
+					{
+						"text": "브랜딩",
+						"indices": [
+							145,
+							149
+						]
+					},
+					{
+						"text": "지니",
+						"indices": [
+							150,
+							153
+						]
+					},
+					{
+						"text": "genie",
+						"indices": [
+							154,
+							160
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1318164986682699800,
+						"id_str": "1318164986682699781",
+						"indices": [
+							161,
+							184
+						],
+						"media_url": "http://pbs.twimg.com/media/EksQEkqUcAUCX6M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EksQEkqUcAUCX6M.jpg",
+						"url": "https://t.co/Z355jkiRPA",
+						"display_url": "pic.twitter.com/Z355jkiRPA",
+						"expanded_url": "https://twitter.com/fromminn/status/1318165730668412929/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1318164986682699800,
+						"id_str": "1318164986682699781",
+						"indices": [
+							161,
+							184
+						],
+						"media_url": "http://pbs.twimg.com/media/EksQEkqUcAUCX6M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EksQEkqUcAUCX6M.jpg",
+						"url": "https://t.co/Z355jkiRPA",
+						"display_url": "pic.twitter.com/Z355jkiRPA",
+						"expanded_url": "https://twitter.com/fromminn/status/1318165730668412929/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1318164760228028400,
+			"in_reply_to_status_id_str": "1318164760228028417",
+			"in_reply_to_user_id": 4531360753,
+			"in_reply_to_user_id_str": "4531360753",
+			"in_reply_to_screen_name": "fromminn",
+			"user": {
+				"id": 4531360753,
+				"id_str": "4531360753",
+				"name": "MINN",
+				"screen_name": "fromminn",
+				"location": "",
+				"description": "덕질과 음악에 대해 이야기 합니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 315,
+				"friends_count": 1050,
+				"listed_count": 6,
+				"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+				"favourites_count": 44909,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 83467,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E4E4E4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+				"profile_link_color": "848484",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지니가 잼스라는 이름을 버리고 지니 오리지널로 바꿨다. 솔직히 이쯤되면 연락한 번 줘야 하는 것 아닌가 싶다.  @genieoriginal https://t.co/MxweVLQMc6"
+	},
+	{
+		"created_at": "Wed Aug 11 11:29:39 +0000 2021",
+		"id": 1425411678812786700,
+		"id_str": "1425419133206859781",
+		"full_text": "❤️효연이 dgg에 왔닷❤️\n시원한 썸머 힐링송🏖 #Second 으로 돌아온 #효연 🎶\n#HYO 의 댄스 퍼포먼스⭐️\n내일 #dgg 에서 보고 쉬어가세요!😍\n@Hyoyeon_djhyo\n\nHYO - Second   퍼포먼스 공개\n&gt;&gt; 8/12(목) 오후 8시 (KST) dingo global #DGG \n\n#HYOxBiBi_Second #DJHYOisBack #MOVEREC #dingo_global #딩고 https://t.co/zOpU6Qf39f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Second",
+					"indices": [
+						28,
+						35
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						43,
+						46
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "dgg",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "DGG",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "HYOxBiBi_Second",
+					"indices": [
+						176,
+						192
+					]
+				},
+				{
+					"text": "DJHYOisBack",
+					"indices": [
+						193,
+						205
+					]
+				},
+				{
+					"text": "MOVEREC",
+					"indices": [
+						206,
+						214
+					]
+				},
+				{
+					"text": "dingo_global",
+					"indices": [
+						215,
+						228
+					]
+				},
+				{
+					"text": "딩고",
+					"indices": [
+						229,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						88,
+						102
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1425395551076425700,
+					"id_str": "1425395551076425728",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1425395551076425728/pu/img/bqFoNI7VgfPEGQbL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1425395551076425728/pu/img/bqFoNI7VgfPEGQbL.jpg",
+					"url": "https://t.co/zOpU6Qf39f",
+					"display_url": "pic.twitter.com/zOpU6Qf39f",
+					"expanded_url": "https://twitter.com/dingo_dgg/status/1425411678812786695/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425395551076425700,
+					"id_str": "1425395551076425728",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1425395551076425728/pu/img/bqFoNI7VgfPEGQbL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1425395551076425728/pu/img/bqFoNI7VgfPEGQbL.jpg",
+					"url": "https://t.co/zOpU6Qf39f",
+					"display_url": "pic.twitter.com/zOpU6Qf39f",
+					"expanded_url": "https://twitter.com/dingo_dgg/status/1425411678812786695/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 12279,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1425395551076425728/pu/vid/1280x720/zKIJ9rw3K_dzBUhK.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1425395551076425728/pu/vid/480x270/71L67VphuCsr6S7e.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1425395551076425728/pu/pl/mdegnsY6cGG4WhaS.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1425395551076425728/pu/vid/640x360/x1-Al5TUmH1JlvtQ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377863784560128000,
+			"id_str": "1377863784560128002",
+			"name": "dgg",
+			"screen_name": "dingo_dgg",
+			"location": "대한민국",
+			"description": "dingo global official twitter! hey DGG🙋🏻‍♀️안녕 내 이름은 디지지❤️💚",
+			"url": "https://t.co/632yww1729",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/632yww1729",
+							"expanded_url": "https://youtube.com/c/dingoglobaldgg",
+							"display_url": "youtube.com/c/dingoglobald…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2474,
+			"friends_count": 1,
+			"listed_count": 10,
+			"created_at": "Fri Apr 02 06:01:48 +0000 2021",
+			"favourites_count": 151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1392389133864079361/lFsx6_0p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1392389133864079361/lFsx6_0p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377863784560128002/1620806464",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 624,
+		"favorite_count": 1163,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤️효연이 dgg에 왔닷❤️\n시원한 썸머 힐링송🏖 #Second 으로 돌아온 #효연 🎶\n#HYO 의 댄스 퍼포먼스⭐️\n내일 #dgg 에서 보고 쉬어가세요!😍\n@Hyoyeon_djhyo\n\nHYO - Second   퍼포먼스 공개\n&gt;&gt; 8/12(목) 오후 8시 (KST) dingo global #DGG \n\n#HYOxBiBi_Second #DJHYOisBack #MOVEREC #dingo_global #딩고 https://t.co/zOpU6Qf39f"
+	},
+	{
+		"created_at": "Wed Aug 11 11:29:25 +0000 2021",
+		"id": 1425411940621324300,
+		"id_str": "1425419078571761672",
+		"full_text": "TAEYEON 태연 l 효연 (HYO) ‘Second (Feat. 비비 (BIBI))' MV Reaction\n\n👉🏻 https://t.co/d5rA58wyBE\n\n#효연 #HYO #Second\n#태연 #TAEYEON\n#소녀시대 #GirlsGeneration\n#MV #Reaction",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "효연",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						111,
+						119
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						126,
+						142
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						143,
+						146
+					]
+				},
+				{
+					"text": "Reaction",
+					"indices": [
+						147,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d5rA58wyBE",
+					"expanded_url": "https://youtu.be/Mtvml5_C4zM",
+					"display_url": "youtu.be/Mtvml5_C4zM",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3657844,
+			"friends_count": 4,
+			"listed_count": 5498,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1628046003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2639,
+		"favorite_count": 4371,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TAEYEON 태연 l 효연 (HYO) ‘Second (Feat. 비비 (BIBI))' MV Reaction\n\n👉🏻 https://t.co/d5rA58wyBE\n\n#효연 #HYO #Second\n#태연 #TAEYEON\n#소녀시대 #GirlsGeneration\n#MV #Reaction"
+	},
+	{
+		"created_at": "Wed Aug 11 11:22:39 +0000 2021",
+		"id": 1425411678305403000,
+		"id_str": "1425417374262468611",
+		"full_text": "금발 미쳐따.. 하이틴 주인공 뱃지 달아주고싶은 스타 5\n\n#태연 #Weekend #소녀시대 #선미 #6분의1 #로제 #블랙핑크 #전소미 #아이오아이 #현아 #레트로 #금발 #하이틴 #아이돌 #여돌 #kpop\nhttps://t.co/Y3T8lue90c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						33,
+						36
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						37,
+						45
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "선미",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "6분의1",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "전소미",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "아이오아이",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "현아",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "레트로",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "금발",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "하이틴",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "아이돌",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "여돌",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "kpop",
+					"indices": [
+						111,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y3T8lue90c",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/57564?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/57564?…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88940,
+			"friends_count": 4,
+			"listed_count": 398,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "금발 미쳐따.. 하이틴 주인공 뱃지 달아주고싶은 스타 5\n\n#태연 #Weekend #소녀시대 #선미 #6분의1 #로제 #블랙핑크 #전소미 #아이오아이 #현아 #레트로 #금발 #하이틴 #아이돌 #여돌 #kpop\nhttps://t.co/Y3T8lue90c"
+	},
+	{
 		"created_at": "Wed Aug 11 11:01:33 +0000 2021",
 		"id": 1425412064294625300,
 		"id_str": "1425412064294625294",
