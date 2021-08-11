@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 11 13:40:14 +0000 2021",
+		"id": 1425443432713969700,
+		"id_str": "1425451995721314305",
+		"full_text": "YESEO EP [TRY FREE!] \n“D-3”\n\n2021.08.14\n12PM (KST)\n\n✨REAL✨ 💕SOON💕\n\nAll Music Made by YESEO\nMixed by IMLAY\nMastered by 권남우 @ 821 SOUND\nDistribution by Poclanos\n\nPhoto by Kim Moon Dog\nH&amp;M by Lee Eun Seo\nStyling by IBAEKILHO\n\nSupported by KOCCA\nMUSE ON https://t.co/7jXc5Obnz2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1425443418860261400,
+					"id_str": "1425443418860261392",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/E8gxPLSVkBAai_j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8gxPLSVkBAai_j.jpg",
+					"url": "https://t.co/7jXc5Obnz2",
+					"display_url": "pic.twitter.com/7jXc5Obnz2",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1425443432713969668/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425443418860261400,
+					"id_str": "1425443418860261392",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/E8gxPLSVkBAai_j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8gxPLSVkBAai_j.jpg",
+					"url": "https://t.co/7jXc5Obnz2",
+					"display_url": "pic.twitter.com/7jXc5Obnz2",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1425443432713969668/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 751,
+			"friends_count": 3,
+			"listed_count": 19,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305497822712623104/FY-WtTfo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305497822712623104/FY-WtTfo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1601735780",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YESEO EP [TRY FREE!] \n“D-3”\n\n2021.08.14\n12PM (KST)\n\n✨REAL✨ 💕SOON💕\n\nAll Music Made by YESEO\nMixed by IMLAY\nMastered by 권남우 @ 821 SOUND\nDistribution by Poclanos\n\nPhoto by Kim Moon Dog\nH&amp;M by Lee Eun Seo\nStyling by IBAEKILHO\n\nSupported by KOCCA\nMUSE ON https://t.co/7jXc5Obnz2"
+	},
+	{
 		"created_at": "Wed Aug 11 13:01:48 +0000 2021",
 		"id": 1425442326529417200,
 		"id_str": "1425442326529417222",
