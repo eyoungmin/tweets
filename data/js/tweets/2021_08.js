@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 12 15:22:58 +0000 2021",
+		"id": 1425836975001645000,
+		"id_str": "1425840240577507331",
+		"full_text": "여신 강림이요! 로제, 강민경 픽 쿨한 썸머 원피스✨\n\n#로제 #강민경 #원피스 #진주 #손목시계 #아비에무아 #박규영 #오렌지 #블랙핑크 #BLACKPINK #표예진 #도연 #백리스 #여름코디\nhttps://t.co/nJ1sXzvEnC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로제",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "강민경",
+					"indices": [
+						35,
+						39
+					]
+				},
+				{
+					"text": "원피스",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "진주",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "손목시계",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "아비에무아",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "박규영",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "오렌지",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						78,
+						88
+					]
+				},
+				{
+					"text": "표예진",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "도연",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "백리스",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "여름코디",
+					"indices": [
+						103,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nJ1sXzvEnC",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/57561?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/57561?…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88936,
+			"friends_count": 4,
+			"listed_count": 398,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12953,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여신 강림이요! 로제, 강민경 픽 쿨한 썸머 원피스✨\n\n#로제 #강민경 #원피스 #진주 #손목시계 #아비에무아 #박규영 #오렌지 #블랙핑크 #BLACKPINK #표예진 #도연 #백리스 #여름코디\nhttps://t.co/nJ1sXzvEnC"
+	},
+	{
 		"created_at": "Thu Aug 12 15:11:23 +0000 2021",
 		"id": 1425827812821196800,
 		"id_str": "1425837322432512008",
@@ -230,7 +436,7 @@ Grailbird.data.tweets_2021_08 =
 		"created_at": "Thu Aug 12 15:11:23 +0000 2021",
 		"id": 1425827133088174000,
 		"id_str": "1425837322415665162",
-		"full_text": "#슬기zip 손님들 위해 슬쩍 공개😉 \n\n오직 #슬기 📁 에서만 전시되는 세계가 주목하는 강화백👩🏻‍🎨 갓벽 작품🖼  \n\n손님들은 쥔님의 일상이 궁금해❓ 궁금해🤔 #SEULGI 🏡 오기 전 쥔님의 하루 함께 봐요😍\n\nEvery Tue, Thu 10PM 슬기zip https://t.co/oH9zJRET7p",
+		"full_text": "#슬기zip 손님들 위해 슬쩍 공개😉 \n\n오직 #슬기 📁 에서만 전시되는 세계가 주목하는 강화백👩🏻🎨 갓벽 작품🖼  \n\n손님들은 쥔님의 일상이 궁금해❓ 궁금해🤔 #SEULGI 🏡 오기 전 쥔님의 하루 함께 봐요😍\n\nEvery Tue, Thu 10PM 슬기zip https://t.co/oH9zJRET7p",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -457,7 +663,7 @@ Grailbird.data.tweets_2021_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#슬기zip 손님들 위해 슬쩍 공개😉 \n\n오직 #슬기 📁 에서만 전시되는 세계가 주목하는 강화백👩🏻‍🎨 갓벽 작품🖼  \n\n손님들은 쥔님의 일상이 궁금해❓ 궁금해🤔 #SEULGI 🏡 오기 전 쥔님의 하루 함께 봐요😍\n\nEvery Tue, Thu 10PM 슬기zip https://t.co/oH9zJRET7p"
+		"text": "#슬기zip 손님들 위해 슬쩍 공개😉 \n\n오직 #슬기 📁 에서만 전시되는 세계가 주목하는 강화백👩🏻🎨 갓벽 작품🖼  \n\n손님들은 쥔님의 일상이 궁금해❓ 궁금해🤔 #SEULGI 🏡 오기 전 쥔님의 하루 함께 봐요😍\n\nEvery Tue, Thu 10PM 슬기zip https://t.co/oH9zJRET7p"
 	},
 	{
 		"created_at": "Thu Aug 12 15:09:48 +0000 2021",
