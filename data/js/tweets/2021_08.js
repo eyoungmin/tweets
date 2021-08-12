@@ -1,6 +1,1117 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 12 15:11:23 +0000 2021",
+		"id": 1425827812821196800,
+		"id_str": "1425837322432512008",
+		"full_text": "#슬기zip 어릴 때도 완벽 그 자체✨ 울 쥔님 갓기시절👼🏻❤ 귀여운 #슬기 는 손님들이랑 다같이 보기🐻\n\nEvery Tue, Thu 10PM 슬기zip https://t.co/LBUQzujbgf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						39,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1425827787651248000,
+					"id_str": "1425827787651248135",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/E8mO0YnVcAcKLpO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8mO0YnVcAcKLpO.jpg",
+					"url": "https://t.co/LBUQzujbgf",
+					"display_url": "pic.twitter.com/LBUQzujbgf",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1425827812821196802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 585,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 929,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 929,
+							"h": 1079,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425827787651248000,
+					"id_str": "1425827787651248135",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/E8mO0YnVcAcKLpO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8mO0YnVcAcKLpO.jpg",
+					"url": "https://t.co/LBUQzujbgf",
+					"display_url": "pic.twitter.com/LBUQzujbgf",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1425827812821196802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 585,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 929,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 929,
+							"h": 1079,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1425827803367309300,
+					"id_str": "1425827803367309321",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/E8mO1TKVgAku8te.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8mO1TKVgAku8te.jpg",
+					"url": "https://t.co/LBUQzujbgf",
+					"display_url": "pic.twitter.com/LBUQzujbgf",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1425827812821196802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 557,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1023,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 838,
+							"h": 1023,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39446,
+			"friends_count": 1,
+			"listed_count": 221,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1621911527",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1889,
+		"favorite_count": 3076,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 어릴 때도 완벽 그 자체✨ 울 쥔님 갓기시절👼🏻❤ 귀여운 #슬기 는 손님들이랑 다같이 보기🐻\n\nEvery Tue, Thu 10PM 슬기zip https://t.co/LBUQzujbgf"
+	},
+	{
+		"created_at": "Thu Aug 12 15:11:23 +0000 2021",
+		"id": 1425827133088174000,
+		"id_str": "1425837322415665162",
+		"full_text": "#슬기zip 손님들 위해 슬쩍 공개😉 \n\n오직 #슬기 📁 에서만 전시되는 세계가 주목하는 강화백👩🏻‍🎨 갓벽 작품🖼  \n\n손님들은 쥔님의 일상이 궁금해❓ 궁금해🤔 #SEULGI 🏡 오기 전 쥔님의 하루 함께 봐요😍\n\nEvery Tue, Thu 10PM 슬기zip https://t.co/oH9zJRET7p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						26,
+						29
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						91,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1425827030369587200,
+					"id_str": "1425827030369587205",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/E8mOIThUUAUYnO6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8mOIThUUAUYnO6.jpg",
+					"url": "https://t.co/oH9zJRET7p",
+					"display_url": "pic.twitter.com/oH9zJRET7p",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1425827133088174086/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425827030369587200,
+					"id_str": "1425827030369587205",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/E8mOIThUUAUYnO6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8mOIThUUAUYnO6.jpg",
+					"url": "https://t.co/oH9zJRET7p",
+					"display_url": "pic.twitter.com/oH9zJRET7p",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1425827133088174086/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1425827119708266500,
+					"id_str": "1425827119708266498",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/E8mONgVUYAITNuu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8mONgVUYAITNuu.jpg",
+					"url": "https://t.co/oH9zJRET7p",
+					"display_url": "pic.twitter.com/oH9zJRET7p",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1425827133088174086/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 903,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1435,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39446,
+			"friends_count": 1,
+			"listed_count": 221,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1621911527",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 769,
+		"favorite_count": 1580,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 손님들 위해 슬쩍 공개😉 \n\n오직 #슬기 📁 에서만 전시되는 세계가 주목하는 강화백👩🏻‍🎨 갓벽 작품🖼  \n\n손님들은 쥔님의 일상이 궁금해❓ 궁금해🤔 #SEULGI 🏡 오기 전 쥔님의 하루 함께 봐요😍\n\nEvery Tue, Thu 10PM 슬기zip https://t.co/oH9zJRET7p"
+	},
+	{
+		"created_at": "Thu Aug 12 15:09:48 +0000 2021",
+		"id": 1425834710572355600,
+		"id_str": "1425836925240463365",
+		"full_text": "레드벨벳 Red Velvet The 6th Mini Album ‘Queendom’ – Carnival \n\n🎧 2021.8.16. 6PM KST\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet\n#슬기 #SEULGI https://t.co/1Zj3Zuw5Ss",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Queendom",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						101,
+						111
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						116,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1425808087651291100,
+					"id_str": "1425808087651291137",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/E8l85sZVkAEWi54.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8l85sZVkAEWi54.jpg",
+					"url": "https://t.co/1Zj3Zuw5Ss",
+					"display_url": "pic.twitter.com/1Zj3Zuw5Ss",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1425834710572355585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425808087651291100,
+					"id_str": "1425808087651291137",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/E8l85sZVkAEWi54.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8l85sZVkAEWi54.jpg",
+					"url": "https://t.co/1Zj3Zuw5Ss",
+					"display_url": "pic.twitter.com/1Zj3Zuw5Ss",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1425834710572355585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1425808087747756000,
+					"id_str": "1425808087747756036",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/E8l85swVgAQYKtE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8l85swVgAQYKtE.jpg",
+					"url": "https://t.co/1Zj3Zuw5Ss",
+					"display_url": "pic.twitter.com/1Zj3Zuw5Ss",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1425834710572355585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1425808088762704000,
+					"id_str": "1425808088762703879",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/E8l85wiUYAcc4bW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8l85wiUYAcc4bW.jpg",
+					"url": "https://t.co/1Zj3Zuw5Ss",
+					"display_url": "pic.twitter.com/1Zj3Zuw5Ss",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1425834710572355585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1425808088771092500,
+					"id_str": "1425808088771092496",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/E8l85wkUYBAPUz-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8l85wkUYBAPUz-.jpg",
+					"url": "https://t.co/1Zj3Zuw5Ss",
+					"display_url": "pic.twitter.com/1Zj3Zuw5Ss",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1425834710572355585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4443694,
+			"friends_count": 1,
+			"listed_count": 9478,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23345,
+		"favorite_count": 38418,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "레드벨벳 Red Velvet The 6th Mini Album ‘Queendom’ – Carnival \n\n🎧 2021.8.16. 6PM KST\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet\n#슬기 #SEULGI https://t.co/1Zj3Zuw5Ss"
+	},
+	{
+		"created_at": "Thu Aug 12 15:09:43 +0000 2021",
+		"id": 1425834470783996000,
+		"id_str": "1425836903786598408",
+		"full_text": "레드벨벳 Red Velvet The 6th Mini Album ‘Queendom’ – Carnival \n\n🎧 2021.8.16. 6PM KST\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet\n#아이린 #IRENE https://t.co/s3j2EEeZx2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Queendom",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						101,
+						111
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						117,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1425807796415598600,
+					"id_str": "1425807796415598600",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/E8l8ovdVkAgP1xi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8l8ovdVkAgP1xi.jpg",
+					"url": "https://t.co/s3j2EEeZx2",
+					"display_url": "pic.twitter.com/s3j2EEeZx2",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1425834470783995904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425807796415598600,
+					"id_str": "1425807796415598600",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/E8l8ovdVkAgP1xi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8l8ovdVkAgP1xi.jpg",
+					"url": "https://t.co/s3j2EEeZx2",
+					"display_url": "pic.twitter.com/s3j2EEeZx2",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1425834470783995904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1425807796415602700,
+					"id_str": "1425807796415602701",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/E8l8ovdVoA0FQ3N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8l8ovdVoA0FQ3N.jpg",
+					"url": "https://t.co/s3j2EEeZx2",
+					"display_url": "pic.twitter.com/s3j2EEeZx2",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1425834470783995904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1425807796415602700,
+					"id_str": "1425807796415602694",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/E8l8ovdVoAY4JBQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8l8ovdVoAY4JBQ.jpg",
+					"url": "https://t.co/s3j2EEeZx2",
+					"display_url": "pic.twitter.com/s3j2EEeZx2",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1425834470783995904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1425807796411400200,
+					"id_str": "1425807796411400193",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/E8l8ovcVgAE7uxu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8l8ovcVgAE7uxu.jpg",
+					"url": "https://t.co/s3j2EEeZx2",
+					"display_url": "pic.twitter.com/s3j2EEeZx2",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1425834470783995904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 797,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1361,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4443694,
+			"friends_count": 1,
+			"listed_count": 9478,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26956,
+		"favorite_count": 43565,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "레드벨벳 Red Velvet The 6th Mini Album ‘Queendom’ – Carnival \n\n🎧 2021.8.16. 6PM KST\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet\n#아이린 #IRENE https://t.co/s3j2EEeZx2"
+	},
+	{
 		"created_at": "Thu Aug 12 13:44:38 +0000 2021",
 		"id": 1425815493324116000,
 		"id_str": "1425815493324115978",
