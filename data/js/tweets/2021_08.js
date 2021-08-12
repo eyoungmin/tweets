@@ -1,6 +1,865 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 12 04:45:46 +0000 2021",
+		"id": 1425675915070034000,
+		"id_str": "1425679880545574913",
+		"full_text": "오늘의 라인업 ᰔᩚ \n스테이씨, 이달의 소녀, 하성운, 골든차일드, 프로미스나인, 드림캐쳐, 우주소녀, 베리베리, 더보이즈, 온앤오프, (여자)아이들, 펜타곤, 에이티즈, 오마이걸, 레드벨벳, 여자친구, 갓세븐, TXT, 아스트로, 아이즈원, ITZY, 트와이스, 세븐틴, 엔시티 드림, 방탄소년단 etc https://t.co/kuQbo4ZLxq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kuQbo4ZLxq",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1425650822793154562",
+					"display_url": "twitter.com/ALLTHEKPOP/sta…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83090,
+			"friends_count": 338,
+			"listed_count": 314,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7903,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1627864416",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1425650822793154600,
+		"quoted_status_id_str": "1425650822793154562",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kuQbo4ZLxq",
+			"expanded": "https://twitter.com/ALLTHEKPOP/status/1425650822793154562",
+			"display": "twitter.com/ALLTHEKPOP/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 12 02:50:18 +0000 2021",
+			"id": 1425650822793154600,
+			"id_str": "1425650822793154562",
+			"full_text": "올케다방의 띵곡팔이👋\n⏰PM 2:00~3:30\n\n처서는 지났지만 아직 날씨는 여름이잖아요❓\n이 여름의 끝을 잡고🎶 뼛속까지 시원해지는 여름노래 같이 즐겨요 (◔◡◔)🤚\n\n▶https://t.co/He45RCsliC\n☝올케팝 유튜브 채널 알림 설정하면 띵곡팔이 알림 딩동 https://t.co/94yXzNd7D2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				150
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/He45RCsliC",
+						"expanded_url": "https://youtu.be/d3ZS9tSTWWU",
+						"display_url": "youtu.be/d3ZS9tSTWWU",
+						"indices": [
+							96,
+							119
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1425650812047351800,
+						"id_str": "1425650812047351809",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/media/E8jt3DHUYAE7Zdb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E8jt3DHUYAE7Zdb.jpg",
+						"url": "https://t.co/94yXzNd7D2",
+						"display_url": "pic.twitter.com/94yXzNd7D2",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1425650822793154562/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1425650812047351800,
+						"id_str": "1425650812047351809",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/media/E8jt3DHUYAE7Zdb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E8jt3DHUYAE7Zdb.jpg",
+						"url": "https://t.co/94yXzNd7D2",
+						"display_url": "pic.twitter.com/94yXzNd7D2",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1425650822793154562/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744928926,
+				"id_str": "744928926",
+				"name": "올더케이팝",
+				"screen_name": "ALLTHEKPOP",
+				"location": "",
+				"description": "ALL about ID♡L, ALL THE K-POP",
+				"url": "https://t.co/0kbjbCEhaR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0kbjbCEhaR",
+								"expanded_url": "http://www.youtube.com/allthekpop",
+								"display_url": "youtube.com/allthekpop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 83090,
+				"friends_count": 338,
+				"listed_count": 314,
+				"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+				"favourites_count": 7903,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7400,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1627864416",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 105,
+			"favorite_count": 198,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 11,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘의 라인업 ᰔᩚ \n스테이씨, 이달의 소녀, 하성운, 골든차일드, 프로미스나인, 드림캐쳐, 우주소녀, 베리베리, 더보이즈, 온앤오프, (여자)아이들, 펜타곤, 에이티즈, 오마이걸, 레드벨벳, 여자친구, 갓세븐, TXT, 아스트로, 아이즈원, ITZY, 트와이스, 세븐틴, 엔시티 드림, 방탄소년단 etc https://t.co/kuQbo4ZLxq"
+	},
+	{
+		"created_at": "Thu Aug 12 04:45:36 +0000 2021",
+		"id": 1425664863603290000,
+		"id_str": "1425679842301956098",
+		"full_text": "하슬이가 편집을 요청합니다\n\n#아이돌그라운드 #이달의소녀 #LOONA\n#하슬 #HaSeul #오페라의유령\n\nhttps://t.co/Wv7BjZENUp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌그라운드",
+					"indices": [
+						16,
+						24
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						32,
+						38
+					]
+				},
+				{
+					"text": "하슬",
+					"indices": [
+						39,
+						42
+					]
+				},
+				{
+					"text": "HaSeul",
+					"indices": [
+						43,
+						50
+					]
+				},
+				{
+					"text": "오페라의유령",
+					"indices": [
+						51,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wv7BjZENUp",
+					"expanded_url": "https://www.youtube.com/watch?v=l5C0pMd54DY",
+					"display_url": "youtube.com/watch?v=l5C0pM…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906055771921629200,
+			"id_str": "906055771921629184",
+			"name": "나돌(NADOL)",
+			"screen_name": "ae_ssr",
+			"location": "대한민국 중구",
+			"description": "KPOP 스타들의 매력발산 채널 '나도 아이돌이다'",
+			"url": "https://t.co/W4BmT5ww9v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W4BmT5ww9v",
+							"expanded_url": "https://www.youtube.com/channel/UC3pk0eDcZx_oYGCWNyJpjMQ/featured?view_as=subscriber",
+							"display_url": "youtube.com/channel/UC3pk0…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1814,
+			"friends_count": 96,
+			"listed_count": 17,
+			"created_at": "Fri Sep 08 07:25:04 +0000 2017",
+			"favourites_count": 38,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1318368541406494720/fyadTBj2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318368541406494720/fyadTBj2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906055771921629184/1603158530",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "하슬이가 편집을 요청합니다\n\n#아이돌그라운드 #이달의소녀 #LOONA\n#하슬 #HaSeul #오페라의유령\n\nhttps://t.co/Wv7BjZENUp"
+	},
+	{
+		"created_at": "Thu Aug 12 04:40:18 +0000 2021",
+		"id": 1425677123528794000,
+		"id_str": "1425678508622323713",
+		"full_text": "KIM YERIM of ‘Blue Birthday’ thrills viewers with her smart inferences!\nShows off her independent attitude, even going through a time travel for her first love!\n \n#김예림 #KIMYERIM\n#블루버스데이 #BLUEBIRTHDAY\n#레드벨벳 #RedVelvet https://t.co/KSrhriz4O9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김예림",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "KIMYERIM",
+					"indices": [
+						168,
+						177
+					]
+				},
+				{
+					"text": "블루버스데이",
+					"indices": [
+						178,
+						185
+					]
+				},
+				{
+					"text": "BLUEBIRTHDAY",
+					"indices": [
+						186,
+						199
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						200,
+						205
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						206,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1425677048266117000,
+					"id_str": "1425677048266117121",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/E8kFuMpUUAEKUhd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8kFuMpUUAEKUhd.jpg",
+					"url": "https://t.co/KSrhriz4O9",
+					"display_url": "pic.twitter.com/KSrhriz4O9",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1425677123528794114/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425677048266117000,
+					"id_str": "1425677048266117121",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/E8kFuMpUUAEKUhd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8kFuMpUUAEKUhd.jpg",
+					"url": "https://t.co/KSrhriz4O9",
+					"display_url": "pic.twitter.com/KSrhriz4O9",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1425677123528794114/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1425677068105257000,
+					"id_str": "1425677068105256966",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/E8kFvWjVkAYvyh2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8kFvWjVkAYvyh2.jpg",
+					"url": "https://t.co/KSrhriz4O9",
+					"display_url": "pic.twitter.com/KSrhriz4O9",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1425677123528794114/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9757327,
+			"friends_count": 55,
+			"listed_count": 10379,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3012,
+		"favorite_count": 8908,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KIM YERIM of ‘Blue Birthday’ thrills viewers with her smart inferences!\nShows off her independent attitude, even going through a time travel for her first love!\n \n#김예림 #KIMYERIM\n#블루버스데이 #BLUEBIRTHDAY\n#레드벨벳 #RedVelvet https://t.co/KSrhriz4O9"
+	},
+	{
+		"created_at": "Thu Aug 12 04:29:34 +0000 2021",
+		"id": 1425669501706674200,
+		"id_str": "1425675804084637699",
+		"full_text": "BLACKPINK 5th ANNIVERSARY [4+1] POP-UP 1ST ONLINE PRE-RESERVATION OPEN!\n\n1차 온라인 사전 예약이 오픈되었습니다!\n\n✔️ https://t.co/QCmrFaq517\n🗓 08.21(SAT) - 08.25(WED)\n\n#BLACKPINK #블랙핑크 #4PLUS1_POPUP #20210821 #OPEN #5thANNIVERSARY #4PLUS1_PROJECT #YG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						151,
+						161
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "4PLUS1_POPUP",
+					"indices": [
+						168,
+						181
+					]
+				},
+				{
+					"text": "OPEN",
+					"indices": [
+						192,
+						197
+					]
+				},
+				{
+					"text": "5thANNIVERSARY",
+					"indices": [
+						198,
+						213
+					]
+				},
+				{
+					"text": "4PLUS1_PROJECT",
+					"indices": [
+						214,
+						229
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						230,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QCmrFaq517",
+					"expanded_url": "https://bit.ly/3yHziRR",
+					"display_url": "bit.ly/3yHziRR",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/QTHPhjMXWT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QTHPhjMXWT",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7112878,
+			"friends_count": 7,
+			"listed_count": 8190,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1623718821",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1765,
+		"favorite_count": 8529,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "BLACKPINK 5th ANNIVERSARY [4+1] POP-UP 1ST ONLINE PRE-RESERVATION OPEN!\n\n1차 온라인 사전 예약이 오픈되었습니다!\n\n✔️ https://t.co/QCmrFaq517\n🗓 08.21(SAT) - 08.25(WED)\n\n#BLACKPINK #블랙핑크 #4PLUS1_POPUP #20210821 #OPEN #5thANNIVERSARY #4PLUS1_PROJECT #YG"
+	},
+	{
 		"created_at": "Thu Aug 12 03:40:09 +0000 2021",
 		"id": 1425648906415722500,
 		"id_str": "1425663371253329921",
