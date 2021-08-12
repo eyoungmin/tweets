@@ -1,6 +1,995 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 12 09:40:12 +0000 2021",
+		"id": 1425715825814560800,
+		"id_str": "1425753977984069639",
+		"full_text": "BLACK to the PINK 어디서든 특별해\n이 #슈스와 미션을 박차고 사인 포토북을 얻을 너에게 축배를 짠짠짠! https://t.co/MUYOT3el9D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슈스와",
+					"indices": [
+						29,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1425715534008438800,
+					"id_str": "1425715534008438787",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/E8kouXNUUAMTcIE.png",
+					"media_url_https": "https://pbs.twimg.com/media/E8kouXNUUAMTcIE.png",
+					"url": "https://t.co/MUYOT3el9D",
+					"display_url": "pic.twitter.com/MUYOT3el9D",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1425715825814560769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425715534008438800,
+					"id_str": "1425715534008438787",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/E8kouXNUUAMTcIE.png",
+					"media_url_https": "https://pbs.twimg.com/media/E8kouXNUUAMTcIE.png",
+					"url": "https://t.co/MUYOT3el9D",
+					"display_url": "pic.twitter.com/MUYOT3el9D",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1425715825814560769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1425715620520231000,
+					"id_str": "1425715620520230912",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/E8kozZfVgAA08WQ.png",
+					"media_url_https": "https://pbs.twimg.com/media/E8kozZfVgAA08WQ.png",
+					"url": "https://t.co/MUYOT3el9D",
+					"display_url": "pic.twitter.com/MUYOT3el9D",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1425715825814560769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1425715777093599200,
+					"id_str": "1425715777093599235",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/E8ko8gxVgAMvitX.png",
+					"media_url_https": "https://pbs.twimg.com/media/E8ko8gxVgAMvitX.png",
+					"url": "https://t.co/MUYOT3el9D",
+					"display_url": "pic.twitter.com/MUYOT3el9D",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1425715825814560769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 330,
+							"h": 240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 330,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 330,
+							"h": 240,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1425715810262077400,
+					"id_str": "1425715810262077442",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/E8ko-cVUUAIeAHU.png",
+					"media_url_https": "https://pbs.twimg.com/media/E8ko-cVUUAIeAHU.png",
+					"url": "https://t.co/MUYOT3el9D",
+					"display_url": "pic.twitter.com/MUYOT3el9D",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1425715825814560769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288715338679386000,
+			"id_str": "1288715338679386112",
+			"name": "SuperStarYG",
+			"screen_name": "SuperStar_YG",
+			"location": "",
+			"description": "https://t.co/RF1TeBc78K",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RF1TeBc78K",
+							"expanded_url": "https://bit.ly/3kYfsuR",
+							"display_url": "bit.ly/3kYfsuR",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 88620,
+			"friends_count": 34,
+			"listed_count": 122,
+			"created_at": "Thu Jul 30 05:58:00 +0000 2020",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 446,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357238870488698880/YAFSnoQ3_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357238870488698880/YAFSnoQ3_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288715338679386112/1612425938",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1145,
+		"favorite_count": 6871,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "BLACK to the PINK 어디서든 특별해\n이 #슈스와 미션을 박차고 사인 포토북을 얻을 너에게 축배를 짠짠짠! https://t.co/MUYOT3el9D"
+	},
+	{
+		"created_at": "Thu Aug 12 09:40:10 +0000 2021",
+		"id": 1425715095963717600,
+		"id_str": "1425753969071214602",
+		"full_text": "야야야 붐바야아아~!\n여긴 어디? #BLACKPINK in your area~!\n네가 말로만 듣던 걔가 나야 #블랙핑크\n\n이 분위기를 몰아 지금부터 미션을 시작해볼까?\n오늘 밤 나와 춤출 사람 지금 모여!\n#붐바야 (#BOOMBAYAH) 업데이트! 지금 당장 #슈스와 에서 만나! https://t.co/mpoMOpPIl6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						19,
+						29
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "붐바야",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "BOOMBAYAH",
+					"indices": [
+						121,
+						131
+					]
+				},
+				{
+					"text": "슈스와",
+					"indices": [
+						145,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1425714835552014300,
+					"id_str": "1425714835552014341",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E8koFtQVEAUjGg0.png",
+					"media_url_https": "https://pbs.twimg.com/media/E8koFtQVEAUjGg0.png",
+					"url": "https://t.co/mpoMOpPIl6",
+					"display_url": "pic.twitter.com/mpoMOpPIl6",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1425715095963717638/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425714835552014300,
+					"id_str": "1425714835552014341",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E8koFtQVEAUjGg0.png",
+					"media_url_https": "https://pbs.twimg.com/media/E8koFtQVEAUjGg0.png",
+					"url": "https://t.co/mpoMOpPIl6",
+					"display_url": "pic.twitter.com/mpoMOpPIl6",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1425715095963717638/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1425714891193675800,
+					"id_str": "1425714891193675778",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E8koI8iVcAIm1BQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8koI8iVcAIm1BQ.jpg",
+					"url": "https://t.co/mpoMOpPIl6",
+					"display_url": "pic.twitter.com/mpoMOpPIl6",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1425715095963717638/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1032,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1032,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1425714891378217000,
+					"id_str": "1425714891378216960",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E8koI9OVUAAjaL6.png",
+					"media_url_https": "https://pbs.twimg.com/media/E8koI9OVUAAjaL6.png",
+					"url": "https://t.co/mpoMOpPIl6",
+					"display_url": "pic.twitter.com/mpoMOpPIl6",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1425715095963717638/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1425714891650781200,
+					"id_str": "1425714891650781190",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E8koI-PUUAY9gm4.png",
+					"media_url_https": "https://pbs.twimg.com/media/E8koI-PUUAY9gm4.png",
+					"url": "https://t.co/mpoMOpPIl6",
+					"display_url": "pic.twitter.com/mpoMOpPIl6",
+					"expanded_url": "https://twitter.com/SuperStar_YG/status/1425715095963717638/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 474,
+							"h": 424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288715338679386000,
+			"id_str": "1288715338679386112",
+			"name": "SuperStarYG",
+			"screen_name": "SuperStar_YG",
+			"location": "",
+			"description": "https://t.co/RF1TeBc78K",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RF1TeBc78K",
+							"expanded_url": "https://bit.ly/3kYfsuR",
+							"display_url": "bit.ly/3kYfsuR",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 88620,
+			"friends_count": 34,
+			"listed_count": 122,
+			"created_at": "Thu Jul 30 05:58:00 +0000 2020",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 446,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357238870488698880/YAFSnoQ3_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357238870488698880/YAFSnoQ3_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288715338679386112/1612425938",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 875,
+		"favorite_count": 5176,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "야야야 붐바야아아~!\n여긴 어디? #BLACKPINK in your area~!\n네가 말로만 듣던 걔가 나야 #블랙핑크\n\n이 분위기를 몰아 지금부터 미션을 시작해볼까?\n오늘 밤 나와 춤출 사람 지금 모여!\n#붐바야 (#BOOMBAYAH) 업데이트! 지금 당장 #슈스와 에서 만나! https://t.co/mpoMOpPIl6"
+	},
+	{
+		"created_at": "Thu Aug 12 09:11:09 +0000 2021",
+		"id": 1425743951680589800,
+		"id_str": "1425746667295281156",
+		"full_text": "[이달의소녀킼킼 #225]\n오빛은 누구 발인지 맞힐 수 있으려나~?🤔\n\n#이달의소녀 #최리 #LOONA #Choerry #OliviaHye #LOONAKick https://t.co/qLV7ZwCikR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "최리",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"text": "Choerry",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"text": "OliviaHye",
+					"indices": [
+						67,
+						77
+					]
+				},
+				{
+					"text": "LOONAKick",
+					"indices": [
+						78,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1425743898748457000,
+					"id_str": "1425743898748456961",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1425743898748456961/pu/img/yJeHAw6TT_6nEsSX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1425743898748456961/pu/img/yJeHAw6TT_6nEsSX.jpg",
+					"url": "https://t.co/qLV7ZwCikR",
+					"display_url": "pic.twitter.com/qLV7ZwCikR",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1425743951680589826/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425743898748457000,
+					"id_str": "1425743898748456961",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1425743898748456961/pu/img/yJeHAw6TT_6nEsSX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1425743898748456961/pu/img/yJeHAw6TT_6nEsSX.jpg",
+					"url": "https://t.co/qLV7ZwCikR",
+					"display_url": "pic.twitter.com/qLV7ZwCikR",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1425743951680589826/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 10233,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1425743898748456961/pu/pl/m43pvDN1TI8lH0uQ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1425743898748456961/pu/vid/480x852/DXW5w4MSxPXo9LJe.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1425743898748456961/pu/vid/320x568/yc1CGn9Wij8YcSG5.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1425743898748456961/pu/vid/720x1280/tLrk64btPzFg7asH.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 789262,
+			"friends_count": 1,
+			"listed_count": 7824,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2789,
+		"favorite_count": 9524,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이달의소녀킼킼 #225]\n오빛은 누구 발인지 맞힐 수 있으려나~?🤔\n\n#이달의소녀 #최리 #LOONA #Choerry #OliviaHye #LOONAKick https://t.co/qLV7ZwCikR"
+	},
+	{
+		"created_at": "Thu Aug 12 09:09:45 +0000 2021",
+		"id": 1425741055102656500,
+		"id_str": "1425746314755809282",
+		"full_text": "(ENG) 한 마디 시키면 두 마디씩 얹는 레드벨벳ㅋㅋㅋㅋㅋ다들 조금씩 은은하게 광기가 서려있어서 정말 재미지네요? / [문명특급 EP.204-2]\n\nhttps://t.co/EWzeyRgLUw\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Queendom",
+					"indices": [
+						109,
+						118
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						129,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EWzeyRgLUw",
+					"expanded_url": "https://youtu.be/esm6aAz6eF0",
+					"display_url": "youtu.be/esm6aAz6eF0",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4442204,
+			"friends_count": 1,
+			"listed_count": 9465,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2132,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4667,
+		"favorite_count": 10708,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "(ENG) 한 마디 시키면 두 마디씩 얹는 레드벨벳ㅋㅋㅋㅋㅋ다들 조금씩 은은하게 광기가 서려있어서 정말 재미지네요? / [문명특급 EP.204-2]\n\nhttps://t.co/EWzeyRgLUw\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet"
+	},
+	{
 		"created_at": "Thu Aug 12 08:40:09 +0000 2021",
 		"id": 1425738168184172500,
 		"id_str": "1425738869023166468",
