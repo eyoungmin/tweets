@@ -1,6 +1,483 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 12 10:40:10 +0000 2021",
+		"id": 1425576624762855400,
+		"id_str": "1425769068250947587",
+		"full_text": "@coldplay congrats on your nomination at the 2021 #vmas! 👏 https://t.co/hEh9YTg5A1 https://t.co/63CVFNnX6r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "vmas",
+					"indices": [
+						50,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coldplay",
+					"name": "Coldplay",
+					"id": 18863815,
+					"id_str": "18863815",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hEh9YTg5A1",
+					"expanded_url": "http://vote.mtv.com",
+					"display_url": "vote.mtv.com",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1425529504928239600,
+					"id_str": "1425529504928239634",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1425529504928239634/img/BxZeSH9eQcGsQXyJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1425529504928239634/img/BxZeSH9eQcGsQXyJ.jpg",
+					"url": "https://t.co/63CVFNnX6r",
+					"display_url": "pic.twitter.com/63CVFNnX6r",
+					"expanded_url": "https://twitter.com/MTV/status/1425576624762855424/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_user_id": 739836760948117500,
+					"source_user_id_str": "739836760948117504"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425529504928239600,
+					"id_str": "1425529504928239634",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1425529504928239634/img/BxZeSH9eQcGsQXyJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1425529504928239634/img/BxZeSH9eQcGsQXyJ.jpg",
+					"url": "https://t.co/63CVFNnX6r",
+					"display_url": "pic.twitter.com/63CVFNnX6r",
+					"expanded_url": "https://twitter.com/MTV/status/1425576624762855424/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_user_id": 739836760948117500,
+					"source_user_id_str": "739836760948117504",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 11044,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1425529504928239634/vid/540x540/gJHCtbvMnsO3ywsc.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1425529504928239634/vid/720x720/j2A_qF-7szEffRN8.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1425529504928239634/pl/6yzAdPzgPDkXJq_N.m3u8?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1425529504928239634/vid/320x320/VwEkVG3bW477qmQR.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 739836760948117500,
+							"id_str": "739836760948117504",
+							"name": "Video Music Awards",
+							"screen_name": "vmas",
+							"location": "",
+							"description": "VOTING IS NOW OPEN FOR THE 2021 #VMAs! Witness History in the Making, Sunday 9/12 on @MTV 🚀",
+							"url": "https://t.co/h5OCeBcqrk",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/h5OCeBcqrk",
+											"expanded_url": "http://vote.mtv.com",
+											"display_url": "vote.mtv.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 690648,
+							"friends_count": 9439,
+							"listed_count": 968,
+							"created_at": "Mon Jun 06 15:10:04 +0000 2016",
+							"favourites_count": 10126,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 21210,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1425487930978717705/aTLEtlDu_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425487930978717705/aTLEtlDu_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/739836760948117504/1628697783",
+							"profile_link_color": "EB263A",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 18863815,
+		"in_reply_to_user_id_str": "18863815",
+		"in_reply_to_screen_name": "coldplay",
+		"user": {
+			"id": 2367911,
+			"id_str": "2367911",
+			"name": "MTV",
+			"screen_name": "MTV",
+			"location": "NYC",
+			"description": "The 2021 #VMAs are coming your way… Sunday, September 12 on MTV! VOTE NOW at https://t.co/5erl2Jg4eR 🚀 ✨",
+			"url": "https://t.co/HFTN7rPM2N",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HFTN7rPM2N",
+							"expanded_url": "http://mtv.com",
+							"display_url": "mtv.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5erl2Jg4eR",
+							"expanded_url": "http://vote.mtv.com",
+							"display_url": "vote.mtv.com",
+							"indices": [
+								77,
+								100
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16831747,
+			"friends_count": 30473,
+			"listed_count": 27587,
+			"created_at": "Mon Mar 26 22:30:49 +0000 2007",
+			"favourites_count": 20581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 302471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410600875958030351/XoLwPXp7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410600875958030351/XoLwPXp7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2367911/1628698206",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 160,
+		"favorite_count": 1085,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@coldplay congrats on your nomination at the 2021 #vmas! 👏 https://t.co/hEh9YTg5A1 https://t.co/63CVFNnX6r"
+	},
+	{
+		"created_at": "Thu Aug 12 10:29:38 +0000 2021",
+		"id": 1425761382738186200,
+		"id_str": "1425766420755910657",
+		"full_text": "눈부시게 쏟아지는 햇살 아래 바람 불어오는 방향 따라 걷다가 마주친 써머퀸 횬니😎 여름이었다.. #효연 #Second #HYO @GirlsGeneration #MCOUNTDOWN #MPD직캠\n\nHorizontal Ver. ▶ https://t.co/tvOCoVPLGG\nVertical Ver. ▶ https://t.co/VtaJoyOkHR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "효연",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						58,
+						65
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						88,
+						99
+					]
+				},
+				{
+					"text": "MPD직캠",
+					"indices": [
+						100,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						71,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tvOCoVPLGG",
+					"expanded_url": "https://youtu.be/L0rOuKQnyyw",
+					"display_url": "youtu.be/L0rOuKQnyyw",
+					"indices": [
+						126,
+						149
+					]
+				},
+				{
+					"url": "https://t.co/VtaJoyOkHR",
+					"expanded_url": "https://youtu.be/id4BjDeMGXY",
+					"display_url": "youtu.be/id4BjDeMGXY",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "대한민국 서울",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/3MOZ1S1s4O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MOZ1S1s4O",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1188113,
+			"friends_count": 425,
+			"listed_count": 1428,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1610345190",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 394,
+		"favorite_count": 454,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "눈부시게 쏟아지는 햇살 아래 바람 불어오는 방향 따라 걷다가 마주친 써머퀸 횬니😎 여름이었다.. #효연 #Second #HYO @GirlsGeneration #MCOUNTDOWN #MPD직캠\n\nHorizontal Ver. ▶ https://t.co/tvOCoVPLGG\nVertical Ver. ▶ https://t.co/VtaJoyOkHR"
+	},
+	{
 		"created_at": "Thu Aug 12 09:40:12 +0000 2021",
 		"id": 1425715825814560800,
 		"id_str": "1425753977984069639",
