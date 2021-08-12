@@ -1,10 +1,806 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 12 07:40:18 +0000 2021",
+		"id": 1425722866381717500,
+		"id_str": "1425723807336120324",
+		"full_text": "안녕!\n어디 가고 있게요~ \n\n#JIMF https://t.co/oRHkXNR37N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JIMF",
+					"indices": [
+						17,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1425722854926999600,
+					"id_str": "1425722854926999558",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/E8kvYfwUYAYFiUK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8kvYfwUYAYFiUK.jpg",
+					"url": "https://t.co/oRHkXNR37N",
+					"display_url": "pic.twitter.com/oRHkXNR37N",
+					"expanded_url": "https://twitter.com/love_yuna/status/1425722866381717506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425722854926999600,
+					"id_str": "1425722854926999558",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/E8kvYfwUYAYFiUK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8kvYfwUYAYFiUK.jpg",
+					"url": "https://t.co/oRHkXNR37N",
+					"display_url": "pic.twitter.com/oRHkXNR37N",
+					"expanded_url": "https://twitter.com/love_yuna/status/1425722866381717506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1425722854922805200,
+					"id_str": "1425722854922805255",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/E8kvYfvUYAcMqNy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8kvYfvUYAcMqNy.jpg",
+					"url": "https://t.co/oRHkXNR37N",
+					"display_url": "pic.twitter.com/oRHkXNR37N",
+					"expanded_url": "https://twitter.com/love_yuna/status/1425722866381717506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1464,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 858,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 270638,
+			"friends_count": 539,
+			"listed_count": 2816,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358217725089255426/J-5E7g_n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358217725089255426/J-5E7g_n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1612661273",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 112,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕!\n어디 가고 있게요~ \n\n#JIMF https://t.co/oRHkXNR37N"
+	},
+	{
+		"created_at": "Thu Aug 12 07:37:20 +0000 2021",
+		"id": 1425723057897934800,
+		"id_str": "1425723057897934853",
+		"full_text": "#알라딘 #앨범 #음반 \n이달의 소녀 - 미니 2집 [#][일반 A Ver.][재발매] (다날 | 2021년 01월 | 22,300원) \nhttps://t.co/qH4WsJfebR \n \n#이달의소녀 #LOONA https://t.co/GrhOvYYlHD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "알라딘",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "앨범",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "음반",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						111,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qH4WsJfebR",
+					"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?itemid=261837023",
+					"display_url": "aladin.co.kr/shop/wproduct.…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1425723057079992300,
+					"id_str": "1425723057079992322",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E8kvkQ1WQAIqoen.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8kvkQ1WQAIqoen.jpg",
+					"url": "https://t.co/GrhOvYYlHD",
+					"display_url": "pic.twitter.com/GrhOvYYlHD",
+					"expanded_url": "https://twitter.com/fromminn/status/1425723057897934853/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425723057079992300,
+					"id_str": "1425723057079992322",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E8kvkQ1WQAIqoen.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8kvkQ1WQAIqoen.jpg",
+					"url": "https://t.co/GrhOvYYlHD",
+					"display_url": "pic.twitter.com/GrhOvYYlHD",
+					"expanded_url": "https://twitter.com/fromminn/status/1425723057897934853/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#알라딘 #앨범 #음반 \n이달의 소녀 - 미니 2집 [#][일반 A Ver.][재발매] (다날 | 2021년 01월 | 22,300원) \nhttps://t.co/qH4WsJfebR \n \n#이달의소녀 #LOONA https://t.co/GrhOvYYlHD"
+	},
+	{
+		"created_at": "Thu Aug 12 07:29:38 +0000 2021",
+		"id": 1425713663583920000,
+		"id_str": "1425721121140219905",
+		"full_text": "Thank you @TIDAL for featuring #HYO on the K-Solo: K-Pop Breakouts playlist! Listen to #Second feat. BIBI here!\n\n🎵 https://t.co/dsBX5usuVT\n\n#효연 #HYO #Second \n#소녀시대 #GirlsGeneration https://t.co/KI5vr27Fl1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						31,
+						35
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						87,
+						94
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						149,
+						156
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						158,
+						163
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						164,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TIDAL",
+					"name": "TIDAL",
+					"id": 2679055230,
+					"id_str": "2679055230",
+					"indices": [
+						10,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dsBX5usuVT",
+					"expanded_url": "http://TIDAL.link/KPopBreakouts",
+					"display_url": "TIDAL.link/KPopBreakouts",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1425702638994092000,
+					"id_str": "1425702638994092044",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/E8kc_xiUcAw5bjP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8kc_xiUcAw5bjP.jpg",
+					"url": "https://t.co/KI5vr27Fl1",
+					"display_url": "pic.twitter.com/KI5vr27Fl1",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1425713663583920128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425702638994092000,
+					"id_str": "1425702638994092044",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/E8kc_xiUcAw5bjP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8kc_xiUcAw5bjP.jpg",
+					"url": "https://t.co/KI5vr27Fl1",
+					"display_url": "pic.twitter.com/KI5vr27Fl1",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1425713663583920128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3658045,
+			"friends_count": 4,
+			"listed_count": 5498,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1628046003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 794,
+		"favorite_count": 2112,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you @TIDAL for featuring #HYO on the K-Solo: K-Pop Breakouts playlist! Listen to #Second feat. BIBI here!\n\n🎵 https://t.co/dsBX5usuVT\n\n#효연 #HYO #Second \n#소녀시대 #GirlsGeneration https://t.co/KI5vr27Fl1"
+	},
+	{
+		"created_at": "Thu Aug 12 07:23:34 +0000 2021",
+		"id": 1425719595483152400,
+		"id_str": "1425719595483152385",
+		"full_text": "#KBS #공지사항 #가요심의 \n[#뮤직비디오심의] 뮤직비디오 2021년 8월 2주차 심의결과 \nhttps://t.co/Mynqzle4Ki",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KBS",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "공지사항",
+					"indices": [
+						5,
+						10
+					]
+				},
+				{
+					"text": "가요심의",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "뮤직비디오심의",
+					"indices": [
+						19,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mynqzle4Ki",
+					"expanded_url": "https://www.kbs.co.kr/board/board.html?bbs_loc=X2017-0031-04-699231,read,%EB%AE%A4%EC%A7%81%EB%B9%84%EB%94%94%EC%98%A4%EC%8B%AC%EC%9D%98,2210,1061684",
+					"display_url": "kbs.co.kr/board/board.ht…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1050,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#KBS #공지사항 #가요심의 \n[#뮤직비디오심의] 뮤직비디오 2021년 8월 2주차 심의결과 \nhttps://t.co/Mynqzle4Ki"
+	},
+	{
 		"created_at": "Thu Aug 12 06:29:38 +0000 2021",
 		"id": 1425701685259694000,
 		"id_str": "1425706022572896256",
-		"full_text": "💛오늘 밤 7시!💛 세상 가장 사랑스러운 친구들과 함께🐶🐱 &lt;써니의 월간멍냥&gt; 2화가 #쇼핑LIVE 와 #VLIVE 에 찾아옵니다❣️ 수의사가 들려주는 우리집 댕냥이 관절 건강 꿀팁부터🦴 써니의 찐 사용후기까지!💘 알림설정 꾸욱 눌러두고🔔 절대 놓치지 마세요😽💕\n​\n▶️ https://t.co/e3eQXXFJV1\n\n#써니",
+		"full_text": "💛오늘 밤 7시!💛 세상 가장 사랑스러운 친구들과 함께🐶🐱 &lt;써니의 월간멍냥&gt; 2화가 #쇼핑LIVE 와 #VLIVE 에 찾아옵니다❣️ 수의사가 들려주는 우리집 댕냥이 관절 건강 꿀팁부터🦴 써니의 찐 사용후기까지!💘 알림설정 꾸욱 눌러두고🔔 절대 놓치지 마세요😽💕\n\n▶️ https://t.co/e3eQXXFJV1\n\n#써니",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -127,7 +923,7 @@ Grailbird.data.tweets_2021_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "💛오늘 밤 7시!💛 세상 가장 사랑스러운 친구들과 함께🐶🐱 &lt;써니의 월간멍냥&gt; 2화가 #쇼핑LIVE 와 #VLIVE 에 찾아옵니다❣️ 수의사가 들려주는 우리집 댕냥이 관절 건강 꿀팁부터🦴 써니의 찐 사용후기까지!💘 알림설정 꾸욱 눌러두고🔔 절대 놓치지 마세요😽💕\n​\n▶️ https://t.co/e3eQXXFJV1\n\n#써니"
+		"text": "💛오늘 밤 7시!💛 세상 가장 사랑스러운 친구들과 함께🐶🐱 &lt;써니의 월간멍냥&gt; 2화가 #쇼핑LIVE 와 #VLIVE 에 찾아옵니다❣️ 수의사가 들려주는 우리집 댕냥이 관절 건강 꿀팁부터🦴 써니의 찐 사용후기까지!💘 알림설정 꾸욱 눌러두고🔔 절대 놓치지 마세요😽💕\n\n▶️ https://t.co/e3eQXXFJV1\n\n#써니"
 	},
 	{
 		"created_at": "Thu Aug 12 06:26:37 +0000 2021",
