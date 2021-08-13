@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 13 00:40:10 +0000 2021",
+		"id": 1425978499991412700,
+		"id_str": "1425980461306859527",
+		"full_text": "#2차접종 완료! 😆😆😆 https://t.co/nNPV1LLsG3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2차접종",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1425978495289553000,
+					"id_str": "1425978495289552898",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/E8oX4uUUcAIoGRD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8oX4uUUcAIoGRD.jpg",
+					"url": "https://t.co/nNPV1LLsG3",
+					"display_url": "pic.twitter.com/nNPV1LLsG3",
+					"expanded_url": "https://twitter.com/love_yuna/status/1425978499991412737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 820,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 820,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425978495289553000,
+					"id_str": "1425978495289552898",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/E8oX4uUUcAIoGRD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8oX4uUUcAIoGRD.jpg",
+					"url": "https://t.co/nNPV1LLsG3",
+					"display_url": "pic.twitter.com/nNPV1LLsG3",
+					"expanded_url": "https://twitter.com/love_yuna/status/1425978499991412737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 820,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 820,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 270619,
+			"friends_count": 539,
+			"listed_count": 2816,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358217725089255426/J-5E7g_n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358217725089255426/J-5E7g_n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1612661273",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#2차접종 완료! 😆😆😆 https://t.co/nNPV1LLsG3"
+	},
+	{
 		"created_at": "Thu Aug 12 18:12:47 +0000 2021",
 		"id": 1425881938821275600,
 		"id_str": "1425882973694431232",
