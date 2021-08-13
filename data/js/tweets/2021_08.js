@@ -1,6 +1,724 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 13 07:40:20 +0000 2021",
+		"id": 1426083601406259200,
+		"id_str": "1426086201480597506",
+		"full_text": "Cheer Red Velvet up with newly launched sticker during Beyond LIVE - Red Velvet ONLINE FANMEETING 'inteRView vol.7 : Queendom'!\n\ninteRView vol.7 : Queendom\n\nhttps://t.co/sXqzkMM1UZ\n\n#레드벨벳 #RedVelvet #RedVelvet_ONLINE_FANMEETING_inteRView_vol7_Queendom \n#NAVER #VLIVE https://t.co/d9cAZrVLwL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						188,
+						198
+					]
+				},
+				{
+					"text": "RedVelvet_ONLINE_FANMEETING_inteRView_vol7_Queendom",
+					"indices": [
+						199,
+						251
+					]
+				},
+				{
+					"text": "NAVER",
+					"indices": [
+						253,
+						259
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						260,
+						266
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sXqzkMM1UZ",
+					"expanded_url": "https://www.vlive.tv/sticker/167",
+					"display_url": "vlive.tv/sticker/167",
+					"indices": [
+						157,
+						180
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1426082563286659000,
+					"id_str": "1426082563286659072",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/E8p2iR0UcAAxT1r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8p2iR0UcAAxT1r.jpg",
+					"url": "https://t.co/d9cAZrVLwL",
+					"display_url": "pic.twitter.com/d9cAZrVLwL",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1426083601406259206/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 354,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 625,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1426082563286659000,
+					"id_str": "1426082563286659072",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/E8p2iR0UcAAxT1r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8p2iR0UcAAxT1r.jpg",
+					"url": "https://t.co/d9cAZrVLwL",
+					"display_url": "pic.twitter.com/d9cAZrVLwL",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1426083601406259206/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 354,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 625,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4446344,
+			"friends_count": 1,
+			"listed_count": 9471,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3075,
+		"favorite_count": 9049,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cheer Red Velvet up with newly launched sticker during Beyond LIVE - Red Velvet ONLINE FANMEETING 'inteRView vol.7 : Queendom'!\n\ninteRView vol.7 : Queendom\n\nhttps://t.co/sXqzkMM1UZ\n\n#레드벨벳 #RedVelvet #RedVelvet_ONLINE_FANMEETING_inteRView_vol7_Queendom \n#NAVER #VLIVE https://t.co/d9cAZrVLwL"
+	},
+	{
+		"created_at": "Fri Aug 13 07:40:13 +0000 2021",
+		"id": 1426082215092387800,
+		"id_str": "1426086171613007874",
+		"full_text": "[#이브 / #Yves] 롤링스톤 코리아 비하인드📸♥️\n\n#이달의소녀 #LOONA https://t.co/MFJMsraLiX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이브",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						32,
+						38
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						39,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1426082106606719000,
+					"id_str": "1426082106606718980",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/E8p2HsjVkAQ3Jj4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8p2HsjVkAQ3Jj4.jpg",
+					"url": "https://t.co/MFJMsraLiX",
+					"display_url": "pic.twitter.com/MFJMsraLiX",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1426082215092387840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1534,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1426082106606719000,
+					"id_str": "1426082106606718980",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/E8p2HsjVkAQ3Jj4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8p2HsjVkAQ3Jj4.jpg",
+					"url": "https://t.co/MFJMsraLiX",
+					"display_url": "pic.twitter.com/MFJMsraLiX",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1426082215092387840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1534,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1426082106606710800,
+					"id_str": "1426082106606710788",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/E8p2HsjVcAQm9zL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8p2HsjVcAQm9zL.jpg",
+					"url": "https://t.co/MFJMsraLiX",
+					"display_url": "pic.twitter.com/MFJMsraLiX",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1426082215092387840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1534,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1426082106615103500,
+					"id_str": "1426082106615103491",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/E8p2HslVgAMOEA-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8p2HslVgAMOEA-.jpg",
+					"url": "https://t.co/MFJMsraLiX",
+					"display_url": "pic.twitter.com/MFJMsraLiX",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1426082215092387840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1534,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1426082106627612700,
+					"id_str": "1426082106627612674",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/E8p2HsoUYAIObV0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8p2HsoUYAIObV0.jpg",
+					"url": "https://t.co/MFJMsraLiX",
+					"display_url": "pic.twitter.com/MFJMsraLiX",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1426082215092387840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 789595,
+			"friends_count": 1,
+			"listed_count": 7831,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5188,
+		"favorite_count": 12576,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#이브 / #Yves] 롤링스톤 코리아 비하인드📸♥️\n\n#이달의소녀 #LOONA https://t.co/MFJMsraLiX"
+	},
+	{
+		"created_at": "Fri Aug 13 07:40:10 +0000 2021",
+		"id": 1426081951702790100,
+		"id_str": "1426086157759168515",
+		"full_text": "During the Viva La Vida tour, we gave away a live album called LeftRightLeftRightLeft. It’s never been available on streaming services… til now. 🦋 https://t.co/EZeSyfcOJe PH https://t.co/zTARq5Llnr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EZeSyfcOJe",
+					"expanded_url": "https://coldplay.lnk.to/LRLRL",
+					"display_url": "coldplay.lnk.to/LRLRL",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1426081946354991000,
+					"id_str": "1426081946354991104",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/E8p1-XkWQAAyrnC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8p1-XkWQAAyrnC.jpg",
+					"url": "https://t.co/zTARq5Llnr",
+					"display_url": "pic.twitter.com/zTARq5Llnr",
+					"expanded_url": "https://twitter.com/coldplay/status/1426081951702790151/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1426081946354991000,
+					"id_str": "1426081946354991104",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/E8p1-XkWQAAyrnC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8p1-XkWQAAyrnC.jpg",
+					"url": "https://t.co/zTARq5Llnr",
+					"display_url": "pic.twitter.com/zTARq5Llnr",
+					"expanded_url": "https://twitter.com/coldplay/status/1426081951702790151/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Coloratura",
+			"description": "The official Twitter of the band Coldplay. New album, Music Of The Spheres, out October 15th, 2021.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23002881,
+			"friends_count": 767,
+			"listed_count": 42706,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 293,
+		"favorite_count": 1703,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "During the Viva La Vida tour, we gave away a live album called LeftRightLeftRightLeft. It’s never been available on streaming services… til now. 🦋 https://t.co/EZeSyfcOJe PH https://t.co/zTARq5Llnr"
+	},
+	{
 		"created_at": "Fri Aug 13 06:31:32 +0000 2021",
 		"id": 1426068888605937700,
 		"id_str": "1426068888605937665",
