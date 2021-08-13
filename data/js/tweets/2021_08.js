@@ -1,6 +1,1171 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 13 15:13:02 +0000 2021",
+		"id": 1426196847807271000,
+		"id_str": "1426200125114765321",
+		"full_text": "the official fan video for deepest lonely is live now✨ i really loved putting all your beautiful clips together , thank you so much everyone who entered 💛\nhttps://t.co/WlIC21Rh2E https://t.co/A2HAe7zJd0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WlIC21Rh2E",
+					"expanded_url": "https://youtu.be/XL71Gvt0UHs",
+					"display_url": "youtu.be/XL71Gvt0UHs",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1426177421724856300,
+					"id_str": "1426177421724856321",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1426177421724856321/img/KkWtenzye1fLWqJP.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1426177421724856321/img/KkWtenzye1fLWqJP.jpg",
+					"url": "https://t.co/A2HAe7zJd0",
+					"display_url": "pic.twitter.com/A2HAe7zJd0",
+					"expanded_url": "https://twitter.com/birdy/status/1426196847807270913/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1426177421724856300,
+					"id_str": "1426177421724856321",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1426177421724856321/img/KkWtenzye1fLWqJP.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1426177421724856321/img/KkWtenzye1fLWqJP.jpg",
+					"url": "https://t.co/A2HAe7zJd0",
+					"display_url": "pic.twitter.com/A2HAe7zJd0",
+					"expanded_url": "https://twitter.com/birdy/status/1426196847807270913/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 28960,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1426177421724856321/vid/720x900/xMjAn0sEnPr8hyJ-.mp4?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1426177421724856321/vid/320x400/G2YS3VOubsez5Uq7.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1426177421724856321/pl/0JLwunYBL1mLNI_q.m3u8?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1426177421724856321/vid/480x600/QVapRoB8iRerDBNK.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Young Heart - my new album, OUT NOW 💛 \nhttps://t.co/JJysUdcZGQ",
+			"url": "https://t.co/AOWSyI9JYu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JJysUdcZGQ",
+							"expanded_url": "http://birdy.lnk.to/Young-Heart",
+							"display_url": "birdy.lnk.to/Young-Heart",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 315594,
+			"friends_count": 181,
+			"listed_count": 1191,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "the official fan video for deepest lonely is live now✨ i really loved putting all your beautiful clips together , thank you so much everyone who entered 💛\nhttps://t.co/WlIC21Rh2E https://t.co/A2HAe7zJd0"
+	},
+	{
+		"created_at": "Fri Aug 13 15:05:26 +0000 2021",
+		"id": 1426198214210900000,
+		"id_str": "1426198214210899973",
+		"full_text": "#ZaraLarsson #자라라슨 \nNobody Is An Island | Open Up Playlist \nhttps://t.co/CpvIV6ep4E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ZaraLarsson",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "자라라슨",
+					"indices": [
+						13,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CpvIV6ep4E",
+					"expanded_url": "https://www.youtube.com/watch?v=ViHc2UQR1Zg",
+					"display_url": "youtube.com/watch?v=ViHc2U…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ZaraLarsson #자라라슨 \nNobody Is An Island | Open Up Playlist \nhttps://t.co/CpvIV6ep4E"
+	},
+	{
+		"created_at": "Fri Aug 13 15:02:50 +0000 2021",
+		"id": 1426197562139324400,
+		"id_str": "1426197562139324417",
+		"full_text": "#Birdy #버디 \nBirdy - Deepest Lonely [Lyric Video] \nhttps://t.co/YfLkmFAVoL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Birdy",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "버디",
+					"indices": [
+						7,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YfLkmFAVoL",
+					"expanded_url": "https://www.youtube.com/watch?v=XL71Gvt0UHs",
+					"display_url": "youtube.com/watch?v=XL71Gv…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Birdy #버디 \nBirdy - Deepest Lonely [Lyric Video] \nhttps://t.co/YfLkmFAVoL"
+	},
+	{
+		"created_at": "Fri Aug 13 14:40:23 +0000 2021",
+		"id": 1426191912017580000,
+		"id_str": "1426191912017580047",
+		"full_text": "#YESEO #예서 \nYESEO - [EP] TRY FREE! (Official Teaser Video) \nhttps://t.co/AUKP8h3TLI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YESEO",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "예서",
+					"indices": [
+						7,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AUKP8h3TLI",
+					"expanded_url": "https://www.youtube.com/watch?v=-vj_bCX8BM4",
+					"display_url": "youtube.com/watch?v=-vj_bC…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#YESEO #예서 \nYESEO - [EP] TRY FREE! (Official Teaser Video) \nhttps://t.co/AUKP8h3TLI"
+	},
+	{
+		"created_at": "Fri Aug 13 14:40:15 +0000 2021",
+		"id": 1426191362131599400,
+		"id_str": "1426191875187294213",
+		"full_text": "YESEO EP [TRY FREE!] Teaser Video\n💥“D-1💥 ✨Tomorrow✨\n\n2021.08.14\n12PM (KST)\n\n[Credits]\n\nAll Music Made by YESEO\nMixed by IMLAY\nMastered by 권남우 @ 821sound \nDistribution by Poclanos\n\nFilm by Kim Moon Dog\nH&amp;M by Lee Eun Seo\nStyling by IBAEKILHO \n\nSupported by KOCCA\nMUSE ON https://t.co/Kub9owaouE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1426187016044044300,
+					"id_str": "1426187016044044291",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1426187016044044291/pu/img/7oFH6erG_P4R7dbQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1426187016044044291/pu/img/7oFH6erG_P4R7dbQ.jpg",
+					"url": "https://t.co/Kub9owaouE",
+					"display_url": "pic.twitter.com/Kub9owaouE",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1426191362131599361/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1426187016044044300,
+					"id_str": "1426187016044044291",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1426187016044044291/pu/img/7oFH6erG_P4R7dbQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1426187016044044291/pu/img/7oFH6erG_P4R7dbQ.jpg",
+					"url": "https://t.co/Kub9owaouE",
+					"display_url": "pic.twitter.com/Kub9owaouE",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1426191362131599361/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 19330,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1426187016044044291/pu/pl/5Zqj3WrB1ZGbd6lz.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1426187016044044291/pu/vid/1280x720/IOhmd-IuYJYTat_h.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1426187016044044291/pu/vid/480x270/MntXyeUxWjq-_xWJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1426187016044044291/pu/vid/640x360/ijv3_N2bNPN5Y3sU.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 780,
+			"friends_count": 3,
+			"listed_count": 22,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305497822712623104/FY-WtTfo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305497822712623104/FY-WtTfo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1601735780",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YESEO EP [TRY FREE!] Teaser Video\n💥“D-1💥 ✨Tomorrow✨\n\n2021.08.14\n12PM (KST)\n\n[Credits]\n\nAll Music Made by YESEO\nMixed by IMLAY\nMastered by 권남우 @ 821sound \nDistribution by Poclanos\n\nFilm by Kim Moon Dog\nH&amp;M by Lee Eun Seo\nStyling by IBAEKILHO \n\nSupported by KOCCA\nMUSE ON https://t.co/Kub9owaouE"
+	},
+	{
+		"created_at": "Fri Aug 13 14:40:09 +0000 2021",
+		"id": 1426189702042849300,
+		"id_str": "1426191853574139909",
+		"full_text": "공연이 어느새 다음주로 다가왔네요. 새 앨범 [her] 발매 후 여러분과 처음 만나는 아주 소중한 공연이라 저희도 최선을 다해 준비하고 있어요. 방역수칙을 철저히 지키는 안전한 공연이 되도록 노력하겠습니다. 그럼 다음주에 만나요!! https://t.co/DnyxOJnguW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1426189652013158400,
+					"id_str": "1426189652013158405",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1426189652013158405/pu/img/avyMvhkB1ufP1jWE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1426189652013158405/pu/img/avyMvhkB1ufP1jWE.jpg",
+					"url": "https://t.co/DnyxOJnguW",
+					"display_url": "pic.twitter.com/DnyxOJnguW",
+					"expanded_url": "https://twitter.com/adoyband/status/1426189702042849288/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 363,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1426189652013158400,
+					"id_str": "1426189652013158405",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1426189652013158405/pu/img/avyMvhkB1ufP1jWE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1426189652013158405/pu/img/avyMvhkB1ufP1jWE.jpg",
+					"url": "https://t.co/DnyxOJnguW",
+					"display_url": "pic.twitter.com/DnyxOJnguW",
+					"expanded_url": "https://twitter.com/adoyband/status/1426189702042849288/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 363,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							8,
+							15
+						],
+						"duration_millis": 39167,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1426189652013158405/pu/vid/480x900/UwQ2xT6k5HCPaoMx.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1426189652013158405/pu/pl/rGiNbFhLKoD4rrVn.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1426189652013158405/pu/vid/320x600/AyDP86IPy4BuFKA4.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/Q5Vx7wQZVR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q5Vx7wQZVR",
+							"expanded_url": "https://orcd.co/adoy_her",
+							"display_url": "orcd.co/adoy_her",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4549,
+			"friends_count": 504,
+			"listed_count": 41,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1625820897",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공연이 어느새 다음주로 다가왔네요. 새 앨범 [her] 발매 후 여러분과 처음 만나는 아주 소중한 공연이라 저희도 최선을 다해 준비하고 있어요. 방역수칙을 철저히 지키는 안전한 공연이 되도록 노력하겠습니다. 그럼 다음주에 만나요!! https://t.co/DnyxOJnguW"
+	},
+	{
+		"created_at": "Fri Aug 13 14:30:15 +0000 2021",
+		"id": 1426189361184399400,
+		"id_str": "1426189361184399368",
+		"full_text": "#genie #지니 #MV #뮤직비디오 \n[티저] Queendom (MV Teaser) - Red Velvet (레드벨벳) (00:27) \nhttps://t.co/a2T974zBLJ \n \n#레드벨벳 #RedVelvet https://t.co/lcQVLhS8zH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "뮤직비디오",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						111,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a2T974zBLJ",
+					"expanded_url": "https://www.genie.co.kr/detail/mediaInfo?xvnm=213484",
+					"display_url": "genie.co.kr/detail/mediaIn…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1426189360223899600,
+					"id_str": "1426189360223899650",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/E8rXqraWUAIMsUc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8rXqraWUAIMsUc.jpg",
+					"url": "https://t.co/lcQVLhS8zH",
+					"display_url": "pic.twitter.com/lcQVLhS8zH",
+					"expanded_url": "https://twitter.com/fromminn/status/1426189361184399368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1426189360223899600,
+					"id_str": "1426189360223899650",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/E8rXqraWUAIMsUc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8rXqraWUAIMsUc.jpg",
+					"url": "https://t.co/lcQVLhS8zH",
+					"display_url": "pic.twitter.com/lcQVLhS8zH",
+					"expanded_url": "https://twitter.com/fromminn/status/1426189361184399368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #MV #뮤직비디오 \n[티저] Queendom (MV Teaser) - Red Velvet (레드벨벳) (00:27) \nhttps://t.co/a2T974zBLJ \n \n#레드벨벳 #RedVelvet https://t.co/lcQVLhS8zH"
+	},
+	{
 		"created_at": "Fri Aug 13 13:29:57 +0000 2021",
 		"id": 1426163854199992300,
 		"id_str": "1426174186104315912",
