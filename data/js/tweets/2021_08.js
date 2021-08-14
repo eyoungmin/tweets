@@ -1,6 +1,487 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sat Aug 14 09:01:33 +0000 2021",
+		"id": 1426469029481439200,
+		"id_str": "1426469029481439233",
+		"full_text": "#ADOY #아도이 \n[Teaser] ADOY (아도이) - Simply \nhttps://t.co/ZR7FO07geV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ADOY",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "아도이",
+					"indices": [
+						6,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZR7FO07geV",
+					"expanded_url": "https://www.youtube.com/watch?v=nRJ8csSPH_Y",
+					"display_url": "youtube.com/watch?v=nRJ8cs…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83616,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ADOY #아도이 \n[Teaser] ADOY (아도이) - Simply \nhttps://t.co/ZR7FO07geV"
+	},
+	{
+		"created_at": "Sat Aug 14 08:40:18 +0000 2021",
+		"id": 1426457102566887400,
+		"id_str": "1426463678933651457",
+		"full_text": "어휴 형아들 계정도\n잘 못 올렸군요! \n살짝 영혼이 탈출해 있어요. ㅎㅎ \n\n@2sunkyu\n@kim_jinman",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "2sunkyu",
+					"name": "이선규",
+					"id": 126699468,
+					"id_str": "126699468",
+					"indices": [
+						43,
+						51
+					]
+				},
+				{
+					"screen_name": "kim_jinman",
+					"name": "김진만",
+					"id": 359879659,
+					"id_str": "359879659",
+					"indices": [
+						52,
+						63
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1426423204508098600,
+		"in_reply_to_status_id_str": "1426423204508098563",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 270618,
+			"friends_count": 539,
+			"listed_count": 2814,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6294,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358217725089255426/J-5E7g_n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358217725089255426/J-5E7g_n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1612661273",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "어휴 형아들 계정도\n잘 못 올렸군요! \n살짝 영혼이 탈출해 있어요. ㅎㅎ \n\n@2sunkyu\n@kim_jinman"
+	},
+	{
+		"created_at": "Sat Aug 14 08:29:45 +0000 2021",
+		"id": 1426457342086828000,
+		"id_str": "1426461025088548864",
+		"full_text": "210814🔍[예능연구소 4K 직캠]\n\n'효연(HYO) - Second (feat. BIBI)'\n풀캠▶ https://t.co/fKfzgfZanI\n세로캠▶ https://t.co/bubkCdupmY\n\n#쇼음악중심 #음중 #효연 #HYO #Second #소녀시대 #GirlsGeneration @GirlsGeneration https://t.co/6pZ5zQxjEs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "음중",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						132,
+						139
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						146,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						163,
+						179
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fKfzgfZanI",
+					"expanded_url": "https://youtu.be/QYDA8kLlR2U",
+					"display_url": "youtu.be/QYDA8kLlR2U",
+					"indices": [
+						58,
+						81
+					]
+				},
+				{
+					"url": "https://t.co/bubkCdupmY",
+					"expanded_url": "https://youtu.be/CbJDO8i-ySc",
+					"display_url": "youtu.be/CbJDO8i-ySc",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1426457330531532800,
+					"id_str": "1426457330531532801",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/E8vLYmmVgAEgLO4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8vLYmmVgAEgLO4.jpg",
+					"url": "https://t.co/6pZ5zQxjEs",
+					"display_url": "pic.twitter.com/6pZ5zQxjEs",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1426457342086828036/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1426457330531532800,
+					"id_str": "1426457330531532801",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/E8vLYmmVgAEgLO4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8vLYmmVgAEgLO4.jpg",
+					"url": "https://t.co/6pZ5zQxjEs",
+					"display_url": "pic.twitter.com/6pZ5zQxjEs",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1426457342086828036/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 899174,
+			"friends_count": 6,
+			"listed_count": 926,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 215,
+		"favorite_count": 303,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "210814🔍[예능연구소 4K 직캠]\n\n'효연(HYO) - Second (feat. BIBI)'\n풀캠▶ https://t.co/fKfzgfZanI\n세로캠▶ https://t.co/bubkCdupmY\n\n#쇼음악중심 #음중 #효연 #HYO #Second #소녀시대 #GirlsGeneration @GirlsGeneration https://t.co/6pZ5zQxjEs"
+	},
+	{
 		"created_at": "Sat Aug 14 07:29:38 +0000 2021",
 		"id": 1426438443417182200,
 		"id_str": "1426445898205302787",
