@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sat Aug 14 03:11:42 +0000 2021",
+		"id": 1426378108278513700,
+		"id_str": "1426380984988016643",
+		"full_text": "💿🛒\n\n[Queens Ver.]\n\nSMTOWN&amp;STORE ➫ https://t.co/bKoLk5RmeA\nYES24➫ https://t.co/1T9fvGaXxU\nAladin➫ https://t.co/XbDGWX6QNW\nHottracks➫ https://t.co/C17R7aE4SP\nInterpark➫ https://t.co/nG2M8KnVYp\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Queendom",
+					"indices": [
+						196,
+						205
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						206,
+						209
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						210,
+						215
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						216,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bKoLk5RmeA",
+					"expanded_url": "https://bit.ly/37ERcZN",
+					"display_url": "bit.ly/37ERcZN",
+					"indices": [
+						38,
+						61
+					]
+				},
+				{
+					"url": "https://t.co/1T9fvGaXxU",
+					"expanded_url": "https://bit.ly/3COSQq4",
+					"display_url": "bit.ly/3COSQq4",
+					"indices": [
+						69,
+						92
+					]
+				},
+				{
+					"url": "https://t.co/XbDGWX6QNW",
+					"expanded_url": "https://bit.ly/3yLtze1",
+					"display_url": "bit.ly/3yLtze1",
+					"indices": [
+						101,
+						124
+					]
+				},
+				{
+					"url": "https://t.co/C17R7aE4SP",
+					"expanded_url": "https://bit.ly/3m2ZcvO",
+					"display_url": "bit.ly/3m2ZcvO",
+					"indices": [
+						136,
+						159
+					]
+				},
+				{
+					"url": "https://t.co/nG2M8KnVYp",
+					"expanded_url": "https://bit.ly/3yMf7lX",
+					"display_url": "bit.ly/3yMf7lX",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1426378047712759800,
+		"in_reply_to_status_id_str": "1426378047712759808",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4450205,
+			"friends_count": 1,
+			"listed_count": 9479,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2057,
+		"favorite_count": 5499,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💿🛒\n\n[Queens Ver.]\n\nSMTOWN&amp;STORE ➫ https://t.co/bKoLk5RmeA\nYES24➫ https://t.co/1T9fvGaXxU\nAladin➫ https://t.co/XbDGWX6QNW\nHottracks➫ https://t.co/C17R7aE4SP\nInterpark➫ https://t.co/nG2M8KnVYp\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet"
+	},
+	{
+		"created_at": "Sat Aug 14 03:09:35 +0000 2021",
+		"id": 1426378047712759800,
+		"id_str": "1426380455000121349",
+		"full_text": "💿🛒\n\n[Girls Ver.]\n\nSMTOWN&amp;STORE ➫ https://t.co/DdctuLtavU\nYES24➫ https://t.co/JEXFlR62EU\nAladin➫ https://t.co/sGVddQ02rV\nHottracks➫ https://t.co/GTiVVXxLsB\nInterpark➫ https://t.co/zoMw8DBCr1\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Queendom",
+					"indices": [
+						195,
+						204
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						205,
+						208
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						209,
+						214
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						215,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DdctuLtavU",
+					"expanded_url": "https://bit.ly/3COukFB",
+					"display_url": "bit.ly/3COukFB",
+					"indices": [
+						37,
+						60
+					]
+				},
+				{
+					"url": "https://t.co/JEXFlR62EU",
+					"expanded_url": "https://bit.ly/37NBE5L",
+					"display_url": "bit.ly/37NBE5L",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/sGVddQ02rV",
+					"expanded_url": "https://bit.ly/2UeMrCW",
+					"display_url": "bit.ly/2UeMrCW",
+					"indices": [
+						100,
+						123
+					]
+				},
+				{
+					"url": "https://t.co/GTiVVXxLsB",
+					"expanded_url": "https://bit.ly/3yZt0xn",
+					"display_url": "bit.ly/3yZt0xn",
+					"indices": [
+						135,
+						158
+					]
+				},
+				{
+					"url": "https://t.co/zoMw8DBCr1",
+					"expanded_url": "https://bit.ly/3iIaZhd",
+					"display_url": "bit.ly/3iIaZhd",
+					"indices": [
+						170,
+						193
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4450205,
+			"friends_count": 1,
+			"listed_count": 9479,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4006,
+		"favorite_count": 12168,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💿🛒\n\n[Girls Ver.]\n\nSMTOWN&amp;STORE ➫ https://t.co/DdctuLtavU\nYES24➫ https://t.co/JEXFlR62EU\nAladin➫ https://t.co/sGVddQ02rV\nHottracks➫ https://t.co/GTiVVXxLsB\nInterpark➫ https://t.co/zoMw8DBCr1\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet"
+	},
+	{
 		"created_at": "Fri Aug 13 23:08:41 +0000 2021",
 		"id": 1426319829313675300,
 		"id_str": "1426319829313675269",
