@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sat Aug 14 06:54:25 +0000 2021",
+		"id": 1426433227103735800,
+		"id_str": "1426437035028402176",
+		"full_text": "8월 23일(월) 정오, 이랑의 정규 3집 [늑대가 나타났다]가 각종 음원사이트를 통해 공개됩니다. 23일 저녁 8시, 앨범 작업기와 수록곡의 코멘터리를 들을 수 있는 [코멘터리룸 : 늑대가 나타났다 편]을 온라인 ZOOM으로 진행합니다. *토크이벤트입니다\n사회 신승은\n예매\nhttps://t.co/yhtxEdOwgG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yhtxEdOwgG",
+					"expanded_url": "https://booking.naver.com/booking/5/bizes/231373/items/4057575",
+					"display_url": "booking.naver.com/booking/5/bize…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213091891,
+			"id_str": "213091891",
+			"name": "이랑｜Lang Lee",
+			"screen_name": "langleeschool",
+			"location": "Seoul, Korea",
+			"description": "이랑｜李瀧｜イ・ラン｜Lang Lee  \n📧  info.langlee@gmail.com \n/ 日本の仕事は info.sweetdreams@gmail.com\n🐤 STAFF @info_langlee",
+			"url": "https://t.co/hxdzv5RruQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hxdzv5RruQ",
+							"expanded_url": "https://linktr.ee/langlee",
+							"display_url": "linktr.ee/langlee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33469,
+			"friends_count": 1151,
+			"listed_count": 174,
+			"created_at": "Sun Nov 07 23:19:48 +0000 2010",
+			"favourites_count": 4591,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFF66",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374369420559097859/lX37WZQ5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374369420559097859/lX37WZQ5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213091891/1591790406",
+			"profile_link_color": "800000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "8월 23일(월) 정오, 이랑의 정규 3집 [늑대가 나타났다]가 각종 음원사이트를 통해 공개됩니다. 23일 저녁 8시, 앨범 작업기와 수록곡의 코멘터리를 들을 수 있는 [코멘터리룸 : 늑대가 나타났다 편]을 온라인 ZOOM으로 진행합니다. *토크이벤트입니다\n사회 신승은\n예매\nhttps://t.co/yhtxEdOwgG"
+	},
+	{
 		"created_at": "Sat Aug 14 04:40:09 +0000 2021",
 		"id": 1426389667172126700,
 		"id_str": "1426403246340558860",
