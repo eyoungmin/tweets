@@ -1,6 +1,178 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sat Aug 14 23:40:09 +0000 2021",
+		"id": 1426646076803661800,
+		"id_str": "1426690137216401410",
+		"full_text": "NEW DUMPSTER FIRE SHIRT DROP: https://t.co/ezdo1Pf9dz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1426646073104343000,
+					"id_str": "1426646073104343046",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/E8x3C3eXIAYveLi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8x3C3eXIAYveLi.jpg",
+					"url": "https://t.co/ezdo1Pf9dz",
+					"display_url": "pic.twitter.com/ezdo1Pf9dz",
+					"expanded_url": "https://twitter.com/Thundercat/status/1426646076803661825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 364,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 857,
+							"h": 1601,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 642,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1426646073104343000,
+					"id_str": "1426646073104343046",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/E8x3C3eXIAYveLi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8x3C3eXIAYveLi.jpg",
+					"url": "https://t.co/ezdo1Pf9dz",
+					"display_url": "pic.twitter.com/ezdo1Pf9dz",
+					"expanded_url": "https://twitter.com/Thundercat/status/1426646076803661825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 364,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 857,
+							"h": 1601,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 642,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 272071608,
+			"id_str": "272071608",
+			"name": "ashy daddy",
+			"screen_name": "Thundercat",
+			"location": "Ashy....but i got some grammys",
+			"description": "IT IS WHAT IT IS:https://t.co/yPnjD2Ob9M",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yPnjD2Ob9M",
+							"expanded_url": "https://thundercat.lnk.to/it-is-what-it-isAT",
+							"display_url": "thundercat.lnk.to/it-is-what-it-…",
+							"indices": [
+								17,
+								40
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 446357,
+			"friends_count": 966,
+			"listed_count": 1194,
+			"created_at": "Fri Mar 25 19:33:23 +0000 2011",
+			"favourites_count": 63282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340564850720690176/OBVbGpVP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340564850720690176/OBVbGpVP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/272071608/1596880614",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 115,
+		"favorite_count": 2444,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW DUMPSTER FIRE SHIRT DROP: https://t.co/ezdo1Pf9dz"
+	},
+	{
 		"created_at": "Sat Aug 14 18:40:09 +0000 2021",
 		"id": 1426607458957598700,
 		"id_str": "1426614639534747656",
