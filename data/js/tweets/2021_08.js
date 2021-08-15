@@ -1,6 +1,110 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sun Aug 15 06:13:34 +0000 2021",
+		"id": 1426785074201075700,
+		"id_str": "1426789142071975936",
+		"full_text": "앨범을 추천하고 싶은 친구를 게시물에 태그 하면 당첨 확률 UP!\n추첨을 통해 [her] 사인 CD를 선물로 드립니다\n이벤트기간 : 8.15(일) ~ 8.20(금)4PM\n당첨자발표 : 8.20(금)6PM\n*비공개 계정일 경우 확인이 불가하니, 꼭 공개글로 전환해주세요.\n*국내, 해외 음원 사이트 모두 참여 가능합니다. #ADOY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ADOY",
+					"indices": [
+						179,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1426784697648963600,
+		"in_reply_to_status_id_str": "1426784697648963584",
+		"in_reply_to_user_id": 755405901515718700,
+		"in_reply_to_user_id_str": "755405901515718656",
+		"in_reply_to_screen_name": "adoyband",
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/Q5Vx7wQZVR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q5Vx7wQZVR",
+							"expanded_url": "https://orcd.co/adoy_her",
+							"display_url": "orcd.co/adoy_her",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4557,
+			"friends_count": 504,
+			"listed_count": 41,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1625820897",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "앨범을 추천하고 싶은 친구를 게시물에 태그 하면 당첨 확률 UP!\n추첨을 통해 [her] 사인 CD를 선물로 드립니다\n이벤트기간 : 8.15(일) ~ 8.20(금)4PM\n당첨자발표 : 8.20(금)6PM\n*비공개 계정일 경우 확인이 불가하니, 꼭 공개글로 전환해주세요.\n*국내, 해외 음원 사이트 모두 참여 가능합니다. #ADOY"
+	},
+	{
 		"created_at": "Sun Aug 15 04:40:19 +0000 2021",
 		"id": 1426761511062556700,
 		"id_str": "1426765676631445505",
