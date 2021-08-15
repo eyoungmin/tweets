@@ -1,6 +1,1049 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sun Aug 15 09:40:28 +0000 2021",
+		"id": 1426835905151529000,
+		"id_str": "1426841209000108034",
+		"full_text": "Hair by Soojung Park @hairbysjp\nMakeup by Jiwon Moon @mooondddddd\nSupport by Doeun Seo @seo_doeun\n\n#ADOY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ADOY",
+					"indices": [
+						99,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seo_doeun",
+					"name": "ㅅㄷㅇ",
+					"id": 157892203,
+					"id_str": "157892203",
+					"indices": [
+						87,
+						97
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1426835832598499300,
+		"in_reply_to_status_id_str": "1426835832598499328",
+		"in_reply_to_user_id": 755405901515718700,
+		"in_reply_to_user_id_str": "755405901515718656",
+		"in_reply_to_screen_name": "adoyband",
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/Q5Vx7wQZVR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q5Vx7wQZVR",
+							"expanded_url": "https://orcd.co/adoy_her",
+							"display_url": "orcd.co/adoy_her",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4564,
+			"friends_count": 504,
+			"listed_count": 41,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1625820897",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hair by Soojung Park @hairbysjp\nMakeup by Jiwon Moon @mooondddddd\nSupport by Doeun Seo @seo_doeun\n\n#ADOY"
+	},
+	{
+		"created_at": "Sun Aug 15 09:40:24 +0000 2021",
+		"id": 1426835832598499300,
+		"id_str": "1426841191690260482",
+		"full_text": "M/V by Jinsoo Chung @visualsfrom\nMixed by Daesung Kim @tonestudio_kr\nMastered by Greg Calbi, Steve Fallone @sterlingsound\nArtwork by Agnes Ricart @agnesricart\nAlbum design by Junki Hong @jun.works\nPhoto by Dongjoo Son @sondongjoo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "visualsfrom",
+					"name": "visualsfrom",
+					"id": 705438717234667500,
+					"id_str": "705438717234667520",
+					"indices": [
+						20,
+						32
+					]
+				},
+				{
+					"screen_name": "SterlingSound",
+					"name": "Sterling Sound",
+					"id": 235294345,
+					"id_str": "235294345",
+					"indices": [
+						107,
+						121
+					]
+				},
+				{
+					"screen_name": "agnesricart",
+					"name": "agnesricart",
+					"id": 956926989285380100,
+					"id_str": "956926989285380098",
+					"indices": [
+						146,
+						158
+					]
+				},
+				{
+					"screen_name": "Jun",
+					"name": "Jun",
+					"id": 266189655,
+					"id_str": "266189655",
+					"indices": [
+						186,
+						190
+					]
+				},
+				{
+					"screen_name": "sondongjoo",
+					"name": "joo",
+					"id": 65012994,
+					"id_str": "65012994",
+					"indices": [
+						218,
+						229
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1426833314833334300,
+		"in_reply_to_status_id_str": "1426833314833334275",
+		"in_reply_to_user_id": 755405901515718700,
+		"in_reply_to_user_id_str": "755405901515718656",
+		"in_reply_to_screen_name": "adoyband",
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/Q5Vx7wQZVR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q5Vx7wQZVR",
+							"expanded_url": "https://orcd.co/adoy_her",
+							"display_url": "orcd.co/adoy_her",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4564,
+			"friends_count": 504,
+			"listed_count": 41,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1625820897",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "M/V by Jinsoo Chung @visualsfrom\nMixed by Daesung Kim @tonestudio_kr\nMastered by Greg Calbi, Steve Fallone @sterlingsound\nArtwork by Agnes Ricart @agnesricart\nAlbum design by Junki Hong @jun.works\nPhoto by Dongjoo Son @sondongjoo"
+	},
+	{
+		"created_at": "Sun Aug 15 09:29:54 +0000 2021",
+		"id": 1426831063830073300,
+		"id_str": "1426838552214659079",
+		"full_text": "[안방1열 직캠4K] 효연 'Second (Feat. 비비)' (HYO FanCam)│@ SBS Inkigayo_2021.08.15.\n\n🧡 https://t.co/VkS67a5BCx \n\n#효연 #HYO #Second\n#소녀시대 #GirlsGeneration \n#인기가요 #Inkigayo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "효연",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						113,
+						120
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						127,
+						143
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "Inkigayo",
+					"indices": [
+						151,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VkS67a5BCx",
+					"expanded_url": "https://youtu.be/w3pG2h4I1jM",
+					"display_url": "youtu.be/w3pG2h4I1jM",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3659486,
+			"friends_count": 4,
+			"listed_count": 5500,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1628046003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 652,
+		"favorite_count": 1818,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[안방1열 직캠4K] 효연 'Second (Feat. 비비)' (HYO FanCam)│@ SBS Inkigayo_2021.08.15.\n\n🧡 https://t.co/VkS67a5BCx \n\n#효연 #HYO #Second\n#소녀시대 #GirlsGeneration \n#인기가요 #Inkigayo"
+	},
+	{
+		"created_at": "Sun Aug 15 09:29:48 +0000 2021",
+		"id": 1426830773370323000,
+		"id_str": "1426838526507855876",
+		"full_text": "퍼포먼스 퀸의 귀환★ 긍정 메시지를 담은 ‘효연’의 ‘Second’ (ft.비비)\n\n🧡 https://t.co/DRB1hXiaRQ\n\n#효연 #HYO #Second\n#소녀시대 #GirlsGeneration \n#인기가요 #Inkigayo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "효연",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						97,
+						113
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "Inkigayo",
+					"indices": [
+						121,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DRB1hXiaRQ",
+					"expanded_url": "https://tv.naver.com/v/21882765",
+					"display_url": "tv.naver.com/v/21882765",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3659486,
+			"friends_count": 4,
+			"listed_count": 5500,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1628046003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 618,
+		"favorite_count": 1701,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "퍼포먼스 퀸의 귀환★ 긍정 메시지를 담은 ‘효연’의 ‘Second’ (ft.비비)\n\n🧡 https://t.co/DRB1hXiaRQ\n\n#효연 #HYO #Second\n#소녀시대 #GirlsGeneration \n#인기가요 #Inkigayo"
+	},
+	{
+		"created_at": "Sun Aug 15 09:29:44 +0000 2021",
+		"id": 1426827250213834800,
+		"id_str": "1426838509265068032",
+		"full_text": "[🎥#안방1열직캠] 효연 - Second (Feat. 비비)\n\n#효연 #HYO #Second #세컨드 #소녀시대 #GirlsGeneration @Hyoyeon_djhyo @GirlsGeneration\n\n📌https://t.co/N6crosYtVQ https://t.co/OWg60auOn2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안방1열직캠",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						35,
+						38
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						44,
+						51
+					]
+				},
+				{
+					"text": "세컨드",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						63,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						80,
+						94
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						95,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/N6crosYtVQ",
+					"expanded_url": "https://youtu.be/w3pG2h4I1jM",
+					"display_url": "youtu.be/w3pG2h4I1jM",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1426827027814912000,
+					"id_str": "1426827027814912002",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/E80bn0TVkAIma1f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E80bn0TVkAIma1f.jpg",
+					"url": "https://t.co/OWg60auOn2",
+					"display_url": "pic.twitter.com/OWg60auOn2",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1426827250213834754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1426827027814912000,
+					"id_str": "1426827027814912002",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/E80bn0TVkAIma1f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E80bn0TVkAIma1f.jpg",
+					"url": "https://t.co/OWg60auOn2",
+					"display_url": "pic.twitter.com/OWg60auOn2",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1426827250213834754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/qapZ7nOCns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qapZ7nOCns",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 489737,
+			"friends_count": 77,
+			"listed_count": 507,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 3492,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3428,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1628997571",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 282,
+		"favorite_count": 529,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥#안방1열직캠] 효연 - Second (Feat. 비비)\n\n#효연 #HYO #Second #세컨드 #소녀시대 #GirlsGeneration @Hyoyeon_djhyo @GirlsGeneration\n\n📌https://t.co/N6crosYtVQ https://t.co/OWg60auOn2"
+	},
+	{
+		"created_at": "Sun Aug 15 09:26:36 +0000 2021",
+		"id": 1426831032528130000,
+		"id_str": "1426837718189764608",
+		"full_text": "[유라]\n우기x영지x유라의 조합!\nWOOGIE X Lee Young Ji (Feat.유라 (youra)) 의\n\"HATE ME\"\n지금 바로 각종 음원사이트에서 만나보실 수 있습니다!\n\n#우기 #영지 #유라 #힙합 #music https://t.co/magr2TCmK6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우기",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "영지",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "유라",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "힙합",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						118,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1426818593526669300,
+					"id_str": "1426818593526669320",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/E80T84IUYAg0wa_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E80T84IUYAg0wa_.jpg",
+					"url": "https://t.co/magr2TCmK6",
+					"display_url": "pic.twitter.com/magr2TCmK6",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1426831032528130048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 780,
+							"h": 780,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 780,
+							"h": 780,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1426818593526669300,
+					"id_str": "1426818593526669320",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/E80T84IUYAg0wa_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E80T84IUYAg0wa_.jpg",
+					"url": "https://t.co/magr2TCmK6",
+					"display_url": "pic.twitter.com/magr2TCmK6",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1426831032528130048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 780,
+							"h": 780,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 780,
+							"h": 780,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/에버루아/아일",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 808,
+			"friends_count": 7,
+			"listed_count": 17,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유라]\n우기x영지x유라의 조합!\nWOOGIE X Lee Young Ji (Feat.유라 (youra)) 의\n\"HATE ME\"\n지금 바로 각종 음원사이트에서 만나보실 수 있습니다!\n\n#우기 #영지 #유라 #힙합 #music https://t.co/magr2TCmK6"
+	},
+	{
 		"created_at": "Sun Aug 15 08:29:53 +0000 2021",
 		"id": 1426815911315394600,
 		"id_str": "1426823448920211459",
