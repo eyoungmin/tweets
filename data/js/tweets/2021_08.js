@@ -1,6 +1,628 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sun Aug 15 12:40:10 +0000 2021",
+		"id": 1426881739826229200,
+		"id_str": "1426886431067279363",
+		"full_text": "[#진솔 / #JinSoul] 구칠즈 모였다요🙋‍♀️🙋‍♀️🙋‍♀️\n\n#이달의소녀 #LOONA https://t.co/Mm7AIC2D5S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "진솔",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						46,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1426881727864078300,
+					"id_str": "1426881727864078336",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/E81NXx3VgAA4_Kd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E81NXx3VgAA4_Kd.jpg",
+					"url": "https://t.co/Mm7AIC2D5S",
+					"display_url": "pic.twitter.com/Mm7AIC2D5S",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1426881739826229252/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1426881727864078300,
+					"id_str": "1426881727864078336",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/E81NXx3VgAA4_Kd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E81NXx3VgAA4_Kd.jpg",
+					"url": "https://t.co/Mm7AIC2D5S",
+					"display_url": "pic.twitter.com/Mm7AIC2D5S",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1426881739826229252/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1426881727868248000,
+					"id_str": "1426881727868248066",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/E81NXx4VIAIm0lm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E81NXx4VIAIm0lm.jpg",
+					"url": "https://t.co/Mm7AIC2D5S",
+					"display_url": "pic.twitter.com/Mm7AIC2D5S",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1426881739826229252/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1426881727872393200,
+					"id_str": "1426881727872393216",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/E81NXx5UYAAKVny.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E81NXx5UYAAKVny.jpg",
+					"url": "https://t.co/Mm7AIC2D5S",
+					"display_url": "pic.twitter.com/Mm7AIC2D5S",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1426881739826229252/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1426881727864008700,
+					"id_str": "1426881727864008709",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/E81NXx3UcAUeCRc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E81NXx3UcAUeCRc.jpg",
+					"url": "https://t.co/Mm7AIC2D5S",
+					"display_url": "pic.twitter.com/Mm7AIC2D5S",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1426881739826229252/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 790660,
+			"friends_count": 1,
+			"listed_count": 7843,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3166,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7499,
+		"favorite_count": 17278,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#진솔 / #JinSoul] 구칠즈 모였다요🙋‍♀️🙋‍♀️🙋‍♀️\n\n#이달의소녀 #LOONA https://t.co/Mm7AIC2D5S"
+	},
+	{
+		"created_at": "Sun Aug 15 12:10:40 +0000 2021",
+		"id": 1426876326728900600,
+		"id_str": "1426879008482807822",
+		"full_text": "SNS에서 난리 난 8월 신작 드라마 존잼 포인트 요약집\n\n#차태현 #신민아 #김선호 #김유정 #더로드 #1의비극 #그사세 #백수현 #지진희 #윤세아 #경찰수업 #경찰대 #정수정 #진영 #갯마을차차차 #홍천기 #안효섭 \nhttps://t.co/xgXHpsZoBO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "차태현",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "신민아",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "김선호",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"text": "김유정",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "더로드",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "1의비극",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "그사세",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "백수현",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "지진희",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "윤세아",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "경찰수업",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "경찰대",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "정수정",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "진영",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "갯마을차차차",
+					"indices": [
+						104,
+						111
+					]
+				},
+				{
+					"text": "홍천기",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "안효섭",
+					"indices": [
+						117,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xgXHpsZoBO",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/57687?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/57687?…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88934,
+			"friends_count": 4,
+			"listed_count": 399,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12960,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 115,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SNS에서 난리 난 8월 신작 드라마 존잼 포인트 요약집\n\n#차태현 #신민아 #김선호 #김유정 #더로드 #1의비극 #그사세 #백수현 #지진희 #윤세아 #경찰수업 #경찰대 #정수정 #진영 #갯마을차차차 #홍천기 #안효섭 \nhttps://t.co/xgXHpsZoBO"
+	},
+	{
+		"created_at": "Sun Aug 15 12:10:08 +0000 2021",
+		"id": 1426878874520940500,
+		"id_str": "1426878874520940547",
+		"full_text": "트윗 게시하고 바로 메인으로 올려버리면 봇이 누락시키는구나.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 313,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83648,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "트윗 게시하고 바로 메인으로 올려버리면 봇이 누락시키는구나."
+	},
+	{
 		"created_at": "Sun Aug 15 11:43:55 +0000 2021",
 		"id": 1426872277275193300,
 		"id_str": "1426872277275193344",
