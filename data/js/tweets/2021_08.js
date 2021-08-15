@@ -1,6 +1,558 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sun Aug 15 04:40:19 +0000 2021",
+		"id": 1426761511062556700,
+		"id_str": "1426765676631445505",
+		"full_text": "IND) https://t.co/DVCHLbGHWv\nTHAI) https://t.co/zuN35oUrFv\nVIET) https://t.co/qQLuUpDc1p\nESP) https://t.co/WfYETyXfIa\n\n#레드벨벳 #RedVelvet\n#JOY #조이 #YERI #예리\n#RedVelvet_ONLINE_FANMEETING_inteRView_vol7_Queendom\n#NAVER #VLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						125,
+						135
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "RedVelvet_ONLINE_FANMEETING_inteRView_vol7_Queendom",
+					"indices": [
+						155,
+						207
+					]
+				},
+				{
+					"text": "NAVER",
+					"indices": [
+						208,
+						214
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						215,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DVCHLbGHWv",
+					"expanded_url": "https://bit.ly/3C6jYAn",
+					"display_url": "bit.ly/3C6jYAn",
+					"indices": [
+						5,
+						28
+					]
+				},
+				{
+					"url": "https://t.co/zuN35oUrFv",
+					"expanded_url": "https://bit.ly/2WFqeyN",
+					"display_url": "bit.ly/2WFqeyN",
+					"indices": [
+						35,
+						58
+					]
+				},
+				{
+					"url": "https://t.co/qQLuUpDc1p",
+					"expanded_url": "https://bit.ly/3yjX7z6",
+					"display_url": "bit.ly/3yjX7z6",
+					"indices": [
+						65,
+						88
+					]
+				},
+				{
+					"url": "https://t.co/WfYETyXfIa",
+					"expanded_url": "https://bit.ly/2VftQav",
+					"display_url": "bit.ly/2VftQav",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1426761455437709300,
+		"in_reply_to_status_id_str": "1426761455437709316",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4454311,
+			"friends_count": 1,
+			"listed_count": 9488,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 345,
+		"favorite_count": 1703,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "IND) https://t.co/DVCHLbGHWv\nTHAI) https://t.co/zuN35oUrFv\nVIET) https://t.co/qQLuUpDc1p\nESP) https://t.co/WfYETyXfIa\n\n#레드벨벳 #RedVelvet\n#JOY #조이 #YERI #예리\n#RedVelvet_ONLINE_FANMEETING_inteRView_vol7_Queendom\n#NAVER #VLIVE"
+	},
+	{
+		"created_at": "Sun Aug 15 04:40:12 +0000 2021",
+		"id": 1426761455437709300,
+		"id_str": "1426765646768058369",
+		"full_text": "🎫 NAVER V LIVE Tickets\n \nKOR) https://t.co/JAurrjYjt9\nEN) https://t.co/NaQ3MIR4No\nJP) https://t.co/qqOb6R8qD5\n簡) https://t.co/chaW05EtpC\n繁) https://t.co/x6xGWWnGSh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JAurrjYjt9",
+					"expanded_url": "https://bit.ly/3yhYkHe",
+					"display_url": "bit.ly/3yhYkHe",
+					"indices": [
+						30,
+						53
+					]
+				},
+				{
+					"url": "https://t.co/NaQ3MIR4No",
+					"expanded_url": "https://bit.ly/2VnuzGq",
+					"display_url": "bit.ly/2VnuzGq",
+					"indices": [
+						58,
+						81
+					]
+				},
+				{
+					"url": "https://t.co/qqOb6R8qD5",
+					"expanded_url": "https://bit.ly/37bPIpF",
+					"display_url": "bit.ly/37bPIpF",
+					"indices": [
+						86,
+						109
+					]
+				},
+				{
+					"url": "https://t.co/chaW05EtpC",
+					"expanded_url": "https://bit.ly/2V77b06",
+					"display_url": "bit.ly/2V77b06",
+					"indices": [
+						113,
+						136
+					]
+				},
+				{
+					"url": "https://t.co/x6xGWWnGSh",
+					"expanded_url": "https://bit.ly/3Cfgn3h",
+					"display_url": "bit.ly/3Cfgn3h",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1426761401389883400,
+		"in_reply_to_status_id_str": "1426761401389883393",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4454311,
+			"friends_count": 1,
+			"listed_count": 9488,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 389,
+		"favorite_count": 1961,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "da",
+		"text": "🎫 NAVER V LIVE Tickets\n \nKOR) https://t.co/JAurrjYjt9\nEN) https://t.co/NaQ3MIR4No\nJP) https://t.co/qqOb6R8qD5\n簡) https://t.co/chaW05EtpC\n繁) https://t.co/x6xGWWnGSh"
+	},
+	{
+		"created_at": "Sun Aug 15 04:40:09 +0000 2021",
+		"id": 1426761401389883400,
+		"id_str": "1426765633753133056",
+		"full_text": "Red Velvet Megazine - inteRView vol.7 : Queendom📰\n\n2021년 8월 16일! 기다렸던 썸머퀸들의 등장, “inteRView vol.7 : Queendom”\n \n‘JOY, YERI’ inteRView 미리 엿보기👀!\n \n퀸들의 남은 inteRView는\n8월 16일 (월) 08:00 PM(KST) Beyond LIVE에서 확인해 보세요~!😉\nComing Soon~! https://t.co/YFwx9cbS1X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1426761359211962400,
+					"id_str": "1426761359211962374",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/E8zf5ZsVIAYo-sL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8zf5ZsVIAYo-sL.jpg",
+					"url": "https://t.co/YFwx9cbS1X",
+					"display_url": "pic.twitter.com/YFwx9cbS1X",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1426761401389883393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 231,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 696,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 408,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1426761359211962400,
+					"id_str": "1426761359211962374",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/E8zf5ZsVIAYo-sL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8zf5ZsVIAYo-sL.jpg",
+					"url": "https://t.co/YFwx9cbS1X",
+					"display_url": "pic.twitter.com/YFwx9cbS1X",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1426761401389883393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 231,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 696,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 408,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1426761359329415200,
+					"id_str": "1426761359329415172",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/E8zf5aIVUAQRmwo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8zf5aIVUAQRmwo.jpg",
+					"url": "https://t.co/YFwx9cbS1X",
+					"display_url": "pic.twitter.com/YFwx9cbS1X",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1426761401389883393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 696,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 408,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 231,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4454311,
+			"friends_count": 1,
+			"listed_count": 9488,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2604,
+		"favorite_count": 7206,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Red Velvet Megazine - inteRView vol.7 : Queendom📰\n\n2021년 8월 16일! 기다렸던 썸머퀸들의 등장, “inteRView vol.7 : Queendom”\n \n‘JOY, YERI’ inteRView 미리 엿보기👀!\n \n퀸들의 남은 inteRView는\n8월 16일 (월) 08:00 PM(KST) Beyond LIVE에서 확인해 보세요~!😉\nComing Soon~! https://t.co/YFwx9cbS1X"
+	},
+	{
 		"created_at": "Sun Aug 15 03:02:36 +0000 2021",
 		"id": 1426741082235224000,
 		"id_str": "1426741082235224068",
