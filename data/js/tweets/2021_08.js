@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sun Aug 15 23:40:18 +0000 2021",
+		"id": 1427046669997289500,
+		"id_str": "1427052559370493952",
+		"full_text": "@TheNoodle1967 @islandrecordsuk We didn't leave any debris! As the article says, we paid for waste collection first thing the next day. All these articles are fake news - the production company rightfully hired the beach for filming purposes and we had full permission to use it. No harm was done - promise!!",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			308
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheNoodle1967",
+					"name": "Me",
+					"id": 20468917,
+					"id_str": "20468917",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "islandrecordsuk",
+					"name": "Island Records",
+					"id": 21113023,
+					"id_str": "21113023",
+					"indices": [
+						15,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1426493503983472600,
+		"in_reply_to_status_id_str": "1426493503983472641",
+		"in_reply_to_user_id": 20468917,
+		"in_reply_to_user_id_str": "20468917",
+		"in_reply_to_screen_name": "TheNoodle1967",
+		"user": {
+			"id": 2740435740,
+			"id_str": "2740435740",
+			"name": "Oh Wonder",
+			"screen_name": "OhWonderMusic",
+			"location": "London",
+			"description": "Our new album 'No One Else Can Wear Your Crown' is out now 👑",
+			"url": "https://t.co/cVg0U1Kw8y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cVg0U1Kw8y",
+							"expanded_url": "https://ohwonder.lnk.to/No_One_Else_Can_Wear_Your_CrownTW",
+							"display_url": "ohwonder.lnk.to/No_One_Else_Ca…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168836,
+			"friends_count": 203,
+			"listed_count": 420,
+			"created_at": "Sun Aug 17 20:45:13 +0000 2014",
+			"favourites_count": 3518,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5213,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215307732095467521/if0osRtf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215307732095467521/if0osRtf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740435740/1590060241",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@TheNoodle1967 @islandrecordsuk We didn't leave any debris! As the article says, we paid for waste collection first thing the next day. All these articles are fake news - the production company rightfully hired the beach for filming purposes and we had full permission to use it. No harm was done - promise!!"
+	},
+	{
 		"created_at": "Sun Aug 15 15:00:28 +0000 2021",
 		"id": 1426383771201331200,
 		"id_str": "1426921741498998787",
