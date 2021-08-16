@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 16 07:12:11 +0000 2021",
+		"id": 1427163354699735000,
+		"id_str": "1427166282965688325",
+		"full_text": "Red Velvet's new mini album 'Queendom' to be released today! \n\n\"Making our comeback after a long time, we are excited yet nervous as if it was when we just made our debut. We hope the positive energy gets delivered\"\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Queendom",
+					"indices": [
+						217,
+						226
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						227,
+						230
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						231,
+						236
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						237,
+						247
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1427163193286160400,
+		"in_reply_to_status_id_str": "1427163193286160394",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4459300,
+			"friends_count": 1,
+			"listed_count": 9515,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4904,
+		"favorite_count": 12469,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Red Velvet's new mini album 'Queendom' to be released today! \n\n\"Making our comeback after a long time, we are excited yet nervous as if it was when we just made our debut. We hope the positive energy gets delivered\"\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet"
+	},
+	{
 		"created_at": "Mon Aug 16 06:46:08 +0000 2021",
 		"id": 1427159725997703200,
 		"id_str": "1427159725997703169",
