@@ -1,6 +1,537 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 17 19:12:32 +0000 2021",
+		"id": 1427695097752080400,
+		"id_str": "1427709951896559619",
+		"full_text": "#슬기zip 아낌없이 주는 #슬기 🌳 \n#온앤오프 좋아하는 과자 꽉꽉 채워드리는 울 쥔님💛\n\nEvery Tue, Thu 10PM 슬기zip https://t.co/sdg1bSZCAK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						15,
+						18
+					]
+				},
+				{
+					"text": "온앤오프",
+					"indices": [
+						22,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1427678555157135400,
+					"id_str": "1427678555157135368",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/E9AiFO2VgAg0cwg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9AiFO2VgAg0cwg.jpg",
+					"url": "https://t.co/sdg1bSZCAK",
+					"display_url": "pic.twitter.com/sdg1bSZCAK",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1427695097752080386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427678555157135400,
+					"id_str": "1427678555157135368",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/E9AiFO2VgAg0cwg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9AiFO2VgAg0cwg.jpg",
+					"url": "https://t.co/sdg1bSZCAK",
+					"display_url": "pic.twitter.com/sdg1bSZCAK",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1427695097752080386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1427678555224166400,
+					"id_str": "1427678555224166404",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/E9AiFPGUUAQ_lCQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9AiFPGUUAQ_lCQ.jpg",
+					"url": "https://t.co/sdg1bSZCAK",
+					"display_url": "pic.twitter.com/sdg1bSZCAK",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1427695097752080386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40260,
+			"friends_count": 1,
+			"listed_count": 234,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1621911527",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 428,
+		"favorite_count": 1130,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 아낌없이 주는 #슬기 🌳 \n#온앤오프 좋아하는 과자 꽉꽉 채워드리는 울 쥔님💛\n\nEvery Tue, Thu 10PM 슬기zip https://t.co/sdg1bSZCAK"
+	},
+	{
+		"created_at": "Tue Aug 17 19:12:32 +0000 2021",
+		"id": 1427695107839389700,
+		"id_str": "1427709951896526849",
+		"full_text": "#슬기zip 방송 전 다소곳하게 앉아서 속마음 퀴즈 푸는 #이션 찰칵📸 못스콧 못스콧🔨 열심히 만든 창돌표 내 집 마련 🏡\n\nEvery Tue, Thu 10PM 슬기zip https://t.co/30hcmFHI3h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "이션",
+					"indices": [
+						32,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1427678625000681500,
+					"id_str": "1427678625000681473",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/E9AiJTCVcAE_epg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9AiJTCVcAE_epg.jpg",
+					"url": "https://t.co/30hcmFHI3h",
+					"display_url": "pic.twitter.com/30hcmFHI3h",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1427695107839389698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 791,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 448,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1351,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427678625000681500,
+					"id_str": "1427678625000681473",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/E9AiJTCVcAE_epg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9AiJTCVcAE_epg.jpg",
+					"url": "https://t.co/30hcmFHI3h",
+					"display_url": "pic.twitter.com/30hcmFHI3h",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1427695107839389698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 791,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 448,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1351,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1427678625185222700,
+					"id_str": "1427678625185222665",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/E9AiJTuVUAk81IY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9AiJTuVUAk81IY.jpg",
+					"url": "https://t.co/30hcmFHI3h",
+					"display_url": "pic.twitter.com/30hcmFHI3h",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1427695107839389698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1427684529771204600,
+					"id_str": "1427684529771204610",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/E9AnhABVUAIn-8D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9AnhABVUAIn-8D.jpg",
+					"url": "https://t.co/30hcmFHI3h",
+					"display_url": "pic.twitter.com/30hcmFHI3h",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1427695107839389698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1427684529771217000,
+					"id_str": "1427684529771216898",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/E9AnhABVgAI0Wue.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9AnhABVgAI0Wue.jpg",
+					"url": "https://t.co/30hcmFHI3h",
+					"display_url": "pic.twitter.com/30hcmFHI3h",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1427695107839389698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1427695097752080400,
+		"in_reply_to_status_id_str": "1427695097752080386",
+		"in_reply_to_user_id": 1396370716300218400,
+		"in_reply_to_user_id_str": "1396370716300218369",
+		"in_reply_to_screen_name": "seulgi_zip",
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40260,
+			"friends_count": 1,
+			"listed_count": 234,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1621911527",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 108,
+		"favorite_count": 311,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 방송 전 다소곳하게 앉아서 속마음 퀴즈 푸는 #이션 찰칵📸 못스콧 못스콧🔨 열심히 만든 창돌표 내 집 마련 🏡\n\nEvery Tue, Thu 10PM 슬기zip https://t.co/30hcmFHI3h"
+	},
+	{
 		"created_at": "Tue Aug 17 17:24:23 +0000 2021",
 		"id": 1427676606227681300,
 		"id_str": "1427682732730060803",
