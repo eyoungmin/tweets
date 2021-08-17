@@ -1,6 +1,1415 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 17 03:52:12 +0000 2021",
+		"id": 1427478341238538200,
+		"id_str": "1427478341238538241",
+		"full_text": "#Melon #멜론 #비디오 \n[MV]Queendom (03:09) \nhttps://t.co/BQ4fL3dptA \n \n#레드벨벳 #RedVelvet https://t.co/KUsAd07CR0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "비디오",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						72,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BQ4fL3dptA",
+					"expanded_url": "https://vod.melon.com/video/detail2.htm?mvId=50240071&menuId=27040101",
+					"display_url": "vod.melon.com/video/detail2.…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427478339888033800,
+					"id_str": "1427478339888033796",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/E89r_K2XMAQaIoK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E89r_K2XMAQaIoK.jpg",
+					"url": "https://t.co/KUsAd07CR0",
+					"display_url": "pic.twitter.com/KUsAd07CR0",
+					"expanded_url": "https://twitter.com/fromminn/status/1427478341238538241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427478339888033800,
+					"id_str": "1427478339888033796",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/E89r_K2XMAQaIoK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E89r_K2XMAQaIoK.jpg",
+					"url": "https://t.co/KUsAd07CR0",
+					"display_url": "pic.twitter.com/KUsAd07CR0",
+					"expanded_url": "https://twitter.com/fromminn/status/1427478341238538241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#Melon #멜론 #비디오 \n[MV]Queendom (03:09) \nhttps://t.co/BQ4fL3dptA \n \n#레드벨벳 #RedVelvet https://t.co/KUsAd07CR0"
+	},
+	{
+		"created_at": "Tue Aug 17 03:40:19 +0000 2021",
+		"id": 1427471332967477200,
+		"id_str": "1427475349890387971",
+		"full_text": "#레드벨벳 ‘Queendom’ 여름 차트 지배!\n음원 차트 1위+아이튠즈 50개 지역 1위! 서머퀸 파워 입증! \n\n#RedVelvet's 'Queendom' dominates summer charts!\nTops Korean music charts as  well as the iTunes Top Album Charts of 50 international regions! \n\nhttps://t.co/V8Xydp5z4a\n\n#Queendom #퀸덤",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"text": "Queendom",
+					"indices": [
+						235,
+						244
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						245,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V8Xydp5z4a",
+					"expanded_url": "https://bit.ly/3iQNjqQ",
+					"display_url": "bit.ly/3iQNjqQ",
+					"indices": [
+						210,
+						233
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4467852,
+			"friends_count": 1,
+			"listed_count": 9547,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6106,
+		"favorite_count": 14567,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#레드벨벳 ‘Queendom’ 여름 차트 지배!\n음원 차트 1위+아이튠즈 50개 지역 1위! 서머퀸 파워 입증! \n\n#RedVelvet's 'Queendom' dominates summer charts!\nTops Korean music charts as  well as the iTunes Top Album Charts of 50 international regions! \n\nhttps://t.co/V8Xydp5z4a\n\n#Queendom #퀸덤"
+	},
+	{
+		"created_at": "Tue Aug 17 03:40:11 +0000 2021",
+		"id": 1427465206985228300,
+		"id_str": "1427475315840983042",
+		"full_text": "[#Notice]\nSeori 'Dive with you (feat. eaJ)' ALBUM COVER\n\n2021. 08. 22 18:00 (KST)\n2021. 08. 22 05:00 (EST)\n\n#Seori\n#Divewithyou https://t.co/DQRdkS2U7c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "Divewithyou",
+					"indices": [
+						115,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1427453570488574000,
+					"id_str": "1427453570488573971",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/E89VdZpVoBMPSDe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E89VdZpVoBMPSDe.jpg",
+					"url": "https://t.co/DQRdkS2U7c",
+					"display_url": "pic.twitter.com/DQRdkS2U7c",
+					"expanded_url": "https://twitter.com/seori_official/status/1427465206985228290/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427453570488574000,
+					"id_str": "1427453570488573971",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/E89VdZpVoBMPSDe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E89VdZpVoBMPSDe.jpg",
+					"url": "https://t.co/DQRdkS2U7c",
+					"display_url": "pic.twitter.com/DQRdkS2U7c",
+					"expanded_url": "https://twitter.com/seori_official/status/1427465206985228290/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21130,
+			"friends_count": 0,
+			"listed_count": 84,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1622531493",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4336,
+		"favorite_count": 7335,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Notice]\nSeori 'Dive with you (feat. eaJ)' ALBUM COVER\n\n2021. 08. 22 18:00 (KST)\n2021. 08. 22 05:00 (EST)\n\n#Seori\n#Divewithyou https://t.co/DQRdkS2U7c"
+	},
+	{
+		"created_at": "Tue Aug 17 03:11:04 +0000 2021",
+		"id": 1427467988995874800,
+		"id_str": "1427467988995874817",
+		"full_text": "#Melon #멜론 #포토 \nRed Velvet (레드벨벳) - Queendom \n▶ https://t.co/LSsjBVE5He \n원본 : https://t.co/itXDRkQtUU \n \n#레드벨벳 #RedVelvet https://t.co/40HnicfFPN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "포토",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						111,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LSsjBVE5He",
+					"expanded_url": "https://www.melon.com/artist/photo_detail.htm?artistId=780066&photoId=80144572&orderBy=NEW",
+					"display_url": "melon.com/artist/photo_d…",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/itXDRkQtUU",
+					"expanded_url": "https://cdnimg.melon.co.kr/cm2/photo/images/000/801/44/572/80144572_20210817104010_org.jpg",
+					"display_url": "cdnimg.melon.co.kr/cm2/photo/imag…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427467987817271300,
+					"id_str": "1427467987817271296",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/E89ikmYXEAAcnTa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E89ikmYXEAAcnTa.jpg",
+					"url": "https://t.co/40HnicfFPN",
+					"display_url": "pic.twitter.com/40HnicfFPN",
+					"expanded_url": "https://twitter.com/fromminn/status/1427467988995874817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 599,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 599,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 599,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427467987817271300,
+					"id_str": "1427467987817271296",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/E89ikmYXEAAcnTa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E89ikmYXEAAcnTa.jpg",
+					"url": "https://t.co/40HnicfFPN",
+					"display_url": "pic.twitter.com/40HnicfFPN",
+					"expanded_url": "https://twitter.com/fromminn/status/1427467988995874817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 599,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 599,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 599,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #포토 \nRed Velvet (레드벨벳) - Queendom \n▶ https://t.co/LSsjBVE5He \n원본 : https://t.co/itXDRkQtUU \n \n#레드벨벳 #RedVelvet https://t.co/40HnicfFPN"
+	},
+	{
+		"created_at": "Tue Aug 17 03:10:58 +0000 2021",
+		"id": 1427467963398074400,
+		"id_str": "1427467963398074375",
+		"full_text": "#Melon #멜론 #포토 \nRed Velvet (레드벨벳) - Queendom \n▶ https://t.co/wK5oajLfYw \n원본 : https://t.co/VnSGtTTWa9 \n \n#레드벨벳 #RedVelvet https://t.co/tTjjc8MWI9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "포토",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						111,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wK5oajLfYw",
+					"expanded_url": "https://www.melon.com/artist/photo_detail.htm?artistId=780066&photoId=80144573&orderBy=NEW",
+					"display_url": "melon.com/artist/photo_d…",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/VnSGtTTWa9",
+					"expanded_url": "https://cdnimg.melon.co.kr/cm2/photo/images/000/801/44/573/80144573_20210817104012_org.jpg",
+					"display_url": "cdnimg.melon.co.kr/cm2/photo/imag…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427467962076774400,
+					"id_str": "1427467962076774403",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/E89ijGfWQAMFXNy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E89ijGfWQAMFXNy.jpg",
+					"url": "https://t.co/tTjjc8MWI9",
+					"display_url": "pic.twitter.com/tTjjc8MWI9",
+					"expanded_url": "https://twitter.com/fromminn/status/1427467963398074375/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 840,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 840,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427467962076774400,
+					"id_str": "1427467962076774403",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/E89ijGfWQAMFXNy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E89ijGfWQAMFXNy.jpg",
+					"url": "https://t.co/tTjjc8MWI9",
+					"display_url": "pic.twitter.com/tTjjc8MWI9",
+					"expanded_url": "https://twitter.com/fromminn/status/1427467963398074375/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 840,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 840,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #포토 \nRed Velvet (레드벨벳) - Queendom \n▶ https://t.co/wK5oajLfYw \n원본 : https://t.co/VnSGtTTWa9 \n \n#레드벨벳 #RedVelvet https://t.co/tTjjc8MWI9"
+	},
+	{
+		"created_at": "Tue Aug 17 03:10:50 +0000 2021",
+		"id": 1427467932930646000,
+		"id_str": "1427467932930646016",
+		"full_text": "#Melon #멜론 #포토 \nRed Velvet (레드벨벳) - Queendom \n▶ https://t.co/Xez9X0XQhL \n원본 : https://t.co/UeA3SDHfRs \n \n#레드벨벳 #RedVelvet https://t.co/H742DGanrk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "포토",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						111,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Xez9X0XQhL",
+					"expanded_url": "https://www.melon.com/artist/photo_detail.htm?artistId=780066&photoId=80144574&orderBy=NEW",
+					"display_url": "melon.com/artist/photo_d…",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/UeA3SDHfRs",
+					"expanded_url": "https://cdnimg.melon.co.kr/cm2/photo/images/000/801/44/574/80144574_20210817104013_org.jpg",
+					"display_url": "cdnimg.melon.co.kr/cm2/photo/imag…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427467931269664800,
+					"id_str": "1427467931269664772",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/E89ihTuXEAQuCEs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E89ihTuXEAQuCEs.jpg",
+					"url": "https://t.co/H742DGanrk",
+					"display_url": "pic.twitter.com/H742DGanrk",
+					"expanded_url": "https://twitter.com/fromminn/status/1427467932930646016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 899,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427467931269664800,
+					"id_str": "1427467931269664772",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/E89ihTuXEAQuCEs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E89ihTuXEAQuCEs.jpg",
+					"url": "https://t.co/H742DGanrk",
+					"display_url": "pic.twitter.com/H742DGanrk",
+					"expanded_url": "https://twitter.com/fromminn/status/1427467932930646016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 899,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #포토 \nRed Velvet (레드벨벳) - Queendom \n▶ https://t.co/Xez9X0XQhL \n원본 : https://t.co/UeA3SDHfRs \n \n#레드벨벳 #RedVelvet https://t.co/H742DGanrk"
+	},
+	{
+		"created_at": "Tue Aug 17 03:10:43 +0000 2021",
+		"id": 1427467900550631400,
+		"id_str": "1427467900550631429",
+		"full_text": "#Melon #멜론 #포토 \nRed Velvet (레드벨벳) - Queendom \n▶ https://t.co/LRnPgeUInJ \n원본 : https://t.co/QmTEJjiWok \n \n#레드벨벳 #RedVelvet https://t.co/HcHNjFXaod",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "포토",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						111,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LRnPgeUInJ",
+					"expanded_url": "https://www.melon.com/artist/photo_detail.htm?artistId=780066&photoId=80144575&orderBy=NEW",
+					"display_url": "melon.com/artist/photo_d…",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/QmTEJjiWok",
+					"expanded_url": "https://cdnimg.melon.co.kr/cm2/photo/images/000/801/44/575/80144575_20210817104014_org.jpg",
+					"display_url": "cdnimg.melon.co.kr/cm2/photo/imag…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427467899212533800,
+					"id_str": "1427467899212533763",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/E89ifcTWEAMN745.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E89ifcTWEAMN745.jpg",
+					"url": "https://t.co/HcHNjFXaod",
+					"display_url": "pic.twitter.com/HcHNjFXaod",
+					"expanded_url": "https://twitter.com/fromminn/status/1427467900550631429/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 899,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 899,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427467899212533800,
+					"id_str": "1427467899212533763",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/E89ifcTWEAMN745.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E89ifcTWEAMN745.jpg",
+					"url": "https://t.co/HcHNjFXaod",
+					"display_url": "pic.twitter.com/HcHNjFXaod",
+					"expanded_url": "https://twitter.com/fromminn/status/1427467900550631429/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 899,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 899,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #포토 \nRed Velvet (레드벨벳) - Queendom \n▶ https://t.co/LRnPgeUInJ \n원본 : https://t.co/QmTEJjiWok \n \n#레드벨벳 #RedVelvet https://t.co/HcHNjFXaod"
+	},
+	{
 		"created_at": "Tue Aug 17 03:01:10 +0000 2021",
 		"id": 1427465496421666800,
 		"id_str": "1427465496421666821",
@@ -328,7 +1737,7 @@ Grailbird.data.tweets_2021_08 =
 		"created_at": "Tue Aug 17 02:40:12 +0000 2021",
 		"id": 1427194513601163300,
 		"id_str": "1427460220851212291",
-		"full_text": "#RedVelvet (@RVsmtown)👑💕\n『#Queendom』配信開始🎉\n💗https://t.co/equu1J4nuG\n\nついに！レドベルカムバですよ皆さん！やっぱりこの5人なしの夏なんてあり得ない🥳🌈コンセプト・ビジュアル共に最高...\n\n今週のカバーを飾るプレイリスト「K-Girls」も要チェックです💁‍♀️https://t.co/mWsGNkh90M https://t.co/YQNky5Qm0z",
+		"full_text": "#RedVelvet (@RVsmtown)👑💕\n『#Queendom』配信開始🎉\n💗https://t.co/equu1J4nuG\n\nついに！レドベルカムバですよ皆さん！やっぱりこの5人なしの夏なんてあり得ない🥳🌈コンセプト・ビジュアル共に最高...\n\n今週のカバーを飾るプレイリスト「K-Girls」も要チェックです💁♀️https://t.co/mWsGNkh90M https://t.co/YQNky5Qm0z",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -573,7 +1982,7 @@ Grailbird.data.tweets_2021_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ja",
-		"text": "#RedVelvet (@RVsmtown)👑💕\n『#Queendom』配信開始🎉\n💗https://t.co/equu1J4nuG\n\nついに！レドベルカムバですよ皆さん！やっぱりこの5人なしの夏なんてあり得ない🥳🌈コンセプト・ビジュアル共に最高...\n\n今週のカバーを飾るプレイリスト「K-Girls」も要チェックです💁‍♀️https://t.co/mWsGNkh90M https://t.co/YQNky5Qm0z"
+		"text": "#RedVelvet (@RVsmtown)👑💕\n『#Queendom』配信開始🎉\n💗https://t.co/equu1J4nuG\n\nついに！レドベルカムバですよ皆さん！やっぱりこの5人なしの夏なんてあり得ない🥳🌈コンセプト・ビジュアル共に最高...\n\n今週のカバーを飾るプレイリスト「K-Girls」も要チェックです💁♀️https://t.co/mWsGNkh90M https://t.co/YQNky5Qm0z"
 	},
 	{
 		"created_at": "Mon Aug 16 15:21:52 +0000 2021",
