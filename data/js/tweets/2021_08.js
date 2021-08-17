@@ -1,6 +1,427 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 17 16:56:54 +0000 2021",
+		"id": 1427675816100569000,
+		"id_str": "1427675816100569091",
+		"full_text": "#이달의소녀 #공식팬카페 #공식자료 \n[이달의 소녀] Happy Birthday HaSeul 🎉 \nhttps://t.co/R95x46rJv1 https://t.co/Mb2B81By1x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "공식자료",
+					"indices": [
+						14,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R95x46rJv1",
+					"expanded_url": "https://cafe.daum.net/loonatheworld/F5dG/596",
+					"display_url": "cafe.daum.net/loonatheworld/…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427675814636793900,
+					"id_str": "1427675814636793857",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/E9AfltnXsAECjZR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9AfltnXsAECjZR.jpg",
+					"url": "https://t.co/Mb2B81By1x",
+					"display_url": "pic.twitter.com/Mb2B81By1x",
+					"expanded_url": "https://twitter.com/fromminn/status/1427675816100569091/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427675814636793900,
+					"id_str": "1427675814636793857",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/E9AfltnXsAECjZR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9AfltnXsAECjZR.jpg",
+					"url": "https://t.co/Mb2B81By1x",
+					"display_url": "pic.twitter.com/Mb2B81By1x",
+					"expanded_url": "https://twitter.com/fromminn/status/1427675816100569091/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #공식팬카페 #공식자료 \n[이달의 소녀] Happy Birthday HaSeul 🎉 \nhttps://t.co/R95x46rJv1 https://t.co/Mb2B81By1x"
+	},
+	{
+		"created_at": "Tue Aug 17 16:31:11 +0000 2021",
+		"id": 1427661506540417000,
+		"id_str": "1427669345618911239",
+		"full_text": "한 상 야무지게 격파! 소시 수영의 전주 현지 맛집 탐험기\n\n#소녀시대 #배우 #수영 #소시 #더스토리 #전국국제영화제 #전주 #맛집 #베테랑칼국수 #쫄면 #한미반점 #탕수육 #진미집 #후켄치킨 #현대옥 #로컬 #현지맛집\nhttps://t.co/emDAJQ7Ke9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "배우",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "수영",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "소시",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "더스토리",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "전국국제영화제",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"text": "전주",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "맛집",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "베테랑칼국수",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"text": "쫄면",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "한미반점",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "탕수육",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "진미집",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "후켄치킨",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "현대옥",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "로컬",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "현지맛집",
+					"indices": [
+						118,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/emDAJQ7Ke9",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/57709?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/57709?…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88937,
+			"friends_count": 4,
+			"listed_count": 400,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한 상 야무지게 격파! 소시 수영의 전주 현지 맛집 탐험기\n\n#소녀시대 #배우 #수영 #소시 #더스토리 #전국국제영화제 #전주 #맛집 #베테랑칼국수 #쫄면 #한미반점 #탕수육 #진미집 #후켄치킨 #현대옥 #로컬 #현지맛집\nhttps://t.co/emDAJQ7Ke9"
+	},
+	{
 		"created_at": "Tue Aug 17 15:40:17 +0000 2021",
 		"id": 1427646699158245400,
 		"id_str": "1427656534838894593",
