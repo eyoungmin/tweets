@@ -1,6 +1,581 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 17 03:01:10 +0000 2021",
+		"id": 1427465496421666800,
+		"id_str": "1427465496421666821",
+		"full_text": "#이달의소녀 #LOONA \n이달의소녀탐구 #748 (LOONA TV #748) \nhttps://t.co/VD8b2qbaLZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VD8b2qbaLZ",
+					"expanded_url": "https://youtu.be/4P-NIFmxHvs",
+					"display_url": "youtu.be/4P-NIFmxHvs",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA \n이달의소녀탐구 #748 (LOONA TV #748) \nhttps://t.co/VD8b2qbaLZ"
+	},
+	{
+		"created_at": "Tue Aug 17 02:59:56 +0000 2021",
+		"id": 1427465189679669200,
+		"id_str": "1427465189679669248",
+		"full_text": "#genie #지니 #MV #뮤직비디오 \n[뮤비] Queendom - Red Velvet (레드벨벳) (03:09) \nhttps://t.co/8ch1vEtHfQ \n \n#레드벨벳 #RedVelvet https://t.co/JwU1APcQVL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "genie",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "뮤직비디오",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						99,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8ch1vEtHfQ",
+					"expanded_url": "https://www.genie.co.kr/detail/mediaInfo?xvnm=213589",
+					"display_url": "genie.co.kr/detail/mediaIn…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427465188702408700,
+					"id_str": "1427465188702408705",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/E89gBq3X0AEhD25.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E89gBq3X0AEhD25.jpg",
+					"url": "https://t.co/JwU1APcQVL",
+					"display_url": "pic.twitter.com/JwU1APcQVL",
+					"expanded_url": "https://twitter.com/fromminn/status/1427465189679669248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427465188702408700,
+					"id_str": "1427465188702408705",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/E89gBq3X0AEhD25.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E89gBq3X0AEhD25.jpg",
+					"url": "https://t.co/JwU1APcQVL",
+					"display_url": "pic.twitter.com/JwU1APcQVL",
+					"expanded_url": "https://twitter.com/fromminn/status/1427465189679669248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#genie #지니 #MV #뮤직비디오 \n[뮤비] Queendom - Red Velvet (레드벨벳) (03:09) \nhttps://t.co/8ch1vEtHfQ \n \n#레드벨벳 #RedVelvet https://t.co/JwU1APcQVL"
+	},
+	{
+		"created_at": "Tue Aug 17 02:40:12 +0000 2021",
+		"id": 1427194513601163300,
+		"id_str": "1427460220851212291",
+		"full_text": "#RedVelvet (@RVsmtown)👑💕\n『#Queendom』配信開始🎉\n💗https://t.co/equu1J4nuG\n\nついに！レドベルカムバですよ皆さん！やっぱりこの5人なしの夏なんてあり得ない🥳🌈コンセプト・ビジュアル共に最高...\n\n今週のカバーを飾るプレイリスト「K-Girls」も要チェックです💁‍♀️https://t.co/mWsGNkh90M https://t.co/YQNky5Qm0z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Queendom",
+					"indices": [
+						26,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						12,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/equu1J4nuG",
+					"expanded_url": "https://amzn.to/3skQ6M5",
+					"display_url": "amzn.to/3skQ6M5",
+					"indices": [
+						43,
+						66
+					]
+				},
+				{
+					"url": "https://t.co/mWsGNkh90M",
+					"expanded_url": "https://amzn.to/3xLeEPr",
+					"display_url": "amzn.to/3xLeEPr",
+					"indices": [
+						164,
+						187
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427194058477215700,
+					"id_str": "1427194058477215747",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/E85p5vzVcAM86Y6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E85p5vzVcAM86Y6.jpg",
+					"url": "https://t.co/YQNky5Qm0z",
+					"display_url": "pic.twitter.com/YQNky5Qm0z",
+					"expanded_url": "https://twitter.com/amazonmusicjp/status/1427194513601163267/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427194058477215700,
+					"id_str": "1427194058477215747",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/E85p5vzVcAM86Y6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E85p5vzVcAM86Y6.jpg",
+					"url": "https://t.co/YQNky5Qm0z",
+					"display_url": "pic.twitter.com/YQNky5Qm0z",
+					"expanded_url": "https://twitter.com/amazonmusicjp/status/1427194513601163267/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30864,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1427194058477215747/vid/1280x720/paeJ-1BI8Dz0BQ72.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1427194058477215747/vid/640x360/Lg3iUQMmhuJD9fKI.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1427194058477215747/pl/WIm7cc-Ahx71ePin.m3u8?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1427194058477215747/vid/480x270/0ZHQHzxnAIzEh0hZ.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910751840492412900,
+			"id_str": "910751840492412928",
+			"name": "Amazon Music JP",
+			"screen_name": "amazonmusicjp",
+			"location": "",
+			"description": "好きな音楽を好きなだけ🎵\n音楽聴き放題サービス、Amazon Music（アマゾンミュージック）の公式Twitterです。最新の音楽情報や、お得なキャンペーン、ここでしか見られないアーティストのオリジナルコンテンツなどを配信中！",
+			"url": "https://t.co/EKRnscsj5m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EKRnscsj5m",
+							"expanded_url": "https://www.amazon.co.jp/amu",
+							"display_url": "amazon.co.jp/amu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 159500,
+			"friends_count": 2202,
+			"listed_count": 456,
+			"created_at": "Thu Sep 21 06:25:34 +0000 2017",
+			"favourites_count": 1749,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 380138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065506331203780608/LcW1Gjrh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065506331203780608/LcW1Gjrh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910751840492412928/1602644189",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2846,
+		"favorite_count": 7736,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#RedVelvet (@RVsmtown)👑💕\n『#Queendom』配信開始🎉\n💗https://t.co/equu1J4nuG\n\nついに！レドベルカムバですよ皆さん！やっぱりこの5人なしの夏なんてあり得ない🥳🌈コンセプト・ビジュアル共に最高...\n\n今週のカバーを飾るプレイリスト「K-Girls」も要チェックです💁‍♀️https://t.co/mWsGNkh90M https://t.co/YQNky5Qm0z"
+	},
+	{
 		"created_at": "Mon Aug 16 15:21:52 +0000 2021",
 		"id": 1427289514779807700,
 		"id_str": "1427289514779807749",
