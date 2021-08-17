@@ -1,6 +1,685 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 17 17:24:23 +0000 2021",
+		"id": 1427676606227681300,
+		"id_str": "1427682732730060803",
+		"full_text": "블랙핑크 제니가 몸매 유지를 위해 절대 먹지 않는 것은?\n\n#블랙핑크 #제니 #몸매 #다이어트 #아이돌 #여돌 #BLACKPINK #식욕 #과식 #나트륨 #그릭요거트 #레시피 #요리\nhttps://t.co/kPdWTynehb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						33,
+						38
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						39,
+						42
+					]
+				},
+				{
+					"text": "몸매",
+					"indices": [
+						43,
+						46
+					]
+				},
+				{
+					"text": "다이어트",
+					"indices": [
+						47,
+						52
+					]
+				},
+				{
+					"text": "아이돌",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "여돌",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"text": "식욕",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "과식",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "나트륨",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "그릭요거트",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "레시피",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "요리",
+					"indices": [
+						98,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kPdWTynehb",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/57762?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/57762?…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88935,
+			"friends_count": 4,
+			"listed_count": 400,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블랙핑크 제니가 몸매 유지를 위해 절대 먹지 않는 것은?\n\n#블랙핑크 #제니 #몸매 #다이어트 #아이돌 #여돌 #BLACKPINK #식욕 #과식 #나트륨 #그릭요거트 #레시피 #요리\nhttps://t.co/kPdWTynehb"
+	},
+	{
+		"created_at": "Tue Aug 17 17:12:31 +0000 2021",
+		"id": 1427678266882543600,
+		"id_str": "1427679747023065091",
+		"full_text": "#슬기zip  9️⃣4️⃣즈 셀카 대공개📸\n납복사대🍑🍏 #온앤오프 #효진 #이션 \n룸메즈 셀카에 눈부시다 눈부셔✨\n\nEvery Tue, Thu 10PM 슬기zip https://t.co/JZI92MZp88",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "온앤오프",
+					"indices": [
+						31,
+						36
+					]
+				},
+				{
+					"text": "효진",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "이션",
+					"indices": [
+						41,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1427677970706034700,
+					"id_str": "1427677970706034694",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/E9AhjNmVcAYpPUT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9AhjNmVcAYpPUT.jpg",
+					"url": "https://t.co/JZI92MZp88",
+					"display_url": "pic.twitter.com/JZI92MZp88",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1427678266882543620/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427677970706034700,
+					"id_str": "1427677970706034694",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/E9AhjNmVcAYpPUT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9AhjNmVcAYpPUT.jpg",
+					"url": "https://t.co/JZI92MZp88",
+					"display_url": "pic.twitter.com/JZI92MZp88",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1427678266882543620/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1427677970626334700,
+					"id_str": "1427677970626334723",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/E9AhjNTVUAMj3Qx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9AhjNTVUAMj3Qx.jpg",
+					"url": "https://t.co/JZI92MZp88",
+					"display_url": "pic.twitter.com/JZI92MZp88",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1427678266882543620/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1427678258296885200,
+		"in_reply_to_status_id_str": "1427678258296885251",
+		"in_reply_to_user_id": 1396370716300218400,
+		"in_reply_to_user_id_str": "1396370716300218369",
+		"in_reply_to_screen_name": "seulgi_zip",
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40239,
+			"friends_count": 1,
+			"listed_count": 234,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1621911527",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 247,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip  9️⃣4️⃣즈 셀카 대공개📸\n납복사대🍑🍏 #온앤오프 #효진 #이션 \n룸메즈 셀카에 눈부시다 눈부셔✨\n\nEvery Tue, Thu 10PM 슬기zip https://t.co/JZI92MZp88"
+	},
+	{
+		"created_at": "Tue Aug 17 17:12:31 +0000 2021",
+		"id": 1427678275556413400,
+		"id_str": "1427679746335252480",
+		"full_text": "#슬기zip  9️⃣4️⃣즈 셀카 대공개📸\n납복사대🍑🍏 #온앤오프 #효진 #이션 \n룸메즈 셀카에 눈부시다 눈부셔✨\n\nEvery Tue, Thu 10PM 슬기zip https://t.co/U4lT7DxGo5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "온앤오프",
+					"indices": [
+						31,
+						36
+					]
+				},
+				{
+					"text": "효진",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "이션",
+					"indices": [
+						41,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1427678023927570400,
+					"id_str": "1427678023927570436",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/E9AhmT3VoAQH_fY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9AhmT3VoAQH_fY.jpg",
+					"url": "https://t.co/U4lT7DxGo5",
+					"display_url": "pic.twitter.com/U4lT7DxGo5",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1427678275556413441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427678023927570400,
+					"id_str": "1427678023927570436",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/E9AhmT3VoAQH_fY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9AhmT3VoAQH_fY.jpg",
+					"url": "https://t.co/U4lT7DxGo5",
+					"display_url": "pic.twitter.com/U4lT7DxGo5",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1427678275556413441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1427678024225353700,
+					"id_str": "1427678024225353743",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/E9AhmU-VcA86msD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9AhmU-VcA86msD.jpg",
+					"url": "https://t.co/U4lT7DxGo5",
+					"display_url": "pic.twitter.com/U4lT7DxGo5",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1427678275556413441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1427678266882543600,
+		"in_reply_to_status_id_str": "1427678266882543620",
+		"in_reply_to_user_id": 1396370716300218400,
+		"in_reply_to_user_id_str": "1396370716300218369",
+		"in_reply_to_screen_name": "seulgi_zip",
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40239,
+			"friends_count": 1,
+			"listed_count": 234,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1621911527",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 227,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip  9️⃣4️⃣즈 셀카 대공개📸\n납복사대🍑🍏 #온앤오프 #효진 #이션 \n룸메즈 셀카에 눈부시다 눈부셔✨\n\nEvery Tue, Thu 10PM 슬기zip https://t.co/U4lT7DxGo5"
+	},
+	{
 		"created_at": "Tue Aug 17 16:56:54 +0000 2021",
 		"id": 1427675816100569000,
 		"id_str": "1427675816100569091",
