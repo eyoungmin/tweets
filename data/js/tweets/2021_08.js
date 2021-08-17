@@ -1,6 +1,480 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 17 07:41:22 +0000 2021",
+		"id": 1427536012226580500,
+		"id_str": "1427536012226580481",
+		"full_text": "#SMTOWN #Artist_News \n슈퍼주니어 은혁, 17일 밤 9시 ‘빽투더 아이돌2’ 첫 라이브 방송! ‘춤신춤왕’ 면모 기대! \nhttps://t.co/OlOfbV6sTD \n \n#소녀시대 #GirlsGeneration https://t.co/kA3uXmD4uY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						110,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OlOfbV6sTD",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/5326",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427536010926231600,
+					"id_str": "1427536010926231553",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/E8-gcENWEAEd0Q-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8-gcENWEAEd0Q-.jpg",
+					"url": "https://t.co/kA3uXmD4uY",
+					"display_url": "pic.twitter.com/kA3uXmD4uY",
+					"expanded_url": "https://twitter.com/fromminn/status/1427536012226580481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427536010926231600,
+					"id_str": "1427536010926231553",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/E8-gcENWEAEd0Q-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8-gcENWEAEd0Q-.jpg",
+					"url": "https://t.co/kA3uXmD4uY",
+					"display_url": "pic.twitter.com/kA3uXmD4uY",
+					"expanded_url": "https://twitter.com/fromminn/status/1427536012226580481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN #Artist_News \n슈퍼주니어 은혁, 17일 밤 9시 ‘빽투더 아이돌2’ 첫 라이브 방송! ‘춤신춤왕’ 면모 기대! \nhttps://t.co/OlOfbV6sTD \n \n#소녀시대 #GirlsGeneration https://t.co/kA3uXmD4uY"
+	},
+	{
+		"created_at": "Tue Aug 17 07:29:38 +0000 2021",
+		"id": 1427525602219683800,
+		"id_str": "1427533062292783104",
+		"full_text": "음악의 중심 &lt;#쇼음악중심&gt;\n \n8월 2째주 🎇엔딩요정🎇 모음.gif\n\n매주 토요일 오후 3시 15분\n기대하쇼쇼쇼~🎙\n\n#선미 #효연 #하성운 #아스트로 #전소미 #온앤오프(#ONF) #골든차일드 #더보이즈 #Weeekly(#위클리)\n\nMBC 210814 방송 https://t.co/4LJe6IwB73",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"text": "선미",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "하성운",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "아스트로",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "전소미",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "온앤오프",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "ONF",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "더보이즈",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "Weeekly",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "위클리",
+					"indices": [
+						131,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1427452928218996700,
+					"id_str": "1427452928218996750",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E89U4BAVoA4oKyc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E89U4BAVoA4oKyc.jpg",
+					"url": "https://t.co/4LJe6IwB73",
+					"display_url": "pic.twitter.com/4LJe6IwB73",
+					"expanded_url": "https://twitter.com/withMBC/status/1427525602219683840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 394,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427452928218996700,
+					"id_str": "1427452928218996750",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E89U4BAVoA4oKyc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E89U4BAVoA4oKyc.jpg",
+					"url": "https://t.co/4LJe6IwB73",
+					"display_url": "pic.twitter.com/4LJe6IwB73",
+					"expanded_url": "https://twitter.com/withMBC/status/1427525602219683840/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 394,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							350,
+							197
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E89U4BAVoA4oKyc.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "MBC 방송 프로그램 홍보 트위터 MBC PR",
+			"url": "https://t.co/yOEvgSpDjG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yOEvgSpDjG",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1005624,
+			"friends_count": 10049,
+			"listed_count": 4220,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1621218372",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 364,
+		"favorite_count": 545,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "음악의 중심 &lt;#쇼음악중심&gt;\n \n8월 2째주 🎇엔딩요정🎇 모음.gif\n\n매주 토요일 오후 3시 15분\n기대하쇼쇼쇼~🎙\n\n#선미 #효연 #하성운 #아스트로 #전소미 #온앤오프(#ONF) #골든차일드 #더보이즈 #Weeekly(#위클리)\n\nMBC 210814 방송 https://t.co/4LJe6IwB73"
+	},
+	{
 		"created_at": "Tue Aug 17 06:51:47 +0000 2021",
 		"id": 1427523536655200300,
 		"id_str": "1427523536655200262",
