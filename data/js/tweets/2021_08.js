@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 17 21:40:09 +0000 2021",
+		"id": 1427739821087277000,
+		"id_str": "1427747101723746310",
+		"full_text": "🚀🛰🪐 https://t.co/FQS7uFqDx2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FQS7uFqDx2",
+					"expanded_url": "https://twitter.com/thom_astro/status/1427219919972749312",
+					"display_url": "twitter.com/thom_astro/sta…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Coloratura",
+			"description": "The official Twitter of the band Coldplay. New album, Music Of The Spheres, out October 15th, 2021.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23002105,
+			"friends_count": 767,
+			"listed_count": 42690,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1427219919972749300,
+		"quoted_status_id_str": "1427219919972749312",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FQS7uFqDx2",
+			"expanded": "https://twitter.com/thom_astro/status/1427219919972749312",
+			"display": "twitter.com/thom_astro/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 16 10:45:20 +0000 2021",
+			"id": 1427219919972749300,
+			"id_str": "1427219919972749312",
+			"full_text": "#SpaceVibes 🎵 Everything's not lost, by @coldplay 🎶🕺 #AlphaFIPMusic #Songs4Space https://t.co/CjurpFxYTL https://t.co/9DUEWMZQtQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				128
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SpaceVibes",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"text": "AlphaFIPMusic",
+						"indices": [
+							53,
+							67
+						]
+					},
+					{
+						"text": "Songs4Space",
+						"indices": [
+							68,
+							80
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "coldplay",
+						"name": "Coldplay",
+						"id": 18863815,
+						"id_str": "18863815",
+						"indices": [
+							40,
+							49
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/CjurpFxYTL",
+						"expanded_url": "http://dzr.fm/SpaceVibes",
+						"display_url": "dzr.fm/SpaceVibes",
+						"indices": [
+							81,
+							104
+						]
+					},
+					{
+						"url": "https://t.co/9DUEWMZQtQ",
+						"expanded_url": "https://www.youtube.com/watch?v=0IywjWWlxF8",
+						"display_url": "youtube.com/watch?v=0IywjW…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 437520768,
+				"id_str": "437520768",
+				"name": "Thomas Pesquet",
+				"screen_name": "Thom_astro",
+				"location": "International Space Station",
+				"description": "Astronaute @ESA 🇫🇷, pilote de vaisseau spatial, à bord de l’ISS pour #MissionAlpha, parrain @ONG_ASF / @ESA 🇫🇷 pilot on second space mission.",
+				"url": "https://t.co/6gdcdKt160",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6gdcdKt160",
+								"expanded_url": "http://thomaspesquet.esa.int",
+								"display_url": "thomaspesquet.esa.int",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1258227,
+				"friends_count": 291,
+				"listed_count": 3114,
+				"created_at": "Thu Dec 15 14:18:06 +0000 2011",
+				"favourites_count": 5520,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6800,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1408858294731542534/SL0gvB4i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1408858294731542534/SL0gvB4i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/437520768/1628711861",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 87,
+			"favorite_count": 638,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 125,
+		"favorite_count": 1410,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🚀🛰🪐 https://t.co/FQS7uFqDx2"
+	},
+	{
 		"created_at": "Tue Aug 17 20:12:33 +0000 2021",
 		"id": 1427714320952041500,
 		"id_str": "1427725054117236738",
