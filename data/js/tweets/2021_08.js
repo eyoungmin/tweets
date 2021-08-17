@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 17 20:12:33 +0000 2021",
+		"id": 1427714320952041500,
+		"id_str": "1427725054117236738",
+		"full_text": "#슬기zip 🎊축🎊 \n울 쥔님 본업 COMEBACK✨\n스트롱 앤 뷰리풀 슬기🐻 \n다시 한번 시작해볼까❓ 라띠라두빠빠디라👑\n케이팝 #퀸덤 귀환 #레드벨벳 \n케이팝 지져스 케이팝 찌져쓰😆\n\n#Queendom #RedVelvet \n#레드벨벳퀸덤_라띠라뚜빠빠디라 https://t.co/eIB1C7ADMv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "Queendom",
+					"indices": [
+						104,
+						113
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"text": "레드벨벳퀸덤_라띠라뚜빠빠디라",
+					"indices": [
+						126,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1427714237342703600,
+					"id_str": "1427714237342703617",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/E9BCiNWUYAEKksS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9BCiNWUYAEKksS.jpg",
+					"url": "https://t.co/eIB1C7ADMv",
+					"display_url": "pic.twitter.com/eIB1C7ADMv",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1427714320952041474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1474,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427714237342703600,
+					"id_str": "1427714237342703617",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/E9BCiNWUYAEKksS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9BCiNWUYAEKksS.jpg",
+					"url": "https://t.co/eIB1C7ADMv",
+					"display_url": "pic.twitter.com/eIB1C7ADMv",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1427714320952041474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1474,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1427714259786502100,
+					"id_str": "1427714259786502148",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/E9BCjg9VkAQ6X2q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9BCjg9VkAQ6X2q.jpg",
+					"url": "https://t.co/eIB1C7ADMv",
+					"display_url": "pic.twitter.com/eIB1C7ADMv",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1427714320952041474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1427714286499942400,
+					"id_str": "1427714286499942400",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/E9BClEeUUAAVIxP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9BClEeUUAAVIxP.jpg",
+					"url": "https://t.co/eIB1C7ADMv",
+					"display_url": "pic.twitter.com/eIB1C7ADMv",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1427714320952041474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1492,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 874,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 495,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1427714314643726300,
+					"id_str": "1427714314643726336",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/E9BCmtUUYAADnTC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9BCmtUUYAADnTC.jpg",
+					"url": "https://t.co/eIB1C7ADMv",
+					"display_url": "pic.twitter.com/eIB1C7ADMv",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1427714320952041474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40268,
+			"friends_count": 1,
+			"listed_count": 235,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1621911527",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 384,
+		"favorite_count": 811,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 🎊축🎊 \n울 쥔님 본업 COMEBACK✨\n스트롱 앤 뷰리풀 슬기🐻 \n다시 한번 시작해볼까❓ 라띠라두빠빠디라👑\n케이팝 #퀸덤 귀환 #레드벨벳 \n케이팝 지져스 케이팝 찌져쓰😆\n\n#Queendom #RedVelvet \n#레드벨벳퀸덤_라띠라뚜빠빠디라 https://t.co/eIB1C7ADMv"
+	},
+	{
 		"created_at": "Tue Aug 17 19:12:32 +0000 2021",
 		"id": 1427695097752080400,
 		"id_str": "1427709951896559619",
