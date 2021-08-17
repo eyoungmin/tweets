@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 17 10:40:09 +0000 2021",
+		"id": 1427574148469977000,
+		"id_str": "1427581007230906369",
+		"full_text": "[💡] #TikTok \n#YouCantSitChallenge \n\n▶️ https://t.co/F9eTUVXy0W\n\n#청하 #CHUNGHA \n#선미 #SUNMI \n#Youcantsitwithus",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TikTok",
+					"indices": [
+						4,
+						11
+					]
+				},
+				{
+					"text": "YouCantSitChallenge",
+					"indices": [
+						13,
+						33
+					]
+				},
+				{
+					"text": "청하",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "CHUNGHA",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"text": "선미",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "SUNMI",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "Youcantsitwithus",
+					"indices": [
+						90,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F9eTUVXy0W",
+					"expanded_url": "https://vt.tiktok.com/ZSJWBy9Nf/",
+					"display_url": "vt.tiktok.com/ZSJWBy9Nf/",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1097557125742489600,
+			"id_str": "1097557125742489600",
+			"name": "CHUNG HA",
+			"screen_name": "CHUNGHA_MNHent",
+			"location": "",
+			"description": "CHUNG HA Official Twitter",
+			"url": "https://t.co/uAFyf5T7B0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uAFyf5T7B0",
+							"expanded_url": "https://ffm.to/chungha_querencia",
+							"display_url": "ffm.to/chungha_queren…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329062,
+			"friends_count": 0,
+			"listed_count": 2061,
+			"created_at": "Mon Feb 18 18:03:05 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377637690447831041/B-NTsYbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097557125742489600/1617289944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 362,
+		"favorite_count": 1021,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "[💡] #TikTok \n#YouCantSitChallenge \n\n▶️ https://t.co/F9eTUVXy0W\n\n#청하 #CHUNGHA \n#선미 #SUNMI \n#Youcantsitwithus"
+	},
+	{
 		"created_at": "Tue Aug 17 09:40:12 +0000 2021",
 		"id": 1427561352168575000,
 		"id_str": "1427565920315219968",
