@@ -1,6 +1,1091 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 18 09:55:17 +0000 2021",
+		"id": 1427928254749479000,
+		"id_str": "1427932101865730054",
+		"full_text": "[#🌳] 서현 비밀 우리끼리만 아는 거다?\n▶ https://t.co/ongWbFKxG5\n\n#서현 #SEOHYUN #NAMOOCONTENTS https://t.co/oWsIGDXONk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						55,
+						63
+					]
+				},
+				{
+					"text": "NAMOOCONTENTS",
+					"indices": [
+						64,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ongWbFKxG5",
+					"expanded_url": "http://naver.me/xrPvth8P",
+					"display_url": "naver.me/xrPvth8P",
+					"indices": [
+						26,
+						49
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427859903809347600,
+					"id_str": "1427859903809347589",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/E9DHBHOUYAUSC7c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9DHBHOUYAUSC7c.jpg",
+					"url": "https://t.co/oWsIGDXONk",
+					"display_url": "pic.twitter.com/oWsIGDXONk",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1427928254749478920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 653,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427859903809347600,
+					"id_str": "1427859903809347589",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/E9DHBHOUYAUSC7c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9DHBHOUYAUSC7c.jpg",
+					"url": "https://t.co/oWsIGDXONk",
+					"display_url": "pic.twitter.com/oWsIGDXONk",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1427928254749478920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 653,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49800,
+			"friends_count": 13,
+			"listed_count": 248,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14336,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 175,
+		"favorite_count": 199,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#🌳] 서현 비밀 우리끼리만 아는 거다?\n▶ https://t.co/ongWbFKxG5\n\n#서현 #SEOHYUN #NAMOOCONTENTS https://t.co/oWsIGDXONk"
+	},
+	{
+		"created_at": "Wed Aug 18 09:47:25 +0000 2021",
+		"id": 1427930123291041800,
+		"id_str": "1427930123291041795",
+		"full_text": "#예술경영지원센터 #온라인참가신청  \n2021 예술경영아카데미(MoAA) 조직경영 분야 &lt;�트렌드 특강Ⅱ-문화예술과 블록체인, NFT &gt; (2021-09-15) (접수마감: 2021-09-10)\nhttps://t.co/PQB9TL7JCG\n \n#예술경영 #강의신청",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예술경영지원센터",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "온라인참가신청",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"text": "예술경영",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "강의신청",
+					"indices": [
+						147,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PQB9TL7JCG",
+					"expanded_url": "https://www.gokams.or.kr:442/02_apply/event_apply01.aspx?Idx=1023&flag=0&page=1&txtKeyword=&ddlKeyfield=T",
+					"display_url": "gokams.or.kr:442/02_apply/event…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#예술경영지원센터 #온라인참가신청  \n2021 예술경영아카데미(MoAA) 조직경영 분야 &lt;�트렌드 특강Ⅱ-문화예술과 블록체인, NFT &gt; (2021-09-15) (접수마감: 2021-09-10)\nhttps://t.co/PQB9TL7JCG\n \n#예술경영 #강의신청"
+	},
+	{
+		"created_at": "Wed Aug 18 09:40:20 +0000 2021",
+		"id": 1427918195420184600,
+		"id_str": "1427928341617811459",
+		"full_text": "[stage&amp;FLO:취향의 발견]\n\n아도이(ADOY) - BABY\nhttps://t.co/Mq8tDQ5WaJ\n\n#StudioFLO #스튜디오플로\n#스테이지앤플로취향의발견\n#아도이 #ADOY #BABY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StudioFLO",
+					"indices": [
+						66,
+						76
+					]
+				},
+				{
+					"text": "스튜디오플로",
+					"indices": [
+						77,
+						84
+					]
+				},
+				{
+					"text": "스테이지앤플로취향의발견",
+					"indices": [
+						85,
+						98
+					]
+				},
+				{
+					"text": "아도이",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "ADOY",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "BABY",
+					"indices": [
+						110,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mq8tDQ5WaJ",
+					"expanded_url": "http://youtu.be/wd1QrHDvlls",
+					"display_url": "youtu.be/wd1QrHDvlls",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 807143251744436200,
+			"id_str": "807143251744436225",
+			"name": "Studio FLO 스튜디오 플로",
+			"screen_name": "StudioFLO_",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/yVzZ6lIKKa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yVzZ6lIKKa",
+							"expanded_url": "http://youtube.com/studioflo",
+							"display_url": "youtube.com/studioflo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75319,
+			"friends_count": 0,
+			"listed_count": 82,
+			"created_at": "Fri Dec 09 08:42:02 +0000 2016",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1337005278860984323/7aIX8aSR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1337005278860984323/7aIX8aSR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/807143251744436225/1615773363",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[stage&amp;FLO:취향의 발견]\n\n아도이(ADOY) - BABY\nhttps://t.co/Mq8tDQ5WaJ\n\n#StudioFLO #스튜디오플로\n#스테이지앤플로취향의발견\n#아도이 #ADOY #BABY"
+	},
+	{
+		"created_at": "Wed Aug 18 09:31:01 +0000 2021",
+		"id": 1427925993231110100,
+		"id_str": "1427925993231110151",
+		"full_text": "#오떼르 #Hauteurtheday \n[인기급상승] ㅋ..크.. 크다.....! #백혁거세챌린지 \nhttps://t.co/UNzI6z1fPv \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오떼르",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "Hauteurtheday",
+					"indices": [
+						5,
+						19
+					]
+				},
+				{
+					"text": "백혁거세챌린지",
+					"indices": [
+						45,
+						53
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "김지우",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						102,
+						104
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "츄튜브",
+					"indices": [
+						111,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UNzI6z1fPv",
+					"expanded_url": "https://youtu.be/YxqLKTEV44w",
+					"display_url": "youtu.be/YxqLKTEV44w",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오떼르 #Hauteurtheday \n[인기급상승] ㅋ..크.. 크다.....! #백혁거세챌린지 \nhttps://t.co/UNzI6z1fPv \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브"
+	},
+	{
+		"created_at": "Wed Aug 18 09:29:38 +0000 2021",
+		"id": 1427915935482978300,
+		"id_str": "1427925648404779008",
+		"full_text": "Thank You! 🧡 @SpotifyKR\n \n🎵 https://t.co/lHKC28M6UJ\n \n#효연 #HYO #Second\n#소녀시대 #GirlsGeneration\n@SpotifyKDaebak https://t.co/1Yv6YmZSpp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "효연",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						63,
+						70
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						77,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "SpotifyKDaebak",
+					"name": "Spotify ❤️ K-Pop",
+					"id": 978459450871697400,
+					"id_str": "978459450871697408",
+					"indices": [
+						94,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lHKC28M6UJ",
+					"expanded_url": "https://open.spotify.com/album/0Nck83Sjn5RfHsITpO8GuZ",
+					"display_url": "open.spotify.com/album/0Nck83Sj…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427913492753830000,
+					"id_str": "1427913492753829889",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/E9D3wZmUUAEP3oh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9D3wZmUUAEP3oh.jpg",
+					"url": "https://t.co/1Yv6YmZSpp",
+					"display_url": "pic.twitter.com/1Yv6YmZSpp",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1427915935482978307/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 425,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427913492753830000,
+					"id_str": "1427913492753829889",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/E9D3wZmUUAEP3oh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9D3wZmUUAEP3oh.jpg",
+					"url": "https://t.co/1Yv6YmZSpp",
+					"display_url": "pic.twitter.com/1Yv6YmZSpp",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1427915935482978307/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 425,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1427913492762284000,
+					"id_str": "1427913492762284034",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/E9D3wZoVUAIuUEH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9D3wZoVUAIuUEH.jpg",
+					"url": "https://t.co/1Yv6YmZSpp",
+					"display_url": "pic.twitter.com/1Yv6YmZSpp",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1427915935482978307/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1427913492753883100,
+					"id_str": "1427913492753883139",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/E9D3wZmVIAMQNgL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9D3wZmVIAMQNgL.jpg",
+					"url": "https://t.co/1Yv6YmZSpp",
+					"display_url": "pic.twitter.com/1Yv6YmZSpp",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1427915935482978307/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1137,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1137,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 598,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3660661,
+			"friends_count": 4,
+			"listed_count": 5503,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1628046003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1294,
+		"favorite_count": 3387,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank You! 🧡 @SpotifyKR\n \n🎵 https://t.co/lHKC28M6UJ\n \n#효연 #HYO #Second\n#소녀시대 #GirlsGeneration\n@SpotifyKDaebak https://t.co/1Yv6YmZSpp"
+	},
+	{
+		"created_at": "Wed Aug 18 09:26:47 +0000 2021",
+		"id": 1427924930084155400,
+		"id_str": "1427924930084155401",
+		"full_text": "#SMTOWN #PLAYLIST \nRed Velvet 레드벨벳 'Pose' Performance Stage @inteRView vol.7 : Queendom \nhttps://t.co/6fm1STEpOI \n \n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						122,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "interview",
+					"name": "interview",
+					"id": 12300732,
+					"id_str": "12300732",
+					"indices": [
+						60,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6fm1STEpOI",
+					"expanded_url": "https://www.youtube.com/watch?v=Xryh6KT9Cpg",
+					"display_url": "youtube.com/watch?v=Xryh6K…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SMTOWN #PLAYLIST \nRed Velvet 레드벨벳 'Pose' Performance Stage @inteRView vol.7 : Queendom \nhttps://t.co/6fm1STEpOI \n \n#레드벨벳 #RedVelvet"
+	},
+	{
 		"created_at": "Wed Aug 18 09:01:14 +0000 2021",
 		"id": 1427918499515674600,
 		"id_str": "1427918499515674625",
