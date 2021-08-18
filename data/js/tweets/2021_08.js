@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 18 12:40:10 +0000 2021",
+		"id": 1427965862103851000,
+		"id_str": "1427973594911543296",
+		"full_text": "Spotify Playlist ‘New Music K-pop\nYoutube Music Playlist ‘최신 국내 음악’\nVibe Playlist ‘요즘이곡’\n ‘요즘 국내 일렉트로닉’\n‘라운지바에서’\n\n에 “Free Up”이 포함 되었습니다💕\n@Spotify @SpotifyKR @youtubemusic \n\n#spotify #spotifykr #youtubemusic #vibe\n#playlist #yeseo #freeup https://t.co/2X6o5Hg3Wd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "spotify",
+					"indices": [
+						173,
+						181
+					]
+				},
+				{
+					"text": "spotifykr",
+					"indices": [
+						182,
+						192
+					]
+				},
+				{
+					"text": "youtubemusic",
+					"indices": [
+						193,
+						206
+					]
+				},
+				{
+					"text": "vibe",
+					"indices": [
+						207,
+						212
+					]
+				},
+				{
+					"text": "playlist",
+					"indices": [
+						213,
+						222
+					]
+				},
+				{
+					"text": "yeseo",
+					"indices": [
+						223,
+						229
+					]
+				},
+				{
+					"text": "freeup",
+					"indices": [
+						230,
+						237
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						137,
+						145
+					]
+				},
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						146,
+						156
+					]
+				},
+				{
+					"screen_name": "youtubemusic",
+					"name": "YouTube Music",
+					"id": 880142286176231400,
+					"id_str": "880142286176231425",
+					"indices": [
+						157,
+						170
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1427965853388009500,
+					"id_str": "1427965853388009480",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/E9EnYMKUcAgClhB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9EnYMKUcAgClhB.jpg",
+					"url": "https://t.co/2X6o5Hg3Wd",
+					"display_url": "pic.twitter.com/2X6o5Hg3Wd",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1427965862103851013/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1038,
+							"h": 1344,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427965853388009500,
+					"id_str": "1427965853388009480",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/E9EnYMKUcAgClhB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9EnYMKUcAgClhB.jpg",
+					"url": "https://t.co/2X6o5Hg3Wd",
+					"display_url": "pic.twitter.com/2X6o5Hg3Wd",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1427965862103851013/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1038,
+							"h": 1344,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1427965853383884800,
+					"id_str": "1427965853383884806",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/E9EnYMJVgAYgHrt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9EnYMJVgAYgHrt.jpg",
+					"url": "https://t.co/2X6o5Hg3Wd",
+					"display_url": "pic.twitter.com/2X6o5Hg3Wd",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1427965862103851013/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1427965853396398000,
+					"id_str": "1427965853396398095",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/E9EnYMMUcA8eSrr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9EnYMMUcA8eSrr.jpg",
+					"url": "https://t.co/2X6o5Hg3Wd",
+					"display_url": "pic.twitter.com/2X6o5Hg3Wd",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1427965862103851013/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 798,
+			"friends_count": 6,
+			"listed_count": 24,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1629114180",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Spotify Playlist ‘New Music K-pop\nYoutube Music Playlist ‘최신 국내 음악’\nVibe Playlist ‘요즘이곡’\n ‘요즘 국내 일렉트로닉’\n‘라운지바에서’\n\n에 “Free Up”이 포함 되었습니다💕\n@Spotify @SpotifyKR @youtubemusic \n\n#spotify #spotifykr #youtubemusic #vibe\n#playlist #yeseo #freeup https://t.co/2X6o5Hg3Wd"
+	},
+	{
 		"created_at": "Wed Aug 18 11:44:19 +0000 2021",
 		"id": 1427959543359811600,
 		"id_str": "1427959543359811587",
