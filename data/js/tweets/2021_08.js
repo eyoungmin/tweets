@@ -1,6 +1,632 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 18 15:44:42 +0000 2021",
+		"id": 1428020037433110500,
+		"id_str": "1428020037433110529",
+		"full_text": "#이달의소녀 #LOONA #VLIVE \n[LOONA] DJ Jo. DJ HaSeul. DJ Birthday💚 | 이달의 소녀(LOONA) \nhttps://t.co/Jh1qFWkgPi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						14,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Jh1qFWkgPi",
+					"expanded_url": "https://www.vlive.tv/video/259682",
+					"display_url": "vlive.tv/video/259682",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA #VLIVE \n[LOONA] DJ Jo. DJ HaSeul. DJ Birthday💚 | 이달의 소녀(LOONA) \nhttps://t.co/Jh1qFWkgPi"
+	},
+	{
+		"created_at": "Wed Aug 18 15:40:30 +0000 2021",
+		"id": 1428010614631276500,
+		"id_str": "1428018979478642693",
+		"full_text": "LOONA（今月の少女）が、デビュー3周年を迎えました🎉\nいつも応援してくれるOrbitに感謝を込めて💫\n\n#LOONA #今月の少女 https://t.co/wv9yK0kTUL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "今月の少女",
+					"indices": [
+						61,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1428010609556156400,
+					"id_str": "1428010609556156421",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/E9FQFV4VcAULftN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9FQFV4VcAULftN.jpg",
+					"url": "https://t.co/wv9yK0kTUL",
+					"display_url": "pic.twitter.com/wv9yK0kTUL",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1428010614631276550/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428010609556156400,
+					"id_str": "1428010609556156421",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/E9FQFV4VcAULftN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9FQFV4VcAULftN.jpg",
+					"url": "https://t.co/wv9yK0kTUL",
+					"display_url": "pic.twitter.com/wv9yK0kTUL",
+					"expanded_url": "https://twitter.com/loonaJPofficial/status/1428010614631276550/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1407603879026462700,
+			"id_str": "1407603879026462722",
+			"name": "loonatheworld_jp_official",
+			"screen_name": "loonaJPofficial",
+			"location": "",
+			"description": "LOONA（今月の少女）の日本公式アカウントです。",
+			"url": "https://t.co/u7biZCX3K9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u7biZCX3K9",
+							"expanded_url": "http://orbitjapan.jp",
+							"display_url": "orbitjapan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43405,
+			"friends_count": 1,
+			"listed_count": 259,
+			"created_at": "Wed Jun 23 07:38:28 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407682642242248705/Eefvmkkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1407603879026462722/1624452787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1197,
+		"favorite_count": 3886,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "LOONA（今月の少女）が、デビュー3周年を迎えました🎉\nいつも応援してくれるOrbitに感謝を込めて💫\n\n#LOONA #今月の少女 https://t.co/wv9yK0kTUL"
+	},
+	{
+		"created_at": "Wed Aug 18 15:40:20 +0000 2021",
+		"id": 1428008784576729000,
+		"id_str": "1428018936570957835",
+		"full_text": "약 33분만에 복구됨!! \n😆😆😆 \n제가 어렸을 때는 정전이 매우 흔했고 정전될 때마다 왠지 가슴이 두근거리고 흥분됐었던 기억이 나는군요. \n등화관제 훈련 같은 것도 자주 했었는데 말이죠 쿨럭",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1428003006427979800,
+		"in_reply_to_status_id_str": "1428003006427979776",
+		"in_reply_to_user_id": 120741919,
+		"in_reply_to_user_id_str": "120741919",
+		"in_reply_to_screen_name": "love_yuna",
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/YE7aKeUGLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YE7aKeUGLd",
+							"expanded_url": "https://www.youtube.com/c/loveyuna",
+							"display_url": "youtube.com/c/loveyuna",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 270691,
+			"friends_count": 542,
+			"listed_count": 2815,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358217725089255426/J-5E7g_n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358217725089255426/J-5E7g_n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1612661273",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "약 33분만에 복구됨!! \n😆😆😆 \n제가 어렸을 때는 정전이 매우 흔했고 정전될 때마다 왠지 가슴이 두근거리고 흥분됐었던 기억이 나는군요. \n등화관제 훈련 같은 것도 자주 했었는데 말이죠 쿨럭"
+	},
+	{
+		"created_at": "Wed Aug 18 15:40:13 +0000 2021",
+		"id": 1428004505015160800,
+		"id_str": "1428018906476732416",
+		"full_text": "오늘의 #영어 : DON’T OPEN THE FRIDGE! 냉장고 열지 마! #정전 https://t.co/uqVis4F6tZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "영어",
+					"indices": [
+						4,
+						7
+					]
+				},
+				{
+					"text": "정전",
+					"indices": [
+						43,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uqVis4F6tZ",
+					"expanded_url": "https://twitter.com/love_yuna/status/1428003006427979776",
+					"display_url": "twitter.com/love_yuna/stat…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 546473849,
+			"id_str": "546473849",
+			"name": "Grammar Girl",
+			"screen_name": "GrammarGirl_EN",
+			"location": "Washington, DC",
+			"description": "탐라에 흐르는 트윗을 인용해 영어표현을 트윗합니다. 맞팔요청을 주시면 인용허가로 알고 맞팔합니당~ 인용이 꺼려지시면 꼭 블록을 날려주세요! 미묘한 어감의 차이나 용례는 직접 찾아보기! (✳️클럽하우스: “오늘의 영어 | TODAY’S ENGLISH”)",
+			"url": "https://t.co/XJ90NCodyA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XJ90NCodyA",
+							"expanded_url": "http://www.facebook.com/GrammarGirlTodaysEnglish",
+							"display_url": "facebook.com/GrammarGirlTod…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24849,
+			"friends_count": 4116,
+			"listed_count": 297,
+			"created_at": "Fri Apr 06 03:14:26 +0000 2012",
+			"favourites_count": 12920,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000075329819/9ad9e5c2ec1174bc7cca5623f5eafeaa_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000075329819/9ad9e5c2ec1174bc7cca5623f5eafeaa_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/546473849/1483589104",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1428003006427979800,
+		"quoted_status_id_str": "1428003006427979776",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uqVis4F6tZ",
+			"expanded": "https://twitter.com/love_yuna/status/1428003006427979776",
+			"display": "twitter.com/love_yuna/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 18 14:37:02 +0000 2021",
+			"id": 1428003006427979800,
+			"id_str": "1428003006427979776",
+			"full_text": "머리 못 말렸는데!!!\n😳😳😳\n아무도 냉장고 열지 마!!!\n😳😳😳",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				36
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1428000501778370600,
+			"in_reply_to_status_id_str": "1428000501778370563",
+			"in_reply_to_user_id": 120741919,
+			"in_reply_to_user_id_str": "120741919",
+			"in_reply_to_screen_name": "love_yuna",
+			"user": {
+				"id": 120741919,
+				"id_str": "120741919",
+				"name": "김윤아",
+				"screen_name": "love_yuna",
+				"location": "",
+				"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+				"url": "https://t.co/YE7aKeUGLd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YE7aKeUGLd",
+								"expanded_url": "https://www.youtube.com/c/loveyuna",
+								"display_url": "youtube.com/c/loveyuna",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 270691,
+				"friends_count": 542,
+				"listed_count": 2815,
+				"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+				"favourites_count": 297,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6303,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1358217725089255426/J-5E7g_n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358217725089255426/J-5E7g_n_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1612661273",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 90,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 14,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘의 #영어 : DON’T OPEN THE FRIDGE! 냉장고 열지 마! #정전 https://t.co/uqVis4F6tZ"
+	},
+	{
 		"created_at": "Wed Aug 18 15:12:44 +0000 2021",
 		"id": 1428008944635576300,
 		"id_str": "1428011992569110529",
