@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 18 15:12:44 +0000 2021",
+		"id": 1428008944635576300,
+		"id_str": "1428011992569110529",
+		"full_text": "쥔님을 위해 만든 코너 목요괴담회에서\n손님분들의 사연 기다립니다👻\n\n✔직접 겪은 소름돋는 경험담\n✔지인에게 들은 무서운 이야기\n✔우리 동네, 학교에 얽힌 괴담\n\nnow_show013@naver.com 📩\n#7117 말머리 [슬기zip] 달고 문자 주세요📲(이용료 100원)\n\n#Queendom\n#심야괴담회_슬기출연_가보자고 https://t.co/HFhjs5onmV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Queendom",
+					"indices": [
+						154,
+						163
+					]
+				},
+				{
+					"text": "심야괴담회_슬기출연_가보자고",
+					"indices": [
+						164,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1428008941309489200,
+					"id_str": "1428008941309489159",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/E9FOkPLVcAcZsRh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9FOkPLVcAcZsRh.jpg",
+					"url": "https://t.co/HFhjs5onmV",
+					"display_url": "pic.twitter.com/HFhjs5onmV",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1428008944635576324/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1151,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428008941309489200,
+					"id_str": "1428008941309489159",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/E9FOkPLVcAcZsRh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9FOkPLVcAcZsRh.jpg",
+					"url": "https://t.co/HFhjs5onmV",
+					"display_url": "pic.twitter.com/HFhjs5onmV",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1428008944635576324/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1151,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40411,
+			"friends_count": 1,
+			"listed_count": 234,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1621911527",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 579,
+		"favorite_count": 1170,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "쥔님을 위해 만든 코너 목요괴담회에서\n손님분들의 사연 기다립니다👻\n\n✔직접 겪은 소름돋는 경험담\n✔지인에게 들은 무서운 이야기\n✔우리 동네, 학교에 얽힌 괴담\n\nnow_show013@naver.com 📩\n#7117 말머리 [슬기zip] 달고 문자 주세요📲(이용료 100원)\n\n#Queendom\n#심야괴담회_슬기출연_가보자고 https://t.co/HFhjs5onmV"
+	},
+	{
 		"created_at": "Wed Aug 18 14:40:17 +0000 2021",
 		"id": 1428003006427979800,
 		"id_str": "1428003822648107008",
