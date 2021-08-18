@@ -1,6 +1,542 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 18 03:01:42 +0000 2021",
+		"id": 1427828018983092200,
+		"id_str": "1427828018983092226",
+		"full_text": "#이달의소녀 #LOONA \n이달의소녀탐구 #749 (LOONA TV #749) \nhttps://t.co/OXuGDS0dOw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OXuGDS0dOw",
+					"expanded_url": "https://youtu.be/-imOgmEZPeM",
+					"display_url": "youtu.be/-imOgmEZPeM",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA \n이달의소녀탐구 #749 (LOONA TV #749) \nhttps://t.co/OXuGDS0dOw"
+	},
+	{
+		"created_at": "Wed Aug 18 02:58:56 +0000 2021",
+		"id": 1427827326063153200,
+		"id_str": "1427827326063153155",
+		"full_text": "#이달의소녀 #LOONA \n[하슬] 안녕하세요 이달의 소녀 하슬입니다! \nhttps://t.co/6Ll95cqBni \n \n#다음팬카페 #공식팬카페 #프롬글 https://t.co/OLAoOZhQ1q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "다음팬카페",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "프롬글",
+					"indices": [
+						82,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6Ll95cqBni",
+					"expanded_url": "http://cafe.daum.net/loonatheworld/F5df/132",
+					"display_url": "cafe.daum.net/loonatheworld/…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427827324293193700,
+					"id_str": "1427827324293193730",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/E9CpYvEXoAIqK4k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9CpYvEXoAIqK4k.jpg",
+					"url": "https://t.co/OLAoOZhQ1q",
+					"display_url": "pic.twitter.com/OLAoOZhQ1q",
+					"expanded_url": "https://twitter.com/fromminn/status/1427827326063153155/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427827324293193700,
+					"id_str": "1427827324293193730",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/E9CpYvEXoAIqK4k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9CpYvEXoAIqK4k.jpg",
+					"url": "https://t.co/OLAoOZhQ1q",
+					"display_url": "pic.twitter.com/OLAoOZhQ1q",
+					"expanded_url": "https://twitter.com/fromminn/status/1427827326063153155/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #LOONA \n[하슬] 안녕하세요 이달의 소녀 하슬입니다! \nhttps://t.co/6Ll95cqBni \n \n#다음팬카페 #공식팬카페 #프롬글 https://t.co/OLAoOZhQ1q"
+	},
+	{
+		"created_at": "Wed Aug 18 02:40:09 +0000 2021",
+		"id": 1427778981982470100,
+		"id_str": "1427822599149654023",
+		"full_text": "오늘부터 한국, 미국, 호주의 일부 사용자는 트윗 신고에서 '사실을 오도하고 있음' 옵션을 볼 수 있습니다. 정치, 건강, 기타 주제를 선택 가능합니다. 각 신고에 응답하지 못할 수 있지만 여러분의 신고는 잘못된 정보의 확산을 막기 위해 트위터가 시작하는 이 테스트에 큰 도움이 됩니다. https://t.co/PlhUtL67Uo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PlhUtL67Uo",
+					"expanded_url": "https://twitter.com/TwitterSafety/status/1427706890113495046",
+					"display_url": "twitter.com/TwitterSafety/…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 216531294,
+			"id_str": "216531294",
+			"name": "Twitter Korea",
+			"screen_name": "TwitterKorea",
+			"location": "대한민국",
+			"description": "What’s Happening?! 무슨 일이 일어나고 있나요?!",
+			"url": "https://t.co/5E2H8ZE0HN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5E2H8ZE0HN",
+							"expanded_url": "https://blog.twitter.com/korea",
+							"display_url": "blog.twitter.com/korea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1271094,
+			"friends_count": 411,
+			"listed_count": 2042,
+			"created_at": "Tue Nov 16 23:59:11 +0000 2010",
+			"favourites_count": 4165,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1354488065931132933/xhsAWlaD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354488065931132933/xhsAWlaD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/216531294/1624413677",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1427706890113495000,
+		"quoted_status_id_str": "1427706890113495046",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PlhUtL67Uo",
+			"expanded": "https://twitter.com/TwitterSafety/status/1427706890113495046",
+			"display": "twitter.com/TwitterSafety/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 17 19:00:22 +0000 2021",
+			"id": 1427706890113495000,
+			"id_str": "1427706890113495046",
+			"full_text": "We’re testing a feature for you to report Tweets that seem misleading - as you see them. Starting today, some people in the US, South Korea, and Australia will find the option to flag a Tweet as “It’s misleading” after clicking on Report Tweet.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				244
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 95731075,
+				"id_str": "95731075",
+				"name": "Twitter Safety",
+				"screen_name": "TwitterSafety",
+				"location": "Twitter HQ",
+				"description": "Tweeting the latest safety tools, resources, and updates from @Twitter. For support, visit https://t.co/heEvRrCFXn",
+				"url": "https://t.co/heEvRrCFXn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/heEvRrCFXn",
+								"expanded_url": "https://help.twitter.com",
+								"display_url": "help.twitter.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/heEvRrCFXn",
+								"expanded_url": "https://help.twitter.com",
+								"display_url": "help.twitter.com",
+								"indices": [
+									91,
+									114
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3569881,
+				"friends_count": 138,
+				"listed_count": 8061,
+				"created_at": "Wed Dec 09 21:00:57 +0000 2009",
+				"favourites_count": 172,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1115,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1356366102528315394/UHUFLIPh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356366102528315394/UHUFLIPh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95731075/1620856408",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1784,
+			"favorite_count": 4998,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 764,
+		"favorite_count": 184,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘부터 한국, 미국, 호주의 일부 사용자는 트윗 신고에서 '사실을 오도하고 있음' 옵션을 볼 수 있습니다. 정치, 건강, 기타 주제를 선택 가능합니다. 각 신고에 응답하지 못할 수 있지만 여러분의 신고는 잘못된 정보의 확산을 막기 위해 트위터가 시작하는 이 테스트에 큰 도움이 됩니다. https://t.co/PlhUtL67Uo"
+	},
+	{
 		"created_at": "Wed Aug 18 01:48:46 +0000 2021",
 		"id": 1427809667951079400,
 		"id_str": "1427809667951079424",
