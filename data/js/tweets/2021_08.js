@@ -1,6 +1,454 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 18 06:51:42 +0000 2021",
+		"id": 1427885902676861000,
+		"id_str": "1427885902676860931",
+		"full_text": "#이달의소녀 #공식팬카페 #LOONATV \n이달의소녀탐구 #749 (LOONA TV #749) \nhttps://t.co/txg9MEs3XB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "공식팬카페",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "LOONATV",
+					"indices": [
+						14,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/txg9MEs3XB",
+					"expanded_url": "http://cafe.daum.net/loonatheworld/GoAp/760",
+					"display_url": "cafe.daum.net/loonatheworld/…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이달의소녀 #공식팬카페 #LOONATV \n이달의소녀탐구 #749 (LOONA TV #749) \nhttps://t.co/txg9MEs3XB"
+	},
+	{
+		"created_at": "Wed Aug 18 06:40:16 +0000 2021",
+		"id": 1427872905824596000,
+		"id_str": "1427883023664549892",
+		"full_text": "[🎉] 신세경(Shin Sae Kyeong) 공식 트위터 오픈\n\n드디어 오늘! 배우 #신세경 의 공식 트위터 계정이 오픈되었습니다 :)\n앞으로 이 곳을 통해 #신세경 의 💌활동 소식을 확인하실 수 있습니다.\n\n여러분의 많은 관심과 사랑 부탁드립니다💝\n\n#신세경 #ShinSaeKyeong",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신세경",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "신세경",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "신세경",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "ShinSaeKyeong",
+					"indices": [
+						146,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1413160034456858600,
+			"id_str": "1413160034456858627",
+			"name": "신세경 공식 트위터",
+			"screen_name": "_sskofficial",
+			"location": "",
+			"description": "신세경(Shin Sae Kyeong) Official Twitter",
+			"url": "https://t.co/Ttrvkr9K9e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ttrvkr9K9e",
+							"expanded_url": "https://www.instagram.com/sjkuksee",
+							"display_url": "instagram.com/sjkuksee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 734,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Thu Jul 08 15:36:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427870554543984643/wITjsAgv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427870554543984643/wITjsAgv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413160034456858627/1629265844",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 243,
+		"favorite_count": 643,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[🎉] 신세경(Shin Sae Kyeong) 공식 트위터 오픈\n\n드디어 오늘! 배우 #신세경 의 공식 트위터 계정이 오픈되었습니다 :)\n앞으로 이 곳을 통해 #신세경 의 💌활동 소식을 확인하실 수 있습니다.\n\n여러분의 많은 관심과 사랑 부탁드립니다💝\n\n#신세경 #ShinSaeKyeong"
+	},
+	{
+		"created_at": "Wed Aug 18 06:40:10 +0000 2021",
+		"id": 1427869431955296300,
+		"id_str": "1427882998012301313",
+		"full_text": "[#Notice] \n\nSeori\n4th Single 'Dive with you (feat. eaJ)'\n\n2022. 08. 22 18:00 (KST)\n2022. 08. 22 05:00 (EST)\n\nPRE-SAVE ON\n\n▶ https://t.co/OjyLMt0FrM\n\n#Seori\n#Divewithyou https://t.co/NT8yiNDj0V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "Divewithyou",
+					"indices": [
+						156,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OjyLMt0FrM",
+					"expanded_url": "https://seori.lnk.to/DWY",
+					"display_url": "seori.lnk.to/DWY",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427869323129880600,
+					"id_str": "1427869323129880588",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/E9DPlY7VgAwkg-B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9DPlY7VgAwkg-B.jpg",
+					"url": "https://t.co/NT8yiNDj0V",
+					"display_url": "pic.twitter.com/NT8yiNDj0V",
+					"expanded_url": "https://twitter.com/seori_official/status/1427869431955296258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427869323129880600,
+					"id_str": "1427869323129880588",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/E9DPlY7VgAwkg-B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9DPlY7VgAwkg-B.jpg",
+					"url": "https://t.co/NT8yiNDj0V",
+					"display_url": "pic.twitter.com/NT8yiNDj0V",
+					"expanded_url": "https://twitter.com/seori_official/status/1427869431955296258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22215,
+			"friends_count": 0,
+			"listed_count": 93,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1622531493",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 859,
+		"favorite_count": 2017,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Notice] \n\nSeori\n4th Single 'Dive with you (feat. eaJ)'\n\n2022. 08. 22 18:00 (KST)\n2022. 08. 22 05:00 (EST)\n\nPRE-SAVE ON\n\n▶ https://t.co/OjyLMt0FrM\n\n#Seori\n#Divewithyou https://t.co/NT8yiNDj0V"
+	},
+	{
 		"created_at": "Wed Aug 18 05:55:21 +0000 2021",
 		"id": 1427871720296394800,
 		"id_str": "1427871720296394752",
