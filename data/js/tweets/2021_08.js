@@ -1,6 +1,1133 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 19 04:40:32 +0000 2021",
+		"id": 1427948599992717300,
+		"id_str": "1428215279746699266",
+		"full_text": "／\nいよいよ明日夜8時❣\n✨第1話先行放送✨\n＼\n\n🏮#ポッサム運命を盗む(原題)\n\n#チョン・イル × #クォン・ユリ(#少女時代)🌸\n韓国で毎週最高視聴率を更新した話題のロマンス時代劇✨\n一足先に第1話をお見せします💖\n\n#KNTV #KNTV801\n第1話先行放送：8/19㈭夜8時～　\n👉https://t.co/WwAVAO67sT https://t.co/TB7FnWGiLi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ポッサム運命を盗む",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"text": "チョン・イル",
+					"indices": [
+						43,
+						50
+					]
+				},
+				{
+					"text": "クォン・ユリ",
+					"indices": [
+						53,
+						60
+					]
+				},
+				{
+					"text": "少女時代",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "KNTV",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "KNTV801",
+					"indices": [
+						119,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WwAVAO67sT",
+					"expanded_url": "https://kntv.jp/kntvspecial/bossam/",
+					"display_url": "kntv.jp/kntvspecial/bo…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427948453699620900,
+					"id_str": "1427948453699620872",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1427948453699620872/pu/img/dzaYmPHBTRP3Nd1J.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1427948453699620872/pu/img/dzaYmPHBTRP3Nd1J.jpg",
+					"url": "https://t.co/TB7FnWGiLi",
+					"display_url": "pic.twitter.com/TB7FnWGiLi",
+					"expanded_url": "https://twitter.com/kntv_info/status/1427948599992717319/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427948453699620900,
+					"id_str": "1427948453699620872",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1427948453699620872/pu/img/dzaYmPHBTRP3Nd1J.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1427948453699620872/pu/img/dzaYmPHBTRP3Nd1J.jpg",
+					"url": "https://t.co/TB7FnWGiLi",
+					"display_url": "pic.twitter.com/TB7FnWGiLi",
+					"expanded_url": "https://twitter.com/kntv_info/status/1427948599992717319/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 74008,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1427948453699620872/pu/vid/480x270/7k2eiE32d4LRmHVy.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1427948453699620872/pu/vid/640x360/u7k62cl1w1VWTb8M.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1427948453699620872/pu/vid/1280x720/DTqMmcfPYbyzfsi_.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1427948453699620872/pu/pl/pqH06rDudXg_WjWp.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://social.userlocal.jp/\" rel=\"nofollow\">Social Insight Post</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 189913380,
+			"id_str": "189913380",
+			"name": "KNTV 公式アカウント",
+			"screen_name": "kntv_info",
+			"location": "東京 (Tokyo,Japan)",
+			"description": "こだわりは日本初放送！泣ける、トキメク、あなたがハマる韓流No.1 KNTVの【公式アカウント】です。日本初ノーカット字幕版ドラマからK-POP・芸能・バラエティ・ニュースの生放送まで、様々なジャンルの韓流番組を最新・最速で放送中！",
+			"url": "https://t.co/OqEpPHOdLb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OqEpPHOdLb",
+							"expanded_url": "https://kntv.jp/",
+							"display_url": "kntv.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79673,
+			"friends_count": 48511,
+			"listed_count": 432,
+			"created_at": "Sun Sep 12 15:41:05 +0000 2010",
+			"favourites_count": 1749,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF636",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924815781937868800/PiV4RqI7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924815781937868800/PiV4RqI7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/189913380/1626243601",
+			"profile_link_color": "3CABF0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 107,
+		"favorite_count": 217,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "／\nいよいよ明日夜8時❣\n✨第1話先行放送✨\n＼\n\n🏮#ポッサム運命を盗む(原題)\n\n#チョン・イル × #クォン・ユリ(#少女時代)🌸\n韓国で毎週最高視聴率を更新した話題のロマンス時代劇✨\n一足先に第1話をお見せします💖\n\n#KNTV #KNTV801\n第1話先行放送：8/19㈭夜8時～　\n👉https://t.co/WwAVAO67sT https://t.co/TB7FnWGiLi"
+	},
+	{
+		"created_at": "Thu Aug 19 04:10:06 +0000 2021",
+		"id": 1428012871154237400,
+		"id_str": "1428207623590096898",
+		"full_text": "@RVsmtown Catch YERI chilling by the beach, where there are NO mosquitos 🏝 https://t.co/08YqwmvkNi",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1428012773548511200,
+					"id_str": "1428012773548511234",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428012773548511234/pu/img/mA68kzXpQVoAztZI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428012773548511234/pu/img/mA68kzXpQVoAztZI.jpg",
+					"url": "https://t.co/08YqwmvkNi",
+					"display_url": "pic.twitter.com/08YqwmvkNi",
+					"expanded_url": "https://twitter.com/Spotify/status/1428012871154237440/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428012773548511200,
+					"id_str": "1428012773548511234",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428012773548511234/pu/img/mA68kzXpQVoAztZI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428012773548511234/pu/img/mA68kzXpQVoAztZI.jpg",
+					"url": "https://t.co/08YqwmvkNi",
+					"display_url": "pic.twitter.com/08YqwmvkNi",
+					"expanded_url": "https://twitter.com/Spotify/status/1428012871154237440/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 11553,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1428012773548511234/pu/pl/VNlI5ciboXjUpsp8.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428012773548511234/pu/vid/320x320/JX9sS-cROVUIcEwp.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428012773548511234/pu/vid/720x720/opbsfGloycYDgZ8l.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428012773548511234/pu/vid/540x540/6W4syKdhUKjJyWJ2.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1428012694829879300,
+		"in_reply_to_status_id_str": "1428012694829879304",
+		"in_reply_to_user_id": 17230018,
+		"in_reply_to_user_id_str": "17230018",
+		"in_reply_to_screen_name": "Spotify",
+		"user": {
+			"id": 17230018,
+			"id_str": "17230018",
+			"name": "Spotify",
+			"screen_name": "Spotify",
+			"location": "",
+			"description": "Listening is everything.\nPodcasts 👉 @SpotifyPodcasts\nLive audio 👉 @SpotifyGrnRoom\nSupport 👉 @SpotifyCares",
+			"url": "https://t.co/5G4Hekn0ea",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5G4Hekn0ea",
+							"expanded_url": "http://Spotify.com",
+							"display_url": "Spotify.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4430227,
+			"friends_count": 17775,
+			"listed_count": 16553,
+			"created_at": "Fri Nov 07 12:14:28 +0000 2008",
+			"favourites_count": 13474,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 35675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013614110171250688/vrPUCDn2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013614110171250688/vrPUCDn2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17230018/1623868345",
+			"profile_link_color": "1ED760",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "ECEBE8",
+			"profile_text_color": "458DBF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7079,
+		"favorite_count": 17551,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@RVsmtown Catch YERI chilling by the beach, where there are NO mosquitos 🏝 https://t.co/08YqwmvkNi"
+	},
+	{
+		"created_at": "Thu Aug 19 04:09:58 +0000 2021",
+		"id": 1428012694829879300,
+		"id_str": "1428207589465153538",
+		"full_text": "@RVsmtown For WENDY, it's Iced Americano time all the time (even if you freeze) 🧊 https://t.co/pxnsfyHwOB",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1428012478177284000,
+					"id_str": "1428012478177284105",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428012478177284105/pu/img/0GLlR6BObsdeohZp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428012478177284105/pu/img/0GLlR6BObsdeohZp.jpg",
+					"url": "https://t.co/pxnsfyHwOB",
+					"display_url": "pic.twitter.com/pxnsfyHwOB",
+					"expanded_url": "https://twitter.com/Spotify/status/1428012694829879304/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428012478177284000,
+					"id_str": "1428012478177284105",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428012478177284105/pu/img/0GLlR6BObsdeohZp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428012478177284105/pu/img/0GLlR6BObsdeohZp.jpg",
+					"url": "https://t.co/pxnsfyHwOB",
+					"display_url": "pic.twitter.com/pxnsfyHwOB",
+					"expanded_url": "https://twitter.com/Spotify/status/1428012694829879304/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 24358,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428012478177284105/pu/vid/540x540/uglEKI--hIo-9Wwz.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1428012478177284105/pu/pl/ouQHhZb8rmSRyfiq.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428012478177284105/pu/vid/720x720/WVnhZSdxxTyE5QEx.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428012478177284105/pu/vid/320x320/xyHRrzAL_8FnxinH.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1428012349063983000,
+		"in_reply_to_status_id_str": "1428012349063983109",
+		"in_reply_to_user_id": 17230018,
+		"in_reply_to_user_id_str": "17230018",
+		"in_reply_to_screen_name": "Spotify",
+		"user": {
+			"id": 17230018,
+			"id_str": "17230018",
+			"name": "Spotify",
+			"screen_name": "Spotify",
+			"location": "",
+			"description": "Listening is everything.\nPodcasts 👉 @SpotifyPodcasts\nLive audio 👉 @SpotifyGrnRoom\nSupport 👉 @SpotifyCares",
+			"url": "https://t.co/5G4Hekn0ea",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5G4Hekn0ea",
+							"expanded_url": "http://Spotify.com",
+							"display_url": "Spotify.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4430227,
+			"friends_count": 17775,
+			"listed_count": 16553,
+			"created_at": "Fri Nov 07 12:14:28 +0000 2008",
+			"favourites_count": 13474,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 35675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013614110171250688/vrPUCDn2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013614110171250688/vrPUCDn2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17230018/1623868345",
+			"profile_link_color": "1ED760",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "ECEBE8",
+			"profile_text_color": "458DBF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7458,
+		"favorite_count": 17242,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@RVsmtown For WENDY, it's Iced Americano time all the time (even if you freeze) 🧊 https://t.co/pxnsfyHwOB"
+	},
+	{
+		"created_at": "Thu Aug 19 04:09:50 +0000 2021",
+		"id": 1428012349063983000,
+		"id_str": "1428207555336155144",
+		"full_text": "@RVsmtown You can find SEULGI inside listening to her favorite tunes 🎶 https://t.co/v71d5ukRJH",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1428012236459548700,
+					"id_str": "1428012236459548674",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428012236459548674/pu/img/N9xKNX04EtExMkSE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428012236459548674/pu/img/N9xKNX04EtExMkSE.jpg",
+					"url": "https://t.co/v71d5ukRJH",
+					"display_url": "pic.twitter.com/v71d5ukRJH",
+					"expanded_url": "https://twitter.com/Spotify/status/1428012349063983109/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428012236459548700,
+					"id_str": "1428012236459548674",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428012236459548674/pu/img/N9xKNX04EtExMkSE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428012236459548674/pu/img/N9xKNX04EtExMkSE.jpg",
+					"url": "https://t.co/v71d5ukRJH",
+					"display_url": "pic.twitter.com/v71d5ukRJH",
+					"expanded_url": "https://twitter.com/Spotify/status/1428012349063983109/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 14431,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428012236459548674/pu/vid/320x320/hV9DK8O073ScK-yA.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1428012236459548674/pu/pl/UhqA5ozcKGzMk9KX.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428012236459548674/pu/vid/540x540/UahzwhwNoHo7ZbZu.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428012236459548674/pu/vid/720x720/ObwB-286_PuFzpMJ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1428011951687229400,
+		"in_reply_to_status_id_str": "1428011951687229443",
+		"in_reply_to_user_id": 17230018,
+		"in_reply_to_user_id_str": "17230018",
+		"in_reply_to_screen_name": "Spotify",
+		"user": {
+			"id": 17230018,
+			"id_str": "17230018",
+			"name": "Spotify",
+			"screen_name": "Spotify",
+			"location": "",
+			"description": "Listening is everything.\nPodcasts 👉 @SpotifyPodcasts\nLive audio 👉 @SpotifyGrnRoom\nSupport 👉 @SpotifyCares",
+			"url": "https://t.co/5G4Hekn0ea",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5G4Hekn0ea",
+							"expanded_url": "http://Spotify.com",
+							"display_url": "Spotify.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4430227,
+			"friends_count": 17775,
+			"listed_count": 16553,
+			"created_at": "Fri Nov 07 12:14:28 +0000 2008",
+			"favourites_count": 13474,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 35675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013614110171250688/vrPUCDn2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013614110171250688/vrPUCDn2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17230018/1623868345",
+			"profile_link_color": "1ED760",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "ECEBE8",
+			"profile_text_color": "458DBF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7162,
+		"favorite_count": 17121,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@RVsmtown You can find SEULGI inside listening to her favorite tunes 🎶 https://t.co/v71d5ukRJH"
+	},
+	{
+		"created_at": "Thu Aug 19 04:09:48 +0000 2021",
+		"id": 1428011951687229400,
+		"id_str": "1428207546456842241",
+		"full_text": "@RVsmtown JOY loves to take long walks on summer nights 🌃 https://t.co/T0nwaq9gFc",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1428011778215014400,
+					"id_str": "1428011778215014404",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428011778215014404/pu/img/n94DY0EeNGGsvLa0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428011778215014404/pu/img/n94DY0EeNGGsvLa0.jpg",
+					"url": "https://t.co/T0nwaq9gFc",
+					"display_url": "pic.twitter.com/T0nwaq9gFc",
+					"expanded_url": "https://twitter.com/Spotify/status/1428011951687229443/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428011778215014400,
+					"id_str": "1428011778215014404",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428011778215014404/pu/img/n94DY0EeNGGsvLa0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428011778215014404/pu/img/n94DY0EeNGGsvLa0.jpg",
+					"url": "https://t.co/T0nwaq9gFc",
+					"display_url": "pic.twitter.com/T0nwaq9gFc",
+					"expanded_url": "https://twitter.com/Spotify/status/1428011951687229443/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 21522,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428011778215014404/pu/vid/320x320/xz8KXs7GBvczc2yk.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428011778215014404/pu/vid/720x720/ZEQZXR0nODSewUfy.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1428011778215014404/pu/pl/G7iMl1gOjTGGgpMT.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428011778215014404/pu/vid/540x540/OigAsOMH_IHV5D-9.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1428011587911110700,
+		"in_reply_to_status_id_str": "1428011587911110664",
+		"in_reply_to_user_id": 17230018,
+		"in_reply_to_user_id_str": "17230018",
+		"in_reply_to_screen_name": "Spotify",
+		"user": {
+			"id": 17230018,
+			"id_str": "17230018",
+			"name": "Spotify",
+			"screen_name": "Spotify",
+			"location": "",
+			"description": "Listening is everything.\nPodcasts 👉 @SpotifyPodcasts\nLive audio 👉 @SpotifyGrnRoom\nSupport 👉 @SpotifyCares",
+			"url": "https://t.co/5G4Hekn0ea",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5G4Hekn0ea",
+							"expanded_url": "http://Spotify.com",
+							"display_url": "Spotify.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4430227,
+			"friends_count": 17775,
+			"listed_count": 16553,
+			"created_at": "Fri Nov 07 12:14:28 +0000 2008",
+			"favourites_count": 13474,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 35675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013614110171250688/vrPUCDn2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013614110171250688/vrPUCDn2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17230018/1623868345",
+			"profile_link_color": "1ED760",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "ECEBE8",
+			"profile_text_color": "458DBF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7269,
+		"favorite_count": 17536,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@RVsmtown JOY loves to take long walks on summer nights 🌃 https://t.co/T0nwaq9gFc"
+	},
+	{
 		"created_at": "Thu Aug 19 03:52:45 +0000 2021",
 		"id": 1428203257084715000,
 		"id_str": "1428203257084715010",
