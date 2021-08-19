@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 19 15:13:01 +0000 2021",
+		"id": 1428365977167614000,
+		"id_str": "1428374452052512772",
+		"full_text": "#슬기zip 처음 도전한 라탄공예🧺 쥔님 사전에 포기란 없다🙅🏻‍ 다음에는 꼬옥 완성할 예정💓 #NOW온에어 \n\n다음 주 손님들과 zip사가 기다린 그녀들! 케이팝 흔들다 못해 찢어버린 레전드 #퀸덤 귀환👑 #레드벨벳 완전체 놀러와요👏🏻 화요일 본방사수 달력에 별표⭐ 동그라미⭕ 표시 필수‼ https://t.co/ujE4lbusWc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						53,
+						60
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						116,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1428365927930728400,
+					"id_str": "1428365927930728456",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/E9KTPl-VEAg1ctC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9KTPl-VEAg1ctC.jpg",
+					"url": "https://t.co/ujE4lbusWc",
+					"display_url": "pic.twitter.com/ujE4lbusWc",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1428365977167613961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428365927930728400,
+					"id_str": "1428365927930728456",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/E9KTPl-VEAg1ctC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9KTPl-VEAg1ctC.jpg",
+					"url": "https://t.co/ujE4lbusWc",
+					"display_url": "pic.twitter.com/ujE4lbusWc",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1428365977167613961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1428365927930765300,
+					"id_str": "1428365927930765319",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/E9KTPl-VoAcZhBS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9KTPl-VoAcZhBS.jpg",
+					"url": "https://t.co/ujE4lbusWc",
+					"display_url": "pic.twitter.com/ujE4lbusWc",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1428365977167613961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1428365927926562800,
+					"id_str": "1428365927926562831",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/E9KTPl9VgA87N-V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9KTPl9VgA87N-V.jpg",
+					"url": "https://t.co/ujE4lbusWc",
+					"display_url": "pic.twitter.com/ujE4lbusWc",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1428365977167613961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1428365927918178300,
+					"id_str": "1428365927918178313",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/E9KTPl7VkAkFVlN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9KTPl7VkAkFVlN.jpg",
+					"url": "https://t.co/ujE4lbusWc",
+					"display_url": "pic.twitter.com/ujE4lbusWc",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1428365977167613961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40583,
+			"friends_count": 1,
+			"listed_count": 232,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1621911527",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1541,
+		"favorite_count": 2718,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 처음 도전한 라탄공예🧺 쥔님 사전에 포기란 없다🙅🏻‍ 다음에는 꼬옥 완성할 예정💓 #NOW온에어 \n\n다음 주 손님들과 zip사가 기다린 그녀들! 케이팝 흔들다 못해 찢어버린 레전드 #퀸덤 귀환👑 #레드벨벳 완전체 놀러와요👏🏻 화요일 본방사수 달력에 별표⭐ 동그라미⭕ 표시 필수‼ https://t.co/ujE4lbusWc"
+	},
+	{
 		"created_at": "Thu Aug 19 14:40:10 +0000 2021",
 		"id": 1428362064041418800,
 		"id_str": "1428366182604697603",
