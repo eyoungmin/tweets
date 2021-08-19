@@ -1,10 +1,228 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 19 14:40:10 +0000 2021",
+		"id": 1428362064041418800,
+		"id_str": "1428366182604697603",
+		"full_text": "😆헿🐻 슬기zip 생성 했지롱🧡\n\n#슬기 #SEULGI #슬기집 #슬기zip #레드벨벳 #RedVelvet https://t.co/ivwLOb2XOh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						19,
+						22
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						23,
+						30
+					]
+				},
+				{
+					"text": "슬기집",
+					"indices": [
+						31,
+						35
+					]
+				},
+				{
+					"text": "슬기zip",
+					"indices": [
+						36,
+						42
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						49,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1428362055594115000,
+					"id_str": "1428362055594115072",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/E9KPuMZVgAAAuuq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9KPuMZVgAAAuuq.jpg",
+					"url": "https://t.co/ivwLOb2XOh",
+					"display_url": "pic.twitter.com/ivwLOb2XOh",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1428362064041418763/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428362055594115000,
+					"id_str": "1428362055594115072",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/E9KPuMZVgAAAuuq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9KPuMZVgAAAuuq.jpg",
+					"url": "https://t.co/ivwLOb2XOh",
+					"display_url": "pic.twitter.com/ivwLOb2XOh",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1428362064041418763/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4477415,
+			"friends_count": 1,
+			"listed_count": 9547,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2173,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6370,
+		"favorite_count": 21311,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "😆헿🐻 슬기zip 생성 했지롱🧡\n\n#슬기 #SEULGI #슬기집 #슬기zip #레드벨벳 #RedVelvet https://t.co/ivwLOb2XOh"
+	},
+	{
 		"created_at": "Thu Aug 19 13:13:00 +0000 2021",
 		"id": 1428336155339096000,
 		"id_str": "1428344247351078919",
-		"full_text": "#슬기zip 슬기랑 혼슬하는 목요일 밤🐻🌳 손님들에게 항상 진심💛 오늘도 아낌없는 준비한 울 쥔님🥺 날마다 오지 않는! 어디서도 볼 수 없는! 댄스천재 쥔님의 💃🏻 일대기.. 궁금하면 10시 본방 꼬옥 놀러오기😉 #NOW온에어 #슬기  🏡 같이 가요🏃🏻‍♀️ 👉🏻 https://t.co/fsELE3wduU https://t.co/iC8pNVoxVc",
+		"full_text": "#슬기zip 슬기랑 혼슬하는 목요일 밤🐻🌳 손님들에게 항상 진심💛 오늘도 아낌없는 준비한 울 쥔님🥺 날마다 오지 않는! 어디서도 볼 수 없는! 댄스천재 쥔님의 💃🏻 일대기.. 궁금하면 10시 본방 꼬옥 놀러오기😉 #NOW온에어 #슬기  🏡 같이 가요🏃🏻♀️ 👉🏻 https://t.co/fsELE3wduU https://t.co/iC8pNVoxVc",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -205,7 +423,7 @@ Grailbird.data.tweets_2021_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#슬기zip 슬기랑 혼슬하는 목요일 밤🐻🌳 손님들에게 항상 진심💛 오늘도 아낌없는 준비한 울 쥔님🥺 날마다 오지 않는! 어디서도 볼 수 없는! 댄스천재 쥔님의 💃🏻 일대기.. 궁금하면 10시 본방 꼬옥 놀러오기😉 #NOW온에어 #슬기  🏡 같이 가요🏃🏻‍♀️ 👉🏻 https://t.co/fsELE3wduU https://t.co/iC8pNVoxVc"
+		"text": "#슬기zip 슬기랑 혼슬하는 목요일 밤🐻🌳 손님들에게 항상 진심💛 오늘도 아낌없는 준비한 울 쥔님🥺 날마다 오지 않는! 어디서도 볼 수 없는! 댄스천재 쥔님의 💃🏻 일대기.. 궁금하면 10시 본방 꼬옥 놀러오기😉 #NOW온에어 #슬기  🏡 같이 가요🏃🏻♀️ 👉🏻 https://t.co/fsELE3wduU https://t.co/iC8pNVoxVc"
 	},
 	{
 		"created_at": "Thu Aug 19 11:55:23 +0000 2021",
