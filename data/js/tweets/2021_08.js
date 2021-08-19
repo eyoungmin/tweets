@@ -1,6 +1,435 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 19 06:56:26 +0000 2021",
+		"id": 1428249481024258000,
+		"id_str": "1428249481024258049",
+		"full_text": "#TroyeSivan #트로이시반 #VEVO \nTroye Sivan - i'm so tired... (from In A Dream EP Live) \nhttps://t.co/gjtlKW4eAs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TroyeSivan",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "트로이시반",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "VEVO",
+					"indices": [
+						19,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gjtlKW4eAs",
+					"expanded_url": "https://www.youtube.com/watch?v=rNVdWLJvKlo",
+					"display_url": "youtube.com/watch?v=rNVdWL…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#TroyeSivan #트로이시반 #VEVO \nTroye Sivan - i'm so tired... (from In A Dream EP Live) \nhttps://t.co/gjtlKW4eAs"
+	},
+	{
+		"created_at": "Thu Aug 19 06:40:19 +0000 2021",
+		"id": 1428243636475416600,
+		"id_str": "1428245423316160516",
+		"full_text": "[LOOПΔ NEWS]\n\n[종합] \"새로운 해피엔딩\"…'데뷔 3주년' 이달의소녀, 글로벌 성장세 속 전한 진심\n\n▶️ https://t.co/29C1s7uZOh\n\n#이달의소녀 #LOONA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						98,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/29C1s7uZOh",
+					"expanded_url": "http://naver.me/5IF5DiRR",
+					"display_url": "naver.me/5IF5DiRR",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 792942,
+			"friends_count": 1,
+			"listed_count": 7843,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 623,
+		"favorite_count": 2843,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LOOПΔ NEWS]\n\n[종합] \"새로운 해피엔딩\"…'데뷔 3주년' 이달의소녀, 글로벌 성장세 속 전한 진심\n\n▶️ https://t.co/29C1s7uZOh\n\n#이달의소녀 #LOONA"
+	},
+	{
+		"created_at": "Thu Aug 19 06:12:51 +0000 2021",
+		"id": 1428235352163029000,
+		"id_str": "1428238512701116417",
+		"full_text": "3years with LOONA🥰\nOrbit App에 아래 QR코드를 인식하고 기념 뱃지를 받아보세요😆\n\n기간 : ~ 2021.08.25 (수) 11:59PM [KST]\nPeriod : ~ 2021.08.25 (Wed) 11:59PM [KST]\n\n#이달의소녀 #LOONA #PTT #Orbit https://t.co/V4XLTAq4FB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "PTT",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "Orbit",
+					"indices": [
+						157,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1428235347847114800,
+					"id_str": "1428235347847114758",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/E9Ice1QVcAYcb57.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9Ice1QVcAYcb57.jpg",
+					"url": "https://t.co/V4XLTAq4FB",
+					"display_url": "pic.twitter.com/V4XLTAq4FB",
+					"expanded_url": "https://twitter.com/loonaStaff/status/1428235352163028995/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 192,
+							"h": 192,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 192,
+							"h": 192,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 192,
+							"h": 192,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428235347847114800,
+					"id_str": "1428235347847114758",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/E9Ice1QVcAYcb57.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9Ice1QVcAYcb57.jpg",
+					"url": "https://t.co/V4XLTAq4FB",
+					"display_url": "pic.twitter.com/V4XLTAq4FB",
+					"expanded_url": "https://twitter.com/loonaStaff/status/1428235352163028995/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 192,
+							"h": 192,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 192,
+							"h": 192,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 192,
+							"h": 192,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 773078392660856800,
+			"id_str": "773078392660856832",
+			"name": "이달의 소녀 Staff",
+			"screen_name": "loonaStaff",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27262,
+			"friends_count": 1,
+			"listed_count": 493,
+			"created_at": "Tue Sep 06 08:40:26 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 311,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773079419527180288/9ulDQr_w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/773078392660856832/1602772146",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 207,
+		"favorite_count": 703,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "3years with LOONA🥰\nOrbit App에 아래 QR코드를 인식하고 기념 뱃지를 받아보세요😆\n\n기간 : ~ 2021.08.25 (수) 11:59PM [KST]\nPeriod : ~ 2021.08.25 (Wed) 11:59PM [KST]\n\n#이달의소녀 #LOONA #PTT #Orbit https://t.co/V4XLTAq4FB"
+	},
+	{
 		"created_at": "Thu Aug 19 05:29:38 +0000 2021",
 		"id": 1428224291938599000,
 		"id_str": "1428227638900973571",
