@@ -1,10 +1,195 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 19 18:15:03 +0000 2021",
+		"id": 1428415946520240000,
+		"id_str": "1428420259749396484",
+		"full_text": "https://t.co/LFHvF6hZaE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1428415933585010700,
+					"id_str": "1428415933585010690",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E9LAuTjXsAIfnmZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9LAuTjXsAIfnmZ.jpg",
+					"url": "https://t.co/LFHvF6hZaE",
+					"display_url": "pic.twitter.com/LFHvF6hZaE",
+					"expanded_url": "https://twitter.com/birdy/status/1428415946520240133/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428415933585010700,
+					"id_str": "1428415933585010690",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E9LAuTjXsAIfnmZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9LAuTjXsAIfnmZ.jpg",
+					"url": "https://t.co/LFHvF6hZaE",
+					"display_url": "pic.twitter.com/LFHvF6hZaE",
+					"expanded_url": "https://twitter.com/birdy/status/1428415946520240133/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Young Heart - my new album, OUT NOW 💛 \nhttps://t.co/JJysUdcZGQ",
+			"url": "https://t.co/AOWSyI9JYu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AOWSyI9JYu",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JJysUdcZGQ",
+							"expanded_url": "http://birdy.lnk.to/Young-Heart",
+							"display_url": "birdy.lnk.to/Young-Heart",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 315468,
+			"friends_count": 181,
+			"listed_count": 1191,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2342,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1619760432",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 898,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/LFHvF6hZaE"
+	},
+	{
 		"created_at": "Thu Aug 19 15:13:01 +0000 2021",
 		"id": 1428365977167614000,
 		"id_str": "1428374452052512772",
-		"full_text": "#슬기zip 처음 도전한 라탄공예🧺 쥔님 사전에 포기란 없다🙅🏻‍ 다음에는 꼬옥 완성할 예정💓 #NOW온에어 \n\n다음 주 손님들과 zip사가 기다린 그녀들! 케이팝 흔들다 못해 찢어버린 레전드 #퀸덤 귀환👑 #레드벨벳 완전체 놀러와요👏🏻 화요일 본방사수 달력에 별표⭐ 동그라미⭕ 표시 필수‼ https://t.co/ujE4lbusWc",
+		"full_text": "#슬기zip 처음 도전한 라탄공예🧺 쥔님 사전에 포기란 없다🙅🏻 다음에는 꼬옥 완성할 예정💓 #NOW온에어 \n\n다음 주 손님들과 zip사가 기다린 그녀들! 케이팝 흔들다 못해 찢어버린 레전드 #퀸덤 귀환👑 #레드벨벳 완전체 놀러와요👏🏻 화요일 본방사수 달력에 별표⭐ 동그라미⭕ 표시 필수‼ https://t.co/ujE4lbusWc",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -310,7 +495,7 @@ Grailbird.data.tweets_2021_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#슬기zip 처음 도전한 라탄공예🧺 쥔님 사전에 포기란 없다🙅🏻‍ 다음에는 꼬옥 완성할 예정💓 #NOW온에어 \n\n다음 주 손님들과 zip사가 기다린 그녀들! 케이팝 흔들다 못해 찢어버린 레전드 #퀸덤 귀환👑 #레드벨벳 완전체 놀러와요👏🏻 화요일 본방사수 달력에 별표⭐ 동그라미⭕ 표시 필수‼ https://t.co/ujE4lbusWc"
+		"text": "#슬기zip 처음 도전한 라탄공예🧺 쥔님 사전에 포기란 없다🙅🏻 다음에는 꼬옥 완성할 예정💓 #NOW온에어 \n\n다음 주 손님들과 zip사가 기다린 그녀들! 케이팝 흔들다 못해 찢어버린 레전드 #퀸덤 귀환👑 #레드벨벳 완전체 놀러와요👏🏻 화요일 본방사수 달력에 별표⭐ 동그라미⭕ 표시 필수‼ https://t.co/ujE4lbusWc"
 	},
 	{
 		"created_at": "Thu Aug 19 14:40:10 +0000 2021",
