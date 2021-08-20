@@ -1,6 +1,1111 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 20 10:40:29 +0000 2021",
+		"id": 1428665630597685200,
+		"id_str": "1428668254239744001",
+		"full_text": "Congratulation🥳\nIU 'Celebrity' \nM/V HITS 100 MILLION VIEWS on YouTube\n\n‘Celebrity' M/V\n▶ https://t.co/xfmXyjyAQl\n\n#아이유 #IU #Celebrity https://t.co/ODKBoGWaQL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이유",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "Celebrity",
+					"indices": [
+						123,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xfmXyjyAQl",
+					"expanded_url": "https://youtu.be/0-q1KafFCLU",
+					"display_url": "youtu.be/0-q1KafFCLU",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1428652766113665000,
+					"id_str": "1428652766113665027",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/E9OYHxeVkAM4AuK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9OYHxeVkAM4AuK.jpg",
+					"url": "https://t.co/ODKBoGWaQL",
+					"display_url": "pic.twitter.com/ODKBoGWaQL",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1428665630597685261/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428652766113665000,
+					"id_str": "1428652766113665027",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/E9OYHxeVkAM4AuK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9OYHxeVkAM4AuK.jpg",
+					"url": "https://t.co/ODKBoGWaQL",
+					"display_url": "pic.twitter.com/ODKBoGWaQL",
+					"expanded_url": "https://twitter.com/_IUofficial/status/1428665630597685261/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1037102,
+			"friends_count": 0,
+			"listed_count": 1955,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1616655617",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2625,
+		"favorite_count": 7185,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulation🥳\nIU 'Celebrity' \nM/V HITS 100 MILLION VIEWS on YouTube\n\n‘Celebrity' M/V\n▶ https://t.co/xfmXyjyAQl\n\n#아이유 #IU #Celebrity https://t.co/ODKBoGWaQL"
+	},
+	{
+		"created_at": "Fri Aug 20 10:13:12 +0000 2021",
+		"id": 1428655747701817300,
+		"id_str": "1428661388201787394",
+		"full_text": "https://t.co/DX2SQofl3Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1428655717804695600,
+					"id_str": "1428655717804695553",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E9OazlYUYAE8P0j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9OazlYUYAE8P0j.jpg",
+					"url": "https://t.co/DX2SQofl3Y",
+					"display_url": "pic.twitter.com/DX2SQofl3Y",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1428655747701817350/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1535,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428655717804695600,
+					"id_str": "1428655717804695553",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E9OazlYUYAE8P0j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9OazlYUYAE8P0j.jpg",
+					"url": "https://t.co/DX2SQofl3Y",
+					"display_url": "pic.twitter.com/DX2SQofl3Y",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1428655747701817350/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1535,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1428655728185667600,
+					"id_str": "1428655728185667590",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E9Oa0MDVcAYN28L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9Oa0MDVcAYN28L.jpg",
+					"url": "https://t.co/DX2SQofl3Y",
+					"display_url": "pic.twitter.com/DX2SQofl3Y",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1428655747701817350/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1534,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1428655739078287400,
+					"id_str": "1428655739078287361",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E9Oa00oVoAE7eVi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9Oa00oVoAE7eVi.jpg",
+					"url": "https://t.co/DX2SQofl3Y",
+					"display_url": "pic.twitter.com/DX2SQofl3Y",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1428655747701817350/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 887,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1514,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 503,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1428655695482822700,
+		"in_reply_to_status_id_str": "1428655695482822659",
+		"in_reply_to_user_id": 873092428755894300,
+		"in_reply_to_user_id_str": "873092428755894272",
+		"in_reply_to_screen_name": "RVsmtown",
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4480739,
+			"friends_count": 1,
+			"listed_count": 9564,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14815,
+		"favorite_count": 29966,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/DX2SQofl3Y"
+	},
+	{
+		"created_at": "Fri Aug 20 10:13:08 +0000 2021",
+		"id": 1428656304940191700,
+		"id_str": "1428661369075761155",
+		"full_text": "[#ViVi] 재밌던 화보 촬영날📸\n\n#이달의소녀 #LOONA https://t.co/KgpiwEzg1E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ViVi",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						21,
+						27
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						28,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1428656299449798700,
+					"id_str": "1428656299449798657",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/E9ObVcLUUAEjspE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9ObVcLUUAEjspE.jpg",
+					"url": "https://t.co/KgpiwEzg1E",
+					"display_url": "pic.twitter.com/KgpiwEzg1E",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1428656304940191745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428656299449798700,
+					"id_str": "1428656299449798657",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/E9ObVcLUUAEjspE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9ObVcLUUAEjspE.jpg",
+					"url": "https://t.co/KgpiwEzg1E",
+					"display_url": "pic.twitter.com/KgpiwEzg1E",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1428656304940191745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1428656299445604400,
+					"id_str": "1428656299445604355",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/E9ObVcKUUAM-rvF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9ObVcKUUAM-rvF.jpg",
+					"url": "https://t.co/KgpiwEzg1E",
+					"display_url": "pic.twitter.com/KgpiwEzg1E",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1428656304940191745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1428656299441475600,
+					"id_str": "1428656299441475587",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/E9ObVcJVUAM1xVd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9ObVcJVUAM1xVd.jpg",
+					"url": "https://t.co/KgpiwEzg1E",
+					"display_url": "pic.twitter.com/KgpiwEzg1E",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1428656304940191745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1428656299445608400,
+					"id_str": "1428656299445608451",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/E9ObVcKUYAMo3kn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9ObVcKUYAMo3kn.jpg",
+					"url": "https://t.co/KgpiwEzg1E",
+					"display_url": "pic.twitter.com/KgpiwEzg1E",
+					"expanded_url": "https://twitter.com/loonatheworld/status/1428656304940191745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 793512,
+			"friends_count": 1,
+			"listed_count": 7848,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5313,
+		"favorite_count": 14678,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#ViVi] 재밌던 화보 촬영날📸\n\n#이달의소녀 #LOONA https://t.co/KgpiwEzg1E"
+	},
+	{
+		"created_at": "Fri Aug 20 10:09:49 +0000 2021",
+		"id": 1428655695482822700,
+		"id_str": "1428660533876731904",
+		"full_text": "우리 러비들 오늘 퀸덤 첫방 잘 보셨나요?\n직접 만나지 못해 너무 아쉽지만\n앞으로 남은 무대들 많으니까 우리 무대하는 거 잘 봐줘요💝💛💙💚💜\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet\n#아이린 #IRENE \n#슬기 #SEULGI \n#웬디 #WENDY \n#조이 #JOY \n#예리 #YERI https://t.co/25rb4DlAaB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Queendom",
+					"indices": [
+						80,
+						89
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						100,
+						110
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						149,
+						152
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						159,
+						162
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						163,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1428655664478363600,
+					"id_str": "1428655664478363648",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/E9OaweuVIAA7vY1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9OaweuVIAA7vY1.jpg",
+					"url": "https://t.co/25rb4DlAaB",
+					"display_url": "pic.twitter.com/25rb4DlAaB",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1428655695482822659/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428655664478363600,
+					"id_str": "1428655664478363648",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/E9OaweuVIAA7vY1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9OaweuVIAA7vY1.jpg",
+					"url": "https://t.co/25rb4DlAaB",
+					"display_url": "pic.twitter.com/25rb4DlAaB",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1428655695482822659/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1428655673038971000,
+					"id_str": "1428655673038970892",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/E9Oaw-nVoAwO1Ao.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9Oaw-nVoAwO1Ao.jpg",
+					"url": "https://t.co/25rb4DlAaB",
+					"display_url": "pic.twitter.com/25rb4DlAaB",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1428655695482822659/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1428655686393614300,
+					"id_str": "1428655686393614341",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/E9OaxwXVUAUWFng.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9OaxwXVUAUWFng.jpg",
+					"url": "https://t.co/25rb4DlAaB",
+					"display_url": "pic.twitter.com/25rb4DlAaB",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1428655695482822659/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4480739,
+			"friends_count": 1,
+			"listed_count": 9564,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20223,
+		"favorite_count": 41015,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리 러비들 오늘 퀸덤 첫방 잘 보셨나요?\n직접 만나지 못해 너무 아쉽지만\n앞으로 남은 무대들 많으니까 우리 무대하는 거 잘 봐줘요💝💛💙💚💜\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet\n#아이린 #IRENE \n#슬기 #SEULGI \n#웬디 #WENDY \n#조이 #JOY \n#예리 #YERI https://t.co/25rb4DlAaB"
+	},
+	{
 		"created_at": "Fri Aug 20 09:40:37 +0000 2021",
 		"id": 1428652474865315800,
 		"id_str": "1428653187041484804",
