@@ -1,6 +1,550 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 20 05:59:48 +0000 2021",
+		"id": 1428597614891593700,
+		"id_str": "1428597614891593732",
+		"full_text": "룸306 Room306 - 소음 NOISE [OFFICIAL AUDIO] \nhttps://t.co/Si11yurfXp \n\n#룸306 #Room306 @YOUNGGIFTEDWACK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "룸306",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "Room306",
+					"indices": [
+						74,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YOUNGGIFTEDWACK",
+					"name": "영기획YOUNG,GIFTED&WACK",
+					"id": 602961088,
+					"id_str": "602961088",
+					"indices": [
+						83,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Si11yurfXp",
+					"expanded_url": "https://youtu.be/iDg6Ui90-l4",
+					"display_url": "youtu.be/iDg6Ui90-l4",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83921,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "룸306 Room306 - 소음 NOISE [OFFICIAL AUDIO] \nhttps://t.co/Si11yurfXp \n\n#룸306 #Room306 @YOUNGGIFTEDWACK"
+	},
+	{
+		"created_at": "Fri Aug 20 05:59:14 +0000 2021",
+		"id": 1428557651529502700,
+		"id_str": "1428597472553697285",
+		"full_text": "[NEW RELEASE]\n2021.8.20\nRoom306 ‘소음’ from &lt;술과 꽃&gt;\n\n9월 18일에 발매되는 룸306의 세 번째 앨범 &lt;술과 꽃&gt;의 두 번째 싱글 ‘소음’이 발매됐습니다. 제목처럼 시끄럽지 않습니다.\n\n#멜론 #플로 #지니 #벅스 #바이브 #애플뮤직 #스포티파이 #유튜브뮤직 https://t.co/fUSGDMSqnG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "플로",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						144,
+						147
+					]
+				},
+				{
+					"text": "벅스",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "바이브",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "애플뮤직",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "스포티파이",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "유튜브뮤직",
+					"indices": [
+						170,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1428557603416596500,
+					"id_str": "1428557603416596481",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428557603416596481/pu/img/MqEh3oi2Ba_0ysHu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428557603416596481/pu/img/MqEh3oi2Ba_0ysHu.jpg",
+					"url": "https://t.co/fUSGDMSqnG",
+					"display_url": "pic.twitter.com/fUSGDMSqnG",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1428557651529502720/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428557603416596500,
+					"id_str": "1428557603416596481",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428557603416596481/pu/img/MqEh3oi2Ba_0ysHu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428557603416596481/pu/img/MqEh3oi2Ba_0ysHu.jpg",
+					"url": "https://t.co/fUSGDMSqnG",
+					"display_url": "pic.twitter.com/fUSGDMSqnG",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1428557651529502720/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 32167,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428557603416596481/pu/vid/540x540/d5iczrvJ_eoAecxM.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428557603416596481/pu/vid/720x720/brCozRqQf2aqkqnP.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1428557603416596481/pu/pl/OCq27cnTKjmIc-Ml.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428557603416596481/pu/vid/320x320/Ku0ptCWXllSfJURO.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3543,
+			"friends_count": 1203,
+			"listed_count": 51,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 627,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEW RELEASE]\n2021.8.20\nRoom306 ‘소음’ from &lt;술과 꽃&gt;\n\n9월 18일에 발매되는 룸306의 세 번째 앨범 &lt;술과 꽃&gt;의 두 번째 싱글 ‘소음’이 발매됐습니다. 제목처럼 시끄럽지 않습니다.\n\n#멜론 #플로 #지니 #벅스 #바이브 #애플뮤직 #스포티파이 #유튜브뮤직 https://t.co/fUSGDMSqnG"
+	},
+	{
+		"created_at": "Fri Aug 20 05:59:11 +0000 2021",
+		"id": 1428559715236155400,
+		"id_str": "1428597462621581319",
+		"full_text": "Melon ▶ https://t.co/qgHm3r1Pzq\nGenie ▶ https://t.co/1Ef6oXqyP2\nBugs ▶ https://t.co/VzZkOPD722\nFLO ▶ https://t.co/Yj0ugaIdGq\nVIBE ▶ https://t.co/6QpBOMnzRo\nApple Music ▶ https://t.co/Hy1YBuCJAw\nYT Music ▶ https://t.co/ZU3lqxEV7S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qgHm3r1Pzq",
+					"expanded_url": "https://bit.ly/380Ibdv",
+					"display_url": "bit.ly/380Ibdv",
+					"indices": [
+						8,
+						31
+					]
+				},
+				{
+					"url": "https://t.co/1Ef6oXqyP2",
+					"expanded_url": "https://bit.ly/3z53HcX",
+					"display_url": "bit.ly/3z53HcX",
+					"indices": [
+						40,
+						63
+					]
+				},
+				{
+					"url": "https://t.co/VzZkOPD722",
+					"expanded_url": "https://bit.ly/3D1BZjI",
+					"display_url": "bit.ly/3D1BZjI",
+					"indices": [
+						71,
+						94
+					]
+				},
+				{
+					"url": "https://t.co/Yj0ugaIdGq",
+					"expanded_url": "https://bit.ly/3kc6Tx9",
+					"display_url": "bit.ly/3kc6Tx9",
+					"indices": [
+						101,
+						124
+					]
+				},
+				{
+					"url": "https://t.co/6QpBOMnzRo",
+					"expanded_url": "https://bit.ly/3y8PD16",
+					"display_url": "bit.ly/3y8PD16",
+					"indices": [
+						132,
+						155
+					]
+				},
+				{
+					"url": "https://t.co/Hy1YBuCJAw",
+					"expanded_url": "https://apple.co/3D1CiuS",
+					"display_url": "apple.co/3D1CiuS",
+					"indices": [
+						170,
+						193
+					]
+				},
+				{
+					"url": "https://t.co/ZU3lqxEV7S",
+					"expanded_url": "https://bit.ly/3mjDwM3",
+					"display_url": "bit.ly/3mjDwM3",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": 1428557651529502700,
+		"in_reply_to_status_id_str": "1428557651529502720",
+		"in_reply_to_user_id": 602961088,
+		"in_reply_to_user_id_str": "602961088",
+		"in_reply_to_screen_name": "YOUNGGIFTEDWACK",
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3543,
+			"friends_count": 1203,
+			"listed_count": 51,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 627,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Melon ▶ https://t.co/qgHm3r1Pzq\nGenie ▶ https://t.co/1Ef6oXqyP2\nBugs ▶ https://t.co/VzZkOPD722\nFLO ▶ https://t.co/Yj0ugaIdGq\nVIBE ▶ https://t.co/6QpBOMnzRo\nApple Music ▶ https://t.co/Hy1YBuCJAw\nYT Music ▶ https://t.co/ZU3lqxEV7S"
+	},
+	{
 		"created_at": "Fri Aug 20 04:32:03 +0000 2021",
 		"id": 1428572199674286000,
 		"id_str": "1428575532292001794",
