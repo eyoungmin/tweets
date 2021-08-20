@@ -1,6 +1,1410 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 20 09:40:37 +0000 2021",
+		"id": 1428652474865315800,
+		"id_str": "1428653187041484804",
+		"full_text": "당첨되신 분들은 메세지로\n[her 스트리밍 이벤트 당첨 / 성함 / 연락처 / 주소 / 개인정보 수집 및 이용에 동의합니다]를 작성해서 보내주세요. \n\n#ADOY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ADOY",
+					"indices": [
+						85,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1428652386923417600,
+		"in_reply_to_status_id_str": "1428652386923417601",
+		"in_reply_to_user_id": 755405901515718700,
+		"in_reply_to_user_id_str": "755405901515718656",
+		"in_reply_to_screen_name": "adoyband",
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/Q5Vx7wQZVR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q5Vx7wQZVR",
+							"expanded_url": "https://orcd.co/adoy_her",
+							"display_url": "orcd.co/adoy_her",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4638,
+			"friends_count": 504,
+			"listed_count": 40,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 224,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1625820897",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "당첨되신 분들은 메세지로\n[her 스트리밍 이벤트 당첨 / 성함 / 연락처 / 주소 / 개인정보 수집 및 이용에 동의합니다]를 작성해서 보내주세요. \n\n#ADOY"
+	},
+	{
+		"created_at": "Fri Aug 20 09:40:31 +0000 2021",
+		"id": 1428652386923417600,
+		"id_str": "1428653161422721031",
+		"full_text": "@0919hj\n@0uni0uni⠀\n@dmslalwakks\n@deepblueinsidehim\n@ehalswl99\n@min_shanee\n@reich_2x\n@rrllnc\n@ukyomi\n@yy._.z\n\n선정되신 분들 축하드립니다.\n그리고 참여해주신 모든 분들의\n소중한 글들, 진심으로 감사드립니다. 올려주신 글들 전부 꼼꼼히 잘 읽었습니다. 💜",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "0919hj",
+					"name": "HaHa",
+					"id": 1566966404,
+					"id_str": "1566966404",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "ehalswl99",
+					"name": "인슾민지/오늘은열zizi",
+					"id": 1691205480,
+					"id_str": "1691205480",
+					"indices": [
+						51,
+						61
+					]
+				},
+				{
+					"screen_name": "UKYOMI",
+					"name": "우끼끼",
+					"id": 2607609368,
+					"id_str": "2607609368",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"screen_name": "yy",
+					"name": "Yong-Yeol (YY) Ahn",
+					"id": 2335431,
+					"id_str": "2335431",
+					"indices": [
+						100,
+						103
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1428652153053143000,
+		"in_reply_to_status_id_str": "1428652153053143040",
+		"in_reply_to_user_id": 755405901515718700,
+		"in_reply_to_user_id_str": "755405901515718656",
+		"in_reply_to_screen_name": "adoyband",
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/Q5Vx7wQZVR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q5Vx7wQZVR",
+							"expanded_url": "https://orcd.co/adoy_her",
+							"display_url": "orcd.co/adoy_her",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4638,
+			"friends_count": 504,
+			"listed_count": 40,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 224,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1625820897",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@0919hj\n@0uni0uni⠀\n@dmslalwakks\n@deepblueinsidehim\n@ehalswl99\n@min_shanee\n@reich_2x\n@rrllnc\n@ukyomi\n@yy._.z\n\n선정되신 분들 축하드립니다.\n그리고 참여해주신 모든 분들의\n소중한 글들, 진심으로 감사드립니다. 올려주신 글들 전부 꼼꼼히 잘 읽었습니다. 💜"
+	},
+	{
+		"created_at": "Fri Aug 20 09:40:24 +0000 2021",
+		"id": 1428652153053143000,
+		"id_str": "1428653131467042822",
+		"full_text": "Thank you so much for all the love, streams and shares for our new album. \nWhat is your favorite track? Can’t wait to share it with you live. \n\n—\n\n‘her’ 스트리밍 이벤트💿\n당첨자를 발표합니다! https://t.co/FNH4f9r3xT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1428652150469525500,
+					"id_str": "1428652150469525510",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/E9OXj8BVgAYZYa3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9OXj8BVgAYZYa3.jpg",
+					"url": "https://t.co/FNH4f9r3xT",
+					"display_url": "pic.twitter.com/FNH4f9r3xT",
+					"expanded_url": "https://twitter.com/adoyband/status/1428652153053143040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1224,
+							"h": 1224,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428652150469525500,
+					"id_str": "1428652150469525510",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/E9OXj8BVgAYZYa3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9OXj8BVgAYZYa3.jpg",
+					"url": "https://t.co/FNH4f9r3xT",
+					"display_url": "pic.twitter.com/FNH4f9r3xT",
+					"expanded_url": "https://twitter.com/adoyband/status/1428652153053143040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1224,
+							"h": 1224,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755405901515718700,
+			"id_str": "755405901515718656",
+			"name": "ADOY",
+			"screen_name": "adoyband",
+			"location": "",
+			"description": "commercial indie",
+			"url": "https://t.co/Q5Vx7wQZVR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q5Vx7wQZVR",
+							"expanded_url": "https://orcd.co/adoy_her",
+							"display_url": "orcd.co/adoy_her",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4638,
+			"friends_count": 504,
+			"listed_count": 40,
+			"created_at": "Tue Jul 19 14:16:16 +0000 2016",
+			"favourites_count": 224,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1413421406088400899/NdGOToLa_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755405901515718656/1625820897",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Thank you so much for all the love, streams and shares for our new album. \nWhat is your favorite track? Can’t wait to share it with you live. \n\n—\n\n‘her’ 스트리밍 이벤트💿\n당첨자를 발표합니다! https://t.co/FNH4f9r3xT"
+	},
+	{
+		"created_at": "Fri Aug 20 09:40:18 +0000 2021",
+		"id": 1428649128506974200,
+		"id_str": "1428653105768542210",
+		"full_text": "[K-Choreo 8K HDR] 레드벨벳 직캠 'Queendom' (Red Velvet Choreography) l @MusicBank 210820\n\nhttps://t.co/uCxEIVA7gT\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Queendom",
+					"indices": [
+						109,
+						118
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						129,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "musicbank",
+					"name": "유희왕  Yu Hee Wang",
+					"id": 137529912,
+					"id_str": "137529912",
+					"indices": [
+						65,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uCxEIVA7gT",
+					"expanded_url": "https://youtu.be/Z2WuFJUcHK8",
+					"display_url": "youtu.be/Z2WuFJUcHK8",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4480367,
+			"friends_count": 1,
+			"listed_count": 9559,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7217,
+		"favorite_count": 12532,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[K-Choreo 8K HDR] 레드벨벳 직캠 'Queendom' (Red Velvet Choreography) l @MusicBank 210820\n\nhttps://t.co/uCxEIVA7gT\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet"
+	},
+	{
+		"created_at": "Fri Aug 20 09:40:12 +0000 2021",
+		"id": 1428648443107369000,
+		"id_str": "1428653080082632705",
+		"full_text": "강인한 눈빛과 우아한 포즈, \n모던한 애티튜드로 \n아이유가 카메라 앞에 섰습니다✨\n당신의 마음을 훔칠 이야기가 \n웨이브를 통해 곧 찾아갑니다🎬\n\nhttps://t.co/ksMsG5NnDz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ksMsG5NnDz",
+					"expanded_url": "https://www.instagram.com/p/CSylgJmBEng/",
+					"display_url": "instagram.com/p/CSylgJmBEng/",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1037037,
+			"friends_count": 0,
+			"listed_count": 1955,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1081,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1616655617",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 889,
+		"favorite_count": 3761,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "강인한 눈빛과 우아한 포즈, \n모던한 애티튜드로 \n아이유가 카메라 앞에 섰습니다✨\n당신의 마음을 훔칠 이야기가 \n웨이브를 통해 곧 찾아갑니다🎬\n\nhttps://t.co/ksMsG5NnDz"
+	},
+	{
+		"created_at": "Fri Aug 20 09:40:09 +0000 2021",
+		"id": 1428601603003539500,
+		"id_str": "1428653071077412868",
+		"full_text": "부디 이 청원이 성공해 개정안이 철회되길 바라며 뮤트합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1428599358388199400,
+		"in_reply_to_status_id_str": "1428599358388199429",
+		"in_reply_to_user_id": 403092932,
+		"in_reply_to_user_id_str": "403092932",
+		"in_reply_to_screen_name": "fiona_h_k",
+		"user": {
+			"id": 403092932,
+			"id_str": "403092932",
+			"name": "피오나",
+			"screen_name": "fiona_h_k",
+			"location": "the Kingdom of Far Far Away",
+			"description": "#Feminist💄 #LGBT🌈 #Cat🐈 #Nell 🎹#GirlsCanDoAnything💃🏻#DontBuyAdopt🐾 의식의 흐름& 트윗& 멘션 자주 지웁니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67,
+			"friends_count": 552,
+			"listed_count": 2,
+			"created_at": "Wed Nov 02 00:48:06 +0000 2011",
+			"favourites_count": 1249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1426953281083887616/pSbmK-JM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1426953281083887616/pSbmK-JM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/403092932/1629047149",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "부디 이 청원이 성공해 개정안이 철회되길 바라며 뮤트합니다."
+	},
+	{
+		"created_at": "Fri Aug 20 09:35:14 +0000 2021",
+		"id": 1428651834001006600,
+		"id_str": "1428651834001006594",
+		"full_text": "#오떼르 #Hauteurtheday \n※충격※ 법규는 안무가 아닌데 #백혁거세챌린지 #Shorts \nhttps://t.co/pGBBP5iDgt \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오떼르",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "Hauteurtheday",
+					"indices": [
+						5,
+						19
+					]
+				},
+				{
+					"text": "백혁거세챌린지",
+					"indices": [
+						38,
+						46
+					]
+				},
+				{
+					"text": "Shorts",
+					"indices": [
+						47,
+						54
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "김지우",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "츄",
+					"indices": [
+						103,
+						105
+					]
+				},
+				{
+					"text": "Chuu",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "츄튜브",
+					"indices": [
+						112,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pGBBP5iDgt",
+					"expanded_url": "https://youtu.be/iN-HYioh1vM",
+					"display_url": "youtu.be/iN-HYioh1vM",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오떼르 #Hauteurtheday \n※충격※ 법규는 안무가 아닌데 #백혁거세챌린지 #Shorts \nhttps://t.co/pGBBP5iDgt \n \n#이달의소녀 #LOONA \n#김지우 #츄 #Chuu #츄튜브"
+	},
+	{
+		"created_at": "Fri Aug 20 09:29:39 +0000 2021",
+		"id": 1428643216107188200,
+		"id_str": "1428650425616633856",
+		"full_text": "[#🌳] 인간 라일락 서현🌸 #Shorts\n▶ https://t.co/CngmuQ3ucp\n\n#서현 #SEOHYUN #NAMOOCONTENTS https://t.co/iD5Emc7YIc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Shorts",
+					"indices": [
+						16,
+						23
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						55,
+						63
+					]
+				},
+				{
+					"text": "NAMOOCONTENTS",
+					"indices": [
+						64,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CngmuQ3ucp",
+					"expanded_url": "https://youtu.be/-8Wnz0NXpZU",
+					"display_url": "youtu.be/-8Wnz0NXpZU",
+					"indices": [
+						26,
+						49
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1428592569252909000,
+					"id_str": "1428592569252909056",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/E9NhX2sVEAAt0Kk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9NhX2sVEAAt0Kk.jpg",
+					"url": "https://t.co/iD5Emc7YIc",
+					"display_url": "pic.twitter.com/iD5Emc7YIc",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1428643216107188227/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428592569252909000,
+					"id_str": "1428592569252909056",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/E9NhX2sVEAAt0Kk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9NhX2sVEAAt0Kk.jpg",
+					"url": "https://t.co/iD5Emc7YIc",
+					"display_url": "pic.twitter.com/iD5Emc7YIc",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1428643216107188227/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50017,
+			"friends_count": 13,
+			"listed_count": 0,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 344,
+		"favorite_count": 432,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#🌳] 인간 라일락 서현🌸 #Shorts\n▶ https://t.co/CngmuQ3ucp\n\n#서현 #SEOHYUN #NAMOOCONTENTS https://t.co/iD5Emc7YIc"
+	},
+	{
+		"created_at": "Fri Aug 20 09:25:05 +0000 2021",
+		"id": 1428642972757749800,
+		"id_str": "1428649278541467650",
+		"full_text": "#ELLEaskmeanything #로제 #블랙핑크 #BLACKPINK #ROSÉ @ygofficialblink @BLACKPINK\n\nASK ME ANYTHING ❣️❣️O.P.E.N❣️❣️\n로제의 큐티빠띠 답변이 궁금하다면?\n\n바로보기📲https://t.co/y4B9nwFuax https://t.co/xRjHec6kHP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELLEaskmeanything",
+					"indices": [
+						0,
+						18
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						19,
+						22
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						29,
+						39
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						40,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						46,
+						62
+					]
+				},
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						63,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/y4B9nwFuax",
+					"expanded_url": "https://youtu.be/QFuLunsspV8",
+					"display_url": "youtu.be/QFuLunsspV8",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1428623133720727600,
+					"id_str": "1428623133720727559",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428623133720727559/pu/img/sjFmsvUh6pBnX74Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428623133720727559/pu/img/sjFmsvUh6pBnX74Y.jpg",
+					"url": "https://t.co/xRjHec6kHP",
+					"display_url": "pic.twitter.com/xRjHec6kHP",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1428642972757749772/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428623133720727600,
+					"id_str": "1428623133720727559",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428623133720727559/pu/img/sjFmsvUh6pBnX74Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428623133720727559/pu/img/sjFmsvUh6pBnX74Y.jpg",
+					"url": "https://t.co/xRjHec6kHP",
+					"display_url": "pic.twitter.com/xRjHec6kHP",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1428642972757749772/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28237,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428623133720727559/pu/vid/480x270/xyTU_3737nR-q5AY.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428623133720727559/pu/vid/640x360/_pH0dkZowqdA9G3i.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1428623133720727559/pu/pl/vtlRm3-isBL05loY.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428623133720727559/pu/vid/1280x720/XB0kRO59m4b4rlUE.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 ELLE KOREA 공식 트위터 official twitter 입니다.",
+			"url": "https://t.co/wrg4l4aKRf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wrg4l4aKRf",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141124,
+			"friends_count": 3460,
+			"listed_count": 450,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1628847252",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2769,
+		"favorite_count": 4164,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ELLEaskmeanything #로제 #블랙핑크 #BLACKPINK #ROSÉ @ygofficialblink @BLACKPINK\n\nASK ME ANYTHING ❣️❣️O.P.E.N❣️❣️\n로제의 큐티빠띠 답변이 궁금하다면?\n\n바로보기📲https://t.co/y4B9nwFuax https://t.co/xRjHec6kHP"
+	},
+	{
 		"created_at": "Fri Aug 20 07:51:53 +0000 2021",
 		"id": 1428625824291360800,
 		"id_str": "1428625824291360770",
