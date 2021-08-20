@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 20 14:40:18 +0000 2021",
+		"id": 1428726916345843700,
+		"id_str": "1428728603798380548",
+		"full_text": "라띠라뚜빠빠띠라🖐✊\n다시 한번 시작해 볼까?👑 \n\nhttps://t.co/LIDszEyNcL\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet\n#QueendomChallenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Queendom",
+					"indices": [
+						53,
+						62
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						73,
+						83
+					]
+				},
+				{
+					"text": "QueendomChallenge",
+					"indices": [
+						84,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LIDszEyNcL",
+					"expanded_url": "https://vt.tiktok.com/ZSJ7MP75s/",
+					"display_url": "vt.tiktok.com/ZSJ7MP75s/",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4482036,
+			"friends_count": 1,
+			"listed_count": 9570,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7716,
+		"favorite_count": 15453,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "라띠라뚜빠빠띠라🖐✊\n다시 한번 시작해 볼까?👑 \n\nhttps://t.co/LIDszEyNcL\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet\n#QueendomChallenge"
+	},
+	{
+		"created_at": "Fri Aug 20 14:40:10 +0000 2021",
+		"id": 1428726864072253400,
+		"id_str": "1428728569690218498",
+		"full_text": "That's our Queeendom💗🧡💙💚💜\n\nhttps://t.co/SEgwJwhK9O\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet\n#QueendomChallenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Queendom",
+					"indices": [
+						52,
+						61
+					]
+				},
+				{
+					"text": "퀸덤",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						72,
+						82
+					]
+				},
+				{
+					"text": "QueendomChallenge",
+					"indices": [
+						83,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SEgwJwhK9O",
+					"expanded_url": "https://vt.tiktok.com/ZSJ7MBcuo/",
+					"display_url": "vt.tiktok.com/ZSJ7MBcuo/",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4482036,
+			"friends_count": 1,
+			"listed_count": 9570,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7818,
+		"favorite_count": 14879,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That's our Queeendom💗🧡💙💚💜\n\nhttps://t.co/SEgwJwhK9O\n\n#Queendom #퀸덤\n#레드벨벳 #RedVelvet\n#QueendomChallenge"
+	},
+	{
 		"created_at": "Fri Aug 20 13:29:39 +0000 2021",
 		"id": 1428703407901003800,
 		"id_str": "1428710823371976708",
