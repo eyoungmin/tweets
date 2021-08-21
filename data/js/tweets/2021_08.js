@@ -1,6 +1,391 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sat Aug 21 12:40:09 +0000 2021",
+		"id": 1429051834790858800,
+		"id_str": "1429060757845643266",
+		"full_text": "@Spotify @SpotifyKR Playlist “In The K-Indie” 에서도 ‘Free Up’ 을 들어보실 수 있답니다🥳 🔥\n#spotify #spotifykr #playlist #yeseo #tryfree #freeup\n\nhttps://t.co/J8qHuod4n9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "spotify",
+					"indices": [
+						77,
+						85
+					]
+				},
+				{
+					"text": "spotifykr",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"text": "playlist",
+					"indices": [
+						97,
+						106
+					]
+				},
+				{
+					"text": "yeseo",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "tryfree",
+					"indices": [
+						114,
+						122
+					]
+				},
+				{
+					"text": "freeup",
+					"indices": [
+						123,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						9,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/J8qHuod4n9",
+					"expanded_url": "https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne?prid=spotify:track:3Fz1BLsoKFUeNqrwERbli8",
+					"display_url": "open.spotify.com/playlist/37i9d…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 17230018,
+		"in_reply_to_user_id_str": "17230018",
+		"in_reply_to_screen_name": "Spotify",
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 802,
+			"friends_count": 6,
+			"listed_count": 24,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1629114180",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@Spotify @SpotifyKR Playlist “In The K-Indie” 에서도 ‘Free Up’ 을 들어보실 수 있답니다🥳 🔥\n#spotify #spotifykr #playlist #yeseo #tryfree #freeup\n\nhttps://t.co/J8qHuod4n9"
+	},
+	{
+		"created_at": "Sat Aug 21 12:32:22 +0000 2021",
+		"id": 1429050650457936000,
+		"id_str": "1429058795959767048",
+		"full_text": "사진에 진심인 있지, 조이가 추천하는 제주도 여행코스\n\n#있지 #조이 #효연 #려원 #니콜 #제주도 #인생샷 #이호테우 #해변 #ITZY #서귀포 #소녀시대 #소시 #지영 #카라 #천국의계단 #레드벨벳\nhttps://t.co/g0OGnGeuq6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "있지",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						35,
+						38
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						39,
+						42
+					]
+				},
+				{
+					"text": "려원",
+					"indices": [
+						43,
+						46
+					]
+				},
+				{
+					"text": "니콜",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "제주도",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "인생샷",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "이호테우",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "해변",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "ITZY",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "서귀포",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "소시",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "지영",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "카라",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "천국의계단",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						107,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g0OGnGeuq6",
+					"expanded_url": "https://www.cosmopolitan.co.kr/article/57808?utm_source=twitter&utm_medium=social&utm_campaign=article",
+					"display_url": "cosmopolitan.co.kr/article/57808?…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160470854,
+			"id_str": "160470854",
+			"name": "cosmokorea",
+			"screen_name": "cosmokorea",
+			"location": "Seoul, Korea",
+			"description": "코스모폴리탄 코리아의 공식 트위터! 트렌디한 패션&뷰티, 연애, 커리어 팁을 다루는 싱글걸의 라이프스타일 바이블. FUN, FEARLESS, FEMALE을 위한 월간지입니다. 신상제품, 핫플레이스, 다양한 문화정보를 실시간으로 전합니다",
+			"url": "https://t.co/ONBx2OumIF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONBx2OumIF",
+							"expanded_url": "http://www.cosmopolitan.co.kr",
+							"display_url": "cosmopolitan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88957,
+			"friends_count": 4,
+			"listed_count": 400,
+			"created_at": "Mon Jun 28 07:40:22 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074467831008219137/wQ37PNvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160470854/1585707489",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FA0F36",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사진에 진심인 있지, 조이가 추천하는 제주도 여행코스\n\n#있지 #조이 #효연 #려원 #니콜 #제주도 #인생샷 #이호테우 #해변 #ITZY #서귀포 #소녀시대 #소시 #지영 #카라 #천국의계단 #레드벨벳\nhttps://t.co/g0OGnGeuq6"
+	},
+	{
 		"created_at": "Sat Aug 21 11:04:14 +0000 2021",
 		"id": 1429036617541505000,
 		"id_str": "1429036617541505025",
