@@ -1,6 +1,513 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sun Aug 22 09:40:26 +0000 2021",
+		"id": 1429368125917565000,
+		"id_str": "1429377915586764800",
+		"full_text": "[#VIDEO]\nSeori - Dive with you (feat. eaJ) (Lyric Video 1)\n\n▶ https://t.co/6VqEi2UyWu\n\n#Seori\n#Divewithyou",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIDEO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "Divewithyou",
+					"indices": [
+						94,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6VqEi2UyWu",
+					"expanded_url": "https://youtu.be/_LYZB9S1v5g",
+					"display_url": "youtu.be/_LYZB9S1v5g",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24951,
+			"friends_count": 0,
+			"listed_count": 101,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2279,
+		"favorite_count": 2876,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#VIDEO]\nSeori - Dive with you (feat. eaJ) (Lyric Video 1)\n\n▶ https://t.co/6VqEi2UyWu\n\n#Seori\n#Divewithyou"
+	},
+	{
+		"created_at": "Sun Aug 22 09:40:17 +0000 2021",
+		"id": 1429367894337482800,
+		"id_str": "1429377877372440576",
+		"full_text": "[#Notice]\nSeori 'Dive with you (feat. eaJ)' 음원사이트 안내\nSeori 'Dive with you (feat. eaJ)' Information of Streaming website\n\n▶ https://t.co/7oTIE7bjSt\n▶ https://t.co/OjyLMt0FrM\n\n#Seori\n#Divewithyou https://t.co/mDdyRNXmBP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "Divewithyou",
+					"indices": [
+						181,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7oTIE7bjSt",
+					"expanded_url": "https://seori.com/dwystrm/",
+					"display_url": "seori.com/dwystrm/",
+					"indices": [
+						123,
+						146
+					]
+				},
+				{
+					"url": "https://t.co/OjyLMt0FrM",
+					"expanded_url": "https://seori.lnk.to/DWY",
+					"display_url": "seori.lnk.to/DWY",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1429367598106374100,
+					"id_str": "1429367598106374145",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/E9YiQeKVcAEYpMq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9YiQeKVcAEYpMq.jpg",
+					"url": "https://t.co/mDdyRNXmBP",
+					"display_url": "pic.twitter.com/mDdyRNXmBP",
+					"expanded_url": "https://twitter.com/seori_official/status/1429367894337482758/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1429367598106374100,
+					"id_str": "1429367598106374145",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/E9YiQeKVcAEYpMq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9YiQeKVcAEYpMq.jpg",
+					"url": "https://t.co/mDdyRNXmBP",
+					"display_url": "pic.twitter.com/mDdyRNXmBP",
+					"expanded_url": "https://twitter.com/seori_official/status/1429367894337482758/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24951,
+			"friends_count": 0,
+			"listed_count": 101,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2090,
+		"favorite_count": 3229,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Notice]\nSeori 'Dive with you (feat. eaJ)' 음원사이트 안내\nSeori 'Dive with you (feat. eaJ)' Information of Streaming website\n\n▶ https://t.co/7oTIE7bjSt\n▶ https://t.co/OjyLMt0FrM\n\n#Seori\n#Divewithyou https://t.co/mDdyRNXmBP"
+	},
+	{
+		"created_at": "Sun Aug 22 09:40:10 +0000 2021",
+		"id": 1427797765355147300,
+		"id_str": "1429377847358070785",
+		"full_text": "nyc not playing around 😭 https://t.co/9bp16oIwRN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1427797761504727000,
+					"id_str": "1427797761504727040",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/E9COf9GWUAAjqvP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9COf9GWUAAjqvP.jpg",
+					"url": "https://t.co/9bp16oIwRN",
+					"display_url": "pic.twitter.com/9bp16oIwRN",
+					"expanded_url": "https://twitter.com/bleepinjavy17/status/1427797765355147270/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1110,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 645,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1110,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427797761504727000,
+					"id_str": "1427797761504727040",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/E9COf9GWUAAjqvP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9COf9GWUAAjqvP.jpg",
+					"url": "https://t.co/9bp16oIwRN",
+					"display_url": "pic.twitter.com/9bp16oIwRN",
+					"expanded_url": "https://twitter.com/bleepinjavy17/status/1427797765355147270/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1110,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 645,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1110,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 754963228946489300,
+			"id_str": "754963228946489344",
+			"name": "Javy Torres",
+			"screen_name": "bleepinjavy17",
+			"location": "United States",
+			"description": "🇩🇴 | Official Twitter of the 17th Governor of Dyckman",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2657,
+			"friends_count": 2590,
+			"listed_count": 5,
+			"created_at": "Mon Jul 18 08:57:15 +0000 2016",
+			"favourites_count": 35419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1426344073024126983/nMmag0LT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1426344073024126983/nMmag0LT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/754963228946489344/1628901752",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9177,
+		"favorite_count": 53282,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "nyc not playing around 😭 https://t.co/9bp16oIwRN"
+	},
+	{
 		"created_at": "Sun Aug 22 08:40:40 +0000 2021",
 		"id": 1429357849411420200,
 		"id_str": "1429362874602991616",
