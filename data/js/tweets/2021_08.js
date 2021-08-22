@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sun Aug 22 07:42:29 +0000 2021",
+		"id": 1429339931738992600,
+		"id_str": "1429348234355372035",
+		"full_text": "#ELLE뷰파인더 #레드벨벳 #redvelvet #메이크업 #Queendom \n\n항상 예쁜 레드벨벳의 메이크업의 비밀은 바로 이것! \n&lt;퀸덤&gt; 뮤직비디오에 등장한 레드벨벳 메이크업 팁\n\n기사 보러가기📲https://t.co/gxQTLyoFnM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELLE뷰파인더",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "redvelvet",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"text": "메이크업",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "Queendom",
+					"indices": [
+						33,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gxQTLyoFnM",
+					"expanded_url": "https://bit.ly/2XCN5eQ",
+					"display_url": "bit.ly/2XCN5eQ",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 ELLE KOREA 공식 트위터 official twitter 입니다.",
+			"url": "https://t.co/wrg4l4aKRf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wrg4l4aKRf",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141396,
+			"friends_count": 3460,
+			"listed_count": 451,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14828,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1628847252",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ELLE뷰파인더 #레드벨벳 #redvelvet #메이크업 #Queendom \n\n항상 예쁜 레드벨벳의 메이크업의 비밀은 바로 이것! \n&lt;퀸덤&gt; 뮤직비디오에 등장한 레드벨벳 메이크업 팁\n\n기사 보러가기📲https://t.co/gxQTLyoFnM"
+	},
+	{
 		"created_at": "Sun Aug 22 04:32:33 +0000 2021",
 		"id": 1429286539855425500,
 		"id_str": "1429300434271756288",
