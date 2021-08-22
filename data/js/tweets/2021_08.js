@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sun Aug 22 04:32:33 +0000 2021",
+		"id": 1429286539855425500,
+		"id_str": "1429300434271756288",
+		"full_text": "#MYVOGUE \n#태연 과 반려견 제로의 너무너무x999999 러블리한 #마이보그 !\n링크를 눌러 지금 확인해보세요💕\n#taeyeon \n▶️ https://t.co/yQX9LD6WMB https://t.co/UzPK2MFxCY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MYVOGUE",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "마이보그",
+					"indices": [
+						41,
+						46
+					]
+				},
+				{
+					"text": "taeyeon",
+					"indices": [
+						67,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yQX9LD6WMB",
+					"expanded_url": "https://youtu.be/8iTtcYQO_60",
+					"display_url": "youtu.be/8iTtcYQO_60",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1429286527851384800,
+					"id_str": "1429286527851384834",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E9XYhj7VUAI0J7E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9XYhj7VUAI0J7E.jpg",
+					"url": "https://t.co/UzPK2MFxCY",
+					"display_url": "pic.twitter.com/UzPK2MFxCY",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1429286539855425538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1429286527851384800,
+					"id_str": "1429286527851384834",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E9XYhj7VUAI0J7E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9XYhj7VUAI0J7E.jpg",
+					"url": "https://t.co/UzPK2MFxCY",
+					"display_url": "pic.twitter.com/UzPK2MFxCY",
+					"expanded_url": "https://twitter.com/VogueKorea/status/1429286539855425538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159102271,
+			"id_str": "159102271",
+			"name": "VOGUE KOREA",
+			"screen_name": "VogueKorea",
+			"location": "",
+			"description": "Vogue Korea official twitter",
+			"url": "https://t.co/7zHHYnc0Dp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7zHHYnc0Dp",
+							"expanded_url": "http://www.vogue.co.kr",
+							"display_url": "vogue.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 95776,
+			"friends_count": 0,
+			"listed_count": 324,
+			"created_at": "Thu Jun 24 13:11:05 +0000 2010",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320587185767116802/S3U8-krQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159102271/1629184335",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5EF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 807,
+		"favorite_count": 917,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#MYVOGUE \n#태연 과 반려견 제로의 너무너무x999999 러블리한 #마이보그 !\n링크를 눌러 지금 확인해보세요💕\n#taeyeon \n▶️ https://t.co/yQX9LD6WMB https://t.co/UzPK2MFxCY"
+	},
+	{
 		"created_at": "Sat Aug 21 15:09:36 +0000 2021",
 		"id": 1429092802659381200,
 		"id_str": "1429098364835176448",
