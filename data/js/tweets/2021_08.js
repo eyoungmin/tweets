@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 23 01:47:40 +0000 2021",
+		"id": 1429621329263739000,
+		"id_str": "1429621329263738881",
+		"full_text": "#YG라이프 #YG엔터테인먼트 \n블랙핑크 리사, 솔로로 나선다…제니·로제 이어 세 번째 \nhttps://t.co/dH2LlhSNqE \n \n#블랙핑크 #BLACKPINK https://t.co/JtKVwA3t9e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						83,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dH2LlhSNqE",
+					"expanded_url": "https://yg-life.com/archives/169590?lang=ko",
+					"display_url": "yg-life.com/archives/16959…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1429621328236191700,
+					"id_str": "1429621328236191754",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/E9cJBgjXIAoowGR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9cJBgjXIAoowGR.jpg",
+					"url": "https://t.co/JtKVwA3t9e",
+					"display_url": "pic.twitter.com/JtKVwA3t9e",
+					"expanded_url": "https://twitter.com/fromminn/status/1429621329263738881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1429621328236191700,
+					"id_str": "1429621328236191754",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/E9cJBgjXIAoowGR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9cJBgjXIAoowGR.jpg",
+					"url": "https://t.co/JtKVwA3t9e",
+					"display_url": "pic.twitter.com/JtKVwA3t9e",
+					"expanded_url": "https://twitter.com/fromminn/status/1429621329263738881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1052,
+			"listed_count": 0,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트 \n블랙핑크 리사, 솔로로 나선다…제니·로제 이어 세 번째 \nhttps://t.co/dH2LlhSNqE \n \n#블랙핑크 #BLACKPINK https://t.co/JtKVwA3t9e"
+	},
+	{
+		"created_at": "Mon Aug 23 01:29:38 +0000 2021",
+		"id": 1429615264421740500,
+		"id_str": "1429616792062812168",
+		"full_text": "지구를 위해 목소리를 낸 셀럽들의 선한 영향력. \n\n#이정재 #한예리 #권유리 #이선균 #차학연 #윤승아 #류승룡 #박진희 #장윤주 #이광수\n\nhttps://t.co/qpUyE3vRQP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이정재",
+					"indices": [
+						29,
+						33
+					]
+				},
+				{
+					"text": "한예리",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "이선균",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "차학연",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "윤승아",
+					"indices": [
+						54,
+						58
+					]
+				},
+				{
+					"text": "류승룡",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "박진희",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "장윤주",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "이광수",
+					"indices": [
+						74,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qpUyE3vRQP",
+					"expanded_url": "https://www.wkorea.com/2021/08/23/for-earth-for-us/?ddw=94152&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2021/08/23/for…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5xzw0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5xzw0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284235,
+			"friends_count": 0,
+			"listed_count": 817,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1627020150",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지구를 위해 목소리를 낸 셀럽들의 선한 영향력. \n\n#이정재 #한예리 #권유리 #이선균 #차학연 #윤승아 #류승룡 #박진희 #장윤주 #이광수\n\nhttps://t.co/qpUyE3vRQP"
+	},
+	{
 		"created_at": "Sun Aug 22 15:48:10 +0000 2021",
 		"id": 1429470458819358700,
 		"id_str": "1429470458819358727",
