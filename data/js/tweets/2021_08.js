@@ -1,6 +1,733 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 23 04:45:44 +0000 2021",
+		"id": 1429662180052398000,
+		"id_str": "1429666138938609665",
+		"full_text": "오늘의 라인업 💗\n이달의 소녀, 프로미스나인, JBJ95, AB6IX, 위아이, CIX, 원어스, 김재환, 러블리즈, 우주소녀, 데이식스, SF9, 비투비, 펜타곤, 레드벨벳, 마마무, 에이티즈, 오마이걸, 여자친구, 아스트로, JJ프로젝트, 트와이스, 아이즈원, 세븐틴, TXT, 스트레이 키즈, 방탄소년단 https://t.co/73c71uGSlp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/73c71uGSlp",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1429635217564725248",
+					"display_url": "twitter.com/ALLTHEKPOP/sta…",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84639,
+			"friends_count": 338,
+			"listed_count": 319,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1629680523",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1429635217564725200,
+		"quoted_status_id_str": "1429635217564725248",
+		"quoted_status_permalink": {
+			"url": "https://t.co/73c71uGSlp",
+			"expanded": "https://twitter.com/ALLTHEKPOP/status/1429635217564725248",
+			"display": "twitter.com/ALLTHEKPOP/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 23 02:42:51 +0000 2021",
+			"id": 1429635217564725200,
+			"id_str": "1429635217564725248",
+			"full_text": "올케다방의 띵곡팔이👋\n⏰PM 2:00~3:30\n\n더위가 물러난다는 처서매직을 아시나요.. (¬_¬ )❓ \n처서매직을 기원하며 가을에 들으면 더 좋은 노래 함께 들어요🎶\n\n▶https://t.co/XQeLuVzzGJ\n☝올케팝 유튜브 채널 알림 설정하면 띵곡팔이 알림 딩동 https://t.co/R1f4HigCZQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				150
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XQeLuVzzGJ",
+						"expanded_url": "https://youtu.be/TjxNQe2xyfk",
+						"display_url": "youtu.be/TjxNQe2xyfk",
+						"indices": [
+							96,
+							119
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1429635195729178600,
+						"id_str": "1429635195729178627",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/media/E9cVos_VcAMTTsr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E9cVos_VcAMTTsr.jpg",
+						"url": "https://t.co/R1f4HigCZQ",
+						"display_url": "pic.twitter.com/R1f4HigCZQ",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1429635217564725248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1429635195729178600,
+						"id_str": "1429635195729178627",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/media/E9cVos_VcAMTTsr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E9cVos_VcAMTTsr.jpg",
+						"url": "https://t.co/R1f4HigCZQ",
+						"display_url": "pic.twitter.com/R1f4HigCZQ",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1429635217564725248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744928926,
+				"id_str": "744928926",
+				"name": "올더케이팝",
+				"screen_name": "ALLTHEKPOP",
+				"location": "",
+				"description": "ALL about ID♡L, ALL THE K-POP",
+				"url": "https://t.co/0kbjbCEhaR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0kbjbCEhaR",
+								"expanded_url": "http://www.youtube.com/allthekpop",
+								"display_url": "youtube.com/allthekpop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 84639,
+				"friends_count": 338,
+				"listed_count": 319,
+				"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+				"favourites_count": 7901,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7494,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1629680523",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 60,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 13,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘의 라인업 💗\n이달의 소녀, 프로미스나인, JBJ95, AB6IX, 위아이, CIX, 원어스, 김재환, 러블리즈, 우주소녀, 데이식스, SF9, 비투비, 펜타곤, 레드벨벳, 마마무, 에이티즈, 오마이걸, 여자친구, 아스트로, JJ프로젝트, 트와이스, 아이즈원, 세븐틴, TXT, 스트레이 키즈, 방탄소년단 https://t.co/73c71uGSlp"
+	},
+	{
+		"created_at": "Mon Aug 23 04:45:36 +0000 2021",
+		"id": 1429660825388605400,
+		"id_str": "1429666108999704580",
+		"full_text": "편집자가 만들면서 웃었다는 영상\n\n#이달의소녀 #LOONA #쟁반노래방\n#하슬 #리액션 #reaction\n\nhttps://t.co/hYgIvv40qK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						19,
+						25
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"text": "쟁반노래방",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "하슬",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "리액션",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "reaction",
+					"indices": [
+						49,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hYgIvv40qK",
+					"expanded_url": "https://www.youtube.com/watch?v=42cpm3B6xXs",
+					"display_url": "youtube.com/watch?v=42cpm3…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906055771921629200,
+			"id_str": "906055771921629184",
+			"name": "나돌(NADOL)",
+			"screen_name": "ae_ssr",
+			"location": "대한민국 중구",
+			"description": "KPOP 스타들의 매력발산 채널 '나도 아이돌이다'",
+			"url": "https://t.co/W4BmT5ww9v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W4BmT5ww9v",
+							"expanded_url": "https://www.youtube.com/channel/UC3pk0eDcZx_oYGCWNyJpjMQ/featured?view_as=subscriber",
+							"display_url": "youtube.com/channel/UC3pk0…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1840,
+			"friends_count": 96,
+			"listed_count": 19,
+			"created_at": "Fri Sep 08 07:25:04 +0000 2017",
+			"favourites_count": 38,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1318368541406494720/fyadTBj2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318368541406494720/fyadTBj2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906055771921629184/1603158530",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "편집자가 만들면서 웃었다는 영상\n\n#이달의소녀 #LOONA #쟁반노래방\n#하슬 #리액션 #reaction\n\nhttps://t.co/hYgIvv40qK"
+	},
+	{
+		"created_at": "Mon Aug 23 04:42:41 +0000 2021",
+		"id": 1429659195733733400,
+		"id_str": "1429665373847126022",
+		"full_text": "레드벨벳 조이와 크러쉬가 열애를 인정했다.\n#레드벨벳 #조이 #크러쉬 #RedVelvet #Joy \n https://t.co/ap7geNSp6l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레드벨벳",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "크러쉬",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						39,
+						49
+					]
+				},
+				{
+					"text": "Joy",
+					"indices": [
+						50,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ap7geNSp6l",
+					"expanded_url": "https://www.wkorea.com/2021/08/23/%EB%A0%88%EB%93%9C%EB%B2%A8%EB%B2%B3-%EC%A1%B0%EC%9D%B4-%ED%81%AC%EB%9F%AC%EC%89%AC-%EC%97%B4%EC%95%A0-%EC%9D%B8%EC%A0%95/?ddw=94181&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2021/08/23/%EB…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5xzw0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5xzw0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284264,
+			"friends_count": 0,
+			"listed_count": 817,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1627020150",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 77,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레드벨벳 조이와 크러쉬가 열애를 인정했다.\n#레드벨벳 #조이 #크러쉬 #RedVelvet #Joy \n https://t.co/ap7geNSp6l"
+	},
+	{
+		"created_at": "Mon Aug 23 04:25:47 +0000 2021",
+		"id": 1429648722086940700,
+		"id_str": "1429661120533458947",
+		"full_text": "블랙핑크의 리사가 솔로 출격 준비를 마쳤다.\n#블랙핑크 #리사 #BLACKPINK #LISA \nhttps://t.co/1NODgygvJv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						25,
+						30
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						46,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1NODgygvJv",
+					"expanded_url": "https://www.wkorea.com/2021/08/23/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC-%EB%A6%AC%EC%82%AC-%EC%86%94%EB%A1%9C-%EC%B6%9C%EA%B2%A9-%EC%A4%80%EB%B9%84/?ddw=94159&ds_ch=twitter&utm_source=twitter&utm_medium=SNS",
+					"display_url": "wkorea.com/2021/08/23/%EB…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78262636,
+			"id_str": "78262636",
+			"name": "W Korea",
+			"screen_name": "wkorea",
+			"location": "",
+			"description": "No.1 Conceptual Trend Magazine 'W KOREA'의 공식 트위터입니다.",
+			"url": "https://t.co/3pmvl5xzw0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3pmvl5xzw0",
+							"expanded_url": "http://www.wkorea.com",
+							"display_url": "wkorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284264,
+			"friends_count": 0,
+			"listed_count": 817,
+			"created_at": "Tue Sep 29 09:21:19 +0000 2009",
+			"favourites_count": 7550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DD2E44",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227868024499097600/goQ9_G6Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78262636/1627020150",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2457,
+		"favorite_count": 4336,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블랙핑크의 리사가 솔로 출격 준비를 마쳤다.\n#블랙핑크 #리사 #BLACKPINK #LISA \nhttps://t.co/1NODgygvJv"
+	},
+	{
 		"created_at": "Mon Aug 23 03:13:50 +0000 2021",
 		"id": 1429639536968151000,
 		"id_str": "1429643013794320388",
@@ -239,7 +966,7 @@ Grailbird.data.tweets_2021_08 =
 		"created_at": "Mon Aug 23 03:11:17 +0000 2021",
 		"id": 1429642369494921200,
 		"id_str": "1429642369494921221",
-		"full_text": "#놀라운토요일 #도레미마켓 \n[#도전간식벨] 탱구의 간식게임 결승 진출? 🤦‍♀️ 케이팝 플레이리스트 되어가고 있는 1위 후보를 맞혀라│#놀라운토요일 Amazing Saturday \nhttps://t.co/dGqAKSK7cZ \n \n#김태연 #태연 #탱구 #TAEYEON",
+		"full_text": "#놀라운토요일 #도레미마켓 \n[#도전간식벨] 탱구의 간식게임 결승 진출? 🤦♀️ 케이팝 플레이리스트 되어가고 있는 1위 후보를 맞혀라│#놀라운토요일 Amazing Saturday \nhttps://t.co/dGqAKSK7cZ \n \n#김태연 #태연 #탱구 #TAEYEON",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -384,7 +1111,7 @@ Grailbird.data.tweets_2021_08 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#놀라운토요일 #도레미마켓 \n[#도전간식벨] 탱구의 간식게임 결승 진출? 🤦‍♀️ 케이팝 플레이리스트 되어가고 있는 1위 후보를 맞혀라│#놀라운토요일 Amazing Saturday \nhttps://t.co/dGqAKSK7cZ \n \n#김태연 #태연 #탱구 #TAEYEON"
+		"text": "#놀라운토요일 #도레미마켓 \n[#도전간식벨] 탱구의 간식게임 결승 진출? 🤦♀️ 케이팝 플레이리스트 되어가고 있는 1위 후보를 맞혀라│#놀라운토요일 Amazing Saturday \nhttps://t.co/dGqAKSK7cZ \n \n#김태연 #태연 #탱구 #TAEYEON"
 	},
 	{
 		"created_at": "Mon Aug 23 03:01:55 +0000 2021",
