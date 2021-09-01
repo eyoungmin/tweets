@@ -1,6 +1,519 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 01 15:43:35 +0000 2021",
+		"id": 1433093186256265200,
+		"id_str": "1433093186256265222",
+		"full_text": "#블랙핑크 #BLACKPINK #VLIVE\nLISA - ‘LALISA’ COUNTDOWN LIVE EVENT\nhttps://t.co/WYRQuNlEl3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WYRQuNlEl3",
+					"expanded_url": "https://www.vlive.tv/post/0-25119984",
+					"display_url": "vlive.tv/post/0-25119984",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#블랙핑크 #BLACKPINK #VLIVE\nLISA - ‘LALISA’ COUNTDOWN LIVE EVENT\nhttps://t.co/WYRQuNlEl3"
+	},
+	{
+		"created_at": "Wed Sep 01 15:43:32 +0000 2021",
+		"id": 1433093171270017000,
+		"id_str": "1433093171270017028",
+		"full_text": "#블랙핑크 #BLACKPINK #VLIVE\nLISA - ‘LALISA’ COUNTDOWN LIVE\nhttps://t.co/Foue6B5jNv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Foue6B5jNv",
+					"expanded_url": "https://www.vlive.tv/post/0-25117754",
+					"display_url": "vlive.tv/post/0-25117754",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#블랙핑크 #BLACKPINK #VLIVE\nLISA - ‘LALISA’ COUNTDOWN LIVE\nhttps://t.co/Foue6B5jNv"
+	},
+	{
+		"created_at": "Wed Sep 01 15:40:22 +0000 2021",
+		"id": 1433083378295664600,
+		"id_str": "1433092374553575427",
+		"full_text": "[PROJECT SPOILER III]\n⠀\nRYAN JHUN PROJECT : [MAXIS BY RYAN JHUN Pt. Ⅱ]\n⠀\nLOONA X RYAN JHUN 'Not Friends'\n21.09.03 6PM(KST)\n⠀\n#라이언전 #RYANJHUN\n#이달의소녀 #LOONA #NotFriends\n#희진 #김립 #진솔 #이브\n#HeeJin #KimLip #JinSoul #Yves\n#KEEP_MUSIC_ALIVE #빅오션ENM https://t.co/Ko2qHHwVu7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라이언전",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "RYANJHUN",
+					"indices": [
+						131,
+						140
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						148,
+						154
+					]
+				},
+				{
+					"text": "NotFriends",
+					"indices": [
+						155,
+						166
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						175,
+						178
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						183,
+						190
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						191,
+						198
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						199,
+						207
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						208,
+						213
+					]
+				},
+				{
+					"text": "KEEP_MUSIC_ALIVE",
+					"indices": [
+						214,
+						231
+					]
+				},
+				{
+					"text": "빅오션ENM",
+					"indices": [
+						232,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433083372700516400,
+					"id_str": "1433083372700516356",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/E-NVvBNVQAQKCBw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-NVvBNVQAQKCBw.jpg",
+					"url": "https://t.co/Ko2qHHwVu7",
+					"display_url": "pic.twitter.com/Ko2qHHwVu7",
+					"expanded_url": "https://twitter.com/ryanjhun/status/1433083378295664657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433083372700516400,
+					"id_str": "1433083372700516356",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/E-NVvBNVQAQKCBw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-NVvBNVQAQKCBw.jpg",
+					"url": "https://t.co/Ko2qHHwVu7",
+					"display_url": "pic.twitter.com/Ko2qHHwVu7",
+					"expanded_url": "https://twitter.com/ryanjhun/status/1433083378295664657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 101238136,
+			"id_str": "101238136",
+			"name": "Ryan S. Jhun",
+			"screen_name": "ryanjhun",
+			"location": "worldwide",
+			"description": "PD MARCAN/ATEAM/MUSIKADE VAV.SHINEE.TVXQ.SNSD.EXO.WAYV.뉴이스트.IU.FX.SJ.RedVelvet.PD101.Girls day.NCT.태연.유아.CRAVITY.MIRAE.TWICE.OMG.VICTON.GWSN.weeekly.LOONA.TBZ",
+			"url": "https://t.co/Q9Vp9WbEwj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q9Vp9WbEwj",
+							"expanded_url": "http://www.marcanent.com",
+							"display_url": "marcanent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47846,
+			"friends_count": 197,
+			"listed_count": 285,
+			"created_at": "Sat Jan 02 14:44:41 +0000 2010",
+			"favourites_count": 6127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1424978437232467972/4TE4P9pA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424978437232467972/4TE4P9pA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101238136/1628576309",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3837,
+		"favorite_count": 8948,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "[PROJECT SPOILER III]\n⠀\nRYAN JHUN PROJECT : [MAXIS BY RYAN JHUN Pt. Ⅱ]\n⠀\nLOONA X RYAN JHUN 'Not Friends'\n21.09.03 6PM(KST)\n⠀\n#라이언전 #RYANJHUN\n#이달의소녀 #LOONA #NotFriends\n#희진 #김립 #진솔 #이브\n#HeeJin #KimLip #JinSoul #Yves\n#KEEP_MUSIC_ALIVE #빅오션ENM https://t.co/Ko2qHHwVu7"
+	},
+	{
 		"created_at": "Wed Sep 01 15:17:51 +0000 2021",
 		"id": 1433082741101252600,
 		"id_str": "1433086710800207876",
