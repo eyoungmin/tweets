@@ -1,6 +1,1021 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 01 09:40:22 +0000 2021",
+		"id": 1432992086517641200,
+		"id_str": "1433001777222332419",
+		"full_text": "[MUSIC PREVIEW]\n⠀\nRYAN JHUN PROJECT : [MAXIS BY RYAN JHUN Pt. Ⅱ]\n⠀\nLOONA X RYAN JHUN 'Not Friends'\n21.09.03 6PM(KST)\n\nSTAY TUNED 🐰🦉🐟🦢\n⠀\n#이달의소녀 #LOONA #라이언전 #RYANJHUN #NotFriends\n#희진 #김립 #진솔 #이브\n#HeeJin #KimLip #JinSoul #Yves\n#KEEP_MUSIC_ALIVE #빅오션ENM https://t.co/LXBZrko0SK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						143,
+						149
+					]
+				},
+				{
+					"text": "라이언전",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "RYANJHUN",
+					"indices": [
+						156,
+						165
+					]
+				},
+				{
+					"text": "NotFriends",
+					"indices": [
+						166,
+						177
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						178,
+						181
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						182,
+						185
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						186,
+						189
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						190,
+						193
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						194,
+						201
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						202,
+						209
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						210,
+						218
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						219,
+						224
+					]
+				},
+				{
+					"text": "KEEP_MUSIC_ALIVE",
+					"indices": [
+						225,
+						242
+					]
+				},
+				{
+					"text": "빅오션ENM",
+					"indices": [
+						243,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1432991734556881000,
+					"id_str": "1432991734556880904",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1432991734556880904/pu/img/2I_Zu9WcN9UvmLcu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1432991734556880904/pu/img/2I_Zu9WcN9UvmLcu.jpg",
+					"url": "https://t.co/LXBZrko0SK",
+					"display_url": "pic.twitter.com/LXBZrko0SK",
+					"expanded_url": "https://twitter.com/ryanjhun/status/1432992086517641229/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1432991734556881000,
+					"id_str": "1432991734556880904",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1432991734556880904/pu/img/2I_Zu9WcN9UvmLcu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1432991734556880904/pu/img/2I_Zu9WcN9UvmLcu.jpg",
+					"url": "https://t.co/LXBZrko0SK",
+					"display_url": "pic.twitter.com/LXBZrko0SK",
+					"expanded_url": "https://twitter.com/ryanjhun/status/1432992086517641229/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 21144,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1432991734556880904/pu/vid/540x540/QUWAkXXFmjDixd8g.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1432991734556880904/pu/vid/320x320/oxg_goIq_7Nj7TyJ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1432991734556880904/pu/pl/27ZMR-_3F4KTspYd.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1432991734556880904/pu/vid/720x720/nOUWcC3a1w8Ri8QD.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 101238136,
+			"id_str": "101238136",
+			"name": "Ryan S. Jhun",
+			"screen_name": "ryanjhun",
+			"location": "worldwide",
+			"description": "PD MARCAN/ATEAM/MUSIKADE VAV.SHINEE.TVXQ.SNSD.EXO.WAYV.뉴이스트.IU.FX.SJ.RedVelvet.PD101.Girls day.NCT.태연.유아.CRAVITY.MIRAE.TWICE.OMG.VICTON.GWSN.weeekly.LOONA.TBZ",
+			"url": "https://t.co/Q9Vp9WbEwj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q9Vp9WbEwj",
+							"expanded_url": "http://www.marcanent.com",
+							"display_url": "marcanent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47743,
+			"friends_count": 197,
+			"listed_count": 284,
+			"created_at": "Sat Jan 02 14:44:41 +0000 2010",
+			"favourites_count": 6107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1424978437232467972/4TE4P9pA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424978437232467972/4TE4P9pA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101238136/1628576309",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2586,
+		"favorite_count": 5436,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "[MUSIC PREVIEW]\n⠀\nRYAN JHUN PROJECT : [MAXIS BY RYAN JHUN Pt. Ⅱ]\n⠀\nLOONA X RYAN JHUN 'Not Friends'\n21.09.03 6PM(KST)\n\nSTAY TUNED 🐰🦉🐟🦢\n⠀\n#이달의소녀 #LOONA #라이언전 #RYANJHUN #NotFriends\n#희진 #김립 #진솔 #이브\n#HeeJin #KimLip #JinSoul #Yves\n#KEEP_MUSIC_ALIVE #빅오션ENM https://t.co/LXBZrko0SK"
+	},
+	{
+		"created_at": "Wed Sep 01 09:29:52 +0000 2021",
+		"id": 1432991624242466800,
+		"id_str": "1432999137805365262",
+		"full_text": "Yerin Baek Covers Album [선물] Tracklist\n\n01. 그럴 때마다 \n02. Antifreeze \n03. 돌아가자\n04. 왜? 날 (Title)\n05. 한계\n06. 산책 (Title)\n\n#백예린 #yerinbaek\n#선물 #tracklist https://t.co/YjIfb5N8PN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						122,
+						132
+					]
+				},
+				{
+					"text": "선물",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "tracklist",
+					"indices": [
+						137,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1432944177193492500,
+					"id_str": "1432944177193492482",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/E-LXIxiVIAI-rac.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-LXIxiVIAI-rac.jpg",
+					"url": "https://t.co/YjIfb5N8PN",
+					"display_url": "pic.twitter.com/YjIfb5N8PN",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1432991624242466821/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1875,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1432944177193492500,
+					"id_str": "1432944177193492482",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/E-LXIxiVIAI-rac.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-LXIxiVIAI-rac.jpg",
+					"url": "https://t.co/YjIfb5N8PN",
+					"display_url": "pic.twitter.com/YjIfb5N8PN",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1432991624242466821/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1875,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32060,
+			"friends_count": 2,
+			"listed_count": 187,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1629709742",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2074,
+		"favorite_count": 2050,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Yerin Baek Covers Album [선물] Tracklist\n\n01. 그럴 때마다 \n02. Antifreeze \n03. 돌아가자\n04. 왜? 날 (Title)\n05. 한계\n06. 산책 (Title)\n\n#백예린 #yerinbaek\n#선물 #tracklist https://t.co/YjIfb5N8PN"
+	},
+	{
+		"created_at": "Wed Sep 01 09:29:43 +0000 2021",
+		"id": 1432991626037579800,
+		"id_str": "1432999097951297543",
+		"full_text": "[전설의 연습생] 현실엔 없는 판타지 선배! ♩♪_우우우~ 우우우~_♬ 💕SF9💕 영빈X유태양\n\n🎊오늘은 영빈X유태양 P.A.R.T.Y🎊\n🚨단독공개🚨 중학생 ‘김영빈’의 ‘힙송’ 따라잡기!!\n📽️https://t.co/yiQpaCzYGP\n\n#전설의연습생 #순규 #SF9 \n#영빈 #유태양 #판타지 \n#소녀시대 #SNSD #써니 #ALLTHEKPOP https://t.co/gEzjT06DPa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전설의연습생",
+					"indices": [
+						134,
+						141
+					]
+				},
+				{
+					"text": "순규",
+					"indices": [
+						142,
+						145
+					]
+				},
+				{
+					"text": "SF9",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "영빈",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "유태양",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "판타지",
+					"indices": [
+						161,
+						165
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "SNSD",
+					"indices": [
+						173,
+						178
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "ALLTHEKPOP",
+					"indices": [
+						183,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yiQpaCzYGP",
+					"expanded_url": "https://youtu.be/T61By73CXmE",
+					"display_url": "youtu.be/T61By73CXmE",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1432933738602655700,
+					"id_str": "1432933738602655744",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/E-LNpKwVcAAPIL3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-LNpKwVcAAPIL3.jpg",
+					"url": "https://t.co/gEzjT06DPa",
+					"display_url": "pic.twitter.com/gEzjT06DPa",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1432991626037579783/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1432933738602655700,
+					"id_str": "1432933738602655744",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/E-LNpKwVcAAPIL3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-LNpKwVcAAPIL3.jpg",
+					"url": "https://t.co/gEzjT06DPa",
+					"display_url": "pic.twitter.com/gEzjT06DPa",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1432991626037579783/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86573,
+			"friends_count": 338,
+			"listed_count": 324,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1630281527",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 347,
+		"favorite_count": 511,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[전설의 연습생] 현실엔 없는 판타지 선배! ♩♪_우우우~ 우우우~_♬ 💕SF9💕 영빈X유태양\n\n🎊오늘은 영빈X유태양 P.A.R.T.Y🎊\n🚨단독공개🚨 중학생 ‘김영빈’의 ‘힙송’ 따라잡기!!\n📽️https://t.co/yiQpaCzYGP\n\n#전설의연습생 #순규 #SF9 \n#영빈 #유태양 #판타지 \n#소녀시대 #SNSD #써니 #ALLTHEKPOP https://t.co/gEzjT06DPa"
+	},
+	{
+		"created_at": "Wed Sep 01 09:29:39 +0000 2021",
+		"id": 1432991624590626800,
+		"id_str": "1432999080645562368",
+		"full_text": "친필 싸인 증정 EVENT\n\n순규의 데뷔’각’을 세우기 위해\n찾아온 섹.시.아.이.콘\n🔥SF9🔥 영빈X유태양❗❗\n\n셒구의 잘못된 초심이 궁금하다면?\n\n&lt;전설의 연습생&gt; 본방 보고 인증하면\n💖이벤트 참여 완료💖\n\n#전설의연습생 #ALLTHEKPOP \n@legend__2021\n \n#소녀시대 #써니 #순규 \n#SF9 #영빈 #유태양 https://t.co/yaMGG7IXWx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전설의연습생",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "ALLTHEKPOP",
+					"indices": [
+						132,
+						143
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "순규",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "SF9",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "영빈",
+					"indices": [
+						181,
+						184
+					]
+				},
+				{
+					"text": "유태양",
+					"indices": [
+						185,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "legend__2021",
+					"name": "전설의 연습생",
+					"id": 1420935562630860800,
+					"id_str": "1420935562630860806",
+					"indices": [
+						145,
+						158
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1432928234400739300,
+					"id_str": "1432928234400739334",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/E-LIoyAVcAYAncI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-LIoyAVcAYAncI.jpg",
+					"url": "https://t.co/yaMGG7IXWx",
+					"display_url": "pic.twitter.com/yaMGG7IXWx",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1432991624590626821/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1432928234400739300,
+					"id_str": "1432928234400739334",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/E-LIoyAVcAYAncI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-LIoyAVcAYAncI.jpg",
+					"url": "https://t.co/yaMGG7IXWx",
+					"display_url": "pic.twitter.com/yaMGG7IXWx",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1432991624590626821/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86573,
+			"friends_count": 338,
+			"listed_count": 324,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1630281527",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "친필 싸인 증정 EVENT\n\n순규의 데뷔’각’을 세우기 위해\n찾아온 섹.시.아.이.콘\n🔥SF9🔥 영빈X유태양❗❗\n\n셒구의 잘못된 초심이 궁금하다면?\n\n&lt;전설의 연습생&gt; 본방 보고 인증하면\n💖이벤트 참여 완료💖\n\n#전설의연습생 #ALLTHEKPOP \n@legend__2021\n \n#소녀시대 #써니 #순규 \n#SF9 #영빈 #유태양 https://t.co/yaMGG7IXWx"
+	},
+	{
 		"created_at": "Wed Sep 01 08:57:12 +0000 2021",
 		"id": 1432990913622589400,
 		"id_str": "1432990913622589442",
