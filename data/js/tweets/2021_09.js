@@ -1,6 +1,430 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 01 05:40:18 +0000 2021",
+		"id": 1432686004536815600,
+		"id_str": "1432941363562172418",
+		"full_text": "After releasing their 6th Mini Album #Queendom, @RVsmtown stopped by for a brand new #WhatsYourFlow interview! 💗🎬\n\nhttps://t.co/0TqxAz6J2v\n\n#RedVelvet https://t.co/EdaHfuXvSc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Queendom",
+					"indices": [
+						37,
+						46
+					]
+				},
+				{
+					"text": "WhatsYourFlow",
+					"indices": [
+						85,
+						99
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						140,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						48,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0TqxAz6J2v",
+					"expanded_url": "http://dzr.lnk.to/RV_Queendom/TW",
+					"display_url": "dzr.lnk.to/RV_Queendom/TW",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1432682068648108000,
+					"id_str": "1432682068648108032",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/E-HpiwGXMAAFlGL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-HpiwGXMAAFlGL.jpg",
+					"url": "https://t.co/EdaHfuXvSc",
+					"display_url": "pic.twitter.com/EdaHfuXvSc",
+					"expanded_url": "https://twitter.com/Deezer/status/1432686004536815617/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1432682068648108000,
+					"id_str": "1432682068648108032",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/E-HpiwGXMAAFlGL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-HpiwGXMAAFlGL.jpg",
+					"url": "https://t.co/EdaHfuXvSc",
+					"display_url": "pic.twitter.com/EdaHfuXvSc",
+					"expanded_url": "https://twitter.com/Deezer/status/1432686004536815617/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 97960,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1432682068648108032/vid/480x852/dTV8GJZoWaOcElMe.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1432682068648108032/vid/720x1280/Z-IBNJugffcDyJzM.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1432682068648108032/pl/9JJFArk6R4ijLJq2.m3u8?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1432682068648108032/vid/320x568/6Afk_u724437V3Ys.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 375861459,
+			"id_str": "375861459",
+			"name": "Deezer",
+			"screen_name": "Deezer",
+			"location": "",
+			"description": "You bring the passion. We bring the music. 🎶 Need help? Head to @DeezerHelp. Deezer is also available in HiFi.\nJust press play.",
+			"url": "https://t.co/RmIhu620xB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RmIhu620xB",
+							"expanded_url": "http://www.deezer.com",
+							"display_url": "deezer.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 231127,
+			"friends_count": 924,
+			"listed_count": 1018,
+			"created_at": "Sun Sep 18 21:30:06 +0000 2011",
+			"favourites_count": 13326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263469903950106626/zCK-Zj1Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263469903950106626/zCK-Zj1Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/375861459/1609867928",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3249,
+		"favorite_count": 7201,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "After releasing their 6th Mini Album #Queendom, @RVsmtown stopped by for a brand new #WhatsYourFlow interview! 💗🎬\n\nhttps://t.co/0TqxAz6J2v\n\n#RedVelvet https://t.co/EdaHfuXvSc"
+	},
+	{
+		"created_at": "Wed Sep 01 05:40:10 +0000 2021",
+		"id": 1432938022203388000,
+		"id_str": "1432941329387069440",
+		"full_text": "[PRISM BREAK vol.10]\n10월 1일 공연합니다!! 💕💕\n아래 링크에서 9월 3일 오후 7시부터 예매하실 수 있어요!\n\nhttps://t.co/SiX2YmkKB5\n\n10월 1일 (금) 저녁 7시 30분\n좌석 - 현 방역단계에 따라 70석오픈 (매진시 단계하향될 경우 보류 티켓 30석 오픈 예정)\n티켓 - 예매 35,000 / 현매 40,000 https://t.co/mcQKUOcy8s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SiX2YmkKB5",
+					"expanded_url": "https://ticket.melon.com/csoon/detail.htm?csoonId=5427",
+					"display_url": "ticket.melon.com/csoon/detail.h…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1432938015547027500,
+					"id_str": "1432938015547027463",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/E-LRiHnVcAcfxMG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-LRiHnVcAcfxMG.jpg",
+					"url": "https://t.co/mcQKUOcy8s",
+					"display_url": "pic.twitter.com/mcQKUOcy8s",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1432938022203387905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 741,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 492,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 741,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1432938015547027500,
+					"id_str": "1432938015547027463",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/E-LRiHnVcAcfxMG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-LRiHnVcAcfxMG.jpg",
+					"url": "https://t.co/mcQKUOcy8s",
+					"display_url": "pic.twitter.com/mcQKUOcy8s",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1432938022203387905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 741,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 492,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 741,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 805,
+			"friends_count": 6,
+			"listed_count": 24,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427208161912528905/Yhh9ewCe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1629637585",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[PRISM BREAK vol.10]\n10월 1일 공연합니다!! 💕💕\n아래 링크에서 9월 3일 오후 7시부터 예매하실 수 있어요!\n\nhttps://t.co/SiX2YmkKB5\n\n10월 1일 (금) 저녁 7시 30분\n좌석 - 현 방역단계에 따라 70석오픈 (매진시 단계하향될 경우 보류 티켓 30석 오픈 예정)\n티켓 - 예매 35,000 / 현매 40,000 https://t.co/mcQKUOcy8s"
+	},
+	{
 		"created_at": "Wed Sep 01 04:45:36 +0000 2021",
 		"id": 1432926905200562200,
 		"id_str": "1432927599450263554",
