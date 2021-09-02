@@ -1,10 +1,106 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 02 19:40:16 +0000 2021",
+		"id": 1433508230093758500,
+		"id_str": "1433515134756982791",
+		"full_text": "4. Opal by Bicep (Four Tet remix) \n\nAnd slightly older\n\n5. Imaginary Players by JAY-Z\n\nAlso we got to hear Jon Hopkins’ new album and it’s just incredible and makes you rethink what music is. I can’t really find the right words\n\nOk\n\nAnd see you soon\n\nLove\nC\n\n2/2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1433508079916753000,
+		"in_reply_to_status_id_str": "1433508079916752900",
+		"in_reply_to_user_id": 18863815,
+		"in_reply_to_user_id_str": "18863815",
+		"in_reply_to_screen_name": "coldplay",
+		"user": {
+			"id": 18863815,
+			"id_str": "18863815",
+			"name": "Coldplay",
+			"screen_name": "coldplay",
+			"location": "Coloratura",
+			"description": "The official Twitter of the band Coldplay. New album, Music Of The Spheres, out October 15th, 2021.",
+			"url": "https://t.co/zVkAnvGWS0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zVkAnvGWS0",
+							"expanded_url": "https://linktr.ee/coldplay",
+							"display_url": "linktr.ee/coldplay",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22997619,
+			"friends_count": 767,
+			"listed_count": 42677,
+			"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+			"favourites_count": 1325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8633,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+			"profile_link_color": "11518C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 116,
+		"favorite_count": 1794,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "4. Opal by Bicep (Four Tet remix) \n\nAnd slightly older\n\n5. Imaginary Players by JAY-Z\n\nAlso we got to hear Jon Hopkins’ new album and it’s just incredible and makes you rethink what music is. I can’t really find the right words\n\nOk\n\nAnd see you soon\n\nLove\nC\n\n2/2"
+	},
+	{
 		"created_at": "Thu Sep 02 17:40:10 +0000 2021",
 		"id": 1433477398142627800,
 		"id_str": "1433484909767757832",
-		"full_text": "Burning Bridges music video out tomorrow at 12pm bst ❤️‍🔥🤟 join me for the youtube premiere, I’ll be there😏 https://t.co/7N69Ud2T1C https://t.co/eQM4eZHUHy",
+		"full_text": "Burning Bridges music video out tomorrow at 12pm bst ❤️🔥🤟 join me for the youtube premiere, I’ll be there😏 https://t.co/7N69Ud2T1C https://t.co/eQM4eZHUHy",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -170,7 +266,7 @@ Grailbird.data.tweets_2021_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Burning Bridges music video out tomorrow at 12pm bst ❤️‍🔥🤟 join me for the youtube premiere, I’ll be there😏 https://t.co/7N69Ud2T1C https://t.co/eQM4eZHUHy"
+		"text": "Burning Bridges music video out tomorrow at 12pm bst ❤️🔥🤟 join me for the youtube premiere, I’ll be there😏 https://t.co/7N69Ud2T1C https://t.co/eQM4eZHUHy"
 	},
 	{
 		"created_at": "Thu Sep 02 16:40:10 +0000 2021",
