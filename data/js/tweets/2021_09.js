@@ -1,6 +1,763 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 02 13:18:12 +0000 2021",
+		"id": 1433410134747730000,
+		"id_str": "1433418984494297099",
+		"full_text": "#슬기zip 귀여운 곰도리들🐻 기다리고 있다구요😉 쥔님 오붓한 혼슬👸🏻 늦지않게 놀러와야 하는 이유‼️ 쥔님이 들려주는 레벨이들 수줍 가득 첫만남ssul🤭부터 손님들 소원🙏🏻 #슬기 zip캠 (스)p..o.. 공..개..📸 #NOW온에어 👉🏻 https://t.co/fsELE3wduU https://t.co/Y461XEJcqc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						125,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fsELE3wduU",
+					"expanded_url": "http://naver.me/5HS0BHng",
+					"display_url": "naver.me/5HS0BHng",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1433410097854570500,
+					"id_str": "1433410097854570500",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/E-R-47QUYAQkP_7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-R-47QUYAQkP_7.jpg",
+					"url": "https://t.co/Y461XEJcqc",
+					"display_url": "pic.twitter.com/Y461XEJcqc",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1433410134747729922/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433410097854570500,
+					"id_str": "1433410097854570500",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/E-R-47QUYAQkP_7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-R-47QUYAQkP_7.jpg",
+					"url": "https://t.co/Y461XEJcqc",
+					"display_url": "pic.twitter.com/Y461XEJcqc",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1433410134747729922/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1433410125998350300,
+					"id_str": "1433410125998350341",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/E-R-6kGUYAUtuIH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-R-6kGUYAUtuIH.jpg",
+					"url": "https://t.co/Y461XEJcqc",
+					"display_url": "pic.twitter.com/Y461XEJcqc",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1433410134747729922/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1473,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 880,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 499,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44771,
+			"friends_count": 1,
+			"listed_count": 265,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2481,
+		"favorite_count": 4733,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 귀여운 곰도리들🐻 기다리고 있다구요😉 쥔님 오붓한 혼슬👸🏻 늦지않게 놀러와야 하는 이유‼️ 쥔님이 들려주는 레벨이들 수줍 가득 첫만남ssul🤭부터 손님들 소원🙏🏻 #슬기 zip캠 (스)p..o.. 공..개..📸 #NOW온에어 👉🏻 https://t.co/fsELE3wduU https://t.co/Y461XEJcqc"
+	},
+	{
+		"created_at": "Thu Sep 02 13:09:35 +0000 2021",
+		"id": 1433414583494975500,
+		"id_str": "1433416819344347137",
+		"full_text": "흥겨운 댄스파티\n🕺🏻슬기 직캠🕺🏻\n\nhttps://t.co/QX2m23xrOp\n\n#슬기  #SEULGI  #슬기집 #슬기zip #레드벨벳  #RedVelvet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						50,
+						57
+					]
+				},
+				{
+					"text": "슬기집",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "슬기zip",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						78,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QX2m23xrOp",
+					"expanded_url": "http://naver.me/x6PdSXfE",
+					"display_url": "naver.me/x6PdSXfE",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4544883,
+			"friends_count": 1,
+			"listed_count": 9686,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2387,
+		"favorite_count": 9447,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "흥겨운 댄스파티\n🕺🏻슬기 직캠🕺🏻\n\nhttps://t.co/QX2m23xrOp\n\n#슬기  #SEULGI  #슬기집 #슬기zip #레드벨벳  #RedVelvet"
+	},
+	{
+		"created_at": "Thu Sep 02 12:16:12 +0000 2021",
+		"id": 1433391433960935400,
+		"id_str": "1433403382434185220",
+		"full_text": "&lt;DAZED&gt; Fall Edition Issue Supplement\n\nLANGUAGE BETWEEN YOU AND ME, AUTUMN IN US #협찬\n\n#조이 와 #장기용 이 #캘빈클라인 퍼포먼스를 입고 완성한 서로의 계절. 그렇게 새로운 CK의 가을.\n\n#MYCALVINS #캘빈클라인퍼포먼스 #CalvinKleinPerformance #캘빈클라인홈트 #CK홈트 #운동복 https://t.co/1Yonfd4YgR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "협찬",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "장기용",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "캘빈클라인",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "MYCALVINS",
+					"indices": [
+						150,
+						160
+					]
+				},
+				{
+					"text": "캘빈클라인퍼포먼스",
+					"indices": [
+						161,
+						171
+					]
+				},
+				{
+					"text": "CalvinKleinPerformance",
+					"indices": [
+						172,
+						195
+					]
+				},
+				{
+					"text": "캘빈클라인홈트",
+					"indices": [
+						196,
+						204
+					]
+				},
+				{
+					"text": "CK홈트",
+					"indices": [
+						205,
+						210
+					]
+				},
+				{
+					"text": "운동복",
+					"indices": [
+						211,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433391424389615600,
+					"id_str": "1433391424389615616",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/E-Rt5_LVkAAZ_wX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-Rt5_LVkAAZ_wX.jpg",
+					"url": "https://t.co/1Yonfd4YgR",
+					"display_url": "pic.twitter.com/1Yonfd4YgR",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1433391433960935427/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433391424389615600,
+					"id_str": "1433391424389615616",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/E-Rt5_LVkAAZ_wX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-Rt5_LVkAAZ_wX.jpg",
+					"url": "https://t.co/1Yonfd4YgR",
+					"display_url": "pic.twitter.com/1Yonfd4YgR",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1433391433960935427/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1570,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1433391425022873600,
+					"id_str": "1433391425022873602",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/E-Rt6BiUUAIi_sk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-Rt6BiUUAIi_sk.jpg",
+					"url": "https://t.co/1Yonfd4YgR",
+					"display_url": "pic.twitter.com/1Yonfd4YgR",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1433391433960935427/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1433391426558042000,
+					"id_str": "1433391426558042113",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/E-Rt6HQVIAEI3l-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-Rt6HQVIAEI3l-.jpg",
+					"url": "https://t.co/1Yonfd4YgR",
+					"display_url": "pic.twitter.com/1Yonfd4YgR",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1433391433960935427/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1433391427942191000,
+					"id_str": "1433391427942191106",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/E-Rt6MaVkAIu_tk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-Rt6MaVkAIu_tk.jpg",
+					"url": "https://t.co/1Yonfd4YgR",
+					"display_url": "pic.twitter.com/1Yonfd4YgR",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1433391433960935427/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9Lshh4qWE",
+			"url": "https://t.co/0p0y3Fodwo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3Fodwo",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9Lshh4qWE",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 153890,
+			"friends_count": 0,
+			"listed_count": 305,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1630565334",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1953,
+		"favorite_count": 2929,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;DAZED&gt; Fall Edition Issue Supplement\n\nLANGUAGE BETWEEN YOU AND ME, AUTUMN IN US #협찬\n\n#조이 와 #장기용 이 #캘빈클라인 퍼포먼스를 입고 완성한 서로의 계절. 그렇게 새로운 CK의 가을.\n\n#MYCALVINS #캘빈클라인퍼포먼스 #CalvinKleinPerformance #캘빈클라인홈트 #CK홈트 #운동복 https://t.co/1Yonfd4YgR"
+	},
+	{
 		"created_at": "Thu Sep 02 11:45:37 +0000 2021",
 		"id": 1433395479732113400,
 		"id_str": "1433395684523261956",
