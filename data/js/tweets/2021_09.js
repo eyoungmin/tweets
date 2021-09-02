@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 02 06:18:06 +0000 2021",
+		"id": 1433309900965253000,
+		"id_str": "1433313262712471554",
+		"full_text": "[#빅이슈 258호 #메이킹 #티저A] \n🧡#이달의소녀 '빅이슈' #화보촬영 현장 대공개!\n(feat.하슬, 비비, 희진, 현진)\n\n아름다운✌🏻🌕🐮 매력에 빠져봐~!\n📢티저A ▶ https://t.co/VPE2A5N0wp\n\n※ 다음 공개 일정\n[티저B] 9/2 오후 7시\n[티저C] 9/3 오후 3시\n[풀 버전] 9/3 오후 7시\n\n#이달소 #LOONA #오빛 https://t.co/kmXpek5e5d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "빅이슈",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "메이킹",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "티저A",
+					"indices": [
+						16,
+						20
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "화보촬영",
+					"indices": [
+						37,
+						42
+					]
+				},
+				{
+					"text": "이달소",
+					"indices": [
+						186,
+						190
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						191,
+						197
+					]
+				},
+				{
+					"text": "오빛",
+					"indices": [
+						198,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VPE2A5N0wp",
+					"expanded_url": "https://youtu.be/ECZA6LEpJLo",
+					"display_url": "youtu.be/ECZA6LEpJLo",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1433308002006691800,
+					"id_str": "1433308002006691845",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/E-QiCKlVcAUASt7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-QiCKlVcAUASt7.jpg",
+					"url": "https://t.co/kmXpek5e5d",
+					"display_url": "pic.twitter.com/kmXpek5e5d",
+					"expanded_url": "https://twitter.com/bigissuekorea/status/1433309900965253126/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433308002006691800,
+					"id_str": "1433308002006691845",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/E-QiCKlVcAUASt7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-QiCKlVcAUASt7.jpg",
+					"url": "https://t.co/kmXpek5e5d",
+					"display_url": "pic.twitter.com/kmXpek5e5d",
+					"expanded_url": "https://twitter.com/bigissuekorea/status/1433309900965253126/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113791386,
+			"id_str": "113791386",
+			"name": "빅이슈코리아",
+			"screen_name": "bigissuekorea",
+			"location": "Seoul",
+			"description": "‘빈곤해체’를 미션으로 하는 사회적기업, #빅이슈코리아 주거취약계층의 자립을 돕는 매거진, 《빅이슈》를 발행합니다. \n✨258호 구매하기✨➡️ https://t.co/7s9p76bwTZ\n🌐Global ➡️ https://t.co/0F5lljubVR",
+			"url": "https://t.co/7AnlIguvcr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7AnlIguvcr",
+							"expanded_url": "http://www.bigissue.kr",
+							"display_url": "bigissue.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7s9p76bwTZ",
+							"expanded_url": "http://bit.ly/2YezACx",
+							"display_url": "bit.ly/2YezACx",
+							"indices": [
+								80,
+								103
+							]
+						},
+						{
+							"url": "https://t.co/0F5lljubVR",
+							"expanded_url": "http://bit.ly/38tKOVB",
+							"display_url": "bit.ly/38tKOVB",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11374,
+			"friends_count": 9209,
+			"listed_count": 0,
+			"created_at": "Sat Feb 13 02:11:09 +0000 2010",
+			"favourites_count": 1484,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090083669178347520/hLsqDmc4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090083669178347520/hLsqDmc4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113791386/1630459511",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 130,
+		"favorite_count": 125,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#빅이슈 258호 #메이킹 #티저A] \n🧡#이달의소녀 '빅이슈' #화보촬영 현장 대공개!\n(feat.하슬, 비비, 희진, 현진)\n\n아름다운✌🏻🌕🐮 매력에 빠져봐~!\n📢티저A ▶ https://t.co/VPE2A5N0wp\n\n※ 다음 공개 일정\n[티저B] 9/2 오후 7시\n[티저C] 9/3 오후 3시\n[풀 버전] 9/3 오후 7시\n\n#이달소 #LOONA #오빛 https://t.co/kmXpek5e5d"
+	},
+	{
 		"created_at": "Thu Sep 02 05:40:09 +0000 2021",
 		"id": 1433298771434037200,
 		"id_str": "1433303715704942594",
