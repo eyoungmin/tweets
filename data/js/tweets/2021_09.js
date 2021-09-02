@@ -1,6 +1,1094 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 02 09:40:20 +0000 2021",
+		"id": 1433354010807898000,
+		"id_str": "1433364156577615874",
+		"full_text": "#OUTNOWUnlimited\n💛#HEADLINER - 리사 LISA\n\nCalling all #BLINK! 블랙핑크 리사의 첫 솔로 데뷔✨\n아웃나우 언리미티드 헤드라이너 #리사 를 소개합니다!\n\n뮤플리 X 나우! 컴백 페스티벌\n&lt;OUTNOW Unlimited&gt; 9/14 8PM💚\n\n#MUPLY #네이버나우 #LISA #Blackpink #블랙핑크 @BLACKPINK @ygofficialblink https://t.co/jk5Q9ZP25z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OUTNOWUnlimited",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "HEADLINER",
+					"indices": [
+						18,
+						28
+					]
+				},
+				{
+					"text": "BLINK",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "MUPLY",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "네이버나우",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "LISA",
+					"indices": [
+						177,
+						182
+					]
+				},
+				{
+					"text": "Blackpink",
+					"indices": [
+						183,
+						193
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						194,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLACKPINK",
+					"name": "BLACKPINKOFFICIAL",
+					"id": 1273850774380884000,
+					"id_str": "1273850774380883975",
+					"indices": [
+						200,
+						210
+					]
+				},
+				{
+					"screen_name": "ygofficialblink",
+					"name": "BLACKPINK GLOBAL BLINK",
+					"id": 878204370403250200,
+					"id_str": "878204370403250176",
+					"indices": [
+						211,
+						227
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433295425864286200,
+					"id_str": "1433295425864286211",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/E-QWmIzVQAMKJvc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-QWmIzVQAMKJvc.jpg",
+					"url": "https://t.co/jk5Q9ZP25z",
+					"display_url": "pic.twitter.com/jk5Q9ZP25z",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1433354010807898115/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433295425864286200,
+					"id_str": "1433295425864286211",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/E-QWmIzVQAMKJvc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-QWmIzVQAMKJvc.jpg",
+					"url": "https://t.co/jk5Q9ZP25z",
+					"display_url": "pic.twitter.com/jk5Q9ZP25z",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1433354010807898115/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "💜 PLAY YOUR MUSIC #MUPLY #뮤플리 💜\n🌜#돌들의침묵 📚 #랜덤문답\n💚 #OUTNOWUnlimited 💿 #뮤지광컴퍼니",
+			"url": "https://t.co/0hfNihZh53",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hfNihZh53",
+							"expanded_url": "http://bit.ly/MUPLY_YouTube",
+							"display_url": "bit.ly/MUPLY_YouTube",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25866,
+			"friends_count": 75,
+			"listed_count": 61,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 880,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344880184038551552/FNjcgtwi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1609479399",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6617,
+		"favorite_count": 15023,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#OUTNOWUnlimited\n💛#HEADLINER - 리사 LISA\n\nCalling all #BLINK! 블랙핑크 리사의 첫 솔로 데뷔✨\n아웃나우 언리미티드 헤드라이너 #리사 를 소개합니다!\n\n뮤플리 X 나우! 컴백 페스티벌\n&lt;OUTNOW Unlimited&gt; 9/14 8PM💚\n\n#MUPLY #네이버나우 #LISA #Blackpink #블랙핑크 @BLACKPINK @ygofficialblink https://t.co/jk5Q9ZP25z"
+	},
+	{
+		"created_at": "Thu Sep 02 09:18:08 +0000 2021",
+		"id": 1433348401047892000,
+		"id_str": "1433358571748560896",
+		"full_text": "#ELLEstar #태연 #소녀시대 #탱구  \n\n두근두근 😳\n믿고 쓰는 탱구의 \n페이보릿 아이템, 오늘 오후 6시 공개!\nhttps://t.co/Hq9Dvkuas7 https://t.co/tXIs2w2XbM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELLEstar",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						14,
+						19
+					]
+				},
+				{
+					"text": "탱구",
+					"indices": [
+						20,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Hq9Dvkuas7",
+					"expanded_url": "https://bit.ly/3zHFVnG",
+					"display_url": "bit.ly/3zHFVnG",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1433347440300617700,
+					"id_str": "1433347440300617730",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/E-RF5xrVcAIie1z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-RF5xrVcAIie1z.jpg",
+					"url": "https://t.co/tXIs2w2XbM",
+					"display_url": "pic.twitter.com/tXIs2w2XbM",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1433348401047891974/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433347440300617700,
+					"id_str": "1433347440300617730",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/E-RF5xrVcAIie1z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-RF5xrVcAIie1z.jpg",
+					"url": "https://t.co/tXIs2w2XbM",
+					"display_url": "pic.twitter.com/tXIs2w2XbM",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1433348401047891974/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 ELLE KOREA 공식 트위터 official twitter 입니다.",
+			"url": "https://t.co/wrg4l4aKRf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wrg4l4aKRf",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141801,
+			"friends_count": 3459,
+			"listed_count": 456,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 586,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1628847252",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 525,
+		"favorite_count": 700,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ELLEstar #태연 #소녀시대 #탱구  \n\n두근두근 😳\n믿고 쓰는 탱구의 \n페이보릿 아이템, 오늘 오후 6시 공개!\nhttps://t.co/Hq9Dvkuas7 https://t.co/tXIs2w2XbM"
+	},
+	{
+		"created_at": "Thu Sep 02 09:16:32 +0000 2021",
+		"id": 1433354007268020200,
+		"id_str": "1433358168386506760",
+		"full_text": "[Trailer] 이달의 소녀 (희진, 김립, 진솔, 이브) \"Not Friends\" (Prod. RYAN JHUN(라이언전))\n⠀\nLOONA X RYAN JHUN PROJECT : [MAXIS BY RYAN JHUN Pt. Ⅱ]\n2021.09.03 pm6 (KST) Release\n⠀\n#이달의소녀 #희진 #김립 #진솔 #이브 #LOONA #HeeJin #KimLip #JinSoul #Yves\n\n▶https://t.co/0BtluBVmw4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						160,
+						166
+					]
+				},
+				{
+					"text": "희진",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "김립",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "진솔",
+					"indices": [
+						175,
+						178
+					]
+				},
+				{
+					"text": "이브",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						183,
+						189
+					]
+				},
+				{
+					"text": "HeeJin",
+					"indices": [
+						190,
+						197
+					]
+				},
+				{
+					"text": "KimLip",
+					"indices": [
+						198,
+						205
+					]
+				},
+				{
+					"text": "JinSoul",
+					"indices": [
+						206,
+						214
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						215,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0BtluBVmw4",
+					"expanded_url": "https://youtu.be/xqzOBivGAeE",
+					"display_url": "youtu.be/xqzOBivGAeE",
+					"indices": [
+						223,
+						246
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/t0tQcsJh5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t0tQcsJh5B",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 801255,
+			"friends_count": 1,
+			"listed_count": 7880,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1624948256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3195,
+		"favorite_count": 7047,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Trailer] 이달의 소녀 (희진, 김립, 진솔, 이브) \"Not Friends\" (Prod. RYAN JHUN(라이언전))\n⠀\nLOONA X RYAN JHUN PROJECT : [MAXIS BY RYAN JHUN Pt. Ⅱ]\n2021.09.03 pm6 (KST) Release\n⠀\n#이달의소녀 #희진 #김립 #진솔 #이브 #LOONA #HeeJin #KimLip #JinSoul #Yves\n\n▶https://t.co/0BtluBVmw4"
+	},
+	{
+		"created_at": "Thu Sep 02 09:14:35 +0000 2021",
+		"id": 1433350278460313600,
+		"id_str": "1433357677418237952",
+		"full_text": "ROSÉ X TIFFANY #협찬\n\n주얼리 브랜드 '티파니'와 개인의 스타일에 대해 정의하고, 재조명하는 캠페인 'Styled by T＇의 새 주인공은 로제입니다. 로제와 티파니가 함께한 화보는 &lt;데이즈드&gt; 폴 에디션에서 확인할 수 있습니다.\n\n#로제 #ROSÉ #티파니 #TiffanyAndCo #StyledbyT #TiffanyHardWear https://t.co/raTP2sG7ma",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "협찬",
+					"indices": [
+						15,
+						18
+					]
+				},
+				{
+					"text": "로제",
+					"indices": [
+						143,
+						146
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "TiffanyAndCo",
+					"indices": [
+						158,
+						171
+					]
+				},
+				{
+					"text": "StyledbyT",
+					"indices": [
+						172,
+						182
+					]
+				},
+				{
+					"text": "TiffanyHardWear",
+					"indices": [
+						183,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433350225201041400,
+					"id_str": "1433350225201041411",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1433350225201041411/pu/img/AOoH6Gpzxgfq287t.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1433350225201041411/pu/img/AOoH6Gpzxgfq287t.jpg",
+					"url": "https://t.co/raTP2sG7ma",
+					"display_url": "pic.twitter.com/raTP2sG7ma",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1433350278460313604/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433350225201041400,
+					"id_str": "1433350225201041411",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1433350225201041411/pu/img/AOoH6Gpzxgfq287t.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1433350225201041411/pu/img/AOoH6Gpzxgfq287t.jpg",
+					"url": "https://t.co/raTP2sG7ma",
+					"display_url": "pic.twitter.com/raTP2sG7ma",
+					"expanded_url": "https://twitter.com/DazedKorea/status/1433350278460313604/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 13125,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1433350225201041411/pu/vid/480x600/0A9ekJXFsx4rcKgl.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1433350225201041411/pu/pl/dA3VrGmmEL6ppZAr.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1433350225201041411/pu/vid/720x900/x0qmP7Cgg6adXBUh.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1433350225201041411/pu/vid/320x400/JIbd0Znb9hy4pxFE.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128813558,
+			"id_str": "128813558",
+			"name": "DAZED KOREA 데이즈드 코리아",
+			"screen_name": "DazedKorea",
+			"location": "Seoul, Korea",
+			"description": "L'EXTREME / Declare Independence https://t.co/c9Lshh4qWE",
+			"url": "https://t.co/0p0y3Fodwo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0p0y3Fodwo",
+							"expanded_url": "http://www.youtube.com/c/DAZEDKOREA",
+							"display_url": "youtube.com/c/DAZEDKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/c9Lshh4qWE",
+							"expanded_url": "http://dazedkorea.com",
+							"display_url": "dazedkorea.com",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 153842,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Fri Apr 02 07:52:12 +0000 2010",
+			"favourites_count": 570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5052,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130299010613358592/2z0vgQF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128813558/1630565334",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1686,
+		"favorite_count": 2874,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ROSÉ X TIFFANY #협찬\n\n주얼리 브랜드 '티파니'와 개인의 스타일에 대해 정의하고, 재조명하는 캠페인 'Styled by T＇의 새 주인공은 로제입니다. 로제와 티파니가 함께한 화보는 &lt;데이즈드&gt; 폴 에디션에서 확인할 수 있습니다.\n\n#로제 #ROSÉ #티파니 #TiffanyAndCo #StyledbyT #TiffanyHardWear https://t.co/raTP2sG7ma"
+	},
+	{
+		"created_at": "Thu Sep 02 09:09:36 +0000 2021",
+		"id": 1433355186081185800,
+		"id_str": "1433356421459021826",
+		"full_text": "예리 YERI [‘It’s You' - 블루버스데이 OST]\n\n🎧 Melon: https://t.co/2LMPSesrXk\n🎧 FLO: https://t.co/QjqfvFwubO\n🎧 genie: https://t.co/F1LxICIOJU\n🎧 NAVER VIBE: https://t.co/IJey7NmQwy\n\n#블루버스데이 #BLUEBIRTHDAY\n#Its_You\n#예리 #YERI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블루버스데이",
+					"indices": [
+						171,
+						178
+					]
+				},
+				{
+					"text": "BLUEBIRTHDAY",
+					"indices": [
+						179,
+						192
+					]
+				},
+				{
+					"text": "Its_You",
+					"indices": [
+						193,
+						201
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						202,
+						205
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						206,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2LMPSesrXk",
+					"expanded_url": "https://bit.ly/3mZIPAL",
+					"display_url": "bit.ly/3mZIPAL",
+					"indices": [
+						44,
+						67
+					]
+				},
+				{
+					"url": "https://t.co/QjqfvFwubO",
+					"expanded_url": "https://bit.ly/38x38NJ",
+					"display_url": "bit.ly/38x38NJ",
+					"indices": [
+						75,
+						98
+					]
+				},
+				{
+					"url": "https://t.co/F1LxICIOJU",
+					"expanded_url": "https://bit.ly/3mUXjBP",
+					"display_url": "bit.ly/3mUXjBP",
+					"indices": [
+						108,
+						131
+					]
+				},
+				{
+					"url": "https://t.co/IJey7NmQwy",
+					"expanded_url": "https://bit.ly/3kFLblC",
+					"display_url": "bit.ly/3kFLblC",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "Red Velvet The 6th Mini Album ‘Queendom’\n\n2021.8.16. 6PM (KST)",
+			"url": "https://t.co/0hh6LbqXQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hh6LbqXQp",
+							"expanded_url": "https://www.youtube.com/redvelvet",
+							"display_url": "youtube.com/redvelvet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4544367,
+			"friends_count": 1,
+			"listed_count": 9685,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 77,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2258,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421848248352862216/RXFqEwwB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1627830015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4293,
+		"favorite_count": 10015,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "예리 YERI [‘It’s You' - 블루버스데이 OST]\n\n🎧 Melon: https://t.co/2LMPSesrXk\n🎧 FLO: https://t.co/QjqfvFwubO\n🎧 genie: https://t.co/F1LxICIOJU\n🎧 NAVER VIBE: https://t.co/IJey7NmQwy\n\n#블루버스데이 #BLUEBIRTHDAY\n#Its_You\n#예리 #YERI"
+	},
+	{
 		"created_at": "Thu Sep 02 09:01:29 +0000 2021",
 		"id": 1433354380938522600,
 		"id_str": "1433354380938522625",
