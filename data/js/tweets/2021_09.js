@@ -1,6 +1,650 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 02 15:40:51 +0000 2021",
+		"id": 1433454884402221000,
+		"id_str": "1433454884402221059",
+		"full_text": "#블랙핑크 #BLACKPINK #VLIVE\nLISA - FIRST SINGLE ALBUM LALISA VISUAL TEASER #3\nhttps://t.co/GZOMF20nC3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블랙핑크",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GZOMF20nC3",
+					"expanded_url": "https://www.vlive.tv/post/1-25150879",
+					"display_url": "vlive.tv/post/1-25150879",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "#블랙핑크 #BLACKPINK #VLIVE\nLISA - FIRST SINGLE ALBUM LALISA VISUAL TEASER #3\nhttps://t.co/GZOMF20nC3"
+	},
+	{
+		"created_at": "Thu Sep 02 15:40:31 +0000 2021",
+		"id": 1433447429949378600,
+		"id_str": "1433454800025358344",
+		"full_text": "[#Notice] SHANG-CHI: LEGEND OF THE TEN RINGS THE ALBUM.\nMIDNIGHT TONIGHT WHEREVER YOU ARE 🐉\n\n@shangchi @88rising @marvel\n\n#Seori https://t.co/prMQIpqjQp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						122,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shangchi",
+					"name": "Shang-Chi",
+					"id": 1148979262659145700,
+					"id_str": "1148979262659145728",
+					"indices": [
+						93,
+						102
+					]
+				},
+				{
+					"screen_name": "88rising",
+					"name": "88rising",
+					"id": 710838951989346300,
+					"id_str": "710838951989346304",
+					"indices": [
+						103,
+						112
+					]
+				},
+				{
+					"screen_name": "Marvel",
+					"name": "Marvel Entertainment",
+					"id": 15687962,
+					"id_str": "15687962",
+					"indices": [
+						113,
+						120
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433447306603339800,
+					"id_str": "1433447306603339780",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/E-SguwpVIAQo4NE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-SguwpVIAQo4NE.jpg",
+					"url": "https://t.co/prMQIpqjQp",
+					"display_url": "pic.twitter.com/prMQIpqjQp",
+					"expanded_url": "https://twitter.com/seori_official/status/1433447429949378563/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433447306603339800,
+					"id_str": "1433447306603339780",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/E-SguwpVIAQo4NE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-SguwpVIAQo4NE.jpg",
+					"url": "https://t.co/prMQIpqjQp",
+					"display_url": "pic.twitter.com/prMQIpqjQp",
+					"expanded_url": "https://twitter.com/seori_official/status/1433447429949378563/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26800,
+			"friends_count": 0,
+			"listed_count": 110,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 441,
+		"favorite_count": 1592,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Notice] SHANG-CHI: LEGEND OF THE TEN RINGS THE ALBUM.\nMIDNIGHT TONIGHT WHEREVER YOU ARE 🐉\n\n@shangchi @88rising @marvel\n\n#Seori https://t.co/prMQIpqjQp"
+	},
+	{
+		"created_at": "Thu Sep 02 15:40:20 +0000 2021",
+		"id": 1433444703190405000,
+		"id_str": "1433454752948531203",
+		"full_text": "#LISA FIRST SINGLE ALBUM LALISA VISUAL TEASER #3\n\nFIRST SINGLE ALBUM LALISA\n✅2021.09.10 12AM (EST) / 1PM (KST)\n\n🎬YouTube: https://t.co/PEfB3XP6R0\n📺NAVER TV: https://t.co/kU1RYCwN9s\n\n#리사 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #LALISA #20210910_12amEST #20210910_1pmKST #YG https://t.co/emWfhHT2lC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						182,
+						185
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						186,
+						196
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						197,
+						202
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						203,
+						220
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						221,
+						228
+					]
+				},
+				{
+					"text": "20210910_12amEST",
+					"indices": [
+						229,
+						246
+					]
+				},
+				{
+					"text": "20210910_1pmKST",
+					"indices": [
+						247,
+						263
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						264,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PEfB3XP6R0",
+					"expanded_url": "https://youtu.be/FiLP0SQmVwk",
+					"display_url": "youtu.be/FiLP0SQmVwk",
+					"indices": [
+						122,
+						145
+					]
+				},
+				{
+					"url": "https://t.co/kU1RYCwN9s",
+					"expanded_url": "https://tv.naver.com/v/22222225",
+					"display_url": "tv.naver.com/v/22222225",
+					"indices": [
+						157,
+						180
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1433356919511535600,
+					"id_str": "1433356919511535617",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E-RYm4YUUAoyyot.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-RYm4YUUAoyyot.jpg",
+					"url": "https://t.co/emWfhHT2lC",
+					"display_url": "pic.twitter.com/emWfhHT2lC",
+					"expanded_url": "https://twitter.com/ygent_official/status/1433444703190405122/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433356919511535600,
+					"id_str": "1433356919511535617",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E-RYm4YUUAoyyot.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-RYm4YUUAoyyot.jpg",
+					"url": "https://t.co/emWfhHT2lC",
+					"display_url": "pic.twitter.com/emWfhHT2lC",
+					"expanded_url": "https://twitter.com/ygent_official/status/1433444703190405122/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 23982,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1433356919511535617/vid/480x270/qGq07HL7Xk_3b73Y.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1433356919511535617/pl/ykqWDbMinoX9bja-.m3u8?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1433356919511535617/vid/640x360/6YyBjA_GfBXjlX7W.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1433356919511535617/vid/1280x720/Z7FPn4jQ7cqTOYAg.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "LISA FIRST SINGLE ALBUM LALISA VISUAL TEASER #3",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/FiLP0SQmVwk"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter 丨https://t.co/YkYDMOv0Hi丨 #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/YkYDMOv0Hi",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7907829,
+			"friends_count": 36,
+			"listed_count": 8769,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11446,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43313,
+		"favorite_count": 74490,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LISA FIRST SINGLE ALBUM LALISA VISUAL TEASER #3\n\nFIRST SINGLE ALBUM LALISA\n✅2021.09.10 12AM (EST) / 1PM (KST)\n\n🎬YouTube: https://t.co/PEfB3XP6R0\n📺NAVER TV: https://t.co/kU1RYCwN9s\n\n#리사 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #LALISA #20210910_12amEST #20210910_1pmKST #YG https://t.co/emWfhHT2lC"
+	},
+	{
 		"created_at": "Thu Sep 02 15:18:13 +0000 2021",
 		"id": 1433445505472680000,
 		"id_str": "1433449189745192961",
@@ -288,7 +932,7 @@ Grailbird.data.tweets_2021_09 =
 		"created_at": "Thu Sep 02 15:18:13 +0000 2021",
 		"id": 1433437764620456000,
 		"id_str": "1433449188092567556",
-		"full_text": "🎊 #슬기zip 30회 🎊\n210601 첫방을 시작으로...(두근)\n쥔님의 프로 진행력🎤 손님들의 사랑🧡 더해져 30회를 맞이해요🥳\n\n쥔님🐻에게 전하는 축하메시지💌\n손님들 기억 속에 콕! 남은 에피소드를 보내주세요😘\n\n참여 방법📝 \n링크따라 쏙 들어오면 참여가능🙆🏻‍♀️\n⬇️💛\nhttps://t.co/NB8SptjPn2",
+		"full_text": "🎊 #슬기zip 30회 🎊\n210601 첫방을 시작으로...(두근)\n쥔님의 프로 진행력🎤 손님들의 사랑🧡 더해져 30회를 맞이해요🥳\n\n쥔님🐻에게 전하는 축하메시지💌\n손님들 기억 속에 콕! 남은 에피소드를 보내주세요😘\n\n참여 방법📝 \n링크따라 쏙 들어오면 참여가능🙆🏻♀️\n⬇️💛\nhttps://t.co/NB8SptjPn2",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -397,7 +1041,7 @@ Grailbird.data.tweets_2021_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "🎊 #슬기zip 30회 🎊\n210601 첫방을 시작으로...(두근)\n쥔님의 프로 진행력🎤 손님들의 사랑🧡 더해져 30회를 맞이해요🥳\n\n쥔님🐻에게 전하는 축하메시지💌\n손님들 기억 속에 콕! 남은 에피소드를 보내주세요😘\n\n참여 방법📝 \n링크따라 쏙 들어오면 참여가능🙆🏻‍♀️\n⬇️💛\nhttps://t.co/NB8SptjPn2"
+		"text": "🎊 #슬기zip 30회 🎊\n210601 첫방을 시작으로...(두근)\n쥔님의 프로 진행력🎤 손님들의 사랑🧡 더해져 30회를 맞이해요🥳\n\n쥔님🐻에게 전하는 축하메시지💌\n손님들 기억 속에 콕! 남은 에피소드를 보내주세요😘\n\n참여 방법📝 \n링크따라 쏙 들어오면 참여가능🙆🏻♀️\n⬇️💛\nhttps://t.co/NB8SptjPn2"
 	},
 	{
 		"created_at": "Thu Sep 02 15:18:13 +0000 2021",
