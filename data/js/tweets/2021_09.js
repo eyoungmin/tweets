@@ -1,6 +1,178 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 02 17:40:10 +0000 2021",
+		"id": 1433477398142627800,
+		"id_str": "1433484909767757832",
+		"full_text": "Burning Bridges music video out tomorrow at 12pm bst ❤️‍🔥🤟 join me for the youtube premiere, I’ll be there😏 https://t.co/7N69Ud2T1C https://t.co/eQM4eZHUHy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7N69Ud2T1C",
+					"expanded_url": "https://Sigrid.lnk.to/BurningBridgesOfficialVideoTW",
+					"display_url": "Sigrid.lnk.to/BurningBridges…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1433477394262810600,
+					"id_str": "1433477394262810625",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/E-S8GF6WYAECCQ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-S8GF6WYAECCQ-.jpg",
+					"url": "https://t.co/eQM4eZHUHy",
+					"display_url": "pic.twitter.com/eQM4eZHUHy",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1433477398142627851/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433477394262810600,
+					"id_str": "1433477394262810625",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/E-S8GF6WYAECCQ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-S8GF6WYAECCQ-.jpg",
+					"url": "https://t.co/eQM4eZHUHy",
+					"display_url": "pic.twitter.com/eQM4eZHUHy",
+					"expanded_url": "https://twitter.com/thisissigrid/status/1433477398142627851/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 819042492,
+			"id_str": "819042492",
+			"name": "sigrid",
+			"screen_name": "thisissigrid",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82921,
+			"friends_count": 265,
+			"listed_count": 302,
+			"created_at": "Wed Sep 12 07:27:30 +0000 2012",
+			"favourites_count": 5942,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4169,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427255384616624138/ZmgTeEsb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/819042492/1629281196",
+			"profile_link_color": "99DFFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 407,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Burning Bridges music video out tomorrow at 12pm bst ❤️‍🔥🤟 join me for the youtube premiere, I’ll be there😏 https://t.co/7N69Ud2T1C https://t.co/eQM4eZHUHy"
+	},
+	{
 		"created_at": "Thu Sep 02 16:40:10 +0000 2021",
 		"id": 1433456081779536000,
 		"id_str": "1433469810579591168",
