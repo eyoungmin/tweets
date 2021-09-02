@@ -1,6 +1,785 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 02 05:40:09 +0000 2021",
+		"id": 1433298771434037200,
+		"id_str": "1433303715704942594",
+		"full_text": "Clinique 의 엠버서더가 되었서현🤍 크리니크와 함께할 활동 많이 기대해주세요:)\n#Clinique #cliniquexseohyun\n#Cliniquepartner https://t.co/JT0TZmqiny",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Clinique",
+					"indices": [
+						48,
+						57
+					]
+				},
+				{
+					"text": "cliniquexseohyun",
+					"indices": [
+						58,
+						75
+					]
+				},
+				{
+					"text": "Cliniquepartner",
+					"indices": [
+						76,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JT0TZmqiny",
+					"expanded_url": "https://www.instagram.com/p/CTTqrdqBQnO/?utm_medium=twitter",
+					"display_url": "instagram.com/p/CTTqrdqBQnO/…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2173631072,
+			"id_str": "2173631072",
+			"name": "서현(Seohyun)",
+			"screen_name": "sjhsjh0628",
+			"location": "",
+			"description": "Singer / Actor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1390553,
+			"friends_count": 31,
+			"listed_count": 2880,
+			"created_at": "Mon Nov 04 08:58:47 +0000 2013",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350274158945398785/6B2gOd8K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350274158945398785/6B2gOd8K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2173631072/1617691854",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 353,
+		"favorite_count": 865,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Clinique 의 엠버서더가 되었서현🤍 크리니크와 함께할 활동 많이 기대해주세요:)\n#Clinique #cliniquexseohyun\n#Cliniquepartner https://t.co/JT0TZmqiny"
+	},
+	{
+		"created_at": "Thu Sep 02 05:31:29 +0000 2021",
+		"id": 1433299781695131600,
+		"id_str": "1433301533748195329",
+		"full_text": "[김예림] 과거로 8번 떠난다(ft. 블루버스데이)\n\n포스트 보러 가기 👉🏻https://t.co/4fcErui6jK\n\n#김예림 #KIMYERIM\n#예리 #YERI \n#레드벨벳 #RedVelvet\n#블루버스데이 #BLUEBIRTHDAY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김예림",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "KIMYERIM",
+					"indices": [
+						72,
+						81
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						99,
+						109
+					]
+				},
+				{
+					"text": "블루버스데이",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "BLUEBIRTHDAY",
+					"indices": [
+						118,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4fcErui6jK",
+					"expanded_url": "http://naver.me/G3Jjcb66",
+					"display_url": "naver.me/G3Jjcb66",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9850286,
+			"friends_count": 55,
+			"listed_count": 10529,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2219,
+		"favorite_count": 6725,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[김예림] 과거로 8번 떠난다(ft. 블루버스데이)\n\n포스트 보러 가기 👉🏻https://t.co/4fcErui6jK\n\n#김예림 #KIMYERIM\n#예리 #YERI \n#레드벨벳 #RedVelvet\n#블루버스데이 #BLUEBIRTHDAY"
+	},
+	{
+		"created_at": "Thu Sep 02 05:29:38 +0000 2021",
+		"id": 1433286059220037600,
+		"id_str": "1433301069036236803",
+		"full_text": "오늘의 라인업 💗\n위키미키, 크래비티, 빅톤, 위아이, 러블리즈, 프로미스나인, 브레이브걸스, 소녀시대, 데이식스, 에이비식스, 원어스, 씨아이엑스, (여자)아이들, 오마이걸, 레드벨벳, 베리베리, 더보이즈, 웨이션브이, 아이즈원, 트와이스, 갓세븐, 투모로우바이투게더, 스트레이 키즈, 방탄소년단 https://t.co/472jtUWpAZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/472jtUWpAZ",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1433258106356596746",
+					"display_url": "twitter.com/ALLTHEKPOP/sta…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86744,
+			"friends_count": 338,
+			"listed_count": 325,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1630281527",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1433258106356596700,
+		"quoted_status_id_str": "1433258106356596746",
+		"quoted_status_permalink": {
+			"url": "https://t.co/472jtUWpAZ",
+			"expanded": "https://twitter.com/ALLTHEKPOP/status/1433258106356596746",
+			"display": "twitter.com/ALLTHEKPOP/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 02 02:38:55 +0000 2021",
+			"id": 1433258106356596700,
+			"id_str": "1433258106356596746",
+			"full_text": "올케다방의 띵곡팔이👋\n⏰PM 2:00~3:30\n\n영원히 사랑해주고픈 9월생 아이돌🎂 \n듣기만 해도 귀가 녹아내리는 띵곡 모음💙\n\n▶ https://t.co/3nlmUQySBz\n☝올케팝 유튜브 채널 알림설정하면 띵곡팔이 알림 딩동 https://t.co/fLLyEmHZ8h",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				127
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3nlmUQySBz",
+						"expanded_url": "https://youtu.be/OgeutMEIgc4",
+						"display_url": "youtu.be/OgeutMEIgc4",
+						"indices": [
+							74,
+							97
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1433257150709522400,
+						"id_str": "1433257150709522434",
+						"indices": [
+							128,
+							151
+						],
+						"media_url": "http://pbs.twimg.com/media/E-PzyOvUYAI1aDe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-PzyOvUYAI1aDe.jpg",
+						"url": "https://t.co/fLLyEmHZ8h",
+						"display_url": "pic.twitter.com/fLLyEmHZ8h",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1433258106356596746/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1433257150709522400,
+						"id_str": "1433257150709522434",
+						"indices": [
+							128,
+							151
+						],
+						"media_url": "http://pbs.twimg.com/media/E-PzyOvUYAI1aDe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-PzyOvUYAI1aDe.jpg",
+						"url": "https://t.co/fLLyEmHZ8h",
+						"display_url": "pic.twitter.com/fLLyEmHZ8h",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1433258106356596746/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744928926,
+				"id_str": "744928926",
+				"name": "올더케이팝",
+				"screen_name": "ALLTHEKPOP",
+				"location": "",
+				"description": "ALL about ID♡L, ALL THE K-POP",
+				"url": "https://t.co/0kbjbCEhaR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0kbjbCEhaR",
+								"expanded_url": "http://www.youtube.com/allthekpop",
+								"display_url": "youtube.com/allthekpop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 86744,
+				"friends_count": 338,
+				"listed_count": 325,
+				"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+				"favourites_count": 7899,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7574,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1630281527",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29,
+			"favorite_count": 92,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 16,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘의 라인업 💗\n위키미키, 크래비티, 빅톤, 위아이, 러블리즈, 프로미스나인, 브레이브걸스, 소녀시대, 데이식스, 에이비식스, 원어스, 씨아이엑스, (여자)아이들, 오마이걸, 레드벨벳, 베리베리, 더보이즈, 웨이션브이, 아이즈원, 트와이스, 갓세븐, 투모로우바이투게더, 스트레이 키즈, 방탄소년단 https://t.co/472jtUWpAZ"
+	},
+	{
+		"created_at": "Thu Sep 02 05:24:19 +0000 2021",
+		"id": 1433299729086025700,
+		"id_str": "1433299729086025731",
+		"full_text": "#YG라이프 #YG엔터테인먼트 \n블랙핑크 리사, 10일 솔로데뷔 ‘카운트다운 라이브’ \nhttps://t.co/Cbg2gBY2p3 \n \n#블랙핑크 #BLACKPINK https://t.co/Y8VbqxuDuo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YG라이프",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "YG엔터테인먼트",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						82,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Cbg2gBY2p3",
+					"expanded_url": "https://yg-life.com/archives/169745?lang=ko",
+					"display_url": "yg-life.com/archives/16974…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1433299727764926500,
+					"id_str": "1433299727764926466",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/E-QagioXsAIQriH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-QagioXsAIQriH.jpg",
+					"url": "https://t.co/Y8VbqxuDuo",
+					"display_url": "pic.twitter.com/Y8VbqxuDuo",
+					"expanded_url": "https://twitter.com/fromminn/status/1433299729086025731/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433299727764926500,
+					"id_str": "1433299727764926466",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/E-QagioXsAIQriH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-QagioXsAIQriH.jpg",
+					"url": "https://t.co/Y8VbqxuDuo",
+					"display_url": "pic.twitter.com/Y8VbqxuDuo",
+					"expanded_url": "https://twitter.com/fromminn/status/1433299729086025731/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 645,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4531360753,
+			"id_str": "4531360753",
+			"name": "MINN",
+			"screen_name": "fromminn",
+			"location": "",
+			"description": "덕질과 음악에 대해 이야기 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 1051,
+			"listed_count": 6,
+			"created_at": "Fri Dec 11 19:47:40 +0000 2015",
+			"favourites_count": 44877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332735793580806144/qUzxqfzV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4531360753/1591910258",
+			"profile_link_color": "848484",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YG라이프 #YG엔터테인먼트 \n블랙핑크 리사, 10일 솔로데뷔 ‘카운트다운 라이브’ \nhttps://t.co/Cbg2gBY2p3 \n \n#블랙핑크 #BLACKPINK https://t.co/Y8VbqxuDuo"
+	},
+	{
 		"created_at": "Thu Sep 02 03:40:18 +0000 2021",
 		"id": 1433263997801795600,
 		"id_str": "1433273550694240258",
