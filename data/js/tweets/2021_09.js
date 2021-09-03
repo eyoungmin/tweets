@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 03 01:40:15 +0000 2021",
+		"id": 1433599845185384400,
+		"id_str": "1433605727231303680",
+		"full_text": "맛있고 건강하게 서현의 빨간맛 다이어트❤\n#콜레올로지 #빨간통다이어트 https://t.co/lWMfinM85O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "콜레올로지",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"text": "빨간통다이어트",
+					"indices": [
+						30,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lWMfinM85O",
+					"expanded_url": "https://www.instagram.com/p/CTVzlpqBA_2/?utm_medium=twitter",
+					"display_url": "instagram.com/p/CTVzlpqBA_2/…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2173631072,
+			"id_str": "2173631072",
+			"name": "서현(Seohyun)",
+			"screen_name": "sjhsjh0628",
+			"location": "",
+			"description": "Singer / Actor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1390602,
+			"friends_count": 31,
+			"listed_count": 2880,
+			"created_at": "Mon Nov 04 08:58:47 +0000 2013",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1368,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350274158945398785/6B2gOd8K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350274158945398785/6B2gOd8K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2173631072/1617691854",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 294,
+		"favorite_count": 868,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "맛있고 건강하게 서현의 빨간맛 다이어트❤\n#콜레올로지 #빨간통다이어트 https://t.co/lWMfinM85O"
+	},
+	{
+		"created_at": "Fri Sep 03 01:18:19 +0000 2021",
+		"id": 1433586626710556700,
+		"id_str": "1433600207866851340",
+		"full_text": "#슬기zip 칠천만 포오즈- 처돌이들 위해 공개📸 \n슬기집캠에서만 볼 수 있는  #슬기 ver. #Pose \n쥔님 항상 멋있지만 본업 할 때가 최고👍🏻\n\nEvery Tue, Thu 10PM 슬기zip https://t.co/qnKfWQSTME",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬기zip",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "Pose",
+					"indices": [
+						54,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433586454530195500,
+					"id_str": "1433586454530195462",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1433586454530195462/pu/img/spq7GHF_cXuz6mTi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1433586454530195462/pu/img/spq7GHF_cXuz6mTi.jpg",
+					"url": "https://t.co/qnKfWQSTME",
+					"display_url": "pic.twitter.com/qnKfWQSTME",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1433586626710556674/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433586454530195500,
+					"id_str": "1433586454530195462",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1433586454530195462/pu/img/spq7GHF_cXuz6mTi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1433586454530195462/pu/img/spq7GHF_cXuz6mTi.jpg",
+					"url": "https://t.co/qnKfWQSTME",
+					"display_url": "pic.twitter.com/qnKfWQSTME",
+					"expanded_url": "https://twitter.com/seulgi_zip/status/1433586626710556674/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 77533,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1433586454530195462/pu/vid/720x1280/TlLVNLJPekKP5NkY.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1433586454530195462/pu/vid/480x852/y-MeNJHPusdMJqtW.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1433586454530195462/pu/vid/320x568/fxqL1dN4TP3blV2C.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1433586454530195462/pu/pl/PXjQpfjBo-sWCL_c.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1396370716300218400,
+			"id_str": "1396370716300218369",
+			"name": "슬기.zip",
+			"screen_name": "seulgi_zip",
+			"location": "",
+			"description": "Every Tue, Thu 10PM 슬기.zip 압축 해제💛",
+			"url": "https://t.co/knQ9hHUSqw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knQ9hHUSqw",
+							"expanded_url": "https://now.naver.com/player/10359",
+							"display_url": "now.naver.com/player/10359",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44927,
+			"friends_count": 1,
+			"listed_count": 264,
+			"created_at": "Sun May 23 07:41:51 +0000 2021",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397024196111130625/kL462lR7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1396370716300218369/1629821237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1562,
+		"favorite_count": 2798,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬기zip 칠천만 포오즈- 처돌이들 위해 공개📸 \n슬기집캠에서만 볼 수 있는  #슬기 ver. #Pose \n쥔님 항상 멋있지만 본업 할 때가 최고👍🏻\n\nEvery Tue, Thu 10PM 슬기zip https://t.co/qnKfWQSTME"
+	},
+	{
 		"created_at": "Fri Sep 03 00:36:17 +0000 2021",
 		"id": 1433589633061998600,
 		"id_str": "1433589633061998598",
