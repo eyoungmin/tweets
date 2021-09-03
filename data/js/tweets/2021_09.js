@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 03 07:18:24 +0000 2021",
+		"id": 1433682865066111000,
+		"id_str": "1433690828677914629",
+		"full_text": "#ELLE사적대화 #TAEYEON #태연 #소녀시대 #GirlsGeneration \n\n오늘 오후 6시\n태연과 나눈 진솔한 이야기가 시작됩니다.\n연습생 때 이야기부터 지금의 단단한 마음까지.💜\n📲 https://t.co/B6tnSPrihy\n\n@GirlsGeneration #SMTOWN @SMTOWNGLOBAL https://t.co/vFWVQu2FMM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELLE사적대화",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						19,
+						22
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						29,
+						45
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						151,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						134,
+						150
+					]
+				},
+				{
+					"screen_name": "SMTOWNGLOBAL",
+					"name": "SMTOWN",
+					"id": 884378714,
+					"id_str": "884378714",
+					"indices": [
+						159,
+						172
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/B6tnSPrihy",
+					"expanded_url": "https://youtu.be/CSv__jAO1fM",
+					"display_url": "youtu.be/CSv__jAO1fM",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1433675965700268000,
+					"id_str": "1433675965700268032",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/E-VwseKUYAAV9m0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-VwseKUYAAV9m0.jpg",
+					"url": "https://t.co/vFWVQu2FMM",
+					"display_url": "pic.twitter.com/vFWVQu2FMM",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1433682865066110977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 811,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433675965700268000,
+					"id_str": "1433675965700268032",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/E-VwseKUYAAV9m0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-VwseKUYAAV9m0.jpg",
+					"url": "https://t.co/vFWVQu2FMM",
+					"display_url": "pic.twitter.com/vFWVQu2FMM",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1433682865066110977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 811,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 ELLE KOREA 공식 트위터 official twitter 입니다.",
+			"url": "https://t.co/wrg4l4aKRf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wrg4l4aKRf",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141806,
+			"friends_count": 3458,
+			"listed_count": 0,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14847,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1628847252",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 331,
+		"favorite_count": 459,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ELLE사적대화 #TAEYEON #태연 #소녀시대 #GirlsGeneration \n\n오늘 오후 6시\n태연과 나눈 진솔한 이야기가 시작됩니다.\n연습생 때 이야기부터 지금의 단단한 마음까지.💜\n📲 https://t.co/B6tnSPrihy\n\n@GirlsGeneration #SMTOWN @SMTOWNGLOBAL https://t.co/vFWVQu2FMM"
+	},
+	{
 		"created_at": "Fri Sep 03 04:40:13 +0000 2021",
 		"id": 1433641102079266800,
 		"id_str": "1433651020803059714",
