@@ -1,6 +1,873 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 03 03:40:18 +0000 2021",
+		"id": 1433625802336346000,
+		"id_str": "1433635940136857604",
+		"full_text": "[#Notice] SHANG-CHI: LEGEND OF THE TEN RINGS THE ALBUM.\nMIDNIGHT TONIGHT WHEREVER YOU ARE  \n\n@shangchi\n@88rising\n@Marvel\n \n#Seori https://t.co/Qu2AVbRR4p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "Seori",
+					"indices": [
+						123,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shangchi",
+					"name": "Shang-Chi",
+					"id": 1148979262659145700,
+					"id_str": "1148979262659145728",
+					"indices": [
+						93,
+						102
+					]
+				},
+				{
+					"screen_name": "88rising",
+					"name": "88rising",
+					"id": 710838951989346300,
+					"id_str": "710838951989346304",
+					"indices": [
+						103,
+						112
+					]
+				},
+				{
+					"screen_name": "Marvel",
+					"name": "Marvel Entertainment",
+					"id": 15687962,
+					"id_str": "15687962",
+					"indices": [
+						113,
+						120
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433304216022306800,
+					"id_str": "1433304216022306820",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/E-QelysUUAQJdQ3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-QelysUUAQJdQ3.jpg",
+					"url": "https://t.co/Qu2AVbRR4p",
+					"display_url": "pic.twitter.com/Qu2AVbRR4p",
+					"expanded_url": "https://twitter.com/seori_official/status/1433625802336346115/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433304216022306800,
+					"id_str": "1433304216022306820",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/E-QelysUUAQJdQ3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-QelysUUAQJdQ3.jpg",
+					"url": "https://t.co/Qu2AVbRR4p",
+					"display_url": "pic.twitter.com/Qu2AVbRR4p",
+					"expanded_url": "https://twitter.com/seori_official/status/1433625802336346115/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1143072158467231700,
+			"id_str": "1143072158467231745",
+			"name": "Seori",
+			"screen_name": "seori_official",
+			"location": "contact@atispaus.com",
+			"description": "#Seori official twitter",
+			"url": "https://t.co/o2NawGlgIj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o2NawGlgIj",
+							"expanded_url": "https://www.youtube.com/seori_official",
+							"display_url": "youtube.com/seori_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26896,
+			"friends_count": 0,
+			"listed_count": 109,
+			"created_at": "Mon Jun 24 08:23:34 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 322,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402862612077899777/aq-6OvIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1143072158467231745/1629335546",
+			"profile_link_color": "6D67AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 236,
+		"favorite_count": 909,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Notice] SHANG-CHI: LEGEND OF THE TEN RINGS THE ALBUM.\nMIDNIGHT TONIGHT WHEREVER YOU ARE  \n\n@shangchi\n@88rising\n@Marvel\n \n#Seori https://t.co/Qu2AVbRR4p"
+	},
+	{
+		"created_at": "Fri Sep 03 03:19:44 +0000 2021",
+		"id": 1433629811658821600,
+		"id_str": "1433630766278217741",
+		"full_text": "제이에스티나의 뮤즈\n아이유가 전하는 가을의 선율.\n\nhttps://t.co/ufGYOuvFOD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ufGYOuvFOD",
+					"expanded_url": "https://www.instagram.com/p/CTV_WdVgEUu/",
+					"display_url": "instagram.com/p/CTV_WdVgEUu/",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024486566096326700,
+			"id_str": "1024486566096326656",
+			"name": "아이유(IU) 공식 트위터",
+			"screen_name": "_IUofficial",
+			"location": "",
+			"description": "아이유(IU) Official Twitter",
+			"url": "https://t.co/26KBouiO60",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/26KBouiO60",
+							"expanded_url": "http://cafe.daum.net/IU",
+							"display_url": "cafe.daum.net/IU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1047416,
+			"friends_count": 0,
+			"listed_count": 1973,
+			"created_at": "Wed Aug 01 02:46:46 +0000 2018",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1091,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374979417915547648/vKspl9Et_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024486566096326656/1616655617",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 878,
+		"favorite_count": 4281,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제이에스티나의 뮤즈\n아이유가 전하는 가을의 선율.\n\nhttps://t.co/ufGYOuvFOD"
+	},
+	{
+		"created_at": "Fri Sep 03 03:18:22 +0000 2021",
+		"id": 1433625797554737200,
+		"id_str": "1433630420092870660",
+		"full_text": "LISA - ‘LALISA’ @ COEX MEDIA TOWER\n\n#LISA #리사 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #LALISA #YG https://t.co/kPlTa2UOnB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LISA",
+					"indices": [
+						36,
+						41
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						46,
+						56
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "FIRSTSINGLEALBUM",
+					"indices": [
+						63,
+						80
+					]
+				},
+				{
+					"text": "LALISA",
+					"indices": [
+						81,
+						88
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						89,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433433243060039700,
+					"id_str": "1433433243060039683",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1433433243060039683/img/4364hhRG71_MY8T2.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1433433243060039683/img/4364hhRG71_MY8T2.jpg",
+					"url": "https://t.co/kPlTa2UOnB",
+					"display_url": "pic.twitter.com/kPlTa2UOnB",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1433625797554737153/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 408,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433433243060039700,
+					"id_str": "1433433243060039683",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1433433243060039683/img/4364hhRG71_MY8T2.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1433433243060039683/img/4364hhRG71_MY8T2.jpg",
+					"url": "https://t.co/kPlTa2UOnB",
+					"display_url": "pic.twitter.com/kPlTa2UOnB",
+					"expanded_url": "https://twitter.com/ygofficialblink/status/1433625797554737153/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 408,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							5
+						],
+						"duration_millis": 29167,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1433433243060039683/vid/540x900/Dd7uN8qZzOkY2TJR.mp4?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1433433243060039683/vid/320x532/puOum0FkD4gtmLZz.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1433433243060039683/pl/gnSVdqtIU2MBmrg2.m3u8?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1433433243060039683/vid/480x800/pr1tS2KkV3bO-rBQ.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 878204370403250200,
+			"id_str": "878204370403250176",
+			"name": "BLACKPINK GLOBAL BLINK",
+			"screen_name": "ygofficialblink",
+			"location": "",
+			"description": "YG ENTERTAINMENT #BLACKPINK OFFICIAL BLINK TWITTER l #블랙핑크 팬클럽 블링크 공식 트위터입니다.",
+			"url": "https://t.co/QTHPhjMXWT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QTHPhjMXWT",
+							"expanded_url": "http://5th.blackpinkofficial.com",
+							"display_url": "5th.blackpinkofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7227568,
+			"friends_count": 7,
+			"listed_count": 8319,
+			"created_at": "Fri Jun 23 10:53:32 +0000 2017",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878207363269836801/hYvfoMgn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/878204370403250176/1629903747",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10118,
+		"favorite_count": 26572,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ht",
+		"text": "LISA - ‘LALISA’ @ COEX MEDIA TOWER\n\n#LISA #리사 #BLACKPINK #블랙핑크 #FIRSTSINGLEALBUM #LALISA #YG https://t.co/kPlTa2UOnB"
+	},
+	{
+		"created_at": "Fri Sep 03 03:18:22 +0000 2021",
+		"id": 1433618184439931000,
+		"id_str": "1433630418830430210",
+		"full_text": "#ELLE네이름택 #TAEYEON #태연 #소녀시대 #GirlsGeneration \n\n태연의 좐머리를 책임져주는 '좐'💜\n핸드폰은 안 챙겨도 '이것'만은! 태연의 '짝궁'은?\n\n바로보기📲https://t.co/U87fFxOVkb\n\n@GirlsGeneration #SMTOWN @SMTOWNGLOBAL https://t.co/bJWhECS7m1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELLE네이름택",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						19,
+						22
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						29,
+						45
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						146,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						129,
+						145
+					]
+				},
+				{
+					"screen_name": "SMTOWNGLOBAL",
+					"name": "SMTOWN",
+					"id": 884378714,
+					"id_str": "884378714",
+					"indices": [
+						154,
+						167
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/U87fFxOVkb",
+					"expanded_url": "https://youtu.be/hrxcKapJwbU",
+					"display_url": "youtu.be/hrxcKapJwbU",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1433617793300062200,
+					"id_str": "1433617793300062211",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1433617793300062211/pu/img/Y_s-oRAfU5s74WsG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1433617793300062211/pu/img/Y_s-oRAfU5s74WsG.jpg",
+					"url": "https://t.co/bJWhECS7m1",
+					"display_url": "pic.twitter.com/bJWhECS7m1",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1433618184439930883/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433617793300062200,
+					"id_str": "1433617793300062211",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1433617793300062211/pu/img/Y_s-oRAfU5s74WsG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1433617793300062211/pu/img/Y_s-oRAfU5s74WsG.jpg",
+					"url": "https://t.co/bJWhECS7m1",
+					"display_url": "pic.twitter.com/bJWhECS7m1",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1433618184439930883/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 54512,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1433617793300062211/pu/vid/640x360/paXIRdeEd591ICeB.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1433617793300062211/pu/pl/E5Vv8ZSPRlSUT4I1.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1433617793300062211/pu/vid/480x270/DWfClVOaEYNRq4_-.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1433617793300062211/pu/vid/1280x720/zCIwXbOftReNgIiJ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 ELLE KOREA 공식 트위터 official twitter 입니다.",
+			"url": "https://t.co/wrg4l4aKRf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wrg4l4aKRf",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141809,
+			"friends_count": 3458,
+			"listed_count": 456,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1628847252",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 466,
+		"favorite_count": 728,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ELLE네이름택 #TAEYEON #태연 #소녀시대 #GirlsGeneration \n\n태연의 좐머리를 책임져주는 '좐'💜\n핸드폰은 안 챙겨도 '이것'만은! 태연의 '짝궁'은?\n\n바로보기📲https://t.co/U87fFxOVkb\n\n@GirlsGeneration #SMTOWN @SMTOWNGLOBAL https://t.co/bJWhECS7m1"
+	},
+	{
 		"created_at": "Fri Sep 03 03:01:48 +0000 2021",
 		"id": 1433626253014323200,
 		"id_str": "1433626253014323200",
